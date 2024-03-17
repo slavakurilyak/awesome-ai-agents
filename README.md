@@ -16,7 +16,7 @@
 - [E2B](https://github.com/e2b-dev/E2B) by [@e2b-dev](https://github.com/e2b-dev)
 - [AgentGPT](https://github.com/reworkd/AgentGPT) by [@reworkd](https://github.com/reworkd)
 - [langchainjs](https://github.com/langchain-ai/langchainjs) by [@langchain-ai](https://github.com/langchain-ai)
-- [opengpts](https://github.com/langchain-ai/opengpts) by [@langchain-ai](https://github.com/langchain-ai/opengpts)
+- [opengpts](https://github.com/langchain-ai/opengpts) by [@langchain-ai](https://github.com/langchain-ai)
 - [agents](https://github.com/aiwaves-cn/agents) by [@aiwaves-cn](https://github.com/aiwaves-cn)
 - [camel](https://github.com/camel-ai/camel) by [@camel-ai](https://github.com/camel-ai)
 - [LlamaGym](https://github.com/KhoomeiK/LlamaGym) by [@KhoomeiK](https://github.com/KhoomeiK)
@@ -28,12 +28,12 @@
 ## Free AI Agents
 
 - [open-interpreter](https://github.com/KillianLucas/open-interpreter) by [@KillianLucas](https://github.com/KillianLucas)
-- [gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) by [@gpt-engineer-org](https://github.com/gpt-engineer-org/gpt-engineer)
-- [self-operating-computer](https://github.com/OthersideAI/self-operating-computer) by [@OthersideAI](https://github.com/OthersideAI/self-operating-computer)
+- [gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) by [@gpt-engineer-org](https://github.com/gpt-engineer-org)
+- [self-operating-computer](https://github.com/OthersideAI/self-operating-computer) by [@OthersideAI](https://github.com/OthersideAI)
 - [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) by [@Significant-Gravitas](https://github.com/Significant-Gravitas)
 - [babyagi](https://github.com/yoheinakajima/babyagi) by [@yoheinakajima](https://github.com/yoheinakajima)
-- [gpt-researcher](https://github.com/assafelovic/gpt-researcher) (aka Tavily) by [@assafelovic](https://github.com/assafelovic/gpt-researcher)
-- [BrowserGPT](https://github.com/mayt/BrowserGPT) by [@mayt](https://github.com/mayt/BrowserGPT)
+- [gpt-researcher](https://github.com/assafelovic/gpt-researcher) (aka Tavily) by [@assafelovic](https://github.com/assafelovic)
+- [BrowserGPT](https://github.com/mayt/BrowserGPT) by [@mayt](https://github.com/mayt)
 - [AppAgent](https://github.com/mnotgod96/AppAgent) by [@mnotgod96](https://github.com/mnotgod96)
 
 ## Paid AI Agents
