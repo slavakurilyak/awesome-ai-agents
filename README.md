@@ -24,6 +24,8 @@ Here's an awesome list of AI agents:
 
 Here's an awesome list of agentic AI development libraries or frameworks:
 
+- [agency-swarm](https://github.com/VRSEN/agency-swarm) by @VRSEN (FREE) Agency Swarm is a framework designed to automate AI agencies by creating a swarm of collaborative agents with customizable roles and functionalities, aiming to simplify the agent creation process and make automation more intuitive
+    - [Agents-as-a-Service (AaaS)](https://agents.vrsen.ai/) by @VRSEN (PAID) Agent-as-a-Service (AaaS) scales businesses with AI agent teams, offering custom solutions focused on automation, efficiency, and scalability
 - [langchain-ai](https://github.com/langchain-ai/langchain) by [@langchain-ai](https://github.com/langchain-ai) (FREE) LangChain is a framework enabling context-aware reasoning applications with integrated libraries, templates, and developer tools
     - [langchainjs](https://github.com/langchain-ai/langchainjs) by [@langchain-ai](https://github.com/langchain-ai) (FREE) LangChain JS is a framework for developing applications powered by language models, enabling context-aware and reasoning-based applications through composable tools and off-the-shelf chains, with seamless integration with the LangChain Python package
     - [langgraph](https://github.com/langchain-ai/langgraph) by [@langchain-ai](https://github.com/langchain-ai) (FREE) LangGraph is a library facilitating the construction of stateful, multi-actor applications with LLMs, enabling cyclic coordination across multiple computation steps, particularly suited for agent-like behaviors, while also providing streaming support, and various guides and examples for implementation and usage
