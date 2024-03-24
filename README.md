@@ -20,6 +20,7 @@ Here's an awesome list of AI agents:
     - [Tavily](https://tavily.com/) by [@assafelovic](https://github.com/assafelovic) (PAID) Tavily AI is your comprehensive research assistant, offering a platform for rapid insights with a Search API for LLMs, ensuring real-time, accurate, and bias-reduced data gathering and organization, suitable for both individual and enterprise needs
 - [BrowserGPT](https://github.com/mayt/BrowserGPT) by [@mayt](https://github.com/mayt) (FREE) BrowserGPT is a project that combines OpenAI's GPT-4 and the Playwright library to control browsers via natural language, enabling code snippet generation for browser tasks
 - [AppAgent](https://github.com/mnotgod96/AppAgent) by [@mnotgod96](https://github.com/mnotgod96) (FREE) AppAgent is an open-source LLM-based multimodal agent framework for operating smartphone applications through human-like interactions, enabling autonomous exploration or learning from human demonstrations without system back-end access
+- [ChartGPT](https://chartgpt.io/) by [Mental Nexus LLC (PAID) ChartGPT offers AI-driven services like table summarization, charting, and code generation, featuring pay-as-you-go pricing, trusted by major companies, emphasizing data security, ease of use, and 24/7 customer support
 
 ## AI Agents, Development Frameworks
 
