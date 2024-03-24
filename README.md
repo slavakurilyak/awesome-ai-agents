@@ -1,6 +1,6 @@
 # Awesome List of AI Agents
 
-## Using AI Agents
+## AI Agents, Products
 
 Here's an awesome list of AI agents:
 
@@ -21,7 +21,7 @@ Here's an awesome list of AI agents:
 - [BrowserGPT](https://github.com/mayt/BrowserGPT) by [@mayt](https://github.com/mayt) (FREE) BrowserGPT is a project that combines OpenAI's GPT-4 and the Playwright library to control browsers via natural language, enabling code snippet generation for browser tasks
 - [AppAgent](https://github.com/mnotgod96/AppAgent) by [@mnotgod96](https://github.com/mnotgod96) (FREE) AppAgent is an open-source LLM-based multimodal agent framework for operating smartphone applications through human-like interactions, enabling autonomous exploration or learning from human demonstrations without system back-end access
 
-## Developing AI Agents
+## AI Agents, Development Frameworks
 
 Here's an awesome list of agentic AI development libraries or frameworks:
 
@@ -55,7 +55,7 @@ Here's an awesome list of agentic AI development libraries or frameworks:
 - [OpenAGI](https://github.com/agiresearch/OpenAGI) by [@agiresearch](https://github.com/agiresearch) (FREE) OpenAGI is an open-source platform integrating Large Language Models (LLMs) with domain-specific expert models for complex task-solving, fostering a paradigm where LLMs operate various external models, accompanied by a Reinforcement Learning from Task Feedback (RLTF) mechanism for self-improvement
 - [loopgpt](https://github.com/farizrahman4u/loopgpt/) by [@farizrahman4u](https://github.com/farizrahman4u) (FREE) L♾️pGPT is a modular auto-GPT framework with features such as a "Plug N Play" API, GPT 3.5 compatibility, minimal prompt overhead, human-in-the-loop capability, and full state serialization, facilitating easy installation and usage through Python code, CLI, or Docker, with the ability to add custom tools and course correction, along with saving and loading agent state, requiring Python 3.8+ and an OpenAI API Key, and optional setup for Google search support
 
-## Running Local AI Agents
+## AI Agents, Local Models
 
 Here's an awesome list of running AI agents locally (on your own computer):
 
@@ -63,7 +63,7 @@ Here's an awesome list of running AI agents locally (on your own computer):
 - [jan](https://github.com/janhq/jan) by [@janhq](https://github.com/janhq) (FREE) Jan is an open-source, development-stage ChatGPT alternative that operates fully offline on diverse hardware platforms, supporting universal architectures from PCs to multi-GPU clusters
 - [LM Studio](https://lmstudio.ai/) by [@lmstudio-ai](https://github.com/lmstudio-ai) (FREE) LM Studio offers a platform for running various local LLMs like LLaMa, Falcon, MPT, and others offline, featuring a Chat UI, OpenAI-compatible server, and model downloads from Hugging Face, with support for Mac, Windows, and Linux, emphasizing privacy and no data collection, free for personal use
 
-## Fine-Tuning AI Agents
+## AI Agents, Fine-Tuned Models
 
 Here's an awesome list of fine-tuning AI agents for performance:
 
