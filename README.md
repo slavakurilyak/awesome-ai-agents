@@ -4,7 +4,7 @@
 
 Here's an awesome list of AI agents:
 
-- [self-operating-computer]([self-operating-computer](https://github.com/OthersideAI/self-operating-computer)) by [@OthersideAI](https://github.com/OthersideAI) (FREE) Self Operating Computer (SOC) enables multimodal models to autonomously interact with a computer using human-like inputs and outputs, compatible with various models, and under ongoing development for more accurate functionalities
+- [self-operating-computer](https://github.com/OthersideAI/self-operating-computer) by [@OthersideAI](https://github.com/OthersideAI) (FREE) Self Operating Computer (SOC) enables multimodal models to autonomously interact with a computer using human-like inputs and outputs, compatible with various models, and under ongoing development for more accurate functionalities
 - [MultiOn](https://www.multion.ai/)) by [MultiOn Inc.](https://www.multion.ai/) (PAID) MultiOn utilizes AI to automate actions within web browsers, such as form filling, data retrieval, and executing web searches, mimicking human interaction but without manual input, facilitated through a Chrome extension and API for developers
 - [ChatGPT](https://chat.openai.com/) by [OpenAI](https://openai.com/) (FREE and PAID) ChatGPT is an AI language model designed to understand and generate human-like text, facilitating conversation and assisting with various tasks
 - [Devin](https://www.cognition-labs.com/introducing-devin) by [Cognition](https://www.cognition-labs.com/) (PAID) Devin is a fully autonomous AI software engineer, revolutionizing coding with advanced reasoning and planning capabilities
