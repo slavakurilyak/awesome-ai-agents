@@ -4,6 +4,7 @@
 
 Here's an awesome list of AI agents:
 
+- [fingen](https://github.com/sullyo/fingen) by [@sullyo](https://github.com/sullyo) (FREE) FinGen is a financial analysis agent using RSC, LangChain, and Polygon finance API, emphasizing it's not financial advice and requires API keys for use [[announcement](https://twitter.com/SullyOmarr/status/1772282548841791730)]
 - [self-operating-computer](https://github.com/OthersideAI/self-operating-computer) by [@OthersideAI](https://github.com/OthersideAI) (FREE) Self Operating Computer (SOC) enables multimodal models to autonomously interact with a computer using human-like inputs and outputs, compatible with various models, and under ongoing development for more accurate functionalities
 - [MultiOn](https://www.multion.ai/)) by [MultiOn Inc.](https://www.multion.ai/) (PAID) MultiOn utilizes AI to automate actions within web browsers, such as form filling, data retrieval, and executing web searches, mimicking human interaction but without manual input, facilitated through a Chrome extension and API for developers
 - [ChatGPT](https://chat.openai.com/) by [OpenAI](https://openai.com/) (FREE and PAID) ChatGPT is an AI language model designed to understand and generate human-like text, facilitating conversation and assisting with various tasks
