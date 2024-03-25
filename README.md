@@ -28,7 +28,7 @@ Here's an awesome list of AI agents:
 
 Here's an awesome list of agentic AI development libraries or frameworks:
 
-- [agentlabs](https://github.com/agentlabs-inc/agentlabs) by [@agentlabs-inc](https://github.com/agentlabs-inc) (FREE) AgentLabs is an open-source, universal frontend solution for AI agents, offering an authentication portal, chat interface, analytics, and payment features to streamline the deployment of AI agents to public users
+- [agentlabs](https://github.com/agentlabs-inc/agentlabs) by [@agentlabs-inc](https://github.com/agentlabs-inc) (FREE) AgentLabs is an open-source, universal frontend solution for AI agents, offering an authentication portal, chat interface, analytics, and payment features to streamline the deployment of AI agents to public users [[website](https://www.agentlabs.dev/)] [[docs](https://docs.agentlabs.dev/)]
 - [agency-swarm](https://github.com/VRSEN/agency-swarm) by [@VRSEN](https://github.com/VRSEN) (FREE) Agency Swarm is a framework designed to automate AI agencies by creating a swarm of collaborative agents with customizable roles and functionalities, aiming to simplify the agent creation process and make automation more intuitive
     - [Agents-as-a-Service (AaaS)](https://agents.vrsen.ai/) by [@VRSEN](https://github.com/VRSEN) (PAID) Agent-as-a-Service (AaaS) scales businesses with AI agent teams, offering custom solutions focused on automation, efficiency, and scalability
 - [langchain-ai](https://github.com/langchain-ai/langchain) by [@langchain-ai](https://github.com/langchain-ai) (FREE) LangChain is a framework enabling context-aware reasoning applications with integrated libraries, templates, and developer tools
