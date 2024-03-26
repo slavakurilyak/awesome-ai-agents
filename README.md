@@ -81,6 +81,12 @@ Here's an awesome list of fine-tuning AI agents for performance:
 
 - **[LlamaGym](https://github.com/KhoomeiK/LlamaGym) by [@KhoomeiK](https://github.com/KhoomeiK)**: LlamaGym simplifies the fine-tuning of LLM agents with online reinforcement learning, providing a framework to iterate and experiment across Gym environments for efficient agent prompting and hyperparameter tuning (FREE) **[NEWLY ADDED]**
 
+## AI Agents, Protocols
+
+Here's an awesome list of AI agent protocols:
+
+- **[Agent Protocol](https://github.com/AI-Engineer-Foundation/agent-protocol) by [@AI-Engineer-Foundation](https://github.com/AI-Engineer-Foundation)**: The Agent Protocol establishes a unified API standard for seamless interaction and integration across diverse AI agents, promoting ecosystem growth and simplification of agent development and benchmarking [[website 1](https://agentprotocol.ai/)] [[website 2](https://www.aie.foundation/)](FREE) **[NEWLY ADDED]**
+
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=slavakurilyak/awesome-ai-agents&type=Date)](https://star-history.com/#slavakurilyak/awesome-ai-agents&Date)
