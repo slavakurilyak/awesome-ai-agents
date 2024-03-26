@@ -32,7 +32,7 @@ Here's an awesome list of AI agents:
 
 Here's an awesome list of agentic AI development libraries or frameworks:
 
-- **[agentlabs](https://github.com/agentlabs-inc/agentlabs) by [@agentlabs-inc](https://github.com/agentlabs-inc)**: AgentLabs is an open-source, universal frontend solution for AI agents, offering an authentication portal, chat interface, analytics, and payment features to streamline the deployment of AI agents to public users [[website](https://www.agentlabs.dev/)] [[docs](https://docs.agentlabs.dev/)] (FREE)
+- **[agentlabs](https://github.com/agentlabs-inc/agentlabs) by [@agentlabs-inc](https://github.com/agentlabs-inc)**: AgentLabs is an open-source, universal frontend solution for AI agents, offering an authentication portal, chat interface, analytics, and payment features to streamline the deployment of AI agents to public users [[website](https://www.agentlabs.dev/)] [[docs](https://docs.agentlabs.dev/)] (FREE) **[NEWLY ADDED]**
 - **[agency-swarm](https://github.com/VRSEN/agency-swarm) by [@VRSEN](https://github.com/VRSEN)**: Agency Swarm is a framework designed to automate AI agencies by creating a swarm of collaborative agents with customizable roles and functionalities, aiming to simplify the agent creation process and make automation more intuitive (FREE)
     - **[Agents-as-a-Service (AaaS)](https://agents.vrsen.ai/) by [@VRSEN](https://github.com/VRSEN)**: Agent-as-a-Service (AaaS) scales businesses with AI agent teams, offering custom solutions focused on automation, efficiency, and scalability (PAID)
 - **[langchain-ai](https://github.com/langchain-ai/langchain) by [@langchain-ai](https://github.com/langchain-ai)**: LangChain is a framework enabling context-aware reasoning applications with integrated libraries, templates, and developer tools (FREE)
@@ -70,6 +70,7 @@ Here's an awesome list of agentic AI development libraries or frameworks:
 
 Here's an awesome list of running AI agents locally (on your own computer):
 
+- **[pinokio](https://github.com/pinokiocomputer/pinokio) by [@pinokiocomputer](https://github.com/pinokiocomputer)**: Pinokio is a browser that enables the installation, running, and programmable control of any application with one click, supporting any open-source repo locally, including LLM or AI agent-based projects [[website](https://pinokio.computer/)] (FREE) **[NEWLY ADDED]**
 - **[ollama](https://github.com/ollama/ollama) by [@ollama](https://github.com/ollama)**: Ollama is a tool for running large language models locally, offering easy setup for macOS, Windows, Linux, and Docker, along with a library of models and quickstart guides for customization and integration (FREE)
 - **[jan](https://github.com/janhq/jan) by [@janhq](https://github.com/janhq)**: Jan is an open-source, development-stage ChatGPT alternative that operates fully offline on diverse hardware platforms, supporting universal architectures from PCs to multi-GPU clusters (FREE)
 - **[LM Studio](https://lmstudio.ai/) by [@lmstudio-ai](https://github.com/lmstudio-ai)**: LM Studio offers a platform for running various local LLMs like LLaMa, Falcon, MPT, and others offline, featuring a Chat UI, OpenAI-compatible server, and model downloads from Hugging Face, with support for Mac, Windows, and Linux, emphasizing privacy and no data collection, free for personal use (FREE)
@@ -78,7 +79,7 @@ Here's an awesome list of running AI agents locally (on your own computer):
 
 Here's an awesome list of fine-tuning AI agents for performance:
 
-- **[LlamaGym](https://github.com/KhoomeiK/LlamaGym) by [@KhoomeiK](https://github.com/KhoomeiK)**: LlamaGym simplifies the fine-tuning of LLM agents with online reinforcement learning, providing a framework to iterate and experiment across Gym environments for efficient agent prompting and hyperparameter tuning (FREE)
+- **[LlamaGym](https://github.com/KhoomeiK/LlamaGym) by [@KhoomeiK](https://github.com/KhoomeiK)**: LlamaGym simplifies the fine-tuning of LLM agents with online reinforcement learning, providing a framework to iterate and experiment across Gym environments for efficient agent prompting and hyperparameter tuning (FREE) **[NEWLY ADDED]**
 
 ## Star History
 
