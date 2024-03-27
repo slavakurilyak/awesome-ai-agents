@@ -4,6 +4,7 @@
 
 Here's an awesome list of AI agents:
 
+- **Cosmo**: Cosmo offers an all-inclusive AI agent for merchants on WhatsApp, enabling order placements, customer interaction, automatic question answering, inventory and CRM integration, with features like instant payments, customer insights, dynamic order fulfillment, and a comprehensive merchant web app for online transaction management, aimed at simplifying shopping and boosting sales by 57% [[website](https://meetcosmo.ai/)] [[demo](https://x.com/AlexReibman/status/1772775416044126608)] (COMING SOON)
 -**Deepgram**: Conversational AI tools designed for creating voice bots and agents, featuring realistic, low-latency voice technology. [[demo](https://x.com/AlexReibman/status/1772774552260788296)] (COMING SOON)
 - **Deepunit**: An AI agent designed to generate unit tests for complete code coverage across your project, requiring only your repository as input [[demo](https://x.com/AlexReibman/status/1772773773772779533)] (COMING SOON)
 - **[GitWit](https://gitwit.dev/) by [@gitwitorg](https://github.com/gitwitorg)**: GitWit is an online tool that accelerates web app development with AI, supporting React, Tailwind, and NodeJS, boasting a 3X speed increase and over 1000 projects generated [[website](https://gitwit.dev/)] [[discord](https://discord.gitwit.dev/)] (FREE)
