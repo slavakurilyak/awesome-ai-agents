@@ -192,6 +192,12 @@ To express your support, you can take the following actions:
 2. **Submit Suggestions**: If you have any ideas or feedback, please open a new issue [here](https://github.com/slavakurilyak/awesome-ai-agents/issues/new).
 3. **Contribute Directly**: You can contribute by forking this repository and then submitting your contributions through a new pull request [here](https://github.com/slavakurilyak/awesome-ai-agents/fork).
 
-## Share The Love
+## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=slavakurilyak/awesome-ai-agents&type=Date)](https://star-history.com/#slavakurilyak/awesome-ai-agents&Date)
+<a href="https://star-history.com/#slavakurilyak/awesome-ai-agents&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=slavakurilyak/awesome-ai-agents&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=slavakurilyak/awesome-ai-agents&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=slavakurilyak/awesome-ai-agents&type=Date" />
+ </picture>
+</a>
