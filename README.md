@@ -1,6 +1,6 @@
 # Awesome List of AI Agents
 
-This project aims to track the latest agentic AI developments including: 30+ agents and 35+ agent frameworks
+This project aims to track the latest agentic AI developments including: 30+ agents, 35+ agent frameworks
 
 This list was created and updated by: Slava Kurilyak
 
@@ -13,6 +13,8 @@ Want to see more agentic AI content from Slava?
 ## AI Agents
 
 Here's an awesome list of AI agents:
+
+1. **vimGPT**: vimGPT is a project that integrates GPT-4V's vision capabilities with the Vimium extension to enable web browsing and interaction through keyboard navigation and voice commands, offering innovative solutions and improvements for accessibility and efficiency | [github](https://github.com/ishan0102/vimGPT) | [demo](https://github.com/ishan0102/vimGPT/tree/main?tab=readme-ov-file#vimgpt) | [hackernews](https://news.ycombinator.com/item?id=38200308)
 
 1. **Devika**: Devika is an open-source AI software engineer designed to understand and execute high-level coding tasks by researching, planning, and writing code, aiming to be a competitive alternative to Cognition AI's Devin | [github](https://github.com/stitionai/devika) | [demo](https://github.com/stitionai/devika?tab=readme-ov-file#demos) | [discord](https://discord.com/invite/8eYNbPuB)
 
