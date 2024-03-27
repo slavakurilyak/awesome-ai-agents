@@ -4,7 +4,7 @@ This project aims to track the latest agentic AI developments including: 30+ age
 
 This list was created and updated by: Slava Kurilyak
 
-Want to see more from Slava? 
+Want to see more agentic AI content from Slava? 
 
 1. Follow me on Github at [@slavakurilyak](https://github.com/slavakurilyak)
 2. Follow me on X at [@slavakurilyak](https://twitter.com/slavakurilyak)
