@@ -80,6 +80,8 @@ Here's an awesome list of AI agents:
 
 Here's an awesome list of agentic AI development libraries or frameworks:
 
+1. **Central by Zapier**: Zapier Central is an AI workspace designed to automate tasks across 6,000+ apps with AI bots, offering capabilities like live data connection, AI automation, and interaction with data sources for businesses and individual productivity enhancements | [announcement](https://zapier.com/blog/introducing-zapier-central-ai-bots/) | [website](https://zapier.com/central)
+
 1. **Tarsier by Reworkd**: Tarsier is an open-source utility library by Reworkd, aimed at enhancing web interaction for AI agents by visually tagging interactable elements, facilitating actions based on text or "screenshots" for GPT-4(V) and providing OCR utilities | [github](https://github.com/reworkd/tarsier) | [website](https://reworkd.ai/) | [demo](https://x.com/AlexReibman/status/1772771884717011103)
 
 1. **AgentGPT by Reworkd**: AgentGPT allows users to configure and deploy autonomous AI agents, enabling them to name their own custom AI and guide it towards any desired goal through task execution and learning | [github](https://github.com/reworkd/AgentGPT) | [github profile](https://github.com/reworkd)
