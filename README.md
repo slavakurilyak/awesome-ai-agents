@@ -14,6 +14,8 @@ Want to see more from Slava?
 
 Here's an awesome list of AI agents:
 
+1. **Devika**: Devika is an open-source AI software engineer designed to understand and execute high-level coding tasks by researching, planning, and writing code, aiming to be a competitive alternative to Cognition AI's Devin | [github](https://github.com/stitionai/devika) | [demo](https://github.com/stitionai/devika?tab=readme-ov-file#demos) | [discord](https://discord.com/invite/8eYNbPuB)
+
 1. **OpenPipe**: Optimize AI agents with language models that are faster and 14x more cost-effective than OpenAI's solutions | [demo](https://x.com/AlexReibman/status/1772782206957895797)
 
 1. **Waii**: A swift and straightforward AI agent for converting natural language to SQL queries, seamlessly integrable with your application | [demo](https://x.com/AlexReibman/status/1772777493122163107)
