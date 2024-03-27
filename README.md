@@ -170,16 +170,28 @@ Here's an awesome list of AI agents applying reinforcement learning:
 
 Here's an awesome list of AI agent protocols:
 
-1. **Agent Protocol**: The Agent Protocol establishes a unified API standard for seamless interaction and integration across diverse AI agents, promoting ecosystem growth and simplification of agent development and benchmarking | [website](https://agentprotocol.ai/) | [website org](https://www.aie.foundation/) | [github](https://github.com/AI-Engineer-Foundation/agent-protocol) | [github profile](https://github.com/AI-Engineer-Foundation) 
+1. **Agent Protocol**: The Agent Protocol establishes a unified API standard for seamless interaction and integration across diverse AI agents, promoting ecosystem growth and simplification of agent development and benchmarking | [website](https://agentprotocol.ai/) | [website org](https://www.aie.foundation/) | [github](https://github.com/AI-Engineer-Foundation/agent-protocol) | [github profile](https://github.com/AI-Engineer-Foundation)
 
-## Star History
+## AI Agents + Bitcoin
 
-[![Star History Chart](https://api.star-history.com/svg?repos=slavakurilyak/awesome-ai-agents&type=Date)](https://star-history.com/#slavakurilyak/awesome-ai-agents&Date)
+Here's an awesome list of LLMs with function calling (aka tools) which unlocks Bitcoin payments:
 
-## Support
+1. **LangChainBitcoin by Lightning Labs**: LangChainBitcoin is a toolset for enabling LangChain agents to interact with Bitcoin, the Lightning Network, and APIs requiring L402-based authentication, including features for Bitcoin transactions and API traversal with automated Lightning payments | [announcement](https://lightning.engineering/posts/2023-07-05-l402-langchain/) | [github](https://github.com/lightninglabs/LangChainBitcoin)
+
+1. **Agent Tools by AIBTCDev** Typescript tools for Bitcoin/Stacks blockchain interaction, utilizing Bun.js and Stacks.js, with a focus on AI integration | [github](https://github.com/aibtcdev/agent-tools-ts) | [github profile](https://github.com/aibtcdev) | [website](https://aibtc.dev/) | [discord](https://discord.gg/5DJaBrf)
+
+1. **AI Agent Crew by AIBTCDev**: Langchain and CrewAI have launched AI agents equipped with Bitcoin wallets, facilitating automated operations within a blockchain environment | [github](https://github.com/aibtcdev/ai-agent-crew) | [github profile](https://github.com/aibtcdev) | [website](https://aibtc.dev/) | [discord](https://discord.gg/5DJaBrf)
+
+1. **Gated 402 API by AIBTCDev**: | An API using a Stacks smart contract to control access, issuing a 200 status for access approval and a 402 with payment instructions for denial | [github](https://github.com/aibtcdev/gated-402-api) | [github profile](https://github.com/aibtcdev) | [website](https://aibtc.dev/) | [discord](https://discord.gg/5DJaBrf)
+
+## Show Your Support
 
 To express your support, you can take the following actions:
 
 1. **Star the Repository**: This helps increase its visibility.
 2. **Submit Suggestions**: If you have any ideas or feedback, please open a new issue [here](https://github.com/slavakurilyak/awesome-ai-agents/issues/new).
 3. **Contribute Directly**: You can contribute by forking this repository and then submitting your contributions through a new pull request [here](https://github.com/slavakurilyak/awesome-ai-agents/fork).
+
+## Share The Love
+
+[![Star History Chart](https://api.star-history.com/svg?repos=slavakurilyak/awesome-ai-agents&type=Date)](https://star-history.com/#slavakurilyak/awesome-ai-agents&Date)
