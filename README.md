@@ -94,6 +94,8 @@ Here's an awesome list of AI agents:
 
 Here's an awesome list of agentic AI development libraries or frameworks:
 
+1. **Adala**: Adala is a framework for autonomous data labeling agents, supporting Python 3.8 to 3.11, with features for customizable, intelligent data processing and integration into Python Notebooks | [github](https://github.com/HumanSignal/Adala)
+
 1. **Agentive**: Agentive is a platform for AI Automation Agency owners, offering tools for creating, managing, and deploying custom AI solutions, with features like model selection, tool integration, prompt crafting, versioning, and training with own data, designed to simplify AI agent delivery | [website](https://agentivehub.com/) | [announcement](https://www.morningside.ai/blog/introducing-agentive-by-morningside-ai)
 
 1. **Central by Zapier**: Zapier Central is an AI workspace designed to automate tasks across 6,000+ apps with AI bots, offering capabilities like live data connection, AI automation, and interaction with data sources for businesses and individual productivity enhancements | [announcement](https://zapier.com/blog/introducing-zapier-central-ai-bots/) | [website](https://zapier.com/central)
