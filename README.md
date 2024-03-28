@@ -88,6 +88,8 @@ Here's an awesome list of AI agents:
 
 1. **ChartGPT**: ChartGPT offers AI-driven services like table summarization, charting, and code generation, featuring pay-as-you-go pricing, trusted by major companies, emphasizing data security, ease of use, and 24/7 customer support | [website](https://chartgpt.io)
 
+1. **AI Agent Assist by DialPad**: Dialpad introduces Ai Agent Assist, offering real-time, Ai-powered answers to enhance customer service through deep integrations, reducing agent ramp time, and providing actionable insights with out-of-the-box productivity | [landing page](https://www.dialpad.com/ai-labs/ai-agent-assist/)
+
 ## AI Agents + Development Frameworks
 
 Here's an awesome list of agentic AI development libraries or frameworks:
