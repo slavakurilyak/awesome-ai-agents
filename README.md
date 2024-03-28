@@ -88,8 +88,6 @@ Here's an awesome list of agentic AI development libraries or frameworks:
 
 1. **AgentGPT by Reworkd**: AgentGPT allows users to configure and deploy autonomous AI agents, enabling them to name their own custom AI and guide it towards any desired goal through task execution and learning | [github](https://github.com/reworkd/AgentGPT) | [github profile](https://github.com/reworkd)
 
-1. **AgentOps**: AgentOps aims to improve AI agent development with tools for observability, evaluations, and replay analytics, offering a streamlined process for testing and debugging compliant AI agents through a user-friendly interface and comprehensive documentation | [github](https://github.com/AgentOps-AI/agentops) | [website](https://www.agentops.ai/) | [docs](https://docs.agentops.ai) | [discord](https://discord.gg/mKW3ZhN9p2) | [demo](https://x.com/AlexReibman/status/1772771418780176674)
-
 1. **AgentLabs**: AgentLabs is an open-source, universal frontend solution for AI agents, offering an authentication portal, chat interface, analytics, and payment features to streamline the deployment of AI agents to public users | [github](https://github.com/agentlabs-inc/agentlabs) | [website](https://www.agentlabs.dev/) | [docs](https://docs.agentlabs.dev/)
 
 1. **Agency Swarm by VRSEN**: Agency Swarm is a framework designed to automate AI agencies by creating a swarm of collaborative agents with customizable roles and functionalities, aiming to simplify the agent creation process and make automation more intuitive | [github](https://github.com/VRSEN/agency-swarm)
@@ -154,6 +152,22 @@ Here's an awesome list of agentic AI development libraries or frameworks:
 
 1. **Flowise**: Flowise simplifies the creation of applications leveraging large language models (LLMs) by providing a drag-and-drop interface for customizing AI workflows, offering easy installation, Docker support, development tools, and documentation for integrating various functionalities such as authentication, streaming, and custom tools to enhance AI agents' capabilities | [website](https://flowiseai.com/) | [docs](https://docs.flowiseai.com/) | [github profile](https://github.com/FlowiseAI)
 
+## AI Agents + Evaluation Frameworks
+
+Here's an awesome list of eval frameworks for AI agents:
+
+1. **AgentOps**: AgentOps aims to improve AI agent development with tools for observability, evaluations, and replay analytics, offering a streamlined process for testing and debugging compliant AI agents through a user-friendly interface and comprehensive documentation | [github](https://github.com/AgentOps-AI/agentops) | [website](https://www.agentops.ai/) | [docs](https://docs.agentops.ai) | [discord](https://discord.gg/mKW3ZhN9p2) | [demo](https://x.com/AlexReibman/status/1772771418780176674)
+
+1. **Bananalyzer by Reworkd**: Bananalyzer is a framework for evaluating AI agents on web tasks, utilizing Playwright for creating diverse datasets of website snapshots for reliable and varied web task assessments | [website](https://reworkd.ai) | [github](https://github.com/reworkd/bananalyzer)
+
+## AI Agents + Observability Frameworks
+
+Here's an awesome list of monitoring frameworks for AI agents:
+
+1. **LangSmith by LangChain**: LangSmith provides tools for debugging, testing, evaluating, and monitoring LLM applications, integrating seamlessly with LangChain for comprehensive AI agent observability | [docs](https://docs.smith.langchain.com) | [website](https://smith.langchain.com)
+
+1. **Traces by Weights & Biases**: W&B Traces enhances AI agent observability by providing intuitive visualizations for debugging LLMs, allowing practitioners to review past results, debug errors, and gain insights into model behavior | [website](https://wandb.ai/site/traces)
+
 ## AI Agents + Local Models
 
 Here's an awesome list of running AI agents locally (on your own computer):
@@ -166,7 +180,7 @@ Here's an awesome list of running AI agents locally (on your own computer):
 
 1. **LM Studio**: LM Studio offers a platform for running various local LLMs like LLaMa, Falcon, MPT, and others offline, featuring a Chat UI, OpenAI-compatible server, and model downloads from Hugging Face, with support for Mac, Windows, and Linux, emphasizing privacy and no data collection, free for personal use | [website](https://lmstudio.ai/) | [github profile](https://github.com/lmstudio-ai)
 
-## AI Agents + Reinforcement Learning
+## AI Agents + Reinforcement Learning Frameworks
 
 Here's an awesome list of AI agents applying reinforcement learning:
 
@@ -191,10 +205,6 @@ Here's an awesome list of LLMs with function calling (aka tools) which unlocks B
 1. **AI Agent Crew by AIBTCDev**: Langchain and CrewAI have launched AI agents equipped with Bitcoin wallets, facilitating automated operations within a blockchain environment | [github](https://github.com/aibtcdev/ai-agent-crew) | [github profile](https://github.com/aibtcdev) | [website](https://aibtc.dev/) | [discord](https://discord.gg/5DJaBrf)
 
 1. **Gated 402 API by AIBTCDev**: | An API using a Stacks smart contract to control access, issuing a 200 status for access approval and a 402 with payment instructions for denial | [github](https://github.com/aibtcdev/gated-402-api) | [github profile](https://github.com/aibtcdev) | [website](https://aibtc.dev/) | [discord](https://discord.gg/5DJaBrf)
-
-## AI Agents + Evaluation Frameworks
-
-1. **Bananalyzer by Reworkd**: Bananalyzer is a framework for evaluating AI agents on web tasks, utilizing Playwright for creating diverse datasets of website snapshots for reliable and varied web task assessments | [website](https://reworkd.ai) | [github](https://github.com/reworkd/bananalyzer)
 
 ## AI Agents + Hardware (Wearables)
 
