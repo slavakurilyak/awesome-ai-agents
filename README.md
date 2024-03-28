@@ -196,7 +196,11 @@ Here's an awesome list of LLMs with function calling (aka tools) which unlocks B
 
 1. **01 by Open Interpreter**: The "01 Project" is an open-source initiative focused on creating an ecosystem for AI devices, aiming to become the GNU/Linux in this domain, with details on its experimental status, software, hardware, and a speech-to-speech interface based on a code-interpreting language model for dynamic interactions | [announcement](https://changes.openinterpreter.com/log/introducing-the-01-developer-preview) | [demo](https://twitter.com/OpenInterpreter/status/1770821439458840846) | [github](https://github.com/OpenInterpreter/01) | [website](http://openinterpreter.com/01) | [docs](https://01.openinterpreter.com/)
 
-1. **Humane**: AI Pin, a wearable, multi-modal device, enhances ambient computing in the real world, offering a suite of AI digital assistants for various tasks while prioritizing user privacy for a more intuitive, human-centered experience | [website](https://humane.com/) 
+1. **Humane**: AI Pin, a wearable, multi-modal device, enhances ambient computing in the real world, offering a suite of AI digital assistants for various tasks while prioritizing user privacy for a more intuitive, human-centered experience | [website](https://humane.com/)
+
+## AI Agents + Guardrails
+
+1. **IvyCheck**: IvyCheck offers an API for real-time AI application safety checks, preventing prompt injection attacks, PII data leakage, and hallucinations in agentic AI development [github](https://github.com/ivycheck/ivycheck-python-sdk) | [announcement](https://www.ycombinator.com/launches/KkA-ivycheck-guard-against-ai-risks-with-real-time-checks) | [website](https://ivycheck.com)
 
 ## Show Your Support
 
