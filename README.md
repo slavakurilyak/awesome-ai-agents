@@ -244,6 +244,8 @@ Here's an awesome list of enforcing structured outputs from AI agents:
 
 1. **Outlines**: Outlines is a robust text generation library designed for agentic AI developers, featuring support for multiple model integrations, advanced prompting with Jinja, efficient structured generation through regex, JSON schema, context-free grammars, and more, enabling the creation of predictable and structured AI agent outputs | [github](https://github.com/outlines-dev/outlines) | [website](https://outlines-dev.github.io/outlines/) | [discord](https://discord.gg/ZxBxyWmW5n)
 
+1. **Marvin**: Marvin is an open-source AI toolkit designed for developers focused on enhancing AI agent capabilities, offering tools for natural language interfaces, image and audio generation, and entity extraction, scalable and easy to integrate into existing projects | [github](https://github.com/PrefectHQ/marvin/) | [website](https://askmarvin.ai/)
+
 ## Show Your Support
 
 To express your support, you can take the following actions:
