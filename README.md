@@ -1,10 +1,8 @@
 # Awesome List of AI Agents
 
-This project tracks the latest agentic AI developments and provides a list of 100+ resources
+This project tracks the latest agentic AI projects and provides a list of 100+ resources, curated by Slava Kurilyak
 
-This list was created and updated by: Slava Kurilyak
-
-Want to see more agentic AI content from me? 
+Want to see more agentic AI content from Slava?
 
 1. Follow me on Github at [@slavakurilyak](https://github.com/slavakurilyak)
 2. Follow me on X at [@slavakurilyak](https://twitter.com/slavakurilyak)
