@@ -164,6 +164,8 @@ Here's an awesome list of agentic AI development libraries or frameworks:
 
 1. **Lobe Chat**: Lobe Chat is an open-source UI framework for building ChatGPT/LLM-based chat applications, featuring modern design, speech synthesis, multi-modal support, extensible plugins, and free one-click deployment for various AI agents | [github](https://github.com/lobehub/lobe-chat) | [website](https://chat-preview.lobehub.com/)
 
+1. **CodeActAgent**: CodeActAgent, trained on CodeActInstruct, showcases superior performance in both in-domain and out-of-domain tasks, enabling dynamic code execution and multi-turn interactions for more effective LLM agents | [github](https://github.com/xingyaoww/code-act)
+
 ## AI Agents + Evaluation Frameworks
 
 Here's an awesome list of eval frameworks for AI agents:
