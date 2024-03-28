@@ -1,10 +1,10 @@
 # Awesome List of AI Agents
 
-This project aims to track the latest agentic AI developments including: 30+ agents, 35+ agent frameworks
+This project tracks the latest agentic AI developments and provides a list of 100+ resources
 
 This list was created and updated by: Slava Kurilyak
 
-Want to see more agentic AI content from Slava? 
+Want to see more agentic AI content from me? 
 
 1. Follow me on Github at [@slavakurilyak](https://github.com/slavakurilyak)
 2. Follow me on X at [@slavakurilyak](https://twitter.com/slavakurilyak)
@@ -239,6 +239,8 @@ Here's an awesome list of enforcing structured outputs from AI agents:
 1. **Instructor**: Instructor, a Python library, facilitates working with structured outputs from large language models (LLMs), offering features like response model specification, retry management, validation, and streaming support, primarily aimed at enhancing workflows of AI agents utilizing LLMs | [github](https://github.com/jxnl/instructor) | [website](https://python.useinstructor.com/)
 
 1. **Pydantic**: Pydantic is a Python library facilitating data validation through type hints, particularly useful for AI agents, offering fast validation capabilities and compatibility with various development tools | [github](https://github.com/pydantic/pydantic) | [website](https://docs.pydantic.dev/)
+
+1. **Outlines**: Outlines is a robust text generation library designed for agentic AI developers, featuring support for multiple model integrations, advanced prompting with Jinja, efficient structured generation through regex, JSON schema, context-free grammars, and more, enabling the creation of predictable and structured AI agent outputs | [github](https://github.com/outlines-dev/outlines) | [website](https://outlines-dev.github.io/outlines/) | [discord](https://discord.gg/ZxBxyWmW5n)
 
 ## Show Your Support
 
