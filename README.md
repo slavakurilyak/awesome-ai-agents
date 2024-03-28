@@ -18,6 +18,8 @@ Here's an awesome list of AI agents:
 
 1. **Devika**: Devika is an open-source AI software engineer designed to understand and execute high-level coding tasks by researching, planning, and writing code, aiming to be a competitive alternative to Cognition AI's Devin | [github](https://github.com/stitionai/devika) | [demo](https://github.com/stitionai/devika?tab=readme-ov-file#demos) | [discord](https://discord.com/invite/8eYNbPuB)
 
+1. **Codel**: Autonomous AI agent, inspired by Devin, designed for complex task execution with features like a secure sandboxed Docker environment, integrated browser for real-time web information, text editor, and PostgreSQL database for history tracking, highlighting its relevance to agentic AI through its ability to autonomously navigate and perform actions across terminal, browser, and editor interfaces | [announcement](https://news.ycombinator.com/item?id=39799296) | [github](https://github.com/semanser/codel) | [github user](https://github.com/semanser)
+
 1. **Devin by Cognition**: Devin is a fully autonomous AI software engineer, revolutionizing coding with advanced reasoning and planning capabilities | [announcement](https://www.cognition-labs.com/introducing-devin) | [website](https://www.cognition-labs.com/)
 
 1. **vimGPT**: vimGPT is a project that integrates GPT-4V's vision capabilities with the Vimium extension to enable web browsing and interaction through keyboard navigation and voice commands, offering innovative solutions and improvements for accessibility and efficiency | [github](https://github.com/ishan0102/vimGPT) | [demo](https://github.com/ishan0102/vimGPT/tree/main?tab=readme-ov-file#vimgpt) | [hackernews](https://news.ycombinator.com/item?id=38200308)
@@ -39,8 +41,6 @@ Here's an awesome list of AI agents:
 1. **Harpa**: Harpa is a versatile Chrome extension that integrates AI capabilities, such as summarizing content, automating workflows, and enhancing productivity, supported by GPT-4 and Claude 2, trusted by 300,000+ professionals | [website](https://harpa.ai/)
 
 1. **AI Assistant by Deco**: Deco provides a GPT-powered, multilingual AI Sales Assistant designed to personalize and automate the shopping experience, boost sales, and increase operational efficiency for online stores | [website](https://deco.cx/ai-assistant) | [github profile](https://github.com/deco-cx)
-
-1. **Codel**: Autonomous AI agent designed for complex task execution with features like a secure sandboxed Docker environment, integrated browser for real-time web information, text editor, and PostgreSQL database for history tracking, highlighting its relevance to agentic AI through its ability to autonomously navigate and perform actions across terminal, browser, and editor interfaces | [announcement](https://news.ycombinator.com/item?id=39799296) | [github](https://github.com/semanser/codel) | [github user](https://github.com/semanser)
 
 1. **FinGen**: FinGen is a financial analysis agent using RSC, LangChain, and Polygon finance API, emphasizing it's not financial advice and requires API keys for use | [announcement](https://twitter.com/SullyOmarr/status/1772282548841791730) | [github](https://github.com/sullyo/fingen) | [github user](https://github.com/sullyo)
 
