@@ -214,13 +214,31 @@ Here's an awesome list of LLMs with function calling (aka tools) which unlocks B
 
 ## AI Agents + Hardware (Wearables)
 
+Here's an awesome list of AI agents running on hardware or is in a form of a wearable:
+
 1. **01 by Open Interpreter**: The "01 Project" is an open-source initiative focused on creating an ecosystem for AI devices, aiming to become the GNU/Linux in this domain, with details on its experimental status, software, hardware, and a speech-to-speech interface based on a code-interpreting language model for dynamic interactions | [announcement](https://changes.openinterpreter.com/log/introducing-the-01-developer-preview) | [demo](https://twitter.com/OpenInterpreter/status/1770821439458840846) | [github](https://github.com/OpenInterpreter/01) | [website](http://openinterpreter.com/01) | [docs](https://01.openinterpreter.com/)
 
 1. **Humane**: AI Pin, a wearable, multi-modal device, enhances ambient computing in the real world, offering a suite of AI digital assistants for various tasks while prioritizing user privacy for a more intuitive, human-centered experience | [website](https://humane.com/)
 
 ## AI Agents + Guardrails (Safety)
 
+Here's an awesome list of guardrail frameworks that enforce safety for AI agents:
+
 1. **IvyCheck**: IvyCheck offers an API for real-time AI application safety checks, preventing prompt injection attacks, PII data leakage, and hallucinations in agentic AI development [github](https://github.com/ivycheck/ivycheck-python-sdk) | [announcement](https://www.ycombinator.com/launches/KkA-ivycheck-guard-against-ai-risks-with-real-time-checks) | [website](https://ivycheck.com)
+
+1. **Guardrails by Guardrails AI**: Guardrails is a Python framework for building reliable AI applications, offering Input/Output Guards to detect and mitigate risks, along with structured data generation from large language models (LLMs) | [github](https://github.com/guardrails-ai/guardrails) | [twitter](https://twitter.com/guardrails_ai)
+
+1. **NeMo Guardrails by Nvidia**: NeMo Guardrails is an open-source toolkit facilitating the integration of programmable guardrails, essential for steering and safeguarding AI agents' conversational outputs, into large language model-based applications | [github](https://github.com/NVIDIA/NeMo-Guardrails) | [paper](https://arxiv.org/abs/2310.10501)
+
+## AI Agents + Structured Outputs
+
+Here's an awesome list of enforcing structured outputs from AI agents:
+
+1. **FuzzTypes**: FuzzTypes is a Pydantic extension library providing autocorrecting annotation types, enhancing Pydantic's data conversions for AI agents by enabling powerful normalization capabilities like named entity linking to ensure structured data consists of "smart things" instead of "dumb strings" | [github](https://github.com/genomoncology/FuzzTypes) | [website](https://www.genomoncology.com/)
+
+1. **Instructor**: Instructor, a Python library, facilitates working with structured outputs from large language models (LLMs), offering features like response model specification, retry management, validation, and streaming support, primarily aimed at enhancing workflows of AI agents utilizing LLMs | [github](https://github.com/jxnl/instructor) | [website](https://python.useinstructor.com/)
+
+1. **Pydantic**: Pydantic is a Python library facilitating data validation through type hints, particularly useful for AI agents, offering fast validation capabilities and compatibility with various development tools | [github](https://github.com/pydantic/pydantic) | [website](https://docs.pydantic.dev/)
 
 ## Show Your Support
 
