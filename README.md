@@ -14,6 +14,8 @@ Want to see more agentic AI content from Slava?
 
 Here's an awesome list of AI agents:
 
+1. **Devin by Cognition**: Devin is a fully autonomous AI software engineer, revolutionizing coding with advanced reasoning and planning capabilities | [announcement](https://www.cognition-labs.com/introducing-devin) | [website](https://www.cognition-labs.com/)
+
 1. **OpenDevin**: OpenDevin is an open-source initiative aimed at replicating and enhancing the autonomous AI software engineer Devin, focusing on collaboration and complex task execution in software development, emphasizing its relevance to advancing agentic AI technologies | [github](https://github.com/OpenDevin/OpenDevin) | [github profile](https://github.com/OpenDevin)
 
 1. **Devika**: Devika is an open-source AI software engineer designed to understand and execute high-level coding tasks by researching, planning, and writing code, aiming to be a competitive alternative to Cognition AI's Devin | [github](https://github.com/stitionai/devika) | [demo](https://github.com/stitionai/devika?tab=readme-ov-file#demos) | [discord](https://discord.com/invite/8eYNbPuB)
@@ -22,7 +24,7 @@ Here's an awesome list of AI agents:
 
 1. **GPT Pilot**: GPT Pilot is an open-source AI developer tool that aims to provide a comprehensive development companion, capable of writing features, debugging, and interacting with users, presenting itself as an alternative to Devin, the world's first AI software engineer developed by Cognition Labs | [github](https://github.com/Pythagora-io/gpt-pilot) | [discord](https://discord.gg/HaqXugmxr9)
 
-1. **Devin by Cognition**: Devin is a fully autonomous AI software engineer, revolutionizing coding with advanced reasoning and planning capabilities | [announcement](https://www.cognition-labs.com/introducing-devin) | [website](https://www.cognition-labs.com/)
+1. **AutoDev**: AutoDev is an AI-powered coding assistant offering multilingual support, automatic code generation, and debugging assistance, featuring customizable prompts and specialized tools for development, testing, documentation, and the integration of custom AI agents, with a focus on experimenting and building AI agents using its UI framework | [github](https://github.com/unit-mesh/auto-dev) | [docs](https://ide.unitmesh.cc)
 
 1. **vimGPT**: vimGPT is a project that integrates GPT-4V's vision capabilities with the Vimium extension to enable web browsing and interaction through keyboard navigation and voice commands, offering innovative solutions and improvements for accessibility and efficiency | [github](https://github.com/ishan0102/vimGPT) | [demo](https://github.com/ishan0102/vimGPT/tree/main?tab=readme-ov-file#vimgpt) | [hackernews](https://news.ycombinator.com/item?id=38200308)
 
