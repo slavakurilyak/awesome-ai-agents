@@ -156,6 +156,8 @@ Here's an awesome list of agentic AI development libraries or frameworks:
 
 1. **Flowise**: Flowise simplifies the creation of applications leveraging large language models (LLMs) by providing a drag-and-drop interface for customizing AI workflows, offering easy installation, Docker support, development tools, and documentation for integrating various functionalities such as authentication, streaming, and custom tools to enhance AI agents' capabilities | [website](https://flowiseai.com/) | [docs](https://docs.flowiseai.com/) | [github profile](https://github.com/FlowiseAI)
 
+1. **Lobe Chat**: Lobe Chat is an open-source UI framework for building ChatGPT/LLM-based chat applications, featuring modern design, speech synthesis, multi-modal support, extensible plugins, and free one-click deployment for various AI agents | [github](https://github.com/lobehub/lobe-chat) | [website](https://chat-preview.lobehub.com/)
+
 ## AI Agents + Evaluation Frameworks
 
 Here's an awesome list of eval frameworks for AI agents:
