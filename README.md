@@ -34,6 +34,8 @@ Here's an awesome list of AI agents:
 
 1. **Waii**: A swift and straightforward AI agent for converting natural language to SQL queries, seamlessly integrable with your application | [demo](https://x.com/AlexReibman/status/1772777493122163107)
 
+1. **Data Questionnaire Agent**: A chatbot designed to query users on data integration practices, offering advice based on responses, utilizing a modified Chainlit library for operation | [github](https://github.com/onepointconsulting/data-questionnaire-agent)
+
 1. **Composio**: Composio provides extremely simple integrations and tools for equipping AI agents to manage linear and GitHub issues in just 3 minutes | [demo](https://x.com/AlexReibman/status/1772776340368081211)
 
 1. **Cosmo**: Cosmo offers an all-inclusive AI agent for merchants on WhatsApp, enabling order placements, customer interaction, automatic question answering, inventory and CRM integration, with features like instant payments, customer insights, dynamic order fulfillment, and a comprehensive merchant web app for online transaction management, aimed at simplifying shopping and boosting sales by 57% | [website](https://meetcosmo.ai/) | [demo](https://x.com/AlexReibman/status/1772775416044126608)
