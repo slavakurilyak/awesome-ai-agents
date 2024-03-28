@@ -20,6 +20,8 @@ Here's an awesome list of AI agents:
 
 1. **Codel**: Autonomous AI agent, inspired by Devin, designed for complex task execution with features like a secure sandboxed Docker environment, integrated browser for real-time web information, text editor, and PostgreSQL database for history tracking, highlighting its relevance to agentic AI through its ability to autonomously navigate and perform actions across terminal, browser, and editor interfaces | [announcement](https://news.ycombinator.com/item?id=39799296) | [github](https://github.com/semanser/codel) | [github user](https://github.com/semanser)
 
+1. **GPT Pilot**: GPT Pilot is an open-source AI developer tool that aims to provide a comprehensive development companion, capable of writing features, debugging, and interacting with users, presenting itself as an alternative to Devin, the world's first AI software engineer developed by Cognition Labs | [github](https://github.com/Pythagora-io/gpt-pilot) | [discord](https://discord.gg/HaqXugmxr9)
+
 1. **Devin by Cognition**: Devin is a fully autonomous AI software engineer, revolutionizing coding with advanced reasoning and planning capabilities | [announcement](https://www.cognition-labs.com/introducing-devin) | [website](https://www.cognition-labs.com/)
 
 1. **vimGPT**: vimGPT is a project that integrates GPT-4V's vision capabilities with the Vimium extension to enable web browsing and interaction through keyboard navigation and voice commands, offering innovative solutions and improvements for accessibility and efficiency | [github](https://github.com/ishan0102/vimGPT) | [demo](https://github.com/ishan0102/vimGPT/tree/main?tab=readme-ov-file#vimgpt) | [hackernews](https://news.ycombinator.com/item?id=38200308)
