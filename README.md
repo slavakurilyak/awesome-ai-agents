@@ -2,11 +2,13 @@
 
 This project tracks the latest agentic AI projects and provides a list of 100+ resources, curated by Slava Kurilyak
 
-Want to see more agentic AI content from Slava?
+## Hire Me
 
-1. Follow me on Github at [@slavakurilyak](https://github.com/slavakurilyak)
-2. Follow me on X at [@slavakurilyak](https://twitter.com/slavakurilyak)
-3. Follow me on LinkedIn at [@slavakurilyak](https://www.linkedin.com/in/slavakurilyak)
+Do you have an idea for an AI agent or are you looking for an agentic AI solution? 
+
+[Schedule a discovery call](https://cal.com/produvia/discovery-call) with me
+
+Disclaimer: I am the Founder/CEO at Produvia
 
 ## AI Agents
 
@@ -256,14 +258,6 @@ Here's an awesome list of enforcing structured outputs from AI agents:
 
 1. **Marvin**: Marvin is an open-source AI toolkit designed for developers focused on enhancing AI agent capabilities, offering tools for natural language interfaces, image and audio generation, and entity extraction, scalable and easy to integrate into existing projects | [github](https://github.com/PrefectHQ/marvin/) | [website](https://askmarvin.ai/)
 
-## Show Your Support
-
-To express your support, you can take the following actions:
-
-1. **Star the Repository**: This helps increase its visibility.
-2. **Submit Suggestions**: If you have any ideas or feedback, please open a new issue [here](https://github.com/slavakurilyak/awesome-ai-agents/issues/new).
-3. **Contribute Directly**: You can contribute by forking this repository and then submitting your contributions through a new pull request [here](https://github.com/slavakurilyak/awesome-ai-agents/fork).
-
 ## Star History
 
 <a href="https://star-history.com/#slavakurilyak/awesome-ai-agents&Date">
@@ -273,3 +267,19 @@ To express your support, you can take the following actions:
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=slavakurilyak/awesome-ai-agents&type=Date" />
  </picture>
 </a>
+
+## Show Your Support
+
+To express your support, you can take the following actions:
+
+1. **Star the Repository**: This helps increase its visibility.
+2. **Submit Suggestions**: If you have any ideas or feedback, please open a new issue [here](https://github.com/slavakurilyak/awesome-ai-agents/issues/new).
+3. **Contribute Directly**: You can contribute by forking this repository and then submitting your contributions through a new pull request [here](https://github.com/slavakurilyak/awesome-ai-agents/fork).
+
+## Hire Me
+
+Do you have an idea for an AI agent or are you looking for an agentic AI solution? 
+
+[Schedule a discovery call](https://cal.com/produvia/discovery-call) with me
+
+Disclaimer: I am the Founder/CEO at Produvia
