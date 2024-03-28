@@ -198,9 +198,9 @@ Here's an awesome list of AI agents applying reinforcement learning:
 
 1. **LlamaGym**: LlamaGym simplifies the fine-tuning of LLM agents with online reinforcement learning, providing a framework to iterate and experiment across Gym environments for efficient agent prompting and hyperparameter tuning | [github](https://github.com/KhoomeiK/LlamaGym) | [github profile](https://github.com/KhoomeiK)
 
-## AI Agents + Protocols
+## AI Agents + Standardization
 
-Here's an awesome list of AI agent protocols:
+Here's an awesome list of protocols or standardized ways of interacting with AI agents:
 
 1. **Agent Protocol**: The Agent Protocol establishes a unified API standard for seamless interaction and integration across diverse AI agents, promoting ecosystem growth and simplification of agent development and benchmarking | [website](https://agentprotocol.ai/) | [website org](https://www.aie.foundation/) | [github](https://github.com/AI-Engineer-Foundation/agent-protocol) | [github profile](https://github.com/AI-Engineer-Foundation)
 
