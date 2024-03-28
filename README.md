@@ -76,7 +76,9 @@ Here's an awesome list of AI agents:
 
 1. **BabyAGI**: BabyAGI exemplifies an AI-powered task management system utilizing OpenAI and vector databases like Chroma or Weaviate, creating, prioritizing, and executing tasks based on previous outcomes and predefined objectives, with the main function involving an infinite loop where tasks are processed, enriched, and stored using OpenAI's NLP capabilities and Chroma/Weaviate, inspired by the Task-Driven Autonomous Agent concept | [github](https://github.com/yoheinakajima/babyagi) | [github profile](https://github.com/yoheinakajima)
 
-1. **GPT Researcher**: GPT Researcher is an AI-powered autonomous agent designed for efficient and unbiased online research, generating detailed reports by leveraging recent advancements in AI and web scraping, with a focus on speed, reliability, and cost-effectiveness | [github](https://github.com/assafelovic/gpt-researcher) | [github profile](https://github.com/assafelovic)
+1. **GPT Researcher by Tavily**: GPT Researcher is an AI-powered autonomous agent designed for efficient and unbiased online research, generating detailed reports by leveraging recent advancements in AI and web scraping, with a focus on speed, reliability, and cost-effectiveness | [github](https://github.com/assafelovic/gpt-researcher) | [github profile](https://github.com/assafelovic)
+
+1. **GPT Newspaper by Tavily**: GPT Newspaper is an autonomous agent project using AI to create personalized newspapers based on user preferences, featuring six specialized sub-agents for searching, curating, writing, designing, editing, and publishing content tailored to individual interests | [github](https://github.com/rotemweiss57/gpt-newspaper) | [github profile](https://github.com/rotemweiss57)
     
 1. **Tavily**: Tavily AI is your comprehensive research assistant, offering a platform for rapid insights with a Search API for LLMs, ensuring real-time, accurate, and bias-reduced data gathering and organization, suitable for both individual and enterprise needs | [website](https://tavily.com/) | [github profile](https://github.com/assafelovic)
 
