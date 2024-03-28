@@ -180,7 +180,13 @@ Here's an awesome list of monitoring frameworks for AI agents:
 
 1. **Traces by Weights & Biases**: W&B Traces enhances AI agent observability by providing intuitive visualizations for debugging LLMs, allowing practitioners to review past results, debug errors, and gain insights into model behavior | [website](https://wandb.ai/site/traces)
 
-## AI Agents + Local Models
+## AI Agents + Mobile Deployments
+
+Here's an awesome list of running AI agents on mobile (on your own phone):
+
+1. **NavAIGuide**: NavAIGuide is an extensible multi-modal agentic framework designed for fulfilling plans and queries within the app ecosystem, featuring visual task detection, advanced code selectors, action-oriented execution, and resilient error handling | [github](https://github.com/francedot/NavAIGuide-TS)
+
+## AI Agents + Local Deployments
 
 Here's an awesome list of running AI agents locally (on your own computer):
 
