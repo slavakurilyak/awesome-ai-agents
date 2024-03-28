@@ -180,6 +180,8 @@ Here's an awesome list of eval frameworks for AI agents:
 
 1. **Bananalyzer by Reworkd**: Bananalyzer is a framework for evaluating AI agents on web tasks, utilizing Playwright for creating diverse datasets of website snapshots for reliable and varied web task assessments | [website](https://reworkd.ai) | [github](https://github.com/reworkd/bananalyzer)
 
+1. **AgentBench**: AgentBench v0.2 is a benchmark designed to evaluate Large Language Models as agents across a diverse set of environments, enhancing framework usability and extending model evaluations | [github](https://github.com/THUDM/AgentBench)
+
 ## AI Agents + Observability Frameworks
 
 Here's an awesome list of monitoring frameworks for AI agents:
