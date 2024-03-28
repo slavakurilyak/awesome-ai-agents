@@ -24,6 +24,8 @@ Here's an awesome list of AI agents:
 
 1. **GPT Pilot**: GPT Pilot is an open-source AI developer tool that aims to provide a comprehensive development companion, capable of writing features, debugging, and interacting with users, presenting itself as an alternative to Devin, the world's first AI software engineer developed by Cognition Labs | [github](https://github.com/Pythagora-io/gpt-pilot) | [discord](https://discord.gg/HaqXugmxr9)
 
+1. **Devon (previously Gilfoyle)**: Devon, not Devin, aims to perfect code correction for fill-in-the-middle, bug spotting, and completion tasks, using JSON for metadata in edits, and incorporates looping until user termination in function updates | [github](https://github.com/entropy-research/Devon)
+
 1. **Hume AI**: Hume AI offers empathic AI solutions with emotional intelligence through APIs for interpreting emotional expressions and generating empathic responses, aimed at enhancing human well-being and enabling developers to create AI agents with improved understanding and engagement | [website](https://www.hume.ai/) | [discord](https://discord.com/invite/WPRSugvAm6)
 
 1. **AutoDev**: AutoDev is an AI-powered coding assistant offering multilingual support, automatic code generation, and debugging assistance, featuring customizable prompts and specialized tools for development, testing, documentation, and the integration of custom AI agents, with a focus on experimenting and building AI agents using its UI framework | [github](https://github.com/unit-mesh/auto-dev) | [docs](https://ide.unitmesh.cc)
