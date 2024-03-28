@@ -192,13 +192,17 @@ Here's an awesome list of LLMs with function calling (aka tools) which unlocks B
 
 1. **Gated 402 API by AIBTCDev**: | An API using a Stacks smart contract to control access, issuing a 200 status for access approval and a 402 with payment instructions for denial | [github](https://github.com/aibtcdev/gated-402-api) | [github profile](https://github.com/aibtcdev) | [website](https://aibtc.dev/) | [discord](https://discord.gg/5DJaBrf)
 
-## AI Agents + Wearables
+## AI Agents + Evaluation Frameworks
+
+1. **Bananalyzer by Reworkd**: Bananalyzer is a framework for evaluating AI agents on web tasks, utilizing Playwright for creating diverse datasets of website snapshots for reliable and varied web task assessments | [website](https://reworkd.ai) | [github](https://github.com/reworkd/bananalyzer)
+
+## AI Agents + Hardware (Wearables)
 
 1. **01 by Open Interpreter**: The "01 Project" is an open-source initiative focused on creating an ecosystem for AI devices, aiming to become the GNU/Linux in this domain, with details on its experimental status, software, hardware, and a speech-to-speech interface based on a code-interpreting language model for dynamic interactions | [announcement](https://changes.openinterpreter.com/log/introducing-the-01-developer-preview) | [demo](https://twitter.com/OpenInterpreter/status/1770821439458840846) | [github](https://github.com/OpenInterpreter/01) | [website](http://openinterpreter.com/01) | [docs](https://01.openinterpreter.com/)
 
 1. **Humane**: AI Pin, a wearable, multi-modal device, enhances ambient computing in the real world, offering a suite of AI digital assistants for various tasks while prioritizing user privacy for a more intuitive, human-centered experience | [website](https://humane.com/)
 
-## AI Agents + Guardrails
+## AI Agents + Guardrails (Safety)
 
 1. **IvyCheck**: IvyCheck offers an API for real-time AI application safety checks, preventing prompt injection attacks, PII data leakage, and hallucinations in agentic AI development [github](https://github.com/ivycheck/ivycheck-python-sdk) | [announcement](https://www.ycombinator.com/launches/KkA-ivycheck-guard-against-ai-risks-with-real-time-checks) | [website](https://ivycheck.com)
 
