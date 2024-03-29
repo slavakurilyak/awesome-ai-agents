@@ -276,6 +276,12 @@ Here's an awesome list of model merges which embed AI agents with new knowledge:
 
 1. **MergeKit by Arcee AI**: Arcee AI's MergeKit offers tools for merging pre-trained large language models, enabling the creation of more versatile AI agents by combining knowledge from different sources, akin to Retrieval Augmented Generation (RAG) | [github](https://github.com/arcee-ai/mergekit)
 
+## AI Agents + Authentication
+
+Here's an awesome list of authentication solutions for your AI agents:
+
+1. **Composio**: Composio enables quick integration of 90+ tools for developers and agents, offering managed authentication, easy testing, and up-to-date APIs to simplify development and enhance functionality | [website](https://www.composio.dev/) | [docs](https://docs.composio.dev/) | [blog](https://blog.composio.dev/) | [github profile](https://github.com/SamparkAI)
+
 ## Star History
 
 <a href="https://star-history.com/#slavakurilyak/awesome-ai-agents&Date">
