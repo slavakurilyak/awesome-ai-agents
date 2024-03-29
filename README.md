@@ -38,8 +38,6 @@ Here's an awesome list of AI agents:
 
 1. **Data Questionnaire Agent**: A chatbot designed to query users on data integration practices, offering advice based on responses, utilizing a modified Chainlit library for operation | [github](https://github.com/onepointconsulting/data-questionnaire-agent)
 
-1. **Composio**: Composio provides extremely simple integrations and tools for equipping AI agents to manage linear and GitHub issues in just 3 minutes | [demo](https://x.com/AlexReibman/status/1772776340368081211)
-
 1. **Cosmo**: Cosmo offers an all-inclusive AI agent for merchants on WhatsApp, enabling order placements, customer interaction, automatic question answering, inventory and CRM integration, with features like instant payments, customer insights, dynamic order fulfillment, and a comprehensive merchant web app for online transaction management, aimed at simplifying shopping and boosting sales by 57% | [website](https://meetcosmo.ai/) | [demo](https://x.com/AlexReibman/status/1772775416044126608)
 
 1. **Deepgram**: Conversational AI tools designed for creating voice bots and agents, featuring realistic, low-latency voice technology | [demo](https://x.com/AlexReibman/status/1772774552260788296)
@@ -280,7 +278,7 @@ Here's an awesome list of model merges which embed AI agents with new knowledge:
 
 Here's an awesome list of authentication solutions for your AI agents:
 
-1. **Composio**: Composio enables quick integration of 90+ tools for developers and agents, offering managed authentication, easy testing, and up-to-date APIs to simplify development and enhance functionality | [website](https://www.composio.dev/) | [docs](https://docs.composio.dev/) | [blog](https://blog.composio.dev/) | [github profile](https://github.com/SamparkAI)
+1. **Composio**: Composio enables quick integration of 90+ tools for developers and agents, offering managed authentication, easy testing, and up-to-date APIs to simplify development and enhance functionality | [demo](https://x.com/AlexReibman/status/1772776340368081211) | [website](https://www.composio.dev/) | [docs](https://docs.composio.dev/) | [blog](https://blog.composio.dev/) | [github profile](https://github.com/SamparkAI)
 
 ## Star History
 
