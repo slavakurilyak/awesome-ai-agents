@@ -286,15 +286,19 @@ Here's an awesome list of function calls (aka tools) for your AI agents:
 
 1. **LlamaIndex Tools by Llama Hub**: LlamaHub offers a variety of tools for building data agents, with top downloads including IonicShoppingToolSpec, OpenAPIToolSpec, WikipediaToolSpec, GmailToolSpec, and GoogleCalendarToolSpec, enabling seamless integration with user-defined functions, query engines, and third-party services | [website](https://llamahub.ai/?tab=tools) | [docs](https://docs.llamaindex.ai/en/latest/module_guides/deploying/agents/tools/)
 
-## Star History
+## AI Agents + Custom Development
 
-<a href="https://star-history.com/#slavakurilyak/awesome-ai-agents&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=slavakurilyak/awesome-ai-agents&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=slavakurilyak/awesome-ai-agents&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=slavakurilyak/awesome-ai-agents&type=Date" />
- </picture>
-</a>
+Here's an awesome list of AI agencies that specialize in developing custom AI agents:
+
+1. **Produvia**: Since 2013, Produvia Inc. has served $7M+ in revenue brands by developing custom agentic AI solutions powered by state-of-the-art function calling LLMs including but not limited to: Claude 3 Opus, GPT-4, Bard (Gemini Pro), Claude 3 Sonnet, Claude 3 Haiku, Mistral Medium, Command R, Mistral-Next, Starling-LM-7B-beta | [website](https://produvia.com/) | [twitter](https://twitter.com/produvia) | [linkedin](https://linkedin.com/company/produvia)
+
+## Hire Us
+
+Do you want to develop a custom agentic AI solution or looking launch your own AI agent?
+
+[Schedule a discovery call](https://cal.com/produvia/discovery-call) with us
+
+Disclaimer: Slava Kurilyak is the Founder/CEO at Produvia
 
 ## Show Your Support
 
@@ -304,10 +308,12 @@ To express your support, you can take the following actions:
 2. **Submit Suggestions**: If you have any ideas or feedback, please open a new issue [here](https://github.com/slavakurilyak/awesome-ai-agents/issues/new).
 3. **Contribute Directly**: You can contribute by forking this repository and then submitting your contributions through a new pull request [here](https://github.com/slavakurilyak/awesome-ai-agents/fork).
 
-## Hire Me
+## Star History
 
-Do you have an idea for an AI agent or are you looking for an agentic AI solution? 
-
-[Schedule a discovery call](https://cal.com/produvia/discovery-call) with me
-
-Disclaimer: I am the Founder/CEO at Produvia
+<a href="https://star-history.com/#slavakurilyak/awesome-ai-agents&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=slavakurilyak/awesome-ai-agents&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=slavakurilyak/awesome-ai-agents&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=slavakurilyak/awesome-ai-agents&type=Date" />
+ </picture>
+</a>
