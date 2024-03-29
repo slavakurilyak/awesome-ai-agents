@@ -170,6 +170,8 @@ Here's an awesome list of agentic AI development libraries or frameworks:
 
 1. **CodeActAgent**: CodeActAgent, trained on CodeActInstruct, showcases superior performance in both in-domain and out-of-domain tasks, enabling dynamic code execution and multi-turn interactions for more effective LLM agents | [github](https://github.com/xingyaoww/code-act)
 
+1. **Bazed**: | Bazed Agent Framework, aimed at empowering developers to build autonomous agent swarms without requiring deep Python ML knowledge, is facilitating the creation of sophisticated systems through TypeScript for enhanced autonomy and reliability [github](https://github.com/bazed-ai/bazed-af) | [website](https://bazed.ai/) | [discord](https://discord.gg/VmEEUrc7dg)
+
 ## AI Agents + Evaluation Frameworks
 
 Here's an awesome list of eval frameworks for AI agents:
