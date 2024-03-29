@@ -266,6 +266,8 @@ Here's an awesome list of enforcing structured outputs from AI agents:
 
 1. **Marvin**: Marvin is an open-source AI toolkit designed for developers focused on enhancing AI agent capabilities, offering tools for natural language interfaces, image and audio generation, and entity extraction, scalable and easy to integrate into existing projects | [github](https://github.com/PrefectHQ/marvin/) | [website](https://askmarvin.ai/)
 
+1. **Perplexity-Inspired LLM Answer Engine**: A versatile answer engine leveraging Groq, Mistral AI, Langchain.JS, Brave Search, Serper API, and OpenAI to deliver efficient and sophisticated responses with reduced hallucination through RAG for citation-backed search queries | [github](https://github.com/developersdigest/llm-answer-engine) | [github profile](https://github.com/developersdigest)
+
 ## Star History
 
 <a href="https://star-history.com/#slavakurilyak/awesome-ai-agents&Date">
