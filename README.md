@@ -136,8 +136,6 @@ Here's an awesome list of agentic AI development libraries or frameworks:
 
 1. **crewAI by João Moura**: crewAI is a cutting-edge AI framework designed for orchestrating role-playing, autonomous AI agents, enabling seamless collaboration and complex task handling | [github](https://github.com/joaomdmoura/crewai) | [github profile](https://github.com/joaomdmoura)
     
-1. **crewAI Tools by João Moura**: crewAI Tools is a library that provides a framework for developing sophisticated tools to enhance crewAI agents, with methods for subclassing BaseTool, utilizing the tool decorator, and guidelines for contributing to the ecosystem | [github](https://github.com/joaomdmoura/crewai-tools)
-    
 1. **crewAI+ by João Moura**: CrewAI+ is in beta, offering seamless API integration, business support, and early access for design partners; apply now to shape future features | [website](https://www.crewai.com/crewaiplus)
 
 1. **DB-GPT**: DB-GPT revolutionizes database interactions using private LLM technology, enabling streamlined AI-native data app development with multi-model management, Text2SQL optimization, and fine-tuning, facilitating enterprises and developers to create bespoke applications in the Data 3.0 era | [github](https://github.com/eosphoros-ai/DB-GPT) | [github profile](https://github.com/eosphoros-ai)
@@ -274,11 +272,17 @@ Here's an awesome list of model merges which embed AI agents with new knowledge:
 
 1. **MergeKit by Arcee AI**: Arcee AI's MergeKit offers tools for merging pre-trained large language models, enabling the creation of more versatile AI agents by combining knowledge from different sources, akin to Retrieval Augmented Generation (RAG) | [github](https://github.com/arcee-ai/mergekit)
 
-## AI Agents + Authentication
+## AI Agents + Tool Use (Function Calling)
 
-Here's an awesome list of authentication solutions for your AI agents:
+Here's an awesome list of function calls (aka tools) for your AI agents:
 
-1. **Composio**: Composio enables quick integration of 90+ tools for developers and agents, offering managed authentication, easy testing, and up-to-date APIs to simplify development and enhance functionality | [demo](https://x.com/AlexReibman/status/1772776340368081211) | [website](https://www.composio.dev/) | [docs](https://docs.composio.dev/) | [blog](https://blog.composio.dev/) | [github profile](https://github.com/SamparkAI)
+1. **Composio**: Composio enables quick integration of 90+ tools for developers and agents, offering managed authentication, easy testing, and up-to-date APIs to simplify development and enhance functionality | [demo](https://x.com/AlexReibman/status/1772776340368081211) | [yet another demo](https://www.youtube.com/watch?v=ujxKzS0b5qg) | [website](https://www.composio.dev/) | [docs](https://docs.composio.dev/) | [blog](https://blog.composio.dev/) | [github profile](https://github.com/SamparkAI)
+
+1. **crewAI Tools by João Moura**: crewAI Tools is a library that provides a framework for developing sophisticated tools to enhance crewAI agents, with methods for subclassing BaseTool, utilizing the tool decorator, and guidelines for contributing to the ecosystem | [github](https://github.com/joaomdmoura/crewai-tools)
+
+1. **LangChain Tools by LangChain AI**:  Langchain integrates various providers like Anthropic, AWS, and OpenAI, and offers tools for components such as LLMs, chat models, and data analysis, supporting functionalities from Alpha Vantage to YouTube | [website](https://python.langchain.com/docs/integrations/tools)
+
+1. **LlamaIndex Tools by Llama Hub**: LlamaHub offers a variety of tools for building data agents, with top downloads including IonicShoppingToolSpec, OpenAPIToolSpec, WikipediaToolSpec, GmailToolSpec, and GoogleCalendarToolSpec, enabling seamless integration with user-defined functions, query engines, and third-party services | [website](https://llamahub.ai/?tab=tools) | [docs](https://docs.llamaindex.ai/en/latest/module_guides/deploying/agents/tools/)
 
 ## Star History
 
