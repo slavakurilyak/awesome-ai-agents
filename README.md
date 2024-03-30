@@ -276,7 +276,7 @@ Here's an awesome list of AI agents running on hardware or is in a form of a wea
 
 1. **Humane**: AI Pin, a wearable, multi-modal device, enhances ambient computing in the real world, offering a suite of AI digital assistants for various tasks while prioritizing user privacy for a more intuitive, human-centered experience | [website](https://humane.com/)
 
-## AI Agents + Guardrails (Safety)
+## AI Agents + Safety Guardrails (Safeguarding)
 
 Here's an awesome list of guardrail frameworks that enforce safety for AI agents:
 
@@ -285,6 +285,8 @@ Here's an awesome list of guardrail frameworks that enforce safety for AI agents
 1. **Guardrails by Guardrails AI**: Guardrails is a Python framework for building reliable AI applications, offering Input/Output Guards to detect and mitigate risks, along with structured data generation from large language models (LLMs) | [github](https://github.com/guardrails-ai/guardrails) | [twitter](https://twitter.com/guardrails_ai)
 
 1. **NeMo Guardrails by Nvidia**: NeMo Guardrails is an open-source toolkit facilitating the integration of programmable guardrails, essential for steering and safeguarding AI agents' conversational outputs, into large language model-based applications | [github](https://github.com/NVIDIA/NeMo-Guardrails) | [paper](https://arxiv.org/abs/2310.10501)
+
+1. **Cadea by Flowbase**: Cadea offers a secure AI platform for businesses, providing solutions against prompt injection, data breaches, and ensuring content safety through end-to-end security, access controls, and integration with major identity providers | [website](https://www.cadea.ai/)
 
 ## AI Agents + Structured Outputs
 
