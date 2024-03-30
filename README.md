@@ -104,6 +104,8 @@ Here's an awesome list of AI agents:
 
 1. **Sweep**: Sweep is an AI tool that automates the transformation of GitHub issues into pull requests, streamlining code improvements and bug fixes, supported by a suite of features like codebase understanding, test running, and a developer-friendly interface for installation and usage | [github](https://github.com/sweepai/sweep) | [website](https://sweep.dev/)
 
+1. **Pieces**: Pieces is an AI-powered productivity tool for developers that enhances efficiency through a unified toolchain, offering on-device workflow assistance, intelligent code snippet management, and seamless integration with development tools and plugins | [website](https://pieces.app/) | [discord](https://discord.gg/getpieces)
+
 ## AI Agents + Development Frameworks
 
 Here's an awesome list of agentic AI development libraries or frameworks:
