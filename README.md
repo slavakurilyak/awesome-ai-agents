@@ -208,6 +208,12 @@ Here's an awesome list of agentic AI development libraries or frameworks:
 
 1. **Streamship**: A development platform for AI Agents offering Python SDK, cloud deployment, serverless hosting, vector search, webhooks, and media generation, with a focus on simplicity, scalability, and integration with popular models and services | [website](https://www.steamship.com/) | [twitter](https://www.twitter.com/GetSteamship) | [discord](https://steamship.com/discord) | [github profile](https://www.github.com/steamship-core)
 
+## AI Agents + No-Code
+
+Here's an awesome list of no-code agentic AI development frameworks:
+
+1. **Mendable**: Mendable offers an AI chatbot solution that enables companies to build and deploy technical assistants trained on their specific documentation and resources, aiming to improve customer and employee support, with features including enterprise-grade security, continuous model training, and integration with a wide range of data sources and APIs [website](https://www.mendable.ai/) | [docs](https://docs.mendable.ai/) | [twitter](https://twitter.com/mendableai) | [github profile](https://github.com/sideguide)
+
 ## AI Agents + Evaluation Frameworks
 
 Here's an awesome list of eval frameworks for AI agents:
