@@ -94,6 +94,8 @@ Here's an awesome list of AI agents:
 
 1. **Bloop**: Bloop is a GPT-4-based coding assistant that boosts engineer productivity by allowing natural language interactions with codebases for explanations, feature writing, error troubleshooting, and more, featuring a code-centric AI playground, fast regex search, and comprehensive code navigation tools | [github](https://github.com/BloopAI/bloop)
 
+1. **Cody**: Cody, an AI coding assistant, now offers an enterprise version with enhanced security, scalability, and control for organizations, supporting various IDEs and providing AI-powered autocomplete, chat assistance, and custom command capabilities | [website](https://sourcegraph.com/cody) | [github](https://github.com/sourcegraph/cody)
+
 ## AI Agents + Development Frameworks
 
 Here's an awesome list of agentic AI development libraries or frameworks:
