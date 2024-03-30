@@ -194,6 +194,8 @@ Here's an awesome list of agentic AI development libraries or frameworks:
 
 1. **databerry**: Chaindesk is a no-code platform for building custom LLM Agents, enabling users to quickly set up a semantic search system over personal data without technical knowledge | [github](https://github.com/gmpetrov/databerry/)
 
+1. **Beam**: Beam AI offers a platform for Agentic Process Automation, using AI agents to automate workflows, enhancing productivity for businesses of all sizes with features like pre-trained agents, seamless integrations, and industry-specific solutions | [website](https://beam.ai/) | [twitter](https://twitter.com/join__beam) | [linkedin](https://www.linkedin.com/company/beam-ai) | [youtube](https://www.youtube.com/@beam-ai)
+
 ## AI Agents + Evaluation Frameworks
 
 Here's an awesome list of eval frameworks for AI agents:
