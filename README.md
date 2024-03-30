@@ -102,6 +102,8 @@ Here's an awesome list of AI agents:
 
 1. **Cursor**: Cursor is an AI-enhanced programming editor focusing on code discussion, editing, and debugging, with plans for advanced features like repository healing and AI-generated documentation | [github](https://github.com/getcursor/cursor) | [website](https://cursor.sh/)
 
+1. **Sweep**: Sweep is an AI tool that automates the transformation of GitHub issues into pull requests, streamlining code improvements and bug fixes, supported by a suite of features like codebase understanding, test running, and a developer-friendly interface for installation and usage | [github](https://github.com/sweepai/sweep) | [website](https://sweep.dev/)
+
 ## AI Agents + Development Frameworks
 
 Here's an awesome list of agentic AI development libraries or frameworks:
