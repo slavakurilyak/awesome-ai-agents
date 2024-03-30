@@ -114,6 +114,8 @@ Here's an awesome list of AI agents:
 
 Here's an awesome list of agentic AI development libraries or frameworks:
 
+1. **AGiXT**: AGiXT is an advanced AI Automation Platform designed to enhance AI instruction management and task execution across various providers, incorporating features like adaptive memory, smart instruct, and a versatile plugin system to push the boundaries of AI technology towards achieving Artificial General Intelligence (AGI) | [github](https://github.com/Josh-XT/AGiXT) | [website](https://agixt.com/)
+
 1. **Cognee**: Cognee is an open-source framework aimed at simplifying data processing for large language models (LLMs) by creating knowledge graphs and data models, offering tools for information addition, knowledge creation, and similarity-based search | [github](https://github.com/topoteretes/cognee)
 
 1. **MemGPT**: MemGPT introduces a customizable AI chatbot framework with self-editing memory and access to unlimited data, promoting perpetual, context-rich conversations | [website](https://memgpt.ai/) | [github](https://github.com/cpacker/MemGPT/)
