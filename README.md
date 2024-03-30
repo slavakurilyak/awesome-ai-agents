@@ -196,7 +196,7 @@ Here's an awesome list of running AI agents on mobile (on your own phone):
 
 1. **NavAIGuide**: NavAIGuide is an extensible multi-modal agentic framework designed for fulfilling plans and queries within the app ecosystem, featuring visual task detection, advanced code selectors, action-oriented execution, and resilient error handling | [github](https://github.com/francedot/NavAIGuide-TS)
 
-## AI Agents + Local Deployments
+## AI Agents + Local Inference
 
 Here's an awesome list of running AI agents locally (on your own computer):
 
@@ -207,6 +207,8 @@ Here's an awesome list of running AI agents locally (on your own computer):
 1. **Jan**: Jan is an open-source, development-stage ChatGPT alternative that operates fully offline on diverse hardware platforms, supporting universal architectures from PCs to multi-GPU clusters | [github](https://github.com/janhq/jan) | [github profile](https://github.com/janhq)
 
 1. **LM Studio**: LM Studio offers a platform for running various local LLMs like LLaMa, Falcon, MPT, and others offline, featuring a Chat UI, OpenAI-compatible server, and model downloads from Hugging Face, with support for Mac, Windows, and Linux, emphasizing privacy and no data collection, free for personal use | [website](https://lmstudio.ai/) | [github profile](https://github.com/lmstudio-ai)
+
+1. **Private GPT**: PrivateGPT is a secure, offline-capable AI tool for querying documents with Large Language Models, offering high-level and low-level APIs for privacy-conscious, context-aware application development | [github](https://github.com/zylon-ai/private-gpt/)
 
 ## AI Agents + Reinforcement Learning Frameworks
 
