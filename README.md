@@ -100,6 +100,8 @@ Here's an awesome list of AI agents:
 
 1. **Continue**: Continue is an open-source autopilot plugin for VS Code and JetBrains, enhancing coding with LLMs through features like task and tab autocomplete, natural language edits, file generation, and customization options, available under the Apache 2.0 license | [github](https://github.com/continuedev/continue) | [website](https://continue.dev)
 
+1. **Cursor**: Cursor is an AI-enhanced programming editor focusing on code discussion, editing, and debugging, with plans for advanced features like repository healing and AI-generated documentation | [github](https://github.com/getcursor/cursor) | [website](https://cursor.sh/)
+
 ## AI Agents + Development Frameworks
 
 Here's an awesome list of agentic AI development libraries or frameworks:
