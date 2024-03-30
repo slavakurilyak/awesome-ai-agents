@@ -216,6 +216,8 @@ Here's an awesome list of monitoring frameworks for AI agents:
 
 1. **Traces by Weights & Biases**: W&B Traces enhances AI agent observability by providing intuitive visualizations for debugging LLMs, allowing practitioners to review past results, debug errors, and gain insights into model behavior | [website](https://wandb.ai/site/traces)
 
+1. **Context**: Context.ai is a tool for evaluating and analyzing products with LLMs, aiming to improve user experience and performance | [website](https://context.ai/) | [docs](https://docs.context.ai/)
+
 ## AI Agents + Mobile Deployments
 
 Here's an awesome list of running AI agents on mobile (on your own phone):
