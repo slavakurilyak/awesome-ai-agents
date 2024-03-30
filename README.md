@@ -98,6 +98,8 @@ Here's an awesome list of AI agents:
 
 1. **Tabby**: Tabby is a self-hosted, open-source AI coding assistant similar to GitHub Copilot, featuring a self-contained setup with no DBMS/cloud dependency, OpenAPI for easy integration, consumer-grade GPU support, and a full-feature admin UI in its latest release | [github](https://github.com/TabbyML/tabby) | [website](https://tabby.tabbyml.com/) | [docs](https://tabby.tabbyml.com/docs)
 
+1. **Continue**: Continue is an open-source autopilot plugin for VS Code and JetBrains, enhancing coding with LLMs through features like task and tab autocomplete, natural language edits, file generation, and customization options, available under the Apache 2.0 license | [github](https://github.com/continuedev/continue) | [website](https://continue.dev)
+
 ## AI Agents + Development Frameworks
 
 Here's an awesome list of agentic AI development libraries or frameworks:
