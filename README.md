@@ -372,11 +372,17 @@ Here's an awesome list of AI agencies that specialize in custom AI agent develop
 
 1. **Produvia**: Since 2013, Produvia Inc. has served $7M+ in revenue brands by developing custom agentic AI solutions powered by state-of-the-art function calling LLMs including but not limited to: Claude 3 Opus, GPT-4, Bard (Gemini Pro), Claude 3 Sonnet, Claude 3 Haiku, Mistral Medium, Command R, Mistral-Next, Starling-LM-7B-beta | [website](https://produvia.com/) | [twitter](https://twitter.com/produvia) | [linkedin](https://linkedin.com/company/produvia)
 
+## AI Agents + LLM Languages
+
+Here's an awesome list of languages optimized for LLMs:
+
+1. **LMQL**: LMQL is a Python-based programming language for large language models, allowing seamless integration of LLMs into code with advanced features like conditional logic, constraints, and multi-model support | [github](https://github.com/eth-sri/lmql) | [website](https://lmql.ai/)
+
 ## Hire Us
 
 Do you want to develop a custom agentic AI solution or looking launch your own AI agent?
 
-[Schedule a discovery call](https://cal.com/produvia/discovery-call) with us
+[Schedule a discovery call](https://cal.com/produvia/discovery-call) with Produvia
 
 Disclaimer: Slava Kurilyak is the Founder/CEO at Produvia
 
