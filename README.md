@@ -218,6 +218,8 @@ Here's an awesome list of monitoring frameworks for AI agents:
 
 1. **Context**: Context.ai is a tool for evaluating and analyzing products with LLMs, aiming to improve user experience and performance | [website](https://context.ai/) | [docs](https://docs.context.ai/)
 
+1. **Helicone**: Helicone is an open-source observability platform for Language Learning Models (LLMs), providing features like request logging, caching, rate limiting, cost and latency tracking, UI-based prompt iteration, and collaboration tools | [website](https://www.helicone.ai/) | [github](https://github.com/Helicone/helicone)
+
 ## AI Agents + Mobile Deployments
 
 Here's an awesome list of running AI agents on mobile (on your own phone):
