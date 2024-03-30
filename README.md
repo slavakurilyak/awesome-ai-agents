@@ -208,6 +208,8 @@ Here's an awesome list of agentic AI development libraries or frameworks:
 
 Here's an awesome list of eval frameworks for AI agents:
 
+1. **LangFuse**: Langfuse, an open-source LLM engineering platform, offers debugging, prompt management, metrics for LLM apps improvement, and won the #1 Golden Kitty in the AI Infra Category from Product Hunt | [website](https://langfuse.com/) | [twitter](https://x.com/langfuse) | [discord](https://langfuse.com/discord)
+
 1. **AgentOps**: AgentOps aims to improve AI agent development with tools for observability, evaluations, and replay analytics, offering a streamlined process for testing and debugging compliant AI agents through a user-friendly interface and comprehensive documentation | [github](https://github.com/AgentOps-AI/agentops) | [website](https://www.agentops.ai/) | [docs](https://docs.agentops.ai) | [discord](https://discord.gg/mKW3ZhN9p2) | [demo](https://x.com/AlexReibman/status/1772771418780176674)
 
 1. **Bananalyzer by Reworkd**: Bananalyzer is a framework for evaluating AI agents on web tasks, utilizing Playwright for creating diverse datasets of website snapshots for reliable and varied web task assessments | [website](https://reworkd.ai) | [github](https://github.com/reworkd/bananalyzer)
