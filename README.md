@@ -320,6 +320,12 @@ Here's an awesome list of function calls (aka tools) for your AI agents:
 
 1. **LlamaIndex Tools by Llama Hub**: LlamaHub offers a variety of tools for building data agents, with top downloads including IonicShoppingToolSpec, OpenAPIToolSpec, WikipediaToolSpec, GmailToolSpec, and GoogleCalendarToolSpec, enabling seamless integration with user-defined functions, query engines, and third-party services | [website](https://llamahub.ai/?tab=tools) | [docs](https://docs.llamaindex.ai/en/latest/module_guides/deploying/agents/tools/)
 
+## AI Agents + User Interface Development:
+
+Here's an awesome list of UIs (generative UIs, conversational UIs, and agentic UIs) optimized for AI agents:
+
+1. **AI SDK by Vercel**: The Vercel AI SDK is an open-source library for creating AI-powered conversational interfaces, supporting multiple frameworks and languages, with built-in adapters for major AI services | [announcement](https://vercel.com/blog/introducing-the-vercel-ai-sdk) | [website](https://sdk.vercel.ai/docs) | [github](https://github.com/vercel/ai) | [github examples](https://github.com/vercel/ai/tree/main/examples)
+
 ## AI Agents + Custom Development
 
 Here's an awesome list of AI agencies that specialize in developing custom AI agents:
