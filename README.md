@@ -90,6 +90,8 @@ Here's an awesome list of AI agents:
 
 1. **AI Agent Assist by DialPad**: Dialpad introduces Ai Agent Assist, offering real-time, Ai-powered answers to enhance customer service through deep integrations, reducing agent ramp time, and providing actionable insights with out-of-the-box productivity | [landing page](https://www.dialpad.com/ai-labs/ai-agent-assist/)
 
+1. **Cal.ai**: Cal.ai is an open-source AI scheduling assistant that manages email communications for booking, rearranging, and inquiring about meetings, leveraging a LangChain Agent Executor and MailParser for efficient scheduling without API key exposure | [website](https://cal.com/ai) | [github](https://github.com/calcom/cal.com/tree/main/apps/ai)
+
 ## AI Agents + Development Frameworks
 
 Here's an awesome list of agentic AI development libraries or frameworks:
