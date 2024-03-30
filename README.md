@@ -114,6 +114,8 @@ Here's an awesome list of AI agents:
 
 Here's an awesome list of agentic AI development libraries or frameworks:
 
+1. **Cognee**: Cognee is an open-source framework aimed at simplifying data processing for large language models (LLMs) by creating knowledge graphs and data models, offering tools for information addition, knowledge creation, and similarity-based search | [github](https://github.com/topoteretes/cognee)
+
 1. **MemGPT**: MemGPT introduces a customizable AI chatbot framework with self-editing memory and access to unlimited data, promoting perpetual, context-rich conversations | [website](https://memgpt.ai/) | [github](https://github.com/cpacker/MemGPT/)
 
 1. **Superagent**: Superagent is an open-source AI Assistant Framework & API enabling developers to integrate advanced AI agents into their applications, with support for various features like memory, streaming, and API connectivity, and backed by Y Combinator [demo](https://twitter.com/pelaseyed/status/1773739204138418426) | [github](https://github.com/superagent-ai/superagent)
