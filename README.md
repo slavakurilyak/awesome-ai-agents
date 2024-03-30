@@ -208,13 +208,15 @@ Here's an awesome list of agentic AI development libraries or frameworks:
 
 1. **Streamship**: A development platform for AI Agents offering Python SDK, cloud deployment, serverless hosting, vector search, webhooks, and media generation, with a focus on simplicity, scalability, and integration with popular models and services | [website](https://www.steamship.com/) | [twitter](https://www.twitter.com/GetSteamship) | [discord](https://steamship.com/discord) | [github profile](https://www.github.com/steamship-core)
 
-## AI Agents + No-Code
+## AI Agents + No-Code Development Frameworks
 
 Here's an awesome list of no-code agentic AI development frameworks:
 
 1. **Mendable**: Mendable offers an AI chatbot solution that enables companies to build and deploy technical assistants trained on their specific documentation and resources, aiming to improve customer and employee support, with features including enterprise-grade security, continuous model training, and integration with a wide range of data sources and APIs | [website](https://www.mendable.ai/) | [docs](https://docs.mendable.ai/) | [twitter](https://twitter.com/mendableai) | [github profile](https://github.com/sideguide)
 
 1. **Kapa**: Kapa.ai is an AI-powered chatbot service for developers that automates answering technical questions by learning from technical resources, thus helping identify gaps in documentation, with features including data security, PII anonymization, and continuous updating from a range of knowledge sources | [website](https://www.kapa.ai/) | [docs](https://docs.kapa.ai/)
+
+1. **Libraria**: Libraria AI offers a platform to create, manage, and embed custom AI chatbots with natural language processing and features like call-to-actions, link carousels, and analytics for enhanced customer interactions and satisfaction, alongside free and paid plans tailored for different business needs | [website](https://libraria.ai/) | [twitter](https://x.com/librariaai)
 
 ## AI Agents + Evaluation Frameworks
 
