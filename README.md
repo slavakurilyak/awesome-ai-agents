@@ -106,6 +106,8 @@ Here's an awesome list of AI agents:
 
 1. **Pieces**: Pieces is an AI-powered productivity tool for developers that enhances efficiency through a unified toolchain, offering on-device workflow assistance, intelligent code snippet management, and seamless integration with development tools and plugins | [website](https://pieces.app/) | [discord](https://discord.gg/getpieces)
 
+1. **Aider**: Aider is a command-line tool for AI-assisted pair programming, allowing code editing in local git repositories with GPT-3.5/GPT-4, featuring direct file edits, automatic git commits, and support for most popular programming languages | [github](https://github.com/paul-gauthier/aider)
+
 ## AI Agents + Development Frameworks
 
 Here's an awesome list of agentic AI development libraries or frameworks:
