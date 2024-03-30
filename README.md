@@ -212,6 +212,8 @@ Here's an awesome list of agentic AI development libraries or frameworks:
 
 Here's an awesome list of no-code agentic AI development frameworks:
 
+1. **AI Studio by Azure**: Azure AI Studio offers a platform for developing generative AI applications and custom copilots, featuring prebuilt models, training capabilities, free Azure Cosmos DB access for 90 days, and built-in security with no extra charge during preview | [website](https://azure.microsoft.com/en-us/products/ai-studio)
+
 1. **LlamaCloud by LlamaIndex**: LlamaCloud by LlamaIndex streamlines AI development by enabling developers to minimize infrastructure management and parameter tuning, focusing instead on creating AI products, with features for proprietary parsing of complex documents, easy data ingestion and storage, and advanced data retrieval | [website](https://www.llamaindex.ai/enterprise) | [github profile](https://github.com/run-llama) | [discord](https://discord.com/invite/eN6D2HQ4aX) | [linkedin](https://www.linkedin.com/company/91154103/)
 
 1. **Mendable**: Mendable offers an AI chatbot solution that enables companies to build and deploy technical assistants trained on their specific documentation and resources, aiming to improve customer and employee support, with features including enterprise-grade security, continuous model training, and integration with a wide range of data sources and APIs | [website](https://www.mendable.ai/) | [docs](https://docs.mendable.ai/) | [twitter](https://twitter.com/mendableai) | [github profile](https://github.com/sideguide)
