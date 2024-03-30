@@ -96,6 +96,8 @@ Here's an awesome list of AI agents:
 
 1. **Cody**: Cody, an AI coding assistant, now offers an enterprise version with enhanced security, scalability, and control for organizations, supporting various IDEs and providing AI-powered autocomplete, chat assistance, and custom command capabilities | [website](https://sourcegraph.com/cody) | [github](https://github.com/sourcegraph/cody)
 
+1. **Tabby**: Tabby is a self-hosted, open-source AI coding assistant similar to GitHub Copilot, featuring a self-contained setup with no DBMS/cloud dependency, OpenAPI for easy integration, consumer-grade GPU support, and a full-feature admin UI in its latest release | [github](https://github.com/TabbyML/tabby) | [website](https://tabby.tabbyml.com/) | [docs](https://tabby.tabbyml.com/docs)
+
 ## AI Agents + Development Frameworks
 
 Here's an awesome list of agentic AI development libraries or frameworks:
