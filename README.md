@@ -192,6 +192,8 @@ Here's an awesome list of agentic AI development libraries or frameworks:
 
 1. **Bazed**: | Bazed Agent Framework, aimed at empowering developers to build autonomous agent swarms without requiring deep Python ML knowledge, is facilitating the creation of sophisticated systems through TypeScript for enhanced autonomy and reliability [github](https://github.com/bazed-ai/bazed-af) | [website](https://bazed.ai/) | [discord](https://discord.gg/VmEEUrc7dg)
 
+1. **databerry**: Chaindesk is a no-code platform for building custom LLM Agents, enabling users to quickly set up a semantic search system over personal data without technical knowledge | [github](https://github.com/gmpetrov/databerry/)
+
 ## AI Agents + Evaluation Frameworks
 
 Here's an awesome list of eval frameworks for AI agents:
