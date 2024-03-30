@@ -92,6 +92,8 @@ Here's an awesome list of AI agents:
 
 1. **Cal.ai**: Cal.ai is an open-source AI scheduling assistant that manages email communications for booking, rearranging, and inquiring about meetings, leveraging a LangChain Agent Executor and MailParser for efficient scheduling without API key exposure | [website](https://cal.com/ai) | [github](https://github.com/calcom/cal.com/tree/main/apps/ai)
 
+1. **Bloop**: Bloop is a GPT-4-based coding assistant that boosts engineer productivity by allowing natural language interactions with codebases for explanations, feature writing, error troubleshooting, and more, featuring a code-centric AI playground, fast regex search, and comprehensive code navigation tools | [github](https://github.com/BloopAI/bloop)
+
 ## AI Agents + Development Frameworks
 
 Here's an awesome list of agentic AI development libraries or frameworks:
