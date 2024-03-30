@@ -108,6 +108,8 @@ Here's an awesome list of AI agents:
 
 1. **Aider**: Aider is a command-line tool for AI-assisted pair programming, allowing code editing in local git repositories with GPT-3.5/GPT-4, featuring direct file edits, automatic git commits, and support for most popular programming languages | [github](https://github.com/paul-gauthier/aider)
 
+1. **Imbue**:: Imbue, previously known as Generally Intelligent, is developing AI systems designed for reasoning and coding, aiming to create truly personal computers that enhance human freedom, dignity, and agency, supported by a $200M funding round to advance their technology | [website](https://imbue.com/) | [twitter](https://twitter.com/imbue_ai/)
+
 ## AI Agents + Development Frameworks
 
 Here's an awesome list of agentic AI development libraries or frameworks:
