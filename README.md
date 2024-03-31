@@ -226,9 +226,13 @@ Here's an awesome list of agentic AI development libraries or frameworks:
 
 1. **Streamship**: A development platform for AI Agents offering Python SDK, cloud deployment, serverless hosting, vector search, webhooks, and media generation, with a focus on simplicity, scalability, and integration with popular models and services | [website](https://www.steamship.com/) | [twitter](https://www.twitter.com/GetSteamship) | [discord](https://steamship.com/discord) | [github profile](https://www.github.com/steamship-core)
 
+1. **BDR Agent by Relevance**: Relevance AI's flagship BDR Agent is designed to assist sales teams by researching and qualifying leads, engaging in personalized prospecting according to your playbook 24x7, and booking meetings to grow your business without increasing headcount | [website](https://relevanceai.com/agents/bdr-agent) | [demo](https://relevanceai.com/agents/bdr-agent) | [twitter](https://twitter.com/RelevanceAI) | [github profile](https://github.com/RelevanceAI) | [linkedin](https://www.linkedin.com/company/relevanceai/)
+
 ## AI Agents + No-Code Development Frameworks
 
 Here's an awesome list of no-code agentic AI development frameworks:
+
+1. **Relevance**: Relevance AI offers a platform for building and deploying AI workers to automate tasks, integrate with tech stacks, and manage security, aiming to enhance business efficiency without increasing headcount | [website](https://relevanceai.com/) | [twitter](https://twitter.com/RelevanceAI) | [github profile](https://github.com/RelevanceAI) | [linkedin](https://www.linkedin.com/company/relevanceai/)
 
 1. **Vertex AI by Google**: Vertex AI, enhanced by Gemini models, offers comprehensive generative AI solutions for rapid application development, data processing, custom model training with minimal ML expertise, and production deployment, aimed at accelerating innovation and reducing costs in enterprise environments | [website](https://cloud.google.com/vertex-ai?hl=en)
 
