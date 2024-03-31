@@ -290,6 +290,8 @@ Here's an awesome list of running AI agents locally (on your own computer):
 
 1. **LM Studio**: LM Studio offers a platform for running various local LLMs like LLaMa, Falcon, MPT, and others offline, featuring a Chat UI, OpenAI-compatible server, and model downloads from Hugging Face, with support for Mac, Windows, and Linux, emphasizing privacy and no data collection, free for personal use | [website](https://lmstudio.ai/) | [github profile](https://github.com/lmstudio-ai)
 
+1. **FastChat**: FastChat is a platform for training, serving, and evaluating large language model chatbots, featuring an open-source distributed multi-model system, API compatibility, and a dataset for LLM conversations | [github](https://github.com/lm-sys/FastChat) | [demo](https://chat.lmsys.org/) | [discord](https://discord.gg/HSWAKCrnFx) | [twitter](https://x.com/lmsysorg)
+
 1. **PrivateGPT**: PrivateGPT is a secure, offline-capable AI tool for querying documents with Large Language Models, offering high-level and low-level APIs for privacy-conscious, context-aware application development | [github](https://github.com/zylon-ai/private-gpt/)
 
 1. **LocalGPT**: LocalGPT is an open-source project for secure, private interactions with documents locally, featuring comprehensive model support, embeddings, API for RAG applications, and GUI options, with a focus on privacy and local data processing | [github](https://github.com/PromtEngineer/localGPT)
