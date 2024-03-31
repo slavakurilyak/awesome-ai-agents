@@ -114,6 +114,8 @@ Here's an awesome list of AI agents:
 
 Here's an awesome list of agentic AI development libraries or frameworks:
 
+1. **Agents by Hugging Face**: Hugging Face's Transformers Agents provide three main types: HfAgent for inference with open-source models, LocalAgent for using local models and tokenizers, and OpenAiAgent for access to OpenAI's closed models, enabling code generation and other AI tasks with varying levels of customization and local or remote execution | [website](https://huggingface.co/docs/transformers/main_classes/agent)
+
 1. **Axflow**: Axflow is a TypeScript framework designed for AI development, offering a modular collection of tools for building natural language applications, and it emphasizes a code-first approach to simplify the integration of LLMs into scalable solutions | [website](https://axflow.dev/) | [github](https://github.com/axflow/axflow)
 
 1. **AGiXT**: AGiXT is an advanced AI Automation Platform designed to enhance AI instruction management and task execution across various providers, incorporating features like adaptive memory, smart instruct, and a versatile plugin system to push the boundaries of AI technology towards achieving Artificial General Intelligence (AGI) | [github](https://github.com/Josh-XT/AGiXT) | [website](https://agixt.com/)
