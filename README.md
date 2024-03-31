@@ -16,6 +16,12 @@
 
 This project tracks the latest agentic AI projects and provides a list of 100+ resources, curated by Slava Kurilyak
 
+## Wait But Why
+
+AI agents outperform LLMs
+
+According to [@andrewyng](https://github.com/andrewyng), "GPT-3.5 with an agentic workflow actually outperforms GPT-4"
+
 ## Hire Me
 
 Do you have an idea for an AI agent or are you looking for an agentic AI solution? 
