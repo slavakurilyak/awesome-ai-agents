@@ -404,6 +404,8 @@ Do you want to develop a custom agentic AI solution or looking launch your own A
 
 Disclaimer: Slava Kurilyak is the Founder/CEO at Produvia
 
+At Produvia, we partner with $7M+ in revenue brands to develop custom AI agents
+
 ## Show Your Support
 
 To express your support, you can take the following actions:
