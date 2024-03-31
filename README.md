@@ -1,4 +1,18 @@
-# Awesome List of AI Agents
+<p align="center">
+  <img src="https://github.com/slavakurilyak/awesome-ai-agents/assets/6625584/cf0fb16e-fc41-43b6-b5c8-663a4587d1dc" height="300" alt="Awesome List of AI Agents" />
+</p>
+<h1 align="center">Awesome List of AI Agents</h1>
+<p align="center">
+    🔗 Follow Slava for more agentic AI resources
+</p>
+<p align="center">
+    <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+    <a href="https://twitter.com/slavakurilyak">🐦 Twitter</a>
+    <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+    <a href="https://linkedin.com/in/slavakurilyak">💼 LinkedIn</a>
+    <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+    <a href="https://github.com/slavakurilyak">🐙 Github</a>
+</p>
 
 This project tracks the latest agentic AI projects and provides a list of 100+ resources, curated by Slava Kurilyak
 
