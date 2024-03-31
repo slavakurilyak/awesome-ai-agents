@@ -228,6 +228,8 @@ Here's an awesome list of agentic AI development libraries or frameworks:
 
 1. **BDR Agent by Relevance**: Relevance AI's flagship BDR Agent is designed to assist sales teams by researching and qualifying leads, engaging in personalized prospecting according to your playbook 24x7, and booking meetings to grow your business without increasing headcount | [website](https://relevanceai.com/agents/bdr-agent) | [demo](https://relevanceai.com/agents/bdr-agent) | [twitter](https://twitter.com/RelevanceAI) | [github profile](https://github.com/RelevanceAI) | [linkedin](https://www.linkedin.com/company/relevanceai/)
 
+1. **PraisonAI**: Praison AI is a low-code, centralized framework leveraging AutoGen and CrewAI to simplify creating and orchestrating multi-agent systems for LLM applications, emphasizing customization and ease of human-agent interaction | [github](https://github.com/MervinPraison/PraisonAI/) | [demo](https://www.youtube.com/watch?v=Fn1lQjC0GO0) | [code snippet](https://mer.vin/2024/03/praison-ai-agents-yml/)
+
 ## AI Agents + No-Code Development Frameworks
 
 Here's an awesome list of no-code agentic AI development frameworks:
