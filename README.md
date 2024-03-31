@@ -348,7 +348,7 @@ Here's an awesome list of enforcing structured outputs from AI agents:
 
 1. **Perplexity-Inspired LLM Answer Engine**: A versatile answer engine leveraging Groq, Mistral AI, Langchain.JS, Brave Search, Serper API, and OpenAI to deliver efficient and sophisticated responses with reduced hallucination through RAG for citation-backed search queries | [github](https://github.com/developersdigest/llm-answer-engine) | [github profile](https://github.com/developersdigest)
 
-1. **Jaiqu by AgentOps**: Jaiqu is an AI-powered tool for automatically transforming any JSON schema using GPT-4, featuring schema validation, fuzzy term matching, and repeatable jq query generation | [github](https://github.com/AgentOps-AI/Jaiqu) | [demo[(https://x.com/AlexReibman/status/1774314258379190770) | [website](https://jaiqu-agent.streamlit.app/) | [twitter](https://twitter.com/agentopsai/) | [discord](https://discord.gg/JHPt4C7r)
+1. **Jaiqu by AgentOps**: Jaiqu is an AI-powered tool for automatically transforming any JSON schema using GPT-4, featuring schema validation, fuzzy term matching, and repeatable jq query generation | [github](https://github.com/AgentOps-AI/Jaiqu) | [demo](https://x.com/AlexReibman/status/1774314258379190770) | [website](https://jaiqu-agent.streamlit.app/) | [twitter](https://twitter.com/agentopsai/) | [discord](https://discord.gg/JHPt4C7r)
 
 ## AI Agents + Model Merges
 
