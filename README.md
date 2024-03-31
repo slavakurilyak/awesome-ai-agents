@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/slavakurilyak/awesome-ai-agents/assets/6625584/cf0fb16e-fc41-43b6-b5c8-663a4587d1dc" height="300" alt="Awesome List of AI Agents" />
+  <img src="https://github.com/slavakurilyak/awesome-ai-agents/assets/6625584/f37cd4ef-84e7-424d-93d7-40a3086e3c95" height="300" alt="Awesome List of AI Agents" />
 </p>
 <h1 align="center">Awesome List of AI Agents</h1>
 <p align="center">
