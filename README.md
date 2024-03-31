@@ -24,6 +24,8 @@ Do you have an idea for an AI agent or are you looking for an agentic AI solutio
 
 Disclaimer: I am the Founder/CEO at Produvia
 
+At Produvia, we partner with $7M+ in revenue brands to develop custom AI agents
+
 ## AI Agents
 
 Here's an awesome list of AI agents:
