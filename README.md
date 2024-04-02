@@ -136,6 +136,8 @@ Here's an awesome list of AI agents:
 
 Here's an awesome list of agentic AI development libraries or frameworks:
 
+1. **SWE-agent**: This open source project introduces SWE-agent, a software engineering agent for LMs like GPT-4, enhancing bug and issue resolution in GitHub repositories with state-of-the-art performance, facilitated by a well-designed Agent-Computer Interface (ACI) and support for OpenAI and Anthropic Claude models | [github](https://github.com/princeton-nlp/SWE-agent) | [website](https://swe-agent.com/) | [demo](https://swe-agent.com/demo) | [discord](https://discord.gg/AVEFbBn2rH)
+
 1. **Agents by Hugging Face**: Hugging Face's Transformers Agents provide three main types: HfAgent for inference with open-source models, LocalAgent for using local models and tokenizers, and OpenAiAgent for access to OpenAI's closed models, enabling code generation and other AI tasks with varying levels of customization and local or remote execution | [website](https://huggingface.co/docs/transformers/main_classes/agent)
 
 1. **Axflow**: Axflow is a TypeScript framework designed for AI development, offering a modular collection of tools for building natural language applications, and it emphasizes a code-first approach to simplify the integration of LLMs into scalable solutions | [website](https://axflow.dev/) | [github](https://github.com/axflow/axflow)
