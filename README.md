@@ -354,6 +354,8 @@ Here's an awesome list of enforcing structured outputs from AI agents:
 
 1. **Instructor**: Instructor, a Python library, facilitates working with structured outputs from large language models (LLMs), offering features like response model specification, retry management, validation, and streaming support, primarily aimed at enhancing workflows of AI agents utilizing LLMs | [github](https://github.com/jxnl/instructor) | [website](https://python.useinstructor.com/)
 
+1. **Instructor Cloud**: Instructor Cloud offers a platform for extracting models from text rapidly, with real-time streaming and the potential to utilize GPT-4*, encouraging engagement through contributions and adaptation of its FastAPI-based service | [github](https://github.com/instructor-ai/cloud) | [announcement](https://twitter.com/jxnlco/status/1774822440922763707)
+
 1. **Pydantic**: Pydantic is a Python library facilitating data validation through type hints, particularly useful for AI agents, offering fast validation capabilities and compatibility with various development tools | [github](https://github.com/pydantic/pydantic) | [website](https://docs.pydantic.dev/)
 
 1. **Outlines**: Outlines is a robust text generation library designed for agentic AI developers, featuring support for multiple model integrations, advanced prompting with Jinja, efficient structured generation through regex, JSON schema, context-free grammars, and more, enabling the creation of predictable and structured AI agent outputs | [github](https://github.com/outlines-dev/outlines) | [website](https://outlines-dev.github.io/outlines/) | [discord](https://discord.gg/ZxBxyWmW5n)
