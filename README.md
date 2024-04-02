@@ -384,6 +384,8 @@ Here's an awesome list of function calls (aka tools) for your AI agents:
 
 1. **LlamaIndex Tools by Llama Hub**: LlamaHub offers a variety of tools for building data agents, with top downloads including IonicShoppingToolSpec, OpenAPIToolSpec, WikipediaToolSpec, GmailToolSpec, and GoogleCalendarToolSpec, enabling seamless integration with user-defined functions, query engines, and third-party services | [website](https://llamahub.ai/?tab=tools) | [docs](https://docs.llamaindex.ai/en/latest/module_guides/deploying/agents/tools/)
 
+1. **aifs by OpenInterpreter**: AIFS offers a simple and efficient local semantic search capability for folders, leveraging Unstructured.IO for advanced data processing and ChromaDB for fast, similarity-based searching of embeddings | [github](https://github.com/OpenInterpreter/aifs)
+
 ## AI Agents + User Interface Development
 
 Here's an awesome list of UIs (generative UIs, conversational UIs, and agentic UIs) optimized for AI agents:
