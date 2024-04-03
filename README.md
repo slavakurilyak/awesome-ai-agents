@@ -108,8 +108,6 @@ Here's an awesome list of AI agents:
 
 1. **BrowserGPT**: BrowserGPT is a project that combines OpenAI's GPT-4 and the Playwright library to control browsers via natural language, enabling code snippet generation for browser tasks | [github](https://github.com/mayt/BrowserGPT) | [github profile](https://github.com/mayt)
 
-1. **AppAgent**: AppAgent is an open-source LLM-based multimodal agent framework for operating smartphone applications through human-like interactions, enabling autonomous exploration or learning from human demonstrations without system back-end access | [github](https://github.com/mnotgod96/AppAgent) | [github profile](https://github.com/mnotgod96)
-
 1. **ChartGPT**: ChartGPT offers AI-driven services like table summarization, charting, and code generation, featuring pay-as-you-go pricing, trusted by major companies, emphasizing data security, ease of use, and 24/7 customer support | [website](https://chartgpt.io)
 
 1. **AI Agent Assist by DialPad**: Dialpad introduces Ai Agent Assist, offering real-time, Ai-powered answers to enhance customer service through deep integrations, reducing agent ramp time, and providing actionable insights with out-of-the-box productivity | [landing page](https://www.dialpad.com/ai-labs/ai-agent-assist/)
@@ -290,11 +288,13 @@ Here's an awesome list of monitoring frameworks for AI agents:
 
 1. **Helicone**: Helicone is an open-source observability platform for Language Learning Models (LLMs), providing features like request logging, caching, rate limiting, cost and latency tracking, UI-based prompt iteration, and collaboration tools | [website](https://www.helicone.ai/) | [github](https://github.com/Helicone/helicone)
 
-## AI Agents + Mobile Deployments
+## AI Agents + Mobile-Friendly Frameworks
 
 Here's an awesome list of running AI agents on mobile (on your own phone):
 
-1. **NavAIGuide**: NavAIGuide is an extensible multi-modal agentic framework designed for fulfilling plans and queries within the app ecosystem, featuring visual task detection, advanced code selectors, action-oriented execution, and resilient error handling | [github](https://github.com/francedot/NavAIGuide-TS)
+1. **NavAIGuide**: NavAIGuide is an extensible, mobile-friendly, multi-modal agentic framework designed to integrate with mobile and desktop apps, featuring visual task detection, advanced code selectors, action-oriented execution, and resilient error handling | [github](https://github.com/francedot/NavAIGuide-TS)
+
+1. **AppAgent**: AppAgent is a mobile-friendly LLM-based multimodal agent framework developed to operate smartphone apps, enabling human-like interactions for a wide range of applications without system back-end access | [github](https://github.com/mnotgod96/AppAgent) | [github profile](https://github.com/mnotgod96)
 
 ## AI Agents + Local Inference
 
