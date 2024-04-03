@@ -142,6 +142,8 @@ Here's an awesome list of AI agents:
 
 Here's an awesome list of agentic AI development libraries or frameworks:
 
+1. **AgentOS**: The Agent OS is an experimental platform for creating self-evolving, autonomous AI agents capable of writing and executing their own code, designed to be a long-term environment for such agents and supports various programming languages | [github](https://github.com/smartcomputer-ai/agent-os)
+
 1. **AutoAct**: AutoAct is an automatic agent learning framework that synthesizes planning trajectories without large-scale data or closed-source models, using a division-of-labor strategy for task completion, demonstrating superior or comparable performance in experiments | [github](https://github.com/zjunlp/AutoAct) | [website](https://www.zjukg.org/project/AutoAct/) | [paper](https://arxiv.org/abs/2401.05268) | [announcement](https://twitter.com/zxlzr/status/1745412748023128565)
 
 1. **SWE-agent**: This open source project introduces SWE-agent, a software engineering agent for LMs like GPT-4, enhancing bug and issue resolution in GitHub repositories with state-of-the-art performance, facilitated by a well-designed Agent-Computer Interface (ACI) and support for OpenAI and Anthropic Claude models | [github](https://github.com/princeton-nlp/SWE-agent) | [website](https://swe-agent.com/) | [demo](https://swe-agent.com/demo) | [discord](https://discord.gg/AVEFbBn2rH)
