@@ -392,6 +392,8 @@ Here's an awesome list of function calls (aka tools) for your AI agents:
 
 1. **aifs by OpenInterpreter**: AIFS offers a simple and efficient local semantic search capability for folders, leveraging Unstructured.IO for advanced data processing and ChromaDB for fast, similarity-based searching of embeddings | [github](https://github.com/OpenInterpreter/aifs)
 
+1. **Vector Stores as Tools**: Langchain features VectorDBQAChain, which integrates LLMs and vector databases into agent tools for enhanced question-answering capabilities by leveraging data ingested into vector stores | [notebook](https://js.langchain.com/docs/modules/agents/tools/how_to/agents_with_vectorstores)
+
 ## AI Agents + User Interface Development
 
 Here's an awesome list of UIs (generative UIs, conversational UIs, and agentic UIs) optimized for AI agents:
