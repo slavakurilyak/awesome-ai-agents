@@ -134,6 +134,8 @@ Here's an awesome list of AI agents:
 
 1. **VacAIgent**: VacAIgent is a Streamlit-integrated, CrewAI framework-based AI application (Trip Planner Agent) that automates and enhances trip planning through a user-friendly interface, demonstrating collaborative AI agent task execution and offering an interactive web app experience for tailoring travel plans | [github](https://github.com/tonykipkemboi/trip_planner_agent) | [code walkthrough](https://github.com/tonykipkemboi/trip_planner_agent?tab=readme-ov-file#introduction)
 
+1. **XAgent**: XAgent is an open-source, experimental Large Language Model-driven autonomous agent designed to autonomously solve a wide range of tasks with features like autonomy, safety, extensibility, a GUI for easy interaction, and the ability to cooperate with humans | [github](https://github.com/OpenBMB/XAgent) | [demo](https://www.youtube.com/watch?v=QGkpd-tsFPA) | [docs](https://xagent-doc.readthedocs.io/en/latest/) | [blog](https://blog.x-agent.net/blog/xagent/)
+
 ## AI Agents + Development Frameworks
 
 Here's an awesome list of agentic AI development libraries or frameworks:
