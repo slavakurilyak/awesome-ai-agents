@@ -132,6 +132,8 @@ Here's an awesome list of AI agents:
 
 1. **Imbue**:: Imbue, previously known as Generally Intelligent, is developing AI systems designed for reasoning and coding, aiming to create truly personal computers that enhance human freedom, dignity, and agency, supported by a $200M funding round to advance their technology | [website](https://imbue.com/) | [twitter](https://twitter.com/imbue_ai/)
 
+1. **VacAIgent**: VacAIgent is a Streamlit-integrated, CrewAI framework-based AI application (Trip Planner Agent) that automates and enhances trip planning through a user-friendly interface, demonstrating collaborative AI agent task execution and offering an interactive web app experience for tailoring travel plans | [github](https://github.com/tonykipkemboi/trip_planner_agent) | [code walkthrough](https://github.com/tonykipkemboi/trip_planner_agent?tab=readme-ov-file#introduction)
+
 ## AI Agents + Development Frameworks
 
 Here's an awesome list of agentic AI development libraries or frameworks:
