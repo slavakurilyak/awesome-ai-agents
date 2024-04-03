@@ -36,6 +36,8 @@ At Produvia, we partner with $7M+ in revenue brands to develop custom AI agents
 
 Here's an awesome list of AI agents:
 
+1. **AgentX**: AgentX is an AI-powered sales assistant designed to enhance sales strategies and efficiency through advanced features like a Memory Module and Online Mode, leveraging industry best practices for smarter selling | [website](https://chatagentx.com/) | [twitter](https://twitter.com/agentxai) | [newsletter](https://buttondown.email/agentx)
+
 1. **Devin by Cognition**: Devin is a fully autonomous AI software engineer, revolutionizing coding with advanced reasoning and planning capabilities | [announcement](https://www.cognition-labs.com/introducing-devin) | [website](https://www.cognition-labs.com/)
 
 1. **OpenDevin**: OpenDevin is an open-source initiative aimed at replicating and enhancing the autonomous AI software engineer Devin, focusing on collaboration and complex task execution in software development, emphasizing its relevance to advancing agentic AI technologies | [github](https://github.com/OpenDevin/OpenDevin) | [github profile](https://github.com/OpenDevin)
