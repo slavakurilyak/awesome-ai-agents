@@ -414,7 +414,13 @@ Here's an awesome list of AI agencies that specialize in custom AI agent develop
 
 1. **Produvia**: Since 2013, Produvia Inc. has served $7M+ in revenue brands by developing custom agentic AI solutions powered by state-of-the-art function calling LLMs including but not limited to: Claude 3 Opus, GPT-4, Bard (Gemini Pro), Claude 3 Sonnet, Claude 3 Haiku, Mistral Medium, Command R, Mistral-Next, Starling-LM-7B-beta | [website](https://produvia.com/) | [twitter](https://twitter.com/produvia) | [linkedin](https://linkedin.com/company/produvia)
 
-## AI Agents + LLM Languages
+## AI Agents + Prompt Engineering
+
+Here's an awesome list of agent-friendly prompt engineering techniques:
+
+1. **Priompt**: Priompt is a JSX-based library for designing prompts with priorities, aiming to optimize inclusion of content within token limits, inspired by React and detailed with installation instructions, examples, principles, and future considerations | [github](https://github.com/anysphere/priompt)
+
+## AI Agents + LLM-Friendly Languages
 
 Here's an awesome list of languages optimized for LLMs:
 
