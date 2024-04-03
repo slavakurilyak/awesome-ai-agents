@@ -142,6 +142,8 @@ Here's an awesome list of AI agents:
 
 Here's an awesome list of agentic AI development libraries or frameworks:
 
+1. **AutoAct**: AutoAct is an automatic agent learning framework that synthesizes planning trajectories without large-scale data or closed-source models, using a division-of-labor strategy for task completion, demonstrating superior or comparable performance in experiments | [github](https://github.com/zjunlp/AutoAct) | [website](https://www.zjukg.org/project/AutoAct/) | [paper](https://arxiv.org/abs/2401.05268) | [announcement](https://twitter.com/zxlzr/status/1745412748023128565)
+
 1. **SWE-agent**: This open source project introduces SWE-agent, a software engineering agent for LMs like GPT-4, enhancing bug and issue resolution in GitHub repositories with state-of-the-art performance, facilitated by a well-designed Agent-Computer Interface (ACI) and support for OpenAI and Anthropic Claude models | [github](https://github.com/princeton-nlp/SWE-agent) | [website](https://swe-agent.com/) | [demo](https://swe-agent.com/demo) | [discord](https://discord.gg/AVEFbBn2rH)
 
 1. **Agents by Hugging Face**: Hugging Face's Transformers Agents provide three main types: HfAgent for inference with open-source models, LocalAgent for using local models and tokenizers, and OpenAiAgent for access to OpenAI's closed models, enabling code generation and other AI tasks with varying levels of customization and local or remote execution | [website](https://huggingface.co/docs/transformers/main_classes/agent)
