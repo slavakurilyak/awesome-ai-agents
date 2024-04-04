@@ -440,6 +440,12 @@ Here's an awesome list of languages optimized for LLMs:
 
 1. **LMQL**: LMQL is a Python-based programming language for large language models, allowing seamless integration of LLMs into code with advanced features like conditional logic, constraints, and multi-model support | [github](https://github.com/eth-sri/lmql) | [website](https://lmql.ai/)
 
+## Large Language Models (LLMs) Optimized for Function Calling
+
+Here's an awesome list of LLMs optimized for function calling:
+
+1. **Command R+ by Cohere**: Cohere introduces Command R+, an advanced, scalable LLM optimized for enterprise needs with advanced RAG, multilingual support, and sophisticated tool-use capabilities for automating complex business workflows, available first on Microsoft Azure | [announcement](https://txt.cohere.com/command-r-plus-microsoft-azure/) | [docs](https://docs.cohere.com/docs/command-r)
+
 ## Hire Us
 
 Do you want to develop a custom agentic AI solution or looking launch your own AI agent?
