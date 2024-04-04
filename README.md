@@ -140,6 +140,8 @@ Here's an awesome list of AI agents:
 
 Here's an awesome list of agentic AI development libraries or frameworks:
 
+1. **TaskingAI**:: TaskingAI is a platform enhancing AI-native app development with Firebase-like simplicity, offering an all-in-one LLM platform with intuitive project management, BaaS-inspired workflow, and customizable integration for developing GPTs-like multi-tenant applications | [github](https://github.com/TaskingAI/TaskingAI) | [website](https://www.tasking.ai/)
+
 1. **AgentOS**: The Agent OS is an experimental platform for creating self-evolving, autonomous AI agents capable of writing and executing their own code, designed to be a long-term environment for such agents and supports various programming languages | [github](https://github.com/smartcomputer-ai/agent-os)
 
 1. **AutoAct**: AutoAct is an automatic agent learning framework that synthesizes planning trajectories without large-scale data or closed-source models, using a division-of-labor strategy for task completion, demonstrating superior or comparable performance in experiments | [github](https://github.com/zjunlp/AutoAct) | [website](https://www.zjukg.org/project/AutoAct/) | [paper](https://arxiv.org/abs/2401.05268) | [announcement](https://twitter.com/zxlzr/status/1745412748023128565)
