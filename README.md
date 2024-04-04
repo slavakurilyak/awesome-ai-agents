@@ -140,6 +140,8 @@ Here's an awesome list of AI agents:
 
 Here's an awesome list of agentic AI development libraries or frameworks:
 
+1. **Lumos**: Lumos introduces a modular, open-source language agent framework with unified data formats that competes with or outperforms GPT-series and larger agents across various complex interactive tasks | [github](https://github.com/allenai/lumos) | [website](https://allenai.github.io/lumos/) | [model](https://huggingface.co/models?sort=trending&search=ai2lumos) | [data](https://huggingface.co/datasets?sort=trending&search=ai2lumos) | [announcement](https://twitter.com/billyuchenlin/status/1724519911614300390?s=61&t=FyWExVfnr8YanWV5YzaPjg)
+
 1. **TaskingAI**:: TaskingAI is a platform enhancing AI-native app development with Firebase-like simplicity, offering an all-in-one LLM platform with intuitive project management, BaaS-inspired workflow, and customizable integration for developing GPTs-like multi-tenant applications | [github](https://github.com/TaskingAI/TaskingAI) | [website](https://www.tasking.ai/)
 
 1. **AgentOS**: The Agent OS is an experimental platform for creating self-evolving, autonomous AI agents capable of writing and executing their own code, designed to be a long-term environment for such agents and supports various programming languages | [github](https://github.com/smartcomputer-ai/agent-os)
