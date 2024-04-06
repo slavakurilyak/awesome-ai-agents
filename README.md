@@ -136,6 +136,8 @@ Here's an awesome list of AI agents:
 
 1. **XAgent**: XAgent is an open-source, experimental Large Language Model-driven autonomous agent designed to autonomously solve a wide range of tasks with features like autonomy, safety, extensibility, a GUI for easy interaction, and the ability to cooperate with humans | [github](https://github.com/OpenBMB/XAgent) | [demo](https://www.youtube.com/watch?v=QGkpd-tsFPA) | [docs](https://xagent-doc.readthedocs.io/en/latest/) | [blog](https://blog.x-agent.net/blog/xagent/)
 
+1. **Fine**: Fine.dev offers AI-powered agents designed to automate software development tasks, seamlessly integrating into engineering teams to manage tedious tasks, technical debt, code reviews, and migrations, while customizing to project needs and learning from team feedback for improved efficiency | [website](https://www.fine.dev) | [discord](https://discord.gg/nxW8sA5yqe) | [docs](https://docs.fine.dev/)
+
 ## AI Agents + Development Frameworks
 
 Here's an awesome list of agentic AI development libraries or frameworks:
