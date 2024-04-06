@@ -138,6 +138,8 @@ Here's an awesome list of AI agents:
 
 1. **Fine**: Fine.dev offers AI-powered agents designed to automate software development tasks, seamlessly integrating into engineering teams to manage tedious tasks, technical debt, code reviews, and migrations, while customizing to project needs and learning from team feedback for improved efficiency | [website](https://www.fine.dev) | [discord](https://discord.gg/nxW8sA5yqe) | [docs](https://docs.fine.dev/)
 
+1. **AI Researcher**: The AI Researcher is an AI agent leveraging Claude 3 and SERPAPI for in-depth topic research, refining subtopic analyses into a comprehensive report, customizable and requiring API keys for functionality | [github](https://github.com/mshumer/ai-researcher) | [announcement](https://twitter.com/i/web/status/1776341679617745126) | [agent](https://app.hyperwriteai.com/personalassistant/tool/b40d5925-4780-4eed-9f69-a03ae931de37)
+
 ## AI Agents + Development Frameworks
 
 Here's an awesome list of agentic AI development libraries or frameworks:
