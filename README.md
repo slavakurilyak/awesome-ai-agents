@@ -38,7 +38,7 @@ Here's an awesome list of AI agents:
 
 1. **AgentX**: AgentX is an AI-powered sales assistant designed to enhance sales strategies and efficiency through advanced features like a Memory Module and Online Mode, leveraging industry best practices for smarter selling | [website](https://chatagentx.com/) | [twitter](https://twitter.com/agentxai) | [newsletter](https://buttondown.email/agentx)
 
-1. **Taskade AI**: Taskade AI is an AI-powered productivity suite offering tools like task and project management, notes, docs, mind maps, and AI chat to enhance team productivity and automate over 700 tasks | [website](https://www.taskade.com/) | [twitter](https://twitter.com/Taskade) | [youtube](https://youtube.com/taskade)
+1. **Devid by Agency Swarm**: Devid Agent, a new AI software development tool, has been integrated into the Agency Swarm framework to enhance automated AI agency operations, alternative to Cognition AI's Devin | [release notes](https://github.com/VRSEN/agency-swarm/releases/tag/v0.1.7) | [announcement video](https://www.youtube.com/watch?v=BEpDRj9H3zE)
 
 1. **Devin by Cognition**: Devin is a fully autonomous AI software engineer, revolutionizing coding with advanced reasoning and planning capabilities | [announcement](https://www.cognition-labs.com/introducing-devin) | [website](https://www.cognition-labs.com/)
 
@@ -99,6 +99,8 @@ Here's an awesome list of AI agents:
 1. **Personal Assistant by HyperWrite**: HyperWrite offers a Personal Assistant AI agent for everyday tasks, seamlessly integrating into workflows to automate tedious tasks, optimize planning, and inform decision-making, while also providing personalized suggestions and transforming wishes into commands across various platforms | [website](https://www.hyperwriteai.com/personal-assistant) | [github profile](https://github.com/OthersideAI)
 
 1. **AutoGPT**: AutoGPT provides accessible AI tools for building and using AI agents, offering a comprehensive framework including Forge for agent creation, agbenchmark for performance evaluation, a leaderboard for competition, a user-friendly UI, and CLI for seamless integration and management | [github](https://github.com/Significant-Gravitas/AutoGPT) | [github profile](https://github.com/Significant-Gravitas)
+
+1. **Taskade AI**: Taskade AI is an AI-powered productivity suite offering tools like task and project management, notes, docs, mind maps, and AI chat to enhance team productivity and automate over 700 tasks | [website](https://www.taskade.com/) | [twitter](https://twitter.com/Taskade) | [youtube](https://youtube.com/taskade)
 
 1. **BabyAGI**: BabyAGI exemplifies an AI-powered task management system utilizing OpenAI and vector databases like Chroma or Weaviate, creating, prioritizing, and executing tasks based on previous outcomes and predefined objectives, with the main function involving an infinite loop where tasks are processed, enriched, and stored using OpenAI's NLP capabilities and Chroma/Weaviate, inspired by the Task-Driven Autonomous Agent concept | [github](https://github.com/yoheinakajima/babyagi) | [github profile](https://github.com/yoheinakajima)
 
