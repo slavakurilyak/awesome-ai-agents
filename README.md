@@ -38,6 +38,8 @@ Here's an awesome list of AI agents:
 
 1. **AgentX**: AgentX is an AI-powered sales assistant designed to enhance sales strategies and efficiency through advanced features like a Memory Module and Online Mode, leveraging industry best practices for smarter selling | [website](https://chatagentx.com/) | [twitter](https://twitter.com/agentxai) | [newsletter](https://buttondown.email/agentx)
 
+1. **Devid by Agency Swarm**: Devid Agent, a new AI software development tool, has been integrated into the Agency Swarm framework to enhance automated AI agency operations, alternative to Cognition AI's Devin | [release notes](https://github.com/VRSEN/agency-swarm/releases/tag/v0.1.7) | [announcement video](https://www.youtube.com/watch?v=BEpDRj9H3zE)
+
 1. **Devin by Cognition**: Devin is a fully autonomous AI software engineer, revolutionizing coding with advanced reasoning and planning capabilities | [announcement](https://www.cognition-labs.com/introducing-devin) | [website](https://www.cognition-labs.com/)
 
 1. **OpenDevin**: OpenDevin is an open-source initiative aimed at replicating and enhancing the autonomous AI software engineer Devin, focusing on collaboration and complex task execution in software development, emphasizing its relevance to advancing agentic AI technologies | [github](https://github.com/OpenDevin/OpenDevin) | [github profile](https://github.com/OpenDevin)
@@ -49,6 +51,8 @@ Here's an awesome list of AI agents:
 1. **GPT Pilot**: GPT Pilot is an open-source AI developer tool that aims to provide a comprehensive development companion, capable of writing features, debugging, and interacting with users, presenting itself as an alternative to Devin, the world's first AI software engineer developed by Cognition Labs | [github](https://github.com/Pythagora-io/gpt-pilot) | [discord](https://discord.gg/HaqXugmxr9)
 
 1. **Devon (previously Gilfoyle)**: Devon, not Devin, aims to perfect code correction for fill-in-the-middle, bug spotting, and completion tasks, using JSON for metadata in edits, and incorporates looping until user termination in function updates | [github](https://github.com/entropy-research/Devon)
+
+1. **Bland**: Bland AI offers a platform for building and scaling AI-powered phone agents capable of automating diverse call tasks across various industries, featuring easy integration, live data context, custom voices, and dedicated infrastructure for enterprise reliability | [website](https://www.bland.ai/) | [twitter](https://twitter.com/usebland)
 
 1. **Hume AI**: Hume AI offers empathic AI solutions with emotional intelligence through APIs for interpreting emotional expressions and generating empathic responses, aimed at enhancing human well-being and enabling developers to create AI agents with improved understanding and engagement | [website](https://www.hume.ai/) | [discord](https://discord.com/invite/WPRSugvAm6)
 
@@ -98,6 +102,8 @@ Here's an awesome list of AI agents:
 
 1. **AutoGPT**: AutoGPT provides accessible AI tools for building and using AI agents, offering a comprehensive framework including Forge for agent creation, agbenchmark for performance evaluation, a leaderboard for competition, a user-friendly UI, and CLI for seamless integration and management | [github](https://github.com/Significant-Gravitas/AutoGPT) | [github profile](https://github.com/Significant-Gravitas)
 
+1. **Taskade AI**: Taskade AI is an AI-powered productivity suite offering tools like task and project management, notes, docs, mind maps, and AI chat to enhance team productivity and automate over 700 tasks | [website](https://www.taskade.com/) | [twitter](https://twitter.com/Taskade) | [youtube](https://youtube.com/taskade)
+
 1. **BabyAGI**: BabyAGI exemplifies an AI-powered task management system utilizing OpenAI and vector databases like Chroma or Weaviate, creating, prioritizing, and executing tasks based on previous outcomes and predefined objectives, with the main function involving an infinite loop where tasks are processed, enriched, and stored using OpenAI's NLP capabilities and Chroma/Weaviate, inspired by the Task-Driven Autonomous Agent concept | [github](https://github.com/yoheinakajima/babyagi) | [github profile](https://github.com/yoheinakajima)
 
 1. **GPT Researcher by Tavily**: GPT Researcher is an AI-powered autonomous agent designed for efficient and unbiased online research, generating detailed reports by leveraging recent advancements in AI and web scraping, with a focus on speed, reliability, and cost-effectiveness | [github](https://github.com/assafelovic/gpt-researcher) | [github profile](https://github.com/assafelovic)
@@ -138,9 +144,19 @@ Here's an awesome list of AI agents:
 
 1. **BrainSoup**: BrainSoup is a multi-agent and multi-LLM native client, enabling users to create a team of personalized AI agents that can learn, remember, react to events, use tools, leverage the local resources of the user's computer, and work together to solve tasks autonomously | [website](https://www.nurgo-software.com/products/brainsoup) | [docs](https://help.nurgo-software.com/collection/148-brainsoup) | [twitter](https://twitter.com/Nurgo) | [discord](https://discord.gg/xt7PyCnH9S)
 
+1. **Fine**: Fine.dev offers AI-powered agents designed to automate software development tasks, seamlessly integrating into engineering teams to manage tedious tasks, technical debt, code reviews, and migrations, while customizing to project needs and learning from team feedback for improved efficiency | [website](https://www.fine.dev) | [discord](https://discord.gg/nxW8sA5yqe) | [docs](https://docs.fine.dev/)
+
+1. **AI Researcher**: The AI Researcher is an AI agent leveraging Claude 3 and SERPAPI for in-depth topic research, refining subtopic analyses into a comprehensive report, customizable and requiring API keys for functionality | [github](https://github.com/mshumer/ai-researcher) | [announcement](https://twitter.com/i/web/status/1776341679617745126) | [agent](https://app.hyperwriteai.com/personalassistant/tool/b40d5925-4780-4eed-9f69-a03ae931de37)
+
 ## AI Agents + Development Frameworks
 
 Here's an awesome list of agentic AI development libraries or frameworks:
+
+1. **Enact**: Enact is a Python framework for building generative software that integrates machine learning models or APIs, offering features like tracking and replaying executions, asynchronous flows, and higher-order generative processes | [github](https://github.com/agentic-ai/enact)
+
+1. **Lumos**: Lumos introduces a modular, open-source language agent framework with unified data formats that competes with or outperforms GPT-series and larger agents across various complex interactive tasks | [github](https://github.com/allenai/lumos) | [website](https://allenai.github.io/lumos/) | [model](https://huggingface.co/models?sort=trending&search=ai2lumos) | [data](https://huggingface.co/datasets?sort=trending&search=ai2lumos) | [announcement](https://twitter.com/billyuchenlin/status/1724519911614300390?s=61&t=FyWExVfnr8YanWV5YzaPjg)
+
+1. **TaskingAI**:: TaskingAI is a platform enhancing AI-native app development with Firebase-like simplicity, offering an all-in-one LLM platform with intuitive project management, BaaS-inspired workflow, and customizable integration for developing GPTs-like multi-tenant applications | [github](https://github.com/TaskingAI/TaskingAI) | [website](https://www.tasking.ai/)
 
 1. **AgentOS**: The Agent OS is an experimental platform for creating self-evolving, autonomous AI agents capable of writing and executing their own code, designed to be a long-term environment for such agents and supports various programming languages | [github](https://github.com/smartcomputer-ai/agent-os)
 
@@ -439,6 +455,12 @@ Here's an awesome list of agent-friendly prompt engineering techniques:
 Here's an awesome list of languages optimized for LLMs:
 
 1. **LMQL**: LMQL is a Python-based programming language for large language models, allowing seamless integration of LLMs into code with advanced features like conditional logic, constraints, and multi-model support | [github](https://github.com/eth-sri/lmql) | [website](https://lmql.ai/)
+
+## Large Language Models (LLMs) Optimized for Function Calling
+
+Here's an awesome list of LLMs optimized for function calling:
+
+1. **Command R+ by Cohere**: Cohere introduces Command R+, an advanced, scalable LLM optimized for enterprise needs with advanced RAG, multilingual support, and sophisticated tool-use capabilities for automating complex business workflows, available first on Microsoft Azure | [announcement](https://txt.cohere.com/command-r-plus-microsoft-azure/) | [docs](https://docs.cohere.com/docs/command-r)
 
 ## Hire Us
 
