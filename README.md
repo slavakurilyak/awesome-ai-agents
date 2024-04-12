@@ -142,6 +142,8 @@ Here's an awesome list of AI agents:
 
 1. **XAgent**: XAgent is an open-source, experimental Large Language Model-driven autonomous agent designed to autonomously solve a wide range of tasks with features like autonomy, safety, extensibility, a GUI for easy interaction, and the ability to cooperate with humans | [github](https://github.com/OpenBMB/XAgent) | [demo](https://www.youtube.com/watch?v=QGkpd-tsFPA) | [docs](https://xagent-doc.readthedocs.io/en/latest/) | [blog](https://blog.x-agent.net/blog/xagent/)
 
+1. **BrainSoup**: BrainSoup is a multi-agent and multi-LLM native client, enabling users to create a team of personalized AI agents that can learn, remember, react to events, use tools, leverage the local resources of the user's computer, and work together to solve tasks autonomously | [website](https://www.nurgo-software.com/products/brainsoup) | [docs](https://help.nurgo-software.com/collection/148-brainsoup) | [twitter](https://twitter.com/Nurgo) | [discord](https://discord.gg/xt7PyCnH9S)
+
 1. **Fine**: Fine.dev offers AI-powered agents designed to automate software development tasks, seamlessly integrating into engineering teams to manage tedious tasks, technical debt, code reviews, and migrations, while customizing to project needs and learning from team feedback for improved efficiency | [website](https://www.fine.dev) | [discord](https://discord.gg/nxW8sA5yqe) | [docs](https://docs.fine.dev/)
 
 1. **AI Researcher**: The AI Researcher is an AI agent leveraging Claude 3 and SERPAPI for in-depth topic research, refining subtopic analyses into a comprehensive report, customizable and requiring API keys for functionality | [github](https://github.com/mshumer/ai-researcher) | [announcement](https://twitter.com/i/web/status/1776341679617745126) | [agent](https://app.hyperwriteai.com/personalassistant/tool/b40d5925-4780-4eed-9f69-a03ae931de37)
@@ -417,6 +419,8 @@ Here's an awesome list of function calls (aka tools) for your AI agents:
 1. **aifs by OpenInterpreter**: AIFS offers a simple and efficient local semantic search capability for folders, leveraging Unstructured.IO for advanced data processing and ChromaDB for fast, similarity-based searching of embeddings | [github](https://github.com/OpenInterpreter/aifs)
 
 1. **Vector Stores as Tools**: Langchain features VectorDBQAChain, which integrates LLMs and vector databases into agent tools for enhanced question-answering capabilities by leveraging data ingested into vector stores | [notebook](https://js.langchain.com/docs/modules/agents/tools/how_to/agents_with_vectorstores)
+
+1. **BrainSoup Custom Tools**: BrainSoup is a multi-agent and multi-LLM native client where users can easily create custom tools for their agents, in any programming language, enabling them to interact with the user's system or any other external service | [website](https://www.nurgo-software.com/products/brainsoup) | [docs](https://help.nurgo-software.com/collection/148-brainsoup) | [twitter](https://twitter.com/Nurgo) | [discord](https://discord.gg/xt7PyCnH9S)
 
 ## AI Agents + User Interface Development
 
