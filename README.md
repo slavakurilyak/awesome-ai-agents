@@ -52,6 +52,8 @@ Here's an awesome list of AI agents:
 
 1. **Devon (previously Gilfoyle)**: Devon, not Devin, aims to perfect code correction for fill-in-the-middle, bug spotting, and completion tasks, using JSON for metadata in edits, and incorporates looping until user termination in function updates | [github](https://github.com/entropy-research/Devon)
 
+1. **Bland**: Bland AI offers a platform for building and scaling AI-powered phone agents capable of automating diverse call tasks across various industries, featuring easy integration, live data context, custom voices, and dedicated infrastructure for enterprise reliability | [website](https://www.bland.ai/) | [twitter](https://twitter.com/usebland)
+
 1. **Hume AI**: Hume AI offers empathic AI solutions with emotional intelligence through APIs for interpreting emotional expressions and generating empathic responses, aimed at enhancing human well-being and enabling developers to create AI agents with improved understanding and engagement | [website](https://www.hume.ai/) | [discord](https://discord.com/invite/WPRSugvAm6)
 
 1. **AutoDev**: AutoDev is an AI-powered coding assistant offering multilingual support, automatic code generation, and debugging assistance, featuring customizable prompts and specialized tools for development, testing, documentation, and the integration of custom AI agents, with a focus on experimenting and building AI agents using its UI framework | [github](https://github.com/unit-mesh/auto-dev) | [docs](https://ide.unitmesh.cc)
