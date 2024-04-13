@@ -478,7 +478,7 @@ Here's an awesome list of languages optimized for LLMs:
 
 Here's an awesome list of LLMs which support function calling (or tool use):
 
-1. **Select GPT models by OpenAI**: Function calling or tool use is supported with the following models: `gpt-4-turbo`, `gpt-4-turbo-2024-04-09`, `gpt-4-turbo-preview`, `gpt-4-0125-preview`, `gpt-4-1106-preview`, `gpt-4`, `gpt-4-0613`, `gpt-3.5-turbo`, `gpt-3.5-turbo-0125`, `gpt-3.5-turbo-1106`, and `gpt-3.5-turbo-0613` | [docs](https://platform.openai.com/docs/guides/function-calling)
+1. **GPT models by OpenAI**: Function calling or tool use is supported with the following models: `gpt-4-turbo`, `gpt-4-turbo-2024-04-09`, `gpt-4-turbo-preview`, `gpt-4-0125-preview`, `gpt-4-1106-preview`, `gpt-4`, `gpt-4-0613`, `gpt-3.5-turbo`, `gpt-3.5-turbo-0125`, `gpt-3.5-turbo-1106`, and `gpt-3.5-turbo-0613` | [docs](https://platform.openai.com/docs/guides/function-calling)
 
 1. **Claude models by Anthropic**: Function calling or tool use is supported with the following models: `claude-3-opus-20240229`, `claude-3-sonnet-20240229`, and `claude-3-haiku-20240307` | [docs](https://docs.anthropic.com/claude/docs/tool-use)
 
