@@ -146,15 +146,23 @@ Here's an awesome list of AI agents:
 
 1. **Hume AI**: Hume AI offers empathic AI solutions with emotional intelligence through APIs for interpreting emotional expressions and generating empathic responses, aimed at enhancing human well-being and enabling developers to create AI agents with improved understanding and engagement | [website](https://www.hume.ai/) | [discord](https://discord.com/invite/WPRSugvAm6)
 
-## AI Agents + Phone Calling + Function Calling
+## AI Agents + Phone Calling:
 
-Here's an awesome list of AI agents with phone calling and function calling:
+Here's an awesome list of AI agents with phone calling:
 
 1. **Bland**: Bland AI offers a platform for building and scaling AI-powered phone agents, featuring easy integration, live data context, custom voices, and dedicated infrastructure. Tech stack includes LLM: Claude Instant (Anthropic), Transcription: Whisper (OpenAI), TTS: ElevenLabs | [website](https://www.bland.ai/) | [twitter](https://twitter.com/usebland)
 
 1. **Synthflow AI**: Synthflow is a platform enabling the creation of human-like conversational AI voice agents with no-code customization, integrating directly with apps like HubSpot and Eleven Labs for voice services | [website](https://synthflow.ai/) | [docs](https://docs.synthflow.ai/)
 
 1. **Vapi**: Vapi is a developer-friendly platform that enables the rapid creation, testing, and deployment of voicebots, revolutionizing voice AI integration with seamless support from voice providers like PlayHT | [website](https://vapi.ai/) | [discord](https://discord.gg/pUFNcf2WmH) | [twitter](https://twitter.com/Vapi_AI) | [linkedin](https://www.linkedin.com/company/vapi-ai) | [docs](https://docs.vapi.ai)
+
+## AI Agents + Voice Generation
+
+Here's awesome list of voice generation functionality:
+
+1. **ElevenLabs**: ElevenLabs is a software company that develops AI-powered, natural-sounding speech synthesis and text-to-speech software, with the mission of making content universally accessible in any language and voice | [website](https://elevenlabs.io/)
+
+1. **Play**: PlayHT's AI Voice Generator offers a state-of-the-art TTS service that creates natural, humanlike voiceovers in multiple languages and accents, ideal for various audio content needs with full commercial rights | [website](https://play.ht/)
 
 ## AI Agents + Development Frameworks
 
@@ -466,9 +474,13 @@ Here's an awesome list of languages optimized for LLMs:
 
 1. **LMQL**: LMQL is a Python-based programming language for large language models, allowing seamless integration of LLMs into code with advanced features like conditional logic, constraints, and multi-model support | [github](https://github.com/eth-sri/lmql) | [website](https://lmql.ai/)
 
-## Large Language Models (LLMs) Optimized for Function Calling
+## LLMs + Tool Use (Function Calling)
 
-Here's an awesome list of LLMs optimized for function calling:
+Here's an awesome list of LLMs which support function calling (or tool use):
+
+1. **Select GPT models by OpenAI**: Function calling or tool use is supported with the following models: `gpt-4-turbo`, `gpt-4-turbo-2024-04-09`, `gpt-4-turbo-preview`, `gpt-4-0125-preview`, `gpt-4-1106-preview`, `gpt-4`, `gpt-4-0613`, `gpt-3.5-turbo`, `gpt-3.5-turbo-0125`, `gpt-3.5-turbo-1106`, and `gpt-3.5-turbo-0613` | [docs](https://platform.openai.com/docs/guides/function-calling)
+
+1. **Claude models by Anthropic**: Function calling or tool use is supported with the following models: `claude-3-opus-20240229`, `claude-3-sonnet-20240229`, and `claude-3-haiku-20240307` | [docs](https://docs.anthropic.com/claude/docs/tool-use)
 
 1. **Command R+ by Cohere**: Cohere introduces Command R+, an advanced, scalable LLM optimized for enterprise needs with advanced RAG, multilingual support, and sophisticated tool-use capabilities for automating complex business workflows, available first on Microsoft Azure | [announcement](https://txt.cohere.com/command-r-plus-microsoft-azure/) | [docs](https://docs.cohere.com/docs/command-r)
 
