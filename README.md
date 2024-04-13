@@ -52,10 +52,6 @@ Here's an awesome list of AI agents:
 
 1. **Devon (previously Gilfoyle)**: Devon, not Devin, aims to perfect code correction for fill-in-the-middle, bug spotting, and completion tasks, using JSON for metadata in edits, and incorporates looping until user termination in function updates | [github](https://github.com/entropy-research/Devon)
 
-1. **Bland**: Bland AI offers a platform for building and scaling AI-powered phone agents, featuring easy integration, live data context, custom voices, and dedicated infrastructure. Tech stack includes LLM: Claude Instant (Anthropic), Transcription: Whisper (OpenAI), TTS: ElevenLabs | [website](https://www.bland.ai/) | [twitter](https://twitter.com/usebland)
-
-1. **Hume AI**: Hume AI offers empathic AI solutions with emotional intelligence through APIs for interpreting emotional expressions and generating empathic responses, aimed at enhancing human well-being and enabling developers to create AI agents with improved understanding and engagement | [website](https://www.hume.ai/) | [discord](https://discord.com/invite/WPRSugvAm6)
-
 1. **AutoDev**: AutoDev is an AI-powered coding assistant offering multilingual support, automatic code generation, and debugging assistance, featuring customizable prompts and specialized tools for development, testing, documentation, and the integration of custom AI agents, with a focus on experimenting and building AI agents using its UI framework | [github](https://github.com/unit-mesh/auto-dev) | [docs](https://ide.unitmesh.cc)
 
 1. **vimGPT**: vimGPT is a project that integrates GPT-4V's vision capabilities with the Vimium extension to enable web browsing and interaction through keyboard navigation and voice commands, offering innovative solutions and improvements for accessibility and efficiency | [github](https://github.com/ishan0102/vimGPT) | [demo](https://github.com/ishan0102/vimGPT/tree/main?tab=readme-ov-file#vimgpt) | [hackernews](https://news.ycombinator.com/item?id=38200308)
@@ -147,6 +143,18 @@ Here's an awesome list of AI agents:
 1. **Fine**: Fine.dev offers AI-powered agents designed to automate software development tasks, seamlessly integrating into engineering teams to manage tedious tasks, technical debt, code reviews, and migrations, while customizing to project needs and learning from team feedback for improved efficiency | [website](https://www.fine.dev) | [discord](https://discord.gg/nxW8sA5yqe) | [docs](https://docs.fine.dev/)
 
 1. **AI Researcher**: The AI Researcher is an AI agent leveraging Claude 3 and SERPAPI for in-depth topic research, refining subtopic analyses into a comprehensive report, customizable and requiring API keys for functionality | [github](https://github.com/mshumer/ai-researcher) | [announcement](https://twitter.com/i/web/status/1776341679617745126) | [agent](https://app.hyperwriteai.com/personalassistant/tool/b40d5925-4780-4eed-9f69-a03ae931de37)
+
+1. **Hume AI**: Hume AI offers empathic AI solutions with emotional intelligence through APIs for interpreting emotional expressions and generating empathic responses, aimed at enhancing human well-being and enabling developers to create AI agents with improved understanding and engagement | [website](https://www.hume.ai/) | [discord](https://discord.com/invite/WPRSugvAm6)
+
+## AI Agents + Phone Calling + Function Calling
+
+Here's an awesome list of AI agents with phone calling and function calling:
+
+1. **Bland**: Bland AI offers a platform for building and scaling AI-powered phone agents, featuring easy integration, live data context, custom voices, and dedicated infrastructure. Tech stack includes LLM: Claude Instant (Anthropic), Transcription: Whisper (OpenAI), TTS: ElevenLabs | [website](https://www.bland.ai/) | [twitter](https://twitter.com/usebland)
+
+1. **Synthflow AI**: Synthflow is a platform enabling the creation of human-like conversational AI voice agents with no-code customization, integrating directly with apps like HubSpot and Eleven Labs for voice services | [website](https://synthflow.ai/) | [docs](https://docs.synthflow.ai/)
+
+1. **Vapi**: Vapi is a developer-friendly platform that enables the rapid creation, testing, and deployment of voicebots, revolutionizing voice AI integration with seamless support from voice providers like PlayHT | [website](https://vapi.ai/) | [discord](https://discord.gg/pUFNcf2WmH) | [twitter](https://twitter.com/Vapi_AI) | [linkedin](https://www.linkedin.com/company/vapi-ai) | [docs](https://docs.vapi.ai)
 
 ## AI Agents + Development Frameworks
 
