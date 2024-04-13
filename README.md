@@ -440,6 +440,8 @@ Here's an awesome list of function calls (aka tools) for your AI agents:
 
 1. **BrainSoup Custom Tools**: BrainSoup is a multi-agent and multi-LLM native client where users can easily create custom tools for their agents, in any programming language, enabling them to interact with the user's system or any other external service | [website](https://www.nurgo-software.com/products/brainsoup) | [docs](https://help.nurgo-software.com/collection/148-brainsoup) | [twitter](https://twitter.com/Nurgo) | [discord](https://discord.gg/xt7PyCnH9S)
 
+1. **Tools by Taskade**: Enable your agents with the right set of tools to get the job done: web search (allow the agent to browse the web), WolframAlpha (enhance the agent's computational skills), add-ons (enable additional tools and extensions) | [docs](https://help.taskade.com/en/articles/8958457-custom-ai-agents#h_c9a93fc5b9)
+
 ## AI Agents + User Interface Development
 
 Here's an awesome list of UIs (generative UIs, conversational UIs, and agentic UIs) optimized for AI agents:
