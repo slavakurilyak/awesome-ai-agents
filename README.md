@@ -442,6 +442,8 @@ Here's an awesome list of function calls (aka tools) for your AI agents:
 
 1. **Tools by Taskade**: Enable your agents with the right set of tools to get the job done: web search (allow the agent to browse the web), WolframAlpha (enhance the agent's computational skills), add-ons (enable additional tools and extensions) | [docs](https://help.taskade.com/en/articles/8958457-custom-ai-agents#h_c9a93fc5b9)
 
+1. **Custom Tools by Bland AI**: Custom tools by Bland AI enable an agent to interact with any web API mid-call to perform actions like sending messages, scheduling appointments, creating support tickets, or updating CRM systems | [docs](https://docs.bland.ai/tutorials/custom-tools#creating-your-custom-tool)
+
 ## AI Agents + User Interface Development
 
 Here's an awesome list of UIs (generative UIs, conversational UIs, and agentic UIs) optimized for AI agents:
