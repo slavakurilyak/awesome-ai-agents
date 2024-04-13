@@ -52,7 +52,7 @@ Here's an awesome list of AI agents:
 
 1. **Devon (previously Gilfoyle)**: Devon, not Devin, aims to perfect code correction for fill-in-the-middle, bug spotting, and completion tasks, using JSON for metadata in edits, and incorporates looping until user termination in function updates | [github](https://github.com/entropy-research/Devon)
 
-1. **Bland**: Bland AI offers a platform for building and scaling AI-powered phone agents capable of automating diverse call tasks across various industries, featuring easy integration, live data context, custom voices, and dedicated infrastructure for enterprise reliability | [website](https://www.bland.ai/) | [twitter](https://twitter.com/usebland)
+1. **Bland**: Bland AI offers a platform for building and scaling AI-powered phone agents, featuring easy integration, live data context, custom voices, and dedicated infrastructure. Tech stack includes LLM: Claude Instant (Anthropic), Transcription: Whisper (OpenAI), TTS: ElevenLabs | [website](https://www.bland.ai/) | [twitter](https://twitter.com/usebland)
 
 1. **Hume AI**: Hume AI offers empathic AI solutions with emotional intelligence through APIs for interpreting emotional expressions and generating empathic responses, aimed at enhancing human well-being and enabling developers to create AI agents with improved understanding and engagement | [website](https://www.hume.ai/) | [discord](https://discord.com/invite/WPRSugvAm6)
 
