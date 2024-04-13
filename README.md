@@ -396,6 +396,8 @@ Here's an awesome list of enforcing structured outputs from AI agents:
 
 1. **Jaiqu by AgentOps**: Jaiqu is an AI-powered tool for automatically transforming any JSON schema using GPT-4, featuring schema validation, fuzzy term matching, and repeatable jq query generation | [github](https://github.com/AgentOps-AI/Jaiqu) | [demo](https://x.com/AlexReibman/status/1774314258379190770) | [website](https://jaiqu-agent.streamlit.app/) | [twitter](https://twitter.com/agentopsai/) | [discord](https://discord.gg/JHPt4C7r)
 
+1. **Jsonify**: Jsonify provides a no-code platform for AI data agents that convert webpages and documents into structured JSON, enhancing efficiency and customer satisfaction, with use cases including scraping webpages, extracting document data, and building structured datasets | [website](https://jsonify.com/) | [twitter](https://twitter.com/jsonifyco)
+
 ## AI Agents + Model Merges
 
 Here's an awesome list of model merges which embed AI agents with new knowledge:
