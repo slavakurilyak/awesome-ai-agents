@@ -148,6 +148,14 @@ Here's an awesome list of AI agents:
 
 1. **CLIN**: CLIN by Allen Institute for AI is an interactive continual learning agent that adapts rapidly to tasks, using a setup process involving Java, Python, and the ScienceWorld environment, supported by models like GPT-3.5-turbo and GPT-4 | [website](https://allenai.github.io/clin/) | [github](https://github.com/allenai/clin) | [paper](https://arxiv.org/pdf/2310.10134.pdf)
 
+## AI Agents + Long-Term Memory:
+
+Here's an awesome list of AI agents with long-term memory functionality:
+
+1. **MemGPT**: MemGPT introduces a customizable AI chatbot framework with self-editing memory and access to unlimited data, promoting perpetual, context-rich conversations | [website](https://memgpt.ai/) | [github](https://github.com/cpacker/MemGPT/)
+
+1. **Zep**: Zep is a long-term memory service for AI assistants that enhances recall, understanding, and data extraction from chat histories to power personalized AI experiences | [website](https://www.getzep.com/) | [github](https://github.com/getzep/zep/)
+
 ## AI Agents + Phone Calling:
 
 Here's an awesome list of AI agents with phone calling:
@@ -191,8 +199,6 @@ Here's an awesome list of agentic AI development libraries or frameworks:
 1. **AGiXT**: AGiXT is an advanced AI Automation Platform designed to enhance AI instruction management and task execution across various providers, incorporating features like adaptive memory, smart instruct, and a versatile plugin system to push the boundaries of AI technology towards achieving Artificial General Intelligence (AGI) | [github](https://github.com/Josh-XT/AGiXT) | [website](https://agixt.com/)
 
 1. **Cognee**: Cognee is an open-source framework aimed at simplifying data processing for large language models (LLMs) by creating knowledge graphs and data models, offering tools for information addition, knowledge creation, and similarity-based search | [github](https://github.com/topoteretes/cognee)
-
-1. **MemGPT**: MemGPT introduces a customizable AI chatbot framework with self-editing memory and access to unlimited data, promoting perpetual, context-rich conversations | [website](https://memgpt.ai/) | [github](https://github.com/cpacker/MemGPT/)
 
 1. **Superagent**: Superagent is an open-source AI Assistant Framework & API enabling developers to integrate advanced AI agents into their applications, with support for various features like memory, streaming, and API connectivity, and backed by Y Combinator [demo](https://twitter.com/pelaseyed/status/1773739204138418426) | [github](https://github.com/superagent-ai/superagent)
 
