@@ -432,9 +432,9 @@ Here's an awesome list of model merges which embed AI agents with new knowledge:
 
 1. **MergeKit by Arcee AI**: Arcee AI's MergeKit offers tools for merging pre-trained large language models, enabling the creation of more versatile AI agents by combining knowledge from different sources, akin to Retrieval Augmented Generation (RAG) | [github](https://github.com/arcee-ai/mergekit)
 
-## AI Agents + Tool/Function Calling
+## AI Agents + Tool Calling (Function Calling)
 
-Here's an awesome list of tool calling (aka function calling) for your AI agents:
+Here's an awesome list of function calling (aka tool calling) for your AI agents:
 
 1. **Composio**: Composio enables quick integration of 90+ tools for developers and agents, offering managed authentication, easy testing, and up-to-date APIs to simplify development and enhance functionality | [demo](https://x.com/AlexReibman/status/1772776340368081211) | [yet another demo](https://www.youtube.com/watch?v=ujxKzS0b5qg) | [website](https://www.composio.dev/) | [docs](https://docs.composio.dev/) | [blog](https://blog.composio.dev/) | [github profile](https://github.com/SamparkAI)
 
@@ -453,6 +453,8 @@ Here's an awesome list of tool calling (aka function calling) for your AI agents
 1. **Tools by Taskade**: Enable your agents with the right set of tools to get the job done: web search (allow the agent to browse the web), WolframAlpha (enhance the agent's computational skills), add-ons (enable additional tools and extensions) | [docs](https://help.taskade.com/en/articles/8958457-custom-ai-agents#h_c9a93fc5b9)
 
 1. **Custom Tools by Bland AI**: Custom tools by Bland AI enable an agent to interact with any web API mid-call to perform actions like sending messages, scheduling appointments, creating support tickets, or updating CRM systems | [docs](https://docs.bland.ai/tutorials/custom-tools#creating-your-custom-tool)
+
+1. **TypeChat**: TypeChat is a library that facilitates building natural language interfaces by using schema engineering as an alternative to traditional function calling in LLMs, avoiding JSON schema-based constraints | [github](https://github.com/microsoft/TypeChat)
 
 ## AI Agents + User Interface Development
 
