@@ -146,6 +146,8 @@ Here's an awesome list of AI agents:
 
 1. **Hume AI**: Hume AI offers empathic AI solutions with emotional intelligence through APIs for interpreting emotional expressions and generating empathic responses, aimed at enhancing human well-being and enabling developers to create AI agents with improved understanding and engagement | [website](https://www.hume.ai/) | [discord](https://discord.com/invite/WPRSugvAm6)
 
+1. **CLIN**: CLIN by Allen Institute for AI is an interactive continual learning agent that adapts rapidly to tasks, using a setup process involving Java, Python, and the ScienceWorld environment, supported by models like GPT-3.5-turbo and GPT-4 | [website](https://allenai.github.io/clin/) | [github](https://github.com/allenai/clin) | [paper](https://arxiv.org/pdf/2310.10134.pdf)
+
 ## AI Agents + Phone Calling:
 
 Here's an awesome list of AI agents with phone calling:
