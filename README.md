@@ -148,6 +148,8 @@ Here's an awesome list of AI agents:
 
 1. **CLIN**: CLIN by Allen Institute for AI is an interactive continual learning agent that adapts rapidly to tasks, using a setup process involving Java, Python, and the ScienceWorld environment, supported by models like GPT-3.5-turbo and GPT-4 | [website](https://allenai.github.io/clin/) | [github](https://github.com/allenai/clin) | [paper](https://arxiv.org/pdf/2310.10134.pdf)
 
+1. **NexusGPT**: NexusGPT offers a no-code platform to build and integrate AI agents that automate workflows, featuring a marketplace of tools and integrations, with easy customization and deployment across various applications | [website](https://gpt.nexus/)
+
 ## AI Agents + Long-Term Memory:
 
 Here's an awesome list of AI agents with long-term memory functionality:
