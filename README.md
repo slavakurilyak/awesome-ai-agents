@@ -184,6 +184,8 @@ Here's awesome list of voice generation or text-to-speech (TTS) functionality:
 
 Here's an awesome list of agentic AI development libraries or frameworks:
 
+1. **Lyzr**: Lyzr provides an enterprise-grade AI agent framework for easy configuration, deployment, and management of AI agents, supporting integration with multiple LLMs and databases, and offers ISO-compliant safety, white-glove onboarding, and 24/7 enterprise support | [website](https://www.lyzr.ai/) | [blog](https://www.lyzr.ai/blog/) | [twitter](https://twitter.com/lyzrai) | [discord](https://discord.gg/P6HCMQ9TRX) | [linkedin](https://www.linkedin.com/company/lyzr-platform) | [youtube](https://www.youtube.com/@LyzrAI) | [instagram](https://www.instagram.com/lyzr.ai/)
+
 1. **Enact**: Enact is a Python framework for building generative software that integrates machine learning models or APIs, offering features like tracking and replaying executions, asynchronous flows, and higher-order generative processes | [github](https://github.com/agentic-ai/enact)
 
 1. **Lumos**: Lumos introduces a modular, open-source language agent framework with unified data formats that competes with or outperforms GPT-series and larger agents across various complex interactive tasks | [github](https://github.com/allenai/lumos) | [website](https://allenai.github.io/lumos/) | [model](https://huggingface.co/models?sort=trending&search=ai2lumos) | [data](https://huggingface.co/datasets?sort=trending&search=ai2lumos) | [announcement](https://twitter.com/billyuchenlin/status/1724519911614300390?s=61&t=FyWExVfnr8YanWV5YzaPjg)
