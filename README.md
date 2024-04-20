@@ -160,26 +160,6 @@ Here's an awesome list of AI agents with long-term memory functionality:
 
 1. **Zep**: Zep is a long-term memory service for AI assistants that enhances recall, understanding, and data extraction from chat histories to power personalized AI experiences | [website](https://www.getzep.com/) | [github](https://github.com/getzep/zep/)
 
-## AI Agents + Phone Calling:
-
-Here's an awesome list of AI agents with phone calling:
-
-1. **Bland**: Bland AI offers a platform for building and scaling AI-powered phone agents, featuring easy integration, live data context, custom voices, and dedicated infrastructure. Tech stack includes LLM: Claude Instant (Anthropic), Transcription: Whisper (OpenAI), TTS: ElevenLabs | [website](https://www.bland.ai/) | [twitter](https://twitter.com/usebland)
-
-1. **Synthflow AI**: Synthflow is a platform enabling the creation of human-like conversational AI voice agents with no-code customization, integrating directly with apps like HubSpot and Eleven Labs for voice services | [website](https://synthflow.ai/) | [docs](https://docs.synthflow.ai/)
-
-1. **Vapi**: Vapi is a developer-friendly platform that enables the rapid creation, testing, and deployment of voicebots, revolutionizing voice AI integration with seamless support from voice providers like PlayHT | [website](https://vapi.ai/) | [discord](https://discord.gg/pUFNcf2WmH) | [twitter](https://twitter.com/Vapi_AI) | [linkedin](https://www.linkedin.com/company/vapi-ai) | [docs](https://docs.vapi.ai)
-
-1. **PlayAI**: | Play.ai offers conversational AI voice solutions, with a mission to enable customizable, natural language-based user interfaces, promoting rapid innovation and a performance-driven culture | [website](https://play.ai/)
-
-## AI Agents + Voice Generation
-
-Here's awesome list of voice generation or text-to-speech (TTS) functionality:
-
-1. **ElevenLabs**: ElevenLabs is a software company that develops AI-powered, natural-sounding speech synthesis and text-to-speech software, with the mission of making content universally accessible in any language and voice | [website](https://elevenlabs.io/)
-
-1. **PlayHT**: PlayHT's AI Voice Generator offers a state-of-the-art TTS service that creates natural, humanlike voiceovers in multiple languages and accents, ideal for various audio content needs with full commercial rights | [website](https://play.ht/)
-
 ## AI Agents + Development Frameworks
 
 Here's an awesome list of agentic AI development libraries or frameworks:
@@ -345,6 +325,26 @@ Here's an awesome list of running AI agents on mobile (on your own phone):
 1. **NavAIGuide**: NavAIGuide is an extensible, mobile-friendly, multi-modal agentic framework designed to integrate with mobile and desktop apps, featuring visual task detection, advanced code selectors, action-oriented execution, and resilient error handling | [github](https://github.com/francedot/NavAIGuide-TS)
 
 1. **AppAgent**: AppAgent is a mobile-friendly LLM-based multimodal agent framework developed to operate smartphone apps, enabling human-like interactions for a wide range of applications without system back-end access | [github](https://github.com/mnotgod96/AppAgent) | [github profile](https://github.com/mnotgod96)
+
+## AI Agents + Phone Calling
+
+Here's an awesome list of AI agents with phone calling:
+
+1. **Bland**: Bland AI offers a platform for building and scaling AI-powered phone agents, featuring easy integration, live data context, custom voices, and dedicated infrastructure. Tech stack includes LLM: Claude Instant (Anthropic), Transcription: Whisper (OpenAI), TTS: ElevenLabs | [website](https://www.bland.ai/) | [twitter](https://twitter.com/usebland)
+
+1. **Synthflow AI**: Synthflow is a platform enabling the creation of human-like conversational AI voice agents with no-code customization, integrating directly with apps like HubSpot and Eleven Labs for voice services | [website](https://synthflow.ai/) | [docs](https://docs.synthflow.ai/)
+
+1. **Vapi**: Vapi is a developer-friendly platform that enables the rapid creation, testing, and deployment of voicebots, revolutionizing voice AI integration with seamless support from voice providers like PlayHT | [website](https://vapi.ai/) | [discord](https://discord.gg/pUFNcf2WmH) | [twitter](https://twitter.com/Vapi_AI) | [linkedin](https://www.linkedin.com/company/vapi-ai) | [docs](https://docs.vapi.ai)
+
+1. **PlayAI**: | Play.ai offers conversational AI voice solutions, with a mission to enable customizable, natural language-based user interfaces, promoting rapid innovation and a performance-driven culture | [website](https://play.ai/)
+
+## AI Agents + Voice Generation
+
+Here's awesome list of voice generation or text-to-speech (TTS) functionality:
+
+1. **ElevenLabs**: ElevenLabs is a software company that develops AI-powered, natural-sounding speech synthesis and text-to-speech software, with the mission of making content universally accessible in any language and voice | [website](https://elevenlabs.io/)
+
+1. **PlayHT**: PlayHT's AI Voice Generator offers a state-of-the-art TTS service that creates natural, humanlike voiceovers in multiple languages and accents, ideal for various audio content needs with full commercial rights | [website](https://play.ht/)
 
 ## AI Agents + Local Inference
 
