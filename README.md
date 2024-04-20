@@ -150,6 +150,8 @@ Here's an awesome list of AI agents:
 
 1. **NexusGPT**: NexusGPT offers a no-code platform to build and integrate AI agents that automate workflows, featuring a marketplace of tools and integrations, with easy customization and deployment across various applications | [website](https://gpt.nexus/)
 
+1. **Agent by Stately AI**: Stately Agent is a software for building intelligent agents that interact via chat and events, with examples including joke generation, tic-tac-toe, and weather querying, requiring installation and an OpenAI API key | [website](https://stately.ai/agent) | [github](https://github.com/statelyai/agent/) | [twitter](https://twitter.com/statelyai) | [discord](https://discord.gg/xstate) | [youtube](https://youtube.com/c/statelyai)
+
 ## AI Agents + Long-Term Memory:
 
 Here's an awesome list of AI agents with long-term memory functionality:
