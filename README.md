@@ -508,11 +508,11 @@ Here's an awesome list of LLMs which support function calling (or tool use):
 
 1. **Command R+ by Cohere**: Cohere introduces Command R+, an advanced, scalable LLM optimized for enterprise needs with advanced RAG, multilingual support, and sophisticated tool-use capabilities for automating complex business workflows, available first on Microsoft Azure | [announcement](https://txt.cohere.com/command-r-plus-microsoft-azure/) | [docs](https://docs.cohere.com/docs/command-r)
 
-## Hire Us
+## Hire Me
 
 Do you want to develop a custom agentic AI solution or looking launch your own AI agent?
 
-[Schedule a discovery call](https://cal.com/produvia/discovery-call) with Produvia
+[Schedule a discovery call](https://cal.com/produvia/discovery-call) with me
 
 Disclaimer: Slava Kurilyak is the Founder/CEO at Produvia
 
