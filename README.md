@@ -508,6 +508,12 @@ Here's an awesome list of LLMs which support function calling (or tool use):
 
 1. **Command R+ by Cohere**: Cohere introduces Command R+, an advanced, scalable LLM optimized for enterprise needs with advanced RAG, multilingual support, and sophisticated tool-use capabilities for automating complex business workflows, available first on Microsoft Azure | [announcement](https://txt.cohere.com/command-r-plus-microsoft-azure/) | [docs](https://docs.cohere.com/docs/command-r)
 
+## LLMs + Hosting Providers
+
+Here's an awesome list of LLM providers:
+
+1. **Groq**: Groq provides a Python library for easy access to its ultra-fast LLM platforms like Llama 3, enabling solutions for low-latency applications which significantly enhance the speed and efficiency of executing complex computational workflows | [github](https://github.com/groq/groq-python/) | [website](https://groq.com/)
+
 ## Hire Me
 
 Do you want to develop a custom agentic AI solution or looking launch your own AI agent?
