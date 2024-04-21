@@ -400,6 +400,8 @@ Here's an awesome list of AI agents running on hardware or is in a form of a wea
 
 Here's an awesome list of guardrail frameworks that enforce safety for AI agents:
 
+1. **Guidance**: The text describes "guidance," a programming paradigm that enhances control and efficiency in model generation by allowing for constraints like regex and CFGs, integrating stateful control, and offering a simplified interface for complex generation scenarios | [github](https://github.com/guidance-ai/guidance) | [docs](https://guidance.readthedocs.org/)
+
 1. **IvyCheck**: IvyCheck offers an API for real-time AI application safety checks, preventing prompt injection attacks, PII data leakage, and hallucinations in agentic AI development [github](https://github.com/ivycheck/ivycheck-python-sdk) | [announcement](https://www.ycombinator.com/launches/KkA-ivycheck-guard-against-ai-risks-with-real-time-checks) | [website](https://ivycheck.com)
 
 1. **Guardrails by Guardrails AI**: Guardrails is a Python framework for building reliable AI applications, offering Input/Output Guards to detect and mitigate risks, along with structured data generation from large language models (LLMs) | [github](https://github.com/guardrails-ai/guardrails) | [twitter](https://twitter.com/guardrails_ai)
