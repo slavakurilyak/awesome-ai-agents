@@ -38,6 +38,8 @@ Here's an awesome list of AI agents:
 
 1. **AgentX**: AgentX is an AI-powered sales assistant designed to enhance sales strategies and efficiency through advanced features like a Memory Module and Online Mode, leveraging industry best practices for smarter selling | [website](https://chatagentx.com/) | [twitter](https://twitter.com/agentxai) | [newsletter](https://buttondown.email/agentx)
 
+1. **Aomni**: This AI agent streamlines the process of researching prospective customers, potentially saving business development representatives hundreds of hours per year | [website](https://www.aomni.com/) | [twitter](https://twitter.com/aomniapp) | [demo](https://x.com/AtomSilverman/status/1781402688078622874)
+
 1. **Devid by Agency Swarm**: Devid Agent, a new AI software development tool, has been integrated into the Agency Swarm framework to enhance automated AI agency operations, alternative to Cognition AI's Devin | [release notes](https://github.com/VRSEN/agency-swarm/releases/tag/v0.1.7) | [announcement video](https://www.youtube.com/watch?v=BEpDRj9H3zE)
 
 1. **Devin by Cognition**: Devin is a fully autonomous AI software engineer, revolutionizing coding with advanced reasoning and planning capabilities | [announcement](https://www.cognition-labs.com/introducing-devin) | [website](https://www.cognition-labs.com/)
