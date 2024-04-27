@@ -490,15 +490,31 @@ Here's an awesome list of UIs (generative UIs, conversational UIs, and agentic U
 
 1. **AI SDK by Vercel**: The Vercel AI SDK is an open-source library for creating AI-powered conversational interfaces, supporting multiple frameworks and languages, with built-in adapters for major AI services | [announcement](https://vercel.com/blog/introducing-the-vercel-ai-sdk) | [website](https://sdk.vercel.ai/docs) | [github](https://github.com/vercel/ai) | [github examples](https://github.com/vercel/ai/tree/main/examples)
 
-## AI Agents + Large Language Models (LLMs)
+## AI Agents + Model Providers
 
-Here's an awesome list of AI agents:
+Here's an awesome list of model providers that you can use to power your AI agents:
+
+1. **OpenAI**: OpenAI's GPT models, including GPT-3 and GPT-4, are large language models that can be used to summarize text in a concise and accurate manner, though the quality of the summaries may vary depending on the complexity and length of the input text | [website](https://openai.com)
+
+1. **Anthropic**: Anthropic's new suite of Claud 3 models improves AI agents with superior reasoning, rapid responses, and diverse cognitive capabilities without compromising user privacy | [API docs](https://docs.anthropic.com/claude/)
+
+1. **TogetherAI**: TogetherAI is a platform that facilitates efficient and accurate summarization of text using advanced AI algorithms and user-friendly tools | [website](https://www.together.ai/)
+
+1. **Anyscale**: The Anyscale platform utilizes large language models (LLMs) for summarization, comparing the summarization quality of human, Llama 2 70b, and GPT-4, with GPT-4 demonstrating superior performance | [website](https://www.anyscale.com/)
+
+1. **OpenRouter**: OpenRouter.ai is a platform that provides access to a wide range of large language models, including open-source and proprietary options like ChatGPT, Gemini, and Perplexity, allowing users to find the best models and pricing for their prompts and use cases | [website](https://openrouter.ai/) | [docs](https://openrouter.ai/docs)
+
+1. **Perplexity**: Perplexity AI is an AI-powered search engine that offers summarized answers with cited sources, content generation, accurate information retrieval, user-friendly interface, and versatility, making it a valuable tool for various users | [website](https://www.perplexity.ai/)
+
+1. **DeepInfra**: DeepInfra is a comprehensive platform that simplifies the deployment and management of machine learning models, offering a range of open-source models for tasks like text generation and embeddings, with easy integration through REST API calls | [website](https://deepinfra.com)
+
+1. **Groq**: Groq introduces a game-changing AI processor, emphasizing speed, efficiency, and ease of use, aimed at enhancing GenAI inference, particularly for real-time applications while hosting LLaMA3 8b (Meta), LLaMA3 70b (Meta), Mixtral 8x7b (Mistral), Gemma 7b (Google) models | [API docs](https://console.groq.com/docs)
+
+## AI Agents + Specialized Model Providers
+
+Here's an awesome list of agentic models that you can use to save yourself time without implementating memory and knowledge bases yourself:
 
 1. **Assistants API by OpenAI**: The Assistants API facilitates the development of AI agents, offering tools such as Code Interpretation and Function calling for embedding advanced, intelligent functionalities within applications | [API docs](https://platform.openai.com/docs/assistants/overview)
-
-1. **Groq**: Groq introduces a game-changing AI processor, emphasizing speed, efficiency, and ease of use, aimed at enhancing GenAI inference, particularly for real-time applications | [API docs](https://console.groq.com/docs)
-
-1. **Claude 3**: Claude 3, Anthropic's new suite of LLMs, enhances AI agents with superior reasoning, rapid responses, and diverse cognitive capabilities without compromising user privacy | [API docs](https://docs.anthropic.com/claude/)
 
 ## AI Agents + Custom Development
 
