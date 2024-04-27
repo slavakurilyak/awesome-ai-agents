@@ -336,21 +336,19 @@ Here's an awesome list of AI agents with phone calling:
 
 1. **Synthflow AI**: Synthflow is a platform enabling the creation of human-like conversational AI voice agents with no-code customization, integrating directly with apps like HubSpot and Eleven Labs for voice services | [website](https://synthflow.ai/) | [docs](https://docs.synthflow.ai/)
 
-1. **Vapi**: Vapi is a developer-friendly platform that enables the rapid creation, testing, and deployment of voicebots, revolutionizing voice AI integration with seamless support from voice providers like PlayHT | [website](https://vapi.ai/) | [discord](https://discord.gg/pUFNcf2WmH) | [twitter](https://twitter.com/Vapi_AI) | [linkedin](https://www.linkedin.com/company/vapi-ai) | [docs](https://docs.vapi.ai)
+1. **Vapi**: Vapi is a developer-friendly platform that enables the rapid creation, testing, and deployment of voicebots, revolutionizing voice AI integration with seamless support from voice providers | [website](https://vapi.ai/) | [discord](https://discord.gg/pUFNcf2WmH) | [twitter](https://twitter.com/Vapi_AI) | [linkedin](https://www.linkedin.com/company/vapi-ai) | [docs](https://docs.vapi.ai)
 
 1. **PlayAI**: | Play.ai offers conversational AI voice solutions, with a mission to enable customizable, natural language-based user interfaces, promoting rapid innovation and a performance-driven culture | [website](https://play.ai/)
 
 ## AI Agents + Voice Providers
 
-Here's awesome list of voice providers which offer text-to-speech (TTS) functionality:
+Here's an awesome list of voice providers which host text-to-speech (TTS) models for you:
 
 1. **ElevenLabs**: ElevenLabs is a software company that develops AI-powered, natural-sounding speech synthesis and text-to-speech software, with the mission of making content universally accessible in any language and voice | [website](https://elevenlabs.io/)
 
 1. **PlayHT**: PlayHT's AI Voice Generator offers a state-of-the-art TTS service that creates natural, humanlike voiceovers in multiple languages and accents, ideal for various audio content needs with full commercial rights | [website](https://play.ht/)
 
-1. **tortoise-tts**: A multi-voice TTS system trained with an emphasis on quality | [github](https://github.com/neonbjb/tortoise-tts) | [paper](https://arxiv.org/abs/2305.07243) | [demo](https://huggingface.co/spaces/Manmay/tortoise-tts)
-
-1, **Rime AI**: Rime is a speech synthesis API offering natural-sounding, demographically tailored voices with fast response times for various uses, including customer service and narration | [website](https://rime.ai/)
+1. **Rime AI**: Rime is a speech synthesis API offering natural-sounding, demographically tailored voices with fast response times for various uses, including customer service and narration | [website](https://rime.ai/)
 
 1. **DeepGram**: Deepgram is an AI-powered speech recognition and summarization platform that enables users to automatically transcribe, summarize, and extract insights from audio content. [website](https://deepgram.com)
 
@@ -361,6 +359,12 @@ Here's awesome list of voice providers which offer text-to-speech (TTS) function
 1. **LMNT**: LMNT is an AI-powered text-to-speech platform that offers ultrafast, lifelike, and reliable voice cloning and generation services for conversational apps, agents, and content creation at scale | [website](https://www.lmnt.com) | [docs](https://docs.lmnt.com/)
 
 1. **Neets**: Neets.ai is a text-to-speech (TTS) API that offers a wide range of voices and languages, allowing users to easily integrate TTS capabilities into their applications | [website](https://neets.ai/) | [docs](https://docs.neets.ai/)
+
+## AI Agents + TTS Models
+
+Here's an awesome list of text-to-speech (TTS) models that require you to host:
+
+1. **tortoise-tts**: A multi-voice TTS system trained with an emphasis on quality | [github](https://github.com/neonbjb/tortoise-tts) | [paper](https://arxiv.org/abs/2305.07243) | [demo](https://huggingface.co/spaces/Manmay/tortoise-tts)
 
 ## AI Agents + Local Inference
 
