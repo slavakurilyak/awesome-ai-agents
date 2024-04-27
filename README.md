@@ -350,6 +350,18 @@ Here's awesome list of voice providers which offer text-to-speech (TTS) function
 
 1. **tortoise-tts**: A multi-voice TTS system trained with an emphasis on quality | [github](https://github.com/neonbjb/tortoise-tts) | [paper](https://arxiv.org/abs/2305.07243) | [demo](https://huggingface.co/spaces/Manmay/tortoise-tts)
 
+1, **Rime AI**: Rime is a speech synthesis API offering natural-sounding, demographically tailored voices with fast response times for various uses, including customer service and narration | [website](https://rime.ai/)
+
+1. **DeepGram**: Deepgram is an AI-powered speech recognition and summarization platform that enables users to automatically transcribe, summarize, and extract insights from audio content. [website](https://deepgram.com)
+
+1. **OpenAI**: The OpenAI Text-to-Speech (TTS) API allows users to convert text into high-quality, natural-sounding spoken audio in multiple languages, with various voice options and customization capabilities | [docs](https://platform.openai.com/docs/guides/text-to-speech)
+
+1. **Azure**: The Azure Speech service supports a wide range of languages and locales, with over 400 neural voices available in more than 140 languages and locales, including multilingual voices that can speak multiple languages | [docs](https://learn.microsoft.com/en-us/azure/ai-services/speech-service/language-support)
+
+1. **LMNT**: LMNT is an AI-powered text-to-speech platform that offers ultrafast, lifelike, and reliable voice cloning and generation services for conversational apps, agents, and content creation at scale | [website](https://www.lmnt.com) | [docs](https://docs.lmnt.com/)
+
+1. **Neets**: Neets.ai is a text-to-speech (TTS) API that offers a wide range of voices and languages, allowing users to easily integrate TTS capabilities into their applications | [website](https://neets.ai/) | [docs](https://docs.neets.ai/)
+
 ## AI Agents + Local Inference
 
 Here's an awesome list of running AI agents locally (on your own computer):
