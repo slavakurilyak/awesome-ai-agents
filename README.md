@@ -516,7 +516,7 @@ Here's an awesome list of model providers that you can use to power your AI agen
 
 1. **DeepInfra**: DeepInfra is a comprehensive platform that simplifies the deployment and management of machine learning models, offering a range of open-source models for tasks like text generation and embeddings, with easy integration through REST API calls | [website](https://deepinfra.com)
 
-1. **Groq**: Groq introduces a game-changing AI processor, emphasizing speed, efficiency, and ease of use, aimed at enhancing GenAI inference, particularly for real-time applications while hosting LLaMA3 8b (Meta), LLaMA3 70b (Meta), Mixtral 8x7b (Mistral), Gemma 7b (Google) models | [API docs](https://console.groq.com/docs)
+1. **Groq**: Groq introduces a game-changing AI processor, emphasizing speed, efficiency, and ease of use, aimed at enhancing GenAI inference, particularly for real-time applications while hosting LLaMA3 8b (Meta), LLaMA3 70b (Meta), Mixtral 8x7b (Mistral), Gemma 7b (Google) models | [API docs](https://console.groq.com/docs) | [github profile](https://github.com/groq)
 
 ## AI Agents + Specialized Model Providers
 
@@ -551,12 +551,6 @@ Here's an awesome list of LLMs which support function calling (or tool use):
 1. **Claude models by Anthropic**: Function calling or tool use is supported with the following models: `claude-3-opus-20240229`, `claude-3-sonnet-20240229`, and `claude-3-haiku-20240307` | [docs](https://docs.anthropic.com/claude/docs/tool-use)
 
 1. **Command R+ by Cohere**: Cohere introduces Command R+, an advanced, scalable LLM optimized for enterprise needs with advanced RAG, multilingual support, and sophisticated tool-use capabilities for automating complex business workflows, available first on Microsoft Azure | [announcement](https://txt.cohere.com/command-r-plus-microsoft-azure/) | [docs](https://docs.cohere.com/docs/command-r)
-
-## LLMs + Hosting Providers
-
-Here's an awesome list of LLM providers:
-
-1. **Groq**: Groq provides a Python library for easy access to its ultra-fast LLM platforms like Llama 3, enabling solutions for low-latency applications which significantly enhance the speed and efficiency of executing complex computational workflows | [github](https://github.com/groq/groq-python/) | [website](https://groq.com/)
 
 ## Hire Me
 
