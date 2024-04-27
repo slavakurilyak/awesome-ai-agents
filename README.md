@@ -366,6 +366,14 @@ Here's an awesome list of text-to-speech (TTS) models that require you to host:
 
 1. **tortoise-tts**: A multi-voice TTS system trained with an emphasis on quality | [github](https://github.com/neonbjb/tortoise-tts) | [paper](https://arxiv.org/abs/2305.07243) | [demo](https://huggingface.co/spaces/Manmay/tortoise-tts)
 
+## AI Agents + Transcriber Providers
+
+Here's an awesome list of providers who host speech-to-text (STT) models for you:
+
+1. **DeepGram**: Deepgram is a leading speech-to-text (STT) API provider that offers highly accurate, fast, and cost-effective transcription services with advanced features like custom model training, real-time support, and flexible deployment options | [website](https://deepgram.com)
+
+1. **Talkscriber**: Talkscriber is an enterprise-grade speech-to-text (STT) platform that offers industry-leading accuracy, security, and cost-effectiveness, enabling organizations to transform spoken language into digital text and unlock new possibilities in data analysis while hosting Whisper (OpenAI) model | [website](https://www.talkscriber.com)
+
 ## AI Agents + Local Inference
 
 Here's an awesome list of running AI agents locally (on your own computer):
