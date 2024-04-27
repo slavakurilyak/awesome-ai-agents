@@ -340,13 +340,15 @@ Here's an awesome list of AI agents with phone calling:
 
 1. **PlayAI**: | Play.ai offers conversational AI voice solutions, with a mission to enable customizable, natural language-based user interfaces, promoting rapid innovation and a performance-driven culture | [website](https://play.ai/)
 
-## AI Agents + Voice Generation
+## AI Agents + Voice Providers
 
-Here's awesome list of voice generation or text-to-speech (TTS) functionality:
+Here's awesome list of voice providers which offer text-to-speech (TTS) functionality:
 
 1. **ElevenLabs**: ElevenLabs is a software company that develops AI-powered, natural-sounding speech synthesis and text-to-speech software, with the mission of making content universally accessible in any language and voice | [website](https://elevenlabs.io/)
 
 1. **PlayHT**: PlayHT's AI Voice Generator offers a state-of-the-art TTS service that creates natural, humanlike voiceovers in multiple languages and accents, ideal for various audio content needs with full commercial rights | [website](https://play.ht/)
+
+1. **tortoise-tts**: A multi-voice TTS system trained with an emphasis on quality | [github](https://github.com/neonbjb/tortoise-tts) | [paper](https://arxiv.org/abs/2305.07243) | [demo](https://huggingface.co/spaces/Manmay/tortoise-tts)
 
 ## AI Agents + Local Inference
 
