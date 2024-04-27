@@ -552,6 +552,14 @@ Here's an awesome list of LLMs which support function calling (or tool use):
 
 1. **Command R+ by Cohere**: Cohere introduces Command R+, an advanced, scalable LLM optimized for enterprise needs with advanced RAG, multilingual support, and sophisticated tool-use capabilities for automating complex business workflows, available first on Microsoft Azure | [announcement](https://txt.cohere.com/command-r-plus-microsoft-azure/) | [docs](https://docs.cohere.com/docs/command-r)
 
+## AI Agents + Phone Number Providers
+
+Here's an awesome list of phone number providers that can be used by voice agents:
+
+1. **Twilio**: Twilio is a cloud communications platform that enables developers to programmatically make phone calls, send and receive text messages, and integrate other communication features into their applications using its web APIs | [website](https://www.twilio.com)
+
+1. **Vonage**: Vonage is a leading provider of phone services that offers a range of features and options for residential and business customers, including local, toll-free, and international numbers, as well as virtual receptionist and call management capabilities | [website](https://vonage.com/)
+
 ## Hire Me
 
 Do you want to develop a custom agentic AI solution or looking launch your own AI agent?
