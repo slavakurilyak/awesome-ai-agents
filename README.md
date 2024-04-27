@@ -354,11 +354,13 @@ Here's an awesome list of voice providers which host text-to-speech (TTS) models
 
 1. **OpenAI**: The OpenAI Text-to-Speech (TTS) API allows users to convert text into high-quality, natural-sounding spoken audio in multiple languages, with various voice options and customization capabilities | [docs](https://platform.openai.com/docs/guides/text-to-speech)
 
-1. **Azure**: The Azure Speech service supports a wide range of languages and locales, with over 400 neural voices available in more than 140 languages and locales, including multilingual voices that can speak multiple languages | [docs](https://learn.microsoft.com/en-us/azure/ai-services/speech-service/language-support)
+1. **Azure**: The Azure Speech service supports a wide range of languages and locales, with over 400 neural voices available in more than 140 languages and locales, including multilingual voices that can speak multiple languages | [docs](https://learn.microsoft.com/en-us/azure/ai-services/speech-service)
 
 1. **LMNT**: LMNT is an AI-powered text-to-speech platform that offers ultrafast, lifelike, and reliable voice cloning and generation services for conversational apps, agents, and content creation at scale | [website](https://www.lmnt.com) | [docs](https://docs.lmnt.com/)
 
 1. **Neets**: Neets.ai is a text-to-speech (TTS) API that offers a wide range of voices and languages, allowing users to easily integrate TTS capabilities into their applications | [website](https://neets.ai/) | [docs](https://docs.neets.ai/)
+
+1. **Google**: Google Cloud Speech-to-Text is a comprehensive speech recognition service that leverages Google's years of research in automatic speech recognition and transcription technology to provide developers with a high-quality, easy-to-use speech-to-text API | [website](https://cloud.google.com/speech-to-text)
 
 ## AI Agents + TTS Models
 
