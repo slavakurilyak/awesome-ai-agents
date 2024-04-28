@@ -520,17 +520,23 @@ Here's an awesome list of model providers that you can use to power your AI agen
 
 1. **Groq**: Groq introduces a game-changing AI processor, emphasizing speed, efficiency, and ease of use, aimed at enhancing GenAI inference, particularly for real-time applications while hosting LLaMA3 8b (Meta), LLaMA3 70b (Meta), Mixtral 8x7b (Mistral), Gemma 7b (Google) models | [API docs](https://console.groq.com/docs) | [github profile](https://github.com/groq)
 
+## AI Agents + Model Providers With Function Calling Support
+
+Here's an awesome list of LLMs which support function calling (or tool use):
+
+1. **GPT models by OpenAI**: Function calling or tool use is supported with the following models: `gpt-4-turbo`, `gpt-4-turbo-2024-04-09`, `gpt-4-turbo-preview`, `gpt-4-0125-preview`, `gpt-4-1106-preview`, `gpt-4`, `gpt-4-0613`, `gpt-3.5-turbo`, `gpt-3.5-turbo-0125`, `gpt-3.5-turbo-1106`, and `gpt-3.5-turbo-0613` | [docs](https://platform.openai.com/docs/guides/function-calling)
+
+1. **Claude models by Anthropic**: Function calling or tool use is supported with the following models: `claude-3-opus-20240229`, `claude-3-sonnet-20240229`, and `claude-3-haiku-20240307` | [docs](https://docs.anthropic.com/claude/docs/tool-use)
+
+1. **Command R+ by Cohere**: Cohere introduces Command R+, an advanced, scalable LLM optimized for enterprise needs with advanced RAG, multilingual support, and sophisticated tool-use capabilities for automating complex business workflows, available first on Microsoft Azure | [announcement](https://txt.cohere.com/command-r-plus-microsoft-azure/) | [docs](https://docs.cohere.com/docs/command-r)
+
+1. **Groq**: GroqCloud API endpoints support tool use for programmatic execution of specified operations through requests with explicitly defined operations, allowing Groq API model endpoints to deliver structured JSON output that can be used to directly invoke functions from desired codebases; these following models powered by Groq all support tool use: `llama3-70b`, `llama3-8b`, `mixtral-8x7b`, `gemma-7b-it`; parallel tool calling is enabled for both Llama3 models | [docs](https://console.groq.com/docs/tool-use) | [announcement](https://twitter.com/GroqInc/status/1775634099849322632)
+
 ## AI Agents + Specialized Model Providers
 
 Here's an awesome list of agentic models that you can use to save yourself time without implementating memory and knowledge bases yourself:
 
 1. **Assistants API by OpenAI**: The Assistants API facilitates the development of AI agents, offering tools such as Code Interpretation and Function calling for embedding advanced, intelligent functionalities within applications | [API docs](https://platform.openai.com/docs/assistants/overview)
-
-## AI Agents + Custom Development
-
-Here's an awesome list of AI agencies that specialize in custom AI agent development:
-
-1. **Produvia**: Since 2013, Produvia Inc. has served $7M+ in revenue brands by developing custom agentic AI solutions powered by state-of-the-art function calling LLMs including but not limited to: Claude 3 Opus, GPT-4, Bard (Gemini Pro), Claude 3 Sonnet, Claude 3 Haiku, Mistral Medium, Command R, Mistral-Next, Starling-LM-7B-beta | [website](https://produvia.com/) | [twitter](https://twitter.com/produvia) | [linkedin](https://linkedin.com/company/produvia)
 
 ## AI Agents + Prompt Engineering
 
@@ -544,16 +550,6 @@ Here's an awesome list of languages optimized for LLMs:
 
 1. **LMQL**: LMQL is a Python-based programming language for large language models, allowing seamless integration of LLMs into code with advanced features like conditional logic, constraints, and multi-model support | [github](https://github.com/eth-sri/lmql) | [website](https://lmql.ai/)
 
-## LLMs + Tool Use (Function Calling)
-
-Here's an awesome list of LLMs which support function calling (or tool use):
-
-1. **GPT models by OpenAI**: Function calling or tool use is supported with the following models: `gpt-4-turbo`, `gpt-4-turbo-2024-04-09`, `gpt-4-turbo-preview`, `gpt-4-0125-preview`, `gpt-4-1106-preview`, `gpt-4`, `gpt-4-0613`, `gpt-3.5-turbo`, `gpt-3.5-turbo-0125`, `gpt-3.5-turbo-1106`, and `gpt-3.5-turbo-0613` | [docs](https://platform.openai.com/docs/guides/function-calling)
-
-1. **Claude models by Anthropic**: Function calling or tool use is supported with the following models: `claude-3-opus-20240229`, `claude-3-sonnet-20240229`, and `claude-3-haiku-20240307` | [docs](https://docs.anthropic.com/claude/docs/tool-use)
-
-1. **Command R+ by Cohere**: Cohere introduces Command R+, an advanced, scalable LLM optimized for enterprise needs with advanced RAG, multilingual support, and sophisticated tool-use capabilities for automating complex business workflows, available first on Microsoft Azure | [announcement](https://txt.cohere.com/command-r-plus-microsoft-azure/) | [docs](https://docs.cohere.com/docs/command-r)
-
 ## AI Agents + Phone Number Providers
 
 Here's an awesome list of phone number providers that can be used by voice agents:
@@ -561,6 +557,12 @@ Here's an awesome list of phone number providers that can be used by voice agent
 1. **Twilio**: Twilio is a cloud communications platform that enables developers to programmatically make phone calls, send and receive text messages, and integrate other communication features into their applications using its web APIs | [website](https://www.twilio.com)
 
 1. **Vonage**: Vonage is a leading provider of phone services that offers a range of features and options for residential and business customers, including local, toll-free, and international numbers, as well as virtual receptionist and call management capabilities | [website](https://vonage.com/)
+
+## AI Agents + Custom Development
+
+Here's an awesome list of AI agencies that specialize in custom AI agent development:
+
+1. **Produvia**: Since 2013, Produvia Inc. has served $7M+ in revenue brands by developing custom agentic AI solutions powered by state-of-the-art function calling LLMs including but not limited to: Claude 3 Opus, GPT-4, Bard (Gemini Pro), Claude 3 Sonnet, Claude 3 Haiku, Mistral Medium, Command R, Mistral-Next, Starling-LM-7B-beta | [website](https://produvia.com/) | [twitter](https://twitter.com/produvia) | [linkedin](https://linkedin.com/company/produvia)
 
 ## Hire Me
 
