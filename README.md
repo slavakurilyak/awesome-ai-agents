@@ -558,6 +558,12 @@ Here's an awesome list of phone number providers that can be used by voice agent
 
 1. **Vonage**: Vonage is a leading provider of phone services that offers a range of features and options for residential and business customers, including local, toll-free, and international numbers, as well as virtual receptionist and call management capabilities | [website](https://vonage.com/)
 
+## AI Agents + Web Scraping Frameworks
+
+Here's an awesome list of web scraping frameworks that support headless mode:
+
+1. **ScrapeGraphAI**: ScrapeGraph AI provides a tool for creating AI agents that can automate web scraping tasks efficiently, enhancing data extraction capabilities through the use of LangGraph, function calls, and web scraping techniques | [github](https://github.com/VinciGit00/Scrapegraph-ai) | [docs](https://scrapegraph-doc.onrender.com/) | [demo](https://scrapegraph-ai-demo.streamlit.appn/)
+
 ## AI Agents + Custom Development
 
 Here's an awesome list of AI agencies that specialize in custom AI agent development:
