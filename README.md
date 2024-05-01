@@ -532,12 +532,6 @@ Here's an awesome list of LLMs which support function calling (or tool use):
 
 1. **Groq**: GroqCloud API endpoints support tool use for programmatic execution of specified operations through requests with explicitly defined operations, allowing Groq API model endpoints to deliver structured JSON output that can be used to directly invoke functions from desired codebases; these following models powered by Groq all support tool use: `llama3-70b`, `llama3-8b`, `mixtral-8x7b`, `gemma-7b-it`; parallel tool calling is enabled for both Llama3 models | [docs](https://console.groq.com/docs/tool-use) | [announcement](https://twitter.com/GroqInc/status/1775634099849322632)
 
-## AI Agents + Specialized Model Providers
-
-Here's an awesome list of agentic models that you can use to save yourself time without implementating memory and knowledge bases yourself:
-
-1. **Assistants API by OpenAI**: The Assistants API facilitates the development of AI agents, offering tools such as Code Interpretation and Function calling for embedding advanced, intelligent functionalities within applications | [API docs](https://platform.openai.com/docs/assistants/overview)
-
 ## AI Agents + Prompt Engineering
 
 Here's an awesome list of agent-friendly prompt engineering techniques:
@@ -565,6 +559,18 @@ Here's an awesome list of web browsing frameworks that support headless mode:
 1. **ScrapeGraphAI**: ScrapeGraph AI provides a tool for creating AI agents that can automate web scraping tasks efficiently, enhancing data extraction capabilities through the use of LangGraph, function calls, and web scraping techniques | [github](https://github.com/VinciGit00/Scrapegraph-ai) | [docs](https://scrapegraph-doc.onrender.com/) | [demo](https://scrapegraph-ai-demo.streamlit.appn/)
 
 1. **Browserbase**: Browserbase offers a managed headless web browser API with robust features like session recording, logging, and debugging, ensuring secure connections to isolated web browsers for efficient issue resolution | [twitter](https://twitter.com/browserbasehq) | [website](https://www.browserbase.com/)
+
+## AI Agents + Assistants API
+
+Here's an awesome list of OpenAI-compatible Assistants APIs that you can use to quickly develop AI agents without implementating memory and knowledge bases yourself:
+
+1. **Assistants API by OpenAI**: The Assistants API facilitates the development of AI agents, offering tools such as Code Interpretation and Function calling for embedding advanced, intelligent functionalities within applications | [docs](https://platform.openai.com/docs/assistants/overview)
+
+1. **Astra Assistants API**: The `astra-assistants-api` provides a backend implementation of the OpenAI Assistants API with support for various features like persistent threads, files, assistants, streaming, function calling, and more, utilizing AstraDB powered by Apache Cassandra and jvector, and is compatible with existing OpenAI apps by changing a single line of code | [github](https://github.com/datastax/astra-assistants-api)
+
+1. **Streaming Assistants**: The `streaming-assistants` library on GitHub enables streaming for OpenAI Assistants API using Astra Assistants, providing a workaround for the lack of streaming support in the official OpenAI Assistants API | [github](https://github.com/phact/streaming-assistants)
+
+1. **Open Assistant API**: The Open Assistant API is a self-hosted, open-source framework that enables the creation of customized AI assistants, supporting integration with OpenAI's LLM and LangChain SDK, and is compatible with OpenAI's Assistants API, allowing for seamless orchestration and extension capabilities | [github](https://github.com/MLT-OSS/open-assistant-api)
 
 ## AI Agents + Custom Development
 
