@@ -562,6 +562,12 @@ Here's an awesome list of web browsing frameworks that support headless mode:
 
 1. **Browserbase**: Browserbase offers a managed headless web browser API with robust features like session recording, logging, and debugging, ensuring secure connections to isolated web browsers for efficient issue resolution | [twitter](https://twitter.com/browserbasehq) | [website](https://www.browserbase.com/)
 
+## AI Agents + Flow Engineering (Platform Engineering):
+
+Here's an awesome list of flow engineering (or platform engineering) projects for AI agents:
+
+1. **DSPY**: A cutting-edge framework that compiles declarative language model calls into self-improving pipelines, enabling the systematic and efficient optimization of LM prompts and weights within complex systems | [github](https://github.com/stanfordnlp/dspy)
+
 ## AI Agents + Assistants API
 
 Here's an awesome list of OpenAI-compatible Assistants APIs that you can use to quickly develop AI agents without implementating memory and knowledge bases yourself:
