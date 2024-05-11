@@ -580,6 +580,8 @@ Here's an awesome list of OpenAI-compatible Assistants APIs that you can use to 
 
 1. **Open Assistant API**: The Open Assistant API is a self-hosted, open-source framework that enables the creation of customized AI assistants, supporting integration with OpenAI's LLM and LangChain SDK, and is compatible with OpenAI's Assistants API, allowing for seamless orchestration and extension capabilities | [github](https://github.com/MLT-OSS/open-assistant-api)
 
+1. **LiteLLM**: LiteLLM has added support for the OpenAI Assistants API, enabling seamless integration of stateful operations and automatic RAG pipelines into existing chatbots | [github](https://github.com/BerriAI/litellm)
+
 ## AI Agents + Custom Development
 
 Here's an awesome list of AI agencies that specialize in custom AI agent development:
