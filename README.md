@@ -496,6 +496,8 @@ Here's an awesome list of function calling (aka tool calling) for your AI agents
 
 1. **TypeChat**: TypeChat is a library that facilitates building natural language interfaces by using schema engineering as an alternative to traditional function calling in LLMs, avoiding JSON schema-based constraints | [github](https://github.com/microsoft/TypeChat)
 
+1. **NPI**:: NPi is an open-source platform providing tool-use APIs for AI agents, with installation and setup instructions available | [github](https://github.com/npi-ai/npi) | [website](https://www.npi.ai/) | [docs](https://www.npi.ai/docs) | [blog](https://www.npi.ai/blog)
+
 ## AI Agents + User Interface Development
 
 Here's an awesome list of UIs (generative UIs, conversational UIs, and agentic UIs) optimized for AI agents:
