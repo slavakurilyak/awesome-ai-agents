@@ -154,6 +154,18 @@ Here's an awesome list of AI agents:
 
 1. **Agent by Stately AI**: Stately Agent is a software for building intelligent agents that interact via chat and events, with examples including joke generation, tic-tac-toe, and weather querying, requiring installation and an OpenAI API key | [website](https://stately.ai/agent) | [github](https://github.com/statelyai/agent/) | [twitter](https://twitter.com/statelyai) | [discord](https://discord.gg/xstate) | [youtube](https://youtube.com/c/statelyai)
 
+## AI Agents + Build Club:
+
+Here's an awesome list of AI agents built with the [Build Club](https://x.com/the_builderclub), pun intended:
+
+1. **Agentsy**: Agentsy is an AI-driven platform designed to double team capacity by enhancing efficiency and creativity, starting with operations use cases like real estate | [demo](https://x.com/AnnieLiao_2000/status/1792175318595453046)
+
+1. **Fairgo**: Fairgo.ai is a platform built by Julian to streamline and scale hiring processes using real-time AI video interviews, tackling unconscious biases and ensuring all candidates are interviewed without human input | [demo](https://x.com/AnnieLiao_2000/status/1792175460044193992) | [landing site](https://fairgo.ai/)
+
+1. **Verve**: Verve is an AI data copilot that aims to streamline analytics and significantly reduce manual work for growing organizations | [demo](https://x.com/AnnieLiao_2000/status/1792175562712285645)
+
+1. **Miranda**: Miranda is a platform that simplifies dashboard creation, aiming to be the "Canva for dashboards | [demo](https://x.com/AnnieLiao_2000/status/1792175658178855112)
+
 ## AI Agents + Long-Term Memory:
 
 Here's an awesome list of AI agents with long-term memory functionality:
