@@ -1,0 +1,39 @@
+# TODO
+
+- [ ] Add to list
+	- [ ] https://goatstack.ai
+	- [ ] https://www.b2brocket.ai
+	- [ ] https://dataleap.ai
+	- [ ] https://github.com/fixie-ai/llm-frameworks
+	- [ ] https://aiagentlist.com
+	- [ ] https://github.com/e2b-dev/awesome-ai-agents
+	- [ ] https://github.com/e2b-dev/awesome-ai-sdks
+	- [ ] https://gpt.nexus/
+	- [ ] https://www.chaindesk.ai/
+	- [ ] https://www.threado.com/
+	- [ ] https://www.taskade.com/
+	- [ ] https://docs.bland.ai/api-v1/post/tools
+	- [ ] https://github.com/unclecode/groqcall
+	- [ ] https://github.com/phidatahq/phidata
+	- [ ] https://github.com/AI-in-Hand/platform
+	- [ ] https://github.com/Globe-Engineer/agents
+	- [ ] https://github.com/unclecode/crawl4ai
+	- [ ] https://github.com/transitive-bullshit/OpenOpenAI 
+	- [ ] https://www.aigents.dev/
+	- [ ] https://github.com/dot-agent/nextpy
+	- [ ] https://github.com/bhancockio/crew-ai-crash-course
+	- [ ] https://github.com/alexfazio/crewAI-quickstart
+	- [ ] https://github.com/hack-dance/island-ai
+	- [ ] https://github.com/thmsmlr/instructor_ex
+	- [ ] https://github.com/instructor-ai/instructor-js
+	- [ ] https://github.com/cognesy/instructor-php
+	- [ ] https://github.com/pydantic/logfire
+	- [ ] https://github.com/AI-in-Hand/platform
+	- [ ] https://www.langdock.com/
+	- [ ] https://github.com/langchain-ai/opengpts
+	- [ ] https://github.com/transitive-bullshit/OpenOpenAI
+	- [ ] https://github.com/langgenius/dify
+	- [ ] https://github.com/ruvnet/rUv-dev
+	- [ ] https://github.com/Codium-ai/AlphaCodium
+	- [ ] https://github.com/ItzCrazyKns/Perplexica
+	- [ ] https://github.com/eidolon-ai/eidolon
