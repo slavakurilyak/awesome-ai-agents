@@ -178,6 +178,8 @@ Here's an awesome list of AI agents with long-term memory functionality:
 
 Here's an awesome list of agentic AI development libraries or frameworks:
 
+1. **Swarms**: Swarms orchestrates multi-agent collaboration for production-grade applications, solving issues like short memory and high costs, with customizable tools for specific needs, currently used by RBC, John Deere, and AI startups | [github](https://github.com/kyegomez/swarms/) | [discord](https://discord.gg/DbjBMJTSWD) | [docs](https://swarms.apac.ai/)
+
 1. **Lyzr**: Lyzr provides an enterprise-grade AI agent framework for easy configuration, deployment, and management of AI agents, supporting integration with multiple LLMs and databases, and offers ISO-compliant safety, white-glove onboarding, and 24/7 enterprise support | [website](https://www.lyzr.ai/) | [blog](https://www.lyzr.ai/blog/) | [twitter](https://twitter.com/lyzrai) | [discord](https://discord.gg/P6HCMQ9TRX) | [linkedin](https://www.linkedin.com/company/lyzr-platform) | [youtube](https://www.youtube.com/@LyzrAI) | [instagram](https://www.instagram.com/lyzr.ai/)
 
 1. **Enact**: Enact is a Python framework for building generative software that integrates machine learning models or APIs, offering features like tracking and replaying executions, asynchronous flows, and higher-order generative processes | [github](https://github.com/agentic-ai/enact)
