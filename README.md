@@ -578,11 +578,17 @@ Here's an awesome list of web browsing frameworks that support headless mode:
 
 1. **Browserbase**: Browserbase offers a managed headless web browser API with robust features like session recording, logging, and debugging, ensuring secure connections to isolated web browsers for efficient issue resolution | [twitter](https://twitter.com/browserbasehq) | [website](https://www.browserbase.com/)
 
-## AI Agents + Flow Engineering (Platform Engineering):
+## AI Agents + Flow Engineering (Platform Engineering)
 
 Here's an awesome list of flow engineering (or platform engineering) projects for AI agents:
 
 1. **DSPY**: A cutting-edge framework that compiles declarative language model calls into self-improving pipelines, enabling the systematic and efficient optimization of LM prompts and weights within complex systems | [github](https://github.com/stanfordnlp/dspy)
+
+## AI Agents + Terminal
+
+Here's an awesome list of terminal-friendly AI agent development frameworks:
+
+1. **elia**: Keyboard-centric terminal user interface for interacting with large language models (LLMs) like ChatGPT, Claude, Llama 3, Phi 3, Mistral, and Gemma, offering benefits such as efficient, terminal-based interaction, easy switching between multiple models, local model support, and the ability to store conversations in a local SQLite database | [github](https://github.com/darrenburns/elia)
 
 ## AI Agents + Assistants API
 
