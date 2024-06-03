@@ -442,6 +442,16 @@ Here's an awesome list of AI agents running on hardware or is in a form of a wea
 
 1. **Humane**: AI Pin, a wearable, multi-modal device, enhances ambient computing in the real world, offering a suite of AI digital assistants for various tasks while prioritizing user privacy for a more intuitive, human-centered experience | [website](https://humane.com/)
 
+## AI Agents + Operating System (OS)
+
+Here's an awesome list of AI agents that can control your operating system (OS) including your computer keyboard and mouse:
+
+1. **Open Interpreter**: Open Interpreter is a coding agent enabling language models to execute code locally, facilitating natural-language interaction with your computer's capabilities, overcoming limitations of hosted solutions like internet access and package restrictions. It features interactive and programmatic chats, system message customization, and can control your computer's keyboard and mouse, allowing for enhanced control and flexibility in development environments | [github](https://github.com/OpenInterpreter/open-interpreter)
+
+1. **Self Operating Computer by Otherside**: Self Operating Computer (SOC) enables multimodal models to autonomously interact with a computer using human-like inputs and outputs, including controlling the keyboard and mouse. It is compatible with various models and under ongoing development for more accurate functionalities | [landing page](https://www.hyperwriteai.com/self-operating-computer) | [github](https://github.com/OthersideAI/self-operating-computer) | [github profile](https://github.com/OthersideAI)
+
+1. **GPT Computer Assistant**: GPT Computer Assistant is an unofficial app that brings ChatGPT functionality to Windows and Linux, allowing for screen reading, microphone use, system audio interaction, clipboard management, script execution, and more | [github](https://github.com/onuratakan/gpt-computer-assistant)
+
 ## AI Agents + Safety Guardrails (Safeguarding)
 
 Here's an awesome list of guardrail frameworks that enforce safety for AI agents:
