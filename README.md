@@ -614,6 +614,14 @@ Here's an awesome list of OpenAI-compatible Assistants APIs that you can use to 
 
 1. **LiteLLM**: LiteLLM has added support for the OpenAI Assistants API, enabling seamless integration of stateful operations and automatic RAG pipelines into existing chatbots | [github](https://github.com/BerriAI/litellm)
 
+## AI Agents + Personal Assistants
+
+Here's an awesome list of AI agents that can act as personal assistants:
+
+1. **OpenRecall**: OpenRecall is an open-source, privacy-focused digital memory tool capturing and indexing screenshots to enhance productivity without compromising privacy, usable across Windows, macOS, and Linux, and compatible with AI agents for personal assistance | [GitHub](https://github.com/openrecall/openrecall) | [Discord](https://discord.gg/RzvCYRgUkx) | [Telegram](https://t.me/+5DULWTesqUYwYjY0)
+
+1. **LiveRecall**: LiveRecall, an open-source alternative to Microsoft's Recall, utilizes semantic search and encryption to capture and retrieve screen snapshots, enabling AI agents to assist creators in researching and augmenting tasks like journaling or blog post creation based on indexed personal activities | [GitHub](https://github.com/VedankPurohit/LiveRecall)
+
 ## AI Agents + Custom Development
 
 Here's an awesome list of AI agencies that specialize in custom AI agent development:
