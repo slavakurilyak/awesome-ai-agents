@@ -410,6 +410,12 @@ Here's an awesome list of running AI agents locally (on your own computer):
 
 1. **LocalGPT**: LocalGPT is an open-source project for secure, private interactions with documents locally, featuring comprehensive model support, embeddings, API for RAG applications, and GUI options, with a focus on privacy and local data processing | [github](https://github.com/PromtEngineer/localGPT)
 
+## AI Agents + Real-Time
+
+Here's an awesome list of AI agents that support real-time capabilities such as WebRTC:
+
+1. **LiveKit Agents**: An open-source framework for building real-time, programmable participants that run on servers, enabling easy integration with LiveKit WebRTC sessions for processing or generating audio, video, and data streams | [GitHub](https://github.com/livekit/agents) | [docs](https://docs.livekit.io/agents/) | [demo](https://kitt.livekit.io)
+
 ## AI Agents + Reinforcement Learning Frameworks
 
 Here's an awesome list of AI agents applying reinforcement learning:
