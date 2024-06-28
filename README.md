@@ -534,6 +534,10 @@ Here's an awesome list of UIs (generative UIs, conversational UIs, and agentic U
 
 1. **AI SDK by Vercel**: The Vercel AI SDK is an open-source library for creating AI-powered conversational interfaces, supporting multiple frameworks and languages, with built-in adapters for major AI services | [announcement](https://vercel.com/blog/introducing-the-vercel-ai-sdk) | [website](https://sdk.vercel.ai/docs) | [github](https://github.com/vercel/ai) | [github examples](https://github.com/vercel/ai/tree/main/examples)
 
+1. **Prompt2UI by sullyo**: An open-source project that converts prompts to user interfaces, demonstrated by creating a basic Google Calendar clone using Claude in about 2 hours, inspired by Claude Artifacts | [github](https://github.com/sullyo/prompt2ui) | [twitter announcement](https://x.com/SullyOmarr/status/1804997474761003327)
+
+1. **Claude 3 Artifacts by PierrunoYT**: An open-source Flask-React chat application that interacts with Claude AI, featuring file uploads, Markdown rendering, and code highlighting, seeking contributors to expand its capabilities, inspired by Claude Artifacts | [github](https://github.com/PierrunoYT/claude-3-artifacts)
+
 ## AI Agents + Model Providers
 
 Here's an awesome list of model providers that you can use to power your AI agents:
