@@ -1,6 +1,8 @@
 # TODO
 
+- [x] Refactor to use YAML
 - [ ] Add to list
+	- [ ] https://star-history.com/blog/ai-search
 	- [ ] https://goatstack.ai
 	- [ ] https://www.b2brocket.ai
 	- [ ] https://dataleap.ai
