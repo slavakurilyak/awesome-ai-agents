@@ -2,6 +2,7 @@ import json
 from collections import defaultdict
 from typing import List, Dict
 from pydantic import BaseModel, Field, ValidationError, conlist
+import hashlib
 
 class Source(BaseModel):
     source: str
@@ -45,6 +46,10 @@ def format_sources(sources: List[Source]) -> str:
         formatted_sources.append(source_str)
     return ' | '.join(formatted_sources)
 
+def get_category_color(category: str) -> str:
+    hash_value = hashlib.md5(category.encode()).hexdigest()
+    return hash_value[:6]
+
 def format_project(project: Project) -> str:
     open_source_badge = '<img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source">' if project.project_is_open_source else '<img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source">'
     
@@ -56,7 +61,7 @@ def format_project(project: Project) -> str:
     
     badges = f"{open_source_badge} {github_stars_badge}".strip()
     sources = format_sources(project.sources)
-    categories = " ".join([f'<span class="label">{category}</span>' for category in project.categories])
+    categories = " ".join([f'<span style="background-color: #{get_category_color(category)}; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">{category}</span>' for category in project.categories])
     
     return f"""<details>
 <summary><b>{project.project}</b> {badges} {categories}</summary>
