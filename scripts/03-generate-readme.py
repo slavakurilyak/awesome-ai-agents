@@ -41,7 +41,7 @@ def load_json(file_path: str) -> JsonData:
 def format_sources(sources: List[Source]) -> str:
     formatted_sources = []
     for source in sources:
-        source_str = f"[{source.source}]({source.source_url})"
+        source_str = f'<a href="{source.source_url}">{source.source}</a>'
         formatted_sources.append(source_str)
     return ' | '.join(formatted_sources)
 
