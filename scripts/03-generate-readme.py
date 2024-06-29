@@ -46,12 +46,12 @@ def format_sources(sources: List[Source]) -> str:
     return ' | '.join(formatted_sources)
 
 def format_project(project: Project) -> str:
-    open_source_badge = '<img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source">' if project.project_is_open_source else '<img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source">'
+    open_source_badge = "![Open Source](https://img.shields.io/badge/Open%20Source-Yes-green)" if project.project_is_open_source else "![Open Source](https://img.shields.io/badge/Open%20Source-No-red)"
     
     github_stars_badge = ""
     for source in project.sources:
         if source.source == "github" and source.stars is not None:
-            github_stars_badge = f'<img src="https://img.shields.io/github/stars/{source.source_url.split("/")[-2]}/{source.source_url.split("/")[-1]}?style=social" alt="GitHub stars">'
+            github_stars_badge = f"![GitHub stars](https://img.shields.io/github/stars/{source.source_url.split('/')[-2]}/{source.source_url.split('/')[-1]}?style=social)"
             break
     
     badges = f"{open_source_badge} {github_stars_badge}".strip()
