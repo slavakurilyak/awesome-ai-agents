@@ -1,2 +1,6 @@
-pyyaml
+PyYAML
 pydantic
+requests
+PyGithub
+python-dotenv
+colorama

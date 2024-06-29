@@ -2,3 +2,4 @@
 .whisper
 .DS_Store
 venv
+.env

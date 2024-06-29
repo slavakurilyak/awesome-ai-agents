@@ -17,6 +17,10 @@ AI agents outperform LLMs
 
 According to [Andrew Ng (@andrewyng)](https://github.com/andrewyng), "GPT-3.5 with an agentic workflow actually outperforms GPT-4"
 
+## AI Agents
+
+Here's an awesome list of AI agents:
+
 ${SECTIONS}
 
 ## Hire Me
