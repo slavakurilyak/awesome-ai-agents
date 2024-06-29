@@ -2309,7 +2309,9 @@
       "sources": [
         {
           "source": "github",
-          "source_url": "https://github.com/steamship-core/python-client"
+          "source_url": "https://github.com/steamship-core/python-client",
+          "stars": 318,
+          "stars_last_updated": "2024-06-29T17:05:05.730615"
         },
         {
           "source": "website",
@@ -2627,7 +2629,9 @@
       "sources": [
         {
           "source": "github",
-          "source_url": "https://github.com/langchain-ai/langsmith-sdk"
+          "source_url": "https://github.com/langchain-ai/langsmith-sdk",
+          "stars": 344,
+          "stars_last_updated": "2024-06-29T17:05:06.343187"
         },
         {
           "source": "docs",

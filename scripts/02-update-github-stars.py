@@ -46,27 +46,31 @@ def get_github_stars(repo_url):
         logging.warning(f"Not a GitHub URL: {repo_url}")
         return None
 
-    # Remove 'tree/main' or similar from the URL
     parts = repo_url.rstrip('/').split('/')
+    logging.debug(f"Parsed URL parts: {parts}")
     if 'tree' in parts:
         tree_index = parts.index('tree')
         parts = parts[:tree_index]
+        logging.debug(f"URL parts after removing 'tree': {parts}")
     
-    # Extract owner and repo
     if len(parts) < 2:
         logging.warning(f"Invalid GitHub URL format: {repo_url}")
         return None
     
     owner, repo = parts[-2:]
+    logging.debug(f"Owner: {owner}, Repo: {repo}")
     
-    logging.info(f"Fetching stars for {Fore.CYAN}{owner}/{repo}{Style.RESET_ALL}")
+    logging.info(f"Fetching stars for {owner}/{repo}")
     try:
         repo = g.get_repo(f"{owner}/{repo}")
         stars = repo.stargazers_count
-        logging.info(f"Successfully fetched stars for {Fore.CYAN}{owner}/{repo}{Style.RESET_ALL}: {Fore.YELLOW}{stars}{Style.RESET_ALL} stars")
+        logging.info(f"Successfully fetched stars for {owner}/{repo}: {stars} stars")
         return stars
     except Exception as e:
-        logging.error(f"Error fetching stars for {Fore.CYAN}{repo_url}{Style.RESET_ALL}: {e}")
+        logging.error(f"Error fetching stars for {repo_url}: {e}")
+        if e.status == 404:
+            logging.error(f"Repository not found: {repo_url}")
+            return "badge not found"
         return None
 
 def should_update_stars(stars_last_updated):
@@ -80,8 +84,6 @@ def update_project_stars(project, json_data):
     project_name = project.get('project', 'Unknown')
     project_url = None
     
-    logging.debug(f"Project structure: {json.dumps(project, indent=2)}")
-    
     if project.get('project_is_open_source'):
         for source in project.get('sources', []):
             if source['source'] == 'github':
@@ -89,11 +91,14 @@ def update_project_stars(project, json_data):
                 if should_update_stars(source.get('stars_last_updated')):
                     stars = get_github_stars(project_url)
                     if stars is not None:
-                        source['stars'] = stars
-                        source['stars_last_updated'] = datetime.now().isoformat()
+                        if stars == "badge not found":
+                            source['badge'] = "badge not found"
+                        else:
+                            source['stars'] = stars
+                            source['stars_last_updated'] = datetime.now().isoformat()
                         updated = True
                 else:
-                    logging.info(f"Skipping update for {Fore.CYAN}{project_url}{Style.RESET_ALL} - updated less than a week ago")
+                    logging.info(f"Skipping update for {project_url} - updated less than a week ago")
     return updated, project_name, project_url
 
 def update_json_with_stars(json_file_path):
