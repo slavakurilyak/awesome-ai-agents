@@ -66,7 +66,7 @@ def get_github_stars_badge(source: Source) -> str:
         if not match:
             raise ValueError(f"Invalid GitHub URL format: {source.source_url}")
         owner, repo = match.groups()
-        return f'<img src="https://img.shields.io/github/stars/{owner}/{repo}?style=social" alt="GitHub stars">'
+        return f'<a href="{source.source_url}"><img src="https://img.shields.io/github/stars/{owner}/{repo}?style=social" alt="GitHub stars"></a>'
     except Exception as e:
         logging.error(f"Error generating GitHub stars badge: {str(e)}")
         return ""
@@ -168,4 +168,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
