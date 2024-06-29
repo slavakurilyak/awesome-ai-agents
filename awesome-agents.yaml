@@ -1087,7 +1087,7 @@
 - project: "Fetch by Fetch AI"
   project_description: "Fetch AI offers a platform for launching AI apps and services, including agent hosting, analytics, IoT gateways, and a Web3-based open network, alongside an open network for AI Agents that allows for connectivity, transactions, and the formation of dynamic marketplaces, facilitating the deployment and monetization of AI and ML models through agent technology"
   sources:
-    - source: "Product"
+    - source: "website"
       source_url: "https://fetch.ai/product"
     - source: "github profile"
       source_url: "https://github.com/fetchai"
