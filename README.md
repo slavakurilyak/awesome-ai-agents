@@ -22,7 +22,7 @@ According to [Andrew Ng (@andrewyng)](https://github.com/andrewyng), "GPT-3.5 wi
 Here's an awesome list of AI agents:
 
 <details>
-<summary><b>01</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/OpenInterpreter/01?style=social" alt="GitHub stars"> `Hardware (Wearables)`</summary>
+<summary><b>01</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/OpenInterpreter/01?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Hardware (Wearables)</span></summary>
 
 <p>The '01 Project' by Open Interpreter is an open-source initiative focused on creating an ecosystem for AI devices, aiming to become the GNU/Linux in this domain, with details on its experimental status, software, hardware, and a speech-to-speech interface based on a code-interpreting language model for dynamic interactions</p>
 
@@ -30,7 +30,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Adala</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/HumanSignal/Adala?style=social" alt="GitHub stars"> `Development Frameworks`</summary>
+<summary><b>Adala</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/HumanSignal/Adala?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Development Frameworks</span></summary>
 
 <p>Adala is a framework for autonomous data labeling agents, supporting Python 3.8 to 3.11, with features for customizable, intelligent data processing and integration into Python Notebooks</p>
 
@@ -38,7 +38,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Agency Swarm by VRSEN</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/VRSEN/agency-swarm?style=social" alt="GitHub stars"> `Development Frameworks`</summary>
+<summary><b>Agency Swarm by VRSEN</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/VRSEN/agency-swarm?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Development Frameworks</span></summary>
 
 <p>Agency Swarm is a framework designed to automate AI agencies by creating a swarm of collaborative agents with customizable roles and functionalities, aiming to simplify the agent creation process and make automation more intuitive</p>
 
@@ -46,7 +46,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Agent by Stately AI</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/agent/?style=social" alt="GitHub stars"> `AI Agents`</summary>
+<summary><b>Agent by Stately AI</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/agent/?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">AI Agents</span></summary>
 
 <p>Stately Agent is a software for building intelligent agents that interact via chat and events, with examples including joke generation, tic-tac-toe, and weather querying, requiring installation and an OpenAI API key</p>
 
@@ -54,7 +54,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Agent Protocol</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `Standardization`</summary>
+<summary><b>Agent Protocol</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Standardization</span></summary>
 
 <p>The Agent Protocol establishes a unified API standard for seamless interaction and integration across diverse AI agents, promoting ecosystem growth and simplification of agent development and benchmarking</p>
 
@@ -62,7 +62,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Agent Tools</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/aibtcdev/agent-tools-ts?style=social" alt="GitHub stars"> `Bitcoin`</summary>
+<summary><b>Agent Tools</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/aibtcdev/agent-tools-ts?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Bitcoin</span></summary>
 
 <p>Typescript tools for Bitcoin/Stacks blockchain interaction, utilizing Bun.js and Stacks.js, with a focus on AI integration</p>
 
@@ -70,7 +70,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>AgentBench</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/THUDM/AgentBench?style=social" alt="GitHub stars"> `Evaluation Frameworks`</summary>
+<summary><b>AgentBench</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/THUDM/AgentBench?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Evaluation Frameworks</span></summary>
 
 <p>AgentBench v0.2 is a benchmark designed to evaluate Large Language Models as agents across a diverse set of environments, enhancing framework usability and extending model evaluations</p>
 
@@ -78,7 +78,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>AgentGPT by Reworkd</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/reworkd/AgentGPT?style=social" alt="GitHub stars"> `Development Frameworks`</summary>
+<summary><b>AgentGPT by Reworkd</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/reworkd/AgentGPT?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Development Frameworks</span></summary>
 
 <p>AgentGPT allows users to configure and deploy autonomous AI agents, enabling them to name their own custom AI and guide it towards any desired goal through task execution and learning</p>
 
@@ -86,7 +86,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Agentive</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `Development Frameworks`</summary>
+<summary><b>Agentive</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Development Frameworks</span></summary>
 
 <p>Agentive is a platform for AI Automation Agency owners, offering tools for creating, managing, and deploying custom AI solutions, with features like model selection, tool integration, prompt crafting, versioning, and training with own data, designed to simplify AI agent delivery</p>
 
@@ -94,7 +94,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>AgentLabs</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/agentlabs-inc/agentlabs?style=social" alt="GitHub stars"> `Development Frameworks`</summary>
+<summary><b>AgentLabs</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/agentlabs-inc/agentlabs?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Development Frameworks</span></summary>
 
 <p>AgentLabs is an open-source, universal frontend solution for AI agents, offering an authentication portal, chat interface, analytics, and payment features to streamline the deployment of AI agents to public users</p>
 
@@ -102,7 +102,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>AgentOps</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/AgentOps-AI/agentops?style=social" alt="GitHub stars"> `Evaluation Frameworks`</summary>
+<summary><b>AgentOps</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/AgentOps-AI/agentops?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Evaluation Frameworks</span></summary>
 
 <p>AgentOps aims to improve AI agent development with tools for observability, evaluations, and replay analytics, offering a streamlined process for testing and debugging compliant AI agents through a user-friendly interface and comprehensive documentation</p>
 
@@ -110,7 +110,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>AgentOS</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/smartcomputer-ai/agent-os?style=social" alt="GitHub stars"> `Development Frameworks`</summary>
+<summary><b>AgentOS</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/smartcomputer-ai/agent-os?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Development Frameworks</span></summary>
 
 <p>The Agent OS is an experimental platform for creating self-evolving, autonomous AI agents capable of writing and executing their own code, designed to be a long-term environment for such agents and supports various programming languages</p>
 
@@ -118,7 +118,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Agents by AI Waves</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/aiwaves-cn/agents?style=social" alt="GitHub stars"> `Development Frameworks`</summary>
+<summary><b>Agents by AI Waves</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/aiwaves-cn/agents?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Development Frameworks</span></summary>
 
 <p>Agents is an open-source framework for building autonomous language agents with features including long-short term memory, tool usage, web navigation, multi-agent communication, human-agent interaction, and symbolic control, allowing customization through natural language config files and deployment in various interfaces</p>
 
@@ -126,7 +126,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Agents by Hugging Face</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `Development Frameworks`</summary>
+<summary><b>Agents by Hugging Face</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Development Frameworks</span></summary>
 
 <p>Hugging Face's Transformers Agents provide three main types: HfAgent for inference with open-source models, LocalAgent for using local models and tokenizers, and OpenAiAgent for access to OpenAI's closed models, enabling code generation and other AI tasks with varying levels of customization and local or remote execution</p>
 
@@ -134,7 +134,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Agentsy</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `Build Club`</summary>
+<summary><b>Agentsy</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Build Club</span></summary>
 
 <p>Agentsy is an AI-driven platform designed to double team capacity by enhancing efficiency and creativity, starting with operations use cases like real estate</p>
 
@@ -142,7 +142,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>AgentVerse</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/OpenBMB/AgentVerse?style=social" alt="GitHub stars"> `Development Frameworks`</summary>
+<summary><b>AgentVerse</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/OpenBMB/AgentVerse?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Development Frameworks</span></summary>
 
 <p>AgentVerse is an Apache2-licensed Python framework for deploying multiple LLM-based agents in various applications, offering task-solving and simulation frameworks for collaborative task accomplishment and behavior observation among agents</p>
 
@@ -150,7 +150,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>AgentX</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `AI Agents`</summary>
+<summary><b>AgentX</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">AI Agents</span></summary>
 
 <p>AgentX is an AI-powered sales assistant designed to enhance sales strategies and efficiency through advanced features like a Memory Module and Online Mode, leveraging industry best practices for smarter selling</p>
 
@@ -158,7 +158,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>AGiXT</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/Josh-XT/AGiXT?style=social" alt="GitHub stars"> `Development Frameworks`</summary>
+<summary><b>AGiXT</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/Josh-XT/AGiXT?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Development Frameworks</span></summary>
 
 <p>AGiXT is an advanced AI Automation Platform designed to enhance AI instruction management and task execution across various providers, incorporating features like adaptive memory, smart instruct, and a versatile plugin system to push the boundaries of AI technology towards achieving Artificial General Intelligence (AGI)</p>
 
@@ -166,7 +166,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>AI Agent Assist by DialPad</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `AI Agents`</summary>
+<summary><b>AI Agent Assist by DialPad</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">AI Agents</span></summary>
 
 <p>Dialpad introduces Ai Agent Assist, offering real-time, Ai-powered answers to enhance customer service through deep integrations, reducing agent ramp time, and providing actionable insights with out-of-the-box productivity</p>
 
@@ -174,7 +174,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>AI Agent Crew</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/aibtcdev/ai-agent-crew?style=social" alt="GitHub stars"> `Bitcoin`</summary>
+<summary><b>AI Agent Crew</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/aibtcdev/ai-agent-crew?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Bitcoin</span></summary>
 
 <p>Langchain and CrewAI have launched AI agents equipped with Bitcoin wallets, facilitating automated operations within a blockchain environment</p>
 
@@ -182,7 +182,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>AI Assistant by Deco</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `AI Agents`</summary>
+<summary><b>AI Assistant by Deco</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">AI Agents</span></summary>
 
 <p>Deco provides a GPT-powered, multilingual AI Sales Assistant designed to personalize and automate the shopping experience, boost sales, and increase operational efficiency for online stores</p>
 
@@ -190,7 +190,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>AI Researcher</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/mshumer/ai-researcher?style=social" alt="GitHub stars"> `AI Agents`</summary>
+<summary><b>AI Researcher</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/mshumer/ai-researcher?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">AI Agents</span></summary>
 
 <p>The AI Researcher is an AI agent leveraging Claude 3 and SERPAPI for in-depth topic research, refining subtopic analyses into a comprehensive report, customizable and requiring API keys for functionality</p>
 
@@ -198,7 +198,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>AI SDK by Vercel</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/vercel/ai?style=social" alt="GitHub stars"> `UI Development`</summary>
+<summary><b>AI SDK by Vercel</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/vercel/ai?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">UI Development</span></summary>
 
 <p>The Vercel AI SDK is an open-source library for creating AI-powered conversational interfaces, supporting multiple frameworks and languages, with built-in adapters for major AI services</p>
 
@@ -206,7 +206,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>AI Studio by Azure</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `No-Code Development Frameworks`</summary>
+<summary><b>AI Studio by Azure</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">No-Code Development Frameworks</span></summary>
 
 <p>Azure AI Studio offers a platform for developing generative AI applications and custom copilots, featuring prebuilt models, training capabilities, free Azure Cosmos DB access for 90 days, and built-in security with no extra charge during preview</p>
 
@@ -214,7 +214,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Aider</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/paul-gauthier/aider?style=social" alt="GitHub stars"> `AI Agents`</summary>
+<summary><b>Aider</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/paul-gauthier/aider?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">AI Agents</span></summary>
 
 <p>Aider is a command-line tool for AI-assisted pair programming, allowing code editing in local git repositories with GPT-3.5/GPT-4, featuring direct file edits, automatic git commits, and support for most popular programming languages</p>
 
@@ -222,7 +222,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>aifs</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/OpenInterpreter/aifs?style=social" alt="GitHub stars"> `Function Calling`</summary>
+<summary><b>aifs</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/OpenInterpreter/aifs?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Function Calling</span></summary>
 
 <p>AIFS offers a simple and efficient local semantic search capability for folders, leveraging Unstructured.IO for advanced data processing and ChromaDB for fast, similarity-based searching of embeddings</p>
 
@@ -230,7 +230,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>AIOS</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/agiresearch/AIOS?style=social" alt="GitHub stars"> `Development Frameworks`</summary>
+<summary><b>AIOS</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/agiresearch/AIOS?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Development Frameworks</span></summary>
 
 <p>AIOS by AGI Research is an LLM Agent Operating System which enables an operating system 'with soul' -- an important step towards AGI</p>
 
@@ -238,7 +238,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Anthropic</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `Model Providers`</summary>
+<summary><b>Anthropic</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Model Providers</span></summary>
 
 <p>Anthropic's new suite of Claud 3 models improves AI agents with superior reasoning, rapid responses, and diverse cognitive capabilities without compromising user privacy</p>
 
@@ -246,7 +246,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>AnyBiz</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `AI Agents`</summary>
+<summary><b>AnyBiz</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">AI Agents</span></summary>
 
 <p>AnyBiz offers AI-driven sales agents that enhance sales strategies through intelligent automation, continuous learning, and hyper-personalization, operating 24/7 without breaks</p>
 
@@ -254,7 +254,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Anyscale</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `Model Providers`</summary>
+<summary><b>Anyscale</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Model Providers</span></summary>
 
 <p>The Anyscale platform utilizes large language models (LLMs) for summarization, comparing the summarization quality of human, Llama 2 70b, and GPT-4, with GPT-4 demonstrating superior performance</p>
 
@@ -262,7 +262,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Aomni</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `AI Agents`</summary>
+<summary><b>Aomni</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">AI Agents</span></summary>
 
 <p>This AI agent streamlines the process of researching prospective customers, potentially saving business development representatives hundreds of hours per year</p>
 
@@ -270,7 +270,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>AppAgent</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/mnotgod96/AppAgent?style=social" alt="GitHub stars"> `Mobile-Friendly Frameworks`</summary>
+<summary><b>AppAgent</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/mnotgod96/AppAgent?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Mobile-Friendly Frameworks</span></summary>
 
 <p>AppAgent is a mobile-friendly LLM-based multimodal agent framework developed to operate smartphone apps, enabling human-like interactions for a wide range of applications without system back-end access</p>
 
@@ -278,7 +278,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Assistants API by OpenAI</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `Assistants API`</summary>
+<summary><b>Assistants API by OpenAI</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Assistants API</span></summary>
 
 <p>The Assistants API facilitates the development of AI agents, offering tools such as Code Interpretation and Function calling for embedding advanced, intelligent functionalities within applications</p>
 
@@ -286,7 +286,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Astra Assistants API</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/datastax/astra-assistants-api?style=social" alt="GitHub stars"> `Assistants API`</summary>
+<summary><b>Astra Assistants API</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/datastax/astra-assistants-api?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Assistants API</span></summary>
 
 <p>The `astra-assistants-api` provides a backend implementation of the OpenAI Assistants API with support for various features like persistent threads, files, assistants, streaming, function calling, and more, utilizing AstraDB powered by Apache Cassandra and jvector, and is compatible with existing OpenAI apps by changing a single line of code</p>
 
@@ -294,7 +294,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>AutoAct</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/zjunlp/AutoAct?style=social" alt="GitHub stars"> `Development Frameworks`</summary>
+<summary><b>AutoAct</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/zjunlp/AutoAct?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Development Frameworks</span></summary>
 
 <p>AutoAct is an automatic agent learning framework that synthesizes planning trajectories without large-scale data or closed-source models, using a division-of-labor strategy for task completion, demonstrating superior or comparable performance in experiments</p>
 
@@ -302,7 +302,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>AutoDev</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/unit-mesh/auto-dev?style=social" alt="GitHub stars"> `AI Agents`</summary>
+<summary><b>AutoDev</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/unit-mesh/auto-dev?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">AI Agents</span></summary>
 
 <p>AutoDev is an AI-powered coding assistant offering multilingual support, automatic code generation, and debugging assistance, featuring customizable prompts and specialized tools for development, testing, documentation, and the integration of custom AI agents, with a focus on experimenting and building AI agents using its UI framework</p>
 
@@ -310,7 +310,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>AutoGen by Microsoft</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/microsoft/autogen?style=social" alt="GitHub stars"> `Development Frameworks`</summary>
+<summary><b>AutoGen by Microsoft</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/microsoft/autogen?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Development Frameworks</span></summary>
 
 <p>AutoGen is a multi-agent conversation framework facilitating the development of next-gen LLM applications, highlighted by various accomplishments and offering enhanced LLM inferences, customizable agents, and comprehensive documentation</p>
 
@@ -318,7 +318,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>AutoGen Studio by Microsoft</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/microsoft/autogen?style=social" alt="GitHub stars"> `Development Frameworks`</summary>
+<summary><b>AutoGen Studio by Microsoft</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/microsoft/autogen?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Development Frameworks</span></summary>
 
 <p>AutoGen Studio 2.0 is Microsoft's advanced AI development tool, offering a user-friendly interface, powerful Python API, and comprehensive features for creating and controlling AI agents and workflows</p>
 
@@ -326,7 +326,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>AutoGPT</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social" alt="GitHub stars"> `AI Agents`</summary>
+<summary><b>AutoGPT</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">AI Agents</span></summary>
 
 <p>AutoGPT provides accessible AI tools for building and using AI agents, offering a comprehensive framework including Forge for agent creation, agbenchmark for performance evaluation, a leaderboard for competition, a user-friendly UI, and CLI for seamless integration and management</p>
 
@@ -334,7 +334,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Axflow</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/axflow/axflow?style=social" alt="GitHub stars"> `Development Frameworks`</summary>
+<summary><b>Axflow</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/axflow/axflow?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Development Frameworks</span></summary>
 
 <p>Axflow is a TypeScript framework designed for AI development, offering a modular collection of tools for building natural language applications, and it emphasizes a code-first approach to simplify the integration of LLMs into scalable solutions</p>
 
@@ -342,7 +342,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Azure Speech Service</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `Voice Providers`</summary>
+<summary><b>Azure Speech Service</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Voice Providers</span></summary>
 
 <p>The Azure Speech service supports a wide range of languages and locales, with over 400 neural voices available in more than 140 languages and locales, including multilingual voices that can speak multiple languages</p>
 
@@ -350,7 +350,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>BabyAGI</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/yoheinakajima/babyagi?style=social" alt="GitHub stars"> `AI Agents`</summary>
+<summary><b>BabyAGI</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/yoheinakajima/babyagi?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">AI Agents</span></summary>
 
 <p>BabyAGI exemplifies an AI-powered task management system utilizing OpenAI and vector databases like Chroma or Weaviate, creating, prioritizing, and executing tasks based on previous outcomes and predefined objectives, with the main function involving an infinite loop where tasks are processed, enriched, and stored using OpenAI's NLP capabilities and Chroma/Weaviate, inspired by the Task-Driven Autonomous Agent concept</p>
 
@@ -358,7 +358,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Bananalyzer by Reworkd</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/reworkd/bananalyzer?style=social" alt="GitHub stars"> `Evaluation Frameworks`</summary>
+<summary><b>Bananalyzer by Reworkd</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/reworkd/bananalyzer?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Evaluation Frameworks</span></summary>
 
 <p>Bananalyzer is a framework for evaluating AI agents on web tasks, utilizing Playwright for creating diverse datasets of website snapshots for reliable and varied web task assessments</p>
 
@@ -366,7 +366,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Bazed</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/bazed-ai/bazed-af?style=social" alt="GitHub stars"> `Development Frameworks`</summary>
+<summary><b>Bazed</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/bazed-ai/bazed-af?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Development Frameworks</span></summary>
 
 <p>Bazed Agent Framework, aimed at empowering developers to build autonomous agent swarms without requiring deep Python ML knowledge, is facilitating the creation of sophisticated systems through TypeScript for enhanced autonomy and reliability</p>
 
@@ -374,7 +374,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>BDR Agent by Relevance</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `Development Frameworks`</summary>
+<summary><b>BDR Agent by Relevance</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Development Frameworks</span></summary>
 
 <p>Relevance AI's flagship BDR Agent is designed to assist sales teams by researching and qualifying leads, engaging in personalized prospecting according to your playbook 24x7, and booking meetings to grow your business without increasing headcount</p>
 
@@ -382,7 +382,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Beam</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `Development Frameworks`</summary>
+<summary><b>Beam</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Development Frameworks</span></summary>
 
 <p>Beam AI offers a platform for Agentic Process Automation, using AI agents to automate workflows, enhancing productivity for businesses of all sizes with features like pre-trained agents, seamless integrations, and industry-specific solutions</p>
 
@@ -390,7 +390,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Bland</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `Phone Calling`</summary>
+<summary><b>Bland</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Phone Calling</span></summary>
 
 <p>Bland AI offers a platform for building and scaling AI-powered phone agents, featuring easy integration, live data context, custom voices, and dedicated infrastructure. Tech stack includes LLM: Claude Instant (Anthropic), Transcription: Whisper (OpenAI), TTS: ElevenLabs</p>
 
@@ -398,7 +398,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Bloop</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/BloopAI/bloop?style=social" alt="GitHub stars"> `AI Agents`</summary>
+<summary><b>Bloop</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/BloopAI/bloop?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">AI Agents</span></summary>
 
 <p>Bloop is a GPT-4-based coding assistant that boosts engineer productivity by allowing natural language interactions with codebases for explanations, feature writing, error troubleshooting, and more, featuring a code-centric AI playground, fast regex search, and comprehensive code navigation tools</p>
 
@@ -406,7 +406,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>BrainSoup</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `AI Agents`</summary>
+<summary><b>BrainSoup</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">AI Agents</span></summary>
 
 <p>BrainSoup is a multi-agent and multi-LLM native client, enabling users to create a team of personalized AI agents that can learn, remember, react to events, use tools, leverage the local resources of the user's computer, and work together to solve tasks autonomously</p>
 
@@ -414,7 +414,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>BrainSoup Custom Tools</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `Function Calling`</summary>
+<summary><b>BrainSoup Custom Tools</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Function Calling</span></summary>
 
 <p>BrainSoup is a multi-agent and multi-LLM native client where users can easily create custom tools for their agents, in any programming language, enabling them to interact with the user's system or any other external service</p>
 
@@ -422,7 +422,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Browserbase</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `Web Browsing Frameworks`</summary>
+<summary><b>Browserbase</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Web Browsing Frameworks</span></summary>
 
 <p>Browserbase offers a managed headless web browser API with robust features like session recording, logging, and debugging, ensuring secure connections to isolated web browsers for efficient issue resolution</p>
 
@@ -430,7 +430,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>BrowserGPT</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/mayt/BrowserGPT?style=social" alt="GitHub stars"> `AI Agents`</summary>
+<summary><b>BrowserGPT</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/mayt/BrowserGPT?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">AI Agents</span></summary>
 
 <p>BrowserGPT is a project that combines OpenAI's GPT-4 and the Playwright library to control browsers via natural language, enabling code snippet generation for browser tasks</p>
 
@@ -438,7 +438,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>BrowsingAgent by Agency Swarm</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/agents/BrowsingAgent?style=social" alt="GitHub stars"> `AI Agents`</summary>
+<summary><b>BrowsingAgent by Agency Swarm</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/agents/BrowsingAgent?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">AI Agents</span></summary>
 
 <p>BrowsingAgent, an AI web navigation tool, has been integrated into the Agency Swarm framework to enable human-like browsing capabilities for automated AI operations</p>
 
@@ -446,7 +446,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Cadea</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `Safety Guardrails (Safeguarding)`</summary>
+<summary><b>Cadea</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Safety Guardrails (Safeguarding)</span></summary>
 
 <p>Cadea offers a secure AI platform for businesses, providing solutions against prompt injection, data breaches, and ensuring content safety through end-to-end security, access controls, and integration with major identity providers</p>
 
@@ -454,7 +454,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Cal.ai</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/apps/ai?style=social" alt="GitHub stars"> `AI Agents`</summary>
+<summary><b>Cal.ai</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/apps/ai?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">AI Agents</span></summary>
 
 <p>Cal.ai is an open-source AI scheduling assistant that manages email communications for booking, rearranging, and inquiring about meetings, leveraging a LangChain Agent Executor and MailParser for efficient scheduling without API key exposure</p>
 
@@ -462,7 +462,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>CAMEL</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/camel-ai/camel?style=social" alt="GitHub stars"> `Development Frameworks`</summary>
+<summary><b>CAMEL</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/camel-ai/camel?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Development Frameworks</span></summary>
 
 <p>CAMEL (Communicative Agents for Mind Exploration of Large Language Model Society) is an open-source library designed for studying autonomous and communicative agents, facilitating research in understanding their behaviors, capabilities, and potential risks through scalable techniques and cooperative frameworks, including role-playing, with extensive documentation, examples, and datasets, while also supporting integration with open-source models as backends for diverse applications</p>
 
@@ -470,7 +470,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Central by Zapier</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `Development Frameworks`</summary>
+<summary><b>Central by Zapier</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Development Frameworks</span></summary>
 
 <p>Zapier Central is an AI workspace designed to automate tasks across 6,000+ apps with AI bots, offering capabilities like live data connection, AI automation, and interaction with data sources for businesses and individual productivity enhancements</p>
 
@@ -478,7 +478,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>ChartGPT</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `AI Agents`</summary>
+<summary><b>ChartGPT</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">AI Agents</span></summary>
 
 <p>ChartGPT offers AI-driven services like table summarization, charting, and code generation, featuring pay-as-you-go pricing, trusted by major companies, emphasizing data security, ease of use, and 24/7 customer support</p>
 
@@ -486,7 +486,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>ChatDev</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/OpenBMB/ChatDev?style=social" alt="GitHub stars"> `Development Frameworks`</summary>
+<summary><b>ChatDev</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/OpenBMB/ChatDev?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Development Frameworks</span></summary>
 
 <p>ChatDev is a virtual software company utilizing intelligent agents to revolutionize the digital world through programming, offering a highly customizable framework and integrating innovative approaches like Experiential Co-Learning, Docker support, Git management, and Human-Agent Interaction</p>
 
@@ -494,7 +494,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>ChatGPT</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `AI Agents`</summary>
+<summary><b>ChatGPT</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">AI Agents</span></summary>
 
 <p>ChatGPT is an AI language model designed to understand and generate human-like text, facilitating conversation and assisting with various tasks</p>
 
@@ -502,7 +502,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Claude 3 Artifacts by PierrunoYT</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/PierrunoYT/claude-3-artifacts?style=social" alt="GitHub stars"> `UI Development`</summary>
+<summary><b>Claude 3 Artifacts by PierrunoYT</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/PierrunoYT/claude-3-artifacts?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">UI Development</span></summary>
 
 <p>An open-source Flask-React chat application that interacts with Claude AI, featuring file uploads, Markdown rendering, and code highlighting, seeking contributors to expand its capabilities, inspired by Claude Artifacts</p>
 
@@ -510,7 +510,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Claude models by Anthropic</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `Model Providers With Function Calling Support`</summary>
+<summary><b>Claude models by Anthropic</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Model Providers With Function Calling Support</span></summary>
 
 <p>Function calling or tool use is supported with the following models: `claude-3-opus-20240229`, `claude-3-sonnet-20240229`, and `claude-3-haiku-20240307`</p>
 
@@ -518,7 +518,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>CLIN</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/allenai/clin?style=social" alt="GitHub stars"> `AI Agents`</summary>
+<summary><b>CLIN</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/allenai/clin?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">AI Agents</span></summary>
 
 <p>CLIN by Allen Institute for AI is an interactive continual learning agent that adapts rapidly to tasks, using a setup process involving Java, Python, and the ScienceWorld environment, supported by models like GPT-3.5-turbo and GPT-4</p>
 
@@ -526,7 +526,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>CodeActAgent</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/xingyaoww/code-act?style=social" alt="GitHub stars"> `Development Frameworks`</summary>
+<summary><b>CodeActAgent</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/xingyaoww/code-act?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Development Frameworks</span></summary>
 
 <p>CodeActAgent, trained on CodeActInstruct, showcases superior performance in both in-domain and out-of-domain tasks, enabling dynamic code execution and multi-turn interactions for more effective LLM agents</p>
 
@@ -534,7 +534,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Codel</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/semanser/codel?style=social" alt="GitHub stars"> `AI Agents`</summary>
+<summary><b>Codel</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/semanser/codel?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">AI Agents</span></summary>
 
 <p>Autonomous AI agent, inspired by Devin, designed for complex task execution with features like a secure sandboxed Docker environment, integrated browser for real-time web information, text editor, and PostgreSQL database for history tracking, highlighting its relevance to agentic AI through its ability to autonomously navigate and perform actions across terminal, browser, and editor interfaces</p>
 
@@ -542,7 +542,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Cody</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/sourcegraph/cody?style=social" alt="GitHub stars"> `AI Agents`</summary>
+<summary><b>Cody</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/sourcegraph/cody?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">AI Agents</span></summary>
 
 <p>Cody, an AI coding assistant, now offers an enterprise version with enhanced security, scalability, and control for organizations, supporting various IDEs and providing AI-powered autocomplete, chat assistance, and custom command capabilities</p>
 
@@ -550,7 +550,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Cognee</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/topoteretes/cognee?style=social" alt="GitHub stars"> `Development Frameworks`</summary>
+<summary><b>Cognee</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/topoteretes/cognee?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Development Frameworks</span></summary>
 
 <p>Cognee is an open-source framework aimed at simplifying data processing for large language models (LLMs) by creating knowledge graphs and data models, offering tools for information addition, knowledge creation, and similarity-based search</p>
 
@@ -558,7 +558,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Command R+ by Cohere</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `Model Providers With Function Calling Support`</summary>
+<summary><b>Command R+ by Cohere</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Model Providers With Function Calling Support</span></summary>
 
 <p>Cohere introduces Command R+, an advanced, scalable LLM optimized for enterprise needs with advanced RAG, multilingual support, and sophisticated tool-use capabilities for automating complex business workflows, available first on Microsoft Azure</p>
 
@@ -566,7 +566,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Composio</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `Function Calling`</summary>
+<summary><b>Composio</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Function Calling</span></summary>
 
 <p>Composio enables quick integration of 90+ tools for developers and agents, offering managed authentication, easy testing, and up-to-date APIs to simplify development and enhance functionality</p>
 
@@ -574,7 +574,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Context</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `Observability Frameworks`</summary>
+<summary><b>Context</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Observability Frameworks</span></summary>
 
 <p>Context.ai is a tool for evaluating and analyzing products with LLMs, aiming to improve user experience and performance</p>
 
@@ -582,7 +582,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Continue</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/continuedev/continue?style=social" alt="GitHub stars"> `AI Agents`</summary>
+<summary><b>Continue</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/continuedev/continue?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">AI Agents</span></summary>
 
 <p>Continue is an open-source autopilot plugin for VS Code and JetBrains, enhancing coding with LLMs through features like task and tab autocomplete, natural language edits, file generation, and customization options, available under the Apache 2.0 license</p>
 
@@ -590,7 +590,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Cosmo</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `AI Agents`</summary>
+<summary><b>Cosmo</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">AI Agents</span></summary>
 
 <p>Cosmo offers an all-inclusive AI agent for merchants on WhatsApp, enabling order placements, customer interaction, automatic question answering, inventory and CRM integration, with features like instant payments, customer insights, dynamic order fulfillment, and a comprehensive merchant web app for online transaction management, aimed at simplifying shopping and boosting sales by 57%</p>
 
@@ -598,7 +598,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>crewAI by João Moura</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/joaomdmoura/crewai?style=social" alt="GitHub stars"> `Development Frameworks`</summary>
+<summary><b>crewAI by João Moura</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/joaomdmoura/crewai?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Development Frameworks</span></summary>
 
 <p>crewAI is a cutting-edge AI framework designed for orchestrating role-playing, autonomous AI agents, enabling seamless collaboration and complex task handling</p>
 
@@ -606,7 +606,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>crewAI Tools</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/joaomdmoura/crewai-tools?style=social" alt="GitHub stars"> `Function Calling`</summary>
+<summary><b>crewAI Tools</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/joaomdmoura/crewai-tools?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Function Calling</span></summary>
 
 <p>crewAI Tools is a library that provides a framework for developing sophisticated tools to enhance crewAI agents, with methods for subclassing BaseTool, utilizing the tool decorator, and guidelines for contributing to the ecosystem</p>
 
@@ -614,7 +614,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>crewAI+ by João Moura</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `Development Frameworks`</summary>
+<summary><b>crewAI+ by João Moura</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Development Frameworks</span></summary>
 
 <p>CrewAI+ is in beta, offering seamless API integration, business support, and early access for design partners; apply now to shape future features</p>
 
@@ -622,7 +622,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Cursor</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `AI Agents`</summary>
+<summary><b>Cursor</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">AI Agents</span></summary>
 
 <p>Cursor is an AI-enhanced programming editor focusing on code discussion, editing, and debugging, with plans for advanced features like repository healing and AI-generated documentation</p>
 
@@ -630,7 +630,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Custom Tools by Bland AI</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `Function Calling`</summary>
+<summary><b>Custom Tools by Bland AI</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Function Calling</span></summary>
 
 <p>Custom tools by Bland AI enable an agent to interact with any web API mid-call to perform actions like sending messages, scheduling appointments, creating support tickets, or updating CRM systems</p>
 
@@ -638,7 +638,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Data Questionnaire Agent</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/onepointconsulting/data-questionnaire-agent?style=social" alt="GitHub stars"> `AI Agents`</summary>
+<summary><b>Data Questionnaire Agent</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/onepointconsulting/data-questionnaire-agent?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">AI Agents</span></summary>
 
 <p>A chatbot designed to query users on data integration practices, offering advice based on responses, utilizing a modified Chainlit library for operation</p>
 
@@ -646,7 +646,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>databerry</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/databerry/?style=social" alt="GitHub stars"> `Development Frameworks`</summary>
+<summary><b>databerry</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/databerry/?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Development Frameworks</span></summary>
 
 <p>Chaindesk is a no-code platform for building custom LLM Agents, enabling users to quickly set up a semantic search system over personal data without technical knowledge</p>
 
@@ -654,7 +654,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>DB-GPT</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/eosphoros-ai/DB-GPT?style=social" alt="GitHub stars"> `Development Frameworks`</summary>
+<summary><b>DB-GPT</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/eosphoros-ai/DB-GPT?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Development Frameworks</span></summary>
 
 <p>DB-GPT revolutionizes database interactions using private LLM technology, enabling streamlined AI-native data app development with multi-model management, Text2SQL optimization, and fine-tuning, facilitating enterprises and developers to create bespoke applications in the Data 3.0 era</p>
 
@@ -662,7 +662,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Deepgram</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `AI Agents`</summary>
+<summary><b>Deepgram</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">AI Agents</span></summary>
 
 <p>Conversational AI tools designed for creating voice bots and agents, featuring realistic, low-latency voice technology</p>
 
@@ -670,7 +670,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>DeepGram</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `Voice Providers`</summary>
+<summary><b>DeepGram</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Voice Providers</span></summary>
 
 <p>Deepgram is an AI-powered speech recognition and summarization platform that enables users to automatically transcribe, summarize, and extract insights from audio content</p>
 
@@ -678,7 +678,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>DeepGram</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `Transcriber Providers`</summary>
+<summary><b>DeepGram</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Transcriber Providers</span></summary>
 
 <p>Deepgram is a leading speech-to-text (STT) API provider that offers highly accurate, fast, and cost-effective transcription services with advanced features like custom model training, real-time support, and flexible deployment options</p>
 
@@ -686,7 +686,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>DeepInfra</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `Model Providers`</summary>
+<summary><b>DeepInfra</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Model Providers</span></summary>
 
 <p>DeepInfra is a comprehensive platform that simplifies the deployment and management of machine learning models, offering a range of open-source models for tasks like text generation and embeddings, with easy integration through REST API calls</p>
 
@@ -694,7 +694,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Deepunit</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `AI Agents`</summary>
+<summary><b>Deepunit</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">AI Agents</span></summary>
 
 <p>An AI agent designed to generate unit tests for complete code coverage across your project, requiring only your repository as input</p>
 
@@ -702,7 +702,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Devid by Agency Swarm</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/agents/Devid?style=social" alt="GitHub stars"> `AI Agents`</summary>
+<summary><b>Devid by Agency Swarm</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/agents/Devid?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">AI Agents</span></summary>
 
 <p>Devid Agent, a new AI software development tool, has been integrated into the Agency Swarm framework to enhance automated AI agency operations, alternative to Cognition AI's Devin</p>
 
@@ -710,7 +710,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Devika</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/stitionai/devika?style=social" alt="GitHub stars"> `AI Agents`</summary>
+<summary><b>Devika</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/stitionai/devika?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">AI Agents</span></summary>
 
 <p>Devika is an open-source AI software engineer designed to understand and execute high-level coding tasks by researching, planning, and writing code, aiming to be a competitive alternative to Cognition AI's Devin</p>
 
@@ -718,7 +718,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Devin by Cognition</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `AI Agents`</summary>
+<summary><b>Devin by Cognition</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">AI Agents</span></summary>
 
 <p>Devin is a fully autonomous AI software engineer, revolutionizing coding with advanced reasoning and planning capabilities</p>
 
@@ -726,7 +726,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Devon (previously Gilfoyle)</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/entropy-research/Devon?style=social" alt="GitHub stars"> `AI Agents`</summary>
+<summary><b>Devon (previously Gilfoyle)</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/entropy-research/Devon?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">AI Agents</span></summary>
 
 <p>Devon, not Devin, aims to perfect code correction for fill-in-the-middle, bug spotting, and completion tasks, using JSON for metadata in edits, and incorporates looping until user termination in function updates</p>
 
@@ -734,7 +734,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>DevOpsGPT</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/kuafuai/DevOpsGPT?style=social" alt="GitHub stars"> `Development Frameworks`</summary>
+<summary><b>DevOpsGPT</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/kuafuai/DevOpsGPT?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Development Frameworks</span></summary>
 
 <p>DevOpsGPT is an AI-driven software development automation solution that combines large language models with DevOps tools to convert natural language requirements into working software, enhancing development efficiency, shortening cycles, and reducing communication costs</p>
 
@@ -742,7 +742,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>DSPY</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/stanfordnlp/dspy?style=social" alt="GitHub stars"> `Flow Engineering (Platform Engineering)`</summary>
+<summary><b>DSPY</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/stanfordnlp/dspy?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Flow Engineering (Platform Engineering)</span></summary>
 
 <p>A cutting-edge framework that compiles declarative language model calls into self-improving pipelines, enabling the systematic and efficient optimization of LM prompts and weights within complex systems</p>
 
@@ -750,7 +750,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>E2B</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/e2b-dev/E2B?style=social" alt="GitHub stars"> `Development Frameworks`</summary>
+<summary><b>E2B</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/e2b-dev/E2B?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Development Frameworks</span></summary>
 
 <p>E2B Sandbox offers secure cloud environments tailored for AI agents and apps, facilitating long-running sessions with various tools and can be integrated with any large language model</p>
 
@@ -758,7 +758,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>ElevenLabs</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `Voice Providers`</summary>
+<summary><b>ElevenLabs</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Voice Providers</span></summary>
 
 <p>ElevenLabs is a software company that develops AI-powered, natural-sounding speech synthesis and text-to-speech software, with the mission of making content universally accessible in any language and voice</p>
 
@@ -766,7 +766,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>elia</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/darrenburns/elia?style=social" alt="GitHub stars"> `Terminal-Friendly`</summary>
+<summary><b>elia</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/darrenburns/elia?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Terminal-Friendly</span></summary>
 
 <p>Keyboard-centric terminal user interface for interacting with large language models (LLMs) like ChatGPT, Claude, Llama 3, Phi 3, Mistral, and Gemma, offering benefits such as efficient, terminal-based interaction, easy switching between multiple models, local model support, and the ability to store conversations in a local SQLite database</p>
 
@@ -774,7 +774,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Enact</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/agentic-ai/enact?style=social" alt="GitHub stars"> `Development Frameworks`</summary>
+<summary><b>Enact</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/agentic-ai/enact?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Development Frameworks</span></summary>
 
 <p>Enact is a Python framework for building generative software that integrates machine learning models or APIs, offering features like tracking and replaying executions, asynchronous flows, and higher-order generative processes</p>
 
@@ -782,7 +782,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Evolutionary Model Merge</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/evolutionary-model-merge/?style=social" alt="GitHub stars"> `Model Merges`</summary>
+<summary><b>Evolutionary Model Merge</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/evolutionary-model-merge/?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Model Merges</span></summary>
 
 <p>Sakana AI's evolutionary model merge (EMM) combines 500,000 open-source models using evolutionary techniques to create new foundation models, achieving groundbreaking results without being explicitly optimized for specific benchmarks, marking a significant step toward AGI by empowering AI with combined knowledge akin to Retrieval Augmented Generation</p>
 
@@ -790,7 +790,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Fairgo</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `Build Club`</summary>
+<summary><b>Fairgo</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Build Club</span></summary>
 
 <p>Fairgo.ai is a platform built by Julian to streamline and scale hiring processes using real-time AI video interviews, tackling unconscious biases and ensuring all candidates are interviewed without human input</p>
 
@@ -798,7 +798,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>FastChat</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/lm-sys/FastChat?style=social" alt="GitHub stars"> `Local Inference`</summary>
+<summary><b>FastChat</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/lm-sys/FastChat?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Local Inference</span></summary>
 
 <p>FastChat is a platform for training, serving, and evaluating large language model chatbots, featuring an open-source distributed multi-model system, API compatibility, and a dataset for LLM conversations</p>
 
@@ -806,7 +806,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Fetch</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `Development Frameworks`</summary>
+<summary><b>Fetch</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Development Frameworks</span></summary>
 
 <p>Fetch by Fetch AI offers a platform for launching AI apps and services, including agent hosting, analytics, IoT gateways, and a Web3-based open network, alongside an open network for AI Agents that allows for connectivity, transactions, and the formation of dynamic marketplaces, facilitating the deployment and monetization of AI and ML models through agent technology</p>
 
@@ -814,7 +814,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Fine</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `AI Agents`</summary>
+<summary><b>Fine</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">AI Agents</span></summary>
 
 <p>Fine.dev offers AI-powered agents designed to automate software development tasks, seamlessly integrating into engineering teams to manage tedious tasks, technical debt, code reviews, and migrations, while customizing to project needs and learning from team feedback for improved efficiency</p>
 
@@ -822,7 +822,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>FinGen</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/sullyo/fingen?style=social" alt="GitHub stars"> `AI Agents`</summary>
+<summary><b>FinGen</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/sullyo/fingen?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">AI Agents</span></summary>
 
 <p>FinGen is a financial analysis agent using RSC, LangChain, and Polygon finance API, emphasizing it's not financial advice and requires API keys for use</p>
 
@@ -830,7 +830,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Flowise</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social" alt="GitHub stars"> `Development Frameworks`</summary>
+<summary><b>Flowise</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Development Frameworks</span></summary>
 
 <p>Flowise simplifies the creation of applications leveraging large language models (LLMs) by providing a drag-and-drop interface for customizing AI workflows, offering easy installation, Docker support, development tools, and documentation for integrating various functionalities such as authentication, streaming, and custom tools to enhance AI agents' capabilities</p>
 
@@ -838,7 +838,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>FuzzTypes</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/genomoncology/FuzzTypes?style=social" alt="GitHub stars"> `Structured Outputs`</summary>
+<summary><b>FuzzTypes</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/genomoncology/FuzzTypes?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Structured Outputs</span></summary>
 
 <p>FuzzTypes is a Pydantic extension library providing autocorrecting annotation types, enhancing Pydantic's data conversions for AI agents by enabling powerful normalization capabilities like named entity linking to ensure structured data consists of 'smart things' instead of 'dumb strings'</p>
 
@@ -846,7 +846,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Gated 402 API</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/aibtcdev/gated-402-api?style=social" alt="GitHub stars"> `Bitcoin`</summary>
+<summary><b>Gated 402 API</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/aibtcdev/gated-402-api?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Bitcoin</span></summary>
 
 <p>An API using a Stacks smart contract to control access, issuing a 200 status for access approval and a 402 with payment instructions for denial</p>
 
@@ -854,7 +854,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>GitWit</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `AI Agents`</summary>
+<summary><b>GitWit</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">AI Agents</span></summary>
 
 <p>GitWit is an online tool that accelerates web app development with AI, supporting React, Tailwind, and NodeJS, boasting a 3X speed increase and over 1000 projects generated</p>
 
@@ -862,7 +862,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Google STT</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `Voice Providers`</summary>
+<summary><b>Google STT</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Voice Providers</span></summary>
 
 <p>Google Cloud Speech-to-Text is a comprehensive speech recognition service that leverages Google's years of research in automatic speech recognition and transcription technology to provide developers with a high-quality, easy-to-use speech-to-text API</p>
 
@@ -870,7 +870,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>GPT Computer Assistant</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/onuratakan/gpt-computer-assistant?style=social" alt="GitHub stars"> `Operating System (OS)`</summary>
+<summary><b>GPT Computer Assistant</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/onuratakan/gpt-computer-assistant?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Operating System (OS)</span></summary>
 
 <p>GPT Computer Assistant is an unofficial app that brings ChatGPT functionality to Windows and Linux, allowing for screen reading, microphone use, system audio interaction, clipboard management, script execution, and more</p>
 
@@ -878,7 +878,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>GPT Engineer</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/gpt-engineer-org/gpt-engineer?style=social" alt="GitHub stars"> `AI Agents`</summary>
+<summary><b>GPT Engineer</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/gpt-engineer-org/gpt-engineer?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">AI Agents</span></summary>
 
 <p>GPT-Engineer is an AI-powered tool allowing users to specify software in natural language, automatically generating and executing code, with options for improvement suggestions, and fostering collaboration within the open-source community</p>
 
@@ -886,7 +886,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>GPT models by OpenAI</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `Model Providers With Function Calling Support`</summary>
+<summary><b>GPT models by OpenAI</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Model Providers With Function Calling Support</span></summary>
 
 <p>Function calling or tool use is supported with the following models: `gpt-4-turbo`, `gpt-4-turbo-2024-04-09`, `gpt-4-turbo-preview`, `gpt-4-0125-preview`, `gpt-4-1106-preview`, `gpt-4`, `gpt-4-0613`, `gpt-3.5-turbo`, `gpt-3.5-turbo-0125`, `gpt-3.5-turbo-1106`, and `gpt-3.5-turbo-0613`</p>
 
@@ -894,7 +894,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>GPT Newspaper by Tavily</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/rotemweiss57/gpt-newspaper?style=social" alt="GitHub stars"> `AI Agents`</summary>
+<summary><b>GPT Newspaper by Tavily</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/rotemweiss57/gpt-newspaper?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">AI Agents</span></summary>
 
 <p>GPT Newspaper is an autonomous agent project using AI to create personalized newspapers based on user preferences, featuring six specialized sub-agents for searching, curating, writing, designing, editing, and publishing content tailored to individual interests</p>
 
@@ -902,7 +902,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>GPT Pilot</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/Pythagora-io/gpt-pilot?style=social" alt="GitHub stars"> `AI Agents`</summary>
+<summary><b>GPT Pilot</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/Pythagora-io/gpt-pilot?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">AI Agents</span></summary>
 
 <p>GPT Pilot is an open-source AI developer tool that aims to provide a comprehensive development companion, capable of writing features, debugging, and interacting with users, presenting itself as an alternative to Devin, the world's first AI software engineer developed by Cognition Labs</p>
 
@@ -910,7 +910,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>GPT Researcher by Tavily</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=social" alt="GitHub stars"> `AI Agents`</summary>
+<summary><b>GPT Researcher by Tavily</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">AI Agents</span></summary>
 
 <p>GPT Researcher is an AI-powered autonomous agent designed for efficient and unbiased online research, generating detailed reports by leveraging recent advancements in AI and web scraping, with a focus on speed, reliability, and cost-effectiveness</p>
 
@@ -918,7 +918,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>GPTeam</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/101dotxyz/GPTeam?style=social" alt="GitHub stars"> `Development Frameworks`</summary>
+<summary><b>GPTeam</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/101dotxyz/GPTeam?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Development Frameworks</span></summary>
 
 <p>GPTeam is a collaborative AI project utilizing GPT-4 to create multi-agent systems aimed at enhancing productivity and communication, with features including agent memory and interaction, alongside instructions for setup and integration with third-party services</p>
 
@@ -926,7 +926,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Groq</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `Model Providers` `Model Providers With Function Calling Support`</summary>
+<summary><b>Groq</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Model Providers</span> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Model Providers With Function Calling Support</span></summary>
 
 <p>GroqCloud API endpoints support tool use for programmatic execution of specified operations through requests with explicitly defined operations, allowing Groq API model endpoints to deliver structured JSON output that can be used to directly invoke functions from desired codebases; these following models powered by Groq all support tool use: `llama3-70b`, `llama3-8b`, `mixtral-8x7b`, `gemma-7b-it`; parallel tool calling is enabled for both Llama3 models</p>
 
@@ -934,7 +934,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Guardrails</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/guardrails-ai/guardrails?style=social" alt="GitHub stars"> `Safety Guardrails (Safeguarding)`</summary>
+<summary><b>Guardrails</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/guardrails-ai/guardrails?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Safety Guardrails (Safeguarding)</span></summary>
 
 <p>Guardrails is a Python framework for building reliable AI applications, offering Input/Output Guards to detect and mitigate risks, along with structured data generation from large language models (LLMs)</p>
 
@@ -942,7 +942,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Guidance</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/guidance-ai/guidance?style=social" alt="GitHub stars"> `Safety Guardrails (Safeguarding)`</summary>
+<summary><b>Guidance</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/guidance-ai/guidance?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Safety Guardrails (Safeguarding)</span></summary>
 
 <p>The text describes 'guidance,' a programming paradigm that enhances control and efficiency in model generation by allowing for constraints like regex and CFGs, integrating stateful control, and offering a simplified interface for complex generation scenarios</p>
 
@@ -950,7 +950,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Harpa</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `AI Agents`</summary>
+<summary><b>Harpa</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">AI Agents</span></summary>
 
 <p>Harpa is a versatile Chrome extension that integrates AI capabilities, such as summarizing content, automating workflows, and enhancing productivity, supported by GPT-4 and Claude 2, trusted by 300,000+ professionals</p>
 
@@ -958,7 +958,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Haystack</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/deepset-ai/haystack?style=social" alt="GitHub stars"> `Development Frameworks`</summary>
+<summary><b>Haystack</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/deepset-ai/haystack?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Development Frameworks</span></summary>
 
 <p>Haystack is an end-to-end LLM framework facilitating the construction of applications powered by LLMs, Transformer models, vector search, and more, offering flexibility, transparency, and extensibility, with features including retrieval-augmented generation, document search, question answering, and semantic search, along with a diverse user base including companies like Airbus, Apple, and Netflix</p>
 
@@ -966,7 +966,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Helicone</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/Helicone/helicone?style=social" alt="GitHub stars"> `Observability Frameworks`</summary>
+<summary><b>Helicone</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/Helicone/helicone?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Observability Frameworks</span></summary>
 
 <p>Helicone is an open-source observability platform for Language Learning Models (LLMs), providing features like request logging, caching, rate limiting, cost and latency tracking, UI-based prompt iteration, and collaboration tools</p>
 
@@ -974,7 +974,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Humane</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `Hardware (Wearables)`</summary>
+<summary><b>Humane</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Hardware (Wearables)</span></summary>
 
 <p>AI Pin, a wearable, multi-modal device, enhances ambient computing in the real world, offering a suite of AI digital assistants for various tasks while prioritizing user privacy for a more intuitive, human-centered experience</p>
 
@@ -982,7 +982,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Hume AI</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `AI Agents`</summary>
+<summary><b>Hume AI</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">AI Agents</span></summary>
 
 <p>Hume AI offers empathic AI solutions with emotional intelligence through APIs for interpreting emotional expressions and generating empathic responses, aimed at enhancing human well-being and enabling developers to create AI agents with improved understanding and engagement</p>
 
@@ -990,7 +990,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Imbue</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `AI Agents`</summary>
+<summary><b>Imbue</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">AI Agents</span></summary>
 
 <p>Imbue, previously known as Generally Intelligent, is developing AI systems designed for reasoning and coding, aiming to create truly personal computers that enhance human freedom, dignity, and agency, supported by a $200M funding round to advance their technology</p>
 
@@ -998,7 +998,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Instructor</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/jxnl/instructor?style=social" alt="GitHub stars"> `Structured Outputs`</summary>
+<summary><b>Instructor</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/jxnl/instructor?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Structured Outputs</span></summary>
 
 <p>Instructor, a Python library, facilitates working with structured outputs from large language models (LLMs), offering features like response model specification, retry management, validation, and streaming support, primarily aimed at enhancing workflows of AI agents utilizing LLMs</p>
 
@@ -1006,7 +1006,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Instructor Cloud</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/instructor-ai/cloud?style=social" alt="GitHub stars"> `Structured Outputs`</summary>
+<summary><b>Instructor Cloud</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/instructor-ai/cloud?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Structured Outputs</span></summary>
 
 <p>Instructor Cloud offers a platform for extracting models from text rapidly, with real-time streaming and the potential to utilize GPT-4*, encouraging engagement through contributions and adaptation of its FastAPI-based service</p>
 
@@ -1014,7 +1014,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>IvyCheck</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/ivycheck/ivycheck-python-sdk?style=social" alt="GitHub stars"> `Safety Guardrails (Safeguarding)`</summary>
+<summary><b>IvyCheck</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/ivycheck/ivycheck-python-sdk?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Safety Guardrails (Safeguarding)</span></summary>
 
 <p>IvyCheck offers an API for real-time AI application safety checks, preventing prompt injection attacks, PII data leakage, and hallucinations in agentic AI development</p>
 
@@ -1022,7 +1022,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Jaiqu</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/AgentOps-AI/Jaiqu?style=social" alt="GitHub stars"> `Structured Outputs`</summary>
+<summary><b>Jaiqu</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/AgentOps-AI/Jaiqu?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Structured Outputs</span></summary>
 
 <p>Jaiqu is an AI-powered tool for automatically transforming any JSON schema using GPT-4, featuring schema validation, fuzzy term matching, and repeatable jq query generation</p>
 
@@ -1030,7 +1030,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Jan</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/janhq/jan?style=social" alt="GitHub stars"> `Local Inference`</summary>
+<summary><b>Jan</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/janhq/jan?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Local Inference</span></summary>
 
 <p>Jan is an open-source, development-stage ChatGPT alternative that operates fully offline on diverse hardware platforms, supporting universal architectures from PCs to multi-GPU clusters</p>
 
@@ -1038,7 +1038,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>JARVIS by Microsoft</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/microsoft/JARVIS?style=social" alt="GitHub stars"> `Development Frameworks`</summary>
+<summary><b>JARVIS by Microsoft</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/microsoft/JARVIS?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Development Frameworks</span></summary>
 
 <p>JARVIS aims to advance artificial general intelligence (AGI) through cutting-edge research and facilitate broader community engagement</p>
 
@@ -1046,7 +1046,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Jsonify</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `Structured Outputs`</summary>
+<summary><b>Jsonify</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Structured Outputs</span></summary>
 
 <p>Jsonify provides a no-code platform for AI data agents that convert webpages and documents into structured JSON, enhancing efficiency and customer satisfaction, with use cases including scraping webpages, extracting document data, and building structured datasets</p>
 
@@ -1054,7 +1054,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Kapa</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `No-Code Development Frameworks`</summary>
+<summary><b>Kapa</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">No-Code Development Frameworks</span></summary>
 
 <p>Kapa.ai is an AI-powered chatbot service for developers that automates answering technical questions by learning from technical resources, thus helping identify gaps in documentation, with features including data security, PII anonymization, and continuous updating from a range of knowledge sources</p>
 
@@ -1062,7 +1062,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>LangChain</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/langchain-ai/langchain?style=social" alt="GitHub stars"> `Development Frameworks`</summary>
+<summary><b>LangChain</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/langchain-ai/langchain?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Development Frameworks</span></summary>
 
 <p>LangChain is a framework enabling context-aware reasoning applications with integrated libraries, templates, and developer tools</p>
 
@@ -1070,7 +1070,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>LangChain JS</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/langchain-ai/langchainjs?style=social" alt="GitHub stars"> `Development Frameworks`</summary>
+<summary><b>LangChain JS</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/langchain-ai/langchainjs?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Development Frameworks</span></summary>
 
 <p>LangChain JS is a framework for developing applications powered by language models, enabling context-aware and reasoning-based applications through composable tools and off-the-shelf chains, with seamless integration with the LangChain Python package</p>
 
@@ -1078,7 +1078,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>LangChain JS Tools</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/langchain-ai/langchainjs?style=social" alt="GitHub stars"> `Function Calling`</summary>
+<summary><b>LangChain JS Tools</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/langchain-ai/langchainjs?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Function Calling</span></summary>
 
 <p>Langchain features VectorDBQAChain, which integrates LLMs and vector databases into agent tools for enhanced question-answering capabilities by leveraging data ingested into vector stores</p>
 
@@ -1086,7 +1086,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>LangChain Tools</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/langchain/?style=social" alt="GitHub stars"> `Function Calling`</summary>
+<summary><b>LangChain Tools</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/langchain/?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Function Calling</span></summary>
 
 <p>Langchain integrates various providers like Anthropic, AWS, and OpenAI, and offers tools for components such as LLMs, chat models, and data analysis, supporting functionalities from Alpha Vantage to YouTube</p>
 
@@ -1094,7 +1094,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>LangChainBitcoin</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/lightninglabs/LangChainBitcoin?style=social" alt="GitHub stars"> `Bitcoin`</summary>
+<summary><b>LangChainBitcoin</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/lightninglabs/LangChainBitcoin?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Bitcoin</span></summary>
 
 <p>LangChainBitcoin is a toolset for enabling LangChain agents to interact with Bitcoin, the Lightning Network, and APIs requiring L402-based authentication, including features for Bitcoin transactions and API traversal with automated Lightning payments</p>
 
@@ -1102,7 +1102,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>LangFuse</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/langfuse/langfuse?style=social" alt="GitHub stars"> `Evaluation Frameworks`</summary>
+<summary><b>LangFuse</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/langfuse/langfuse?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Evaluation Frameworks</span></summary>
 
 <p>Langfuse, an open-source LLM engineering platform, offers debugging, prompt management, metrics for LLM apps improvement, and won the #1 Golden Kitty in the AI Infra Category from Product Hunt</p>
 
@@ -1110,7 +1110,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>LangGraph</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/langchain-ai/langgraph?style=social" alt="GitHub stars"> `Development Frameworks`</summary>
+<summary><b>LangGraph</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/langchain-ai/langgraph?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Development Frameworks</span></summary>
 
 <p>LangGraph is a Python library facilitating the construction of stateful, multi-actor applications with LLMs, enabling cyclic coordination across multiple computation steps, particularly suited for agent-like behaviors, while also providing streaming support, and various guides and examples for implementation and usage</p>
 
@@ -1118,7 +1118,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>LangGraph.js</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/langchain-ai/langgraphjs?style=social" alt="GitHub stars"> `Development Frameworks`</summary>
+<summary><b>LangGraph.js</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/langchain-ai/langgraphjs?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Development Frameworks</span></summary>
 
 <p>LangGraph.js is a TypeScript and JavaScript library enabling the development of stateful, multi-actor applications with LLMs, featuring capabilities to construct cyclic coordination across multiple computation steps for complex agent-like behaviors, with support for conditional edges and cycles, not limited to DAGs, and extensive documentation with examples on implementation</p>
 
@@ -1126,7 +1126,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>LangServe</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/langchain-ai/langserve?style=social" alt="GitHub stars"> `Development Frameworks`</summary>
+<summary><b>LangServe</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/langchain-ai/langserve?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Development Frameworks</span></summary>
 
 <p>LangServe facilitates the deployment of LangChain runnables and chains as a REST API, providing features like automatic schema inference, efficient endpoints, and a playground page, with plans for a hosted version for one-click deployments</p>
 
@@ -1134,7 +1134,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>LangSmith by LangChain</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> `Observability Frameworks`</summary>
+<summary><b>LangSmith by LangChain</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Observability Frameworks</span></summary>
 
 <p>LangSmith provides tools for debugging, testing, evaluating, and monitoring LLM applications, integrating seamlessly with LangChain for comprehensive AI agent observability</p>
 
@@ -1142,7 +1142,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Libraria</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `No-Code Development Frameworks`</summary>
+<summary><b>Libraria</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">No-Code Development Frameworks</span></summary>
 
 <p>Libraria AI offers a platform to create, manage, and embed custom AI chatbots with natural language processing and features like call-to-actions, link carousels, and analytics for enhanced customer interactions and satisfaction, alongside free and paid plans tailored for different business needs</p>
 
@@ -1150,7 +1150,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>LiteLLM</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/BerriAI/litellm?style=social" alt="GitHub stars"> `Assistants API`</summary>
+<summary><b>LiteLLM</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/BerriAI/litellm?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Assistants API</span></summary>
 
 <p>LiteLLM has added support for the OpenAI Assistants API, enabling seamless integration of stateful operations and automatic RAG pipelines into existing chatbots</p>
 
@@ -1158,7 +1158,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>LiveKit Agents</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> `Real-Time`</summary>
+<summary><b>LiveKit Agents</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Real-Time</span></summary>
 
 <p>An open-source framework for building real-time, programmable participants that run on servers, enabling easy integration with LiveKit WebRTC sessions for processing or generating audio, video, and data streams</p>
 
@@ -1166,7 +1166,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>LiveRecall</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> `Personal Assistants`</summary>
+<summary><b>LiveRecall</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Personal Assistants</span></summary>
 
 <p>LiveRecall, an open-source alternative to Microsoft's Recall, utilizes semantic search and encryption to capture and retrieve screen snapshots, enabling AI agents to assist creators in researching and augmenting tasks like journaling or blog post creation based on indexed personal activities</p>
 
@@ -1174,7 +1174,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>LlamaCloud by LlamaIndex</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `No-Code Development Frameworks`</summary>
+<summary><b>LlamaCloud by LlamaIndex</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">No-Code Development Frameworks</span></summary>
 
 <p>LlamaCloud by LlamaIndex streamlines AI development by enabling developers to minimize infrastructure management and parameter tuning, focusing instead on creating AI products, with features for proprietary parsing of complex documents, easy data ingestion and storage, and advanced data retrieval</p>
 
@@ -1182,7 +1182,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>LlamaGym</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/KhoomeiK/LlamaGym?style=social" alt="GitHub stars"> `Reinforcement Learning`</summary>
+<summary><b>LlamaGym</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/KhoomeiK/LlamaGym?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Reinforcement Learning</span></summary>
 
 <p>LlamaGym simplifies the fine-tuning of LLM agents with online reinforcement learning, providing a framework to iterate and experiment across Gym environments for efficient agent prompting and hyperparameter tuning</p>
 
@@ -1190,7 +1190,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>LlamaIndex Tools</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/run-llama/llama_index?style=social" alt="GitHub stars"> `Function Calling`</summary>
+<summary><b>LlamaIndex Tools</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/run-llama/llama_index?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Function Calling</span></summary>
 
 <p>LlamaIndex offers a variety of tools for building data agents, with top downloads including IonicShoppingToolSpec, OpenAPIToolSpec, WikipediaToolSpec, GmailToolSpec, and GoogleCalendarToolSpec, enabling seamless integration with user-defined functions, query engines, and third-party services</p>
 
@@ -1198,7 +1198,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>LM Studio</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `Local Inference`</summary>
+<summary><b>LM Studio</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Local Inference</span></summary>
 
 <p>LM Studio offers a platform for running various local LLMs like LLaMa, Falcon, MPT, and others offline, featuring a Chat UI, OpenAI-compatible server, and model downloads from Hugging Face, with support for Mac, Windows, and Linux, emphasizing privacy and no data collection, free for personal use</p>
 
@@ -1206,7 +1206,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>LMNT</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `Voice Providers`</summary>
+<summary><b>LMNT</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Voice Providers</span></summary>
 
 <p>LMNT is an AI-powered text-to-speech platform that offers ultrafast, lifelike, and reliable voice cloning and generation services for conversational apps, agents, and content creation at scale</p>
 
@@ -1214,7 +1214,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>LMQL</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/eth-sri/lmql?style=social" alt="GitHub stars"> `LLM-Friendly Languages`</summary>
+<summary><b>LMQL</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/eth-sri/lmql?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">LLM-Friendly Languages</span></summary>
 
 <p>LMQL is a Python-based programming language for large language models, allowing seamless integration of LLMs into code with advanced features like conditional logic, constraints, and multi-model support</p>
 
@@ -1222,7 +1222,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Lobe Chat</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/lobehub/lobe-chat?style=social" alt="GitHub stars"> `Development Frameworks`</summary>
+<summary><b>Lobe Chat</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/lobehub/lobe-chat?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Development Frameworks</span></summary>
 
 <p>Lobe Chat is an open-source UI framework for building ChatGPT/LLM-based chat applications, featuring modern design, speech synthesis, multi-modal support, extensible plugins, and free one-click deployment for various AI agents</p>
 
@@ -1230,7 +1230,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>LocalGPT</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/PromtEngineer/localGPT?style=social" alt="GitHub stars"> `Local Inference`</summary>
+<summary><b>LocalGPT</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/PromtEngineer/localGPT?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Local Inference</span></summary>
 
 <p>LocalGPT is an open-source project for secure, private interactions with documents locally, featuring comprehensive model support, embeddings, API for RAG applications, and GUI options, with a focus on privacy and local data processing</p>
 
@@ -1238,7 +1238,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>LoopGPT</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/farizrahman4u/loopgpt?style=social" alt="GitHub stars"> `Development Frameworks`</summary>
+<summary><b>LoopGPT</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/farizrahman4u/loopgpt?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Development Frameworks</span></summary>
 
 <p>LoopGPT is a modular auto-GPT framework with features such as a 'Plug N Play' API, GPT 3.5 compatibility, minimal prompt overhead, human-in-the-loop capability, and full state serialization, facilitating easy installation and usage through Python code, CLI, or Docker, with the ability to add custom tools and course correction, along with saving and loading agent state, requiring Python 3.8+ and an OpenAI API Key, and optional setup for Google search support</p>
 
@@ -1246,7 +1246,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Lumos</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/allenai/lumos?style=social" alt="GitHub stars"> `Development Frameworks`</summary>
+<summary><b>Lumos</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/allenai/lumos?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Development Frameworks</span></summary>
 
 <p>Lumos introduces a modular, open-source language agent framework with unified data formats that competes with or outperforms GPT-series and larger agents across various complex interactive tasks</p>
 
@@ -1254,7 +1254,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Lyzr</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `Development Frameworks`</summary>
+<summary><b>Lyzr</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Development Frameworks</span></summary>
 
 <p>Lyzr provides an enterprise-grade AI agent framework for easy configuration, deployment, and management of AI agents, supporting integration with multiple LLMs and databases, and offers ISO-compliant safety, white-glove onboarding, and 24/7 enterprise support</p>
 
@@ -1262,7 +1262,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Marvin</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/marvin/?style=social" alt="GitHub stars"> `Structured Outputs`</summary>
+<summary><b>Marvin</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/marvin/?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Structured Outputs</span></summary>
 
 <p>Marvin is an open-source AI toolkit designed for developers focused on enhancing AI agent capabilities, offering tools for natural language interfaces, image and audio generation, and entity extraction, scalable and easy to integrate into existing projects</p>
 
@@ -1270,7 +1270,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>MemGPT</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/MemGPT/?style=social" alt="GitHub stars"> `Long-Term Memory`</summary>
+<summary><b>MemGPT</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/MemGPT/?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Long-Term Memory</span></summary>
 
 <p>MemGPT introduces a customizable AI chatbot framework with self-editing memory and access to unlimited data, promoting perpetual, context-rich conversations</p>
 
@@ -1278,7 +1278,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Mendable</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `No-Code Development Frameworks`</summary>
+<summary><b>Mendable</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">No-Code Development Frameworks</span></summary>
 
 <p>Mendable offers an AI chatbot solution that enables companies to build and deploy technical assistants trained on their specific documentation and resources, aiming to improve customer and employee support, with features including enterprise-grade security, continuous model training, and integration with a wide range of data sources and APIs</p>
 
@@ -1286,7 +1286,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>MergeKit</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/arcee-ai/mergekit?style=social" alt="GitHub stars"> `Model Merges`</summary>
+<summary><b>MergeKit</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/arcee-ai/mergekit?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Model Merges</span></summary>
 
 <p>Arcee AI's MergeKit offers tools for merging pre-trained large language models, enabling the creation of more versatile AI agents by combining knowledge from different sources, akin to Retrieval Augmented Generation (RAG)</p>
 
@@ -1294,7 +1294,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>MetaGPT</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/geekan/MetaGPT?style=social" alt="GitHub stars"> `Development Frameworks`</summary>
+<summary><b>MetaGPT</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/geekan/MetaGPT?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Development Frameworks</span></summary>
 
 <p>MetaGPT is a multi-agent framework enabling GPT to collaborate within a software company, facilitating complex tasks by assigning different roles to GPTs</p>
 
@@ -1302,7 +1302,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Miranda</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `Build Club`</summary>
+<summary><b>Miranda</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Build Club</span></summary>
 
 <p>Miranda is a platform that simplifies dashboard creation, aiming to be the 'Canva for dashboards'</p>
 
@@ -1310,7 +1310,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>MultiOn</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `AI Agents`</summary>
+<summary><b>MultiOn</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">AI Agents</span></summary>
 
 <p>MultiOn utilizes AI to automate actions within web browsers, such as form filling, data retrieval, and executing web searches, mimicking human interaction but without manual input, facilitated through a Chrome extension and API for developers</p>
 
@@ -1318,7 +1318,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>NavAIGuide</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/francedot/NavAIGuide-TS?style=social" alt="GitHub stars"> `Mobile-Friendly Frameworks`</summary>
+<summary><b>NavAIGuide</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/francedot/NavAIGuide-TS?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Mobile-Friendly Frameworks</span></summary>
 
 <p>NavAIGuide is an extensible, mobile-friendly, multi-modal agentic framework designed to integrate with mobile and desktop apps, featuring visual task detection, advanced code selectors, action-oriented execution, and resilient error handling</p>
 
@@ -1326,7 +1326,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Neets</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `Voice Providers`</summary>
+<summary><b>Neets</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Voice Providers</span></summary>
 
 <p>Neets.ai is a text-to-speech (TTS) API that offers a wide range of voices and languages, allowing users to easily integrate TTS capabilities into their applications</p>
 
@@ -1334,7 +1334,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>NeMo Guardrails</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/NVIDIA/NeMo-Guardrails?style=social" alt="GitHub stars"> `Safety Guardrails (Safeguarding)`</summary>
+<summary><b>NeMo Guardrails</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/NVIDIA/NeMo-Guardrails?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Safety Guardrails (Safeguarding)</span></summary>
 
 <p>NeMo Guardrails is an open-source toolkit facilitating the integration of programmable guardrails, essential for steering and safeguarding AI agents' conversational outputs, into large language model-based applications</p>
 
@@ -1342,7 +1342,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>NexusGPT</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `AI Agents`</summary>
+<summary><b>NexusGPT</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">AI Agents</span></summary>
 
 <p>NexusGPT offers a no-code platform to build and integrate AI agents that automate workflows, featuring a marketplace of tools and integrations, with easy customization and deployment across various applications</p>
 
@@ -1350,7 +1350,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>NPI</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/npi-ai/npi?style=social" alt="GitHub stars"> `Function Calling`</summary>
+<summary><b>NPI</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/npi-ai/npi?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Function Calling</span></summary>
 
 <p>NPi is an open-source platform providing tool-use APIs for AI agents, with installation and setup instructions available</p>
 
@@ -1358,7 +1358,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Ollama</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/ollama/ollama?style=social" alt="GitHub stars"> `Local Inference`</summary>
+<summary><b>Ollama</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/ollama/ollama?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Local Inference</span></summary>
 
 <p>Ollama is a tool for running large language models locally, offering easy setup for macOS, Windows, Linux, and Docker, along with a library of models and quickstart guides for customization and integration</p>
 
@@ -1366,7 +1366,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Open Assistant API</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/MLT-OSS/open-assistant-api?style=social" alt="GitHub stars"> `Assistants API`</summary>
+<summary><b>Open Assistant API</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/MLT-OSS/open-assistant-api?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Assistants API</span></summary>
 
 <p>The Open Assistant API is a self-hosted, open-source framework that enables the creation of customized AI assistants, supporting integration with OpenAI's LLM and LangChain SDK, and is compatible with OpenAI's Assistants API, allowing for seamless orchestration and extension capabilities</p>
 
@@ -1374,7 +1374,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Open Interpreter</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/OpenInterpreter/open-interpreter?style=social" alt="GitHub stars"> `AI Agents`</summary>
+<summary><b>Open Interpreter</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/OpenInterpreter/open-interpreter?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">AI Agents</span></summary>
 
 <p>Open Interpreter is a coding agent enabling language models to execute code locally, facilitating natural-language interaction with your computer's capabilities, overcoming limitations of hosted solutions like internet access and package restrictions, with features including interactive and programmatic chats, system message customization, and more, allowing for enhanced control and flexibility in development environments</p>
 
@@ -1382,7 +1382,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Open Interpreter</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/OpenInterpreter/open-interpreter?style=social" alt="GitHub stars"> `Operating System (OS)`</summary>
+<summary><b>Open Interpreter</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/OpenInterpreter/open-interpreter?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Operating System (OS)</span></summary>
 
 <p>Open Interpreter is a coding agent enabling language models to execute code locally, facilitating natural-language interaction with your computer's capabilities, overcoming limitations of hosted solutions like internet access and package restrictions. It features interactive and programmatic chats, system message customization, and can control your computer's keyboard and mouse, allowing for enhanced control and flexibility in development environments</p>
 
@@ -1390,7 +1390,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>OpenAGI</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/agiresearch/OpenAGI?style=social" alt="GitHub stars"> `Development Frameworks`</summary>
+<summary><b>OpenAGI</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/agiresearch/OpenAGI?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Development Frameworks</span></summary>
 
 <p>OpenAGI by AGI Research is an open-source platform integrating Large Language Models (LLMs) with domain-specific expert models for complex task-solving, fostering a paradigm where LLMs operate various external models, accompanied by a Reinforcement Learning from Task Feedback (RLTF) mechanism for self-improvement</p>
 
@@ -1398,7 +1398,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>OpenAI</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `Model Providers`</summary>
+<summary><b>OpenAI</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Model Providers</span></summary>
 
 <p>OpenAI's GPT models, including GPT-3 and GPT-4, are large language models that can be used to summarize text in a concise and accurate manner, though the quality of the summaries may vary depending on the complexity and length of the input text</p>
 
@@ -1406,7 +1406,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>OpenAI TTS</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `Voice Providers`</summary>
+<summary><b>OpenAI TTS</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Voice Providers</span></summary>
 
 <p>The OpenAI Text-to-Speech (TTS) API allows users to convert text into high-quality, natural-sounding spoken audio in multiple languages, with various voice options and customization capabilities</p>
 
@@ -1414,7 +1414,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>OpenDevin</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/OpenDevin/OpenDevin?style=social" alt="GitHub stars"> `AI Agents`</summary>
+<summary><b>OpenDevin</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/OpenDevin/OpenDevin?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">AI Agents</span></summary>
 
 <p>OpenDevin is an open-source initiative aimed at replicating and enhancing the autonomous AI software engineer Devin, focusing on collaboration and complex task execution in software development, emphasizing its relevance to advancing agentic AI technologies</p>
 
@@ -1422,7 +1422,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>OpenGPTs</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/langchain-ai/opengpts?style=social" alt="GitHub stars"> `Development Frameworks`</summary>
+<summary><b>OpenGPTs</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/langchain-ai/opengpts?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Development Frameworks</span></summary>
 
 <p>OpenGPTs is an open-source project providing customizable GPT-based experiences, offering control over language models, prompts, tools, vector databases, retrieval algorithms, and chat history databases, featuring three cognitive architectures: Assistant, RAG, and Chatbot, with support for various language models and deployment options including Docker, Cloud Run, and Kubernetes</p>
 
@@ -1430,7 +1430,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>OpenPipe</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `AI Agents`</summary>
+<summary><b>OpenPipe</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">AI Agents</span></summary>
 
 <p>Optimize AI agents with language models that are faster and 14x more cost-effective than OpenAI's solutions</p>
 
@@ -1438,7 +1438,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>OpenRecall</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> `Personal Assistants`</summary>
+<summary><b>OpenRecall</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Personal Assistants</span></summary>
 
 <p>OpenRecall is an open-source, privacy-focused digital memory tool capturing and indexing screenshots to enhance productivity without compromising privacy, usable across Windows, macOS, and Linux, and compatible with AI agents for personal assistance</p>
 
@@ -1446,7 +1446,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>OpenRouter</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `Model Providers`</summary>
+<summary><b>OpenRouter</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Model Providers</span></summary>
 
 <p>OpenRouter.ai is a platform that provides access to a wide range of large language models, including open-source and proprietary options like ChatGPT, Gemini, and Perplexity, allowing users to find the best models and pricing for their prompts and use cases</p>
 
@@ -1454,7 +1454,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Outlines</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/outlines-dev/outlines?style=social" alt="GitHub stars"> `Structured Outputs`</summary>
+<summary><b>Outlines</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/outlines-dev/outlines?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Structured Outputs</span></summary>
 
 <p>Outlines is a robust text generation library designed for agentic AI developers, featuring support for multiple model integrations, advanced prompting with Jinja, efficient structured generation through regex, JSON schema, context-free grammars, and more, enabling the creation of predictable and structured AI agent outputs</p>
 
@@ -1462,7 +1462,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Perplexity</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `Model Providers`</summary>
+<summary><b>Perplexity</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Model Providers</span></summary>
 
 <p>Perplexity AI is an AI-powered search engine that offers summarized answers with cited sources, content generation, accurate information retrieval, user-friendly interface, and versatility, making it a valuable tool for various users</p>
 
@@ -1470,7 +1470,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Perplexity-Inspired LLM Answer Engine</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/developersdigest/llm-answer-engine?style=social" alt="GitHub stars"> `Structured Outputs`</summary>
+<summary><b>Perplexity-Inspired LLM Answer Engine</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/developersdigest/llm-answer-engine?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Structured Outputs</span></summary>
 
 <p>A versatile answer engine leveraging Groq, Mistral AI, Langchain.JS, Brave Search, Serper API, and OpenAI to deliver efficient and sophisticated responses with reduced hallucination through RAG for citation-backed search queries</p>
 
@@ -1478,7 +1478,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Personal Assistant by HyperWrite</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `AI Agents`</summary>
+<summary><b>Personal Assistant by HyperWrite</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">AI Agents</span></summary>
 
 <p>HyperWrite offers a Personal Assistant AI agent for everyday tasks, seamlessly integrating into workflows to automate tedious tasks, optimize planning, and inform decision-making, while also providing personalized suggestions and transforming wishes into commands across various platforms</p>
 
@@ -1486,7 +1486,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Pieces</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `AI Agents`</summary>
+<summary><b>Pieces</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">AI Agents</span></summary>
 
 <p>Pieces is an AI-powered productivity tool for developers that enhances efficiency through a unified toolchain, offering on-device workflow assistance, intelligent code snippet management, and seamless integration with development tools and plugins</p>
 
@@ -1494,7 +1494,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Pinokio</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/pinokiocomputer/pinokio?style=social" alt="GitHub stars"> `Local Inference`</summary>
+<summary><b>Pinokio</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/pinokiocomputer/pinokio?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Local Inference</span></summary>
 
 <p>Pinokio is a browser that enables the installation, running, and programmable control of any application with one click, supporting any open-source repo locally, including LLM or AI agent-based projects</p>
 
@@ -1502,7 +1502,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>PlayAI</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `Phone Calling`</summary>
+<summary><b>PlayAI</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Phone Calling</span></summary>
 
 <p>Play.ai offers conversational AI voice solutions, with a mission to enable customizable, natural language-based user interfaces, promoting rapid innovation and a performance-driven culture</p>
 
@@ -1510,7 +1510,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>PlayHT</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `Voice Providers`</summary>
+<summary><b>PlayHT</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Voice Providers</span></summary>
 
 <p>PlayHT's AI Voice Generator offers a state-of-the-art TTS service that creates natural, humanlike voiceovers in multiple languages and accents, ideal for various audio content needs with full commercial rights</p>
 
@@ -1518,7 +1518,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>PraisonAI</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/PraisonAI/?style=social" alt="GitHub stars"> `Development Frameworks`</summary>
+<summary><b>PraisonAI</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/PraisonAI/?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Development Frameworks</span></summary>
 
 <p>Praison AI is a low-code, centralized framework leveraging AutoGen and CrewAI to simplify creating and orchestrating multi-agent systems for LLM applications, emphasizing customization and ease of human-agent interaction</p>
 
@@ -1526,7 +1526,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Priompt</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/anysphere/priompt?style=social" alt="GitHub stars"> `Prompt Engineering`</summary>
+<summary><b>Priompt</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/anysphere/priompt?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Prompt Engineering</span></summary>
 
 <p>Priompt is a JSX-based library for designing prompts with priorities, aiming to optimize inclusion of content within token limits, inspired by React and detailed with installation instructions, examples, principles, and future considerations</p>
 
@@ -1534,7 +1534,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>PrivateGPT</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/private-gpt/?style=social" alt="GitHub stars"> `Local Inference`</summary>
+<summary><b>PrivateGPT</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/private-gpt/?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Local Inference</span></summary>
 
 <p>PrivateGPT is a secure, offline-capable AI tool for querying documents with Large Language Models, offering high-level and low-level APIs for privacy-conscious, context-aware application development</p>
 
@@ -1542,7 +1542,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Produvia</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `Custom Development`</summary>
+<summary><b>Produvia</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Custom Development</span></summary>
 
 <p>Since 2013, Produvia Inc. has served $7M+ in revenue brands by developing custom agentic AI solutions powered by state-of-the-art function calling LLMs including but not limited to: Claude 3 Opus, GPT-4, Bard (Gemini Pro), Claude 3 Sonnet, Claude 3 Haiku, Mistral Medium, Command R, Mistral-Next, Starling-LM-7B-beta</p>
 
@@ -1550,7 +1550,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Prompt2UI by sullyo</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/sullyo/prompt2ui?style=social" alt="GitHub stars"> `UI Development`</summary>
+<summary><b>Prompt2UI by sullyo</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/sullyo/prompt2ui?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">UI Development</span></summary>
 
 <p>An open-source project that converts prompts to user interfaces, demonstrated by creating a basic Google Calendar clone using Claude in about 2 hours, inspired by Claude Artifacts</p>
 
@@ -1558,7 +1558,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Pydantic</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/pydantic/pydantic?style=social" alt="GitHub stars"> `Structured Outputs`</summary>
+<summary><b>Pydantic</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/pydantic/pydantic?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Structured Outputs</span></summary>
 
 <p>Pydantic is a Python library facilitating data validation through type hints, particularly useful for AI agents, offering fast validation capabilities and compatibility with various development tools</p>
 
@@ -1566,7 +1566,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Relevance</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `No-Code Development Frameworks`</summary>
+<summary><b>Relevance</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">No-Code Development Frameworks</span></summary>
 
 <p>Relevance AI offers a platform for building and deploying AI workers to automate tasks, integrate with tech stacks, and manage security, aiming to enhance business efficiency without increasing headcount</p>
 
@@ -1574,7 +1574,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Rime AI</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `Voice Providers`</summary>
+<summary><b>Rime AI</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Voice Providers</span></summary>
 
 <p>Rime is a speech synthesis API offering natural-sounding, demographically tailored voices with fast response times for various uses, including customer service and narration</p>
 
@@ -1582,7 +1582,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>ScrapeGraphAI</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/VinciGit00/Scrapegraph-ai?style=social" alt="GitHub stars"> `Web Browsing Frameworks`</summary>
+<summary><b>ScrapeGraphAI</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/VinciGit00/Scrapegraph-ai?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Web Browsing Frameworks</span></summary>
 
 <p>ScrapeGraph AI provides a tool for creating AI agents that can automate web scraping tasks efficiently, enhancing data extraction capabilities through the use of LangGraph, function calls, and web scraping techniques</p>
 
@@ -1590,7 +1590,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Self Operating Computer</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/OthersideAI/self-operating-computer?style=social" alt="GitHub stars"> `Operating System (OS)`</summary>
+<summary><b>Self Operating Computer</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/OthersideAI/self-operating-computer?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Operating System (OS)</span></summary>
 
 <p>Self Operating Computer (SOC) enables multimodal models to autonomously interact with a computer using human-like inputs and outputs, including controlling the keyboard and mouse. It is compatible with various models and under ongoing development for more accurate functionalities</p>
 
@@ -1598,7 +1598,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Self Operating Computer by Otherside</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/OthersideAI/self-operating-computer?style=social" alt="GitHub stars"> `AI Agents`</summary>
+<summary><b>Self Operating Computer by Otherside</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/OthersideAI/self-operating-computer?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">AI Agents</span></summary>
 
 <p>Self Operating Computer (SOC) enables multimodal models to autonomously interact with a computer using human-like inputs and outputs, compatible with various models, and under ongoing development for more accurate functionalities</p>
 
@@ -1606,7 +1606,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Self Operating Computer by Otherside</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/OthersideAI/self-operating-computer?style=social" alt="GitHub stars"> `AI Agents`</summary>
+<summary><b>Self Operating Computer by Otherside</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/OthersideAI/self-operating-computer?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">AI Agents</span></summary>
 
 <p>SOC is a framework enabling multimodal models to operate a computer using human-like inputs and outputs, with compatibility for various models such as GPT-4v, Gemini Pro Vision, and LLaVA, offering future support for additional models and featuring various modes including voice and optical character recognition</p>
 
@@ -1614,7 +1614,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>ShortGPT by RayVentura</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/RayVentura/ShortGPT?style=social" alt="GitHub stars"> `AI Agents`</summary>
+<summary><b>ShortGPT by RayVentura</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/RayVentura/ShortGPT?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">AI Agents</span></summary>
 
 <p>ShortGPT is an AI-powered framework for automating content creation, including video editing, voiceover synthesis, caption generation, and asset sourcing, with support for multiple languages and seamless integration with Google Colab and Docker for easy deployment</p>
 
@@ -1622,7 +1622,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>ShortX by RayVentura</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `AI Agents`</summary>
+<summary><b>ShortX by RayVentura</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">AI Agents</span></summary>
 
 <p>ShortX is a AI-powered video automation platform for YouTube Shorts, Instagram Reels, TikTok, and Snapchat, offering customizable templates, AI services, and a subscription model with an affiliate program and user testimonials</p>
 
@@ -1630,7 +1630,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Streaming Assistants</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/phact/streaming-assistants?style=social" alt="GitHub stars"> `Assistants API`</summary>
+<summary><b>Streaming Assistants</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/phact/streaming-assistants?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Assistants API</span></summary>
 
 <p>The `streaming-assistants` library on GitHub enables streaming for OpenAI Assistants API using Astra Assistants, providing a workaround for the lack of streaming support in the official OpenAI Assistants API</p>
 
@@ -1638,7 +1638,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Streamlit Agent by Langchain</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/langchain-ai/streamlit-agent?style=social" alt="GitHub stars"> `Development Frameworks`</summary>
+<summary><b>Streamlit Agent by Langchain</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/langchain-ai/streamlit-agent?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Development Frameworks</span></summary>
 
 <p>This repository showcases various LangChain agents as Streamlit apps, including a basic streaming app, a memory-based conversation app, a demo replicating MRKL functionality, a minimal agent with search capability, chatbots with feedback options, document querying, database communication, and pandas DataFrame interaction, featuring LangChain and Streamlit integrations</p>
 
@@ -1646,7 +1646,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Streamship</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> `Development Frameworks`</summary>
+<summary><b>Streamship</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Development Frameworks</span></summary>
 
 <p>A development platform for AI Agents offering Python SDK, cloud deployment, serverless hosting, vector search, webhooks, and media generation, with a focus on simplicity, scalability, and integration with popular models and services</p>
 
@@ -1654,7 +1654,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Superagent</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/superagent-ai/superagent?style=social" alt="GitHub stars"> `Development Frameworks`</summary>
+<summary><b>Superagent</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/superagent-ai/superagent?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Development Frameworks</span></summary>
 
 <p>Superagent is an open-source AI assistant framework backed by Y Combinator, facilitating the integration of large language models (LLM) and generative AI into applications, supporting various use cases such as question answering, chatbots, and content generation</p>
 
@@ -1662,7 +1662,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>SuperAGI</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=social" alt="GitHub stars"> `Development Frameworks`</summary>
+<summary><b>SuperAGI</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Development Frameworks</span></summary>
 
 <p>SuperAGI is an open-source framework facilitating the development, management, and operation of useful Autonomous AI Agents with a variety of features and toolkits available, including a graphical user interface, action console, and multiple vector databases</p>
 
@@ -1670,7 +1670,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Swarms</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/swarms/?style=social" alt="GitHub stars"> `Development Frameworks`</summary>
+<summary><b>Swarms</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/swarms/?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Development Frameworks</span></summary>
 
 <p>Swarms orchestrates multi-agent collaboration for production-grade applications, solving issues like short memory and high costs, with customizable tools for specific needs, currently used by RBC, John Deere, and AI startups</p>
 
@@ -1678,7 +1678,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>SWE-agent</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/princeton-nlp/SWE-agent?style=social" alt="GitHub stars"> `Development Frameworks`</summary>
+<summary><b>SWE-agent</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/princeton-nlp/SWE-agent?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Development Frameworks</span></summary>
 
 <p>This open source project introduces SWE-agent, a software engineering agent for LMs like GPT-4, enhancing bug and issue resolution in GitHub repositories with state-of-the-art performance, facilitated by a well-designed Agent-Computer Interface (ACI) and support for OpenAI and Anthropic Claude models</p>
 
@@ -1686,7 +1686,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Sweep</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/sweepai/sweep?style=social" alt="GitHub stars"> `AI Agents`</summary>
+<summary><b>Sweep</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/sweepai/sweep?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">AI Agents</span></summary>
 
 <p>Sweep is an AI tool that automates the transformation of GitHub issues into pull requests, streamlining code improvements and bug fixes, supported by a suite of features like codebase understanding, test running, and a developer-friendly interface for installation and usage</p>
 
@@ -1694,7 +1694,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Synthflow AI</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `Phone Calling`</summary>
+<summary><b>Synthflow AI</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Phone Calling</span></summary>
 
 <p>Synthflow is a platform enabling the creation of human-like conversational AI voice agents with no-code customization, integrating directly with apps like HubSpot and Eleven Labs for voice services</p>
 
@@ -1702,7 +1702,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Tabby</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/TabbyML/tabby?style=social" alt="GitHub stars"> `AI Agents`</summary>
+<summary><b>Tabby</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/TabbyML/tabby?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">AI Agents</span></summary>
 
 <p>Tabby is a self-hosted, open-source AI coding assistant similar to GitHub Copilot, featuring a self-contained setup with no DBMS/cloud dependency, OpenAPI for easy integration, consumer-grade GPU support, and a full-feature admin UI in its latest release</p>
 
@@ -1710,7 +1710,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Talkscriber</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `Transcriber Providers`</summary>
+<summary><b>Talkscriber</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Transcriber Providers</span></summary>
 
 <p>Talkscriber is an enterprise-grade speech-to-text (STT) platform that offers industry-leading accuracy, security, and cost-effectiveness, enabling organizations to transform spoken language into digital text and unlock new possibilities in data analysis while hosting Whisper (OpenAI) model</p>
 
@@ -1718,7 +1718,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Tarsier by Reworkd</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/reworkd/tarsier?style=social" alt="GitHub stars"> `Development Frameworks`</summary>
+<summary><b>Tarsier by Reworkd</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/reworkd/tarsier?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Development Frameworks</span></summary>
 
 <p>Tarsier is an open-source utility library by Reworkd, aimed at enhancing web interaction for AI agents by visually tagging interactable elements, facilitating actions based on text or screenshots for GPT-4(V) and providing OCR utilities</p>
 
@@ -1726,7 +1726,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Taskade AI</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `AI Agents`</summary>
+<summary><b>Taskade AI</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">AI Agents</span></summary>
 
 <p>Taskade AI is an AI-powered productivity suite offering tools like task and project management, notes, docs, mind maps, and AI chat to enhance team productivity and automate over 700 tasks</p>
 
@@ -1734,7 +1734,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>TaskingAI</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/TaskingAI/TaskingAI?style=social" alt="GitHub stars"> `Development Frameworks`</summary>
+<summary><b>TaskingAI</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/TaskingAI/TaskingAI?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Development Frameworks</span></summary>
 
 <p>TaskingAI is a platform enhancing AI-native app development with Firebase-like simplicity, offering an all-in-one LLM platform with intuitive project management, BaaS-inspired workflow, and customizable integration for developing GPTs-like multi-tenant applications</p>
 
@@ -1742,7 +1742,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Tavily</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `AI Agents`</summary>
+<summary><b>Tavily</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">AI Agents</span></summary>
 
 <p>Tavily AI is your comprehensive research assistant, offering a platform for rapid insights with a Search API for LLMs, ensuring real-time, accurate, and bias-reduced data gathering and organization, suitable for both individual and enterprise needs</p>
 
@@ -1750,7 +1750,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>TeamX</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `AI Agents`</summary>
+<summary><b>TeamX</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">AI Agents</span></summary>
 
 <p>TeamX is an Agents-as-a-Service (AaaS) by Produvia which scales businesses with AI agent teams, offering custom solutions focused on automation, efficiency, and scalability</p>
 
@@ -1758,7 +1758,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>TogetherAI</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `Model Providers`</summary>
+<summary><b>TogetherAI</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Model Providers</span></summary>
 
 <p>TogetherAI is a platform that facilitates efficient and accurate summarization of text using advanced AI algorithms and user-friendly tools</p>
 
@@ -1766,7 +1766,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Tools by Taskade</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `Function Calling`</summary>
+<summary><b>Tools by Taskade</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Function Calling</span></summary>
 
 <p>Enable your agents with the right set of tools to get the job done: web search (allow the agent to browse the web), WolframAlpha (enhance the agent's computational skills), add-ons (enable additional tools and extensions)</p>
 
@@ -1774,7 +1774,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>tortoise-tts</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/neonbjb/tortoise-tts?style=social" alt="GitHub stars"> `Voice Providers (TTS Models)`</summary>
+<summary><b>tortoise-tts</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/neonbjb/tortoise-tts?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Voice Providers (TTS Models)</span></summary>
 
 <p>A multi-voice TTS system trained with an emphasis on quality</p>
 
@@ -1782,7 +1782,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Traces by Weights & Biases</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `Observability Frameworks`</summary>
+<summary><b>Traces by Weights & Biases</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Observability Frameworks</span></summary>
 
 <p>W&B Traces enhances AI agent observability by providing intuitive visualizations for debugging LLMs, allowing practitioners to review past results, debug errors, and gain insights into model behavior</p>
 
@@ -1790,7 +1790,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Twilio</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `Phone Number Providers`</summary>
+<summary><b>Twilio</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Phone Number Providers</span></summary>
 
 <p>Twilio is a cloud communications platform that enables developers to programmatically make phone calls, send and receive text messages, and integrate other communication features into their applications using its web APIs</p>
 
@@ -1798,7 +1798,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>TypeChat</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/microsoft/TypeChat?style=social" alt="GitHub stars"> `Function Calling`</summary>
+<summary><b>TypeChat</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/microsoft/TypeChat?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Function Calling</span></summary>
 
 <p>TypeChat is a library that facilitates building natural language interfaces by using schema engineering as an alternative to traditional function calling in LLMs, avoiding JSON schema-based constraints</p>
 
@@ -1806,7 +1806,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>uAgents by Fetch AI</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/fetchai/uAgents?style=social" alt="GitHub stars"> `Development Frameworks`</summary>
+<summary><b>uAgents by Fetch AI</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/fetchai/uAgents?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Development Frameworks</span></summary>
 
 <p>uAgents is a Python library by Fetch AI for creating autonomous AI agents with features like easy creation, blockchain network connectivity, and cryptographic security</p>
 
@@ -1814,7 +1814,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>VacAIgent</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/tonykipkemboi/trip_planner_agent?style=social" alt="GitHub stars"> `AI Agents`</summary>
+<summary><b>VacAIgent</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/tonykipkemboi/trip_planner_agent?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">AI Agents</span></summary>
 
 <p>VacAIgent is a Streamlit-integrated, CrewAI framework-based AI application (Trip Planner Agent) that automates and enhances trip planning through a user-friendly interface, demonstrating collaborative AI agent task execution and offering an interactive web app experience for tailoring travel plans</p>
 
@@ -1822,7 +1822,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Vapi</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `Phone Calling`</summary>
+<summary><b>Vapi</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Phone Calling</span></summary>
 
 <p>Vapi is a developer-friendly platform that enables the rapid creation, testing, and deployment of voicebots, revolutionizing voice AI integration with seamless support from voice providers</p>
 
@@ -1830,7 +1830,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Vertex AI by Google</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `No-Code Development Frameworks`</summary>
+<summary><b>Vertex AI by Google</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">No-Code Development Frameworks</span></summary>
 
 <p>Vertex AI, enhanced by Gemini models, offers comprehensive generative AI solutions for rapid application development, data processing, custom model training with minimal ML expertise, and production deployment, aimed at accelerating innovation and reducing costs in enterprise environments</p>
 
@@ -1838,7 +1838,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Verve</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `Build Club`</summary>
+<summary><b>Verve</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Build Club</span></summary>
 
 <p>Verve is an AI data copilot that aims to streamline analytics and significantly reduce manual work for growing organizations</p>
 
@@ -1846,7 +1846,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>vimGPT</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/ishan0102/vimGPT?style=social" alt="GitHub stars"> `AI Agents`</summary>
+<summary><b>vimGPT</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/ishan0102/vimGPT?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">AI Agents</span></summary>
 
 <p>vimGPT is a project that integrates GPT-4V's vision capabilities with the Vimium extension to enable web browsing and interaction through keyboard navigation and voice commands, offering innovative solutions and improvements for accessibility and efficiency</p>
 
@@ -1854,7 +1854,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Vonage</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `Phone Number Providers`</summary>
+<summary><b>Vonage</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Phone Number Providers</span></summary>
 
 <p>Vonage is a leading provider of phone services that offers a range of features and options for residential and business customers, including local, toll-free, and international numbers, as well as virtual receptionist and call management capabilities</p>
 
@@ -1862,7 +1862,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Waii</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> `AI Agents`</summary>
+<summary><b>Waii</b> <img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">AI Agents</span></summary>
 
 <p>A swift and straightforward AI agent for converting natural language to SQL queries, seamlessly integrable with your application</p>
 
@@ -1870,7 +1870,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>XAgent</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/OpenBMB/XAgent?style=social" alt="GitHub stars"> `AI Agents`</summary>
+<summary><b>XAgent</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/OpenBMB/XAgent?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">AI Agents</span></summary>
 
 <p>XAgent is an open-source, experimental Large Language Model-driven autonomous agent designed to autonomously solve a wide range of tasks with features like autonomy, safety, extensibility, a GUI for easy interaction, and the ability to cooperate with humans</p>
 
@@ -1878,7 +1878,7 @@ Here's an awesome list of AI agents:
 </details>
 
 <details>
-<summary><b>Zep</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/zep/?style=social" alt="GitHub stars"> `Long-Term Memory`</summary>
+<summary><b>Zep</b> <img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"> <img src="https://img.shields.io/github/stars/zep/?style=social" alt="GitHub stars"> <span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">Long-Term Memory</span></summary>
 
 <p>Zep is a long-term memory service for AI assistants that enhances recall, understanding, and data extraction from chat histories to power personalized AI experiences</p>
 
