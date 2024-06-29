@@ -56,7 +56,7 @@ def format_project(project: Project) -> str:
     
     badges = f"{open_source_badge} {github_stars_badge}".strip()
     sources = format_sources(project.sources)
-    categories = " ".join([f'<span style="background-color:#e1e1e1;border-radius:3px;padding:2px 4px;">{category}</span>' for category in project.categories])
+    categories = " ".join([f'<span class="label">{category}</span>' for category in project.categories])
     
     return f"""<details>
 <summary><b>{project.project}</b> {badges} {categories}</summary>
