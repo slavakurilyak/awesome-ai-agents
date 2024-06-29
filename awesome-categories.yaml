@@ -1,0 +1,104 @@
+- category: "AI Agents"
+  category_description: "AI agents"
+
+- category: "Build Club"
+  category_description: "AI agents built with the [Build Club](https://x.com/the_builderclub), pun intended"
+
+- category: "Long-Term Memory"
+  category_description: "AI agents with long-term memory functionality"
+
+- category: "Development Frameworks"
+  category_description: "AI agents with development frameworks"
+
+- category: "No-Code Development Frameworks"
+  category_description: "no-code agentic AI development frameworks"
+
+- category: "Evaluation Frameworks"
+  category_description: "eval frameworks for AI agents"
+
+- category: "Observability Frameworks"
+  category_description: "monitoring frameworks for AI agents"
+
+- category: "Mobile-Friendly Frameworks"
+  category_description: "running AI agents on mobile (on your own phone)"
+
+- category: "Phone Calling"
+  category_description: "AI agents with phone calling"
+
+- category: "Voice Providers"
+  category_description: "voice providers which host text-to-speech (TTS) models for you"
+
+- category: "TTS Models"
+  category_description: "text-to-speech (TTS) models that require you to host"
+
+- category: "Transcriber Providers"
+  category_description: "providers who host speech-to-text (STT) models for you"
+
+- category: "Local Inference"
+  category_description: "running AI agents locally (on your own computer)"
+
+- category: "Real-Time"
+  category_description: "AI agents that support real-time capabilities such as WebRTC"
+
+- category: "Reinforcement Learning Frameworks"
+  category_description: "AI agents applying reinforcement learning"
+
+- category: "Standardization"
+  category_description: "protocols or standardized ways of interacting with AI agents"
+
+- category: "Bitcoin"
+  category_description: "LLMs with function calling (aka tools) which unlocks Bitcoin payments"
+
+- category: "Hardware (Wearables)"
+  category_description: "AI agents running on hardware or is in a form of a wearable"
+
+- category: "Operating System (OS)"
+  category_description: "AI agents that can control your operating system (OS) including your computer keyboard and mouse"
+
+- category: "Safety Guardrails (Safeguarding)"
+  category_description: "guardrail frameworks that enforce safety for AI agents"
+
+- category: "Structured Outputs"
+  category_description: "enforcing structured outputs from AI agents"
+
+- category: "Model Merges"
+  category_description: "model merges which embed AI agents with new knowledge"
+
+- category: "Tool Calling (Function Calling)"
+  category_description: "function calling (aka tool calling) for your AI agents"
+
+- category: "UI Development"
+  category_description: "UIs (generative UIs, conversational UIs, and agentic UIs) optimized for AI agents"
+
+- category: "Model Providers"
+  category_description: "model providers that you can use to power your AI agents"
+
+- category: "Model Providers With Function Calling Support"
+  category_description: "LLMs which support function calling (or tool use)"
+
+- category: "Prompt Engineering"
+  category_description: "agent-friendly prompt engineering techniques"
+
+- category: "LLM-Friendly Languages"
+  category_description: "languages optimized for LLMs"
+
+- category: "Phone Number Providers"
+  category_description: "phone number providers that can be used by voice agents"
+
+- category: "Web Browsing Frameworks"
+  category_description: "web browsing frameworks that support headless mode"
+
+- category: "Flow Engineering (Platform Engineering)"
+  category_description: "flow engineering (or platform engineering) projects for AI agents"
+
+- category: "Terminal-Friendly"
+  category_description: "terminal-friendly AI agent development frameworks"
+
+- category: "Assistants API"
+  category_description: "OpenAI-compatible Assistants APIs that you can use to quickly develop AI agents without implementating memory and knowledge bases yourself"
+
+- category: "Personal Assistants"
+  category_description: "AI agents that can act as personal assistants"
+
+- category: "Custom Development"
+  category_description: "AI agencies that specialize in custom AI agent development"
