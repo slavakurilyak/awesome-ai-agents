@@ -31,7 +31,7 @@ def load_yaml(file_path: str) -> YamlData:
         raise
 
 def format_sources(sources: List[Source]) -> str:
-    return ' '.join(f"[{source.source}]({source.source_url})" for source in sources)
+    return ' | '.join(f"[{source.source}]({source.source_url})" for source in sources)
 
 def format_project(project: Project) -> str:
     return f"**{project.project}**: {project.project_description} | {format_sources(project.sources)}\n"
