@@ -1,104 +1,177 @@
+# category_emojis = {
+#     "AI Agents": "🤖",
+#     "Build Club": "🛠️",
+#     "Long-Term Memory": "🧠",
+#     "Development Frameworks": "⚙️",
+#     "No-Code Development Frameworks": "🚫💻",
+#     "Evaluation Frameworks": "📊",
+#     "Observability Frameworks": "👁️",
+#     "Mobile-Friendly Frameworks": "📱",
+#     "Phone Calling": "📞",
+#     "Voice Providers": "🗣️",
+#     "TTS Models": "🔊",
+#     "Transcriber Providers": "🎙️",
+#     "Local Inference": "💻",
+#     "Real-Time": "⚡",
+#     "Reinforcement Learning Frameworks": "🔄",
+#     "Standardization": "📏",
+#     "Bitcoin": "₿",
+#     "Hardware (Wearables)": "⌚",
+#     "Operating System (OS)": "💻",
+#     "Safety Guardrails (Safeguarding)": "🛡️",
+#     "Structured Outputs": "🏗️",
+#     "Model Merges": "🔀",
+#     "Tool Calling (Function Calling)": "🔧",
+#     "UI Development": "🖥️",
+#     "Model Providers": "🧠",
+#     "Model Providers With Function Calling Support": "🧠🔧",
+#     "Prompt Engineering": "✍️",
+#     "LLM-Friendly Languages": "🗣️",
+#     "Phone Number Providers": "☎️",
+#     "Web Browsing Frameworks": "🌐",
+#     "Flow Engineering (Platform Engineering)": "🔄",
+#     "Terminal-Friendly": "💻",
+#     "Assistants API": "🤖",
+#     "Personal Assistants": "👤",
+#     "Custom Development": "🛠️"
+# }
+
 - category: "AI Agents"
   category_description: "AI agents"
+  emoji: "🤖"
 
 - category: "Build Club"
   category_description: "AI agents built with the [Build Club](https://x.com/the_builderclub), pun intended"
+  emoji: "🛠️"
 
 - category: "Long-Term Memory"
   category_description: "AI agents with long-term memory functionality"
+  emoji: "🧠"
 
 - category: "Development Frameworks"
   category_description: "AI agents with development frameworks"
+  emoji: "⚙️"
 
 - category: "No-Code Development Frameworks"
   category_description: "no-code agentic AI development frameworks"
+  emoji: "🚫💻"
 
 - category: "Evaluation Frameworks"
   category_description: "eval frameworks for AI agents"
+  emoji: "📊"
 
 - category: "Observability Frameworks"
   category_description: "monitoring frameworks for AI agents"
+  emoji: "👁️"
 
 - category: "Mobile-Friendly Frameworks"
   category_description: "running AI agents on mobile (on your own phone)"
+  emoji: "📱"
 
 - category: "Phone Calling"
   category_description: "AI agents with phone calling"
+  emoji: "📞"
 
 - category: "Voice Providers"
   category_description: "voice providers which host text-to-speech (TTS) models for you"
+  emoji: "🗣️"
 
 - category: "TTS Models"
   category_description: "text-to-speech (TTS) models that require you to host"
+  emoji: "🔊"
 
 - category: "Transcriber Providers"
   category_description: "providers who host speech-to-text (STT) models for you"
+  emoji: "🎙️"
 
 - category: "Local Inference"
   category_description: "running AI agents locally (on your own computer)"
+  emoji: "💻"
 
 - category: "Real-Time"
   category_description: "AI agents that support real-time capabilities such as WebRTC"
+  emoji: "⚡"
 
 - category: "Reinforcement Learning Frameworks"
   category_description: "AI agents applying reinforcement learning"
+  emoji: "🔄"
 
 - category: "Standardization"
   category_description: "protocols or standardized ways of interacting with AI agents"
+  emoji: "📏"
 
 - category: "Bitcoin"
   category_description: "LLMs with function calling (aka tools) which unlocks Bitcoin payments"
+  emoji: "₿"
 
 - category: "Hardware (Wearables)"
   category_description: "AI agents running on hardware or is in a form of a wearable"
+  emoji: "⌚"
 
 - category: "Operating System (OS)"
   category_description: "AI agents that can control your operating system (OS) including your computer keyboard and mouse"
+  emoji: "💻"
 
 - category: "Safety Guardrails (Safeguarding)"
   category_description: "guardrail frameworks that enforce safety for AI agents"
+  emoji: "🛡️"
 
 - category: "Structured Outputs"
   category_description: "enforcing structured outputs from AI agents"
+  emoji: "🏗️"
 
 - category: "Model Merges"
   category_description: "model merges which embed AI agents with new knowledge"
+  emoji: "🔀"
 
 - category: "Tool Calling (Function Calling)"
   category_description: "function calling (aka tool calling) for your AI agents"
+  emoji: "🔧"
 
 - category: "UI Development"
   category_description: "UIs (generative UIs, conversational UIs, and agentic UIs) optimized for AI agents"
+  emoji: "🖥️"
 
 - category: "Model Providers"
   category_description: "model providers that you can use to power your AI agents"
+  emoji: "🧠"
 
 - category: "Model Providers With Function Calling Support"
   category_description: "LLMs which support function calling (or tool use)"
+  emoji: "🧠🔧"
 
 - category: "Prompt Engineering"
   category_description: "agent-friendly prompt engineering techniques"
+  emoji: "✍️"
 
 - category: "LLM-Friendly Languages"
   category_description: "languages optimized for LLMs"
+  emoji: "🗣️"
 
 - category: "Phone Number Providers"
   category_description: "phone number providers that can be used by voice agents"
+  emoji: "☎️"
 
 - category: "Web Browsing Frameworks"
   category_description: "web browsing frameworks that support headless mode"
+  emoji: "🌐"
 
 - category: "Flow Engineering (Platform Engineering)"
   category_description: "flow engineering (or platform engineering) projects for AI agents"
+  emoji: "🔄"
 
 - category: "Terminal-Friendly"
   category_description: "terminal-friendly AI agent development frameworks"
+  emoji: "💻"
 
 - category: "Assistants API"
   category_description: "OpenAI-compatible Assistants APIs that you can use to quickly develop AI agents without implementating memory and knowledge bases yourself"
+  emoji: "🤖"
 
 - category: "Personal Assistants"
   category_description: "AI agents that can act as personal assistants"
+  emoji: "👤"
 
 - category: "Custom Development"
   category_description: "AI agencies that specialize in custom AI agent development"
+  emoji: "🛠️"

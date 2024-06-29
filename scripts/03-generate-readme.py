@@ -5,6 +5,7 @@ from pydantic import BaseModel, Field, ValidationError, conlist
 import hashlib
 import logging
 import re
+import yaml
 
 logging.basicConfig(level=logging.INFO)
 
@@ -70,45 +71,26 @@ def get_github_stars_badge(source: Source) -> str:
         logging.error(f"Error generating GitHub stars badge: {str(e)}")
         return ""
 
-category_emojis = {
-    "AI Agents": "🤖",
-    "Build Club": "🛠️",
-    "Long-Term Memory": "🧠",
-    "Development Frameworks": "⚙️",
-    "No-Code Development Frameworks": "🚫💻",
-    "Evaluation Frameworks": "📊",
-    "Observability Frameworks": "👁️",
-    "Mobile-Friendly Frameworks": "📱",
-    "Phone Calling": "📞",
-    "Voice Providers": "🗣️",
-    "TTS Models": "🔊",
-    "Transcriber Providers": "🎙️",
-    "Local Inference": "💻",
-    "Real-Time": "⚡",
-    "Reinforcement Learning Frameworks": "🔄",
-    "Standardization": "📏",
-    "Bitcoin": "₿",
-    "Hardware (Wearables)": "⌚",
-    "Operating System (OS)": "💻",
-    "Safety Guardrails (Safeguarding)": "🛡️",
-    "Structured Outputs": "🏗️",
-    "Model Merges": "🔀",
-    "Tool Calling (Function Calling)": "🔧",
-    "UI Development": "🖥️",
-    "Model Providers": "🧠",
-    "Model Providers With Function Calling Support": "🧠🔧",
-    "Prompt Engineering": "✍️",
-    "LLM-Friendly Languages": "🗣️",
-    "Phone Number Providers": "☎️",
-    "Web Browsing Frameworks": "🌐",
-    "Flow Engineering (Platform Engineering)": "🔄",
-    "Terminal-Friendly": "💻",
-    "Assistants API": "🤖",
-    "Personal Assistants": "👤",
-    "Custom Development": "🛠️"
-}
+def load_category_emojis(file_path: str) -> Dict[str, str]:
+    try:
+        with open(file_path, 'r') as file:
+            data = yaml.safe_load(file)
+        
+        if isinstance(data, list):
+            return {item['category']: item['emoji'] for item in data if 'category' in item and 'emoji' in item}
+        elif isinstance(data, dict) and 'category_emojis' in data:
+            return data['category_emojis']
+        else:
+            logging.warning(f"Unexpected YAML structure in {file_path}")
+            return {}
+    except FileNotFoundError:
+        logging.warning(f"Category emojis file not found: {file_path}")
+        return {}
+    except yaml.YAMLError as e:
+        logging.error(f"Error parsing YAML file: {e}")
+        return {}
 
-def generate_sections(data: JsonData) -> str:
+def generate_sections(data: JsonData, category_emojis: Dict[str, str]) -> str:
     projects_dict = defaultdict(lambda: {"project": None, "categories": set()})
     
     for project in data.agents:
@@ -118,9 +100,9 @@ def generate_sections(data: JsonData) -> str:
         projects_dict[key]["categories"].update(project.categories)
     
     sorted_projects = sorted(projects_dict.values(), key=lambda x: x["project"].project.lower())
-    return '\n'.join(format_project(p["project"], list(p["categories"])) for p in sorted_projects)
+    return '\n'.join(format_project(p["project"], list(p["categories"]), category_emojis) for p in sorted_projects)
 
-def format_project(project: Project, all_categories: List[str]) -> str:
+def format_project(project: Project, all_categories: List[str], category_emojis: Dict[str, str]) -> str:
     badge_url = next((source.source_url for source in project.sources if source.source == "github"), next((source.source_url for source in project.sources), ""))
     open_source_badge = f'<a href="{badge_url}"><img src="https://img.shields.io/badge/Open%20Source-{"Yes" if project.project_is_open_source else "No"}-{"green" if project.project_is_open_source else "red"}" alt="Open Source"></a>'
     
@@ -133,7 +115,7 @@ def format_project(project: Project, all_categories: List[str]) -> str:
     
     return f"""### {project.project}
 <div>{badges}</div>
-<div>{categories}</div>
+<p>{categories}</p>
 
 <p>{project.project_description}</p>
 
@@ -145,10 +127,11 @@ def load_template(template_file: str) -> str:
     with open(template_file, 'r') as file:
         return file.read()
 
-def generate_readme_content(json_file: str, template_file: str) -> str:
+def generate_readme_content(json_file: str, template_file: str, category_emojis_file: str) -> str:
     data = load_json(json_file)
+    category_emojis = load_category_emojis(category_emojis_file)
     template = load_template(template_file)
-    sections = generate_sections(data)
+    sections = generate_sections(data, category_emojis)
     return template.replace("${SECTIONS}", sections)
 
 def write_output(output_file: str, content: str) -> None:
@@ -159,18 +142,25 @@ def main():
     json_file = "awesome-agents.json"
     template_file = "README.template.md"
     output_file = "README.md"
+    category_emojis_file = "awesome-categories.yaml"
 
     try:
+        category_emojis = load_category_emojis(category_emojis_file)
+        if category_emojis:
+            logging.info(f"Loaded {len(category_emojis)} category emojis from {category_emojis_file}")
+        else:
+            logging.warning("No category emojis loaded. Proceeding without emojis.")
+
         data = load_json(json_file)
         logging.info(f"Loaded {len(data.agents)} projects from {json_file}")
         
         template = load_template(template_file)
         logging.info(f"Loaded template from {template_file}")
         
-        sections = generate_sections(data)
+        sections = generate_sections(data, category_emojis)
         logging.info(f"Generated {len(sections.split('<div>'))} project sections")
         
-        readme_content = template.replace("${SECTIONS}", sections)
+        readme_content = generate_readme_content(json_file, template_file, category_emojis_file)
         write_output(output_file, readme_content)
         logging.info(f"Successfully generated {output_file}")
     except Exception as e:
@@ -178,3 +168,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
