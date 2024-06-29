@@ -85,8 +85,7 @@ def format_project(project: Project) -> str:
     
     full_sources = format_sources(project.sources)
     
-    return f"""<div>
-<b>{project.project}</b>
+    return f"""### {project.project}
 <div>{badges}</div>
 <div>{categories}</div>
 
