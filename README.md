@@ -9,20 +9,21 @@
 <a href="https://twitter.com/slavakurilyak">🐦 Twitter</a> | <a href="https://linkedin.com/in/slavakurilyak">💼 LinkedIn</a> | <a href="https://github.com/slavakurilyak">🐙 Github</a>
 </p>
 
-This project tracks the latest agentic AI projects and provides a list of 100+ resources, curated by Slava Kurilyak
+This project tracks the latest agentic AI projects and provides a list of 200+ resources, curated by Slava Kurilyak
 
-## Wait But Why
+**Wait But Why**
 
-AI agents outperform LLMs
+AI agents outperform traditional LLMs
 
-According to [Andrew Ng (@andrewyng)](https://github.com/andrewyng), "GPT-3.5 with an agentic workflow actually outperforms GPT-4"
+According to [Andrew Ng (@andrewyng)](https://github.com/andrewyng):
 
-## AI Agents
+> "GPT-3.5 with an agentic workflow actually outperforms GPT-4"
+
+## Awesome AI Agents
 
 Here's an awesome list of AI agents:
 
-<div>
-<b>01</b>
+### 01
 <div><a href="https://github.com/OpenInterpreter/01"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/OpenInterpreter/01?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #c5b3b5; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Hardware (Wearables)</span></div>
 
@@ -31,8 +32,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://changes.openinterpreter.com/log/introducing-the-01-developer-preview">announcement</a> | <a href="https://twitter.com/OpenInterpreter/status/1770821439458840846">demo</a> | <a href="https://github.com/OpenInterpreter/01">github</a> | <a href="http://openinterpreter.com/01">website</a> | <a href="https://01.openinterpreter.com/">docs</a></p>
 </div>
 
-<div>
-<b>Adala</b>
+### Adala
 <div><a href="https://github.com/HumanSignal/Adala"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/HumanSignal/Adala?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #e8538a; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Development Frameworks</span></div>
 
@@ -41,8 +41,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/HumanSignal/Adala">github</a></p>
 </div>
 
-<div>
-<b>Agency Swarm by VRSEN</b>
+### Agency Swarm by VRSEN
 <div><a href="https://github.com/VRSEN/agency-swarm"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/VRSEN/agency-swarm?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #e8538a; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Development Frameworks</span></div>
 
@@ -51,8 +50,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/VRSEN/agency-swarm">github</a></p>
 </div>
 
-<div>
-<b>Agent by Stately AI</b>
+### Agent by Stately AI
 <div><a href="https://github.com/statelyai/agent/"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/statelyai/agent?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #27f083; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">AI Agents</span></div>
 
@@ -61,8 +59,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/statelyai/agent/">github</a> | <a href="https://stately.ai/agent">website</a> | <a href="https://twitter.com/statelyai">twitter</a> | <a href="https://discord.gg/xstate">discord</a> | <a href="https://youtube.com/c/statelyai">youtube</a></p>
 </div>
 
-<div>
-<b>Agent Protocol</b>
+### Agent Protocol
 <div><a href="https://github.com/AI-Engineer-Foundation/agent-protocol"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/AI-Engineer-Foundation/agent-protocol?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #91693e; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Standardization</span></div>
 
@@ -71,8 +68,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://agentprotocol.ai/">website</a> | <a href="https://www.aie.foundation/">website</a> | <a href="https://github.com/AI-Engineer-Foundation/agent-protocol">github</a> | <a href="https://github.com/AI-Engineer-Foundation">github profile</a></p>
 </div>
 
-<div>
-<b>Agent Tools</b>
+### Agent Tools
 <div><a href="https://github.com/aibtcdev/agent-tools-ts"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/aibtcdev/agent-tools-ts?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #d023ec; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Bitcoin</span></div>
 
@@ -81,8 +77,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/aibtcdev/agent-tools-ts">github</a> | <a href="https://github.com/aibtcdev">github profile</a> | <a href="https://aibtc.dev/">website</a> | <a href="https://discord.gg/5DJaBrf">discord</a></p>
 </div>
 
-<div>
-<b>AgentBench</b>
+### AgentBench
 <div><a href="https://github.com/THUDM/AgentBench"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/THUDM/AgentBench?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #311bec; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Evaluation Frameworks</span></div>
 
@@ -91,8 +86,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/THUDM/AgentBench">github</a></p>
 </div>
 
-<div>
-<b>AgentGPT by Reworkd</b>
+### AgentGPT by Reworkd
 <div><a href="https://github.com/reworkd/AgentGPT"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/reworkd/AgentGPT?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #e8538a; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Development Frameworks</span></div>
 
@@ -101,8 +95,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/reworkd/AgentGPT">github</a> | <a href="https://github.com/reworkd">github profile</a></p>
 </div>
 
-<div>
-<b>Agentive</b>
+### Agentive
 <div><a href="https://agentivehub.com/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #e8538a; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Development Frameworks</span></div>
 
@@ -111,8 +104,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://agentivehub.com/">website</a></p>
 </div>
 
-<div>
-<b>AgentLabs</b>
+### AgentLabs
 <div><a href="https://github.com/agentlabs-inc/agentlabs"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/agentlabs-inc/agentlabs?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #e8538a; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Development Frameworks</span></div>
 
@@ -121,8 +113,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/agentlabs-inc/agentlabs">github</a> | <a href="https://www.agentlabs.dev/">website</a> | <a href="https://docs.agentlabs.dev/">docs</a></p>
 </div>
 
-<div>
-<b>AgentOps</b>
+### AgentOps
 <div><a href="https://github.com/AgentOps-AI/agentops"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/AgentOps-AI/agentops?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #311bec; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Evaluation Frameworks</span></div>
 
@@ -131,8 +122,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/AgentOps-AI/agentops">github</a> | <a href="https://www.agentops.ai/">website</a> | <a href="https://docs.agentops.ai">docs</a> | <a href="https://discord.gg/mKW3ZhN9p2">discord</a> | <a href="https://x.com/AlexReibman/status/1772771418780176674">demo</a></p>
 </div>
 
-<div>
-<b>AgentOS</b>
+### AgentOS
 <div><a href="https://github.com/smartcomputer-ai/agent-os"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/smartcomputer-ai/agent-os?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #e8538a; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Development Frameworks</span></div>
 
@@ -141,8 +131,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/smartcomputer-ai/agent-os">github</a></p>
 </div>
 
-<div>
-<b>Agents by AI Waves</b>
+### Agents by AI Waves
 <div><a href="https://github.com/aiwaves-cn/agents"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/aiwaves-cn/agents?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #e8538a; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Development Frameworks</span></div>
 
@@ -151,8 +140,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/aiwaves-cn/agents">github</a> | <a href="https://github.com/aiwaves-cn">github profile</a></p>
 </div>
 
-<div>
-<b>Agents by Hugging Face</b>
+### Agents by Hugging Face
 <div><a href="https://huggingface.co/docs/transformers/main_classes/agent"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #e8538a; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Development Frameworks</span></div>
 
@@ -161,8 +149,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://huggingface.co/docs/transformers/main_classes/agent">website</a></p>
 </div>
 
-<div>
-<b>Agentsy</b>
+### Agentsy
 <div><a href="https://x.com/AnnieLiao_2000/status/1792175318595453046"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #a62299; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Build Club</span></div>
 
@@ -171,8 +158,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://x.com/AnnieLiao_2000/status/1792175318595453046">demo</a></p>
 </div>
 
-<div>
-<b>AgentVerse</b>
+### AgentVerse
 <div><a href="https://github.com/OpenBMB/AgentVerse"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/OpenBMB/AgentVerse?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #e8538a; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Development Frameworks</span></div>
 
@@ -181,8 +167,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/OpenBMB/AgentVerse">github</a> | <a href="https://github.com/OpenBMB">github profile</a></p>
 </div>
 
-<div>
-<b>AgentX</b>
+### AgentX
 <div><a href="https://chatagentx.com/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #27f083; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">AI Agents</span></div>
 
@@ -191,8 +176,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://chatagentx.com/">website</a> | <a href="https://twitter.com/agentxai">twitter</a> | <a href="https://buttondown.email/agentx">newsletter</a></p>
 </div>
 
-<div>
-<b>AGiXT</b>
+### AGiXT
 <div><a href="https://github.com/Josh-XT/AGiXT"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/Josh-XT/AGiXT?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #e8538a; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Development Frameworks</span></div>
 
@@ -201,8 +185,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/Josh-XT/AGiXT">github</a> | <a href="https://agixt.com/">website</a></p>
 </div>
 
-<div>
-<b>AI Agent Assist by DialPad</b>
+### AI Agent Assist by DialPad
 <div><a href="https://www.dialpad.com/ai-labs/ai-agent-assist/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #27f083; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">AI Agents</span></div>
 
@@ -211,8 +194,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://www.dialpad.com/ai-labs/ai-agent-assist/">landing page</a></p>
 </div>
 
-<div>
-<b>AI Agent Crew</b>
+### AI Agent Crew
 <div><a href="https://github.com/aibtcdev/ai-agent-crew"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/aibtcdev/ai-agent-crew?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #d023ec; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Bitcoin</span></div>
 
@@ -221,8 +203,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/aibtcdev/ai-agent-crew">github</a> | <a href="https://github.com/aibtcdev">github profile</a> | <a href="https://aibtc.dev/">website</a> | <a href="https://discord.gg/5DJaBrf">discord</a></p>
 </div>
 
-<div>
-<b>AI Assistant by Deco</b>
+### AI Assistant by Deco
 <div><a href="https://deco.cx/ai-assistant"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #27f083; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">AI Agents</span></div>
 
@@ -231,8 +212,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://deco.cx/ai-assistant">website</a> | <a href="https://github.com/deco-cx">github profile</a></p>
 </div>
 
-<div>
-<b>AI Researcher</b>
+### AI Researcher
 <div><a href="https://github.com/mshumer/ai-researcher"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/mshumer/ai-researcher?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #27f083; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">AI Agents</span></div>
 
@@ -241,8 +221,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/mshumer/ai-researcher">github</a> | <a href="https://twitter.com/i/web/status/1776341679617745126">announcement</a> | <a href="https://app.hyperwriteai.com/personalassistant/tool/b40d5925-4780-4eed-9f69-a03ae931de37">website</a></p>
 </div>
 
-<div>
-<b>AI SDK by Vercel</b>
+### AI SDK by Vercel
 <div><a href="https://github.com/vercel/ai"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/vercel/ai?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #8714c8; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">UI Development</span></div>
 
@@ -251,8 +230,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://vercel.com/blog/introducing-the-vercel-ai-sdk">announcement</a> | <a href="https://sdk.vercel.ai/docs">website</a> | <a href="https://github.com/vercel/ai">github</a> | <a href="https://github.com/vercel/ai/tree/main/examples">github examples</a></p>
 </div>
 
-<div>
-<b>AI Studio by Azure</b>
+### AI Studio by Azure
 <div><a href="https://azure.microsoft.com/en-us/products/ai-studio"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #ab2e2a; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">No-Code Development Frameworks</span></div>
 
@@ -261,8 +239,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://azure.microsoft.com/en-us/products/ai-studio">website</a></p>
 </div>
 
-<div>
-<b>Aider</b>
+### Aider
 <div><a href="https://github.com/paul-gauthier/aider"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/paul-gauthier/aider?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #27f083; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">AI Agents</span></div>
 
@@ -271,8 +248,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/paul-gauthier/aider">github</a></p>
 </div>
 
-<div>
-<b>aifs</b>
+### aifs
 <div><a href="https://github.com/OpenInterpreter/aifs"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/OpenInterpreter/aifs?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #1a2b00; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Function Calling</span></div>
 
@@ -281,8 +257,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/OpenInterpreter/aifs">github</a></p>
 </div>
 
-<div>
-<b>AIOS</b>
+### AIOS
 <div><a href="https://github.com/agiresearch/AIOS"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/agiresearch/AIOS?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #e8538a; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Development Frameworks</span></div>
 
@@ -291,8 +266,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/agiresearch/AIOS">github</a> | <a href="https://github.com/agiresearch">github profile</a></p>
 </div>
 
-<div>
-<b>Anthropic</b>
+### Anthropic
 <div><a href="https://www.anthropic.com/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #8f89f9; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Model Providers</span></div>
 
@@ -301,8 +275,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://www.anthropic.com/">website</a> | <a href="https://docs.anthropic.com/claude/">docs</a></p>
 </div>
 
-<div>
-<b>AnyBiz</b>
+### AnyBiz
 <div><a href="https://anybiz.io"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #27f083; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">AI Agents</span></div>
 
@@ -311,8 +284,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://anybiz.io">website</a></p>
 </div>
 
-<div>
-<b>Anyscale</b>
+### Anyscale
 <div><a href="https://www.anyscale.com/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #8f89f9; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Model Providers</span></div>
 
@@ -321,8 +293,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://www.anyscale.com/">website</a> | <a href="https://docs.anyscale.com/">docs</a></p>
 </div>
 
-<div>
-<b>Aomni</b>
+### Aomni
 <div><a href="https://www.aomni.com/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #27f083; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">AI Agents</span></div>
 
@@ -331,8 +302,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://www.aomni.com/">website</a> | <a href="https://twitter.com/aomniapp">twitter</a> | <a href="https://x.com/AtomSilverman/status/1781402688078622874">demo</a></p>
 </div>
 
-<div>
-<b>AppAgent</b>
+### AppAgent
 <div><a href="https://github.com/mnotgod96/AppAgent"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/mnotgod96/AppAgent?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #f170aa; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Mobile-Friendly Frameworks</span></div>
 
@@ -341,8 +311,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/mnotgod96/AppAgent">github</a> | <a href="https://github.com/mnotgod96">github profile</a></p>
 </div>
 
-<div>
-<b>Assistants API by OpenAI</b>
+### Assistants API by OpenAI
 <div><a href="https://platform.openai.com/docs/assistants/overview"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #550e04; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Assistants API</span></div>
 
@@ -351,8 +320,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://platform.openai.com/docs/assistants/overview">docs</a></p>
 </div>
 
-<div>
-<b>Astra Assistants API</b>
+### Astra Assistants API
 <div><a href="https://github.com/datastax/astra-assistants-api"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/datastax/astra-assistants-api?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #550e04; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Assistants API</span></div>
 
@@ -361,8 +329,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/datastax/astra-assistants-api">github</a></p>
 </div>
 
-<div>
-<b>AutoAct</b>
+### AutoAct
 <div><a href="https://github.com/zjunlp/AutoAct"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/zjunlp/AutoAct?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #e8538a; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Development Frameworks</span></div>
 
@@ -371,8 +338,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/zjunlp/AutoAct">github</a> | <a href="https://www.zjukg.org/project/AutoAct/">website</a></p>
 </div>
 
-<div>
-<b>AutoDev</b>
+### AutoDev
 <div><a href="https://github.com/unit-mesh/auto-dev"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/unit-mesh/auto-dev?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #27f083; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">AI Agents</span></div>
 
@@ -381,8 +347,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/unit-mesh/auto-dev">github</a> | <a href="https://ide.unitmesh.cc">docs</a></p>
 </div>
 
-<div>
-<b>AutoGen by Microsoft</b>
+### AutoGen by Microsoft
 <div><a href="https://github.com/microsoft/autogen"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/microsoft/autogen?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #e8538a; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Development Frameworks</span></div>
 
@@ -391,8 +356,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/microsoft/autogen">github</a> | <a href="https://www.youtube.com/watch?v=DXhqhpHWRuM">video</a></p>
 </div>
 
-<div>
-<b>AutoGen Studio by Microsoft</b>
+### AutoGen Studio by Microsoft
 <div><a href="https://github.com/microsoft/autogen"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/microsoft/autogen?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #e8538a; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Development Frameworks</span></div>
 
@@ -401,8 +365,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/microsoft/autogen">github</a> | <a href="https://autogen-studio.com">website</a> | <a href="https://www.microsoft.com/en-us/research/project/autogen/">landing page</a> | <a href="https://www.microsoft.com/en-us/research/publication/autogen-enabling-next-gen-llm-applications-via-multi-agent-conversation-framework/">research paper</a></p>
 </div>
 
-<div>
-<b>AutoGPT</b>
+### AutoGPT
 <div><a href="https://github.com/Significant-Gravitas/AutoGPT"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #27f083; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">AI Agents</span></div>
 
@@ -411,8 +374,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/Significant-Gravitas/AutoGPT">github</a> | <a href="https://github.com/Significant-Gravitas">github profile</a></p>
 </div>
 
-<div>
-<b>Axflow</b>
+### Axflow
 <div><a href="https://github.com/axflow/axflow"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/axflow/axflow?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #e8538a; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Development Frameworks</span></div>
 
@@ -421,8 +383,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://axflow.dev/">website</a> | <a href="https://github.com/axflow/axflow">github</a></p>
 </div>
 
-<div>
-<b>Azure Speech Service</b>
+### Azure Speech Service
 <div><a href="https://learn.microsoft.com/en-us/azure/ai-services/speech-service"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #fa4da0; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Voice Providers</span></div>
 
@@ -431,8 +392,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://learn.microsoft.com/en-us/azure/ai-services/speech-service">docs</a></p>
 </div>
 
-<div>
-<b>BabyAGI</b>
+### BabyAGI
 <div><a href="https://github.com/yoheinakajima/babyagi"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/yoheinakajima/babyagi?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #27f083; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">AI Agents</span></div>
 
@@ -441,8 +401,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/yoheinakajima/babyagi">github</a> | <a href="https://github.com/yoheinakajima">github profile</a></p>
 </div>
 
-<div>
-<b>Bananalyzer by Reworkd</b>
+### Bananalyzer by Reworkd
 <div><a href="https://github.com/reworkd/bananalyzer"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/reworkd/bananalyzer?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #311bec; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Evaluation Frameworks</span></div>
 
@@ -451,8 +410,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://reworkd.ai">website</a> | <a href="https://github.com/reworkd/bananalyzer">github</a></p>
 </div>
 
-<div>
-<b>Bazed</b>
+### Bazed
 <div><a href="https://github.com/bazed-ai/bazed-af"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/bazed-ai/bazed-af?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #e8538a; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Development Frameworks</span></div>
 
@@ -461,8 +419,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/bazed-ai/bazed-af">github</a> | <a href="https://bazed.ai/">website</a> | <a href="https://discord.gg/VmEEUrc7dg">discord</a></p>
 </div>
 
-<div>
-<b>BDR Agent by Relevance</b>
+### BDR Agent by Relevance
 <div><a href="https://relevanceai.com/agents/bdr-agent"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #e8538a; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Development Frameworks</span></div>
 
@@ -471,8 +428,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://relevanceai.com/agents/bdr-agent">website</a> | <a href="https://twitter.com/RelevanceAI">twitter</a> | <a href="https://github.com/RelevanceAI">github profile</a> | <a href="https://www.linkedin.com/company/relevanceai/">linkedin</a></p>
 </div>
 
-<div>
-<b>Beam</b>
+### Beam
 <div><a href="https://beam.ai/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #e8538a; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Development Frameworks</span></div>
 
@@ -481,8 +437,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://beam.ai/">website</a> | <a href="https://twitter.com/join__beam">twitter</a> | <a href="https://www.linkedin.com/company/beam-ai">linkedin</a> | <a href="https://www.youtube.com/@beam-ai">youtube</a></p>
 </div>
 
-<div>
-<b>Bland</b>
+### Bland
 <div><a href="https://www.bland.ai/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #8f5605; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Phone Calling</span></div>
 
@@ -491,8 +446,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://www.bland.ai/">website</a> | <a href="https://twitter.com/usebland">twitter</a></p>
 </div>
 
-<div>
-<b>Bloop</b>
+### Bloop
 <div><a href="https://github.com/BloopAI/bloop"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/BloopAI/bloop?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #27f083; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">AI Agents</span></div>
 
@@ -501,8 +455,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/BloopAI/bloop">github</a></p>
 </div>
 
-<div>
-<b>BrainSoup</b>
+### BrainSoup
 <div><a href="https://www.nurgo-software.com/products/brainsoup"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #27f083; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">AI Agents</span></div>
 
@@ -511,8 +464,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://www.nurgo-software.com/products/brainsoup">website</a> | <a href="https://help.nurgo-software.com/collection/148-brainsoup">docs</a> | <a href="https://twitter.com/Nurgo">twitter</a> | <a href="https://discord.gg/xt7PyCnH9S">discord</a></p>
 </div>
 
-<div>
-<b>BrainSoup Custom Tools</b>
+### BrainSoup Custom Tools
 <div><a href="https://www.nurgo-software.com/products/brainsoup"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #1a2b00; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Function Calling</span></div>
 
@@ -521,8 +473,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://www.nurgo-software.com/products/brainsoup">website</a> | <a href="https://help.nurgo-software.com/collection/148-brainsoup">docs</a> | <a href="https://twitter.com/Nurgo">twitter</a> | <a href="https://discord.gg/xt7PyCnH9S">discord</a></p>
 </div>
 
-<div>
-<b>Browserbase</b>
+### Browserbase
 <div><a href="https://twitter.com/browserbasehq"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #e2765b; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Web Browsing Frameworks</span></div>
 
@@ -531,8 +482,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://twitter.com/browserbasehq">twitter</a> | <a href="https://www.browserbase.com/">website</a></p>
 </div>
 
-<div>
-<b>BrowserGPT</b>
+### BrowserGPT
 <div><a href="https://github.com/mayt/BrowserGPT"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/mayt/BrowserGPT?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #27f083; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">AI Agents</span></div>
 
@@ -541,8 +491,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/mayt/BrowserGPT">github</a> | <a href="https://github.com/mayt">github profile</a></p>
 </div>
 
-<div>
-<b>BrowsingAgent by Agency Swarm</b>
+### BrowsingAgent by Agency Swarm
 <div><a href="https://github.com/VRSEN/agency-swarm/tree/main/agency_swarm/agents/BrowsingAgent"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/VRSEN/agency-swarm?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #27f083; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">AI Agents</span></div>
 
@@ -551,8 +500,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/VRSEN/agency-swarm/tree/main/agency_swarm/agents/BrowsingAgent">github</a> | <a href="https://www.youtube.com/watch?v=Yidy_ePo7pE">video</a></p>
 </div>
 
-<div>
-<b>Cadea</b>
+### Cadea
 <div><a href="https://www.cadea.ai/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #d5a2a8; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Safety Guardrails (Safeguarding)</span></div>
 
@@ -561,8 +509,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://www.cadea.ai/">website</a></p>
 </div>
 
-<div>
-<b>Cal.ai</b>
+### Cal.ai
 <div><a href="https://github.com/calcom/cal.com/tree/main/apps/ai"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/calcom/cal.com?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #27f083; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">AI Agents</span></div>
 
@@ -571,8 +518,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://cal.com/ai">website</a> | <a href="https://github.com/calcom/cal.com/tree/main/apps/ai">github</a></p>
 </div>
 
-<div>
-<b>CAMEL</b>
+### CAMEL
 <div><a href="https://github.com/camel-ai/camel"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/camel-ai/camel?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #e8538a; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Development Frameworks</span></div>
 
@@ -581,8 +527,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/camel-ai/camel">github</a> | <a href="https://github.com/camel-ai">github profile</a></p>
 </div>
 
-<div>
-<b>Central by Zapier</b>
+### Central by Zapier
 <div><a href="https://zapier.com/blog/introducing-zapier-central-ai-bots/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #e8538a; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Development Frameworks</span></div>
 
@@ -591,8 +536,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://zapier.com/blog/introducing-zapier-central-ai-bots/">announcement</a> | <a href="https://zapier.com/central">website</a></p>
 </div>
 
-<div>
-<b>ChartGPT</b>
+### ChartGPT
 <div><a href="https://chartgpt.io"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #27f083; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">AI Agents</span></div>
 
@@ -601,8 +545,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://chartgpt.io">website</a></p>
 </div>
 
-<div>
-<b>ChatDev</b>
+### ChatDev
 <div><a href="https://github.com/OpenBMB/ChatDev"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/OpenBMB/ChatDev?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #e8538a; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Development Frameworks</span></div>
 
@@ -611,8 +554,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/OpenBMB/ChatDev">github</a> | <a href="https://github.com/OpenBMB">github profile</a></p>
 </div>
 
-<div>
-<b>ChatGPT</b>
+### ChatGPT
 <div><a href="https://chatgpt.com/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #27f083; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">AI Agents</span></div>
 
@@ -621,8 +563,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://chatgpt.com/">website</a></p>
 </div>
 
-<div>
-<b>Claude 3 Artifacts by PierrunoYT</b>
+### Claude 3 Artifacts by PierrunoYT
 <div><a href="https://github.com/PierrunoYT/claude-3-artifacts"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/PierrunoYT/claude-3-artifacts?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #8714c8; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">UI Development</span></div>
 
@@ -631,8 +572,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/PierrunoYT/claude-3-artifacts">github</a></p>
 </div>
 
-<div>
-<b>Claude models by Anthropic</b>
+### Claude models by Anthropic
 <div><a href="https://docs.anthropic.com/claude/docs/tool-use"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #f52827; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Model Providers With Function Calling Support</span></div>
 
@@ -641,8 +581,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://docs.anthropic.com/claude/docs/tool-use">docs</a></p>
 </div>
 
-<div>
-<b>CLIN</b>
+### CLIN
 <div><a href="https://github.com/allenai/clin"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/allenai/clin?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #27f083; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">AI Agents</span></div>
 
@@ -651,8 +590,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://allenai.github.io/clin/">website</a> | <a href="https://github.com/allenai/clin">github</a> | <a href="https://arxiv.org/pdf/2310.10134.pdf">research paper</a></p>
 </div>
 
-<div>
-<b>CodeActAgent</b>
+### CodeActAgent
 <div><a href="https://github.com/xingyaoww/code-act"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/xingyaoww/code-act?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #e8538a; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Development Frameworks</span></div>
 
@@ -661,8 +599,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/xingyaoww/code-act">github</a></p>
 </div>
 
-<div>
-<b>Codel</b>
+### Codel
 <div><a href="https://github.com/semanser/codel"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/semanser/codel?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #27f083; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">AI Agents</span></div>
 
@@ -671,8 +608,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/semanser/codel">github</a> | <a href="https://news.ycombinator.com/item?id=39799296">announcement</a></p>
 </div>
 
-<div>
-<b>Cody</b>
+### Cody
 <div><a href="https://github.com/sourcegraph/cody"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/sourcegraph/cody?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #27f083; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">AI Agents</span></div>
 
@@ -681,8 +617,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://sourcegraph.com/cody">website</a> | <a href="https://github.com/sourcegraph/cody">github</a></p>
 </div>
 
-<div>
-<b>Cognee</b>
+### Cognee
 <div><a href="https://github.com/topoteretes/cognee"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/topoteretes/cognee?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #e8538a; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Development Frameworks</span></div>
 
@@ -691,8 +626,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/topoteretes/cognee">github</a></p>
 </div>
 
-<div>
-<b>Command R+ by Cohere</b>
+### Command R+ by Cohere
 <div><a href="https://txt.cohere.com/command-r-plus-microsoft-azure/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #f52827; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Model Providers With Function Calling Support</span></div>
 
@@ -701,8 +635,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://txt.cohere.com/command-r-plus-microsoft-azure/">announcement</a> | <a href="https://docs.cohere.com/docs/command-r">docs</a></p>
 </div>
 
-<div>
-<b>Composio</b>
+### Composio
 <div><a href="https://x.com/AlexReibman/status/1772776340368081211"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #1a2b00; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Function Calling</span></div>
 
@@ -711,8 +644,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://x.com/AlexReibman/status/1772776340368081211">demo</a> | <a href="https://www.youtube.com/watch?v=ujxKzS0b5qg">demo</a> | <a href="https://www.composio.dev/">website</a> | <a href="https://docs.composio.dev/">docs</a> | <a href="https://blog.composio.dev/">blog</a> | <a href="https://github.com/SamparkAI">github profile</a></p>
 </div>
 
-<div>
-<b>Context</b>
+### Context
 <div><a href="https://context.ai/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #83c2f5; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Observability Frameworks</span></div>
 
@@ -721,8 +653,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://context.ai/">website</a> | <a href="https://docs.context.ai/">docs</a></p>
 </div>
 
-<div>
-<b>Continue</b>
+### Continue
 <div><a href="https://github.com/continuedev/continue"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/continuedev/continue?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #27f083; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">AI Agents</span></div>
 
@@ -731,8 +662,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/continuedev/continue">github</a> | <a href="https://continue.dev">website</a></p>
 </div>
 
-<div>
-<b>Cosmo</b>
+### Cosmo
 <div><a href="https://meetcosmo.ai/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #27f083; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">AI Agents</span></div>
 
@@ -741,8 +671,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://meetcosmo.ai/">website</a> | <a href="https://x.com/AlexReibman/status/1772775416044126608">demo</a></p>
 </div>
 
-<div>
-<b>crewAI by João Moura</b>
+### crewAI by João Moura
 <div><a href="https://github.com/joaomdmoura/crewai"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/joaomdmoura/crewai?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #e8538a; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Development Frameworks</span></div>
 
@@ -751,8 +680,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/joaomdmoura/crewai">github</a> | <a href="https://github.com/joaomdmoura">github profile</a></p>
 </div>
 
-<div>
-<b>crewAI Tools</b>
+### crewAI Tools
 <div><a href="https://github.com/joaomdmoura/crewai-tools"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/joaomdmoura/crewai-tools?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #1a2b00; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Function Calling</span></div>
 
@@ -761,8 +689,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/joaomdmoura/crewai-tools">github</a></p>
 </div>
 
-<div>
-<b>crewAI+ by João Moura</b>
+### crewAI+ by João Moura
 <div><a href="https://www.crewai.com/crewaiplus"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #e8538a; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Development Frameworks</span></div>
 
@@ -771,8 +698,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://www.crewai.com/crewaiplus">website</a></p>
 </div>
 
-<div>
-<b>Cursor</b>
+### Cursor
 <div><a href="https://github.com/getcursor/cursor/issues"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #27f083; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">AI Agents</span></div>
 
@@ -781,8 +707,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/getcursor/cursor/issues">issue tracker</a> | <a href="https://cursor.sh/">website</a></p>
 </div>
 
-<div>
-<b>Custom Tools by Bland AI</b>
+### Custom Tools by Bland AI
 <div><a href="https://docs.bland.ai/tutorials/custom-tools#creating-your-custom-tool"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #1a2b00; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Function Calling</span></div>
 
@@ -791,8 +716,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://docs.bland.ai/tutorials/custom-tools#creating-your-custom-tool">docs</a></p>
 </div>
 
-<div>
-<b>Data Questionnaire Agent</b>
+### Data Questionnaire Agent
 <div><a href="https://github.com/onepointconsulting/data-questionnaire-agent"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/onepointconsulting/data-questionnaire-agent?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #27f083; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">AI Agents</span></div>
 
@@ -801,8 +725,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/onepointconsulting/data-questionnaire-agent">github</a></p>
 </div>
 
-<div>
-<b>databerry</b>
+### databerry
 <div><a href="https://github.com/gmpetrov/databerry/"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/gmpetrov/databerry?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #e8538a; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Development Frameworks</span></div>
 
@@ -811,8 +734,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/gmpetrov/databerry/">github</a></p>
 </div>
 
-<div>
-<b>DB-GPT</b>
+### DB-GPT
 <div><a href="https://github.com/eosphoros-ai/DB-GPT"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/eosphoros-ai/DB-GPT?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #e8538a; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Development Frameworks</span></div>
 
@@ -821,8 +743,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/eosphoros-ai/DB-GPT">github</a> | <a href="https://github.com/eosphoros-ai">github profile</a></p>
 </div>
 
-<div>
-<b>Deepgram</b>
+### Deepgram
 <div><a href="https://x.com/AlexReibman/status/1772774552260788296"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #27f083; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">AI Agents</span></div>
 
@@ -831,8 +752,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://x.com/AlexReibman/status/1772774552260788296">demo</a></p>
 </div>
 
-<div>
-<b>DeepGram</b>
+### DeepGram
 <div><a href="https://deepgram.com"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #fa4da0; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Voice Providers</span></div>
 
@@ -841,8 +761,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://deepgram.com">website</a></p>
 </div>
 
-<div>
-<b>DeepGram</b>
+### DeepGram
 <div><a href="https://deepgram.com"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #cfdca4; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Transcriber Providers</span></div>
 
@@ -851,8 +770,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://deepgram.com">website</a></p>
 </div>
 
-<div>
-<b>DeepInfra</b>
+### DeepInfra
 <div><a href="https://deepinfra.com"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #8f89f9; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Model Providers</span></div>
 
@@ -861,8 +779,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://deepinfra.com">website</a> | <a href="https://deepinfra.com/docs/">docs</a></p>
 </div>
 
-<div>
-<b>Deepunit</b>
+### Deepunit
 <div><a href="https://x.com/AlexReibman/status/1772773773772779533"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #27f083; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">AI Agents</span></div>
 
@@ -871,8 +788,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://x.com/AlexReibman/status/1772773773772779533">demo</a></p>
 </div>
 
-<div>
-<b>Devid by Agency Swarm</b>
+### Devid by Agency Swarm
 <div><a href="https://github.com/VRSEN/agency-swarm/tree/main/agency_swarm/agents/Devid"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/VRSEN/agency-swarm?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #27f083; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">AI Agents</span></div>
 
@@ -881,8 +797,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/VRSEN/agency-swarm/tree/main/agency_swarm/agents/Devid">github</a> | <a href="https://www.youtube.com/watch?v=BEpDRj9H3zE">video</a></p>
 </div>
 
-<div>
-<b>Devika</b>
+### Devika
 <div><a href="https://github.com/stitionai/devika"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/stitionai/devika?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #27f083; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">AI Agents</span></div>
 
@@ -891,8 +806,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/stitionai/devika">github</a> | <a href="https://github.com/stitionai/devika?tab=readme-ov-file#demos">demo</a> | <a href="https://discord.com/invite/8eYNbPuB">discord</a></p>
 </div>
 
-<div>
-<b>Devin by Cognition</b>
+### Devin by Cognition
 <div><a href="https://www.cognition-labs.com/introducing-devin"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #27f083; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">AI Agents</span></div>
 
@@ -901,8 +815,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://www.cognition-labs.com/introducing-devin">announcement</a> | <a href="https://www.cognition-labs.com/">website</a></p>
 </div>
 
-<div>
-<b>Devon (previously Gilfoyle)</b>
+### Devon (previously Gilfoyle)
 <div><a href="https://github.com/entropy-research/Devon"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/entropy-research/Devon?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #27f083; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">AI Agents</span></div>
 
@@ -911,8 +824,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/entropy-research/Devon">github</a></p>
 </div>
 
-<div>
-<b>DevOpsGPT</b>
+### DevOpsGPT
 <div><a href="https://github.com/kuafuai/DevOpsGPT"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/kuafuai/DevOpsGPT?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #e8538a; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Development Frameworks</span></div>
 
@@ -921,8 +833,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/kuafuai/DevOpsGPT">github</a> | <a href="https://github.com/kuafuai">github profile</a></p>
 </div>
 
-<div>
-<b>DSPY</b>
+### DSPY
 <div><a href="https://github.com/stanfordnlp/dspy"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/stanfordnlp/dspy?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #1b2b5c; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Flow Engineering (Platform Engineering)</span></div>
 
@@ -931,8 +842,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/stanfordnlp/dspy">github</a></p>
 </div>
 
-<div>
-<b>E2B</b>
+### E2B
 <div><a href="https://github.com/e2b-dev/E2B"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/e2b-dev/E2B?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #e8538a; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Development Frameworks</span></div>
 
@@ -941,8 +851,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/e2b-dev/E2B">github</a> | <a href="https://github.com/e2b-dev">github profile</a></p>
 </div>
 
-<div>
-<b>ElevenLabs</b>
+### ElevenLabs
 <div><a href="https://elevenlabs.io/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #fa4da0; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Voice Providers</span></div>
 
@@ -951,8 +860,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://elevenlabs.io/">website</a></p>
 </div>
 
-<div>
-<b>elia</b>
+### elia
 <div><a href="https://github.com/darrenburns/elia"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/darrenburns/elia?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #0d4a41; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Terminal-Friendly</span></div>
 
@@ -961,8 +869,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/darrenburns/elia">github</a></p>
 </div>
 
-<div>
-<b>Enact</b>
+### Enact
 <div><a href="https://github.com/agentic-ai/enact"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/agentic-ai/enact?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #e8538a; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Development Frameworks</span></div>
 
@@ -971,8 +878,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/agentic-ai/enact">github</a></p>
 </div>
 
-<div>
-<b>Evolutionary Model Merge</b>
+### Evolutionary Model Merge
 <div><a href="https://github.com/SakanaAI/evolutionary-model-merge/"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/SakanaAI/evolutionary-model-merge?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #e3ab0c; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Model Merges</span></div>
 
@@ -981,8 +887,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://twitter.com/AlphaSignalAI/status/1771201081734811797">announcement</a> | <a href="https://github.com/SakanaAI/evolutionary-model-merge/">github</a></p>
 </div>
 
-<div>
-<b>Fairgo</b>
+### Fairgo
 <div><a href="https://x.com/AnnieLiao_2000/status/1792175460044193992"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #a62299; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Build Club</span></div>
 
@@ -991,8 +896,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://x.com/AnnieLiao_2000/status/1792175460044193992">demo</a> | <a href="https://fairgo.ai/">website</a></p>
 </div>
 
-<div>
-<b>FastChat</b>
+### FastChat
 <div><a href="https://github.com/lm-sys/FastChat"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/lm-sys/FastChat?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #0c5b53; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Local Inference</span></div>
 
@@ -1001,8 +905,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/lm-sys/FastChat">github</a> | <a href="https://chat.lmsys.org/">demo</a> | <a href="https://discord.gg/HSWAKCrnFx">discord</a> | <a href="https://x.com/lmsysorg">twitter</a></p>
 </div>
 
-<div>
-<b>Fetch</b>
+### Fetch
 <div><a href="https://fetch.ai"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #e8538a; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Development Frameworks</span></div>
 
@@ -1011,8 +914,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://fetch.ai">website</a> | <a href="https://github.com/fetchai">github profile</a></p>
 </div>
 
-<div>
-<b>Fine</b>
+### Fine
 <div><a href="https://www.fine.dev"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #27f083; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">AI Agents</span></div>
 
@@ -1021,8 +923,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://www.fine.dev">website</a> | <a href="https://discord.gg/nxW8sA5yqe">discord</a> | <a href="https://docs.fine.dev/">docs</a></p>
 </div>
 
-<div>
-<b>FinGen</b>
+### FinGen
 <div><a href="https://github.com/sullyo/fingen"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/sullyo/fingen?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #27f083; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">AI Agents</span></div>
 
@@ -1031,8 +932,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://twitter.com/SullyOmarr/status/1772282548841791730">announcement</a> | <a href="https://github.com/sullyo/fingen">github</a></p>
 </div>
 
-<div>
-<b>Flowise</b>
+### Flowise
 <div><a href="https://github.com/FlowiseAI/Flowise"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #e8538a; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Development Frameworks</span></div>
 
@@ -1041,8 +941,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/FlowiseAI/Flowise">github</a> | <a href="https://flowiseai.com/">website</a> | <a href="https://docs.flowiseai.com/">docs</a> | <a href="https://github.com/FlowiseAI">github profile</a></p>
 </div>
 
-<div>
-<b>FuzzTypes</b>
+### FuzzTypes
 <div><a href="https://github.com/genomoncology/FuzzTypes"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/genomoncology/FuzzTypes?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #6d5a4a; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Structured Outputs</span></div>
 
@@ -1051,8 +950,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/genomoncology/FuzzTypes">github</a> | <a href="https://www.genomoncology.com/">website</a></p>
 </div>
 
-<div>
-<b>Gated 402 API</b>
+### Gated 402 API
 <div><a href="https://github.com/aibtcdev/gated-402-api"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/aibtcdev/gated-402-api?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #d023ec; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Bitcoin</span></div>
 
@@ -1061,8 +959,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/aibtcdev/gated-402-api">github</a> | <a href="https://github.com/aibtcdev">github profile</a> | <a href="https://aibtc.dev/">website</a> | <a href="https://discord.gg/5DJaBrf">discord</a></p>
 </div>
 
-<div>
-<b>GitWit</b>
+### GitWit
 <div><a href="https://gitwit.dev/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #27f083; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">AI Agents</span></div>
 
@@ -1071,8 +968,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://gitwit.dev/">website</a> | <a href="https://discord.gitwit.dev/">discord</a> | <a href="https://github.com/gitwitorg">github profile</a></p>
 </div>
 
-<div>
-<b>Google STT</b>
+### Google STT
 <div><a href="https://cloud.google.com/speech-to-text"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #fa4da0; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Voice Providers</span></div>
 
@@ -1081,8 +977,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://cloud.google.com/speech-to-text">website</a></p>
 </div>
 
-<div>
-<b>GPT Computer Assistant</b>
+### GPT Computer Assistant
 <div><a href="https://github.com/onuratakan/gpt-computer-assistant"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/onuratakan/gpt-computer-assistant?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #034df0; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Operating System (OS)</span></div>
 
@@ -1091,8 +986,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/onuratakan/gpt-computer-assistant">github</a></p>
 </div>
 
-<div>
-<b>GPT Engineer</b>
+### GPT Engineer
 <div><a href="https://github.com/gpt-engineer-org/gpt-engineer"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/gpt-engineer-org/gpt-engineer?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #27f083; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">AI Agents</span></div>
 
@@ -1101,8 +995,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/gpt-engineer-org/gpt-engineer">github</a> | <a href="https://github.com/gpt-engineer-org">github profile</a> | <a href="https://gptengineer.app">website</a></p>
 </div>
 
-<div>
-<b>GPT models by OpenAI</b>
+### GPT models by OpenAI
 <div><a href="https://platform.openai.com/docs/guides/function-calling"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #f52827; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Model Providers With Function Calling Support</span></div>
 
@@ -1111,8 +1004,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://platform.openai.com/docs/guides/function-calling">docs</a></p>
 </div>
 
-<div>
-<b>GPT Newspaper by Tavily</b>
+### GPT Newspaper by Tavily
 <div><a href="https://github.com/rotemweiss57/gpt-newspaper"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/rotemweiss57/gpt-newspaper?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #27f083; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">AI Agents</span></div>
 
@@ -1121,8 +1013,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/rotemweiss57/gpt-newspaper">github</a> | <a href="https://github.com/rotemweiss57">github profile</a></p>
 </div>
 
-<div>
-<b>GPT Pilot</b>
+### GPT Pilot
 <div><a href="https://github.com/Pythagora-io/gpt-pilot"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/Pythagora-io/gpt-pilot?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #27f083; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">AI Agents</span></div>
 
@@ -1131,8 +1022,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/Pythagora-io/gpt-pilot">github</a> | <a href="https://discord.gg/RzvCYRgUkx">discord</a></p>
 </div>
 
-<div>
-<b>GPT Researcher by Tavily</b>
+### GPT Researcher by Tavily
 <div><a href="https://github.com/assafelovic/gpt-researcher"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #27f083; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">AI Agents</span></div>
 
@@ -1141,8 +1031,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/assafelovic/gpt-researcher">github</a> | <a href="https://github.com/assafelovic">github profile</a></p>
 </div>
 
-<div>
-<b>GPTeam</b>
+### GPTeam
 <div><a href="https://github.com/101dotxyz/GPTeam"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/101dotxyz/GPTeam?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #e8538a; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Development Frameworks</span></div>
 
@@ -1151,8 +1040,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/101dotxyz/GPTeam">github</a> | <a href="https://github.com/101dotxyz">github profile</a></p>
 </div>
 
-<div>
-<b>Groq</b>
+### Groq
 <div><a href="https://groq.com/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #8f89f9; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Model Providers</span> <span style="background-color: #f52827; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Model Providers With Function Calling Support</span></div>
 
@@ -1161,8 +1049,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://groq.com/">website</a> | <a href="https://console.groq.com/docs">docs</a> | <a href="https://console.groq.com/docs/tool-use">tool use docs</a> | <a href="https://twitter.com/GroqInc/status/1775634099849322632">tool use announcement</a></p>
 </div>
 
-<div>
-<b>Guardrails</b>
+### Guardrails
 <div><a href="https://github.com/guardrails-ai/guardrails"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/guardrails-ai/guardrails?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #d5a2a8; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Safety Guardrails (Safeguarding)</span></div>
 
@@ -1171,8 +1058,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/guardrails-ai/guardrails">github</a> | <a href="https://twitter.com/guardrails_ai">twitter</a></p>
 </div>
 
-<div>
-<b>Guidance</b>
+### Guidance
 <div><a href="https://github.com/guidance-ai/guidance"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/guidance-ai/guidance?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #d5a2a8; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Safety Guardrails (Safeguarding)</span></div>
 
@@ -1181,8 +1067,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/guidance-ai/guidance">github</a> | <a href="https://guidance.readthedocs.org/">docs</a></p>
 </div>
 
-<div>
-<b>Harpa</b>
+### Harpa
 <div><a href="https://harpa.ai/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #27f083; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">AI Agents</span></div>
 
@@ -1191,8 +1076,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://harpa.ai/">website</a></p>
 </div>
 
-<div>
-<b>Haystack</b>
+### Haystack
 <div><a href="https://github.com/deepset-ai/haystack"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/deepset-ai/haystack?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #e8538a; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Development Frameworks</span></div>
 
@@ -1201,8 +1085,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/deepset-ai/haystack">github</a> | <a href="https://github.com/deepset-ai">github profile</a></p>
 </div>
 
-<div>
-<b>Helicone</b>
+### Helicone
 <div><a href="https://github.com/Helicone/helicone"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/Helicone/helicone?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #83c2f5; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Observability Frameworks</span></div>
 
@@ -1211,8 +1094,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://www.helicone.ai/">website</a> | <a href="https://github.com/Helicone/helicone">github</a></p>
 </div>
 
-<div>
-<b>Humane</b>
+### Humane
 <div><a href="https://humane.com/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #c5b3b5; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Hardware (Wearables)</span></div>
 
@@ -1221,8 +1103,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://humane.com/">website</a></p>
 </div>
 
-<div>
-<b>Hume AI</b>
+### Hume AI
 <div><a href="https://www.hume.ai/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #27f083; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">AI Agents</span></div>
 
@@ -1231,8 +1112,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://www.hume.ai/">website</a> | <a href="https://discord.com/invite/WPRSugvAm6">discord</a></p>
 </div>
 
-<div>
-<b>Imbue</b>
+### Imbue
 <div><a href="https://imbue.com/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #27f083; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">AI Agents</span></div>
 
@@ -1241,8 +1121,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://imbue.com/">website</a> | <a href="https://twitter.com/imbue_ai/">twitter</a></p>
 </div>
 
-<div>
-<b>Instructor</b>
+### Instructor
 <div><a href="https://github.com/jxnl/instructor"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/jxnl/instructor?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #6d5a4a; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Structured Outputs</span></div>
 
@@ -1251,8 +1130,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/jxnl/instructor">github</a> | <a href="https://python.useinstructor.com/">website</a></p>
 </div>
 
-<div>
-<b>Instructor Cloud</b>
+### Instructor Cloud
 <div><a href="https://github.com/instructor-ai/cloud"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/instructor-ai/cloud?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #6d5a4a; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Structured Outputs</span></div>
 
@@ -1261,8 +1139,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/instructor-ai/cloud">github</a> | <a href="https://twitter.com/jxnlco/status/1774822440922763707">announcement</a></p>
 </div>
 
-<div>
-<b>IvyCheck</b>
+### IvyCheck
 <div><a href="https://github.com/ivycheck/ivycheck-python-sdk"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/ivycheck/ivycheck-python-sdk?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #d5a2a8; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Safety Guardrails (Safeguarding)</span></div>
 
@@ -1271,8 +1148,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/ivycheck/ivycheck-python-sdk">github</a> | <a href="https://www.ycombinator.com/launches/KkA-ivycheck-guard-against-ai-risks-with-real-time-checks">announcement</a> | <a href="https://ivycheck.com">website</a></p>
 </div>
 
-<div>
-<b>Jaiqu</b>
+### Jaiqu
 <div><a href="https://github.com/AgentOps-AI/Jaiqu"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/AgentOps-AI/Jaiqu?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #6d5a4a; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Structured Outputs</span></div>
 
@@ -1281,8 +1157,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/AgentOps-AI/Jaiqu">github</a> | <a href="https://x.com/AlexReibman/status/1774314258379190770">demo</a> | <a href="https://jaiqu-agent.streamlit.app/">website</a> | <a href="https://twitter.com/agentopsai/">twitter</a> | <a href="https://discord.gg/JHPt4C7r">discord</a></p>
 </div>
 
-<div>
-<b>Jan</b>
+### Jan
 <div><a href="https://github.com/janhq/jan"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/janhq/jan?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #0c5b53; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Local Inference</span></div>
 
@@ -1291,8 +1166,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/janhq/jan">github</a> | <a href="https://github.com/janhq">github profile</a></p>
 </div>
 
-<div>
-<b>JARVIS by Microsoft</b>
+### JARVIS by Microsoft
 <div><a href="https://github.com/microsoft/JARVIS"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/microsoft/JARVIS?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #e8538a; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Development Frameworks</span></div>
 
@@ -1301,8 +1175,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/microsoft/JARVIS">github</a></p>
 </div>
 
-<div>
-<b>Jsonify</b>
+### Jsonify
 <div><a href="https://jsonify.com/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #6d5a4a; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Structured Outputs</span></div>
 
@@ -1311,8 +1184,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://jsonify.com/">website</a> | <a href="https://twitter.com/jsonifyco">twitter</a> | <a href="https://www.linkedin.com/company/jsonify/">linkedin</a></p>
 </div>
 
-<div>
-<b>Kapa</b>
+### Kapa
 <div><a href="https://www.kapa.ai/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #ab2e2a; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">No-Code Development Frameworks</span></div>
 
@@ -1321,8 +1193,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://www.kapa.ai/">website</a> | <a href="https://docs.kapa.ai/">docs</a></p>
 </div>
 
-<div>
-<b>LangChain</b>
+### LangChain
 <div><a href="https://github.com/langchain-ai/langchain"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/langchain-ai/langchain?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #e8538a; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Development Frameworks</span></div>
 
@@ -1331,8 +1202,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/langchain-ai/langchain">github</a></p>
 </div>
 
-<div>
-<b>LangChain JS</b>
+### LangChain JS
 <div><a href="https://github.com/langchain-ai/langchainjs"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/langchain-ai/langchainjs?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #e8538a; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Development Frameworks</span></div>
 
@@ -1341,8 +1211,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/langchain-ai/langchainjs">github</a></p>
 </div>
 
-<div>
-<b>LangChain JS Tools</b>
+### LangChain JS Tools
 <div><a href="https://github.com/langchain-ai/langchainjs"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/langchain-ai/langchainjs?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #1a2b00; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Function Calling</span></div>
 
@@ -1351,8 +1220,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/langchain-ai/langchainjs">github</a> | <a href="https://js.langchain.com/v0.2/docs/integrations/tools/">docs</a></p>
 </div>
 
-<div>
-<b>LangChain Tools</b>
+### LangChain Tools
 <div><a href="https://github.com/langchain-ai/langchain/"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/langchain-ai/langchain?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #1a2b00; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Function Calling</span></div>
 
@@ -1361,8 +1229,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/langchain-ai/langchain/">github</a> | <a href="https://python.langchain.com/docs/integrations/tools">docs</a></p>
 </div>
 
-<div>
-<b>LangChainBitcoin</b>
+### LangChainBitcoin
 <div><a href="https://github.com/lightninglabs/LangChainBitcoin"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/lightninglabs/LangChainBitcoin?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #d023ec; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Bitcoin</span></div>
 
@@ -1371,8 +1238,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://lightning.engineering/posts/2023-07-05-l402-langchain/">announcement</a> | <a href="https://github.com/lightninglabs/LangChainBitcoin">github</a></p>
 </div>
 
-<div>
-<b>LangFuse</b>
+### LangFuse
 <div><a href="https://github.com/langfuse/langfuse"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/langfuse/langfuse?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #311bec; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Evaluation Frameworks</span></div>
 
@@ -1381,8 +1247,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/langfuse/langfuse">github</a> | <a href="https://langfuse.com/">website</a> | <a href="https://x.com/langfuse">twitter</a> | <a href="https://langfuse.com/discord">discord</a></p>
 </div>
 
-<div>
-<b>LangGraph</b>
+### LangGraph
 <div><a href="https://github.com/langchain-ai/langgraph"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/langchain-ai/langgraph?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #e8538a; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Development Frameworks</span></div>
 
@@ -1391,8 +1256,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/langchain-ai/langgraph">github</a></p>
 </div>
 
-<div>
-<b>LangGraph.js</b>
+### LangGraph.js
 <div><a href="https://github.com/langchain-ai/langgraphjs"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/langchain-ai/langgraphjs?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #e8538a; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Development Frameworks</span></div>
 
@@ -1401,8 +1265,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/langchain-ai/langgraphjs">github</a></p>
 </div>
 
-<div>
-<b>LangServe</b>
+### LangServe
 <div><a href="https://github.com/langchain-ai/langserve"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/langchain-ai/langserve?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #e8538a; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Development Frameworks</span></div>
 
@@ -1411,8 +1274,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/langchain-ai/langserve">github</a></p>
 </div>
 
-<div>
-<b>LangSmith by LangChain</b>
+### LangSmith by LangChain
 <div><a href="https://github.com/langchain-ai/langsmith-sdk"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/langchain-ai/langsmith-sdk?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #83c2f5; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Observability Frameworks</span></div>
 
@@ -1421,8 +1283,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/langchain-ai/langsmith-sdk">github</a> | <a href="https://docs.smith.langchain.com">docs</a> | <a href="https://smith.langchain.com">website</a></p>
 </div>
 
-<div>
-<b>Libraria</b>
+### Libraria
 <div><a href="https://libraria.ai/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #ab2e2a; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">No-Code Development Frameworks</span></div>
 
@@ -1431,8 +1292,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://libraria.ai/">website</a> | <a href="https://x.com/librariaai">twitter</a></p>
 </div>
 
-<div>
-<b>LiteLLM</b>
+### LiteLLM
 <div><a href="https://github.com/BerriAI/litellm"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/BerriAI/litellm?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #550e04; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Assistants API</span></div>
 
@@ -1441,8 +1301,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/BerriAI/litellm">github</a></p>
 </div>
 
-<div>
-<b>LiveKit Agents</b>
+### LiveKit Agents
 <div><a href="https://github.com/livekit/agents"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a></div>
 <div><span style="background-color: #c134fd; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Real-Time</span></div>
 
@@ -1451,8 +1310,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/livekit/agents">GitHub</a> | <a href="https://docs.livekit.io/agents/">docs</a> | <a href="https://kitt.livekit.io">demo</a></p>
 </div>
 
-<div>
-<b>LiveRecall</b>
+### LiveRecall
 <div><a href="https://github.com/VedankPurohit/LiveRecall"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a></div>
 <div><span style="background-color: #09938d; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Personal Assistants</span></div>
 
@@ -1461,8 +1319,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/VedankPurohit/LiveRecall">GitHub</a></p>
 </div>
 
-<div>
-<b>LlamaCloud by LlamaIndex</b>
+### LlamaCloud by LlamaIndex
 <div><a href="https://www.llamaindex.ai/enterprise"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #ab2e2a; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">No-Code Development Frameworks</span></div>
 
@@ -1471,8 +1328,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://www.llamaindex.ai/enterprise">website</a> | <a href="https://github.com/run-llama">github profile</a> | <a href="https://discord.com/invite/eN6D2HQ4aX">discord</a> | <a href="https://www.linkedin.com/company/91154103/">linkedin</a></p>
 </div>
 
-<div>
-<b>LlamaGym</b>
+### LlamaGym
 <div><a href="https://github.com/KhoomeiK/LlamaGym"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/KhoomeiK/LlamaGym?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #44f899; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Reinforcement Learning</span></div>
 
@@ -1481,8 +1337,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/KhoomeiK/LlamaGym">github</a> | <a href="https://github.com/KhoomeiK">github profile</a></p>
 </div>
 
-<div>
-<b>LlamaIndex Tools</b>
+### LlamaIndex Tools
 <div><a href="https://github.com/run-llama/llama_index"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/run-llama/llama_index?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #1a2b00; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Function Calling</span></div>
 
@@ -1491,8 +1346,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/run-llama/llama_index">github</a> | <a href="https://llamahub.ai/?tab=tools">website</a> | <a href="https://docs.llamaindex.ai/en/latest/module_guides/deploying/agents/tools/">docs</a></p>
 </div>
 
-<div>
-<b>LM Studio</b>
+### LM Studio
 <div><a href="https://lmstudio.ai/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #0c5b53; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Local Inference</span></div>
 
@@ -1501,8 +1355,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://lmstudio.ai/">website</a> | <a href="https://github.com/lmstudio-ai">github profile</a></p>
 </div>
 
-<div>
-<b>LMNT</b>
+### LMNT
 <div><a href="https://www.lmnt.com"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #fa4da0; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Voice Providers</span></div>
 
@@ -1511,8 +1364,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://www.lmnt.com">website</a> | <a href="https://docs.lmnt.com/">docs</a></p>
 </div>
 
-<div>
-<b>LMQL</b>
+### LMQL
 <div><a href="https://github.com/eth-sri/lmql"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/eth-sri/lmql?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #b95bd8; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">LLM-Friendly Languages</span></div>
 
@@ -1521,8 +1373,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/eth-sri/lmql">github</a> | <a href="https://lmql.ai/">website</a></p>
 </div>
 
-<div>
-<b>Lobe Chat</b>
+### Lobe Chat
 <div><a href="https://github.com/lobehub/lobe-chat"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/lobehub/lobe-chat?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #e8538a; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Development Frameworks</span></div>
 
@@ -1531,8 +1382,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/lobehub/lobe-chat">github</a> | <a href="https://chat-preview.lobehub.com/">website</a></p>
 </div>
 
-<div>
-<b>LocalGPT</b>
+### LocalGPT
 <div><a href="https://github.com/PromtEngineer/localGPT"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/PromtEngineer/localGPT?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #0c5b53; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Local Inference</span></div>
 
@@ -1541,8 +1391,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/PromtEngineer/localGPT">github</a></p>
 </div>
 
-<div>
-<b>LoopGPT</b>
+### LoopGPT
 <div><a href="https://github.com/farizrahman4u/loopgpt"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/farizrahman4u/loopgpt?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #e8538a; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Development Frameworks</span></div>
 
@@ -1551,8 +1400,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/farizrahman4u/loopgpt">github</a> | <a href="https://github.com/farizrahman4u">github profile</a></p>
 </div>
 
-<div>
-<b>Lumos</b>
+### Lumos
 <div><a href="https://github.com/allenai/lumos"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/allenai/lumos?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #e8538a; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Development Frameworks</span></div>
 
@@ -1561,8 +1409,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/allenai/lumos">github</a> | <a href="https://allenai.github.io/lumos/">website</a></p>
 </div>
 
-<div>
-<b>Lyzr</b>
+### Lyzr
 <div><a href="https://www.lyzr.ai/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #e8538a; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Development Frameworks</span></div>
 
@@ -1571,8 +1418,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://www.lyzr.ai/">website</a> | <a href="https://www.lyzr.ai/blog/">blog</a> | <a href="https://twitter.com/lyzrai">twitter</a></p>
 </div>
 
-<div>
-<b>Marvin</b>
+### Marvin
 <div><a href="https://github.com/PrefectHQ/marvin/"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/PrefectHQ/marvin?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #6d5a4a; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Structured Outputs</span></div>
 
@@ -1581,8 +1427,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/PrefectHQ/marvin/">github</a> | <a href="https://askmarvin.ai/">website</a></p>
 </div>
 
-<div>
-<b>MemGPT</b>
+### MemGPT
 <div><a href="https://github.com/cpacker/MemGPT/"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/cpacker/MemGPT?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #85568a; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Long-Term Memory</span></div>
 
@@ -1591,8 +1436,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://memgpt.ai/">website</a> | <a href="https://github.com/cpacker/MemGPT/">github</a></p>
 </div>
 
-<div>
-<b>Mendable</b>
+### Mendable
 <div><a href="https://www.mendable.ai/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #ab2e2a; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">No-Code Development Frameworks</span></div>
 
@@ -1601,8 +1445,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://www.mendable.ai/">website</a> | <a href="https://docs.mendable.ai/">docs</a> | <a href="https://twitter.com/mendableai">twitter</a> | <a href="https://github.com/sideguide">github profile</a></p>
 </div>
 
-<div>
-<b>MergeKit</b>
+### MergeKit
 <div><a href="https://github.com/arcee-ai/mergekit"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/arcee-ai/mergekit?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #e3ab0c; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Model Merges</span></div>
 
@@ -1611,8 +1454,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/arcee-ai/mergekit">github</a></p>
 </div>
 
-<div>
-<b>MetaGPT</b>
+### MetaGPT
 <div><a href="https://github.com/geekan/MetaGPT"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/geekan/MetaGPT?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #e8538a; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Development Frameworks</span></div>
 
@@ -1621,8 +1463,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/geekan/MetaGPT">github</a> | <a href="https://github.com/geekan">github profile</a></p>
 </div>
 
-<div>
-<b>Miranda</b>
+### Miranda
 <div><a href="https://x.com/AnnieLiao_2000/status/1792175658178855112"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #a62299; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Build Club</span></div>
 
@@ -1631,8 +1472,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://x.com/AnnieLiao_2000/status/1792175658178855112">demo</a></p>
 </div>
 
-<div>
-<b>MultiOn</b>
+### MultiOn
 <div><a href="https://www.multion.ai/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #27f083; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">AI Agents</span></div>
 
@@ -1641,8 +1481,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://www.multion.ai/">website</a></p>
 </div>
 
-<div>
-<b>NavAIGuide</b>
+### NavAIGuide
 <div><a href="https://github.com/francedot/NavAIGuide-TS"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/francedot/NavAIGuide-TS?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #f170aa; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Mobile-Friendly Frameworks</span></div>
 
@@ -1651,8 +1490,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/francedot/NavAIGuide-TS">github</a></p>
 </div>
 
-<div>
-<b>Neets</b>
+### Neets
 <div><a href="https://neets.ai/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #fa4da0; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Voice Providers</span></div>
 
@@ -1661,8 +1499,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://neets.ai/">website</a> | <a href="https://docs.neets.ai/">docs</a></p>
 </div>
 
-<div>
-<b>NeMo Guardrails</b>
+### NeMo Guardrails
 <div><a href="https://github.com/NVIDIA/NeMo-Guardrails"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/NVIDIA/NeMo-Guardrails?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #d5a2a8; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Safety Guardrails (Safeguarding)</span></div>
 
@@ -1671,8 +1508,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/NVIDIA/NeMo-Guardrails">github</a> | <a href="https://arxiv.org/abs/2310.10501">research paper</a></p>
 </div>
 
-<div>
-<b>NexusGPT</b>
+### NexusGPT
 <div><a href="https://gpt.nexus/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #27f083; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">AI Agents</span></div>
 
@@ -1681,8 +1517,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://gpt.nexus/">website</a></p>
 </div>
 
-<div>
-<b>NPI</b>
+### NPI
 <div><a href="https://github.com/npi-ai/npi"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/npi-ai/npi?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #1a2b00; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Function Calling</span></div>
 
@@ -1691,8 +1526,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/npi-ai/npi">github</a> | <a href="https://www.npi.ai/">website</a> | <a href="https://www.npi.ai/docs">docs</a> | <a href="https://www.npi.ai/blog">blog</a></p>
 </div>
 
-<div>
-<b>Ollama</b>
+### Ollama
 <div><a href="https://github.com/ollama/ollama"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/ollama/ollama?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #0c5b53; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Local Inference</span></div>
 
@@ -1701,8 +1535,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/ollama/ollama">github</a> | <a href="https://github.com/ollama">github profile</a></p>
 </div>
 
-<div>
-<b>Open Assistant API</b>
+### Open Assistant API
 <div><a href="https://github.com/MLT-OSS/open-assistant-api"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/MLT-OSS/open-assistant-api?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #550e04; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Assistants API</span></div>
 
@@ -1711,8 +1544,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/MLT-OSS/open-assistant-api">github</a></p>
 </div>
 
-<div>
-<b>Open Interpreter</b>
+### Open Interpreter
 <div><a href="https://github.com/OpenInterpreter/open-interpreter"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/OpenInterpreter/open-interpreter?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #27f083; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">AI Agents</span></div>
 
@@ -1721,8 +1553,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/OpenInterpreter/open-interpreter">github</a></p>
 </div>
 
-<div>
-<b>Open Interpreter</b>
+### Open Interpreter
 <div><a href="https://github.com/OpenInterpreter/open-interpreter"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/OpenInterpreter/open-interpreter?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #034df0; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Operating System (OS)</span></div>
 
@@ -1731,8 +1562,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/OpenInterpreter/open-interpreter">github</a></p>
 </div>
 
-<div>
-<b>OpenAGI</b>
+### OpenAGI
 <div><a href="https://github.com/agiresearch/OpenAGI"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/agiresearch/OpenAGI?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #e8538a; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Development Frameworks</span></div>
 
@@ -1741,8 +1571,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/agiresearch/OpenAGI">github</a> | <a href="https://github.com/agiresearch">github profile</a></p>
 </div>
 
-<div>
-<b>OpenAI</b>
+### OpenAI
 <div><a href="https://openai.com"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #8f89f9; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Model Providers</span></div>
 
@@ -1751,8 +1580,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://openai.com">website</a> | <a href="https://platform.openai.com/docs/overview">docs</a></p>
 </div>
 
-<div>
-<b>OpenAI TTS</b>
+### OpenAI TTS
 <div><a href="https://platform.openai.com/docs/guides/text-to-speech"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #fa4da0; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Voice Providers</span></div>
 
@@ -1761,8 +1589,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://platform.openai.com/docs/guides/text-to-speech">docs</a></p>
 </div>
 
-<div>
-<b>OpenDevin</b>
+### OpenDevin
 <div><a href="https://github.com/OpenDevin/OpenDevin"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/OpenDevin/OpenDevin?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #27f083; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">AI Agents</span></div>
 
@@ -1771,8 +1598,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/OpenDevin/OpenDevin">github</a> | <a href="https://github.com/OpenDevin">github profile</a></p>
 </div>
 
-<div>
-<b>OpenGPTs</b>
+### OpenGPTs
 <div><a href="https://github.com/langchain-ai/opengpts"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/langchain-ai/opengpts?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #e8538a; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Development Frameworks</span></div>
 
@@ -1781,8 +1607,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/langchain-ai/opengpts">github</a></p>
 </div>
 
-<div>
-<b>OpenPipe</b>
+### OpenPipe
 <div><a href="https://x.com/AlexReibman/status/1772782206957895797"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #27f083; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">AI Agents</span></div>
 
@@ -1791,8 +1616,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://x.com/AlexReibman/status/1772782206957895797">demo</a></p>
 </div>
 
-<div>
-<b>OpenRecall</b>
+### OpenRecall
 <div><a href="https://github.com/openrecall/openrecall"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a></div>
 <div><span style="background-color: #09938d; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Personal Assistants</span></div>
 
@@ -1801,8 +1625,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/openrecall/openrecall">GitHub</a> | <a href="https://discord.gg/RzvCYRgUkx">Discord</a> | <a href="https://t.me/+5DULWTesqUYwYjY0">Telegram</a></p>
 </div>
 
-<div>
-<b>OpenRouter</b>
+### OpenRouter
 <div><a href="https://openrouter.ai/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #8f89f9; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Model Providers</span></div>
 
@@ -1811,8 +1634,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://openrouter.ai/">website</a> | <a href="https://openrouter.ai/docs">docs</a></p>
 </div>
 
-<div>
-<b>Outlines</b>
+### Outlines
 <div><a href="https://github.com/outlines-dev/outlines"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/outlines-dev/outlines?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #6d5a4a; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Structured Outputs</span></div>
 
@@ -1821,8 +1643,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/outlines-dev/outlines">github</a> | <a href="https://outlines-dev.github.io/outlines/">website</a> | <a href="https://discord.gg/ZxBxyWmW5n">discord</a></p>
 </div>
 
-<div>
-<b>Perplexity</b>
+### Perplexity
 <div><a href="https://www.perplexity.ai/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #8f89f9; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Model Providers</span></div>
 
@@ -1831,8 +1652,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://www.perplexity.ai/">website</a> | <a href="https://docs.perplexity.ai/">docs</a></p>
 </div>
 
-<div>
-<b>Perplexity-Inspired LLM Answer Engine</b>
+### Perplexity-Inspired LLM Answer Engine
 <div><a href="https://github.com/developersdigest/llm-answer-engine"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/developersdigest/llm-answer-engine?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #6d5a4a; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Structured Outputs</span></div>
 
@@ -1841,8 +1661,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/developersdigest/llm-answer-engine">github</a> | <a href="https://github.com/developersdigest">github profile</a></p>
 </div>
 
-<div>
-<b>Personal Assistant by HyperWrite</b>
+### Personal Assistant by HyperWrite
 <div><a href="https://www.hyperwriteai.com/personal-assistant"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #27f083; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">AI Agents</span></div>
 
@@ -1851,8 +1670,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://www.hyperwriteai.com/personal-assistant">website</a> | <a href="https://github.com/OthersideAI">github profile</a></p>
 </div>
 
-<div>
-<b>Pieces</b>
+### Pieces
 <div><a href="https://pieces.app/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #27f083; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">AI Agents</span></div>
 
@@ -1861,8 +1679,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://pieces.app/">website</a> | <a href="https://discord.gg/getpieces">discord</a></p>
 </div>
 
-<div>
-<b>Pinokio</b>
+### Pinokio
 <div><a href="https://github.com/pinokiocomputer/pinokio"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/pinokiocomputer/pinokio?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #0c5b53; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Local Inference</span></div>
 
@@ -1871,8 +1688,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://pinokio.computer/">website</a> | <a href="https://github.com/pinokiocomputer/pinokio">github</a> | <a href="https://github.com/pinokiocomputer">github profile</a></p>
 </div>
 
-<div>
-<b>PlayAI</b>
+### PlayAI
 <div><a href="https://play.ai/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #8f5605; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Phone Calling</span></div>
 
@@ -1881,8 +1697,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://play.ai/">website</a></p>
 </div>
 
-<div>
-<b>PlayHT</b>
+### PlayHT
 <div><a href="https://play.ht/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #fa4da0; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Voice Providers</span></div>
 
@@ -1891,8 +1706,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://play.ht/">website</a></p>
 </div>
 
-<div>
-<b>PraisonAI</b>
+### PraisonAI
 <div><a href="https://github.com/MervinPraison/PraisonAI/"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/MervinPraison/PraisonAI?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #e8538a; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Development Frameworks</span></div>
 
@@ -1901,8 +1715,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/MervinPraison/PraisonAI/">github</a> | <a href="https://www.youtube.com/watch?v=Fn1lQjC0GO0">demo</a> | <a href="https://mer.vin/2024/03/praison-ai-agents-yml/">website</a></p>
 </div>
 
-<div>
-<b>Priompt</b>
+### Priompt
 <div><a href="https://github.com/anysphere/priompt"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/anysphere/priompt?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #c53edd; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Prompt Engineering</span></div>
 
@@ -1911,8 +1724,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/anysphere/priompt">github</a></p>
 </div>
 
-<div>
-<b>PrivateGPT</b>
+### PrivateGPT
 <div><a href="https://github.com/zylon-ai/private-gpt/"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/zylon-ai/private-gpt?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #0c5b53; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Local Inference</span></div>
 
@@ -1921,8 +1733,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/zylon-ai/private-gpt/">github</a></p>
 </div>
 
-<div>
-<b>Produvia</b>
+### Produvia
 <div><a href="https://produvia.com/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #ffdcde; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Custom Development</span></div>
 
@@ -1931,8 +1742,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://produvia.com/">website</a> | <a href="https://twitter.com/produvia">twitter</a> | <a href="https://linkedin.com/company/produvia">linkedin</a></p>
 </div>
 
-<div>
-<b>Prompt2UI by sullyo</b>
+### Prompt2UI by sullyo
 <div><a href="https://github.com/sullyo/prompt2ui"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/sullyo/prompt2ui?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #8714c8; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">UI Development</span></div>
 
@@ -1941,8 +1751,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/sullyo/prompt2ui">github</a> | <a href="https://x.com/SullyOmarr/status/1804997474761003327">twitter announcement</a></p>
 </div>
 
-<div>
-<b>Pydantic</b>
+### Pydantic
 <div><a href="https://github.com/pydantic/pydantic"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/pydantic/pydantic?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #6d5a4a; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Structured Outputs</span></div>
 
@@ -1951,8 +1760,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/pydantic/pydantic">github</a> | <a href="https://docs.pydantic.dev/">website</a></p>
 </div>
 
-<div>
-<b>Relevance</b>
+### Relevance
 <div><a href="https://relevanceai.com/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #ab2e2a; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">No-Code Development Frameworks</span></div>
 
@@ -1961,8 +1769,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://relevanceai.com/">website</a> | <a href="https://twitter.com/RelevanceAI">twitter</a> | <a href="https://github.com/RelevanceAI">github profile</a> | <a href="https://www.linkedin.com/company/relevanceai/">linkedin</a></p>
 </div>
 
-<div>
-<b>Rime AI</b>
+### Rime AI
 <div><a href="https://rime.ai/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #fa4da0; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Voice Providers</span></div>
 
@@ -1971,8 +1778,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://rime.ai/">website</a></p>
 </div>
 
-<div>
-<b>ScrapeGraphAI</b>
+### ScrapeGraphAI
 <div><a href="https://github.com/VinciGit00/Scrapegraph-ai"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/VinciGit00/Scrapegraph-ai?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #e2765b; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Web Browsing Frameworks</span></div>
 
@@ -1981,8 +1787,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/VinciGit00/Scrapegraph-ai">github</a> | <a href="https://scrapegraph-doc.onrender.com/">docs</a> | <a href="https://scrapegraph-ai-demo.streamlit.appn/">demo</a></p>
 </div>
 
-<div>
-<b>Self Operating Computer</b>
+### Self Operating Computer
 <div><a href="https://github.com/OthersideAI/self-operating-computer"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/OthersideAI/self-operating-computer?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #034df0; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Operating System (OS)</span></div>
 
@@ -1991,8 +1796,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://www.hyperwriteai.com/self-operating-computer">landing page</a> | <a href="https://github.com/OthersideAI/self-operating-computer">github</a> | <a href="https://github.com/OthersideAI">github profile</a></p>
 </div>
 
-<div>
-<b>Self Operating Computer by Otherside</b>
+### Self Operating Computer by Otherside
 <div><a href="https://github.com/OthersideAI/self-operating-computer"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/OthersideAI/self-operating-computer?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #27f083; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">AI Agents</span></div>
 
@@ -2001,8 +1805,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://www.hyperwriteai.com/self-operating-computer">landing page</a> | <a href="https://github.com/OthersideAI/self-operating-computer">github</a> | <a href="https://github.com/OthersideAI">github profile</a></p>
 </div>
 
-<div>
-<b>Self Operating Computer by Otherside</b>
+### Self Operating Computer by Otherside
 <div><a href="https://github.com/OthersideAI/self-operating-computer"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/OthersideAI/self-operating-computer?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #27f083; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">AI Agents</span></div>
 
@@ -2011,8 +1814,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/OthersideAI/self-operating-computer">github</a> | <a href="https://github.com/OthersideAI">github profile</a></p>
 </div>
 
-<div>
-<b>ShortGPT by RayVentura</b>
+### ShortGPT by RayVentura
 <div><a href="https://github.com/RayVentura/ShortGPT"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/RayVentura/ShortGPT?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #27f083; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">AI Agents</span></div>
 
@@ -2021,8 +1823,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/RayVentura/ShortGPT">github</a> | <a href="https://github.com/RayVentura">github profile</a></p>
 </div>
 
-<div>
-<b>ShortX by RayVentura</b>
+### ShortX by RayVentura
 <div><a href="https://shortx.ai/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #27f083; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">AI Agents</span></div>
 
@@ -2031,8 +1832,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://shortx.ai/">website</a></p>
 </div>
 
-<div>
-<b>Streaming Assistants</b>
+### Streaming Assistants
 <div><a href="https://github.com/phact/streaming-assistants"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/phact/streaming-assistants?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #550e04; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Assistants API</span></div>
 
@@ -2041,8 +1841,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/phact/streaming-assistants">github</a></p>
 </div>
 
-<div>
-<b>Streamlit Agent by Langchain</b>
+### Streamlit Agent by Langchain
 <div><a href="https://github.com/langchain-ai/streamlit-agent"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/langchain-ai/streamlit-agent?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #e8538a; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Development Frameworks</span></div>
 
@@ -2051,8 +1850,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/langchain-ai/streamlit-agent">github</a> | <a href="https://github.com/langchain-ai">github profile</a></p>
 </div>
 
-<div>
-<b>Streamship</b>
+### Streamship
 <div><a href="https://github.com/steamship-core/python-client"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/steamship-core/python-client?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #e8538a; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Development Frameworks</span></div>
 
@@ -2061,8 +1859,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/steamship-core/python-client">github</a> | <a href="https://www.steamship.com/">website</a> | <a href="https://www.twitter.com/GetSteamship">twitter</a> | <a href="https://steamship.com/discord">discord</a> | <a href="https://www.github.com/steamship-core">github profile</a></p>
 </div>
 
-<div>
-<b>Superagent</b>
+### Superagent
 <div><a href="https://github.com/superagent-ai/superagent"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/superagent-ai/superagent?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #e8538a; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Development Frameworks</span></div>
 
@@ -2071,8 +1868,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/superagent-ai/superagent">github</a> | <a href="https://github.com/superagent-ai">github profile</a></p>
 </div>
 
-<div>
-<b>SuperAGI</b>
+### SuperAGI
 <div><a href="https://github.com/TransformerOptimus/SuperAGI"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #e8538a; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Development Frameworks</span></div>
 
@@ -2081,8 +1877,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/TransformerOptimus/SuperAGI">github</a> | <a href="https://github.com/TransformerOptimus">github profile</a></p>
 </div>
 
-<div>
-<b>Swarms</b>
+### Swarms
 <div><a href="https://github.com/kyegomez/swarms/"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/kyegomez/swarms?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #e8538a; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Development Frameworks</span></div>
 
@@ -2091,8 +1886,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/kyegomez/swarms/">github</a> | <a href="https://discord.gg/DbjBMJTSWD">discord</a> | <a href="https://swarms.apac.ai/">docs</a></p>
 </div>
 
-<div>
-<b>SWE-agent</b>
+### SWE-agent
 <div><a href="https://github.com/princeton-nlp/SWE-agent"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/princeton-nlp/SWE-agent?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #e8538a; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Development Frameworks</span></div>
 
@@ -2101,8 +1895,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/princeton-nlp/SWE-agent">github</a> | <a href="https://swe-agent.com/">website</a></p>
 </div>
 
-<div>
-<b>Sweep</b>
+### Sweep
 <div><a href="https://github.com/sweepai/sweep"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/sweepai/sweep?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #27f083; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">AI Agents</span></div>
 
@@ -2111,8 +1904,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/sweepai/sweep">github</a> | <a href="https://sweep.dev/">website</a></p>
 </div>
 
-<div>
-<b>Synthflow AI</b>
+### Synthflow AI
 <div><a href="https://synthflow.ai/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #8f5605; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Phone Calling</span></div>
 
@@ -2121,8 +1913,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://synthflow.ai/">website</a> | <a href="https://docs.synthflow.ai/">docs</a></p>
 </div>
 
-<div>
-<b>Tabby</b>
+### Tabby
 <div><a href="https://github.com/TabbyML/tabby"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/TabbyML/tabby?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #27f083; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">AI Agents</span></div>
 
@@ -2131,8 +1922,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/TabbyML/tabby">github</a> | <a href="https://tabby.tabbyml.com/">website</a> | <a href="https://tabby.tabbyml.com/docs">docs</a></p>
 </div>
 
-<div>
-<b>Talkscriber</b>
+### Talkscriber
 <div><a href="https://www.talkscriber.com"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #cfdca4; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Transcriber Providers</span></div>
 
@@ -2141,8 +1931,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://www.talkscriber.com">website</a></p>
 </div>
 
-<div>
-<b>Tarsier by Reworkd</b>
+### Tarsier by Reworkd
 <div><a href="https://github.com/reworkd/tarsier"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/reworkd/tarsier?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #e8538a; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Development Frameworks</span></div>
 
@@ -2151,8 +1940,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/reworkd/tarsier">github</a> | <a href="https://reworkd.ai/">website</a></p>
 </div>
 
-<div>
-<b>Taskade AI</b>
+### Taskade AI
 <div><a href="https://www.taskade.com/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #27f083; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">AI Agents</span></div>
 
@@ -2161,8 +1949,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://www.taskade.com/">website</a> | <a href="https://twitter.com/Taskade">twitter</a> | <a href="https://youtube.com/taskade">youtube</a></p>
 </div>
 
-<div>
-<b>TaskingAI</b>
+### TaskingAI
 <div><a href="https://github.com/TaskingAI/TaskingAI"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/TaskingAI/TaskingAI?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #e8538a; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Development Frameworks</span></div>
 
@@ -2171,8 +1958,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/TaskingAI/TaskingAI">github</a> | <a href="https://www.tasking.ai/">website</a></p>
 </div>
 
-<div>
-<b>Tavily</b>
+### Tavily
 <div><a href="https://tavily.com/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #27f083; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">AI Agents</span></div>
 
@@ -2181,8 +1967,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://tavily.com/">website</a> | <a href="https://github.com/assafelovic">github profile</a></p>
 </div>
 
-<div>
-<b>TeamX</b>
+### TeamX
 <div><a href="https://teamx.work/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #27f083; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">AI Agents</span></div>
 
@@ -2191,8 +1976,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://teamx.work/">website</a></p>
 </div>
 
-<div>
-<b>TogetherAI</b>
+### TogetherAI
 <div><a href="https://www.together.ai/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #8f89f9; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Model Providers</span></div>
 
@@ -2201,8 +1985,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://www.together.ai/">website</a> | <a href="https://docs.together.ai/docs/quickstart">docs</a></p>
 </div>
 
-<div>
-<b>Tools by Taskade</b>
+### Tools by Taskade
 <div><a href="https://help.taskade.com/en/articles/8958457-custom-ai-agents#h_c9a93fc5b9"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #1a2b00; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Function Calling</span></div>
 
@@ -2211,8 +1994,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://help.taskade.com/en/articles/8958457-custom-ai-agents#h_c9a93fc5b9">docs</a></p>
 </div>
 
-<div>
-<b>tortoise-tts</b>
+### tortoise-tts
 <div><a href="https://github.com/neonbjb/tortoise-tts"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/neonbjb/tortoise-tts?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #3f4682; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Voice Providers (TTS Models)</span></div>
 
@@ -2221,8 +2003,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/neonbjb/tortoise-tts">github</a> | <a href="https://arxiv.org/abs/2305.07243">research paper</a> | <a href="https://huggingface.co/spaces/Manmay/tortoise-tts">demo</a></p>
 </div>
 
-<div>
-<b>Traces by Weights & Biases</b>
+### Traces by Weights & Biases
 <div><a href="https://wandb.ai/site/traces"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #83c2f5; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Observability Frameworks</span></div>
 
@@ -2231,8 +2012,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://wandb.ai/site/traces">website</a></p>
 </div>
 
-<div>
-<b>Twilio</b>
+### Twilio
 <div><a href="https://www.twilio.com"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #a6ec79; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Phone Number Providers</span></div>
 
@@ -2241,8 +2021,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://www.twilio.com">website</a></p>
 </div>
 
-<div>
-<b>TypeChat</b>
+### TypeChat
 <div><a href="https://github.com/microsoft/TypeChat"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/microsoft/TypeChat?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #1a2b00; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Function Calling</span></div>
 
@@ -2251,8 +2030,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/microsoft/TypeChat">github</a></p>
 </div>
 
-<div>
-<b>uAgents by Fetch AI</b>
+### uAgents by Fetch AI
 <div><a href="https://github.com/fetchai/uAgents"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/fetchai/uAgents?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #e8538a; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Development Frameworks</span></div>
 
@@ -2261,8 +2039,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/fetchai/uAgents">github</a> | <a href="https://github.com/fetchai">github profile</a></p>
 </div>
 
-<div>
-<b>VacAIgent</b>
+### VacAIgent
 <div><a href="https://github.com/tonykipkemboi/trip_planner_agent"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/tonykipkemboi/trip_planner_agent?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #27f083; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">AI Agents</span></div>
 
@@ -2271,8 +2048,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/tonykipkemboi/trip_planner_agent">github</a></p>
 </div>
 
-<div>
-<b>Vapi</b>
+### Vapi
 <div><a href="https://vapi.ai/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #8f5605; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Phone Calling</span></div>
 
@@ -2281,8 +2057,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://vapi.ai/">website</a> | <a href="https://discord.gg/pUFNcf2WmH">discord</a> | <a href="https://twitter.com/Vapi_AI">twitter</a> | <a href="https://www.linkedin.com/company/vapi-ai">linkedin</a> | <a href="https://docs.vapi.ai">docs</a></p>
 </div>
 
-<div>
-<b>Vertex AI by Google</b>
+### Vertex AI by Google
 <div><a href="https://cloud.google.com/vertex-ai"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #ab2e2a; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">No-Code Development Frameworks</span></div>
 
@@ -2291,8 +2066,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://cloud.google.com/vertex-ai">website</a></p>
 </div>
 
-<div>
-<b>Verve</b>
+### Verve
 <div><a href="https://x.com/AnnieLiao_2000/status/1792175562712285645"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #a62299; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Build Club</span></div>
 
@@ -2301,8 +2075,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://x.com/AnnieLiao_2000/status/1792175562712285645">demo</a></p>
 </div>
 
-<div>
-<b>vimGPT</b>
+### vimGPT
 <div><a href="https://github.com/ishan0102/vimGPT"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/ishan0102/vimGPT?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #27f083; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">AI Agents</span></div>
 
@@ -2311,8 +2084,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/ishan0102/vimGPT">github</a> | <a href="https://github.com/ishan0102/vimGPT/tree/main?tab=readme-ov-file#vimgpt">demo</a> | <a href="https://news.ycombinator.com/item?id=38200308">hackernews</a></p>
 </div>
 
-<div>
-<b>Vonage</b>
+### Vonage
 <div><a href="https://vonage.com/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #a6ec79; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Phone Number Providers</span></div>
 
@@ -2321,8 +2093,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://vonage.com/">website</a></p>
 </div>
 
-<div>
-<b>Waii</b>
+### Waii
 <div><a href="https://x.com/AlexReibman/status/1772777493122163107"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <div><span style="background-color: #27f083; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">AI Agents</span></div>
 
@@ -2331,8 +2102,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://x.com/AlexReibman/status/1772777493122163107">demo</a></p>
 </div>
 
-<div>
-<b>XAgent</b>
+### XAgent
 <div><a href="https://github.com/OpenBMB/XAgent"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/OpenBMB/XAgent?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #27f083; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">AI Agents</span></div>
 
@@ -2341,8 +2111,7 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/OpenBMB/XAgent">github</a> | <a href="https://www.youtube.com/watch?v=QGkpd-tsFPA">demo</a> | <a href="https://xagent-doc.readthedocs.io/en/latest/">docs</a> | <a href="https://blog.x-agent.net/blog/xagent/">blog</a></p>
 </div>
 
-<div>
-<b>Zep</b>
+### Zep
 <div><a href="https://github.com/getzep/zep/"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <img src="https://img.shields.io/github/stars/getzep/zep?style=social" alt="GitHub stars"></div>
 <div><span style="background-color: #85568a; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">Long-Term Memory</span></div>
 

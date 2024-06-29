@@ -9,15 +9,17 @@
 <a href="https://twitter.com/slavakurilyak">🐦 Twitter</a> | <a href="https://linkedin.com/in/slavakurilyak">💼 LinkedIn</a> | <a href="https://github.com/slavakurilyak">🐙 Github</a>
 </p>
 
-This project tracks the latest agentic AI projects and provides a list of 100+ resources, curated by Slava Kurilyak
+This project tracks the latest agentic AI projects and provides a list of 200+ resources, curated by Slava Kurilyak
 
-## Wait But Why
+**Wait But Why**
 
-AI agents outperform LLMs
+AI agents outperform traditional LLMs
 
-According to [Andrew Ng (@andrewyng)](https://github.com/andrewyng), "GPT-3.5 with an agentic workflow actually outperforms GPT-4"
+According to [Andrew Ng (@andrewyng)](https://github.com/andrewyng):
 
-## AI Agents
+> "GPT-3.5 with an agentic workflow actually outperforms GPT-4"
+
+## Awesome AI Agents
 
 Here's an awesome list of AI agents:
 
