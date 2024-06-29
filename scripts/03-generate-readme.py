@@ -81,7 +81,7 @@ def format_project(project: Project) -> str:
     github_stars_badge = next((get_github_stars_badge(source) for source in project.sources if source.source == "github"), "")
     
     badges = f"{open_source_badge} {github_stars_badge}".strip()
-    categories = " ".join([f'`{category} {get_category_color(category)}`' for category in project.categories])
+    categories = " | ".join([f'`{category}`' for category in project.categories])
     
     full_sources = format_sources(project.sources)
     
