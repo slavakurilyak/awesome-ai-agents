@@ -53,10 +53,6 @@ def format_sources(sources: List[Source]) -> str:
         formatted_sources.append(source_str)
     return ' | '.join(formatted_sources)
 
-def get_category_color(category: str) -> str:
-    hash_value = hashlib.md5(category.encode()).hexdigest()
-    return hash_value[:6]
-
 def get_badge_url(project: Project) -> str:
     github_url = next((source.source_url for source in project.sources if source.source == "github"), None)
     if github_url:
@@ -74,14 +70,64 @@ def get_github_stars_badge(source: Source) -> str:
         logging.error(f"Error generating GitHub stars badge: {str(e)}")
         return ""
 
-def format_project(project: Project) -> str:
+category_emojis = {
+    "AI Agents": "🤖",
+    "Build Club": "🛠️",
+    "Long-Term Memory": "🧠",
+    "Development Frameworks": "⚙️",
+    "No-Code Development Frameworks": "🚫💻",
+    "Evaluation Frameworks": "📊",
+    "Observability Frameworks": "👁️",
+    "Mobile-Friendly Frameworks": "📱",
+    "Phone Calling": "📞",
+    "Voice Providers": "🗣️",
+    "TTS Models": "🔊",
+    "Transcriber Providers": "🎙️",
+    "Local Inference": "💻",
+    "Real-Time": "⚡",
+    "Reinforcement Learning Frameworks": "🔄",
+    "Standardization": "📏",
+    "Bitcoin": "₿",
+    "Hardware (Wearables)": "⌚",
+    "Operating System (OS)": "💻",
+    "Safety Guardrails (Safeguarding)": "🛡️",
+    "Structured Outputs": "🏗️",
+    "Model Merges": "🔀",
+    "Tool Calling (Function Calling)": "🔧",
+    "UI Development": "🖥️",
+    "Model Providers": "🧠",
+    "Model Providers With Function Calling Support": "🧠🔧",
+    "Prompt Engineering": "✍️",
+    "LLM-Friendly Languages": "🗣️",
+    "Phone Number Providers": "☎️",
+    "Web Browsing Frameworks": "🌐",
+    "Flow Engineering (Platform Engineering)": "🔄",
+    "Terminal-Friendly": "💻",
+    "Assistants API": "🤖",
+    "Personal Assistants": "👤",
+    "Custom Development": "🛠️"
+}
+
+def generate_sections(data: JsonData) -> str:
+    projects_dict = defaultdict(lambda: {"project": None, "categories": set()})
+    
+    for project in data.agents:
+        key = project.project.lower()
+        if not projects_dict[key]["project"]:
+            projects_dict[key]["project"] = project
+        projects_dict[key]["categories"].update(project.categories)
+    
+    sorted_projects = sorted(projects_dict.values(), key=lambda x: x["project"].project.lower())
+    return '\n'.join(format_project(p["project"], list(p["categories"])) for p in sorted_projects)
+
+def format_project(project: Project, all_categories: List[str]) -> str:
     badge_url = next((source.source_url for source in project.sources if source.source == "github"), next((source.source_url for source in project.sources), ""))
     open_source_badge = f'<a href="{badge_url}"><img src="https://img.shields.io/badge/Open%20Source-{"Yes" if project.project_is_open_source else "No"}-{"green" if project.project_is_open_source else "red"}" alt="Open Source"></a>'
     
     github_stars_badge = next((get_github_stars_badge(source) for source in project.sources if source.source == "github"), "")
     
     badges = f"{open_source_badge} {github_stars_badge}".strip()
-    categories = " | ".join([f'`{category}`' for category in project.categories])
+    categories = " | ".join([f'{category_emojis.get(category, "")} {category}' for category in all_categories])
     
     full_sources = format_sources(project.sources)
     
@@ -94,10 +140,6 @@ def format_project(project: Project) -> str:
 <p>{full_sources}</p>
 </div>
 """
-
-def generate_sections(data: JsonData) -> str:
-    projects = sorted(data.agents, key=lambda x: x.project.lower())
-    return '\n'.join(map(format_project, projects))
 
 def load_template(template_file: str) -> str:
     with open(template_file, 'r') as file:
