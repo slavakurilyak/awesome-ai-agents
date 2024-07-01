@@ -2066,6 +2066,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://x.com/AlexReibman/status/1772777493122163107">demo</a></p>
 </div>
 
+### Wordware
+<div><a href="https://www.wordware.ai"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
+<p>🤖 AI Agents</p>
+
+<p>A web-hosted IDE where non-technical domain experts work with AI Engineers to build task-specific AI agents. It approaches prompting as a new programming language rather than low/no-code blocks.</p>
+
+<p><a href="https://app.wordware.ai/">demo</a></p>
+</div>
+
 ### XAgent
 <div><a href="https://github.com/OpenBMB/XAgent"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/OpenBMB/XAgent"><img src="https://img.shields.io/github/stars/OpenBMB/XAgent?style=social" alt="GitHub stars"></a></div>
 <p>🤖 AI Agents</p>
