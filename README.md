@@ -473,15 +473,6 @@ Here's an awesome list of AI agents:
 <p><a href="https://www.nurgo-software.com/products/brainsoup">website</a> | <a href="https://help.nurgo-software.com/collection/148-brainsoup">docs</a> | <a href="https://twitter.com/Nurgo">twitter</a> | <a href="https://discord.gg/xt7PyCnH9S">discord</a></p>
 </div>
 
-### Bring Claude's Artifacts feature to ChatGPT which allows you to execute Node.js commands on your ChatGPT Artifacts projects, inspired by Claude's Artifacts
-<div><a href="https://github.com/ozgrozer/chatgpt-artifacts"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/ozgrozer/chatgpt-artifacts"><img src="https://img.shields.io/github/stars/ozgrozer/chatgpt-artifacts?style=social" alt="GitHub stars"></a></div>
-<p>🖥️ UI Development</p>
-
-<p>No description provided.</p>
-
-<p><a href="https://github.com/ozgrozer/chatgpt-artifacts">github</a> | <a href="https://x.com/ozgrozer/status/1808677091996541251">twitter announcement</a></p>
-</div>
-
 ### Browserbase
 <div><a href="https://twitter.com/browserbasehq"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <p>🌐 Web Browsing Frameworks</p>
@@ -570,6 +561,15 @@ Here's an awesome list of AI agents:
 <p>ChatGPT is an AI language model designed to understand and generate human-like text, facilitating conversation and assisting with various tasks</p>
 
 <p><a href="https://chatgpt.com/">website</a></p>
+</div>
+
+### chatgpt-artifacts
+<div><a href="https://github.com/ozgrozer/chatgpt-artifacts"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/ozgrozer/chatgpt-artifacts"><img src="https://img.shields.io/github/stars/ozgrozer/chatgpt-artifacts?style=social" alt="GitHub stars"></a></div>
+<p>🖥️ UI Development</p>
+
+<p>Bring Claude's Artifacts feature to ChatGPT which allows you to execute Node.js commands on your ChatGPT Artifacts projects, inspired by Claude's Artifacts</p>
+
+<p><a href="https://github.com/ozgrozer/chatgpt-artifacts">github</a> | <a href="https://x.com/ozgrozer/status/1808677091996541251">twitter announcement</a></p>
 </div>
 
 ### Claude 3 Artifacts by PierrunoYT
@@ -1033,7 +1033,7 @@ Here's an awesome list of AI agents:
 
 ### Groq
 <div><a href="https://groq.com/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
-<p>🧠 Model Providers | 🧠🔧 Model Providers With Function Calling Support</p>
+<p>🧠🔧 Model Providers With Function Calling Support | 🧠 Model Providers</p>
 
 <p>GroqCloud API endpoints support tool use for programmatic execution of specified operations through requests with explicitly defined operations, allowing Groq API model endpoints to deliver structured JSON output that can be used to directly invoke functions from desired codebases; these following models powered by Groq all support tool use: `llama3-70b`, `llama3-8b`, `mixtral-8x7b`, `gemma-7b-it`; parallel tool calling is enabled for both Llama3 models</p>
 
