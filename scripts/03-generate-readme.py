@@ -1,6 +1,6 @@
 import json
 from collections import defaultdict
-from typing import List, Dict
+from typing import List, Dict, Optional
 from pydantic import BaseModel, Field, ValidationError, conlist
 import hashlib
 import logging
@@ -17,7 +17,7 @@ class Source(BaseModel):
 
 class Project(BaseModel):
     project: str
-    project_description: str
+    project_description: Optional[str] = None
     project_is_open_source: bool
     categories: List[str] = Field(default_factory=list)
     sources: conlist(Source, min_length=1)
@@ -113,11 +113,13 @@ def format_project(project: Project, all_categories: List[str], category_emojis:
     
     full_sources = format_sources(project.sources)
     
+    description = project.project_description or "No description provided."
+    
     return f"""### {project.project}
 <div>{badges}</div>
 <p>{categories}</p>
 
-<p>{project.project_description}</p>
+<p>{description}</p>
 
 <p>{full_sources}</p>
 </div>
