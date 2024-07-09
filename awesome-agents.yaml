@@ -2581,3 +2581,14 @@
       source_url: "https://linkedin.com/company/produvia"
   categories:
     - "Custom Development"
+
+- project: "chatgpt-artifacts"
+  project: "Bring Claude's Artifacts feature to ChatGPT which allows you to execute Node.js commands on your ChatGPT Artifacts projects, inspired by Claude's Artifacts"
+  project_is_open_source: true
+  sources:
+    - source: "github"
+      source_url: "https://github.com/ozgrozer/chatgpt-artifacts"
+    - source: "twitter announcement"
+      source_url: "https://x.com/ozgrozer/status/1808677091996541251"
+  categories:
+    - "UI Development"
