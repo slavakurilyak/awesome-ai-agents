@@ -2583,7 +2583,7 @@
     - "Custom Development"
 
 - project: "chatgpt-artifacts"
-  project: "Bring Claude's Artifacts feature to ChatGPT which allows you to execute Node.js commands on your ChatGPT Artifacts projects, inspired by Claude's Artifacts"
+  project_description: "Bring Claude's Artifacts feature to ChatGPT which allows you to execute Node.js commands on your ChatGPT Artifacts projects, inspired by Claude's Artifacts"
   project_is_open_source: true
   sources:
     - source: "github"
