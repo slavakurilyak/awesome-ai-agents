@@ -50,10 +50,8 @@
       "project_is_open_source": true,
       "sources": [
         {
-          "source": "github",
-          "source_url": "https://github.com/VRSEN/agency-swarm/tree/main/agency_swarm/agents/Devid",
-          "stars": 2052,
-          "stars_last_updated": "2024-06-29T13:18:46.246039"
+          "source": "code",
+          "source_url": "https://github.com/VRSEN/agency-swarm/tree/main/agency_swarm/agents/Devid"
         },
         {
           "source": "video",
@@ -70,10 +68,8 @@
       "project_is_open_source": true,
       "sources": [
         {
-          "source": "github",
-          "source_url": "https://github.com/VRSEN/agency-swarm/tree/main/agency_swarm/agents/BrowsingAgent",
-          "stars": 2052,
-          "stars_last_updated": "2024-06-29T13:18:46.860304"
+          "source": "code",
+          "source_url": "https://github.com/VRSEN/agency-swarm/tree/main/agency_swarm/agents/BrowsingAgent"
         },
         {
           "source": "video",
@@ -110,8 +106,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/OpenDevin/OpenDevin",
-          "stars": 28141,
-          "stars_last_updated": "2024-06-29T13:18:47.473911"
+          "stars": 28541,
+          "stars_last_updated": "2024-07-09T09:48:48.099323"
         },
         {
           "source": "github profile",
@@ -130,8 +126,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/stitionai/devika",
-          "stars": 17802,
-          "stars_last_updated": "2024-06-29T13:18:49.421191"
+          "stars": 17873,
+          "stars_last_updated": "2024-07-09T09:48:48.683628"
         },
         {
           "source": "demo",
@@ -154,8 +150,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/semanser/codel",
-          "stars": 1979,
-          "stars_last_updated": "2024-06-29T13:18:51.467752"
+          "stars": 1999,
+          "stars_last_updated": "2024-07-09T09:48:49.428773"
         },
         {
           "source": "announcement",
@@ -174,8 +170,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/Pythagora-io/gpt-pilot",
-          "stars": 29036,
-          "stars_last_updated": "2024-06-29T13:18:52.184451"
+          "stars": 29097,
+          "stars_last_updated": "2024-07-09T09:48:50.143560"
         },
         {
           "source": "discord",
@@ -194,8 +190,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/entropy-research/Devon",
-          "stars": 2205,
-          "stars_last_updated": "2024-06-29T13:18:52.801752"
+          "stars": 2370,
+          "stars_last_updated": "2024-07-09T09:48:50.790729"
         }
       ],
       "categories": [
@@ -210,8 +206,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/unit-mesh/auto-dev",
-          "stars": 2545,
-          "stars_last_updated": "2024-06-29T13:18:53.413061"
+          "stars": 2574,
+          "stars_last_updated": "2024-07-09T09:48:51.474607"
         },
         {
           "source": "docs",
@@ -230,8 +226,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/ishan0102/vimGPT",
-          "stars": 2544,
-          "stars_last_updated": "2024-06-29T13:18:54.028840"
+          "stars": 2551,
+          "stars_last_updated": "2024-07-09T09:48:52.045794"
         },
         {
           "source": "demo",
@@ -283,7 +279,7 @@
           "source": "github",
           "source_url": "https://github.com/onepointconsulting/data-questionnaire-agent",
           "stars": 59,
-          "stars_last_updated": "2024-06-29T13:18:54.642297"
+          "stars_last_updated": "2024-07-09T09:48:52.704505"
         }
       ],
       "categories": [
@@ -403,7 +399,7 @@
           "source": "github",
           "source_url": "https://github.com/sullyo/fingen",
           "stars": 81,
-          "stars_last_updated": "2024-06-29T13:18:55.258479"
+          "stars_last_updated": "2024-07-09T09:48:53.315592"
         }
       ],
       "categories": [
@@ -422,8 +418,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/OthersideAI/self-operating-computer",
-          "stars": 8184,
-          "stars_last_updated": "2024-06-29T13:18:55.972178"
+          "stars": 8215,
+          "stars_last_updated": "2024-07-09T09:48:53.932255"
         },
         {
           "source": "github profile",
@@ -470,8 +466,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/OpenInterpreter/open-interpreter",
-          "stars": 50488,
-          "stars_last_updated": "2024-06-29T13:18:56.588139"
+          "stars": 50746,
+          "stars_last_updated": "2024-07-09T09:48:54.546936"
         }
       ],
       "categories": [
@@ -500,8 +496,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/RayVentura/ShortGPT",
-          "stars": 5244,
-          "stars_last_updated": "2024-06-29T13:18:57.137924"
+          "stars": 5277,
+          "stars_last_updated": "2024-07-09T09:48:55.190436"
         },
         {
           "source": "github profile",
@@ -534,8 +530,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/gpt-engineer-org/gpt-engineer",
-          "stars": 51269,
-          "stars_last_updated": "2024-06-29T13:20:13.080899"
+          "stars": 51370,
+          "stars_last_updated": "2024-07-09T09:48:55.855876"
         },
         {
           "source": "github profile",
@@ -558,8 +554,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/OthersideAI/self-operating-computer",
-          "stars": 8184,
-          "stars_last_updated": "2024-06-29T13:20:13.695069"
+          "stars": 8215,
+          "stars_last_updated": "2024-07-09T09:48:56.492304"
         },
         {
           "source": "github profile",
@@ -596,8 +592,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/Significant-Gravitas/AutoGPT",
-          "stars": 163479,
-          "stars_last_updated": "2024-06-29T13:20:14.309257"
+          "stars": 163752,
+          "stars_last_updated": "2024-07-09T09:48:57.210925"
         },
         {
           "source": "github profile",
@@ -638,8 +634,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/yoheinakajima/babyagi",
-          "stars": 19612,
-          "stars_last_updated": "2024-06-29T13:20:14.927356"
+          "stars": 19655,
+          "stars_last_updated": "2024-07-09T09:48:57.779917"
         },
         {
           "source": "github profile",
@@ -658,8 +654,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/assafelovic/gpt-researcher",
-          "stars": 12966,
-          "stars_last_updated": "2024-06-29T13:20:15.538212"
+          "stars": 13091,
+          "stars_last_updated": "2024-07-09T09:48:58.443881"
         },
         {
           "source": "github profile",
@@ -678,8 +674,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/rotemweiss57/gpt-newspaper",
-          "stars": 1091,
-          "stars_last_updated": "2024-06-29T13:20:16.152404"
+          "stars": 1101,
+          "stars_last_updated": "2024-07-09T09:48:59.155001"
         },
         {
           "source": "github profile",
@@ -716,8 +712,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/mayt/BrowserGPT",
-          "stars": 351,
-          "stars_last_updated": "2024-06-29T13:20:16.766638"
+          "stars": 354,
+          "stars_last_updated": "2024-07-09T09:48:59.728921"
         },
         {
           "source": "github profile",
@@ -768,8 +764,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/calcom/cal.com/tree/main/apps/ai",
-          "stars": 29695,
-          "stars_last_updated": "2024-06-29T13:20:17.381685"
+          "stars": 29843,
+          "stars_last_updated": "2024-07-09T09:49:00.312249"
         }
       ],
       "categories": [
@@ -784,8 +780,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/BloopAI/bloop",
-          "stars": 9287,
-          "stars_last_updated": "2024-06-29T13:20:17.995079"
+          "stars": 9303,
+          "stars_last_updated": "2024-07-09T09:49:01.008270"
         }
       ],
       "categories": [
@@ -804,8 +800,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/sourcegraph/cody",
-          "stars": 2216,
-          "stars_last_updated": "2024-06-29T13:21:47.690564"
+          "stars": 2268,
+          "stars_last_updated": "2024-07-09T09:49:01.676780"
         }
       ],
       "categories": [
@@ -820,8 +816,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/TabbyML/tabby",
-          "stars": 18248,
-          "stars_last_updated": "2024-06-29T13:21:48.262070"
+          "stars": 18352,
+          "stars_last_updated": "2024-07-09T09:49:02.431569"
         },
         {
           "source": "website",
@@ -844,8 +840,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/continuedev/continue",
-          "stars": 12957,
-          "stars_last_updated": "2024-06-29T13:21:48.927707"
+          "stars": 13262,
+          "stars_last_updated": "2024-07-09T09:49:03.087674"
         },
         {
           "source": "website",
@@ -882,8 +878,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/sweepai/sweep",
-          "stars": 7259,
-          "stars_last_updated": "2024-06-29T13:21:49.643621"
+          "stars": 7284,
+          "stars_last_updated": "2024-07-09T09:49:03.762267"
         },
         {
           "source": "website",
@@ -920,8 +916,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/paul-gauthier/aider",
-          "stars": 12470,
-          "stars_last_updated": "2024-06-29T13:21:50.257873"
+          "stars": 12964,
+          "stars_last_updated": "2024-07-09T09:49:04.409587"
         }
       ],
       "categories": [
@@ -954,8 +950,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/tonykipkemboi/trip_planner_agent",
-          "stars": 67,
-          "stars_last_updated": "2024-06-29T13:22:34.528062"
+          "stars": 69,
+          "stars_last_updated": "2024-07-09T09:49:05.092572"
         }
       ],
       "categories": [
@@ -970,8 +966,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/OpenBMB/XAgent",
-          "stars": 7811,
-          "stars_last_updated": "2024-06-29T13:22:35.086328"
+          "stars": 7843,
+          "stars_last_updated": "2024-07-09T09:49:05.809654"
         },
         {
           "source": "demo",
@@ -1046,8 +1042,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/mshumer/ai-researcher",
-          "stars": 854,
-          "stars_last_updated": "2024-06-29T13:22:35.724323"
+          "stars": 861,
+          "stars_last_updated": "2024-07-09T09:49:06.459127"
         },
         {
           "source": "announcement",
@@ -1093,7 +1089,7 @@
           "source": "github",
           "source_url": "https://github.com/allenai/clin",
           "stars": 71,
-          "stars_last_updated": "2024-06-29T13:22:36.338279"
+          "stars_last_updated": "2024-07-09T09:49:07.143291"
         },
         {
           "source": "research paper",
@@ -1126,8 +1122,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/statelyai/agent/",
-          "stars": 104,
-          "stars_last_updated": "2024-06-29T13:23:44.332383"
+          "stars": 107,
+          "stars_last_updated": "2024-07-09T09:49:07.743602"
         },
         {
           "source": "website",
@@ -1222,8 +1218,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/cpacker/MemGPT/",
-          "stars": 10692,
-          "stars_last_updated": "2024-06-29T13:23:44.893462"
+          "stars": 10788,
+          "stars_last_updated": "2024-07-09T09:49:09.304139"
         }
       ],
       "categories": [
@@ -1242,8 +1238,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/getzep/zep/",
-          "stars": 2120,
-          "stars_last_updated": "2024-06-29T13:24:12.435649"
+          "stars": 2149,
+          "stars_last_updated": "2024-07-09T09:49:10.008410"
         }
       ],
       "categories": [
@@ -1258,8 +1254,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/kyegomez/swarms/",
-          "stars": 869,
-          "stars_last_updated": "2024-06-29T13:24:13.105461"
+          "stars": 900,
+          "stars_last_updated": "2024-07-09T09:49:10.727320"
         },
         {
           "source": "discord",
@@ -1304,8 +1300,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/agentic-ai/enact",
-          "stars": 62,
-          "stars_last_updated": "2024-06-29T13:24:13.720186"
+          "stars": 64,
+          "stars_last_updated": "2024-07-09T09:49:11.338436"
         }
       ],
       "categories": [
@@ -1320,8 +1316,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/allenai/lumos",
-          "stars": 423,
-          "stars_last_updated": "2024-06-29T13:24:14.334730"
+          "stars": 425,
+          "stars_last_updated": "2024-07-09T09:49:11.929009"
         },
         {
           "source": "website",
@@ -1340,8 +1336,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/TaskingAI/TaskingAI",
-          "stars": 5759,
-          "stars_last_updated": "2024-06-29T13:24:14.949010"
+          "stars": 5832,
+          "stars_last_updated": "2024-07-09T09:49:12.674651"
         },
         {
           "source": "website",
@@ -1360,8 +1356,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/smartcomputer-ai/agent-os",
-          "stars": 81,
-          "stars_last_updated": "2024-06-29T13:25:20.075944"
+          "stars": 83,
+          "stars_last_updated": "2024-07-09T09:49:13.351050"
         }
       ],
       "categories": [
@@ -1376,8 +1372,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/zjunlp/AutoAct",
-          "stars": 132,
-          "stars_last_updated": "2024-06-29T13:25:20.642683"
+          "stars": 136,
+          "stars_last_updated": "2024-07-09T09:49:14.002436"
         },
         {
           "source": "website",
@@ -1396,8 +1392,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/princeton-nlp/SWE-agent",
-          "stars": 11836,
-          "stars_last_updated": "2024-06-29T13:25:21.306416"
+          "stars": 11902,
+          "stars_last_updated": "2024-07-09T09:49:14.614476"
         },
         {
           "source": "website",
@@ -1434,8 +1430,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/axflow/axflow",
-          "stars": 1088,
-          "stars_last_updated": "2024-06-29T13:25:21.918628"
+          "stars": 1087,
+          "stars_last_updated": "2024-07-09T09:49:15.264649"
         }
       ],
       "categories": [
@@ -1450,8 +1446,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/Josh-XT/AGiXT",
-          "stars": 2527,
-          "stars_last_updated": "2024-06-29T13:25:22.532853"
+          "stars": 2538,
+          "stars_last_updated": "2024-07-09T09:49:15.946572"
         },
         {
           "source": "website",
@@ -1470,8 +1466,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/topoteretes/cognee",
-          "stars": 739,
-          "stars_last_updated": "2024-06-29T13:25:23.114022"
+          "stars": 753,
+          "stars_last_updated": "2024-07-09T09:49:16.666898"
         }
       ],
       "categories": [
@@ -1486,8 +1482,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/HumanSignal/Adala",
-          "stars": 847,
-          "stars_last_updated": "2024-06-29T13:26:52.014542"
+          "stars": 853,
+          "stars_last_updated": "2024-07-09T09:49:17.381786"
         }
       ],
       "categories": [
@@ -1534,8 +1530,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/reworkd/tarsier",
-          "stars": 1228,
-          "stars_last_updated": "2024-06-29T13:26:52.643854"
+          "stars": 1246,
+          "stars_last_updated": "2024-07-09T09:49:18.101612"
         },
         {
           "source": "website",
@@ -1554,8 +1550,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/reworkd/AgentGPT",
-          "stars": 30518,
-          "stars_last_updated": "2024-06-29T13:26:53.358990"
+          "stars": 30598,
+          "stars_last_updated": "2024-07-09T09:49:18.742249"
         },
         {
           "source": "github profile",
@@ -1574,8 +1570,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/agentlabs-inc/agentlabs",
-          "stars": 405,
-          "stars_last_updated": "2024-06-29T13:26:53.948540"
+          "stars": 408,
+          "stars_last_updated": "2024-07-09T09:49:19.360788"
         },
         {
           "source": "website",
@@ -1598,8 +1594,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/VRSEN/agency-swarm",
-          "stars": 2052,
-          "stars_last_updated": "2024-06-29T13:26:54.590859"
+          "stars": 2085,
+          "stars_last_updated": "2024-07-09T09:49:20.029507"
         }
       ],
       "categories": [
@@ -1628,8 +1624,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/langchain-ai/langchain",
-          "stars": 88239,
-          "stars_last_updated": "2024-06-29T13:26:55.165554"
+          "stars": 88806,
+          "stars_last_updated": "2024-07-09T09:49:20.645507"
         }
       ],
       "categories": [
@@ -1644,8 +1640,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/langchain-ai/langchainjs",
-          "stars": 11712,
-          "stars_last_updated": "2024-06-29T13:26:55.732447"
+          "stars": 11801,
+          "stars_last_updated": "2024-07-09T09:49:21.227058"
         }
       ],
       "categories": [
@@ -1660,8 +1656,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/langchain-ai/langgraph",
-          "stars": 4070,
-          "stars_last_updated": "2024-06-29T13:26:56.287849"
+          "stars": 4277,
+          "stars_last_updated": "2024-07-09T09:49:21.810835"
         }
       ],
       "categories": [
@@ -1676,8 +1672,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/langchain-ai/langgraphjs",
-          "stars": 268,
-          "stars_last_updated": "2024-06-29T13:26:56.856200"
+          "stars": 303,
+          "stars_last_updated": "2024-07-09T09:49:22.406408"
         }
       ],
       "categories": [
@@ -1692,8 +1688,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/langchain-ai/opengpts",
-          "stars": 6294,
-          "stars_last_updated": "2024-06-29T13:26:57.457906"
+          "stars": 6310,
+          "stars_last_updated": "2024-07-09T09:49:23.008049"
         }
       ],
       "categories": [
@@ -1708,8 +1704,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/langchain-ai/langserve",
-          "stars": 1748,
-          "stars_last_updated": "2024-06-29T13:26:58.073838"
+          "stars": 1775,
+          "stars_last_updated": "2024-07-09T09:49:23.587540"
         }
       ],
       "categories": [
@@ -1724,8 +1720,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/microsoft/autogen",
-          "stars": 27915,
-          "stars_last_updated": "2024-06-29T13:26:58.686304"
+          "stars": 28217,
+          "stars_last_updated": "2024-07-09T09:49:24.240286"
         },
         {
           "source": "video",
@@ -1744,8 +1740,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/microsoft/autogen",
-          "stars": 27915,
-          "stars_last_updated": "2024-06-29T13:26:59.301602"
+          "stars": 28217,
+          "stars_last_updated": "2024-07-09T09:49:24.865240"
         },
         {
           "source": "website",
@@ -1772,8 +1768,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/microsoft/JARVIS",
-          "stars": 23303,
-          "stars_last_updated": "2024-06-29T13:26:59.915247"
+          "stars": 23336,
+          "stars_last_updated": "2024-07-09T09:49:25.572076"
         }
       ],
       "categories": [
@@ -1788,8 +1784,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/TransformerOptimus/SuperAGI",
-          "stars": 14888,
-          "stars_last_updated": "2024-06-29T13:27:00.529760"
+          "stars": 14940,
+          "stars_last_updated": "2024-07-09T09:49:26.220659"
         },
         {
           "source": "github profile",
@@ -1808,8 +1804,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/OpenBMB/ChatDev",
-          "stars": 24300,
-          "stars_last_updated": "2024-06-29T13:27:01.143560"
+          "stars": 24412,
+          "stars_last_updated": "2024-07-09T09:49:26.904134"
         },
         {
           "source": "github profile",
@@ -1828,8 +1824,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/geekan/MetaGPT",
-          "stars": 41286,
-          "stars_last_updated": "2024-06-29T13:27:01.696601"
+          "stars": 41517,
+          "stars_last_updated": "2024-07-09T09:49:27.621162"
         },
         {
           "source": "github profile",
@@ -1848,8 +1844,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/deepset-ai/haystack",
-          "stars": 14454,
-          "stars_last_updated": "2024-06-29T13:27:02.278219"
+          "stars": 14570,
+          "stars_last_updated": "2024-07-09T09:49:28.336604"
         },
         {
           "source": "github profile",
@@ -1868,8 +1864,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/joaomdmoura/crewai",
-          "stars": 16625,
-          "stars_last_updated": "2024-06-29T13:27:02.886536"
+          "stars": 17050,
+          "stars_last_updated": "2024-07-09T09:49:28.952866"
         },
         {
           "source": "github profile",
@@ -1902,8 +1898,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/eosphoros-ai/DB-GPT",
-          "stars": 12255,
-          "stars_last_updated": "2024-06-29T13:27:03.500540"
+          "stars": 12439,
+          "stars_last_updated": "2024-07-09T09:49:29.668608"
         },
         {
           "source": "github profile",
@@ -1922,8 +1918,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/kuafuai/DevOpsGPT",
-          "stars": 6399,
-          "stars_last_updated": "2024-06-29T13:27:04.097620"
+          "stars": 6417,
+          "stars_last_updated": "2024-07-09T09:49:30.252644"
         },
         {
           "source": "github profile",
@@ -1942,8 +1938,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/e2b-dev/E2B",
-          "stars": 6316,
-          "stars_last_updated": "2024-06-29T13:27:04.716792"
+          "stars": 6344,
+          "stars_last_updated": "2024-07-09T09:49:31.018100"
         },
         {
           "source": "github profile",
@@ -1962,8 +1958,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/aiwaves-cn/agents",
-          "stars": 4711,
-          "stars_last_updated": "2024-06-29T13:27:05.342297"
+          "stars": 4766,
+          "stars_last_updated": "2024-07-09T09:49:31.715741"
         },
         {
           "source": "github profile",
@@ -1982,8 +1978,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/camel-ai/camel",
-          "stars": 4726,
-          "stars_last_updated": "2024-06-29T13:27:44.299873"
+          "stars": 4757,
+          "stars_last_updated": "2024-07-09T09:49:32.433492"
         },
         {
           "source": "github profile",
@@ -2002,8 +1998,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/superagent-ai/superagent",
-          "stars": 4915,
-          "stars_last_updated": "2024-06-29T13:27:44.971690"
+          "stars": 4951,
+          "stars_last_updated": "2024-07-09T09:49:33.054268"
         },
         {
           "source": "github profile",
@@ -2022,8 +2018,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/OpenBMB/AgentVerse",
-          "stars": 3849,
-          "stars_last_updated": "2024-06-29T13:27:45.585438"
+          "stars": 3868,
+          "stars_last_updated": "2024-07-09T09:49:33.623474"
         },
         {
           "source": "github profile",
@@ -2042,8 +2038,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/101dotxyz/GPTeam",
-          "stars": 1592,
-          "stars_last_updated": "2024-06-29T13:27:46.200491"
+          "stars": 1601,
+          "stars_last_updated": "2024-07-09T09:49:34.382160"
         },
         {
           "source": "github profile",
@@ -2062,8 +2058,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/langchain-ai/streamlit-agent",
-          "stars": 1131,
-          "stars_last_updated": "2024-06-29T13:27:46.814306"
+          "stars": 1146,
+          "stars_last_updated": "2024-07-09T09:49:35.070272"
         },
         {
           "source": "github profile",
@@ -2082,8 +2078,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/agiresearch/OpenAGI",
-          "stars": 1808,
-          "stars_last_updated": "2024-06-29T13:27:47.371928"
+          "stars": 1826,
+          "stars_last_updated": "2024-07-09T09:49:35.711196"
         },
         {
           "source": "github profile",
@@ -2102,8 +2098,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/agiresearch/AIOS",
-          "stars": 2912,
-          "stars_last_updated": "2024-06-29T13:27:48.051843"
+          "stars": 2972,
+          "stars_last_updated": "2024-07-09T09:49:36.428922"
         },
         {
           "source": "github profile",
@@ -2122,8 +2118,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/farizrahman4u/loopgpt",
-          "stars": 1412,
-          "stars_last_updated": "2024-06-29T13:27:48.657482"
+          "stars": 1411,
+          "stars_last_updated": "2024-07-09T09:49:37.093451"
         },
         {
           "source": "github profile",
@@ -2142,8 +2138,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/fetchai/uAgents",
-          "stars": 772,
-          "stars_last_updated": "2024-06-29T13:27:49.272382"
+          "stars": 775,
+          "stars_last_updated": "2024-07-09T09:49:37.787060"
         },
         {
           "source": "github profile",
@@ -2180,8 +2176,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/FlowiseAI/Flowise",
-          "stars": 27055,
-          "stars_last_updated": "2024-06-29T13:27:49.886535"
+          "stars": 27352,
+          "stars_last_updated": "2024-07-09T09:49:38.423254"
         },
         {
           "source": "website",
@@ -2208,8 +2204,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/lobehub/lobe-chat",
-          "stars": 34218,
-          "stars_last_updated": "2024-06-29T13:27:50.500721"
+          "stars": 34964,
+          "stars_last_updated": "2024-07-09T09:49:39.013744"
         },
         {
           "source": "website",
@@ -2228,8 +2224,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/xingyaoww/code-act",
-          "stars": 380,
-          "stars_last_updated": "2024-06-29T13:27:51.115094"
+          "stars": 391,
+          "stars_last_updated": "2024-07-09T09:49:39.606666"
         }
       ],
       "categories": [
@@ -2245,7 +2241,7 @@
           "source": "github",
           "source_url": "https://github.com/bazed-ai/bazed-af",
           "stars": 59,
-          "stars_last_updated": "2024-06-29T13:27:52.139109"
+          "stars_last_updated": "2024-07-09T09:49:40.624733"
         },
         {
           "source": "website",
@@ -2268,8 +2264,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/gmpetrov/databerry/",
-          "stars": 2918,
-          "stars_last_updated": "2024-06-29T13:27:52.753466"
+          "stars": 2923,
+          "stars_last_updated": "2024-07-09T09:49:41.221332"
         }
       ],
       "categories": [
@@ -2311,7 +2307,7 @@
           "source": "github",
           "source_url": "https://github.com/steamship-core/python-client",
           "stars": 318,
-          "stars_last_updated": "2024-06-29T17:05:05.730615"
+          "stars_last_updated": "2024-07-09T09:49:41.835577"
         },
         {
           "source": "website",
@@ -2368,8 +2364,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/MervinPraison/PraisonAI/",
-          "stars": 942,
-          "stars_last_updated": "2024-06-29T13:27:53.368125"
+          "stars": 1078,
+          "stars_last_updated": "2024-07-09T09:49:42.507782"
         },
         {
           "source": "demo",
@@ -2534,8 +2530,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/langfuse/langfuse",
-          "stars": 4517,
-          "stars_last_updated": "2024-06-29T13:27:53.982401"
+          "stars": 4679,
+          "stars_last_updated": "2024-07-09T09:49:43.184315"
         },
         {
           "source": "website",
@@ -2562,8 +2558,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/AgentOps-AI/agentops",
-          "stars": 1130,
-          "stars_last_updated": "2024-06-29T13:27:54.596707"
+          "stars": 1235,
+          "stars_last_updated": "2024-07-09T09:49:43.800533"
         },
         {
           "source": "website",
@@ -2598,8 +2594,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/reworkd/bananalyzer",
-          "stars": 184,
-          "stars_last_updated": "2024-06-29T13:27:55.211068"
+          "stars": 187,
+          "stars_last_updated": "2024-07-09T09:49:44.516415"
         }
       ],
       "categories": [
@@ -2614,8 +2610,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/THUDM/AgentBench",
-          "stars": 1980,
-          "stars_last_updated": "2024-06-29T13:27:55.826108"
+          "stars": 2003,
+          "stars_last_updated": "2024-07-09T09:49:45.155375"
         }
       ],
       "categories": [
@@ -2630,8 +2626,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/langchain-ai/langsmith-sdk",
-          "stars": 344,
-          "stars_last_updated": "2024-06-29T17:05:06.343187"
+          "stars": 350,
+          "stars_last_updated": "2024-07-09T09:49:45.755054"
         },
         {
           "source": "docs",
@@ -2690,8 +2686,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/Helicone/helicone",
-          "stars": 1470,
-          "stars_last_updated": "2024-06-29T13:27:56.438849"
+          "stars": 1485,
+          "stars_last_updated": "2024-07-09T09:49:46.464504"
         }
       ],
       "categories": [
@@ -2706,8 +2702,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/francedot/NavAIGuide-TS",
-          "stars": 85,
-          "stars_last_updated": "2024-06-29T13:27:57.362123"
+          "stars": 86,
+          "stars_last_updated": "2024-07-09T09:49:47.412284"
         }
       ],
       "categories": [
@@ -2722,8 +2718,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/mnotgod96/AppAgent",
-          "stars": 4581,
-          "stars_last_updated": "2024-06-29T13:27:57.912066"
+          "stars": 4624,
+          "stars_last_updated": "2024-07-09T09:49:48.048715"
         },
         {
           "source": "github profile",
@@ -2956,8 +2952,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/neonbjb/tortoise-tts",
-          "stars": 12307,
-          "stars_last_updated": "2024-06-29T13:27:58.487748"
+          "stars": 12413,
+          "stars_last_updated": "2024-07-09T09:49:48.713715"
         },
         {
           "source": "research paper",
@@ -3012,8 +3008,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/pinokiocomputer/pinokio",
-          "stars": 2747,
-          "stars_last_updated": "2024-06-29T13:27:59.108113"
+          "stars": 2790,
+          "stars_last_updated": "2024-07-09T09:49:49.435566"
         },
         {
           "source": "github profile",
@@ -3032,8 +3028,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/ollama/ollama",
-          "stars": 76052,
-          "stars_last_updated": "2024-06-29T13:27:59.723302"
+          "stars": 77568,
+          "stars_last_updated": "2024-07-09T09:49:50.148501"
         },
         {
           "source": "github profile",
@@ -3052,8 +3048,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/janhq/jan",
-          "stars": 20621,
-          "stars_last_updated": "2024-06-29T13:28:00.305622"
+          "stars": 20819,
+          "stars_last_updated": "2024-07-09T09:49:50.816515"
         },
         {
           "source": "github profile",
@@ -3090,8 +3086,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/lm-sys/FastChat",
-          "stars": 35504,
-          "stars_last_updated": "2024-06-29T13:28:01.048020"
+          "stars": 35651,
+          "stars_last_updated": "2024-07-09T09:49:51.477342"
         },
         {
           "source": "demo",
@@ -3118,8 +3114,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/zylon-ai/private-gpt/",
-          "stars": 52832,
-          "stars_last_updated": "2024-06-29T13:28:01.664674"
+          "stars": 52907,
+          "stars_last_updated": "2024-07-09T09:49:52.195174"
         }
       ],
       "categories": [
@@ -3134,8 +3130,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/PromtEngineer/localGPT",
-          "stars": 19499,
-          "stars_last_updated": "2024-06-29T13:28:02.276613"
+          "stars": 19542,
+          "stars_last_updated": "2024-07-09T09:49:52.804901"
         }
       ],
       "categories": [
@@ -3172,8 +3168,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/KhoomeiK/LlamaGym",
-          "stars": 939,
-          "stars_last_updated": "2024-06-29T13:28:03.300631"
+          "stars": 944,
+          "stars_last_updated": "2024-07-09T09:49:53.526955"
         },
         {
           "source": "github profile",
@@ -3223,7 +3219,7 @@
           "source": "github",
           "source_url": "https://github.com/lightninglabs/LangChainBitcoin",
           "stars": 125,
-          "stars_last_updated": "2024-06-29T13:28:03.914970"
+          "stars_last_updated": "2024-07-09T09:49:54.156217"
         }
       ],
       "categories": [
@@ -3239,7 +3235,7 @@
           "source": "github",
           "source_url": "https://github.com/aibtcdev/agent-tools-ts",
           "stars": 3,
-          "stars_last_updated": "2024-06-29T13:28:04.529539"
+          "stars_last_updated": "2024-07-09T09:49:54.764601"
         },
         {
           "source": "github profile",
@@ -3266,8 +3262,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/aibtcdev/ai-agent-crew",
-          "stars": 21,
-          "stars_last_updated": "2024-06-29T13:28:05.115574"
+          "stars": 23,
+          "stars_last_updated": "2024-07-09T09:49:55.361082"
         },
         {
           "source": "github profile",
@@ -3295,7 +3291,7 @@
           "source": "github",
           "source_url": "https://github.com/aibtcdev/gated-402-api",
           "stars": 1,
-          "stars_last_updated": "2024-06-29T13:28:05.757873"
+          "stars_last_updated": "2024-07-09T09:49:55.947063"
         },
         {
           "source": "github profile",
@@ -3330,8 +3326,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/OpenInterpreter/01",
-          "stars": 4736,
-          "stars_last_updated": "2024-06-29T13:28:06.347281"
+          "stars": 4757,
+          "stars_last_updated": "2024-07-09T09:49:56.608466"
         },
         {
           "source": "website",
@@ -3368,8 +3364,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/OpenInterpreter/open-interpreter",
-          "stars": 50488,
-          "stars_last_updated": "2024-06-29T13:28:06.987357"
+          "stars": 50746,
+          "stars_last_updated": "2024-07-09T09:49:57.247227"
         }
       ],
       "categories": [
@@ -3388,8 +3384,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/OthersideAI/self-operating-computer",
-          "stars": 8184,
-          "stars_last_updated": "2024-06-29T13:28:07.601407"
+          "stars": 8215,
+          "stars_last_updated": "2024-07-09T09:49:57.929177"
         },
         {
           "source": "github profile",
@@ -3408,8 +3404,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/onuratakan/gpt-computer-assistant",
-          "stars": 4726,
-          "stars_last_updated": "2024-06-29T13:28:08.215937"
+          "stars": 4761,
+          "stars_last_updated": "2024-07-09T09:49:58.527856"
         }
       ],
       "categories": [
@@ -3424,8 +3420,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/guidance-ai/guidance",
-          "stars": 18096,
-          "stars_last_updated": "2024-06-29T13:28:08.830504"
+          "stars": 18172,
+          "stars_last_updated": "2024-07-09T09:49:59.262063"
         },
         {
           "source": "docs",
@@ -3445,7 +3441,7 @@
           "source": "github",
           "source_url": "https://github.com/ivycheck/ivycheck-python-sdk",
           "stars": 2,
-          "stars_last_updated": "2024-06-29T13:28:09.444752"
+          "stars_last_updated": "2024-07-09T09:49:59.990321"
         },
         {
           "source": "announcement",
@@ -3468,8 +3464,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/guardrails-ai/guardrails",
-          "stars": 3591,
-          "stars_last_updated": "2024-06-29T13:28:10.163434"
+          "stars": 3622,
+          "stars_last_updated": "2024-07-09T09:50:00.695439"
         },
         {
           "source": "twitter",
@@ -3488,8 +3484,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/NVIDIA/NeMo-Guardrails",
-          "stars": 3711,
-          "stars_last_updated": "2024-06-29T13:28:10.775501"
+          "stars": 3740,
+          "stars_last_updated": "2024-07-09T09:50:01.413733"
         },
         {
           "source": "research paper",
@@ -3523,7 +3519,7 @@
           "source": "github",
           "source_url": "https://github.com/genomoncology/FuzzTypes",
           "stars": 203,
-          "stars_last_updated": "2024-06-29T13:28:11.391471"
+          "stars_last_updated": "2024-07-09T09:50:02.128025"
         },
         {
           "source": "website",
@@ -3542,8 +3538,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/jxnl/instructor",
-          "stars": 6439,
-          "stars_last_updated": "2024-06-29T13:28:12.035695"
+          "stars": 6588,
+          "stars_last_updated": "2024-07-09T09:50:02.723607"
         },
         {
           "source": "website",
@@ -3563,7 +3559,7 @@
           "source": "github",
           "source_url": "https://github.com/instructor-ai/cloud",
           "stars": 31,
-          "stars_last_updated": "2024-06-29T13:28:12.619639"
+          "stars_last_updated": "2024-07-09T09:50:03.357603"
         },
         {
           "source": "announcement",
@@ -3582,8 +3578,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/pydantic/pydantic",
-          "stars": 19542,
-          "stars_last_updated": "2024-06-29T13:28:13.255726"
+          "stars": 19657,
+          "stars_last_updated": "2024-07-09T09:50:04.072968"
         },
         {
           "source": "website",
@@ -3602,8 +3598,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/outlines-dev/outlines",
-          "stars": 6911,
-          "stars_last_updated": "2024-06-29T13:28:13.848882"
+          "stars": 7076,
+          "stars_last_updated": "2024-07-09T09:50:04.790818"
         },
         {
           "source": "website",
@@ -3626,8 +3622,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/PrefectHQ/marvin/",
-          "stars": 4957,
-          "stars_last_updated": "2024-06-29T13:28:14.462326"
+          "stars": 4984,
+          "stars_last_updated": "2024-07-09T09:50:05.400736"
         },
         {
           "source": "website",
@@ -3646,8 +3642,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/developersdigest/llm-answer-engine",
-          "stars": 4245,
-          "stars_last_updated": "2024-06-29T13:28:15.076561"
+          "stars": 4290,
+          "stars_last_updated": "2024-07-09T09:50:06.121662"
         },
         {
           "source": "github profile",
@@ -3666,8 +3662,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/AgentOps-AI/Jaiqu",
-          "stars": 262,
-          "stars_last_updated": "2024-06-29T13:28:15.691528"
+          "stars": 265,
+          "stars_last_updated": "2024-07-09T09:50:06.723645"
         },
         {
           "source": "demo",
@@ -3724,8 +3720,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/SakanaAI/evolutionary-model-merge/",
-          "stars": 1069,
-          "stars_last_updated": "2024-06-29T13:28:16.305798"
+          "stars": 1089,
+          "stars_last_updated": "2024-07-09T09:50:07.330352"
         }
       ],
       "categories": [
@@ -3740,8 +3736,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/arcee-ai/mergekit",
-          "stars": 3973,
-          "stars_last_updated": "2024-06-29T13:28:16.919921"
+          "stars": 4058,
+          "stars_last_updated": "2024-07-09T09:50:07.941488"
         }
       ],
       "categories": [
@@ -3790,8 +3786,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/joaomdmoura/crewai-tools",
-          "stars": 405,
-          "stars_last_updated": "2024-06-29T13:28:17.534644"
+          "stars": 425,
+          "stars_last_updated": "2024-07-09T09:50:08.578241"
         }
       ],
       "categories": [
@@ -3806,8 +3802,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/langchain-ai/langchain/",
-          "stars": 88239,
-          "stars_last_updated": "2024-06-29T13:28:18.149867"
+          "stars": 88806,
+          "stars_last_updated": "2024-07-09T09:50:09.296997"
         },
         {
           "source": "docs",
@@ -3826,8 +3822,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/langchain-ai/langchainjs",
-          "stars": 11712,
-          "stars_last_updated": "2024-06-29T13:28:18.777315"
+          "stars": 11801,
+          "stars_last_updated": "2024-07-09T09:50:09.911045"
         },
         {
           "source": "docs",
@@ -3846,8 +3842,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/run-llama/llama_index",
-          "stars": 33112,
-          "stars_last_updated": "2024-06-29T13:28:19.377407"
+          "stars": 33415,
+          "stars_last_updated": "2024-07-09T09:50:10.533289"
         },
         {
           "source": "website",
@@ -3870,8 +3866,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/OpenInterpreter/aifs",
-          "stars": 340,
-          "stars_last_updated": "2024-06-29T13:28:19.991706"
+          "stars": 342,
+          "stars_last_updated": "2024-07-09T09:50:11.149076"
         }
       ],
       "categories": [
@@ -3940,8 +3936,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/microsoft/TypeChat",
-          "stars": 8051,
-          "stars_last_updated": "2024-06-29T13:28:20.708762"
+          "stars": 8061,
+          "stars_last_updated": "2024-07-09T09:50:11.855115"
         }
       ],
       "categories": [
@@ -3956,8 +3952,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/npi-ai/npi",
-          "stars": 158,
-          "stars_last_updated": "2024-06-29T13:28:21.323392"
+          "stars": 161,
+          "stars_last_updated": "2024-07-09T09:50:12.512409"
         },
         {
           "source": "website",
@@ -3992,8 +3988,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/vercel/ai",
-          "stars": 8491,
-          "stars_last_updated": "2024-06-29T13:28:21.938947"
+          "stars": 8609,
+          "stars_last_updated": "2024-07-09T09:50:13.186394"
         },
         {
           "source": "github examples",
@@ -4012,8 +4008,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/sullyo/prompt2ui",
-          "stars": 161,
-          "stars_last_updated": "2024-06-29T13:28:22.551777"
+          "stars": 179,
+          "stars_last_updated": "2024-07-09T09:50:13.800331"
         },
         {
           "source": "twitter announcement",
@@ -4032,8 +4028,12 @@
         {
           "source": "github",
           "source_url": "https://github.com/PierrunoYT/claude-3-artifacts",
-          "stars": 3,
-          "stars_last_updated": "2024-06-29T13:28:23.166138"
+          "stars": 4,
+          "stars_last_updated": "2024-07-09T09:50:14.519265"
+        },
+        {
+          "source": "reddit announcement",
+          "source_url": "https://www.reddit.com/r/ClaudeAI/comments/1dqhta5/help_me_buiild_claude_3_artifacs_opensource/"
         }
       ],
       "categories": [
@@ -4247,8 +4247,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/anysphere/priompt",
-          "stars": 831,
-          "stars_last_updated": "2024-06-29T13:28:23.780664"
+          "stars": 842,
+          "stars_last_updated": "2024-07-09T09:50:15.235197"
         }
       ],
       "categories": [
@@ -4263,8 +4263,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/eth-sri/lmql",
-          "stars": 3468,
-          "stars_last_updated": "2024-06-29T13:28:24.394983"
+          "stars": 3484,
+          "stars_last_updated": "2024-07-09T09:50:15.952508"
         },
         {
           "source": "website",
@@ -4311,8 +4311,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/VinciGit00/Scrapegraph-ai",
-          "stars": 12454,
-          "stars_last_updated": "2024-06-29T13:28:25.009530"
+          "stars": 13052,
+          "stars_last_updated": "2024-07-09T09:50:17.085106"
         },
         {
           "source": "docs",
@@ -4353,8 +4353,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/stanfordnlp/dspy",
-          "stars": 13751,
-          "stars_last_updated": "2024-06-29T13:28:25.623805"
+          "stars": 14113,
+          "stars_last_updated": "2024-07-09T09:50:17.796220"
         }
       ],
       "categories": [
@@ -4369,8 +4369,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/darrenburns/elia",
-          "stars": 1582,
-          "stars_last_updated": "2024-06-29T13:28:26.238479"
+          "stars": 1601,
+          "stars_last_updated": "2024-07-09T09:50:18.511925"
         }
       ],
       "categories": [
@@ -4399,8 +4399,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/datastax/astra-assistants-api",
-          "stars": 91,
-          "stars_last_updated": "2024-06-29T13:28:26.852917"
+          "stars": 97,
+          "stars_last_updated": "2024-07-09T09:50:19.159157"
         }
       ],
       "categories": [
@@ -4416,7 +4416,7 @@
           "source": "github",
           "source_url": "https://github.com/phact/streaming-assistants",
           "stars": 8,
-          "stars_last_updated": "2024-06-29T13:28:27.467080"
+          "stars_last_updated": "2024-07-09T09:50:19.844801"
         }
       ],
       "categories": [
@@ -4431,8 +4431,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/MLT-OSS/open-assistant-api",
-          "stars": 209,
-          "stars_last_updated": "2024-06-29T13:28:28.081427"
+          "stars": 215,
+          "stars_last_updated": "2024-07-09T09:50:20.463263"
         }
       ],
       "categories": [
@@ -4447,8 +4447,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/BerriAI/litellm",
-          "stars": 10119,
-          "stars_last_updated": "2024-06-29T13:28:28.695789"
+          "stars": 10347,
+          "stars_last_updated": "2024-07-09T09:50:21.174628"
         }
       ],
       "categories": [
@@ -4517,143 +4517,178 @@
   "categories": [
     {
       "category": "AI Agents",
-      "category_description": "AI agents"
+      "category_description": "AI agents",
+      "emoji": "\ud83e\udd16"
     },
     {
       "category": "Build Club",
-      "category_description": "AI agents built with the [Build Club](https://x.com/the_builderclub), pun intended"
+      "category_description": "AI agents built with the [Build Club](https://x.com/the_builderclub), pun intended",
+      "emoji": "\ud83d\udee0\ufe0f"
     },
     {
       "category": "Long-Term Memory",
-      "category_description": "AI agents with long-term memory functionality"
+      "category_description": "AI agents with long-term memory functionality",
+      "emoji": "\ud83e\udde0"
     },
     {
       "category": "Development Frameworks",
-      "category_description": "AI agents with development frameworks"
+      "category_description": "AI agents with development frameworks",
+      "emoji": "\u2699\ufe0f"
     },
     {
       "category": "No-Code Development Frameworks",
-      "category_description": "no-code agentic AI development frameworks"
+      "category_description": "no-code agentic AI development frameworks",
+      "emoji": "\ud83d\udeab\ud83d\udcbb"
     },
     {
       "category": "Evaluation Frameworks",
-      "category_description": "eval frameworks for AI agents"
+      "category_description": "eval frameworks for AI agents",
+      "emoji": "\ud83d\udcca"
     },
     {
       "category": "Observability Frameworks",
-      "category_description": "monitoring frameworks for AI agents"
+      "category_description": "monitoring frameworks for AI agents",
+      "emoji": "\ud83d\udc41\ufe0f"
     },
     {
       "category": "Mobile-Friendly Frameworks",
-      "category_description": "running AI agents on mobile (on your own phone)"
+      "category_description": "running AI agents on mobile (on your own phone)",
+      "emoji": "\ud83d\udcf1"
     },
     {
       "category": "Phone Calling",
-      "category_description": "AI agents with phone calling"
+      "category_description": "AI agents with phone calling",
+      "emoji": "\ud83d\udcde"
     },
     {
       "category": "Voice Providers",
-      "category_description": "voice providers which host text-to-speech (TTS) models for you"
+      "category_description": "voice providers which host text-to-speech (TTS) models for you",
+      "emoji": "\ud83d\udde3\ufe0f"
     },
     {
       "category": "TTS Models",
-      "category_description": "text-to-speech (TTS) models that require you to host"
+      "category_description": "text-to-speech (TTS) models that require you to host",
+      "emoji": "\ud83d\udd0a"
     },
     {
       "category": "Transcriber Providers",
-      "category_description": "providers who host speech-to-text (STT) models for you"
+      "category_description": "providers who host speech-to-text (STT) models for you",
+      "emoji": "\ud83c\udf99\ufe0f"
     },
     {
       "category": "Local Inference",
-      "category_description": "running AI agents locally (on your own computer)"
+      "category_description": "running AI agents locally (on your own computer)",
+      "emoji": "\ud83d\udcbb"
     },
     {
       "category": "Real-Time",
-      "category_description": "AI agents that support real-time capabilities such as WebRTC"
+      "category_description": "AI agents that support real-time capabilities such as WebRTC",
+      "emoji": "\u26a1"
     },
     {
       "category": "Reinforcement Learning Frameworks",
-      "category_description": "AI agents applying reinforcement learning"
+      "category_description": "AI agents applying reinforcement learning",
+      "emoji": "\ud83d\udd04"
     },
     {
       "category": "Standardization",
-      "category_description": "protocols or standardized ways of interacting with AI agents"
+      "category_description": "protocols or standardized ways of interacting with AI agents",
+      "emoji": "\ud83d\udccf"
     },
     {
       "category": "Bitcoin",
-      "category_description": "LLMs with function calling (aka tools) which unlocks Bitcoin payments"
+      "category_description": "LLMs with function calling (aka tools) which unlocks Bitcoin payments",
+      "emoji": "\u20bf"
     },
     {
       "category": "Hardware (Wearables)",
-      "category_description": "AI agents running on hardware or is in a form of a wearable"
+      "category_description": "AI agents running on hardware or is in a form of a wearable",
+      "emoji": "\u231a"
     },
     {
       "category": "Operating System (OS)",
-      "category_description": "AI agents that can control your operating system (OS) including your computer keyboard and mouse"
+      "category_description": "AI agents that can control your operating system (OS) including your computer keyboard and mouse",
+      "emoji": "\ud83d\udcbb"
     },
     {
       "category": "Safety Guardrails (Safeguarding)",
-      "category_description": "guardrail frameworks that enforce safety for AI agents"
+      "category_description": "guardrail frameworks that enforce safety for AI agents",
+      "emoji": "\ud83d\udee1\ufe0f"
     },
     {
       "category": "Structured Outputs",
-      "category_description": "enforcing structured outputs from AI agents"
+      "category_description": "enforcing structured outputs from AI agents",
+      "emoji": "\ud83c\udfd7\ufe0f"
     },
     {
       "category": "Model Merges",
-      "category_description": "model merges which embed AI agents with new knowledge"
+      "category_description": "model merges which embed AI agents with new knowledge",
+      "emoji": "\ud83d\udd00"
     },
     {
       "category": "Tool Calling (Function Calling)",
-      "category_description": "function calling (aka tool calling) for your AI agents"
+      "category_description": "function calling (aka tool calling) for your AI agents",
+      "emoji": "\ud83d\udd27"
     },
     {
       "category": "UI Development",
-      "category_description": "UIs (generative UIs, conversational UIs, and agentic UIs) optimized for AI agents"
+      "category_description": "UIs (generative UIs, conversational UIs, and agentic UIs) optimized for AI agents",
+      "emoji": "\ud83d\udda5\ufe0f"
     },
     {
       "category": "Model Providers",
-      "category_description": "model providers that you can use to power your AI agents"
+      "category_description": "model providers that you can use to power your AI agents",
+      "emoji": "\ud83e\udde0"
     },
     {
       "category": "Model Providers With Function Calling Support",
-      "category_description": "LLMs which support function calling (or tool use)"
+      "category_description": "LLMs which support function calling (or tool use)",
+      "emoji": "\ud83e\udde0\ud83d\udd27"
     },
     {
       "category": "Prompt Engineering",
-      "category_description": "agent-friendly prompt engineering techniques"
+      "category_description": "agent-friendly prompt engineering techniques",
+      "emoji": "\u270d\ufe0f"
     },
     {
       "category": "LLM-Friendly Languages",
-      "category_description": "languages optimized for LLMs"
+      "category_description": "languages optimized for LLMs",
+      "emoji": "\ud83d\udde3\ufe0f"
     },
     {
       "category": "Phone Number Providers",
-      "category_description": "phone number providers that can be used by voice agents"
+      "category_description": "phone number providers that can be used by voice agents",
+      "emoji": "\u260e\ufe0f"
     },
     {
       "category": "Web Browsing Frameworks",
-      "category_description": "web browsing frameworks that support headless mode"
+      "category_description": "web browsing frameworks that support headless mode",
+      "emoji": "\ud83c\udf10"
     },
     {
       "category": "Flow Engineering (Platform Engineering)",
-      "category_description": "flow engineering (or platform engineering) projects for AI agents"
+      "category_description": "flow engineering (or platform engineering) projects for AI agents",
+      "emoji": "\ud83d\udd04"
     },
     {
       "category": "Terminal-Friendly",
-      "category_description": "terminal-friendly AI agent development frameworks"
+      "category_description": "terminal-friendly AI agent development frameworks",
+      "emoji": "\ud83d\udcbb"
     },
     {
       "category": "Assistants API",
-      "category_description": "OpenAI-compatible Assistants APIs that you can use to quickly develop AI agents without implementating memory and knowledge bases yourself"
+      "category_description": "OpenAI-compatible Assistants APIs that you can use to quickly develop AI agents without implementating memory and knowledge bases yourself",
+      "emoji": "\ud83e\udd16"
     },
     {
       "category": "Personal Assistants",
-      "category_description": "AI agents that can act as personal assistants"
+      "category_description": "AI agents that can act as personal assistants",
+      "emoji": "\ud83d\udc64"
     },
     {
       "category": "Custom Development",
-      "category_description": "AI agencies that specialize in custom AI agent development"
+      "category_description": "AI agencies that specialize in custom AI agent development",
+      "emoji": "\ud83d\udee0\ufe0f"
     }
   ]
 }
