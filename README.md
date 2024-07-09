@@ -492,12 +492,12 @@ Here's an awesome list of AI agents:
 </div>
 
 ### BrowsingAgent by Agency Swarm
-<div><a href="https://github.com/VRSEN/agency-swarm/tree/main/agency_swarm/agents/BrowsingAgent"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/VRSEN/agency-swarm/tree/main/agency_swarm/agents/BrowsingAgent"><img src="https://img.shields.io/github/stars/VRSEN/agency-swarm?style=social" alt="GitHub stars"></a></div>
+<div><a href="https://github.com/VRSEN/agency-swarm/tree/main/agency_swarm/agents/BrowsingAgent"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a></div>
 <p>🤖 AI Agents</p>
 
 <p>BrowsingAgent, an AI web navigation tool, has been integrated into the Agency Swarm framework to enable human-like browsing capabilities for automated AI operations</p>
 
-<p><a href="https://github.com/VRSEN/agency-swarm/tree/main/agency_swarm/agents/BrowsingAgent">github</a> | <a href="https://www.youtube.com/watch?v=Yidy_ePo7pE">video</a></p>
+<p><a href="https://github.com/VRSEN/agency-swarm/tree/main/agency_swarm/agents/BrowsingAgent">code</a> | <a href="https://www.youtube.com/watch?v=Yidy_ePo7pE">video</a></p>
 </div>
 
 ### Cadea
@@ -569,7 +569,7 @@ Here's an awesome list of AI agents:
 
 <p>An open-source Flask-React chat application that interacts with Claude AI, featuring file uploads, Markdown rendering, and code highlighting, seeking contributors to expand its capabilities, inspired by Claude Artifacts</p>
 
-<p><a href="https://github.com/PierrunoYT/claude-3-artifacts">github</a></p>
+<p><a href="https://github.com/PierrunoYT/claude-3-artifacts">github</a> | <a href="https://www.reddit.com/r/ClaudeAI/comments/1dqhta5/help_me_buiild_claude_3_artifacs_opensource/">reddit announcement</a></p>
 </div>
 
 ### Claude models by Anthropic
@@ -771,12 +771,12 @@ Here's an awesome list of AI agents:
 </div>
 
 ### Devid by Agency Swarm
-<div><a href="https://github.com/VRSEN/agency-swarm/tree/main/agency_swarm/agents/Devid"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/VRSEN/agency-swarm/tree/main/agency_swarm/agents/Devid"><img src="https://img.shields.io/github/stars/VRSEN/agency-swarm?style=social" alt="GitHub stars"></a></div>
+<div><a href="https://github.com/VRSEN/agency-swarm/tree/main/agency_swarm/agents/Devid"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a></div>
 <p>🤖 AI Agents</p>
 
 <p>Devid Agent, a new AI software development tool, has been integrated into the Agency Swarm framework to enhance automated AI agency operations, alternative to Cognition AI's Devin</p>
 
-<p><a href="https://github.com/VRSEN/agency-swarm/tree/main/agency_swarm/agents/Devid">github</a> | <a href="https://www.youtube.com/watch?v=BEpDRj9H3zE">video</a></p>
+<p><a href="https://github.com/VRSEN/agency-swarm/tree/main/agency_swarm/agents/Devid">code</a> | <a href="https://www.youtube.com/watch?v=BEpDRj9H3zE">video</a></p>
 </div>
 
 ### Devika
@@ -1528,7 +1528,7 @@ Here's an awesome list of AI agents:
 
 ### Open Interpreter
 <div><a href="https://github.com/OpenInterpreter/open-interpreter"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/OpenInterpreter/open-interpreter"><img src="https://img.shields.io/github/stars/OpenInterpreter/open-interpreter?style=social" alt="GitHub stars"></a></div>
-<p>🤖 AI Agents | 💻 Operating System (OS)</p>
+<p>💻 Operating System (OS) | 🤖 AI Agents</p>
 
 <p>Open Interpreter is a coding agent enabling language models to execute code locally, facilitating natural-language interaction with your computer's capabilities, overcoming limitations of hosted solutions like internet access and package restrictions, with features including interactive and programmatic chats, system message customization, and more, allowing for enhanced control and flexibility in development environments</p>
 

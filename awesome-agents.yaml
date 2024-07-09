@@ -2295,6 +2295,8 @@
   sources:
     - source: "github"
       source_url: "https://github.com/PierrunoYT/claude-3-artifacts"
+    - source: "reddit announcement"
+      source_url: "https://www.reddit.com/r/ClaudeAI/comments/1dqhta5/help_me_buiild_claude_3_artifacs_opensource/"
   categories:
     - "UI Development"
 
