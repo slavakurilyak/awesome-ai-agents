@@ -1,7 +1,8 @@
 # TODO
 
-- [x] Refactor to use YAML
-- [ ] Add to list
+- [ ] Add to awesome list
+	- [ ] https://star-history.com/blog/ai-web-scraper
+	- [ ] https://github.com/khoj-ai/khoj
 	- [ ] https://star-history.com/blog/ai-search
 	- [ ] https://goatstack.ai
 	- [ ] https://www.b2brocket.ai
