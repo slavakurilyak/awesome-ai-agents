@@ -106,7 +106,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/OpenDevin/OpenDevin",
-          "stars_last_updated": "2024-07-09T10:10:34.458486"
+          "stars_last_updated": "2024-07-11T14:27:43.846877"
         },
         {
           "source": "github profile",
@@ -125,7 +125,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/stitionai/devika",
-          "stars_last_updated": "2024-07-09T10:10:34.466817"
+          "stars_last_updated": "2024-07-11T14:27:43.855031"
         },
         {
           "source": "demo",
@@ -148,7 +148,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/semanser/codel",
-          "stars_last_updated": "2024-07-09T10:10:34.476006"
+          "stars_last_updated": "2024-07-11T14:27:43.863552"
         },
         {
           "source": "announcement",
@@ -167,7 +167,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/Pythagora-io/gpt-pilot",
-          "stars_last_updated": "2024-07-09T10:10:34.493278"
+          "stars_last_updated": "2024-07-11T14:27:43.874796"
         },
         {
           "source": "discord",
@@ -186,7 +186,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/entropy-research/Devon",
-          "stars_last_updated": "2024-07-09T10:10:34.506572"
+          "stars_last_updated": "2024-07-11T14:27:43.883304"
         }
       ],
       "categories": [
@@ -201,7 +201,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/unit-mesh/auto-dev",
-          "stars_last_updated": "2024-07-09T10:10:34.515546"
+          "stars_last_updated": "2024-07-11T14:27:43.892424"
         },
         {
           "source": "docs",
@@ -220,7 +220,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/ishan0102/vimGPT",
-          "stars_last_updated": "2024-07-09T10:10:34.533126"
+          "stars_last_updated": "2024-07-11T14:27:43.901247"
         },
         {
           "source": "demo",
@@ -271,7 +271,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/onepointconsulting/data-questionnaire-agent",
-          "stars_last_updated": "2024-07-09T10:10:34.542811"
+          "stars_last_updated": "2024-07-11T14:27:43.914869"
         }
       ],
       "categories": [
@@ -390,7 +390,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/sullyo/fingen",
-          "stars_last_updated": "2024-07-09T10:10:34.569603"
+          "stars_last_updated": "2024-07-11T14:27:43.930397"
         }
       ],
       "categories": [
@@ -399,21 +399,21 @@
     },
     {
       "project": "Self Operating Computer by Otherside",
-      "project_description": "Self Operating Computer (SOC) enables multimodal models to autonomously interact with a computer using human-like inputs and outputs, compatible with various models, and under ongoing development for more accurate functionalities",
+      "project_description": "SOC is a framework enabling multimodal models to operate a computer using human-like inputs and outputs, with compatibility for various models such as GPT-4v, Gemini Pro Vision, and LLaVA, offering future support for additional models and featuring various modes including voice and optical character recognition",
       "project_is_open_source": true,
       "sources": [
         {
-          "source": "landing page",
-          "source_url": "https://www.hyperwriteai.com/self-operating-computer"
-        },
-        {
           "source": "github",
           "source_url": "https://github.com/OthersideAI/self-operating-computer",
-          "stars_last_updated": "2024-07-09T10:10:34.582794"
+          "stars_last_updated": "2024-07-11T14:27:43.939731"
         },
         {
           "source": "github profile",
           "source_url": "https://github.com/OthersideAI"
+        },
+        {
+          "source": "landing page",
+          "source_url": "https://www.hyperwriteai.com/self-operating-computer"
         }
       ],
       "categories": [
@@ -450,17 +450,17 @@
     },
     {
       "project": "Open Interpreter",
-      "project_description": "Open Interpreter is a coding agent enabling language models to execute code locally, facilitating natural-language interaction with your computer's capabilities, overcoming limitations of hosted solutions like internet access and package restrictions, with features including interactive and programmatic chats, system message customization, and more, allowing for enhanced control and flexibility in development environments",
+      "project_description": "Open Interpreter is a coding agent enabling language models to execute code locally, facilitating natural-language interaction with your computer's capabilities, overcoming limitations of hosted solutions like internet access and package restrictions. It features interactive and programmatic chats, system message customization, and can control your computer's keyboard and mouse, allowing for enhanced control and flexibility in development environments",
       "project_is_open_source": true,
       "sources": [
         {
           "source": "github",
           "source_url": "https://github.com/OpenInterpreter/open-interpreter",
-          "stars_last_updated": "2024-07-09T10:10:34.594291"
+          "stars_last_updated": "2024-07-11T14:27:43.951557"
         }
       ],
       "categories": [
-        "AI Agents"
+        "Operating System (OS)"
       ]
     },
     {
@@ -485,7 +485,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/RayVentura/ShortGPT",
-          "stars_last_updated": "2024-07-09T10:10:34.607212"
+          "stars_last_updated": "2024-07-11T14:27:43.964028"
         },
         {
           "source": "github profile",
@@ -518,7 +518,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/gpt-engineer-org/gpt-engineer",
-          "stars_last_updated": "2024-07-09T10:10:34.623504"
+          "stars_last_updated": "2024-07-11T14:27:43.972373"
         },
         {
           "source": "github profile",
@@ -541,7 +541,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/OthersideAI/self-operating-computer",
-          "stars_last_updated": "2024-07-09T10:10:34.650934"
+          "stars_last_updated": "2024-07-11T14:17:16.068183"
         },
         {
           "source": "github profile",
@@ -578,7 +578,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/Significant-Gravitas/AutoGPT",
-          "stars_last_updated": "2024-07-09T10:10:34.664054"
+          "stars_last_updated": "2024-07-11T14:27:43.982186"
         },
         {
           "source": "github profile",
@@ -619,7 +619,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/yoheinakajima/babyagi",
-          "stars_last_updated": "2024-07-09T10:10:34.678309"
+          "stars_last_updated": "2024-07-11T14:27:43.995277"
         },
         {
           "source": "github profile",
@@ -638,7 +638,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/assafelovic/gpt-researcher",
-          "stars_last_updated": "2024-07-09T10:10:34.693856"
+          "stars_last_updated": "2024-07-11T14:27:44.006440"
         },
         {
           "source": "github profile",
@@ -657,7 +657,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/rotemweiss57/gpt-newspaper",
-          "stars_last_updated": "2024-07-09T10:10:34.702019"
+          "stars_last_updated": "2024-07-11T14:27:44.016506"
         },
         {
           "source": "github profile",
@@ -694,7 +694,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/mayt/BrowserGPT",
-          "stars_last_updated": "2024-07-09T10:10:34.710864"
+          "stars_last_updated": "2024-07-11T14:27:44.030827"
         },
         {
           "source": "github profile",
@@ -745,7 +745,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/calcom/cal.com/tree/main/apps/ai",
-          "stars_last_updated": "2024-07-09T10:10:34.722695"
+          "stars_last_updated": "2024-07-11T14:27:44.041078"
         }
       ],
       "categories": [
@@ -760,7 +760,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/BloopAI/bloop",
-          "stars_last_updated": "2024-07-09T10:10:34.730899"
+          "stars_last_updated": "2024-07-11T14:27:44.053016"
         }
       ],
       "categories": [
@@ -779,7 +779,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/sourcegraph/cody",
-          "stars_last_updated": "2024-07-09T10:10:34.738981"
+          "stars_last_updated": "2024-07-11T14:27:44.064999"
         }
       ],
       "categories": [
@@ -794,7 +794,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/TabbyML/tabby",
-          "stars_last_updated": "2024-07-09T10:10:34.746664"
+          "stars_last_updated": "2024-07-11T14:27:44.074349"
         },
         {
           "source": "website",
@@ -817,7 +817,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/continuedev/continue",
-          "stars_last_updated": "2024-07-09T10:10:34.755365"
+          "stars_last_updated": "2024-07-11T14:27:44.087625"
         },
         {
           "source": "website",
@@ -854,7 +854,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/sweepai/sweep",
-          "stars_last_updated": "2024-07-09T10:10:34.764313"
+          "stars_last_updated": "2024-07-11T14:27:44.099196"
         },
         {
           "source": "website",
@@ -891,7 +891,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/paul-gauthier/aider",
-          "stars_last_updated": "2024-07-09T10:10:34.775662"
+          "stars_last_updated": "2024-07-11T14:27:44.111820"
         }
       ],
       "categories": [
@@ -924,7 +924,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/tonykipkemboi/trip_planner_agent",
-          "stars_last_updated": "2024-07-09T10:10:34.793389"
+          "stars_last_updated": "2024-07-11T14:27:44.122709"
         }
       ],
       "categories": [
@@ -939,7 +939,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/OpenBMB/XAgent",
-          "stars_last_updated": "2024-07-09T10:10:34.805834"
+          "stars_last_updated": "2024-07-11T14:27:44.138388"
         },
         {
           "source": "demo",
@@ -1014,7 +1014,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/mshumer/ai-researcher",
-          "stars_last_updated": "2024-07-09T10:10:34.819512"
+          "stars_last_updated": "2024-07-11T14:27:44.155722"
         },
         {
           "source": "announcement",
@@ -1059,7 +1059,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/allenai/clin",
-          "stars_last_updated": "2024-07-09T10:10:34.837633"
+          "stars_last_updated": "2024-07-11T14:27:44.183849"
         },
         {
           "source": "research paper",
@@ -1092,7 +1092,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/statelyai/agent/",
-          "stars_last_updated": "2024-07-09T10:10:34.853627"
+          "stars_last_updated": "2024-07-11T14:27:44.209670"
         },
         {
           "source": "website",
@@ -1187,7 +1187,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/cpacker/MemGPT/",
-          "stars_last_updated": "2024-07-09T10:10:34.866741"
+          "stars_last_updated": "2024-07-11T14:27:44.234544"
         }
       ],
       "categories": [
@@ -1206,7 +1206,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/getzep/zep/",
-          "stars_last_updated": "2024-07-09T10:10:34.876151"
+          "stars_last_updated": "2024-07-11T14:27:44.254507"
         }
       ],
       "categories": [
@@ -1221,7 +1221,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/kyegomez/swarms/",
-          "stars_last_updated": "2024-07-09T10:10:34.893365"
+          "stars_last_updated": "2024-07-11T14:27:44.267006"
         },
         {
           "source": "discord",
@@ -1266,7 +1266,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/agentic-ai/enact",
-          "stars_last_updated": "2024-07-09T10:10:34.909035"
+          "stars_last_updated": "2024-07-11T14:27:44.276883"
         }
       ],
       "categories": [
@@ -1281,7 +1281,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/allenai/lumos",
-          "stars_last_updated": "2024-07-09T10:10:34.928106"
+          "stars_last_updated": "2024-07-11T14:27:44.285969"
         },
         {
           "source": "website",
@@ -1300,7 +1300,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/TaskingAI/TaskingAI",
-          "stars_last_updated": "2024-07-09T10:10:34.938271"
+          "stars_last_updated": "2024-07-11T14:27:44.300018"
         },
         {
           "source": "website",
@@ -1319,7 +1319,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/smartcomputer-ai/agent-os",
-          "stars_last_updated": "2024-07-09T10:10:34.950558"
+          "stars_last_updated": "2024-07-11T14:27:44.429397"
         }
       ],
       "categories": [
@@ -1334,7 +1334,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/zjunlp/AutoAct",
-          "stars_last_updated": "2024-07-09T10:10:34.960081"
+          "stars_last_updated": "2024-07-11T14:27:44.459536"
         },
         {
           "source": "website",
@@ -1353,7 +1353,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/princeton-nlp/SWE-agent",
-          "stars_last_updated": "2024-07-09T10:10:34.972364"
+          "stars_last_updated": "2024-07-11T14:27:44.484127"
         },
         {
           "source": "website",
@@ -1390,7 +1390,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/axflow/axflow",
-          "stars_last_updated": "2024-07-09T10:10:34.988425"
+          "stars_last_updated": "2024-07-11T14:27:44.502012"
         }
       ],
       "categories": [
@@ -1405,7 +1405,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/Josh-XT/AGiXT",
-          "stars_last_updated": "2024-07-09T10:10:35.003954"
+          "stars_last_updated": "2024-07-11T14:27:44.516445"
         },
         {
           "source": "website",
@@ -1424,7 +1424,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/topoteretes/cognee",
-          "stars_last_updated": "2024-07-09T10:10:35.012996"
+          "stars_last_updated": "2024-07-11T14:27:44.532976"
         }
       ],
       "categories": [
@@ -1439,7 +1439,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/HumanSignal/Adala",
-          "stars_last_updated": "2024-07-09T10:10:35.025047"
+          "stars_last_updated": "2024-07-11T14:27:44.547990"
         }
       ],
       "categories": [
@@ -1486,7 +1486,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/reworkd/tarsier",
-          "stars_last_updated": "2024-07-09T10:10:35.039083"
+          "stars_last_updated": "2024-07-11T14:27:44.557943"
         },
         {
           "source": "website",
@@ -1505,7 +1505,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/reworkd/AgentGPT",
-          "stars_last_updated": "2024-07-09T10:10:35.051963"
+          "stars_last_updated": "2024-07-11T14:27:44.569694"
         },
         {
           "source": "github profile",
@@ -1524,7 +1524,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/agentlabs-inc/agentlabs",
-          "stars_last_updated": "2024-07-09T10:10:35.064051"
+          "stars_last_updated": "2024-07-11T14:27:44.579831"
         },
         {
           "source": "website",
@@ -1547,7 +1547,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/VRSEN/agency-swarm",
-          "stars_last_updated": "2024-07-09T10:10:35.087047"
+          "stars_last_updated": "2024-07-11T14:27:44.606513"
         }
       ],
       "categories": [
@@ -1576,7 +1576,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/langchain-ai/langchain",
-          "stars_last_updated": "2024-07-09T10:10:35.096598"
+          "stars_last_updated": "2024-07-11T14:27:44.622242"
         }
       ],
       "categories": [
@@ -1591,7 +1591,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/langchain-ai/langchainjs",
-          "stars_last_updated": "2024-07-09T10:10:35.109641"
+          "stars_last_updated": "2024-07-11T14:27:44.637535"
         }
       ],
       "categories": [
@@ -1606,7 +1606,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/langchain-ai/langgraph",
-          "stars_last_updated": "2024-07-09T10:10:35.129487"
+          "stars_last_updated": "2024-07-11T14:27:44.650914"
         }
       ],
       "categories": [
@@ -1621,7 +1621,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/langchain-ai/langgraphjs",
-          "stars_last_updated": "2024-07-09T10:10:35.214966"
+          "stars_last_updated": "2024-07-11T14:27:44.677447"
         }
       ],
       "categories": [
@@ -1636,7 +1636,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/langchain-ai/opengpts",
-          "stars_last_updated": "2024-07-09T10:10:35.239627"
+          "stars_last_updated": "2024-07-11T14:27:44.703771"
         }
       ],
       "categories": [
@@ -1651,7 +1651,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/langchain-ai/langserve",
-          "stars_last_updated": "2024-07-09T10:10:35.260616"
+          "stars_last_updated": "2024-07-11T14:27:44.734816"
         }
       ],
       "categories": [
@@ -1666,7 +1666,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/microsoft/autogen",
-          "stars_last_updated": "2024-07-09T10:10:35.278456"
+          "stars_last_updated": "2024-07-11T14:27:44.750578"
         },
         {
           "source": "video",
@@ -1685,7 +1685,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/microsoft/autogen",
-          "stars_last_updated": "2024-07-09T10:10:35.303084"
+          "stars_last_updated": "2024-07-11T14:27:44.768071"
         },
         {
           "source": "website",
@@ -1712,7 +1712,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/microsoft/JARVIS",
-          "stars_last_updated": "2024-07-09T10:10:35.324180"
+          "stars_last_updated": "2024-07-11T14:27:44.782798"
         }
       ],
       "categories": [
@@ -1727,7 +1727,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/TransformerOptimus/SuperAGI",
-          "stars_last_updated": "2024-07-09T10:10:35.340679"
+          "stars_last_updated": "2024-07-11T14:27:44.801273"
         },
         {
           "source": "github profile",
@@ -1746,7 +1746,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/OpenBMB/ChatDev",
-          "stars_last_updated": "2024-07-09T10:10:35.404190"
+          "stars_last_updated": "2024-07-11T14:27:44.896152"
         },
         {
           "source": "github profile",
@@ -1765,7 +1765,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/geekan/MetaGPT",
-          "stars_last_updated": "2024-07-09T10:10:35.414849"
+          "stars_last_updated": "2024-07-11T14:27:44.921347"
         },
         {
           "source": "github profile",
@@ -1784,7 +1784,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/deepset-ai/haystack",
-          "stars_last_updated": "2024-07-09T10:10:35.433976"
+          "stars_last_updated": "2024-07-11T14:27:44.957306"
         },
         {
           "source": "github profile",
@@ -1803,7 +1803,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/joaomdmoura/crewai",
-          "stars_last_updated": "2024-07-09T10:10:35.446263"
+          "stars_last_updated": "2024-07-11T14:27:44.973324"
         },
         {
           "source": "github profile",
@@ -1836,7 +1836,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/eosphoros-ai/DB-GPT",
-          "stars_last_updated": "2024-07-09T10:10:35.461803"
+          "stars_last_updated": "2024-07-11T14:27:44.985914"
         },
         {
           "source": "github profile",
@@ -1855,7 +1855,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/kuafuai/DevOpsGPT",
-          "stars_last_updated": "2024-07-09T10:10:35.473502"
+          "stars_last_updated": "2024-07-11T14:27:44.995701"
         },
         {
           "source": "github profile",
@@ -1874,7 +1874,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/e2b-dev/E2B",
-          "stars_last_updated": "2024-07-09T10:10:35.491191"
+          "stars_last_updated": "2024-07-11T14:27:45.008502"
         },
         {
           "source": "github profile",
@@ -1893,7 +1893,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/aiwaves-cn/agents",
-          "stars_last_updated": "2024-07-09T10:10:35.508755"
+          "stars_last_updated": "2024-07-11T14:27:45.039351"
         },
         {
           "source": "github profile",
@@ -1912,7 +1912,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/camel-ai/camel",
-          "stars_last_updated": "2024-07-09T10:10:35.525912"
+          "stars_last_updated": "2024-07-11T14:27:45.057381"
         },
         {
           "source": "github profile",
@@ -1931,7 +1931,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/superagent-ai/superagent",
-          "stars_last_updated": "2024-07-09T10:10:35.541534"
+          "stars_last_updated": "2024-07-11T14:27:45.071377"
         },
         {
           "source": "github profile",
@@ -1950,7 +1950,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/OpenBMB/AgentVerse",
-          "stars_last_updated": "2024-07-09T10:10:35.556181"
+          "stars_last_updated": "2024-07-11T14:27:45.091579"
         },
         {
           "source": "github profile",
@@ -1969,7 +1969,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/101dotxyz/GPTeam",
-          "stars_last_updated": "2024-07-09T10:10:35.573011"
+          "stars_last_updated": "2024-07-11T14:27:45.109978"
         },
         {
           "source": "github profile",
@@ -1988,7 +1988,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/langchain-ai/streamlit-agent",
-          "stars_last_updated": "2024-07-09T10:10:35.582986"
+          "stars_last_updated": "2024-07-11T14:27:45.142725"
         },
         {
           "source": "github profile",
@@ -2007,7 +2007,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/agiresearch/OpenAGI",
-          "stars_last_updated": "2024-07-09T10:10:35.599265"
+          "stars_last_updated": "2024-07-11T14:27:45.159600"
         },
         {
           "source": "github profile",
@@ -2026,7 +2026,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/agiresearch/AIOS",
-          "stars_last_updated": "2024-07-09T10:10:35.611491"
+          "stars_last_updated": "2024-07-11T14:27:45.173231"
         },
         {
           "source": "github profile",
@@ -2045,7 +2045,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/farizrahman4u/loopgpt",
-          "stars_last_updated": "2024-07-09T10:10:35.624177"
+          "stars_last_updated": "2024-07-11T14:27:45.197705"
         },
         {
           "source": "github profile",
@@ -2064,7 +2064,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/fetchai/uAgents",
-          "stars_last_updated": "2024-07-09T10:10:35.640269"
+          "stars_last_updated": "2024-07-11T14:27:45.208675"
         },
         {
           "source": "github profile",
@@ -2101,7 +2101,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/FlowiseAI/Flowise",
-          "stars_last_updated": "2024-07-09T10:10:35.657766"
+          "stars_last_updated": "2024-07-11T14:27:45.219691"
         },
         {
           "source": "website",
@@ -2128,7 +2128,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/lobehub/lobe-chat",
-          "stars_last_updated": "2024-07-09T10:10:35.667302"
+          "stars_last_updated": "2024-07-11T14:27:45.230400"
         },
         {
           "source": "website",
@@ -2147,7 +2147,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/xingyaoww/code-act",
-          "stars_last_updated": "2024-07-09T10:10:35.679592"
+          "stars_last_updated": "2024-07-11T14:27:45.249766"
         }
       ],
       "categories": [
@@ -2162,7 +2162,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/bazed-ai/bazed-af",
-          "stars_last_updated": "2024-07-09T10:10:35.693437"
+          "stars_last_updated": "2024-07-11T14:27:45.278011"
         },
         {
           "source": "website",
@@ -2185,7 +2185,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/gmpetrov/databerry/",
-          "stars_last_updated": "2024-07-09T10:10:35.708243"
+          "stars_last_updated": "2024-07-11T14:27:45.291267"
         }
       ],
       "categories": [
@@ -2226,7 +2226,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/steamship-core/python-client",
-          "stars_last_updated": "2024-07-09T10:10:35.722346"
+          "stars_last_updated": "2024-07-11T14:27:45.304317"
         },
         {
           "source": "website",
@@ -2283,7 +2283,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/MervinPraison/PraisonAI/",
-          "stars_last_updated": "2024-07-09T10:10:35.738004"
+          "stars_last_updated": "2024-07-11T14:27:45.320616"
         },
         {
           "source": "demo",
@@ -2448,7 +2448,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/langfuse/langfuse",
-          "stars_last_updated": "2024-07-09T10:10:35.779105"
+          "stars_last_updated": "2024-07-11T14:27:45.339001"
         },
         {
           "source": "website",
@@ -2475,7 +2475,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/AgentOps-AI/agentops",
-          "stars_last_updated": "2024-07-09T10:10:35.809537"
+          "stars_last_updated": "2024-07-11T14:27:45.351249"
         },
         {
           "source": "website",
@@ -2510,7 +2510,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/reworkd/bananalyzer",
-          "stars_last_updated": "2024-07-09T10:10:35.825587"
+          "stars_last_updated": "2024-07-11T14:27:45.363683"
         }
       ],
       "categories": [
@@ -2525,7 +2525,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/THUDM/AgentBench",
-          "stars_last_updated": "2024-07-09T10:10:35.840837"
+          "stars_last_updated": "2024-07-11T14:27:45.379539"
         }
       ],
       "categories": [
@@ -2540,7 +2540,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/langchain-ai/langsmith-sdk",
-          "stars_last_updated": "2024-07-09T10:10:35.857994"
+          "stars_last_updated": "2024-07-11T14:27:45.394015"
         },
         {
           "source": "docs",
@@ -2599,7 +2599,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/Helicone/helicone",
-          "stars_last_updated": "2024-07-09T10:10:35.867126"
+          "stars_last_updated": "2024-07-11T14:27:45.405964"
         }
       ],
       "categories": [
@@ -2614,7 +2614,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/francedot/NavAIGuide-TS",
-          "stars_last_updated": "2024-07-09T10:10:35.887674"
+          "stars_last_updated": "2024-07-11T14:27:45.423789"
         }
       ],
       "categories": [
@@ -2629,7 +2629,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/mnotgod96/AppAgent",
-          "stars_last_updated": "2024-07-09T10:10:35.895844"
+          "stars_last_updated": "2024-07-11T14:27:45.439691"
         },
         {
           "source": "github profile",
@@ -2764,7 +2764,7 @@
     },
     {
       "project": "DeepGram",
-      "project_description": "Deepgram is an AI-powered speech recognition and summarization platform that enables users to automatically transcribe, summarize, and extract insights from audio content",
+      "project_description": "Deepgram is a leading speech-to-text (STT) API provider that offers highly accurate, fast, and cost-effective transcription services with advanced features like custom model training, real-time support, and flexible deployment options",
       "project_is_open_source": false,
       "sources": [
         {
@@ -2773,7 +2773,7 @@
         }
       ],
       "categories": [
-        "Voice Providers"
+        "Transcriber Providers"
       ]
     },
     {
@@ -2862,7 +2862,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/neonbjb/tortoise-tts",
-          "stars_last_updated": "2024-07-09T10:10:35.911249"
+          "stars_last_updated": "2024-07-11T14:27:45.462542"
         },
         {
           "source": "research paper",
@@ -2917,7 +2917,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/pinokiocomputer/pinokio",
-          "stars_last_updated": "2024-07-09T10:10:35.927041"
+          "stars_last_updated": "2024-07-11T14:27:45.479845"
         },
         {
           "source": "github profile",
@@ -2936,7 +2936,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/ollama/ollama",
-          "stars_last_updated": "2024-07-09T10:10:35.942635"
+          "stars_last_updated": "2024-07-11T14:27:45.496762"
         },
         {
           "source": "github profile",
@@ -2955,7 +2955,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/janhq/jan",
-          "stars_last_updated": "2024-07-09T10:10:35.957965"
+          "stars_last_updated": "2024-07-11T14:27:45.515018"
         },
         {
           "source": "github profile",
@@ -2992,7 +2992,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/lm-sys/FastChat",
-          "stars_last_updated": "2024-07-09T10:10:35.973244"
+          "stars_last_updated": "2024-07-11T14:27:45.532850"
         },
         {
           "source": "demo",
@@ -3019,7 +3019,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/zylon-ai/private-gpt/",
-          "stars_last_updated": "2024-07-09T10:10:35.990794"
+          "stars_last_updated": "2024-07-11T14:27:45.556561"
         }
       ],
       "categories": [
@@ -3034,7 +3034,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/PromtEngineer/localGPT",
-          "stars_last_updated": "2024-07-09T10:10:36.009623"
+          "stars_last_updated": "2024-07-11T14:27:45.603206"
         }
       ],
       "categories": [
@@ -3071,7 +3071,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/KhoomeiK/LlamaGym",
-          "stars_last_updated": "2024-07-09T10:10:36.031937"
+          "stars_last_updated": "2024-07-11T14:27:45.644352"
         },
         {
           "source": "github profile",
@@ -3089,7 +3089,7 @@
       "sources": [
         {
           "source": "website",
-          "source_url": "https://agentprotocol.ai/"
+          "source_url": "https://www.aie.foundation/"
         },
         {
           "source": "website",
@@ -3097,7 +3097,8 @@
         },
         {
           "source": "github",
-          "source_url": "https://github.com/AI-Engineer-Foundation/agent-protocol"
+          "source_url": "https://github.com/AI-Engineer-Foundation/agent-protocol",
+          "stars_last_updated": "2024-07-11T14:27:45.656861"
         },
         {
           "source": "github profile",
@@ -3120,7 +3121,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/lightninglabs/LangChainBitcoin",
-          "stars_last_updated": "2024-07-09T10:10:36.048707"
+          "stars_last_updated": "2024-07-11T14:27:45.669027"
         }
       ],
       "categories": [
@@ -3135,7 +3136,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/aibtcdev/agent-tools-ts",
-          "stars_last_updated": "2024-07-09T10:10:36.063070"
+          "stars_last_updated": "2024-07-11T14:27:45.686671"
         },
         {
           "source": "github profile",
@@ -3162,7 +3163,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/aibtcdev/ai-agent-crew",
-          "stars_last_updated": "2024-07-09T10:10:36.077346"
+          "stars_last_updated": "2024-07-11T14:27:45.707440"
         },
         {
           "source": "github profile",
@@ -3189,7 +3190,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/aibtcdev/gated-402-api",
-          "stars_last_updated": "2024-07-09T10:10:36.089851"
+          "stars_last_updated": "2024-07-11T14:27:45.719239"
         },
         {
           "source": "github profile",
@@ -3224,7 +3225,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/OpenInterpreter/01",
-          "stars_last_updated": "2024-07-09T10:10:36.101697"
+          "stars_last_updated": "2024-07-11T14:27:45.730671"
         },
         {
           "source": "website",
@@ -3261,7 +3262,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/OpenInterpreter/open-interpreter",
-          "stars_last_updated": "2024-07-09T10:10:36.114748"
+          "stars_last_updated": "2024-07-11T14:17:17.614520"
         }
       ],
       "categories": [
@@ -3280,7 +3281,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/OthersideAI/self-operating-computer",
-          "stars_last_updated": "2024-07-09T10:10:36.132018"
+          "stars_last_updated": "2024-07-11T14:27:45.748995"
         },
         {
           "source": "github profile",
@@ -3299,7 +3300,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/onuratakan/gpt-computer-assistant",
-          "stars_last_updated": "2024-07-09T10:10:36.147013"
+          "stars_last_updated": "2024-07-11T14:27:45.762567"
         }
       ],
       "categories": [
@@ -3314,7 +3315,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/guidance-ai/guidance",
-          "stars_last_updated": "2024-07-09T10:10:36.160395"
+          "stars_last_updated": "2024-07-11T14:27:45.800311"
         },
         {
           "source": "docs",
@@ -3333,7 +3334,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/ivycheck/ivycheck-python-sdk",
-          "stars_last_updated": "2024-07-09T10:10:36.168364"
+          "stars_last_updated": "2024-07-11T14:27:45.810124"
         },
         {
           "source": "announcement",
@@ -3356,7 +3357,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/guardrails-ai/guardrails",
-          "stars_last_updated": "2024-07-09T10:10:36.180340"
+          "stars_last_updated": "2024-07-11T14:27:45.822490"
         },
         {
           "source": "twitter",
@@ -3375,7 +3376,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/NVIDIA/NeMo-Guardrails",
-          "stars_last_updated": "2024-07-09T10:10:36.196615"
+          "stars_last_updated": "2024-07-11T14:27:45.836285"
         },
         {
           "source": "research paper",
@@ -3408,7 +3409,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/genomoncology/FuzzTypes",
-          "stars_last_updated": "2024-07-09T10:10:36.210619"
+          "stars_last_updated": "2024-07-11T14:27:45.851037"
         },
         {
           "source": "website",
@@ -3427,7 +3428,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/jxnl/instructor",
-          "stars_last_updated": "2024-07-09T10:10:36.226584"
+          "stars_last_updated": "2024-07-11T14:27:45.869506"
         },
         {
           "source": "website",
@@ -3446,7 +3447,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/instructor-ai/cloud",
-          "stars_last_updated": "2024-07-09T10:10:36.240393"
+          "stars_last_updated": "2024-07-11T14:27:45.881224"
         },
         {
           "source": "announcement",
@@ -3465,7 +3466,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/pydantic/pydantic",
-          "stars_last_updated": "2024-07-09T10:10:36.256611"
+          "stars_last_updated": "2024-07-11T14:27:45.895451"
         },
         {
           "source": "website",
@@ -3484,7 +3485,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/outlines-dev/outlines",
-          "stars_last_updated": "2024-07-09T10:10:36.265419"
+          "stars_last_updated": "2024-07-11T14:27:45.910796"
         },
         {
           "source": "website",
@@ -3507,7 +3508,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/PrefectHQ/marvin/",
-          "stars_last_updated": "2024-07-09T10:10:36.280563"
+          "stars_last_updated": "2024-07-11T14:27:45.923338"
         },
         {
           "source": "website",
@@ -3526,7 +3527,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/developersdigest/llm-answer-engine",
-          "stars_last_updated": "2024-07-09T10:10:36.296455"
+          "stars_last_updated": "2024-07-11T14:27:45.936673"
         },
         {
           "source": "github profile",
@@ -3545,7 +3546,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/AgentOps-AI/Jaiqu",
-          "stars_last_updated": "2024-07-09T10:10:36.312255"
+          "stars_last_updated": "2024-07-11T14:27:45.965299"
         },
         {
           "source": "demo",
@@ -3602,7 +3603,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/SakanaAI/evolutionary-model-merge/",
-          "stars_last_updated": "2024-07-09T10:10:36.326120"
+          "stars_last_updated": "2024-07-11T14:27:45.982037"
         }
       ],
       "categories": [
@@ -3617,7 +3618,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/arcee-ai/mergekit",
-          "stars_last_updated": "2024-07-09T10:10:36.335183"
+          "stars_last_updated": "2024-07-11T14:27:46.001442"
         }
       ],
       "categories": [
@@ -3631,7 +3632,7 @@
       "sources": [
         {
           "source": "demo",
-          "source_url": "https://x.com/AlexReibman/status/1772776340368081211"
+          "source_url": "https://www.youtube.com/watch?v=ujxKzS0b5qg"
         },
         {
           "source": "demo",
@@ -3666,7 +3667,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/joaomdmoura/crewai-tools",
-          "stars_last_updated": "2024-07-09T10:10:36.348011"
+          "stars_last_updated": "2024-07-11T14:27:46.017881"
         }
       ],
       "categories": [
@@ -3681,7 +3682,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/langchain-ai/langchain/",
-          "stars_last_updated": "2024-07-09T10:10:36.360198"
+          "stars_last_updated": "2024-07-11T14:27:46.034545"
         },
         {
           "source": "docs",
@@ -3700,7 +3701,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/langchain-ai/langchainjs",
-          "stars_last_updated": "2024-07-09T10:10:36.371364"
+          "stars_last_updated": "2024-07-11T14:27:46.046280"
         },
         {
           "source": "docs",
@@ -3719,7 +3720,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/run-llama/llama_index",
-          "stars_last_updated": "2024-07-09T10:10:36.380381"
+          "stars_last_updated": "2024-07-11T14:27:46.060489"
         },
         {
           "source": "website",
@@ -3742,7 +3743,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/OpenInterpreter/aifs",
-          "stars_last_updated": "2024-07-09T10:10:36.395536"
+          "stars_last_updated": "2024-07-11T14:27:46.069757"
         }
       ],
       "categories": [
@@ -3811,7 +3812,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/microsoft/TypeChat",
-          "stars_last_updated": "2024-07-09T10:10:36.410014"
+          "stars_last_updated": "2024-07-11T14:27:46.084287"
         }
       ],
       "categories": [
@@ -3826,7 +3827,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/npi-ai/npi",
-          "stars_last_updated": "2024-07-09T10:10:36.420692"
+          "stars_last_updated": "2024-07-11T14:27:46.096503"
         },
         {
           "source": "website",
@@ -3861,7 +3862,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/vercel/ai",
-          "stars_last_updated": "2024-07-09T10:10:36.431937"
+          "stars_last_updated": "2024-07-11T14:27:46.109610"
         },
         {
           "source": "github examples",
@@ -3880,7 +3881,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/sullyo/prompt2ui",
-          "stars_last_updated": "2024-07-09T10:10:36.448758"
+          "stars_last_updated": "2024-07-11T14:27:46.130644"
         },
         {
           "source": "twitter announcement",
@@ -3899,7 +3900,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/PierrunoYT/claude-3-artifacts",
-          "stars_last_updated": "2024-07-09T10:10:36.462961"
+          "stars_last_updated": "2024-07-11T14:27:46.147312"
         },
         {
           "source": "reddit announcement",
@@ -4117,7 +4118,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/anysphere/priompt",
-          "stars_last_updated": "2024-07-09T10:10:36.479013"
+          "stars_last_updated": "2024-07-11T14:27:46.185379"
         }
       ],
       "categories": [
@@ -4132,7 +4133,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/eth-sri/lmql",
-          "stars_last_updated": "2024-07-09T10:10:36.496275"
+          "stars_last_updated": "2024-07-11T14:27:46.203344"
         },
         {
           "source": "website",
@@ -4179,7 +4180,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/VinciGit00/Scrapegraph-ai",
-          "stars_last_updated": "2024-07-09T10:10:36.514204"
+          "stars_last_updated": "2024-07-11T14:27:46.234184"
         },
         {
           "source": "docs",
@@ -4220,7 +4221,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/stanfordnlp/dspy",
-          "stars_last_updated": "2024-07-09T10:10:36.528475"
+          "stars_last_updated": "2024-07-11T14:27:46.262541"
         }
       ],
       "categories": [
@@ -4235,7 +4236,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/darrenburns/elia",
-          "stars_last_updated": "2024-07-09T10:10:36.557111"
+          "stars_last_updated": "2024-07-11T14:27:46.281781"
         }
       ],
       "categories": [
@@ -4264,7 +4265,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/datastax/astra-assistants-api",
-          "stars_last_updated": "2024-07-09T10:10:36.569644"
+          "stars_last_updated": "2024-07-11T14:27:46.292747"
         }
       ],
       "categories": [
@@ -4279,7 +4280,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/phact/streaming-assistants",
-          "stars_last_updated": "2024-07-09T10:10:36.591543"
+          "stars_last_updated": "2024-07-11T14:27:46.313833"
         }
       ],
       "categories": [
@@ -4294,7 +4295,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/MLT-OSS/open-assistant-api",
-          "stars_last_updated": "2024-07-09T10:10:36.609428"
+          "stars_last_updated": "2024-07-11T14:27:46.335311"
         }
       ],
       "categories": [
@@ -4309,7 +4310,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/BerriAI/litellm",
-          "stars_last_updated": "2024-07-09T10:10:36.626527"
+          "stars_last_updated": "2024-07-11T14:27:46.357408"
         }
       ],
       "categories": [
@@ -4382,11 +4383,87 @@
         {
           "source": "github",
           "source_url": "https://github.com/ozgrozer/chatgpt-artifacts",
-          "stars_last_updated": "2024-07-09T10:10:36.642346"
+          "stars_last_updated": "2024-07-11T14:27:46.373050"
         },
         {
           "source": "twitter announcement",
           "source_url": "https://x.com/ozgrozer/status/1808677091996541251"
+        }
+      ],
+      "categories": [
+        "UI Development"
+      ]
+    },
+    {
+      "project": "claude-artifacts-react",
+      "project_description": "This project provides a streamlined solution for deploying and testing React code generated by Claude Artifacts, offering one-click deployment options to Vercel or Cloudflare Pages and easy code editing through a central ArtifactCode.jsx file",
+      "project_is_open_source": true,
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/risonsimon/claude-artifacts-react",
+          "stars_last_updated": "2024-07-11T14:27:46.384280"
+        },
+        {
+          "source": "reddit announcement",
+          "source_url": "https://www.reddit.com/r/ClaudeAI/comments/1dtquuh/i_made_an_opensource_template_for_sharing_claudes/"
+        }
+      ],
+      "categories": [
+        "UI Development"
+      ]
+    },
+    {
+      "project": "Claude-React-Jumpstart",
+      "project_description": "This project offers a tutorial for beginners to set up and run React code generated by Claude's Artifacts feature locally, providing step-by-step instructions for creating a React app with Vite, installing necessary dependencies, and integrating Claude-generated code",
+      "project_is_open_source": true,
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/Bklieger/Claude-React-Jumpstart",
+          "stars_last_updated": "2024-07-11T14:27:46.395440"
+        },
+        {
+          "source": "twitter announcement",
+          "source_url": "https://x.com/BenjaminKlieger/status/1804264035464155220"
+        }
+      ],
+      "categories": [
+        "UI Development"
+      ]
+    },
+    {
+      "project": "ChatGPT-code-preview",
+      "project_description": "Artifacts-like chrome extension for ChatGPT, inspired by Claude 3.5 Sonnet, which requires CSP unblocker for JS to function",
+      "project_is_open_source": true,
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/ykyritsis/ChatGPT-code-preview",
+          "stars_last_updated": "2024-07-11T14:27:46.407506"
+        }
+      ],
+      "categories": [
+        "UI Development"
+      ]
+    },
+    {
+      "project": "ai-artifacts",
+      "project_description": "This project implements Anthropic's Artifacts UI, using E2B's Code Interpreter SDK for secure AI code execution and Claude Sonnet 3.5 for code generation",
+      "project_is_open_source": true,
+      "sources": [
+        {
+          "source": "github example",
+          "source_url": "https://github.com/e2b-dev/ai-artifacts"
+        },
+        {
+          "source": "reddit announcement",
+          "source_url": "https://www.reddit.com/r/ClaudeAI/comments/1dmy6y2/open_source_version_of_anthropics_artifacts_ui/"
+        },
+        {
+          "source": "github",
+          "source_url": "https://github.com/e2b-dev/ai-artifacts",
+          "stars_last_updated": "2024-07-11T14:33:55.903910"
         }
       ],
       "categories": [
