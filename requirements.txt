@@ -4,3 +4,5 @@ requests
 PyGithub
 python-dotenv
 colorama
+deepdiff
+rich
