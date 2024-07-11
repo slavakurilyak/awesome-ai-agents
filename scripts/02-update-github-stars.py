@@ -88,33 +88,35 @@ def update_project_stars(project, json_data):
     project_name = project.get('project', 'Unknown')
     project_url = None
     
-    if project.get('project_is_open_source'):
-        for source in project.get('sources', []):
-            if source['source'] == 'github':
-                project_url = source['source_url']
-                stars_last_updated = source.get('stars_last_updated')
-                logging.debug(f"Checking update for {project_name} (URL: {project_url}), Last updated: {stars_last_updated}")
-                if should_update_stars(stars_last_updated):
-                    if stars_last_updated is None:
-                        logging.info(f"Setting initial timestamp for {project_name}")
-                        source['stars_last_updated'] = datetime.now().isoformat()
-                        updated = True
-                    else:
-                        stars = get_github_stars(project_url)
-                        if stars is not None:
-                            if stars == "badge not found":
-                                source['badge'] = "badge not found"
-                            else:
-                                source['stars'] = stars
-                                source['stars_last_updated'] = datetime.now().isoformat()
-                            updated = True
+    for source in project.get('sources', []):
+        if source['source'] == 'github':
+            project_url = source['source_url']
+            stars_last_updated = source.get('stars_last_updated')
+            logging.debug(f"Checking update for {project_name} (URL: {project_url}), Last updated: {stars_last_updated}")
+            if should_update_stars(stars_last_updated):
+                if stars_last_updated is None:
+                    logging.info(f"Setting initial timestamp for {project_name}")
+                    source['stars_last_updated'] = datetime.now().isoformat()
+                    updated = True
                 else:
-                    logging.info(f"Skipping update for {project_url} - updated less than a week ago")
+                    stars = get_github_stars(project_url)
+                    if stars is not None:
+                        if stars == "badge not found":
+                            source['badge'] = "badge not found"
+                        else:
+                            source['stars'] = stars
+                            source['stars_last_updated'] = datetime.now().isoformat()
+                        updated = True
+            else:
+                logging.info(f"Skipping update for {project_url} - updated less than a week ago")
     return updated, project_name, project_url
 
 def update_json_with_stars(json_file_path):
     with open(json_file_path, 'r') as file:
         json_data = json.load(file)
+
+    updated_projects_count = 0
+    total_projects_count = len(json_data['agents'])
 
     for project in json_data['agents']:
         logging.debug(f"Processing project: {project.get('project', 'Unknown')}")
@@ -128,6 +130,7 @@ def update_json_with_stars(json_file_path):
             with open(json_file_path, 'w') as file:
                 json.dump(json_data, file, indent=2)
             logging.info(f"JSON file updated for project: {Fore.CYAN}{project_name}{Style.RESET_ALL} (URL: {project_url})")
+            updated_projects_count += 1
         else:
             logging.info(f"No update needed for project: {Fore.CYAN}{project_name}{Style.RESET_ALL}")
 
@@ -136,6 +139,7 @@ def update_json_with_stars(json_file_path):
 
     logging.info(f"Number of projects: {Fore.YELLOW}{num_projects}{Style.RESET_ALL}")
     logging.info(f"Number of categories: {Fore.YELLOW}{num_categories}{Style.RESET_ALL}")
+    logging.info(f"Number of projects updated: {Fore.YELLOW}{updated_projects_count}{Style.RESET_ALL} out of {Fore.YELLOW}{total_projects_count}{Style.RESET_ALL}")
 
 # Set debug logging level
 logging.getLogger().setLevel(logging.DEBUG)
