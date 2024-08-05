@@ -1454,6 +1454,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/PrefectHQ/marvin/">github</a> | <a href="https://askmarvin.ai/">website</a></p>
 </div>
 
+### mem0
+<div><a href="https://github.com/mem0ai/mem0"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/mem0ai/mem0"><img src="https://img.shields.io/github/stars/mem0ai/mem0?style=social" alt="GitHub stars"></a></div>
+<p>🧠 Long-Term Memory</p>
+
+<p>Mem0 is an intelligent memory layer for Large Language Models that enhances personalized AI experiences by retaining and utilizing contextual information across various applications.</p>
+
+<p><a href="https://github.com/mem0ai/mem0">github</a> | <a href="https://app.mem0.ai/">website</a> | <a href="https://docs.mem0.ai/">docs</a> | <a href="https://mem0.ai/discord">discord</a> | <a href="https://x.com/mem0ai">twitter</a> | <a href="https://github.com/mem0ai">github profile</a> | <a href="https://www.linkedin.com/company/mem0/">linkedin</a></p>
+</div>
+
 ### MemGPT
 <div><a href="https://github.com/cpacker/MemGPT/"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/cpacker/MemGPT/"><img src="https://img.shields.io/github/stars/cpacker/MemGPT?style=social" alt="GitHub stars"></a></div>
 <p>🧠 Long-Term Memory</p>

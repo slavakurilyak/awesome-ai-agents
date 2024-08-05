@@ -2634,3 +2634,24 @@
       source_url: "https://www.reddit.com/r/ClaudeAI/comments/1dmy6y2/open_source_version_of_anthropics_artifacts_ui/"
   categories:
     - "UI Development"
+- project: "mem0"
+  project_description: "Mem0 is an intelligent memory layer for Large Language Models that enhances personalized AI experiences by retaining and utilizing contextual information across various applications."
+  project_is_open_source: true
+  sources:
+    - source: "github"
+      source_url: "https://github.com/mem0ai/mem0"
+    - source: "website"
+      source_url: "https://app.mem0.ai/"
+    - source: "docs"
+      source_url: "https://docs.mem0.ai/"
+    - source: "discord"
+      source_url: "https://mem0.ai/discord"
+    - source: "twitter"
+      source_url: "https://x.com/mem0ai"
+    - source: "github profile"
+      source_url: "https://github.com/mem0ai"
+    - source: "linkedin"
+      source_url: "https://www.linkedin.com/company/mem0/"
+  categories:
+    - "Long-Term Memory"
+  

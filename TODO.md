@@ -40,3 +40,9 @@
 	- [ ] https://github.com/Codium-ai/AlphaCodium
 	- [ ] https://github.com/ItzCrazyKns/Perplexica
 	- [ ] https://github.com/eidolon-ai/eidolon
+	- [ ] https://github.com/wandb/openui
+	- [ ] https://github.com/julep-ai/julep
+	- [ ] https://github.com/TransformerOptimus/SuperCoder
+	- [ ] https://github.com/mckaywrigley/buildware-ai
+	- [ ] https://agentherbie.com/
+	- [x] https://github.com/mem0ai/mem0
