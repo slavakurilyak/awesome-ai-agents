@@ -9,6 +9,8 @@ from dotenv import load_dotenv
 import logging
 from datetime import datetime, timedelta
 from colorama import Fore, Style, init
+from rich.console import Console
+from rich.progress import Progress, SpinnerColumn, TextColumn, BarColumn
 
 init(autoreset=True)
 
@@ -115,33 +117,36 @@ def update_json_with_stars(json_file_path):
     with open(json_file_path, 'r') as file:
         json_data = json.load(file)
 
-    updated_projects_count = 0
     total_projects_count = len(json_data['agents'])
+    updated_projects_count = 0
 
-    for project in json_data['agents']:
-        logging.debug(f"Processing project: {project.get('project', 'Unknown')}")
-        for source in project.get('sources', []):
-            if source['source'] == 'github':
-                logging.debug(f"GitHub source found: {source['source_url']}")
-                logging.debug(f"Stars last updated: {source.get('stars_last_updated')}")
-        
-        updated, project_name, project_url = update_project_stars(project, json_data)
-        if updated:
-            with open(json_file_path, 'w') as file:
-                json.dump(json_data, file, indent=2)
-            logging.info(f"JSON file updated for project: {Fore.CYAN}{project_name}{Style.RESET_ALL} (URL: {project_url})")
-            updated_projects_count += 1
-        else:
-            logging.info(f"No update needed for project: {Fore.CYAN}{project_name}{Style.RESET_ALL}")
+    console = Console()
+    
+    with Progress(
+        SpinnerColumn(),
+        TextColumn("[progress.description]{task.description}"),
+        BarColumn(),
+        TextColumn("[progress.percentage]{task.percentage:>3.0f}%"),
+        console=console,
+        transient=True
+    ) as progress:
+        task = progress.add_task("[cyan]Updating GitHub stars...", total=total_projects_count)
 
-    num_projects = len(json_data['agents'])
-    num_categories = len(json_data['categories'])
+        for project in json_data['agents']:
+            project_name = project.get('project', 'Unknown')
+            progress.update(task, description=f"[cyan]Updating {project_name}")
+            
+            updated, _, _ = update_project_stars(project, json_data)
+            if updated:
+                with open(json_file_path, 'w') as file:
+                    json.dump(json_data, file, indent=2)
+                updated_projects_count += 1
+            
+            progress.advance(task)
 
-    logging.info(f"Number of projects: {Fore.YELLOW}{num_projects}{Style.RESET_ALL}")
-    logging.info(f"Number of categories: {Fore.YELLOW}{num_categories}{Style.RESET_ALL}")
-    logging.info(f"Number of projects updated: {Fore.YELLOW}{updated_projects_count}{Style.RESET_ALL} out of {Fore.YELLOW}{total_projects_count}{Style.RESET_ALL}")
+    console.print(f"\n[bold]Number of projects updated:[/bold] {updated_projects_count} out of {total_projects_count}")
 
-# Set debug logging level
-logging.getLogger().setLevel(logging.DEBUG)
+# Set logging level to ERROR to show only errors
+logging.getLogger().setLevel(logging.ERROR)
 
 update_json_with_stars('awesome-agents.json')
