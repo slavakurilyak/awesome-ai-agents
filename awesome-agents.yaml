@@ -2654,4 +2654,13 @@
       source_url: "https://www.linkedin.com/company/mem0/"
   categories:
     - "Long-Term Memory"
-  
+- project: "Toolhouse"
+  project_description: "In 3 lines of code achieve integration and management of function calls across different language learning models, supported by a universal SDK and a marketplace for tools"
+  project_is_open_source: false
+  sources:
+    - source: "website"
+      source_url: "https://www.toolhouse.ai"
+  categories:
+    - "Function Calling"
+    - "AI Agents"    
+    
