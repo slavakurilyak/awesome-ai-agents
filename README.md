@@ -275,6 +275,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/agiresearch/AIOS">github</a> | <a href="https://github.com/agiresearch">github profile</a></p>
 </div>
 
+### Anchor Browser Tools
+<div><a href="https://anchorbrowser.io/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
+<p>🧠 Model Providers</p>
+
+<p>Anchor Browser allows agent builders to implement and utilize OOTB browser based tools. Anchor leverages a secure cloud browser deployment to mimic human behavior</p>
+
+<p><a href="https://anchorbrowser.io/">website</a> | <a href="https://docs.anchorbrowser.io/">docs</a></p>
+</div>
+
 ### Anthropic
 <div><a href="https://www.anthropic.com/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <p>🧠 Model Providers</p>
