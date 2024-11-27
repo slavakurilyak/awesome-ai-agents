@@ -1805,6 +1805,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://rime.ai/">website</a></p>
 </div>
 
+### Saplings
+<div><a href="https://github.com/shobrook/saplings"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/shobrook/saplings"><img src="https://img.shields.io/github/stars/shobrook/saplings?style=social" alt="GitHub stars"></a></div>
+<p>⚙️ Development Frameworks</p>
+
+<p>Saplings is a framework for building agents that use search algorithms to boost reasoning and solve problems.</p>
+
+<p><a href="https://github.com/shobrook/saplings">github</a></p>
+</div>
+
 ### ScrapeGraphAI
 <div><a href="https://github.com/VinciGit00/Scrapegraph-ai"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/VinciGit00/Scrapegraph-ai"><img src="https://img.shields.io/github/stars/VinciGit00/Scrapegraph-ai?style=social" alt="GitHub stars"></a></div>
 <p>🌐 Web Browsing Frameworks</p>
