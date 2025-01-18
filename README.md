@@ -1850,6 +1850,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://shortx.ai/">website</a></p>
 </div>
 
+### Sophia by TrafficGuard
+<div><a href="https://sophia.dev/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
+<p>🤖 AI Agents, ⚙️ Development Frameworks</p>
+
+<p>Sophia is a Typescript AI agent platform which includes autonomous agents and software developer agents and numerous tools out of the box, along with production grade such as like Opentelemetry tracing, Web UI and Human-in-the-loop options.</p>
+
+<p><a href="https://sophia.dev">website</a></p>
+</div>
+
 ### Streaming Assistants
 <div><a href="https://github.com/phact/streaming-assistants"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/phact/streaming-assistants"><img src="https://img.shields.io/github/stars/phact/streaming-assistants?style=social" alt="GitHub stars"></a></div>
 <p>🤖 Assistants API</p>
