@@ -2138,6 +2138,14 @@ Here's an awesome list of AI agents:
 <p><a href="https://www.getzep.com/">website</a> | <a href="https://github.com/getzep/zep/">github</a></p>
 </div>
 
+### Upsonic
+<div><a href="https://github.com/upsonic/upsonic"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/upsonic/upsonic"><img src="https://img.shields.io/github/stars/upsonic/upsonic?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents</p>
+
+<p>Upsonic is a reliable AI framework supporting MCP, offering trusted agent workflows with verification layers, triangular architecture, validator agents, and output evaluation for real-world applications.</p>
+
+<p><a href="https://github.com/upsonic/upsonic">github</a> | <a href="https://www.youtube.com/watch?v=Ec7g4KIp89U">demo</a> | <a href="https://docs.upsonic.ai/introduction">docs</a></p>
+</div>
 
 ## Hire Me
 
