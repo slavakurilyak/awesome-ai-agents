@@ -1589,6 +1589,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/OpenInterpreter/open-interpreter">github</a></p>
 </div>
 
+### Open Responses
+<div><a href="https://github.com/julep-ai/julep"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/julep-ai/julep"><img src="https://img.shields.io/github/stars/julep-ai/julep?style=social" alt="GitHub stars"></a></div>
+<p>⚙️ Development Frameworks</p>
+
+<p>Serverless open-source platform for building long-running LLM agents with tool use</p>
+
+<p><a href="https://github.com/julep-ai/julep">github</a> | <a href="https://docs.julep.ai/open-responses">docs</a></p>
+</div>
+
 ### OpenAGI
 <div><a href="https://github.com/agiresearch/OpenAGI"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/agiresearch/OpenAGI"><img src="https://img.shields.io/github/stars/agiresearch/OpenAGI?style=social" alt="GitHub stars"></a></div>
 <p>⚙️ Development Frameworks</p>
