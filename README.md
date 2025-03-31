@@ -986,6 +986,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/aibtcdev/gated-402-api">github</a> | <a href="https://github.com/aibtcdev">github profile</a> | <a href="https://aibtc.dev/">website</a> | <a href="https://discord.gg/5DJaBrf">discord</a></p>
 </div>
 
+### Giselle
+<div><a href="https://github.com/giselles-ai/giselle"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/giselles-ai/giselle"><img src="https://img.shields.io/github/stars/giselles-ai/giselle?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents</p>
+
+<p>Giselle is an agentic workflow builder that empowers you to create AI-driven solutions with ease. Using a highly intuitive node-based interface, Giselle enables you to design and deploy powerful AI Agents by seamlessly integrating multiple LLMs and data sources.</p>
+
+<p><a href="https://github.com/giselles-ai/giselle">github</a> | <a href="https://giselles.ai/">website</a></p>
+</div>
+
 ### GitWit
 <div><a href="https://gitwit.dev/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 <p>🤖 AI Agents</p>
