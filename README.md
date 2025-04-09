@@ -1454,6 +1454,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/PrefectHQ/marvin/">github</a> | <a href="https://askmarvin.ai/">website</a></p>
 </div>
 
+### MastraAI
+<div><a href="https://github.com/mastra-ai/mastra"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/mastra-ai/mastra"><img src="https://img.shields.io/github/stars/mastra-ai/mastra?style=social" alt="GitHub stars"></a></div>
+<p>⚙️ Development Frameworks</p>
+
+<p>Mastra is an opinionated TypeScript framework that helps you build AI applications and features quickly. It gives you the set of primitives you need: workflows, agents, RAG, integrations and evals. You can run Mastra on your local machine, or deploy to a serverless cloud.</p>
+
+<p><a href="https://github.com/mastra-ai/mastra">github</a> | <a href="https://mastra.ai/">website</a> | <a href="https://mastra.ai/docs">docs</a></p>
+</div>
+
 ### mem0
 <div><a href="https://github.com/mem0ai/mem0"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/mem0ai/mem0"><img src="https://img.shields.io/github/stars/mem0ai/mem0?style=social" alt="GitHub stars"></a></div>
 <p>🧠 Long-Term Memory</p>
