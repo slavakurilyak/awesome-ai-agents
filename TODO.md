@@ -45,4 +45,9 @@
 	- [ ] https://github.com/TransformerOptimus/SuperCoder
 	- [ ] https://github.com/mckaywrigley/buildware-ai
 	- [ ] https://agentherbie.com/
-	- [x] https://github.com/mem0ai/mem0
+	- [ ] https://github.com/ntegrals/aura-voice
+	- [ ] https://github.com/InternLM/MindSearch
+	- [ ] https://github.com/Axonius/crews-control
+	- [ ] https://github.com/LyzrCore/lyzr
+	- [ ] https://github.com/griptape-ai/griptape
+	- [ ] https://github.com/BrainBlend-AI/atomic-agents
