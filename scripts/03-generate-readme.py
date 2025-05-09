@@ -6,6 +6,8 @@ import hashlib
 import logging
 import re
 import yaml
+import os # Added import
+from datetime import datetime, timedelta, timezone # Added import
 
 logging.basicConfig(level=logging.INFO)
 
@@ -108,6 +110,20 @@ def format_project(project: Project, all_categories: List[str], category_emojis:
     
     github_stars_badge = next((get_github_stars_badge(source) for source in project.sources if source.source == "github"), "")
     
+    stars_info_line = ""
+    github_source_with_stars = next((s for s in project.sources if s.source == "github" and s.stars is not None), None)
+    if github_source_with_stars:
+        stars_count_formatted = f"{github_source_with_stars.stars:,}"
+        updated_date_formatted = ""
+        if github_source_with_stars.stars_last_updated:
+            try:
+                # Parse ISO format string, handle potential 'Z' for UTC
+                dt_obj = datetime.fromisoformat(github_source_with_stars.stars_last_updated.replace('Z', '+00:00'))
+                updated_date_formatted = f"(Updated: {dt_obj.strftime('%Y-%m-%d')})"
+            except ValueError:
+                updated_date_formatted = f"(Updated: {github_source_with_stars.stars_last_updated[:10]})" # Fallback
+        stars_info_line = f'<p>⭐ {stars_count_formatted} stars {updated_date_formatted}</p>'
+
     badges = f"{open_source_badge} {github_stars_badge}".strip()
     categories = " | ".join([f'{category_emojis.get(category, "")} {category}' for category in all_categories])
     
@@ -117,6 +133,7 @@ def format_project(project: Project, all_categories: List[str], category_emojis:
     
     return f"""### {project.project}
 <div>{badges}</div>
+{stars_info_line}
 <p>{categories}</p>
 
 <p>{description}</p>
@@ -124,6 +141,76 @@ def format_project(project: Project, all_categories: List[str], category_emojis:
 <p>{full_sources}</p>
 </div>
 """
+
+def generate_project_list_html(projects: List[Project], category_emojis: Dict[str, str], list_type: str) -> str:
+    if not projects:
+        return f"<p><em>No projects to display for {list_type}.</em></p>"
+    
+    items_html = []
+    for i, proj_data in enumerate(projects):
+        project = proj_data["project"] # Assuming proj_data is a dict with "project" key
+        
+        # Find GitHub source for URL and stars
+        github_source = next((s for s in project.sources if s.source == "github"), None)
+        project_url = github_source.source_url if github_source else project.sources[0].source_url # Fallback to first source
+        
+        stars_display = ""
+        if github_source and github_source.stars is not None:
+            stars_display = f" - {github_source.stars:,} stars"
+            if github_source.stars_last_updated:
+                try:
+                    dt_obj = datetime.fromisoformat(github_source.stars_last_updated.replace('Z', '+00:00'))
+                    stars_display += f" (Updated: {dt_obj.strftime('%Y-%m-%d')})"
+                except ValueError:
+                     stars_display += f" (Updated: {github_source.stars_last_updated[:10]})"
+
+
+        description_html = f"<br>{project.project_description}" if project.project_description else ""
+        
+        items_html.append(f'<li><a href="{project_url}"><strong>{project.project}</strong></a>{stars_display}{description_html}</li>')
+        
+    return f"<ol>\n" + "\n".join(items_html) + "\n</ol>"
+
+def generate_top_starred_section(data: JsonData, category_emojis: Dict[str, str], top_n: int = 10) -> str:
+    starred_projects = []
+    for project in data.agents:
+        github_source = next((s for s in project.sources if s.source == "github" and s.stars is not None), None)
+        if github_source:
+            starred_projects.append({"project": project, "stars": github_source.stars})
+    
+    sorted_starred_projects = sorted(starred_projects, key=lambda x: x["stars"], reverse=True)[:top_n]
+    logging.info(f"Found {len(starred_projects)} projects with stars. Generating Top {top_n} list from {len(sorted_starred_projects)} projects.")
+    return generate_project_list_html(sorted_starred_projects, category_emojis, "Top Starred Projects")
+
+def generate_rising_projects_section(data: JsonData, category_emojis: Dict[str, str], top_n: int = 10, days_recent: int = 30) -> str:
+    recent_projects = []
+    thirty_days_ago = datetime.now(timezone.utc) - timedelta(days=days_recent)
+    
+    for project in data.agents:
+        github_source = next((s for s in project.sources if s.source == "github" and s.stars is not None and s.stars_last_updated is not None), None)
+        if github_source:
+            try:
+                updated_date_str = github_source.stars_last_updated
+                # Ensure timezone awareness: if 'Z' is present, it's UTC. Otherwise, assume UTC.
+                if updated_date_str.endswith('Z'):
+                    updated_date = datetime.fromisoformat(updated_date_str.replace('Z', '+00:00'))
+                else:
+                    # Attempt to parse, if it's naive, assume UTC
+                    dt_naive = datetime.fromisoformat(updated_date_str)
+                    if dt_naive.tzinfo is None or dt_naive.tzinfo.utcoffset(dt_naive) is None:
+                         updated_date = dt_naive.replace(tzinfo=timezone.utc)
+                    else:
+                        updated_date = dt_naive # Already timezone aware
+
+                if updated_date >= thirty_days_ago:
+                    recent_projects.append({"project": project, "stars": github_source.stars, "updated_date": updated_date})
+            except ValueError as e:
+                logging.warning(f"Could not parse date '{github_source.stars_last_updated}' for project {project.project}: {e}")
+                continue # Skip if date is unparseable
+
+    sorted_recent_projects = sorted(recent_projects, key=lambda x: x["stars"], reverse=True)[:top_n]
+    logging.info(f"Found {len(recent_projects)} projects updated in the last {days_recent} days with stars. Generating Rising {top_n} list from {len(sorted_recent_projects)} projects.")
+    return generate_project_list_html(sorted_recent_projects, category_emojis, "Rising Projects")
 
 def load_template(template_file: str) -> str:
     with open(template_file, 'r') as file:
@@ -133,18 +220,30 @@ def generate_readme_content(json_file: str, template_file: str, category_emojis_
     data = load_json(json_file)
     category_emojis = load_category_emojis(category_emojis_file)
     template = load_template(template_file)
-    sections = generate_sections(data, category_emojis)
-    return template.replace("${SECTIONS}", sections)
+    
+    main_sections_content = generate_sections(data, category_emojis)
+    top_starred_content = generate_top_starred_section(data, category_emojis)
+    rising_projects_content = generate_rising_projects_section(data, category_emojis)
+    
+    content = template.replace("${SECTIONS}", main_sections_content)
+    content = content.replace("${TOP_STARRED_PROJECTS}", top_starred_content)
+    content = content.replace("${RISING_PROJECTS}", rising_projects_content)
+    
+    return content
 
 def write_output(output_file: str, content: str) -> None:
     with open(output_file, 'w') as file:
         file.write(content)
 
 def main():
-    json_file = "awesome-agents.json"
-    template_file = "README.template.md"
-    output_file = "README.md"
-    category_emojis_file = "awesome-categories.yaml"
+    # Determine paths relative to this script's location
+    SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+    PROJECT_ROOT = os.path.dirname(SCRIPT_DIR) # This is the 'awesome-ai-agents' directory
+
+    json_file = os.path.join(PROJECT_ROOT, "awesome-agents.json")
+    template_file = os.path.join(PROJECT_ROOT, "README.template.md")
+    output_file = os.path.join(PROJECT_ROOT, "README.md") # Corrected output path
+    category_emojis_file = os.path.join(PROJECT_ROOT, "awesome-categories.yaml")
 
     try:
         category_emojis = load_category_emojis(category_emojis_file)
@@ -156,13 +255,13 @@ def main():
         data = load_json(json_file)
         logging.info(f"Loaded {len(data.agents)} projects from {json_file}")
         
-        template = load_template(template_file)
-        logging.info(f"Loaded template from {template_file}")
-        
-        sections = generate_sections(data, category_emojis)
-        logging.info(f"Generated {len(sections.split('<div>'))} project sections")
+        # Template loading and main sections generation are now part of generate_readme_content
+        # Logging for those will happen within or after that call if needed.
         
         readme_content = generate_readme_content(json_file, template_file, category_emojis_file)
+        # Logging for section generation (top, rising, main) is now inside their respective functions
+        # or implicitly covered by the final "Successfully generated" log.
+        
         write_output(output_file, readme_content)
         logging.info(f"Successfully generated {output_file}")
     except Exception as e:
