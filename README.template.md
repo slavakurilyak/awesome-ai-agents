@@ -19,23 +19,31 @@ According to [Andrew Ng (@andrewyng)](https://github.com/andrewyng):
 
 > "GPT-3.5 with an agentic workflow actually outperforms GPT-4"
 
-## Awesome AI Agents
+## 🏆 Top 10 Projects
+
+${TOP_STARRED_PROJECTS}
+
+## 🚀 Rising 10 Projects (Last Month)
+
+${RISING_PROJECTS}
+
+## ✍️ All Projects
 
 Here's an awesome list of AI agents:
 
 ${SECTIONS}
 
-## Hire Me
+## 🙋‍♂️ Hire Me
 
 Do you want to develop a custom agentic AI solution or looking launch your own AI agent?
 
-[Schedule a discovery call](https://cal.com/produvia/discovery-call) with me
+[Schedule a discovery call](https://cal.com/slavakurilyak/discovery-call) with me
 
 Disclaimer: Slava Kurilyak is the Founder/CEO at Produvia
 
 At Produvia, we partner with $7M+ in revenue brands to develop custom AI agents
 
-## Show Your Support
+## ❤️ Show Your Support
 
 To express your support, you can take the following actions:
 
@@ -43,7 +51,7 @@ To express your support, you can take the following actions:
 2. **Submit Suggestions**: If you have any ideas or feedback, please open a new issue [here](https://github.com/slavakurilyak/awesome-ai-agents/issues/new).
 3. **Contribute Directly**: You can contribute by forking this repository and then submitting your contributions through a new pull request [here](https://github.com/slavakurilyak/awesome-ai-agents/fork).
 
-## Star History
+## 🚀 Star History
 
 <a href="https://star-history.com/#slavakurilyak/awesome-ai-agents&Date">
  <picture>
