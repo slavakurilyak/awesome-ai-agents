@@ -1033,6 +1033,20 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/agentic-ai/enact">github</a></p>
 </div>
 
+
+### EvoAgnetX
+<div><a href="https://github.com/EvoAgentX/EvoAgentX"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/EvoAgentX/EvoAgentX"><img src="https://img.shields.io/github/stars/EvoAgentX/EvoAgentX?style=social" alt="GitHub stars"></a></div>
+
+<p>⭐ 299 stars (Updated: 2025-05-19)</p>
+<p>🤖 AI Agents</p>
+
+<p>EvoAgentX is uilding a Self-Evolving Ecosystem of AI Agents and will give you an automated framework for evaluating and evolving agentic workflows.</p>
+
+<p><a href="https://github.com/EvoAgentX/EvoAgentX">github</a></p>
+</div>
+
+
+
 ### Evolutionary Model Merge
 <div><a href="https://github.com/SakanaAI/evolutionary-model-merge/"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/SakanaAI/evolutionary-model-merge/"><img src="https://img.shields.io/github/stars/SakanaAI/evolutionary-model-merge?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 1,318 stars (Updated: 2025-05-09)</p>
