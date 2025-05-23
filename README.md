@@ -2063,6 +2063,18 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/OthersideAI/self-operating-computer">github</a> | <a href="https://github.com/OthersideAI">github profile</a> | <a href="https://www.hyperwriteai.com/self-operating-computer">landing page</a></p>
 </div>
 
+## Shinkai
+<div><a href="https://github.com/dcSpark/shinkai-apps"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/dcSpark/shinkai-apps"><img src="https://img.shields.io/github/stars/dcSpark/shinkai-apps?style=social" alt="GitHub stars"></a></div>
+<p>⭐ 246 stars (Updated: 2025-05-20)</p>
+<p>🤖 AI Agents</p>
+
+<p>Shinkai is a two-click-install AI manager—local or remote—that spins up agents in under five minutes through a desktop/web UI.  
+Agents and their tools are exposed over an MCP server, and the companion <a href="https://github.com/dcSpark/shinkai-node">Shinkai Node</a> handles job processing, secure messaging, and remote orchestration.  
+Built-in Ollama integration lets you download and run open-source models out-of-the-box.</p>
+
+<p><a href="https://github.com/dcSpark/shinkai-apps">github</a> | <a href="https://docs.shinkai.com">docs</a> | <a href="https://discord.gg/EuA45U3sEu">discord</a> | <a href="https://x.com/ShinkaiProtocol">twitter</a></p>
+</div>
+
 ### ShortGPT by RayVentura
 <div><a href="https://github.com/RayVentura/ShortGPT"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/RayVentura/ShortGPT"><img src="https://img.shields.io/github/stars/RayVentura/ShortGPT?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 6,468 stars (Updated: 2025-05-09)</p>
