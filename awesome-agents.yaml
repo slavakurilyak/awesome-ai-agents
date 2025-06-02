@@ -57,6 +57,17 @@
   categories:
     - "AI Agents"
 
+- project: "Extruct AI"
+  project_description: "Extruct AI is your platform to find, research, and decide on the right companies with precision. Powered by live AI research, our verticalized engine delivers custom, up-to-date insights tailored to your needs"
+  project_is_open_source: false
+  sources:
+    - source: "website"
+      source_url: "https://www.extruct.ai"
+    - source: "linkedin"
+      source_url: "https://www.linkedin.com/company/extruct-ai"
+  categories:
+    - "AI Agents"
+
 - project: "OpenDevin"
   project_description: "OpenDevin is an open-source initiative aimed at replicating and enhancing the autonomous AI software engineer Devin, focusing on collaboration and complex task execution in software development, emphasizing its relevance to advancing agentic AI technologies"
   project_is_open_source: true
