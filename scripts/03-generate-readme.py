@@ -1,6 +1,6 @@
 import json
 from collections import defaultdict
-from typing import List, Dict, Optional
+from typing import List, Dict, Optional, Tuple
 from pydantic import BaseModel, Field, ValidationError, conlist
 import hashlib
 import logging
@@ -171,7 +171,7 @@ def generate_project_list_html(projects: List[Project], category_emojis: Dict[st
         
     return f"<ol>\n" + "\n".join(items_html) + "\n</ol>"
 
-def generate_top_starred_section(data: JsonData, category_emojis: Dict[str, str], top_n: int = 10) -> str:
+def generate_top_starred_section(data: JsonData, category_emojis: Dict[str, str], top_n: int = 10) -> Tuple[str, List[str]]:
     starred_projects = []
     for project in data.agents:
         github_source = next((s for s in project.sources if s.source == "github" and s.stars is not None), None)
@@ -180,13 +180,22 @@ def generate_top_starred_section(data: JsonData, category_emojis: Dict[str, str]
     
     sorted_starred_projects = sorted(starred_projects, key=lambda x: x["stars"], reverse=True)[:top_n]
     logging.info(f"Found {len(starred_projects)} projects with stars. Generating Top {top_n} list from {len(sorted_starred_projects)} projects.")
-    return generate_project_list_html(sorted_starred_projects, category_emojis, "Top Starred Projects")
+    
+    # Extract project names for exclusion
+    top_project_names = [p["project"].project for p in sorted_starred_projects]
+    
+    return generate_project_list_html(sorted_starred_projects, category_emojis, "Top Starred Projects"), top_project_names
 
-def generate_rising_projects_section(data: JsonData, category_emojis: Dict[str, str], top_n: int = 10, days_recent: int = 30) -> str:
+def generate_rising_projects_section(data: JsonData, category_emojis: Dict[str, str], top_n: int = 10, days_recent: int = 30, exclude_projects: List[str] = None) -> str:
     recent_projects = []
     thirty_days_ago = datetime.now(timezone.utc) - timedelta(days=days_recent)
+    exclude_set = set(exclude_projects) if exclude_projects else set()
     
     for project in data.agents:
+        # Skip if project is in the exclude list
+        if project.project in exclude_set:
+            continue
+            
         github_source = next((s for s in project.sources if s.source == "github" and s.stars is not None and s.stars_last_updated is not None), None)
         if github_source:
             try:
@@ -222,8 +231,8 @@ def generate_readme_content(json_file: str, template_file: str, category_emojis_
     template = load_template(template_file)
     
     main_sections_content = generate_sections(data, category_emojis)
-    top_starred_content = generate_top_starred_section(data, category_emojis)
-    rising_projects_content = generate_rising_projects_section(data, category_emojis)
+    top_starred_content, top_project_names = generate_top_starred_section(data, category_emojis)
+    rising_projects_content = generate_rising_projects_section(data, category_emojis, exclude_projects=top_project_names)
     
     content = template.replace("${SECTIONS}", main_sections_content)
     content = content.replace("${TOP_STARRED_PROJECTS}", top_starred_content)

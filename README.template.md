@@ -23,7 +23,7 @@ According to [Andrew Ng (@andrewyng)](https://github.com/andrewyng):
 
 ${TOP_STARRED_PROJECTS}
 
-## 🚀 Rising 10 Projects (Last Month)
+## 🚀 Rising 10 Projects (Recently Active, Excluding Top 10)
 
 ${RISING_PROJECTS}
 
