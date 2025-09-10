@@ -1113,6 +1113,14 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/genomoncology/FuzzTypes">github</a> | <a href="https://www.genomoncology.com/">website</a></p>
 </div>
 
+### GACUA
+<div><a href="https://github.com/openmule/gacua"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/aibtcdev/gated-402-api"><img src="https://img.shields.io/github/stars/openmule/gacua?style=social" alt="GitHub stars"></a></div>
+
+<p>GACUA is a free computer use agent that enhances the grounding ability of Google Gemini, offering granular, human-in-the-loop control and supporting remote control from another device for improved usability and interaction.</p>
+
+<p><a href="https://github.com/aibtcdev/gated-402-api">github</a> | <a href="https://blog.mulerun.com/p/gacua-a-free-and-open-source-computer-use-agent-for-developers/">blog</a> | <a href="https://discord.gg/KK3zXcMkhg">discord</a></p>
+</div>
+
 ### Gated 402 API
 <div><a href="https://github.com/aibtcdev/gated-402-api"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/aibtcdev/gated-402-api"><img src="https://img.shields.io/github/stars/aibtcdev/gated-402-api?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 1 stars (Updated: 2025-07-30)</p>
