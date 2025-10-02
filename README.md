@@ -373,6 +373,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://www.aomni.com/">website</a> | <a href="https://twitter.com/aomniapp">twitter</a> | <a href="https://x.com/AtomSilverman/status/1781402688078622874">demo</a></p>
 </div>
 
+### APort
+<div><a href="https://aport.io"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
+
+<p>🛡️ Safety Guardrails (Safeguarding)</p>
+
+<p>Agent identity verification and policy enforcement platform: portable agent passports with capabilities & limits, pre-built policy packs (refunds, data export, PR merges), sub-100ms real-time verification with global suspend, multi-level assurance (Email, GitHub, Domain), and platform-agnostic integrations</p>
+
+<p><a href="https://aport.io">website</a></p>
+</div>
+
 ### AppAgent
 <div><a href="https://github.com/mnotgod96/AppAgent"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/mnotgod96/AppAgent"><img src="https://img.shields.io/github/stars/mnotgod96/AppAgent?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 6,049 stars (Updated: 2025-07-30)</p>
