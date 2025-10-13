@@ -323,6 +323,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/OpenInterpreter/aifs">github</a></p>
 </div>
 
+### aiXiv
+<div><a href="https://github.com/aixiv-org/aiXiv"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/aixiv-org/aiXiv"><img src="https://img.shields.io/github/stars/aixiv-org/aiXiv?style=social" alt="GitHub stars"></a></div>
+<p>⭐ 12 stars (Updated: 2025-10-13)</p>
+<p>🤖 AI Agents</p>
+
+<p>aiXiv is an open-access platform for AI-generated scientific research, enabling AI scientists and robot scientists to autonomously submit, review, and refine research through multi-agent collaboration</p>
+
+<p><a href="https://github.com/aixiv-org/aiXiv">github</a> | <a href="https://arxiv.org/abs/2508.15126">research paper</a> | <a href="https://docs.google.com/forms/d/e/1FAIpQLSdd6nDoI5qQ1lf_mx352NmrSIeFhnIv7zLIjlXEJtiRMoo25A/viewform">website</a></p>
+</div>
+
 ### AIOS
 <div><a href="https://github.com/agiresearch/AIOS"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/agiresearch/AIOS"><img src="https://img.shields.io/github/stars/agiresearch/AIOS?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 4,439 stars (Updated: 2025-07-30)</p>
@@ -333,9 +343,18 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/agiresearch/AIOS">github</a> | <a href="https://github.com/agiresearch">github profile</a></p>
 </div>
 
+### Agentic Reinforcement Learning Survey
+<div><a href="https://github.com/xhyumiracle/Awesome-AgenticLLM-RL-Papers"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/xhyumiracle/Awesome-AgenticLLM-RL-Papers"><img src="https://img.shields.io/github/stars/xhyumiracle/Awesome-AgenticLLM-RL-Papers?style=social" alt="GitHub stars"></a></div>
+<p>⭐ 86 stars (Updated: 2025-10-13)</p>
+<p>📊 Evaluation Frameworks</p>
+
+<p>A comprehensive survey examining the landscape of agentic reinforcement learning for LLMs, including curated collection of papers, environments, benchmarks, and frameworks for building autonomous AI agents</p>
+
+<p><a href="https://github.com/xhyumiracle/Awesome-AgenticLLM-RL-Papers">github</a> | <a href="https://arxiv.org/abs/2509.02547">research paper</a></p>
+</div>
+
 ### Anthropic
 <div><a href="https://www.anthropic.com/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
-
 <p>🧠 Model Providers</p>
 
 <p>Anthropic's new suite of Claud 3 models improves AI agents with superior reasoning, rapid responses, and diverse cognitive capabilities without compromising user privacy</p>
@@ -1123,9 +1142,28 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/aibtcdev/gated-402-api">github</a> | <a href="https://github.com/aibtcdev">github profile</a> | <a href="https://aibtc.dev/">website</a> | <a href="https://discord.gg/5DJaBrf">discord</a></p>
 </div>
 
+### GenoMAS
+<div><a href="https://github.com/Liu-Hy/GenoMAS"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/Liu-Hy/GenoMAS"><img src="https://img.shields.io/github/stars/Liu-Hy/GenoMAS?style=social" alt="GitHub stars"></a></div>
+<p>⭐ 9 stars (Updated: 2025-10-13)</p>
+<p>⚙️ Development Frameworks</p>
+
+<p>GenoMAS is a multi-agent framework for scientific discovery in genomics, employing six specialized LLM agents with guided planning to automate gene expression analysis pipelines</p>
+
+<p><a href="https://github.com/Liu-Hy/GenoMAS">github</a> | <a href="https://arxiv.org/abs/2507.21035">research paper</a> | <a href="https://liu-hy.github.io/GenoMAS/">website</a></p>
+</div>
+
+### GenoTEX
+<div><a href="https://github.com/Liu-Hy/GenoTEX"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/Liu-Hy/GenoTEX"><img src="https://img.shields.io/github/stars/Liu-Hy/GenoTEX?style=social" alt="GitHub stars"></a></div>
+<p>⭐ 61 stars (Updated: 2025-10-13)</p>
+<p>📊 Evaluation Frameworks</p>
+
+<p>GenoTEX is a benchmark for evaluating LLM-based agents on gene expression data analysis, featuring expert-curated genomic analysis tasks and baseline implementations with GenoAgent</p>
+
+<p><a href="https://github.com/Liu-Hy/GenoTEX">github</a> | <a href="https://arxiv.org/abs/2406.15341">research paper</a> | <a href="https://liu-hy.github.io/GenoTEX/">website</a></p>
+</div>
+
 ### GitWit
 <div><a href="https://gitwit.dev/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
-
 <p>🤖 AI Agents</p>
 
 <p>GitWit is an online tool that accelerates web app development with AI, supporting React, Tailwind, and NodeJS, boasting a 3X speed increase and over 1000 projects generated</p>
