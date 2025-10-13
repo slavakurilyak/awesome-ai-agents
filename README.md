@@ -323,6 +323,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/OpenInterpreter/aifs">github</a></p>
 </div>
 
+### aiXiv
+<div><a href="https://github.com/aixiv-org"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a></div>
+
+<p>⚙️ Development Frameworks</p>
+
+<p>aiXiv is a next-generation open-access platform for AI-generated scientific research, featuring a multi-agent architecture for proposal submission, peer review, and iterative refinement by both human and AI scientists, providing API and MCP interfaces for seamless integration of heterogeneous agents to accelerate autonomous scientific discovery</p>
+
+<p><a href="https://arxiv.org/abs/2508.15126">paper</a> | <a href="https://github.com/aixiv-org">github</a> | <a href="https://docs.google.com/forms/d/e/1FAIpQLSdd6nDoI5qQ1lf_mx352NmrSIeFhnIv7zLIjlXEJtiRMoo25A/viewform">website</a></p>
+</div>
+
 ### AIOS
 <div><a href="https://github.com/agiresearch/AIOS"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/agiresearch/AIOS"><img src="https://img.shields.io/github/stars/agiresearch/AIOS?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 4,439 stars (Updated: 2025-07-30)</p>
@@ -793,6 +803,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://www.youtube.com/watch?v=ujxKzS0b5qg">demo</a> | <a href="https://www.youtube.com/watch?v=ujxKzS0b5qg">demo</a> | <a href="https://www.composio.dev/">website</a> | <a href="https://docs.composio.dev/">docs</a> | <a href="https://blog.composio.dev/">blog</a> | <a href="https://github.com/SamparkAI">github profile</a></p>
 </div>
 
+### CoMAS
+<div><a href="https://arxiv.org/abs/2510.08529"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
+
+<p>⚙️ Development Frameworks</p>
+
+<p>CoMAS (Co-Evolving Multi-Agent Systems) enables LLM-based agents to autonomously improve through mutual discussion and collaboration without external supervision, generating intrinsic rewards from interaction dynamics and using reinforcement learning to optimize agent policies in a decentralized manner for scalable co-evolution</p>
+
+<p><a href="https://arxiv.org/abs/2510.08529">paper</a></p>
+</div>
+
 ### Context
 <div><a href="https://context.ai/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
@@ -993,6 +1013,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/stanfordnlp/dspy">github</a></p>
 </div>
 
+### DMAS
+<div><a href="https://arxiv.org/abs/2504.07461"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
+
+<p>⚙️ Development Frameworks</p>
+
+<p>DMAS (Distributed Multi-Agent Systems) addresses the trustworthiness challenges in distributed agent architectures where heterogeneous third-party agents function as service providers managed remotely, identifying and analyzing critical issues including free riding, susceptibility to malicious attacks, communication bottlenecks, and privacy concerns</p>
+
+<p><a href="https://arxiv.org/abs/2504.07461">paper</a></p>
+</div>
+
 ### E2B
 <div><a href="https://github.com/e2b-dev/E2B"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/e2b-dev/E2B"><img src="https://img.shields.io/github/stars/e2b-dev/E2B?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 9,112 stars (Updated: 2025-07-30)</p>
@@ -1121,6 +1151,26 @@ Here's an awesome list of AI agents:
 <p>An API using a Stacks smart contract to control access, issuing a 200 status for access approval and a 402 with payment instructions for denial</p>
 
 <p><a href="https://github.com/aibtcdev/gated-402-api">github</a> | <a href="https://github.com/aibtcdev">github profile</a> | <a href="https://aibtc.dev/">website</a> | <a href="https://discord.gg/5DJaBrf">discord</a></p>
+</div>
+
+### GenoMAS
+<div><a href="https://github.com/Liu-Hy/GenoMAS"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/Liu-Hy/GenoMAS"><img src="https://img.shields.io/github/stars/Liu-Hy/GenoMAS?style=social" alt="GitHub stars"></a></div>
+<p>⭐ 123 stars (Updated: 2025-10-13)</p>
+<p>⚙️ Development Frameworks</p>
+
+<p>GenoMAS is a multi-agent framework for scientific discovery through code-driven gene expression analysis, orchestrating six specialized LLM agents with a guided-planning mechanism that balances structured workflows with autonomous adaptability, achieving state-of-the-art performance in genomic data preprocessing and gene identification</p>
+
+<p><a href="https://arxiv.org/abs/2507.21035">paper</a> | <a href="https://github.com/Liu-Hy/GenoMAS">github</a> | <a href="https://liu-hy.github.io/GenoMAS/">website</a></p>
+</div>
+
+### GenoTEX
+<div><a href="https://github.com/Liu-Hy/GenoTEX"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/Liu-Hy/GenoTEX"><img src="https://img.shields.io/github/stars/Liu-Hy/GenoTEX?style=social" alt="GitHub stars"></a></div>
+<p>⭐ 61 stars (Updated: 2025-10-13)</p>
+<p>📊 Evaluation Frameworks</p>
+
+<p>GenoTEX is an expert-curated benchmark for evaluating LLM agents on real-world gene expression analysis tasks, featuring 1,384 problems across dataset selection, preprocessing, and statistical analysis, with 911 datasets and comprehensive code annotations for advancing AI-assisted genomic research (MLCB 2025 Oral)</p>
+
+<p><a href="https://arxiv.org/abs/2406.15341">paper</a> | <a href="https://github.com/Liu-Hy/GenoTEX">github</a> | <a href="https://liu-hy.github.io/GenoTEX/">website</a></p>
 </div>
 
 ### GitWit
@@ -2201,6 +2251,16 @@ Here's an awesome list of AI agents:
 <p>Tarsier is an open-source utility library by Reworkd, aimed at enhancing web interaction for AI agents by visually tagging interactable elements, facilitating actions based on text or screenshots for GPT-4(V) and providing OCR utilities</p>
 
 <p><a href="https://github.com/reworkd/tarsier">github</a> | <a href="https://reworkd.ai/">website</a></p>
+</div>
+
+### The Landscape of Agentic Reinforcement Learning for LLMs
+<div><a href="https://github.com/xhyumiracle/Awesome-AgenticLLM-RL-Papers"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/xhyumiracle/Awesome-AgenticLLM-RL-Papers"><img src="https://img.shields.io/github/stars/xhyumiracle/Awesome-AgenticLLM-RL-Papers?style=social" alt="GitHub stars"></a></div>
+<p>⭐ 938 stars (Updated: 2025-10-13)</p>
+<p>📊 Evaluation Frameworks</p>
+
+<p>A comprehensive survey examining agentic reinforcement learning for LLMs, formalizing the paradigm shift from conventional LLM-RL to temporally extended POMDPs, proposing a dual taxonomy around agentic capabilities and task domains, and consolidating open-source environments, benchmarks, and frameworks into a practical compendium for researchers</p>
+
+<p><a href="https://arxiv.org/abs/2509.02547">paper</a> | <a href="https://github.com/xhyumiracle/Awesome-AgenticLLM-RL-Papers">github</a></p>
 </div>
 
 ### Taskade AI
