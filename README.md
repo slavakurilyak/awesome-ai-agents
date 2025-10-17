@@ -593,6 +593,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/VRSEN/agency-swarm/tree/main/agency_swarm/agents/BrowsingAgent">code</a> | <a href="https://www.youtube.com/watch?v=Yidy_ePo7pE">video</a></p>
 </div>
 
+### Cache-to-Cache
+<div><a href="https://github.com/thu-nics/C2C"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/thu-nics/C2C"><img src="https://img.shields.io/github/stars/thu-nics/C2C?style=social" alt="GitHub stars"></a></div>
+
+<p>⭐ 71 stars (Updated: 2025-10-18)</p>
+<p>🤖 AI Agents</p>
+
+<p>Cache-to-Cache (C2C) is a novel paradigm for direct semantic communication between LLMs via KV-Cache. Instead of communicating through text, C2C enables multi-agent systems to exchange information directly through KV-Cache manipulation, avoiding text intermediation and token-by-token generation latency while preserving rich semantic information</p>
+
+<p><a href="https://fuvty.github.io/C2C_Project_Page/">website</a> | <a href="https://arxiv.org/abs/2510.03215">paper</a> | <a href="https://github.com/thu-nics/C2C">github</a> | <a href="https://huggingface.co/collections/nics-efc/c2c-68e66ef54b977bd7e58d2d74">huggingface</a></p>
+</div>
+
 ### Cadea
 <div><a href="https://www.cadea.ai/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
