@@ -1643,6 +1643,13 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/PrefectHQ/marvin/">github</a> | <a href="https://askmarvin.ai/">website</a></p>
 </div>
 
+### Mastra
+<div><a href="https://github.com/mastra-ai/mastra"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/mastra-ai/mastra"><img src="https://img.shields.io/github/stars/mastra-ai/mastra?style=social" alt="GitHub stars"></a></div> <p>⭐ 18,000 stars (Updated: 2025-11-19)</p> <p>⚙️ Development Frameworks</p>
+
+<p>Mastra is an opinionated TypeScript framework for building AI applications, featuring built-in primitives for agents, workflows, RAG, and structured outputs to streamline the development of production-ready AI features</p>
+
+<p><a href="https://github.com/mastra-ai/mastra">github</a> | <a href="https://mastra.ai">website</a></p> </div>
+
 ### mem0
 <div><a href="https://github.com/mem0ai/mem0"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/mem0ai/mem0"><img src="https://img.shields.io/github/stars/mem0ai/mem0?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 37,574 stars (Updated: 2025-07-30)</p>
