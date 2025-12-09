@@ -2003,6 +2003,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/sullyo/prompt2ui">github</a> | <a href="https://x.com/SullyOmarr/status/1804997474761003327">twitter announcement</a></p>
 </div>
 
+### promptfoo
+<div><a href="https://github.com/promptfoo/promptfoo"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/promptfoo/promptfoo"><img src="https://img.shields.io/github/stars/promptfoo/promptfoo?style=social" alt="GitHub stars"></a></div>
+<p>📊 Evaluation Frameworks</p>
+
+<p>promptfoo is an LLM red teaming and evaluation framework for testing AI applications. Test for jailbreaks, prompt injection, and other vulnerabilities with adversarial attacks including PAIR, tree-of-attacks, and crescendo. Compare prompts, models, and RAG systems with CI/CD integration.</p>
+
+<p><a href="https://github.com/promptfoo/promptfoo">github</a> | <a href="https://promptfoo.dev">website</a> | <a href="https://discord.gg/promptfoo">discord</a></p>
+</div>
+
 ### Pydantic
 <div><a href="https://github.com/pydantic/pydantic"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/pydantic/pydantic"><img src="https://img.shields.io/github/stars/pydantic/pydantic?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 24,701 stars (Updated: 2025-07-30)</p>
