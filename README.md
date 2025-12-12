@@ -2013,6 +2013,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/pydantic/pydantic">github</a> | <a href="https://docs.pydantic.dev/">website</a></p>
 </div>
 
+### Quorum
+<div><a href="https://github.com/Detrol/quorum-cli"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/Detrol/quorum-cli"><img src="https://img.shields.io/github/stars/Detrol/quorum-cli?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents</p>
+
+<p>Quorum is a multi-agent AI discussion system that orchestrates structured debates between AI models (Claude, GPT, Gemini, Grok, Ollama) using seven methods: Standard, Oxford-style debate, Devil's Advocate, Socratic dialogue, Delphi estimation, Brainstorm, and Tradeoff analysis</p>
+
+<p><a href="https://github.com/Detrol/quorum-cli">github</a></p>
+</div>
+
 ### Relevance
 <div><a href="https://relevanceai.com/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
