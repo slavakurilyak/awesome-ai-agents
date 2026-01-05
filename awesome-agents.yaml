@@ -2655,3 +2655,15 @@
   categories:
     - "Long-Term Memory"
   
+- project: "PolicyLayer"
+  project_description: "PolicyLayer provides non-custodial spending controls for AI agents with crypto wallets. Enforces daily spending limits, per-transaction caps, recipient whitelists, and rate limiting — all without holding private keys. Prevents wallet drains from bugs, prompt injection attacks, or infinite loops in AI agent code"
+  project_is_open_source: true
+  sources:
+    - source: "github"
+      source_url: "https://github.com/PolicyLayer/PolicyLayer"
+    - source: "website"
+      source_url: "https://policylayer.com"
+    - source: "npm"
+      source_url: "https://www.npmjs.com/package/@policylayer/sdk"
+  categories:
+    - "Safety Guardrails (Safeguarding)"
