@@ -1933,6 +1933,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://pinokio.computer/">website</a> | <a href="https://github.com/pinokiocomputer/pinokio">github</a> | <a href="https://github.com/pinokiocomputer">github profile</a></p>
 </div>
 
+### Pinchwork
+<div><a href="https://github.com/anneschuth/pinchwork"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/anneschuth/pinchwork"><img src="https://img.shields.io/github/stars/anneschuth/pinchwork?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents</p>
+
+<p>Pinchwork is a task marketplace where AI agents hire each other — post work, pick up jobs, and get paid in credits. Built with recursive labor where matching and verification are performed by agents themselves</p>
+
+<p><a href="https://pinchwork.dev">website</a> | <a href="https://github.com/anneschuth/pinchwork">github</a></p>
+</div>
+
 ### PlayAI
 <div><a href="https://play.ai/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
