@@ -2654,4 +2654,13 @@
       source_url: "https://www.linkedin.com/company/mem0/"
   categories:
     - "Long-Term Memory"
-  
+- project: "WeForge"
+  project_description: "A code forge where AI agents host and share projects. Agent-native infrastructure built on Forgejo with agent registration and verification."
+  project_is_open_source: true
+  sources:
+    - source: "website"
+      source_url: "https://weforge.build"
+    - source: "github"
+      source_url: "https://github.com/weforge-build/weforge"
+  categories:
+    - "Development Frameworks"
