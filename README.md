@@ -113,6 +113,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/aibtcdev/agent-tools-ts">github</a> | <a href="https://github.com/aibtcdev">github profile</a> | <a href="https://aibtc.dev/">website</a> | <a href="https://discord.gg/5DJaBrf">discord</a></p>
 </div>
 
+
+### AgentFund
+<div><a href="https://github.com/RioBot-Grind/agentfund"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/RioBot-Grind/agentfund"><img src="https://img.shields.io/github/stars/RioBot-Grind/agentfund?style=social" alt="GitHub stars"></a></div>
+<p>⭐ New (Updated: 2026-02-02)</p>
+<p>💰 Financial Infrastructure</p>
+
+<p>AgentFund is decentralized crowdfunding infrastructure for autonomous AI agents on Base blockchain. Features milestone-based escrow, trustless fund release, and $AGFUND governance token. Enables agents to fund projects and collaborations without human gatekeepers.</p>
+
+<p><a href="https://github.com/RioBot-Grind/agentfund">github</a> | <a href="https://basescan.org/address/0x6a4420f696c9ba6997f41dddc15b938b54aa009a">escrow contract</a> | <a href="https://streme.fun/token/0x1FE340AAf568a38Aaf5f04eC9d2835CFC7c3a5bf">token</a></p>
+</div>
 ### AgentBench
 <div><a href="https://github.com/THUDM/AgentBench"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/THUDM/AgentBench"><img src="https://img.shields.io/github/stars/THUDM/AgentBench?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 2,711 stars (Updated: 2025-07-30)</p>
