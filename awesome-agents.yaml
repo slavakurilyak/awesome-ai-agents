@@ -2655,3 +2655,26 @@
   categories:
     - "Long-Term Memory"
   
+- project: "Agent OS"
+  project_description: "A kernel architecture for governing autonomous AI agents. Provides POSIX-inspired primitives (signals, VFS, syscalls) with deterministic policy enforcement - actions are blocked by the kernel, not by hoping the LLM follows instructions. Integrates with LangChain, CrewAI, OpenAI Assistants."
+  project_is_open_source: true
+  sources:
+    - source: "github"
+      source_url: "https://github.com/imran-siddique/agent-os"
+    - source: "documentation"
+      source_url: "https://imran-siddique.github.io/agent-os-docs/"
+    - source: "npm"
+      source_url: "https://www.npmjs.com/package/agentos-mcp-server"
+  categories:
+    - "Safety Guardrails (Safeguarding)"
+    - "Development Frameworks"
+
+- project: "AgentMesh"
+  project_description: "The secure nervous system for cloud-native agent ecosystems. Provides identity, trust scoring, delegation chains, and compliance automation (EU AI Act, SOC2, HIPAA) for AI agents. Acts as 'SSL for AI Agents' - a governance proxy for MCP servers."
+  project_is_open_source: true
+  sources:
+    - source: "github"
+      source_url: "https://github.com/imran-siddique/agent-mesh"
+  categories:
+    - "Safety Guardrails (Safeguarding)"
+    - "Standardization"
