@@ -1763,6 +1763,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/npi-ai/npi">github</a> | <a href="https://www.npi.ai/">website</a> | <a href="https://www.npi.ai/docs">docs</a> | <a href="https://www.npi.ai/blog">blog</a></p>
 </div>
 
+### ODEI
+<div><a href="https://github.com/odei-ai/web"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/odei-ai/web"><img src="https://img.shields.io/github/stars/odei-ai/web?style=social" alt="GitHub stars"></a></div>
+<p>⭐ 10 stars (Updated: 2026-02-04)</p>
+<p>🤖 AI Agents</p>
+
+<p>ODEI is a local-first "Human Kernel" operating system that orchestrates AI agents using biological telemetry and memory graphs, designed for complete human-AI symbiosis and sovereignty</p>
+
+<p><a href="https://github.com/odei-ai/web">github</a> | <a href="https://odei.ai">website</a> | <a href="https://twitter.com/anton_odei">twitter</a></p>
+</div>
+
 ### Ollama
 <div><a href="https://github.com/ollama/ollama"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/ollama/ollama"><img src="https://img.shields.io/github/stars/ollama/ollama?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 147,994 stars (Updated: 2025-07-30)</p>
