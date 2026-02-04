@@ -853,6 +853,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://www.crewai.com/crewaiplus">website</a></p>
 </div>
 
+
+### CUGA
+<div><a href="https://github.com/cuga-project/cuga-agent"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/cuga-project/cuga-agent"><img src="https://img.shields.io/github/stars/cuga-project/cuga-agent?style=social" alt="GitHub stars"></a></div>
+
+<p>⚙️ Development Frameworks</p>
+
+<p>CUGA (Configurable Generalist Agent) is an open-source, enterprise-focused configurable generalist agent framework from IBM Research for trustworthy, policy-aware agentic automation across APIs and Web apps</p>
+
+<p><a href="https://github.com/cuga-project/cuga-agent">github</a> | <a href="https://cuga.dev/">website</a>| <a href="https://docs.cuga.dev/">docs</a>| <a href="https://huggingface.co/spaces/ibm-research/cuga-agent">huggingface</a></p>
+</div>
+
 ### Cursor
 <div><a href="https://github.com/getcursor/cursor/issues"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 

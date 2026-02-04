@@ -660,6 +660,21 @@
   categories:
     - "AI Agents"
 
+- project: "CUGA"
+  project_description: "CUGA (Configurable Generalist Agent) is an open-source, enterprise-focused configurable generalist agent framework from IBM Research for trustworthy, policy-aware agentic automation across APIs and Web apps."
+  project_is_open_source: true
+  sources:
+    - source: "website"
+      source_url: "https://cuga.dev/"
+    - source: "documentation"
+      source_url: "https://docs.cuga.dev/"
+    - source: "github"
+      source_url: "https://github.com/cuga-project/cuga-agent"
+    - source: "huggingface"
+      source_url: "https://huggingface.co/spaces/ibm-research/cuga-agent"
+  categories:
+    - "Development Framework"
+
 - project: "Agentsy"
   project_description: "Agentsy is an AI-driven platform designed to double team capacity by enhancing efficiency and creativity, starting with operations use cases like real estate"
   project_is_open_source: false
@@ -2654,4 +2669,3 @@
       source_url: "https://www.linkedin.com/company/mem0/"
   categories:
     - "Long-Term Memory"
-  
