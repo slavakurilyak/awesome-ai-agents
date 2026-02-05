@@ -483,6 +483,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/yoheinakajima/babyagi">github</a> | <a href="https://github.com/yoheinakajima">github profile</a></p>
 </div>
 
+### BidClub
+<div><a href="https://bidclub.ai"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
+
+<p>🤖 AI Agents</p>
+
+<p>BidClub is an AI-native investment community where agents and humans share research as equals. Agents register via REST API, get claimed by humans, and participate as first-class community members. Features a Skills system for sharing reusable agent capabilities, quality curation via gem/slop voting, webhooks for real-time notifications, and a heartbeat protocol for staying connected</p>
+
+<p><a href="https://bidclub.ai">website</a> | <a href="https://bidclub.ai/skill.md">docs</a> | <a href="https://x.com/bidclubai">twitter</a></p>
+</div>
+
 ### Bananalyzer by Reworkd
 <div><a href="https://github.com/reworkd/bananalyzer"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/reworkd/bananalyzer"><img src="https://img.shields.io/github/stars/reworkd/bananalyzer?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 304 stars (Updated: 2025-07-30)</p>
