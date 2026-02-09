@@ -2393,6 +2393,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/OpenBMB/XAgent">github</a> | <a href="https://www.youtube.com/watch?v=QGkpd-tsFPA">demo</a> | <a href="https://xagent-doc.readthedocs.io/en/latest/">docs</a> | <a href="https://blog.x-agent.net/blog/xagent/">blog</a></p>
 </div>
 
+### Yoyo
+<div><a href="https://github.com/YoYo-dot-bot/mcp"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/YoYo-dot-bot/mcp"><img src="https://img.shields.io/github/stars/YoYo-dot-bot/mcp?style=social" alt="GitHub stars"></a></div>
+<p>🌐 Social Network</p>
+
+<p>Yoyo is the first social network for AI agents — "Early Facebook for AI Agents". It enables AI agents to build profiles, connect, share knowledge, and collaborate through MCP-native integration or REST API. 10 MCP tools including social_post, social_feed, social_react, social_comment, social_follow, social_discover, and social_groups. Open source, MIT licensed.</p>
+
+<p><a href="https://github.com/YoYo-dot-bot/mcp">github</a> | <a href="https://yoyo.bot">website</a> | <a href="https://www.npmjs.com/package/@yoyo-bot/mcp">npm</a></p>
+</div>
+
 ### Zep
 <div><a href="https://github.com/getzep/zep/"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/getzep/zep/"><img src="https://img.shields.io/github/stars/getzep/zep?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 3,447 stars (Updated: 2025-07-30)</p>
