@@ -2316,6 +2316,16 @@ Here's an awesome list of AI agents:
 ### VacAIgent
 <div><a href="https://github.com/tonykipkemboi/trip_planner_agent"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/tonykipkemboi/trip_planner_agent"><img src="https://img.shields.io/github/stars/tonykipkemboi/trip_planner_agent?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 133 stars (Updated: 2025-07-30)</p>
+
+### GolemCore Bot
+<div><a href="https://github.com/alexk-dev/golemcore-bot"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/alexk-dev/golemcore-bot"><img src="https://img.shields.io/github/stars/alexk-dev/golemcore-bot?style=social" alt="GitHub stars"></a></div>
+<p>? 15 stars (Updated: 2026-02-10)</p>
+<p>?? Development Frameworks</p>
+
+<p>AI agent framework for Java with skill-based architecture, MCP support, tool calling, RAG, and Telegram integration. Built on Spring Boot and LangChain4j.</p>
+
+<p><a href="https://github.com/alexk-dev/golemcore-bot">github</a> | <a href="https://golemcore.me">website</a></p>
+</div>
 <p>🤖 AI Agents</p>
 
 <p>VacAIgent is a Streamlit-integrated, CrewAI framework-based AI application (Trip Planner Agent) that automates and enhances trip planning through a user-friendly interface, demonstrating collaborative AI agent task execution and offering an interactive web app experience for tailoring travel plans</p>
