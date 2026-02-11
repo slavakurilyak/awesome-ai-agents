@@ -1483,6 +1483,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/langchain-ai/langsmith-sdk">github</a> | <a href="https://docs.smith.langchain.com">docs</a> | <a href="https://smith.langchain.com">website</a></p>
 </div>
 
+### Lava AI Spend
+<div><a href="https://lava.so"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
+
+<p>💰 Cost Management</p>
+
+<p>Lava AI Spend provides per-tool budget controls and spend limits for AI API keys. Create isolated keys with hard spend limits, model restrictions, and instant revoke. Supports 38+ providers through a single OpenAI-compatible endpoint.</p>
+
+<p><a href="https://lava.so">website</a></p>
+</div>
+
 ### Libraria
 <div><a href="https://libraria.ai/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
