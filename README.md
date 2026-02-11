@@ -1443,6 +1443,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/langfuse/langfuse">github</a> | <a href="https://langfuse.com/">website</a> | <a href="https://x.com/langfuse">twitter</a> | <a href="https://langfuse.com/discord">discord</a></p>
 </div>
 
+### Opik
+<div><a href="https://github.com/comet-ml/opik"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/comet-ml/opik"><img src="https://img.shields.io/github/stars/comet-ml/opik?style=social" alt="GitHub stars"></a></div>
+<p>⭐ 17,724 stars (Updated: 2026-02-10)</p>
+<p>📊 Evaluation Frameworks</p>
+
+<p>Opik is an open-source platform for LLM observability, evaluations, and prompt optimization.</p>
+
+<p><a href="https://github.com/comet-ml/opik">github</a> | <a href="https://www.comet.com/docs/opik/">docs</a></p>
+</div>
+
 ### LangGraph
 <div><a href="https://github.com/langchain-ai/langgraph"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/langchain-ai/langgraph"><img src="https://img.shields.io/github/stars/langchain-ai/langgraph?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 16,529 stars (Updated: 2025-07-30)</p>
