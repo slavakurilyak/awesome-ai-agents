@@ -583,6 +583,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/mayt/BrowserGPT">github</a> | <a href="https://github.com/mayt">github profile</a></p>
 </div>
 
+### ClawdTalk
+<div><a href="https://clawdtalk.com"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/team-telnyx/clawdtalk-client"><img src="https://img.shields.io/github/stars/team-telnyx/clawdtalk-client?style=social" alt="GitHub stars"></a></div>
+<p>⭐ 1 stars (Updated: 2025-07-30)</p>
+<p>📞 Phone Calling</p>
+
+<p>ClawdTalk provides a voice interface for AI agents, enabling phone calls and SMS to interact with your AI. Built on Telnyx infrastructure</p>
+
+<p><a href="https://clawdtalk.com">website</a> | <a href="https://github.com/team-telnyx/clawdtalk-client">github</a></p>
+</div>
+
 ### BrowsingAgent by Agency Swarm
 <div><a href="https://github.com/VRSEN/agency-swarm/tree/main/agency_swarm/agents/BrowsingAgent"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a></div>
 
@@ -2281,6 +2291,16 @@ Here's an awesome list of AI agents:
 <p>W&B Traces enhances AI agent observability by providing intuitive visualizations for debugging LLMs, allowing practitioners to review past results, debug errors, and gain insights into model behavior</p>
 
 <p><a href="https://wandb.ai/site/traces">website</a></p>
+</div>
+
+### Telnyx
+<div><a href="https://telnyx.com"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
+
+<p>☎️ Phone Number Providers</p>
+
+<p>Telnyx is a CPaaS platform providing voice AI, SIP trunking, SMS, and phone numbers for building AI-powered phone agents and communication applications</p>
+
+<p><a href="https://telnyx.com">website</a> | <a href="https://telnyx.com/products/voice-api">voice API</a></p>
 </div>
 
 ### Twilio
