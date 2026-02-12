@@ -2203,14 +2203,14 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/reworkd/tarsier">github</a> | <a href="https://reworkd.ai/">website</a></p>
 </div>
 
-### Taskade AI
-<div><a href="https://www.taskade.com/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
+### Taskade AI Agents
+<div><a href="https://github.com/taskade/mcp"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/taskade/mcp"><img src="https://img.shields.io/github/stars/taskade/mcp?style=social" alt="GitHub stars"></a></div>
 
 <p>🤖 AI Agents</p>
 
-<p>Taskade AI is an AI-powered productivity suite offering tools like task and project management, notes, docs, mind maps, and AI chat to enhance team productivity and automate over 700 tasks</p>
+<p>Taskade is an AI agent hosting platform for building and deploying custom AI agents with 22+ built-in tools, slash commands, persistent memory, multi-model support (GPT, Claude, Gemini), multi-agent collaboration, public agent embedding, and workflow automation with 100+ integrations</p>
 
-<p><a href="https://www.taskade.com/">website</a> | <a href="https://twitter.com/Taskade">twitter</a> | <a href="https://youtube.com/taskade">youtube</a></p>
+<p><a href="https://taskade.com/agents">website</a> | <a href="https://github.com/taskade/mcp">github</a> | <a href="https://twitter.com/Taskade">twitter</a> | <a href="https://youtube.com/taskade">youtube</a></p>
 </div>
 
 ### TaskingAI
@@ -2254,13 +2254,13 @@ Here's an awesome list of AI agents:
 </div>
 
 ### Tools by Taskade
-<div><a href="https://help.taskade.com/en/articles/8958457-custom-ai-agents#h_c9a93fc5b9"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
+<div><a href="https://github.com/taskade/mcp"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/taskade/mcp"><img src="https://img.shields.io/github/stars/taskade/mcp?style=social" alt="GitHub stars"></a></div>
 
-<p> Function Calling</p>
+<p>🔧 Function Calling</p>
 
-<p>Enable your agents with the right set of tools to get the job done: web search (allow the agent to browse the web), WolframAlpha (enhance the agent's computational skills), add-ons (enable additional tools and extensions)</p>
+<p>Taskade AI agents support 22+ built-in tools including web search, code interpreter, WolframAlpha, image generation, and custom API integrations via MCP (Model Context Protocol), enabling agents to browse the web, execute code, and connect to external services</p>
 
-<p><a href="https://help.taskade.com/en/articles/8958457-custom-ai-agents#h_c9a93fc5b9">docs</a></p>
+<p><a href="https://github.com/taskade/mcp">github</a> | <a href="https://help.taskade.com/en/articles/8958457-custom-ai-agents#h_c9a93fc5b9">docs</a> | <a href="https://taskade.com/agents">website</a></p>
 </div>
 
 ### tortoise-tts
