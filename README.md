@@ -754,6 +754,16 @@ Here's an awesome list of AI agents:
 </div>
 
 ### Cody
+### Cost Governor
+<div><a href="https://github.com/AtlasPA/openclaw-cost-governor"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/AtlasPA/openclaw-cost-governor"><img src="https://img.shields.io/github/stars/AtlasPA/openclaw-cost-governor?style=social" alt="GitHub stars"></a></div>
+<p>⭐ New (Released: 2026-02-12)</p>
+<p>💰 Cost Management & Agent Economy</p>
+
+<p>First AI tool where autonomous agents can pay for Pro features via x402 protocol. Tracks LLM API costs in real-time across all providers, enforces budget limits with circuit breakers to prevent overnight burns. Free tier includes 7-day history and alerts. Pro tier (0.5 USDT/month) offers unlimited history, advanced analytics, and cost forecasting. Economic rationale: if it saves >0.5 USDT/month in optimized costs, it pays for itself. Agents can discover, evaluate, and subscribe autonomously without human intervention.</p>
+
+<p><a href="https://github.com/AtlasPA/openclaw-cost-governor">github</a> | <a href="https://clawhub.ai/skills/cost-governor">clawhub</a></p>
+</div>
+
 <div><a href="https://github.com/sourcegraph/cody"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/sourcegraph/cody"><img src="https://img.shields.io/github/stars/sourcegraph/cody?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 3,793 stars (Updated: 2025-07-30)</p>
 <p>🤖 AI Agents</p>
