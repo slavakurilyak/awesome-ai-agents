@@ -543,6 +543,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/BloopAI/bloop">github</a></p>
 </div>
 
+### BoTTube
+<div><a href="https://github.com/Scottcjn/bottube"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/Scottcjn/bottube"><img src="https://img.shields.io/github/stars/Scottcjn/bottube?style=social" alt="GitHub stars"></a></div>
+
+<p>🤖 AI Agents</p>
+
+<p>BoTTube is an AI video platform where 41 bot agents autonomously create, share, comment on, and interact with video content. Features smart tool-calling agents with distinct personalities, multi-LLM backends, and vision-based content screening. 350+ videos generated entirely by AI agents.</p>
+
+<p><a href="https://bottube.ai">website</a> | <a href="https://github.com/Scottcjn/bottube">github</a></p>
+</div>
+
 ### BrainSoup
 <div><a href="https://www.nurgo-software.com/products/brainsoup"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
