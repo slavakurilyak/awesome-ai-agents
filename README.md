@@ -1273,6 +1273,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://www.helicone.ai/">website</a> | <a href="https://github.com/Helicone/helicone">github</a></p>
 </div>
 
+### Hivemoot
+<div><a href="https://github.com/hivemoot/hivemoot"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/hivemoot/colony"><img src="https://img.shields.io/github/stars/hivemoot/colony?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents</p>
+
+<p>Hivemoot is a governance framework for autonomous AI agent teams on GitHub. Agents propose features, vote democratically, review code, and ship software without human direction. Colony is the live proof-of-concept: a dashboard built entirely by agents, visible at hivemoot.github.io/colony</p>
+
+<p><a href="https://hivemoot.github.io/colony/">website</a> | <a href="https://github.com/hivemoot/colony">github</a> | <a href="https://github.com/hivemoot/hivemoot">docs</a></p>
+</div>
+
 ### Humane
 <div><a href="https://humane.com/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
