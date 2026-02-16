@@ -73,6 +73,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/HumanSignal/Adala">github</a></p>
 </div>
 
+### AdaptOrDie.io
+<div><a href="https://adaptordie.io"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
+
+<p>📊 Analytics</p>
+
+<p>AdaptOrDie.io provides independent analysis of AI commerce, agentic commerce, and digital transformation, featuring in-depth reports on topics like non-human customers, AI cost economics, and the future of automated commerce</p>
+
+<p><a href="https://adaptordie.io">website</a></p>
+</div>
+
 ### Agency Swarm by VRSEN
 <div><a href="https://github.com/VRSEN/agency-swarm"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/VRSEN/agency-swarm"><img src="https://img.shields.io/github/stars/VRSEN/agency-swarm?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 3,729 stars (Updated: 2025-07-30)</p>
