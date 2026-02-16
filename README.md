@@ -1953,6 +1953,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://play.ht/">website</a></p>
 </div>
 
+### PM Skills
+<div><a href="https://github.com/product-on-purpose/pm-skills"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/product-on-purpose/pm-skills"><img src="https://img.shields.io/github/stars/product-on-purpose/pm-skills?style=social" alt="GitHub stars"></a></div>
+<p>⭐ 23 stars (Updated: 2026-02-16)</p>
+<p>⚙️ Development Frameworks</p>
+
+<p>PM Skills is an open-source library of 24 product management agent skills spanning the full product lifecycle, providing plug-and-play skill definitions, templates, and workflow bundles that follow the agentskills.io specification for consistent, professional PM outputs</p>
+
+<p><a href="https://github.com/product-on-purpose/pm-skills">github</a> | <a href="https://agentskills.io">website</a></p>
+</div>
+
 ### PraisonAI
 <div><a href="https://github.com/MervinPraison/PraisonAI/"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/MervinPraison/PraisonAI/"><img src="https://img.shields.io/github/stars/MervinPraison/PraisonAI?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 5,237 stars (Updated: 2025-07-30)</p>
