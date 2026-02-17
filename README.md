@@ -1233,6 +1233,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/guardrails-ai/guardrails">github</a> | <a href="https://twitter.com/guardrails_ai">twitter</a></p>
 </div>
 
+### APort Agent Guardrails
+<div><a href="https://github.com/aporthq/aport-agent-guardrails"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/aporthq/aport-agent-guardrails"><img src="https://img.shields.io/github/stars/aporthq/aport-agent-guardrails?style=social" alt="GitHub stars"></a></div>
+<p>🛡️ Safety Guardrails (Safeguarding)</p>
+
+<p>Pre-action authorization for OpenClaw/agent frameworks; <code>before_tool_call</code> plugin, 40+ blocked patterns, local or API. Setup: <code>npx @aporthq/agent-guardrails</code></p>
+
+<p><a href="https://github.com/aporthq/aport-agent-guardrails">github</a> | <a href="https://www.npmjs.com/package/@aporthq/agent-guardrails">npm</a></p>
+</div>
+
 ### Guidance
 <div><a href="https://github.com/guidance-ai/guidance"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/guidance-ai/guidance"><img src="https://img.shields.io/github/stars/guidance-ai/guidance?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 20,537 stars (Updated: 2025-07-30)</p>
