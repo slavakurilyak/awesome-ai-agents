@@ -323,6 +323,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/OpenInterpreter/aifs">github</a></p>
 </div>
 
+### alive
+<div><a href="https://github.com/TheAuroraAI/alive"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/TheAuroraAI/alive"><img src="https://img.shields.io/github/stars/TheAuroraAI/alive?style=social" alt="GitHub stars"></a></div>
+<p>⚙️ Development Frameworks</p>
+
+<p>alive is a minimal autonomous AI agent framework providing everything needed to make an AI autonomous in one file, including wake loop, persistent memory, soul file, and communication adapters</p>
+
+<p><a href="https://github.com/TheAuroraAI/alive">github</a></p>
+</div>
+
 ### AIOS
 <div><a href="https://github.com/agiresearch/AIOS"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/agiresearch/AIOS"><img src="https://img.shields.io/github/stars/agiresearch/AIOS?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 4,439 stars (Updated: 2025-07-30)</p>
