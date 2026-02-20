@@ -713,6 +713,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/risonsimon/claude-artifacts-react">github</a> | <a href="https://www.reddit.com/r/ClaudeAI/comments/1dtquuh/i_made_an_opensource_template_for_sharing_claudes/">reddit announcement</a></p>
 </div>
 
+### claude-code-web
+<div><a href="https://github.com/exitxio/claude-code-web"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/exitxio/claude-code-web"><img src="https://img.shields.io/github/stars/exitxio/claude-code-web?style=social" alt="GitHub stars"></a></div>
+
+<p>⚙️ Development Frameworks</p>
+
+<p>Self-hosted server that exposes Claude Code agent as an HTTP endpoint. Full agent capabilities (file I/O, shell, tools) over HTTP. No API key needed</p>
+
+<p><a href="https://github.com/exitxio/claude-code-web">github</a></p>
+</div>
+
 ### Claude-React-Jumpstart
 <div><a href="https://github.com/Bklieger/Claude-React-Jumpstart"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/Bklieger/Claude-React-Jumpstart"><img src="https://img.shields.io/github/stars/Bklieger/Claude-React-Jumpstart?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 115 stars (Updated: 2025-07-30)</p>
