@@ -1953,6 +1953,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://play.ht/">website</a></p>
 </div>
 
+### PolicyLayer
+<div><a href="https://github.com/PolicyLayer/PolicyLayer"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/PolicyLayer/PolicyLayer"><img src="https://img.shields.io/github/stars/PolicyLayer/PolicyLayer?style=social" alt="GitHub stars"></a></div>
+
+<p>🔒 Security</p>
+
+<p>PolicyLayer is a non-custodial spending controls SDK for AI agents. Drop-in wrapper for any EVM wallet — enforce spending limits, recipient whitelists, and kill switches without touching private keys</p>
+
+<p><a href="https://github.com/PolicyLayer/PolicyLayer">github</a> | <a href="https://policylayer.com/">website</a></p>
+</div>
+
 ### PraisonAI
 <div><a href="https://github.com/MervinPraison/PraisonAI/"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/MervinPraison/PraisonAI/"><img src="https://img.shields.io/github/stars/MervinPraison/PraisonAI?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 5,237 stars (Updated: 2025-07-30)</p>
