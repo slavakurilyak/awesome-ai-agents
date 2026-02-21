@@ -1273,6 +1273,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://www.helicone.ai/">website</a> | <a href="https://github.com/Helicone/helicone">github</a></p>
 </div>
 
+### Hivekit
+<div><a href="https://github.com/fraygeist/hivekit"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/fraygeist/hivekit"><img src="https://img.shields.io/github/stars/fraygeist/hivekit?style=social" alt="GitHub stars"></a></div>
+
+<p>⚙️ Development Frameworks</p>
+
+<p>Hivekit is a git-native agent swarm coordination tool — a single bash script with no infrastructure needed. Agents read and write files while git syncs state, enabling multi-agent collaboration through the filesystem</p>
+
+<p><a href="https://github.com/fraygeist/hivekit">github</a></p>
+</div>
+
 ### Humane
 <div><a href="https://humane.com/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
