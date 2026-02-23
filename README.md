@@ -1764,14 +1764,14 @@ Here's an awesome list of AI agents:
 </div>
 
 ### ODEI
-<div><a href="https://github.com/odei-ai/web"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/odei-ai/web"><img src="https://img.shields.io/github/stars/odei-ai/web?style=social" alt="GitHub stars"></a></div>
-<p>⭐ 10 stars (Updated: 2026-02-04)</p>
-<p>🤖 AI Agents</p>
+<div><a href="https://github.com/odei-ai/web"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a></div>
+<p>⚙️ Agent Infrastructure</p>
 
-<p>ODEI is a local-first "Human Kernel" operating system that orchestrates AI agents using biological telemetry and memory graphs, designed for complete human-AI symbiosis and sovereignty</p>
+<p>ODEI is a constitutional world model as a service for AI agents — persistent Neo4j knowledge graph (91 nodes, 6 domains), 7-layer AI safety guardrails, and smart contract audit. Production ACP Agent #3082 on Virtuals Protocol since January 2026.</p>
 
-<p><a href="https://github.com/odei-ai/web">github</a> | <a href="https://odei.ai">website</a> | <a href="https://twitter.com/anton_odei">twitter</a></p>
+<p><a href="https://api.odei.ai">website</a> | <a href="https://github.com/odei-ai/web">github</a> | <a href="https://github.com/odei-ai/mcp-odei">mcp-server</a></p>
 </div>
+
 
 ### Ollama
 <div><a href="https://github.com/ollama/ollama"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/ollama/ollama"><img src="https://img.shields.io/github/stars/ollama/ollama?style=social" alt="GitHub stars"></a></div>
