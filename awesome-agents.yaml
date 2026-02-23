@@ -2655,3 +2655,16 @@
   categories:
     - "Long-Term Memory"
   
+  - project: "OpenAgents"
+    project_description: "OpenAgents is an open-source platform for building AI agent networks where multiple agents connect, communicate, and collaborate over WebSocket, gRPC, HTTP, MCP, and A2A protocols. It provides a unified framework for multi-agent orchestration with support for both centralized and decentralized topologies."
+    project_is_open_source: true
+    sources:
+      - source: "github"
+        source_url: "https://github.com/openagents-org/openagents"
+      - source: "website"
+        source_url: "https://openagents.org"
+      - source: "pypi"
+        source_url: "https://pypi.org/project/openagents/"
+    categories:
+      - "AI Agents"
+      - "Multi-Agent Systems"
