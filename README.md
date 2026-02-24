@@ -263,6 +263,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://deco.cx/ai-assistant">website</a> | <a href="https://github.com/deco-cx">github profile</a></p>
 </div>
 
+### AI Assistant for SMBs
+<div><a href="https://openclawapp.netlify.app/assistant/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
+
+<p>🤖 AI Agents</p>
+
+<p>Managed AI assistant service for small businesses that executes work autonomously - handles calls, emails, reports, bookings. Integrates with business tools (email, CRM, phone, accounting), learns workflows through conversation, runs 24/7. Real customer outcomes: plumbers, accountants, real estate agents, agencies saving 10-20hrs/week and increasing revenue 20-40%</p>
+
+<p><a href="https://openclawapp.netlify.app/assistant/">website</a></p>
+</div>
+
 ### AI Researcher
 <div><a href="https://github.com/mshumer/ai-researcher"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/mshumer/ai-researcher"><img src="https://img.shields.io/github/stars/mshumer/ai-researcher?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 932 stars (Updated: 2025-07-30)</p>
