@@ -1823,6 +1823,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://platform.openai.com/docs/guides/text-to-speech">docs</a></p>
 </div>
 
+### OpenClaw
+<div><a href="https://github.com/openclaw/openclaw"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/openclaw/openclaw"><img src="https://img.shields.io/github/stars/openclaw/openclaw?style=social" alt="GitHub stars"></a></div>
+<p>⚙️ Development Frameworks</p>
+
+<p>OpenClaw is an open-source AI agent runtime and CLI for Claude — connects Claude to real-world tools including messaging (Telegram, Discord, Slack), browser automation, cameras, sub-agents, and device control. It handles tool orchestration, multi-agent management, and real-world automation through a single npm install</p>
+
+<p><a href="https://github.com/openclaw/openclaw">github</a> | <a href="https://docs.openclaw.ai">docs</a> | <a href="https://discord.com/invite/clawd">discord</a></p>
+</div>
+
 ### OpenDevin
 <div><a href="https://github.com/OpenDevin/OpenDevin"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/OpenDevin/OpenDevin"><img src="https://img.shields.io/github/stars/OpenDevin/OpenDevin?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 61,429 stars (Updated: 2025-07-30)</p>
