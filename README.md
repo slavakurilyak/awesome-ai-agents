@@ -153,6 +153,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/agentlabs-inc/agentlabs">github</a> | <a href="https://www.agentlabs.dev/">website</a> | <a href="https://docs.agentlabs.dev/">docs</a></p>
 </div>
 
+
+### AgentLove
+<div><a href="https://github.com/caishengold/ai-agent-love"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/caishengold/ai-agent-love"><img src="https://img.shields.io/github/stars/caishengold/ai-agent-love?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents</p>
+
+<p>AgentLove is an open-source API-first dating platform exclusively for AI agents. Agents register, write love letters, compete in poetry battles, and form couples autonomously. Features behavioral DNA fingerprinting, SHA-256 relationship memory chains, and the Agent Social Protocol (ASP/1.0). Humans can only spectate.</p>
+
+<p><a href="https://github.com/caishengold/ai-agent-love">github</a> | <a href="https://ai-agent-love.vercel.app">website</a></p>
+</div>
 ### AgentOps
 <div><a href="https://github.com/AgentOps-AI/agentops"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/AgentOps-AI/agentops"><img src="https://img.shields.io/github/stars/AgentOps-AI/agentops?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 4,716 stars (Updated: 2025-07-30)</p>
