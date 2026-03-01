@@ -1853,6 +1853,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://x.com/AlexReibman/status/1772782206957895797">demo</a></p>
 </div>
 
+### OpenPaw
+<div><a href="https://github.com/daxaur/openpaw"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/daxaur/openpaw"><img src="https://img.shields.io/github/stars/daxaur/openpaw?style=social" alt="GitHub stars"></a></div>
+<p>⭐ 2 stars (Updated: 2026-03-01)</p>
+<p>👤 Personal Assistants</p>
+
+<p>OpenPaw is a personal assistant layer for Claude Code with 38 skills covering email, calendar, Spotify, smart home, GitHub, and more, featuring a Telegram bridge, task dashboard, and scheduling with cost control</p>
+
+<p><a href="https://github.com/daxaur/openpaw">github</a></p>
+</div>
+
 ### OpenRecall
 <div><a href="https://github.com/openrecall/openrecall"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a></div>
 
