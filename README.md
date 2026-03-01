@@ -723,6 +723,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/Bklieger/Claude-React-Jumpstart">github</a> | <a href="https://x.com/BenjaminKlieger/status/1804264035464155220">twitter announcement</a></p>
 </div>
 
+### clawr.ing
+<div><a href="https://clawr.ing"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
+
+<p>📞 Phone Calling</p>
+
+<p>clawr.ing is a phone calling service for AI agents, giving any LLM the ability to make real outbound phone calls. A managed service with no Twilio required, supporting 100+ countries and 70+ voices. Built for OpenClaw, works with any LLM</p>
+
+<p><a href="https://clawr.ing">website</a></p>
+</div>
+
 ### CLIN
 <div><a href="https://github.com/allenai/clin"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/allenai/clin"><img src="https://img.shields.io/github/stars/allenai/clin?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 83 stars (Updated: 2025-07-30)</p>
