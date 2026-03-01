@@ -239,6 +239,7 @@ Here's an awesome list of AI agents:
 <p>🤖 AI Agents</p>
 
 <p>Dialpad introduces Ai Agent Assist, offering real-time, Ai-powered answers to enhance customer service through deep integrations, reducing agent ramp time, and providing actionable insights with out-of-the-box productivity</p>
+- [AI Interview Coach](https://em-tools.io/interview-prep) - Voice-based AI behavioral interview practice for engineering managers and software engineers. 130+ role-specific questions, STAR-format scoring, and 3 interviewer personas.
 
 <p><a href="https://www.dialpad.com/ai-labs/ai-agent-assist/">landing page</a></p>
 </div>
