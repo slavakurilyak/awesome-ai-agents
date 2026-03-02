@@ -893,6 +893,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/gmpetrov/databerry/">github</a></p>
 </div>
 
+### DNA Claude Analysis
+<div><a href="https://github.com/shmlkv/dna-claude-analysis"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/shmlkv/dna-claude-analysis"><img src="https://img.shields.io/github/stars/shmlkv/dna-claude-analysis?style=social" alt="GitHub stars"></a></div>
+<p>🧬 Healthcare</p>
+
+<p>Personal genome analysis toolkit using Claude to analyze raw DNA data across 17 categories (ancestry, health risks, nutrition, fitness, pharmacogenomics, and more) and generate a terminal-style HTML visualization</p>
+
+<p><a href="https://github.com/shmlkv/dna-claude-analysis">github</a></p>
+</div>
+
 ### DB-GPT
 <div><a href="https://github.com/eosphoros-ai/DB-GPT"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/eosphoros-ai/DB-GPT"><img src="https://img.shields.io/github/stars/eosphoros-ai/DB-GPT?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 17,056 stars (Updated: 2025-07-30)</p>
