@@ -803,6 +803,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://context.ai/">website</a> | <a href="https://docs.context.ai/">docs</a></p>
 </div>
 
+### Context Engine AI
+<div><a href="https://github.com/Quinnod345/context-engine"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/Quinnod345/context-engine"><img src="https://img.shields.io/github/stars/Quinnod345/context-engine?style=social" alt="GitHub stars"></a></div>
+
+<p>⚙️ Development Frameworks</p>
+
+<p>Context Engine AI is a lightweight context engine for AI agents that ingests events from any source, queries with natural language, and returns ranked results with temporal decay and auto-deduplication. Zero config default with SQLite and local TF-IDF embeddings, scales to PostgreSQL + pgvector + OpenAI embeddings for production</p>
+
+<p><a href="https://github.com/Quinnod345/context-engine">github</a> | <a href="https://www.npmjs.com/package/context-engine-ai">npm</a></p>
+</div>
+
 ### Continue
 <div><a href="https://github.com/continuedev/continue"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/continuedev/continue"><img src="https://img.shields.io/github/stars/continuedev/continue?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 27,982 stars (Updated: 2025-07-30)</p>
