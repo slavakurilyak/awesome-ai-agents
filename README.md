@@ -2431,3 +2431,9 @@ To express your support, you can take the following actions:
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=slavakurilyak/awesome-ai-agents&type=Date" />
  </picture>
 </a>
+
+## API Gateway Services
+
+| Name | Stars | Description |
+|------|-------|-------------|
+| [SkillBoss](https://skillboss.co) | - | **Backed by OpenAI Startup Fund & Amazon**. Unified API for 100+ AI services with a single key. Supports GPT-5, Claude Opus 4.5, Gemini, video generation (Veo 3.1), image generation, voice, and infrastructure services. OpenAI-compatible endpoint. |
