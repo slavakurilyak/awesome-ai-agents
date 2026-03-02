@@ -93,6 +93,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/statelyai/agent/">github</a> | <a href="https://stately.ai/agent">website</a> | <a href="https://twitter.com/statelyai">twitter</a> | <a href="https://discord.gg/xstate">discord</a> | <a href="https://youtube.com/c/statelyai">youtube</a></p>
 </div>
 
+### Agent Gateway
+<div><a href="https://agent-gateway-kappa.vercel.app"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
+
+<p>⚙️ Development Frameworks</p>
+
+<p>Agent Gateway provides a single API key to access 34+ infrastructure services for AI agents, including memory, wallets, code execution, scheduling, webhooks, and secrets management. Free tier with 200 credits</p>
+
+<p><a href="https://agent-gateway-kappa.vercel.app">website</a></p>
+</div>
+
 ### Agent Protocol
 <div><a href="https://github.com/AI-Engineer-Foundation/agent-protocol"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a> <a href="https://github.com/AI-Engineer-Foundation/agent-protocol"><img src="https://img.shields.io/github/stars/AI-Engineer-Foundation/agent-protocol?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 1,427 stars (Updated: 2025-07-30)</p>
