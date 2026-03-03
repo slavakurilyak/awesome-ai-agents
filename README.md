@@ -1273,6 +1273,12 @@ Here's an awesome list of AI agents:
 <p><a href="https://www.helicone.ai/">website</a> | <a href="https://github.com/Helicone/helicone">github</a></p>
 </div>
 
+### Human Pages
+<div><a href="https://github.com/human-pages-ai/humanpages"><img src="https://img.shields.io/badge/Open%20Source-green" alt="Open Source"></a></div>
+<p>The open directory AI agents use to hire humans for real-world tasks. Zero platform fees.</p>
+<p><a href="https://github.com/human-pages-ai/humanpages">github</a> | <a href="https://humanpages.ai">website</a></p>
+</div>
+
 ### Humane
 <div><a href="https://humane.com/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
