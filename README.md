@@ -1383,6 +1383,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://www.kapa.ai/">website</a> | <a href="https://docs.kapa.ai/">docs</a></p>
 </div>
 
+### KinBot
+<div><a href="https://github.com/MarlBurroW/kinbot"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/MarlBurroW/kinbot"><img src="https://img.shields.io/github/stars/MarlBurroW/kinbot?style=social" alt="GitHub stars"></a></div>
+
+<p>⚙️ Development Frameworks</p>
+
+<p>KinBot is a self-hosted AI agent platform with persistent memory (hybrid search + LLM re-ranking), multi-agent collaboration, Mini-Apps SDK for interactive UIs, 23+ LLM providers including Ollama, 6 messaging channels (Telegram, Discord, Slack, WhatsApp, Signal, Matrix), cron jobs for autonomous tasks, and a hot-reloadable plugin system. Runs on SQLite with zero infrastructure requirements.</p>
+
+<p><a href="https://github.com/MarlBurroW/kinbot">github</a> | <a href="https://marlburrow.github.io/kinbot/">website</a></p>
+</div>
+
 ### LangChain
 <div><a href="https://github.com/langchain-ai/langchain"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/langchain-ai/langchain"><img src="https://img.shields.io/github/stars/langchain-ai/langchain?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 112,549 stars (Updated: 2025-07-30)</p>
