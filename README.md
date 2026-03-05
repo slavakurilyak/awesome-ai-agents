@@ -453,6 +453,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/Significant-Gravitas/AutoGPT">github</a> | <a href="https://github.com/Significant-Gravitas">github profile</a></p>
 </div>
 
+### Autohand Code CLI
+<div><a href="https://github.com/autohandai/code-cli"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/autohandai/code-cli"><img src="https://img.shields.io/github/stars/autohandai/code-cli?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents</p>
+
+<p>Autohand Code CLI is a self-evolving autonomous coding agent built for scalability and full developer autonomy in the terminal. Uses the ReAct pattern, supports 40+ tools, multiple LLM providers (OpenRouter, Anthropic, OpenAI, Ollama, local models), VS Code/Zed integration, semantic code search, and a modular skills system</p>
+
+<p><a href="https://github.com/autohandai/code-cli">github</a> | <a href="https://www.autohand.ai/code/">website</a></p>
+</div>
+
 ### Axflow
 <div><a href="https://github.com/axflow/axflow"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/axflow/axflow"><img src="https://img.shields.io/github/stars/axflow/axflow?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 1,122 stars (Updated: 2025-07-30)</p>
