@@ -2660,9 +2660,9 @@
   project_is_open_source: true
   sources:
     - source: "github"
-      source_url: "https://github.com/imran-siddique/agent-os"
+      source_url: "https://github.com/microsoft/agent-governance-toolkit"
     - source: "documentation"
-      source_url: "https://imran-siddique.github.io/agent-os-docs/"
+      source_url: "https://github.com/microsoft/agent-governance-toolkit/tree/main/docs/"
     - source: "npm"
       source_url: "https://www.npmjs.com/package/agentos-mcp-server"
   categories:
@@ -2674,7 +2674,7 @@
   project_is_open_source: true
   sources:
     - source: "github"
-      source_url: "https://github.com/imran-siddique/agent-mesh"
+      source_url: "https://github.com/microsoft/agent-governance-toolkit"
   categories:
     - "Safety Guardrails (Safeguarding)"
     - "Standardization"
