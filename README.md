@@ -174,12 +174,12 @@ Here's an awesome list of AI agents:
 </div>
 
 ### Agent OS (Safety-First)
-<div><a href="https://github.com/imran-siddique/agent-os"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/imran-siddique/agent-os"><img src="https://img.shields.io/github/stars/imran-siddique/agent-os?style=social" alt="GitHub stars"></a></div>
+<div><a href="https://github.com/microsoft/agent-governance-toolkit"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/microsoft/agent-governance-toolkit"><img src="https://img.shields.io/github/stars/microsoft/agent-governance-toolkit?style=social" alt="GitHub stars"></a></div>
 <p>⚙️ Development Frameworks</p>
 
 <p>Agent OS is a visual agent development platform with VS Code extension for building, testing, and deploying safe AI agents. Features policy-based safety controls, CMVK multi-model verification, compliance frameworks (GDPR, HIPAA, SOC2, PCI-DSS), 50+ templates, and GitHub Copilot integration. No orchestration boilerplate required.</p>
 
-<p><a href="https://github.com/imran-siddique/agent-os">github</a> | <a href="https://marketplace.visualstudio.com/items?itemName=agent-os.agent-os-vscode">vs code extension</a> | <a href="https://imran-siddique.github.io/agent-os-docs/">docs</a></p>
+<p><a href="https://github.com/microsoft/agent-governance-toolkit">github</a> | <a href="https://marketplace.visualstudio.com/items?itemName=agent-os.agent-os-vscode">vs code extension</a> | <a href="https://github.com/microsoft/agent-governance-toolkit/tree/main/docs/">docs</a></p>
 </div>
 
 ### Agents by AI Waves
