@@ -1653,6 +1653,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/mem0ai/mem0">github</a> | <a href="https://app.mem0.ai/">website</a> | <a href="https://docs.mem0.ai/">docs</a> | <a href="https://mem0.ai/discord">discord</a> | <a href="https://x.com/mem0ai">twitter</a> | <a href="https://github.com/mem0ai">github profile</a> | <a href="https://www.linkedin.com/company/mem0/">linkedin</a></p>
 </div>
 
+### Remembra
+<div><a href="https://github.com/remembra-ai/remembra"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/remembra-ai/remembra"><img src="https://img.shields.io/github/stars/remembra-ai/remembra?style=social" alt="GitHub stars"></a></div>
+<p>🧠 Long-Term Memory</p>
+
+<p>Remembra is a self-hosted semantic memory layer for AI agents with automatic entity extraction and knowledge graphs. Features GDPR-compliant forget, Python & TypeScript SDKs, and MCP server for Claude.</p>
+
+<p><a href="https://github.com/remembra-ai/remembra">github</a> | <a href="https://remembra.dev/">website</a> | <a href="https://docs.remembra.dev/">docs</a> | <a href="https://discord.gg/Bzv3JshRa3">discord</a> | <a href="https://x.com/remembradev">twitter</a></p>
+</div>
+
 ### MemGPT
 <div><a href="https://github.com/cpacker/MemGPT/"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/cpacker/MemGPT/"><img src="https://img.shields.io/github/stars/cpacker/MemGPT?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 17,568 stars (Updated: 2025-07-30)</p>
