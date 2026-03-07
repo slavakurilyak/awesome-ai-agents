@@ -483,6 +483,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/yoheinakajima/babyagi">github</a> | <a href="https://github.com/yoheinakajima">github profile</a></p>
 </div>
 
+### WFGY Problem Map
+<div><a href="https://github.com/onestardao/WFGY"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/onestardao/WFGY"><img src="https://img.shields.io/github/stars/onestardao/WFGY?style=social" alt="GitHub stars"></a></div>
+<p>⭐ 1600+ stars (Updated: 2026/03/07)</p>
+<p>🧠 RAG Debugging Framework</p>
+
+<p>The WFGY Problem Map is a structured taxonomy for diagnosing common Retrieval-Augmented Generation (RAG) pipeline failures such as hallucination, retrieval drift, grounding issues, and vector search mismatches. It provides a practical debugging map to help developers identify and fix failure modes when building real-world LLM and RAG systems.</p>
+
+<p><a href="https://github.com/onestardao/WFGY">github</a> | <a href="https://github.com/onestardao/WFGY/blob/main/ProblemMap/README.md">problem map</a></p>
+</div>
+
 ### Bananalyzer by Reworkd
 <div><a href="https://github.com/reworkd/bananalyzer"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/reworkd/bananalyzer"><img src="https://img.shields.io/github/stars/reworkd/bananalyzer?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 304 stars (Updated: 2025-07-30)</p>
