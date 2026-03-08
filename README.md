@@ -2083,6 +2083,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://shortx.ai/">website</a></p>
 </div>
 
+### Squads CLI
+<div><a href="https://github.com/agents-squads/squads-cli"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/agents-squads/squads-cli"><img src="https://img.shields.io/github/stars/agents-squads/squads-cli?style=social" alt="GitHub stars"></a></div>
+<p>⭐ 33 stars (Updated: 2026-03-08)</p>
+<p>⚙️ Development Frameworks</p>
+
+<p>Squads CLI is an open-source CLI for managing autonomous AI agent squads with persistent memory, goals, and learning. Organize agents into domain-aligned squads that coordinate, learn from each other, and get smarter over time. Built on Claude API</p>
+
+<p><a href="https://github.com/agents-squads/squads-cli">github</a> | <a href="https://agents-squads.com">website</a> | <a href="https://www.npmjs.com/package/squads-cli">npm</a></p>
+</div>
+
 ### Streaming Assistants
 <div><a href="https://github.com/phact/streaming-assistants"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/phact/streaming-assistants"><img src="https://img.shields.io/github/stars/phact/streaming-assistants?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 8 stars (Updated: 2025-07-30)</p>
