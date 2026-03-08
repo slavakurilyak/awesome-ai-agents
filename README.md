@@ -1803,6 +1803,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/agiresearch/OpenAGI">github</a> | <a href="https://github.com/agiresearch">github profile</a></p>
 </div>
 
+### OpenClaw
+<div><a href="https://openclawapp.netlify.app/"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a></div>
+
+<p>⚙️ Development Frameworks</p>
+
+<p>OpenClaw is a personal AI assistant operating locally with multi-channel support (Telegram, Slack, iMessage). Self-hosted alternative to cloud automation platforms with autonomous operation via cron jobs, heartbeat monitoring, and multi-agent orchestration. Token cost optimization with model routing (Opus/Sonnet/Haiku).</p>
+
+<p><a href="https://openclawapp.netlify.app/">website</a> | <a href="https://openclawapp.netlify.app/course/">course</a></p>
+</div>
+
 ### OpenAI
 <div><a href="https://openai.com"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
