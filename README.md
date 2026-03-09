@@ -523,6 +523,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://beam.ai/">website</a> | <a href="https://twitter.com/join__beam">twitter</a> | <a href="https://www.linkedin.com/company/beam-ai">linkedin</a> | <a href="https://www.youtube.com/@beam-ai">youtube</a></p>
 </div>
 
+### BGPT MCP
+<div><a href="https://github.com/connerlambden/bgpt-mcp"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/connerlambden/bgpt-mcp"><img src="https://img.shields.io/github/stars/connerlambden/bgpt-mcp?style=social" alt="GitHub stars"></a></div>
+<p>⭐ 4 stars (Updated: 2025-03-09)</p>
+<p>🔬 Research</p>
+
+<p>BGPT MCP is a hosted MCP server for searching scientific papers with full-text experimental data. SSE and streamable HTTP endpoints, 50 free searches without API key, tool: search_papers</p>
+
+<p><a href="https://github.com/connerlambden/bgpt-mcp">github</a> | <a href="https://bgpt.pro/mcp">website</a></p>
+</div>
+
 ### Bland
 <div><a href="https://www.bland.ai/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
