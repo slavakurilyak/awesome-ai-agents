@@ -453,6 +453,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/Significant-Gravitas/AutoGPT">github</a> | <a href="https://github.com/Significant-Gravitas">github profile</a></p>
 </div>
 
+### Awesome OpenClaw Agents
+<div><a href="https://github.com/mergisi/awesome-openclaw-agents"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/mergisi/awesome-openclaw-agents"><img src="https://img.shields.io/github/stars/mergisi/awesome-openclaw-agents?style=social" alt="GitHub stars"></a></div>
+<p>⭐ 147 stars (Updated: 2026-03-09)</p>
+<p>⚙️ Development Frameworks</p>
+
+<p>A curated collection of 100+ production-ready AI agent templates for the OpenClaw ecosystem, covering 18 categories including productivity, development, marketing, and business automation with copy-paste ready SOUL.md configurations</p>
+
+<p><a href="https://github.com/mergisi/awesome-openclaw-agents">github</a></p>
+</div>
+
 ### Axflow
 <div><a href="https://github.com/axflow/axflow"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/axflow/axflow"><img src="https://img.shields.io/github/stars/axflow/axflow?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 1,122 stars (Updated: 2025-07-30)</p>
