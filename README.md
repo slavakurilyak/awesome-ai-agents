@@ -2063,6 +2063,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/OthersideAI/self-operating-computer">github</a> | <a href="https://github.com/OthersideAI">github profile</a> | <a href="https://www.hyperwriteai.com/self-operating-computer">landing page</a></p>
 </div>
 
+### Steel Browser
+<div><a href="https://github.com/steel-dev/steel-browser"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/steel-dev/steel-browser"><img src="https://img.shields.io/github/stars/steel-dev/steel-browser?style=social" alt="GitHub stars"></a></div>
+<p>⭐ 6,554 stars (Updated: 2026-03-09)</p>
+<p>🌐 Web Browsing Frameworks</p>
+
+<p>Steel Browser provides open-source browser sandbox and automation infrastructure for AI agents with session-backed workflows, screenshots, PDFs, proxies, and anti-bot tooling</p>
+
+<p><a href="https://github.com/steel-dev/steel-browser">github</a> | <a href="https://docs.steel.dev/">docs</a> | <a href="https://steel.dev/blog/introducing-steel-cli-v0-2-0-browser-automation-built-for-agents">blog</a></p>
+</div>
+
 ### ShortGPT by RayVentura
 <div><a href="https://github.com/RayVentura/ShortGPT"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/RayVentura/ShortGPT"><img src="https://img.shields.io/github/stars/RayVentura/ShortGPT?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 6,679 stars (Updated: 2025-07-30)</p>
