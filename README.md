@@ -993,6 +993,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/stanfordnlp/dspy">github</a></p>
 </div>
 
+### Dorothy
+<div><a href="https://github.com/Charlie85270/Dorothy"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/Charlie85270/Dorothy"><img src="https://img.shields.io/github/stars/Charlie85270/Dorothy?style=social" alt="GitHub stars"></a></div>
+<p>⭐ 153 stars (Updated: 2026-03-09)</p>
+<p>🤖 AI Agents</p>
+
+<p>Dorothy is an open-source desktop app to orchestrate multiple AI CLI agents (Claude Code, Codex, Gemini) simultaneously with automations, Kanban management, remote control, and 5 MCP servers</p>
+
+<p><a href="https://github.com/Charlie85270/Dorothy">github</a> | <a href="https://dorothyai.app">website</a></p>
+</div>
+
 ### E2B
 <div><a href="https://github.com/e2b-dev/E2B"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/e2b-dev/E2B"><img src="https://img.shields.io/github/stars/e2b-dev/E2B?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 9,112 stars (Updated: 2025-07-30)</p>
