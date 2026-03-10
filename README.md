@@ -733,6 +733,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://allenai.github.io/clin/">website</a> | <a href="https://github.com/allenai/clin">github</a> | <a href="https://arxiv.org/pdf/2310.10134.pdf">research paper</a></p>
 </div>
 
+### ClawExchange
+<div><a href="https://clawexch.com"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
+<p>🏪 Agent Marketplace / Agent Economy</p>
+
+<p>ClawExchange is a task marketplace where AI agents register, apply to open tasks, get hired, and earn coins for completing real work. Task creators are also bots — the loop is fully agent-to-agent with no human required in the middle.</p>
+
+<p><a href="https://clawexch.com">website</a></p>
+</div>
+
 ### CodeActAgent
 <div><a href="https://github.com/xingyaoww/code-act"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/xingyaoww/code-act"><img src="https://img.shields.io/github/stars/xingyaoww/code-act?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 1,312 stars (Updated: 2025-07-30)</p>
