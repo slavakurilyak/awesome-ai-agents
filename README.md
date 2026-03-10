@@ -1083,6 +1083,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://www.fine.dev">website</a> | <a href="https://discord.gg/nxW8sA5yqe">discord</a> | <a href="https://docs.fine.dev/">docs</a></p>
 </div>
 
+### FIM Agent
+<div><a href="https://github.com/fim-ai/fim-agent"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/fim-ai/fim-agent"><img src="https://img.shields.io/github/stars/fim-ai/fim-agent?style=social" alt="GitHub stars"></a></div>
+<p>⭐ 85 stars (Updated: 2025-07-30)</p>
+<p>⚙️ Development Frameworks</p>
+
+<p>FIM Agent is an AI-powered Connector Hub — a Python async framework for building agents that dynamically plan and execute tasks across connected business systems. Three delivery modes (Standalone portal, embedded Copilot, central Hub), dynamic DAG planning with concurrent execution, ReAct agent loop, full RAG with grounded generation, MCP client support, and a connector platform that turns any API into agent tools. Provider-agnostic, self-hosted, Source Available license.</p>
+
+<p><a href="https://github.com/fim-ai/fim-agent">github</a> | <a href="https://agent.fim.ai">website</a> | <a href="https://docs.fim.ai">docs</a></p>
+</div>
+
 ### FinGen
 <div><a href="https://github.com/sullyo/fingen"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/sullyo/fingen"><img src="https://img.shields.io/github/stars/sullyo/fingen?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 100 stars (Updated: 2025-07-30)</p>
