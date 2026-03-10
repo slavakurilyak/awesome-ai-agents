@@ -2123,6 +2123,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/superagent-ai/superagent">github</a> | <a href="https://github.com/superagent-ai">github profile</a></p>
 </div>
 
+### Stoneforge
+<div><a href="https://github.com/stoneforge-ai/stoneforge"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/stoneforge-ai/stoneforge"><img src="https://img.shields.io/github/stars/stoneforge-ai/stoneforge?style=social" alt="GitHub stars"></a></div>
+
+<p>🤖 Multi-Agent Orchestration</p>
+
+<p>Stoneforge is an open-source orchestration platform for AI coding agents that enables running multiple agents in parallel with automatic task dispatch, merge conflict resolution, and error recovery. Features event-sourced architecture, role-based agent system (Director, Workers, Stewards), and isolated git worktrees.</p>
+
+<p><a href="https://github.com/stoneforge-ai/stoneforge">github</a> | <a href="https://stoneforge.ai">website</a></p>
+</div>
+
 ### SuperAGI
 <div><a href="https://github.com/TransformerOptimus/SuperAGI"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/TransformerOptimus/SuperAGI"><img src="https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 16,585 stars (Updated: 2025-07-30)</p>
