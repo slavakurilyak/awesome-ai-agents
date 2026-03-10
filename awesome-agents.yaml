@@ -2655,3 +2655,16 @@
   categories:
     - "Long-Term Memory"
   
+- project: "Lumen"
+  project_description: "Vision-first browser agent with self-healing deterministic replay. Screenshot → model → action loop over CDP, multi-provider (Anthropic, Google, OpenAI), action caching for zero-token reruns."
+  project_is_open_source: true
+  sources:
+    - source: "github"
+      source_url: "https://github.com/omxyz/lumen"
+    - source: "website"
+      source_url: "https://lumen.omlabs.xyz"
+    - source: "npm"
+      source_url: "https://www.npmjs.com/package/@omxyz/lumen"
+  categories:
+    - "Browser Automation"
+    - "Computer Use"
