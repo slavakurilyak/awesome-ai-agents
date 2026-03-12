@@ -1123,6 +1123,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/aibtcdev/gated-402-api">github</a> | <a href="https://github.com/aibtcdev">github profile</a> | <a href="https://aibtc.dev/">website</a> | <a href="https://discord.gg/5DJaBrf">discord</a></p>
 </div>
 
+### GNAP (Git-Native Agent Protocol)
+<div><a href="https://github.com/farol-team/gnap"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a></div>
+
+<p>🤖 AI Agents</p>
+
+<p>Minimal protocol for coordinating AI agent teams using git. 4 JSON entities (agents, tasks, runs, messages) in a .gnap/ directory. No server, no database — git push/pull is the entire transport. Works with any agent runtime.</p>
+
+<p><a href="https://github.com/farol-team/gnap">github</a> | <a href="https://farol.io">website</a></p>
+</div>
+
 ### GitWit
 <div><a href="https://gitwit.dev/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
