@@ -2033,6 +2033,14 @@ Here's an awesome list of AI agents:
 <p><a href="https://rime.ai/">website</a></p>
 </div>
 
+### SAGE
+<div><a href="https://github.com/l33tdawg/sage"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/l33tdawg/sage"><img src="https://img.shields.io/github/stars/l33tdawg/sage?style=social" alt="GitHub stars"></a></div>
+
+<p>Institutional memory for AI agents — every memory goes through BFT consensus before it's committed. 4 application validators, 13 MCP tools, runs locally on your machine. Works with Claude, ChatGPT, Gemini, or any MCP-compatible model.</p>
+
+<p><a href="https://github.com/l33tdawg/sage">github</a> | <a href="https://l33tdawg.github.io/sage">website</a></p>
+</div>
+
 ### ScrapeGraphAI
 <div><a href="https://github.com/VinciGit00/Scrapegraph-ai"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/VinciGit00/Scrapegraph-ai"><img src="https://img.shields.io/github/stars/VinciGit00/Scrapegraph-ai?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 20,809 stars (Updated: 2025-07-30)</p>
