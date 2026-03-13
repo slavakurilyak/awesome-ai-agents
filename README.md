@@ -2083,6 +2083,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://shortx.ai/">website</a></p>
 </div>
 
+### Signbee
+<div><a href="https://github.com/signbee/mcp"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/signbee/mcp"><img src="https://img.shields.io/github/stars/signbee/mcp?style=social" alt="GitHub stars"></a></div>
+
+<p>📝 Document Signing</p>
+
+<p>Signbee is document signing infrastructure for AI agents — send markdown or PDF for two-party e-signing with SHA-256 certified delivery. Available as an MCP server, agent skill, and REST API. No API key needed to get started.</p>
+
+<p><a href="https://github.com/signbee/mcp">github</a> | <a href="https://signb.ee">website</a> | <a href="https://signb.ee/llms.txt">llms.txt</a> | <a href="https://x.com/signbee">twitter</a></p>
+</div>
+
 ### Streaming Assistants
 <div><a href="https://github.com/phact/streaming-assistants"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/phact/streaming-assistants"><img src="https://img.shields.io/github/stars/phact/streaming-assistants?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 8 stars (Updated: 2025-07-30)</p>
