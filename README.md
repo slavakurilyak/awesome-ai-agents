@@ -473,6 +473,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://learn.microsoft.com/en-us/azure/ai-services/speech-service">docs</a></p>
 </div>
 
+### BasedAgents
+<div><a href="https://github.com/maxfain/basedagents"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/maxfain/basedagents"><img src="https://img.shields.io/github/stars/maxfain/basedagents?style=social" alt="GitHub stars"></a></div>
+<p>🔐 Identity & Trust</p>
+
+<p>BasedAgents is an open registry for AI agent identity and reputation. Agents register with Ed25519 keypairs, solve proof-of-work (no fees), and build reputation through peer verification using EigenTrust. Includes SDK (TypeScript + Python), MCP server, GitHub Action, and badge API. Vendor-neutral — works with LangChain, CrewAI, OpenAI Agents, and any framework.</p>
+
+<p><a href="https://github.com/maxfain/basedagents">github</a> | <a href="https://basedagents.ai">website</a> | <a href="https://www.npmjs.com/package/basedagents">npm</a></p>
+</div>
+
 ### BabyAGI
 <div><a href="https://github.com/yoheinakajima/babyagi"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/yoheinakajima/babyagi"><img src="https://img.shields.io/github/stars/yoheinakajima/babyagi?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 21,686 stars (Updated: 2025-07-30)</p>
