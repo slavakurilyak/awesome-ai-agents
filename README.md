@@ -1273,6 +1273,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://www.helicone.ai/">website</a> | <a href="https://github.com/Helicone/helicone">github</a></p>
 </div>
 
+### Hive
+<div><a href="https://github.com/aden-hive/hive"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/aden-hive/hive"><img src="https://img.shields.io/github/stars/aden-hive/hive?style=social" alt="GitHub stars"></a></div>
+<p>⭐ 9,348 stars (Updated: March 2026)</p>
+<p>⚙️ Development Frameworks</p>
+
+<p>Open-source AI agent framework by Aden (YC-backed) for building goal-driven, self-improving autonomous agents. Define outcomes in natural language and auto-generate agent graphs with built-in evolution loops, MCP integration with 100+ tools, human-in-the-loop support, real-time observability, cost controls, and 20+ pre-built agent templates</p>
+
+<p><a href="https://github.com/aden-hive/hive">github</a></p>
+</div>
+
 ### Humane
 <div><a href="https://humane.com/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
