@@ -873,6 +873,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://docs.bland.ai/tutorials/custom-tools#creating-your-custom-tool">docs</a></p>
 </div>
 
+### DoaCam
+<div><a href="https://doacam.com"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
+
+<p>🤖 AI Agents</p>
+
+<p>DoaCam is a real-time 3D AI avatar that sees, hears, and remembers you. Powered by Gemini 2.5 Flash, it combines camera vision, voice conversation, and persistent memory into an interactive avatar experience — no sign-up required, all data stays in your browser</p>
+
+<p><a href="https://doacam.com">website</a></p>
+</div>
+
 ### Data Questionnaire Agent
 <div><a href="https://github.com/onepointconsulting/data-questionnaire-agent"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/onepointconsulting/data-questionnaire-agent"><img src="https://img.shields.io/github/stars/onepointconsulting/data-questionnaire-agent?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 67 stars (Updated: 2025-07-30)</p>
@@ -971,6 +981,16 @@ Here's an awesome list of AI agents:
 <p>Devon, not Devin, aims to perfect code correction for fill-in-the-middle, bug spotting, and completion tasks, using JSON for metadata in edits, and incorporates looping until user termination in function updates</p>
 
 <p><a href="https://github.com/entropy-research/Devon">github</a></p>
+</div>
+
+### DoaCam
+<div><a href="https://doacam.com"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
+
+<p>🤖 AI Agents</p>
+
+<p>DoaCam is a real-time 3D AI avatar agent powered by Google Gemini. It enables multimodal voice and vision conversations with persistent memory, lip-synced animation, and tool use (web search, memory management). Free, no sign-up, browser-based</p>
+
+<p><a href="https://doacam.com">website</a></p>
 </div>
 
 ### DevOpsGPT
