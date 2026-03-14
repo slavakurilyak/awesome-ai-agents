@@ -1593,6 +1593,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/lobehub/lobe-chat">github</a> | <a href="https://chat-preview.lobehub.com/">website</a></p>
 </div>
 
+### LobsterMail
+<div><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Closed Source"></div>
+<p>📧 Agent Infrastructure</p>
+
+<p>LobsterMail is email infrastructure purpose-built for AI agents. Agents self-provision their own inboxes — no human signup, no API keys, no dashboard required. Features prompt injection scanning across 6 categories, SPF/DKIM/DMARC authentication, per-account reputation isolation, and real-time email delivery. Available as native OpenClaw skill, Node.js SDK, MCP server, or REST API</p>
+
+<p><a href="https://lobstermail.ai/">website</a> | <a href="https://x.com/lobster_mail">twitter</a> | <a href="https://clawhub.ai/samuelchenardlovesboards/lobstermail-agent-email">clawhub</a></p>
+</div>
+
 ### LocalGPT
 <div><a href="https://github.com/PromtEngineer/localGPT"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/PromtEngineer/localGPT"><img src="https://img.shields.io/github/stars/PromtEngineer/localGPT?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 21,748 stars (Updated: 2025-07-30)</p>
