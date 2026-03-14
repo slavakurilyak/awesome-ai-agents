@@ -1491,6 +1491,17 @@
   categories:
     - "Evaluation Frameworks"
 
+- project: "AgentWatch"
+  project_description: "Multi-agent fleet observability with cascade failure detection, heartbeat monitoring, and forensic replay."
+  project_is_open_source: true
+  sources:
+    - source: "github"
+      source_url: "https://github.com/nicofains1/agentwatch"
+    - source: "npm"
+      source_url: "https://www.npmjs.com/package/@nicofains1/agentwatch"
+  categories:
+    - "Observability Frameworks"
+
 - project: "LangSmith by LangChain"
   project_description: "LangSmith provides tools for debugging, testing, evaluating, and monitoring LLM applications, integrating seamlessly with LangChain for comprehensive AI agent observability"
   project_is_open_source: true
