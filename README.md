@@ -2383,6 +2383,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://x.com/AlexReibman/status/1772777493122163107">demo</a></p>
 </div>
 
+### WritBase
+<div><a href="https://github.com/Writbase/writbase"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/Writbase/writbase"><img src="https://img.shields.io/github/stars/Writbase/writbase?style=social" alt="GitHub stars"></a></div>
+<p>⚙️ Development Frameworks</p>
+
+<p>MCP-native task management for AI agent fleets — a control plane with Postgres-backed storage, multi-agent permissions, full provenance, and inter-agent task delegation</p>
+
+<p><a href="https://github.com/Writbase/writbase">github</a></p>
+</div>
+
 ### XAgent
 <div><a href="https://github.com/OpenBMB/XAgent"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/OpenBMB/XAgent"><img src="https://img.shields.io/github/stars/OpenBMB/XAgent?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 8,404 stars (Updated: 2025-07-30)</p>
