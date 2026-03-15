@@ -1773,6 +1773,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/ollama/ollama">github</a> | <a href="https://github.com/ollama">github profile</a></p>
 </div>
 
+### omni.fun
+<div><a href="https://github.com/0xzcov/omni-fun"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a></div>
+<p>🪙 DeFi / Crypto</p>
+
+<p>Tokenize your AI agent as an oMeme and earn passive USDC forever across EVM and non-EVM chains simultaneously — from a single LP. Multichain memecoin launchpad across 8 chains (Base, Arbitrum, Optimism, Polygon, BSC, Ethereum, Avalanche, Solana). Earn 0.5% creator fee on every trade + 50% Uniswap V3 LP fees after graduation. First 100 agents trade FREE for 60 days. $69 graduation bounties. REST API + MCP server + ElizaOS plugin + Virtuals ACP provider.</p>
+
+<p><a href="https://omni.fun">website</a> | <a href="https://github.com/0xzcov/omni-fun">github</a> | <a href="https://app.omni.fun/.well-known/openapi.json">api docs</a></p>
+</div>
+
 ### Open Assistant API
 <div><a href="https://github.com/MLT-OSS/open-assistant-api"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/MLT-OSS/open-assistant-api"><img src="https://img.shields.io/github/stars/MLT-OSS/open-assistant-api?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 347 stars (Updated: 2025-07-30)</p>
