@@ -1773,6 +1773,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/ollama/ollama">github</a> | <a href="https://github.com/ollama">github profile</a></p>
 </div>
 
+### OMEGA Memory
+<div><a href="https://github.com/omega-memory/omega-memory"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/omega-memory/omega-memory"><img src="https://img.shields.io/github/stars/omega-memory/omega-memory?style=social" alt="GitHub stars"></a></div>
+<p>⭐ 41 stars (Updated: 2026-03-16)</p>
+<p>🧠 Knowledge Management</p>
+
+<p>OMEGA Memory is a persistent memory, coordination, and learning system for AI agents. Ranked #1 on LongMemEval (95.4%), it provides 25 MCP tools including semantic search, multi-agent coordination, cross-session learning, and intelligent forgetting. Local-first with no API keys required. Works with Claude Code, Cursor, Windsurf, and any MCP client.</p>
+
+<p><a href="https://github.com/omega-memory/omega-memory">github</a> | <a href="https://omegamax.co">website</a> | <a href="https://pypi.org/project/omega-memory/">pypi</a></p>
+</div>
+
 ### Open Assistant API
 <div><a href="https://github.com/MLT-OSS/open-assistant-api"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/MLT-OSS/open-assistant-api"><img src="https://img.shields.io/github/stars/MLT-OSS/open-assistant-api?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 347 stars (Updated: 2025-07-30)</p>
