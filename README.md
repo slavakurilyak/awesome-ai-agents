@@ -2243,6 +2243,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://teamx.work/">website</a></p>
 </div>
 
+### TITAN
+<div><a href="https://github.com/Djtony707/TITAN"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/Djtony707/TITAN"><img src="https://img.shields.io/github/stars/Djtony707/TITAN?style=social" alt="GitHub stars"></a></div>
+<p>⚙️ Development Frameworks</p>
+
+<p>TITAN (The Intelligent Task Automation Network) is an autonomous AI agent framework with 149 tools, 34 LLM providers, P2P mesh networking, LiveKit voice chat, React Mission Control dashboard, MCP server mode, and Docker sandbox code execution. TypeScript/Node.js, MIT licensed.</p>
+
+<p><a href="https://github.com/Djtony707/TITAN">github</a> | <a href="https://www.npmjs.com/package/titan-agent">npm</a></p>
+</div>
+
 ### TogetherAI
 <div><a href="https://www.together.ai/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
