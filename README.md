@@ -1383,6 +1383,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://www.kapa.ai/">website</a> | <a href="https://docs.kapa.ai/">docs</a></p>
 </div>
 
+### Kodo
+<div><a href="https://github.com/ikamensh/kodo"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/ikamensh/kodo"><img src="https://img.shields.io/github/stars/ikamensh/kodo?style=social" alt="GitHub stars"></a></div>
+<p>⭐ 16 stars (Updated: 2026-03-17)</p>
+<p>🤖 AI Agents</p>
+
+<p>Multi-agent coding orchestrator that improves the accuracy of underlying coding agents. Wraps Claude Code, Cursor, Codex, or Gemini CLI with work cycles and independent verification — an architect and tester review every change before accepting. On SWE-bench Verified, adding Kodo's orchestration around Cursor improved resolve rate by 24%, same model and conditions. Agent-agnostic by design.</p>
+
+<p><a href="https://github.com/ikamensh/kodo">github</a> | <a href="https://kodo-bench-h2h-430011644943.europe-west1.run.app/">benchmark</a></p>
+</div>
+
 ### LangChain
 <div><a href="https://github.com/langchain-ai/langchain"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/langchain-ai/langchain"><img src="https://img.shields.io/github/stars/langchain-ai/langchain?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 112,549 stars (Updated: 2025-07-30)</p>
