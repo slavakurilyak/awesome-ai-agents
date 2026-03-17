@@ -403,6 +403,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/datastax/astra-assistants-api">github</a></p>
 </div>
 
+### ATXP
+<div><a href="https://github.com/atxp-dev/atxp"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/atxp-dev/atxp"><img src="https://img.shields.io/github/stars/atxp-dev/atxp?style=social" alt="GitHub stars"></a></div>
+<p>🪪 Agent Identity & Payments</p>
+
+<p>ATXP gives AI agents a funded identity in one command: a USDC wallet on Base, an <code>@atxp.email</code> inbox, phone number, and access to 100+ paid MCP tools (web search, image generation, LLM gateway, SMS, video). No KYC, no API key juggling, $5 free credit to start.</p>
+
+<p><a href="https://github.com/atxp-dev/atxp">github</a></p>
+</div>
+
 ### AutoAct
 <div><a href="https://github.com/zjunlp/AutoAct"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/zjunlp/AutoAct"><img src="https://img.shields.io/github/stars/zjunlp/AutoAct?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 229 stars (Updated: 2025-07-30)</p>
