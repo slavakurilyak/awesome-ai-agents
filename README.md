@@ -1873,6 +1873,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://openrouter.ai/">website</a> | <a href="https://openrouter.ai/docs">docs</a></p>
 </div>
 
+### ORCH
+<div><a href="https://github.com/oxgeneral/ORCH"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/oxgeneral/ORCH"><img src="https://img.shields.io/github/stars/oxgeneral/ORCH?style=social" alt="GitHub stars"></a></div>
+
+<p>⚙️ Development Frameworks</p>
+
+<p>ORCH is a CLI runtime for coordinating AI agent teams — runs Claude Code, OpenCode, Codex, Cursor, and shell scripts as a typed task queue with state machine (todo→in_progress→review→done), auto-retry, inter-agent messaging, shared context store, and TUI dashboard. MIT, TypeScript, zero-dependency engine API.</p>
+
+<p><a href="https://github.com/oxgeneral/ORCH">github</a> | <a href="https://www.npmjs.com/package/@oxgeneral/orch">npm</a></p>
+</div>
+
 ### Outlines
 <div><a href="https://github.com/outlines-dev/outlines"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/outlines-dev/outlines"><img src="https://img.shields.io/github/stars/outlines-dev/outlines?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 12,182 stars (Updated: 2025-07-30)</p>
