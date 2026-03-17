@@ -1143,6 +1143,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://cloud.google.com/speech-to-text">website</a></p>
 </div>
 
+### Fazm
+<div><a href="https://github.com/m13v/fazm"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/m13v/fazm"><img src="https://img.shields.io/github/stars/m13v/fazm?style=social" alt="GitHub stars"></a></div>
+<p>⭐ 52 stars (Updated: 2026-03-17)</p>
+<p>💻 Operating System (OS)</p>
+
+<p>Fazm is an open-source, voice-controlled AI computer agent for macOS. It controls your entire desktop through natural language - any app, file, or workflow. Built in Swift/SwiftUI, local-first, MIT licensed.</p>
+
+<p><a href="https://github.com/m13v/fazm">github</a> | <a href="https://fazm.ai">website</a></p>
+</div>
+
 ### GPT Computer Assistant
 <div><a href="https://github.com/onuratakan/gpt-computer-assistant"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/onuratakan/gpt-computer-assistant"><img src="https://img.shields.io/github/stars/onuratakan/gpt-computer-assistant?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 7,625 stars (Updated: 2025-07-30)</p>
