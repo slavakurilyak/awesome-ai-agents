@@ -563,6 +563,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://www.nurgo-software.com/products/brainsoup">website</a> | <a href="https://help.nurgo-software.com/collection/148-brainsoup">docs</a> | <a href="https://twitter.com/Nurgo">twitter</a> | <a href="https://discord.gg/xt7PyCnH9S">discord</a></p>
 </div>
 
+### Bridge ACE
+<div><a href="https://github.com/Luanace-lab/bridge-ide"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/Luanace-lab/bridge-ide"><img src="https://img.shields.io/github/stars/Luanace-lab/bridge-ide?style=social" alt="GitHub stars"></a></div>
+
+<p>⚙️ Development Frameworks</p>
+
+<p>Bridge ACE is a local multi-agent platform where 5 AI engines (Claude, Codex, Qwen, Gemini, Grok) coordinate in real-time via WebSocket, featuring 204 MCP tools and a Soul Engine for persistent agent identity. Apache 2.0.</p>
+
+<p><a href="https://github.com/Luanace-lab/bridge-ide">github</a></p>
+</div>
+
 ### Browserbase
 <div><a href="https://twitter.com/browserbasehq"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 

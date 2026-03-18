@@ -584,6 +584,15 @@
   categories:
     - "AI Agents"
 
+- project: "Bridge ACE"
+  project_description: "Bridge ACE is a local multi-agent platform where 5 AI engines (Claude, Codex, Qwen, Gemini, Grok) coordinate in real-time via WebSocket. Features 204 MCP tools and a Soul Engine for persistent agent identity. Self-hosted, open source, Apache 2.0."
+  project_is_open_source: true
+  sources:
+    - source: "github"
+      source_url: "https://github.com/Luanace-lab/bridge-ide"
+  categories:
+    - "Development Frameworks"
+
 - project: "Fine"
   project_description: "Fine.dev offers AI-powered agents designed to automate software development tasks, seamlessly integrating into engineering teams to manage tedious tasks, technical debt, code reviews, and migrations, while customizing to project needs and learning from team feedback for improved efficiency"
   project_is_open_source: false
