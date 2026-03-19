@@ -403,6 +403,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/datastax/astra-assistants-api">github</a></p>
 </div>
 
+### Asqav
+<div><a href="https://asqav.com"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a></div>
+<p>🔒 Security / Governance</p>
+
+<p>Asqav is an AI agent governance platform providing quantum-safe audit trails, policy enforcement, and multi-party approval for AI agents. Works with LangChain, CrewAI, and MCP. Free tier available.</p>
+
+<p><a href="https://asqav.com">website</a></p>
+</div>
+
 ### AutoAct
 <div><a href="https://github.com/zjunlp/AutoAct"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/zjunlp/AutoAct"><img src="https://img.shields.io/github/stars/zjunlp/AutoAct?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 229 stars (Updated: 2025-07-30)</p>
