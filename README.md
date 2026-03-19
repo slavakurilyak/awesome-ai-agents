@@ -813,6 +813,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/continuedev/continue">github</a> | <a href="https://continue.dev">website</a></p>
 </div>
 
+### ConnectOnion
+<div><a href="https://github.com/openonion/connectonion"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/openonion/connectonion"><img src="https://img.shields.io/github/stars/openonion/connectonion?style=social" alt="GitHub stars"></a></div>
+<p>⭐ 562 stars (Updated: 2026-03-19)</p>
+<p>⚙️ Development Frameworks</p>
+
+<p>ConnectOnion is a simple, elegant open-source Python framework for production-ready AI agents, featuring 2-line agent creation, functions as tools, 12 lifecycle hooks, plugin system, and multi-agent networking with trust verification</p>
+
+<p><a href="https://github.com/openonion/connectonion">github</a> | <a href="https://docs.connectonion.com">website</a> | <a href="https://discord.gg/4xfD9k8AUF">discord</a></p>
+</div>
+
 ### Cosmo
 <div><a href="https://meetcosmo.ai/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
