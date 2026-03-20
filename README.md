@@ -2243,6 +2243,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://teamx.work/">website</a></p>
 </div>
 
+### TeamHero
+<div><a href="https://github.com/sagiyaacoby/TeamHero"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/sagiyaacoby/TeamHero"><img src="https://img.shields.io/github/stars/sagiyaacoby/TeamHero?style=social" alt="GitHub stars"></a></div>
+
+<p>⚙️ Development Frameworks</p>
+
+<p>TeamHero is an open-source multi-agent orchestration platform with a built-in web dashboard, full task lifecycle management (draft, working, pending, accepted, closed), knowledge base, and autopilot mode for automated workflows. Runs locally with zero cloud dependency. Built on Claude Code.</p>
+
+<p><a href="https://github.com/sagiyaacoby/TeamHero">github</a></p>
+</div>
+
 ### TogetherAI
 <div><a href="https://www.together.ai/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
