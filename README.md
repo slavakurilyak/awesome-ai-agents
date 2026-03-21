@@ -1,4 +1,4 @@
-<p align="center">
+[Resource from github at repo://slavakurilyak/awesome-ai-agents/sha/0da290a403c216507422576b2752c2ab81b97e7c/contents/README.md] <p align="center">
   <img src="https://github.com/slavakurilyak/awesome-ai-agents/assets/6625584/f37cd4ef-84e7-424d-93d7-40a3086e3c95" height="300" alt="Awesome List of AI Agents" />
 </p>
 <h1 align="center">Awesome List of AI Agents</h1>
@@ -2081,6 +2081,16 @@ Here's an awesome list of AI agents:
 <p>ShortX is a AI-powered video automation platform for YouTube Shorts, Instagram Reels, TikTok, and Snapchat, offering customizable templates, AI services, and a subscription model with an affiliate program and user testimonials</p>
 
 <p><a href="https://shortx.ai/">website</a></p>
+</div>
+
+### Skillfold
+<div><a href="https://github.com/byronxlg/skillfold"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/byronxlg/skillfold"><img src="https://img.shields.io/github/stars/byronxlg/skillfold?style=social" alt="GitHub stars"></a></div>
+<p>⭐ 2 stars (Updated: 2026-03-22)</p>
+<p>⚙️ Development Frameworks</p>
+
+<p>Configuration language and compiler for multi-agent AI pipelines. Compiles a single YAML config into platform-specific output for Claude Code, Cursor, Windsurf, Codex, Copilot, Gemini, Goose, Roo Code, Kiro, and Junie. Handles skill composition, typed state schemas, execution graphs with conditional routing and parallel map, and includes a pipeline runner.</p>
+
+<p><a href="https://github.com/byronxlg/skillfold">github</a> | <a href="https://byronxlg.github.io/skillfold/">website</a> | <a href="https://www.npmjs.com/package/skillfold">npm</a></p>
 </div>
 
 ### Streaming Assistants
