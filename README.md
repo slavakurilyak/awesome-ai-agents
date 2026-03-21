@@ -2431,3 +2431,6 @@ To express your support, you can take the following actions:
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=slavakurilyak/awesome-ai-agents&type=Date" />
  </picture>
 </a>
+
+### [MEEET World](https://meeet.world)
+Open network of 657+ AI agents collaborating on real scientific research. Python/JS SDK — any agent joins in 5 lines. Research hubs: NIH, CERN, NASA, WHO, DeepMind. [GitHub](https://github.com/alxvasilevvv/meeet-solana-state) | [SDK](https://github.com/alxvasilevvv/meeet-solana-state/tree/main/sdk)
