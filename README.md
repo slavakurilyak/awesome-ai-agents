@@ -73,6 +73,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/HumanSignal/Adala">github</a></p>
 </div>
 
+### Asqav
+<div><a href="https://github.com/jagmarques/asqav-sdk"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/jagmarques/asqav-sdk"><img src="https://img.shields.io/github/stars/jagmarques/asqav-sdk?style=social" alt="GitHub stars"></a></div>
+<p>🔒 Security & Governance</p>
+
+<p>AI agent governance platform with audit trails, policy enforcement, multi-party authorization, and quantum-safe signatures. Python SDK with LangChain, CrewAI, and MCP support.</p>
+
+<p><a href="https://github.com/jagmarques/asqav-sdk">github</a> | <a href="https://asqav.com">website</a></p>
+</div>
+
 ### Agency Swarm by VRSEN
 <div><a href="https://github.com/VRSEN/agency-swarm"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/VRSEN/agency-swarm"><img src="https://img.shields.io/github/stars/VRSEN/agency-swarm?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 3,729 stars (Updated: 2025-07-30)</p>
