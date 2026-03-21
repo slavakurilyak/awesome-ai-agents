@@ -173,6 +173,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/smartcomputer-ai/agent-os">github</a></p>
 </div>
 
+### AgentStamp
+<div><a href="https://github.com/vinaybhosle/agentstamp"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/vinaybhosle/agentstamp"><img src="https://img.shields.io/github/stars/vinaybhosle/agentstamp?style=social" alt="GitHub stars"></a></div>
+<p>🔐 Agent Identity & Trust</p>
+
+<p>AgentStamp is an x402-powered trust platform for AI agents combining identity certification, a public agent registry, reputation scoring (0-100), cross-protocol passports (A2A compatible), and 19 MCP tools — all payable via USDC micropayments on Base and Solana. Features Ed25519-signed certificates, ERC-8004 bridge, trust decay/delegation, and an SDK with Express/Hono middleware</p>
+
+<p><a href="https://github.com/vinaybhosle/agentstamp">github</a> | <a href="https://agentstamp.org">website</a> | <a href="https://www.npmjs.com/package/agentstamp-verify">npm</a></p>
+</div>
+
 ### Agents by AI Waves
 <div><a href="https://github.com/aiwaves-cn/agents"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/aiwaves-cn/agents"><img src="https://img.shields.io/github/stars/aiwaves-cn/agents?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 5,666 stars (Updated: 2025-07-30)</p>
