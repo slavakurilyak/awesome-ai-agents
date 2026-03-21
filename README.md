@@ -2083,6 +2083,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://shortx.ai/">website</a></p>
 </div>
 
+### Skillfold
+<div><a href="https://github.com/byronxlg/skillfold"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/byronxlg/skillfold"><img src="https://img.shields.io/github/stars/byronxlg/skillfold?style=social" alt="GitHub stars"></a></div>
+<p>⭐ 2 stars (Updated: 2026-03-22)</p>
+<p>⚙️ Development Frameworks</p>
+
+<p>Skillfold is a configuration language and compiler for multi-agent AI pipelines. It compiles a single YAML config into agent skills for 11 platforms including Claude Code, Cursor, Copilot, and Gemini, handling skill composition, typed state schemas, execution flows with conditional routing, and orchestrator generation</p>
+
+<p><a href="https://github.com/byronxlg/skillfold">github</a> | <a href="https://www.npmjs.com/package/skillfold">npm</a> | <a href="https://byronxlg.github.io/skillfold/">docs</a></p>
+</div>
+
 ### Streaming Assistants
 <div><a href="https://github.com/phact/streaming-assistants"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/phact/streaming-assistants"><img src="https://img.shields.io/github/stars/phact/streaming-assistants?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 8 stars (Updated: 2025-07-30)</p>
