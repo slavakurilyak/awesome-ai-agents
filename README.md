@@ -1833,6 +1833,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/OpenDevin/OpenDevin">github</a> | <a href="https://github.com/OpenDevin">github profile</a></p>
 </div>
 
+### OpenClaw Agent Templates
+<div><a href="https://github.com/mergisi/awesome-openclaw-agents"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/mergisi/awesome-openclaw-agents"><img src="https://img.shields.io/github/stars/mergisi/awesome-openclaw-agents?style=social" alt="GitHub stars"></a></div>
+<p>📋 Agent Templates</p>
+
+<p>A curated collection of 177 production-ready SOUL.md agent configurations for OpenClaw, organized across 24 categories (PM, SEO, DevOps, Writer, Support, and more). Each template is copy-paste ready with structured persona definitions, tool bindings, memory rules, and heartbeat schedules. Visual deployment available via CrewClaw.</p>
+
+<p><a href="https://github.com/mergisi/awesome-openclaw-agents">github</a> | <a href="https://crewclaw.com">deploy tool</a></p>
+</div>
+
 ### OpenGPTs
 <div><a href="https://github.com/langchain-ai/opengpts"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/langchain-ai/opengpts"><img src="https://img.shields.io/github/stars/langchain-ai/opengpts?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 6,673 stars (Updated: 2025-07-30)</p>
