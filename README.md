@@ -1133,6 +1133,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://gitwit.dev/">website</a> | <a href="https://discord.gitwit.dev/">discord</a> | <a href="https://github.com/gitwitorg">github profile</a></p>
 </div>
 
+### Global Chat
+<div><a href="https://github.com/pumanitro/global-chat"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a></div>
+
+<p>🔍 Agent Discovery</p>
+
+<p>Global Chat is a cross-protocol AI agent discovery platform that aggregates 18,000+ MCP servers across 6+ registries. Features include a searchable directory, a free agents.txt validator/linter, and an MCP server for programmatic access. Supports MCP, A2A, agents.txt, ACDP, and other agent protocols</p>
+
+<p><a href="https://global-chat.io">website</a> | <a href="https://github.com/pumanitro/global-chat">github</a> | <a href="https://www.npmjs.com/package/@global-chat/mcp-server">npm</a></p>
+</div>
+
 ### Google STT
 <div><a href="https://cloud.google.com/speech-to-text"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
