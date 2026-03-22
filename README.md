@@ -2063,6 +2063,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/OthersideAI/self-operating-computer">github</a> | <a href="https://github.com/OthersideAI">github profile</a> | <a href="https://www.hyperwriteai.com/self-operating-computer">landing page</a></p>
 </div>
 
+### Shep
+<div><a href="https://github.com/shep-ai/cli"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/shep-ai/cli"><img src="https://img.shields.io/github/stars/shep-ai/cli?style=social" alt="GitHub stars"></a></div>
+<p>🤖 Coding Agents</p>
+
+<p>Shep is an SDLC control center that enables AI coding agents to autonomously handle the complete feature lifecycle, orchestrating multi-session development using Claude Code, Cursor CLI, or Gemini with configurable approval gates and a live web dashboard</p>
+
+<p><a href="https://github.com/shep-ai/cli">github</a></p>
+</div>
+
 ### ShortGPT by RayVentura
 <div><a href="https://github.com/RayVentura/ShortGPT"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/RayVentura/ShortGPT"><img src="https://img.shields.io/github/stars/RayVentura/ShortGPT?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 6,679 stars (Updated: 2025-07-30)</p>
