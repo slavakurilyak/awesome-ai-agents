@@ -263,6 +263,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://deco.cx/ai-assistant">website</a> | <a href="https://github.com/deco-cx">github profile</a></p>
 </div>
 
+### AI for Database
+<div><a href="https://aifordatabase.com"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
+
+<p>🗄️ Data & Analytics</p>
+
+<p>AI for Database connects to any database and lets you query it in natural language. No SQL needed. Get instant insights, build self-refreshing dashboards, and set up AI-powered action workflows that trigger emails, webhooks, and alerts based on database changes</p>
+
+<p><a href="https://aifordatabase.com">website</a></p>
+</div>
+
+
 ### AI Researcher
 <div><a href="https://github.com/mshumer/ai-researcher"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/mshumer/ai-researcher"><img src="https://img.shields.io/github/stars/mshumer/ai-researcher?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 932 stars (Updated: 2025-07-30)</p>
