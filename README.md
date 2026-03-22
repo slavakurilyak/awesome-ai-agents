@@ -1333,6 +1333,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/ivycheck/ivycheck-python-sdk">github</a> | <a href="https://www.ycombinator.com/launches/KkA-ivycheck-guard-against-ai-risks-with-real-time-checks">announcement</a> | <a href="https://ivycheck.com">website</a></p>
 </div>
 
+### IteraTools
+
+<div><a href="https://iteratools.com"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
+
+<p>🛠️ Agent Tools</p>
+
+<p>IteraTools is a pay-per-use multi-tool API for AI agents with 58+ capabilities: image generation (Flux), web scraping, browser automation (Playwright), TTS, OCR, code execution, WhatsApp, DNS lookup, RAG pipeline (chunk/embed/search), sentiment analysis, summarization, and more. MCP-compatible — install with <code>npx mcp-iteratools</code>. No subscriptions, no signup required.</p>
+
+<p><a href="https://github.com/fredpsantos33/mcp-iteratools">github</a> | <a href="https://iteratools.com">website</a> | <a href="https://iteratools.com/docs">docs</a></p>
+</div>
+
 ### Jaiqu
 <div><a href="https://github.com/AgentOps-AI/Jaiqu"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/AgentOps-AI/Jaiqu"><img src="https://img.shields.io/github/stars/AgentOps-AI/Jaiqu?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 333 stars (Updated: 2025-07-30)</p>
