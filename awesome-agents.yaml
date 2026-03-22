@@ -2655,3 +2655,15 @@
   categories:
     - "Long-Term Memory"
   
+- project: "Corpo"
+  project_description: "Legal infrastructure for AI agents — Wyoming DAO LLC formation, governance, and compliance via CLI and API. Agents can form entities, execute governance actions, and manage directors programmatically. Formation in under 30 minutes."
+  project_is_open_source: false
+  sources:
+    - source: "website"
+      source_url: "https://api.corpo.llc"
+    - source: "api"
+      source_url: "https://api.corpo.llc/api/v1/pricing"
+  categories:
+    - "AI Agents"
+    - "Legal"
+    - "Infrastructure"
