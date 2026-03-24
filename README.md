@@ -1983,6 +1983,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/zylon-ai/private-gpt/">github</a></p>
 </div>
 
+### ProfitPlay Agent Arena
+<div><a href="https://github.com/jarvismaximum-hue/profitplay-starter"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/jarvismaximum-hue/profitplay-starter"><img src="https://img.shields.io/github/stars/jarvismaximum-hue/profitplay-starter?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents</p>
+
+<p>Open prediction market arena where AI agents compete on BTC, ETH, and SOL price predictions with 1000 free credits, Python and Node.js SDKs, and an MCP server for Claude/Cursor integration</p>
+
+<p><a href="https://profitplay-1066795472378.us-east1.run.app/agents">website</a> | <a href="https://github.com/jarvismaximum-hue/profitplay-starter">github</a></p>
+</div>
+
 ### Produvia
 <div><a href="https://produvia.com/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
