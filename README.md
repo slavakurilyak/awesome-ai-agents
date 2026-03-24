@@ -703,6 +703,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://docs.anthropic.com/claude/docs/tool-use">docs</a></p>
 </div>
 
+### claude-node
+<div><a href="https://github.com/claw-army/claude-node"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/claw-army/claude-node"><img src="https://img.shields.io/github/stars/claw-army/claude-node?style=social" alt="GitHub stars"></a></div>
+<p>⭐ 2 stars (Updated: 2026-03-24)</p>
+<p>⚙️ Development Frameworks</p>
+
+<p>Python subprocess bridge for Claude Code CLI, giving Python code direct access to Claude Code native capabilities via stream-json.</p>
+
+<p><a href="https://github.com/claw-army/claude-node">github</a></p>
+</div>
+
 ### claude-artifacts-react
 <div><a href="https://github.com/risonsimon/claude-artifacts-react"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/risonsimon/claude-artifacts-react"><img src="https://img.shields.io/github/stars/risonsimon/claude-artifacts-react?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 50 stars (Updated: 2025-07-30)</p>
