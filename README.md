@@ -473,6 +473,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://learn.microsoft.com/en-us/azure/ai-services/speech-service">docs</a></p>
 </div>
 
+### B2B SDR Agent Template
+<div><a href="https://github.com/iPythoning/b2b-sdr-agent-template"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/iPythoning/b2b-sdr-agent-template"><img src="https://img.shields.io/github/stars/iPythoning/b2b-sdr-agent-template?style=social" alt="GitHub stars"></a></div>
+<p>🤖 Sales Automation</p>
+
+<p>B2B SDR Agent Template is an open-source AI Sales Development Representative for B2B export. Features a 10-stage sales pipeline, 7-layer context architecture, multi-channel orchestration (WhatsApp/Telegram/Email), 3-engine memory, dynamic ICP scoring, and 10 automated cron jobs. Configured entirely via Markdown files, built on OpenClaw</p>
+
+<p><a href="https://github.com/iPythoning/b2b-sdr-agent-template">github</a></p>
+</div>
+
 ### BabyAGI
 <div><a href="https://github.com/yoheinakajima/babyagi"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/yoheinakajima/babyagi"><img src="https://img.shields.io/github/stars/yoheinakajima/babyagi?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 21,686 stars (Updated: 2025-07-30)</p>
