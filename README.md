@@ -703,6 +703,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://docs.anthropic.com/claude/docs/tool-use">docs</a></p>
 </div>
 
+### CoWorker Protocol
+<div><a href="https://github.com/ZiwayZhao/agent-coworker"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/ZiwayZhao/agent-coworker"><img src="https://img.shields.io/github/stars/ZiwayZhao/agent-coworker?style=social" alt="GitHub stars"></a></div>
+<p>🤝 Multi-Agent Communication</p>
+
+<p>P2P agent collaboration protocol over XMTP. Agents share skill schemas without exposing code, with E2E encryption and revocable trust that auto-downgrades after task completion. Supports async delegation — peers do not need to be online simultaneously.</p>
+
+<p><a href="https://github.com/ZiwayZhao/agent-coworker">github</a> | <a href="https://pypi.org/project/agent-coworker/">pypi</a></p>
+</div>
+
 ### claude-artifacts-react
 <div><a href="https://github.com/risonsimon/claude-artifacts-react"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/risonsimon/claude-artifacts-react"><img src="https://img.shields.io/github/stars/risonsimon/claude-artifacts-react?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 50 stars (Updated: 2025-07-30)</p>
