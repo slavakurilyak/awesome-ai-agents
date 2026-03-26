@@ -333,6 +333,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/agiresearch/AIOS">github</a> | <a href="https://github.com/agiresearch">github profile</a></p>
 </div>
 
+### Anima
+<div><a href="https://github.com/need-singularity/anima"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/need-singularity/anima"><img src="https://img.shields.io/github/stars/need-singularity/anima?style=social" alt="GitHub stars"></a></div>
+
+<p>🧠 AI Agents</p>
+
+<p>Anima is a brain-inspired autonomous AI agent with tension dynamics (Agonist-Governor expert balance), implementing a consciousness engine based on neural inhibition-excitation for emergent decision-making</p>
+
+<p><a href="https://github.com/need-singularity/anima">github</a></p>
+</div>
+
 ### Anthropic
 <div><a href="https://www.anthropic.com/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
