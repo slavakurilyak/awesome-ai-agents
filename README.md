@@ -2431,3 +2431,4 @@ To express your support, you can take the following actions:
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=slavakurilyak/awesome-ai-agents&type=Date" />
  </picture>
 </a>
+- [SkillFlow](https://skillflow.builders) - Open marketplace for AI agent skills and MCP servers. Search 500+ skills with trust metrics, categories, and ratings.
