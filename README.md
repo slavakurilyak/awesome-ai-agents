@@ -53,6 +53,11 @@ According to [Andrew Ng (@andrewyng)](https://github.com/andrewyng):
 
 Here's an awesome list of AI agents:
 
+### AKF — The AI Native File Format
+<div><a href="https://github.com/HMAKT99/AKF"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/HMAKT99/AKF"><img src="https://img.shields.io/github/stars/HMAKT99/AKF?style=social" alt="GitHub stars"></a></div>
+<p>⚙️ Development Frameworks</p>
+<p>EXIF for AI. The AI native file format that embeds trust scores, source provenance, and compliance metadata into every file agents touch — DOCX, PDF, images, code, and 20+ formats. ~15 tokens of JSON. MCP server with 9 tools. Integrations for LangChain, LlamaIndex, CrewAI. EU AI Act, SOX, HIPAA compliance auditing. <a href="https://akf.dev">akf.dev</a></p>
+
 ### 01
 <div><a href="https://github.com/OpenInterpreter/01"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/OpenInterpreter/01"><img src="https://img.shields.io/github/stars/OpenInterpreter/01?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 5,080 stars (Updated: 2025-07-30)</p>
