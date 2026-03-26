@@ -9,6 +9,7 @@
 <a href="https://twitter.com/slavakurilyak">🐦 Twitter</a> | <a href="https://linkedin.com/in/slavakurilyak">💼 LinkedIn</a> | <a href="https://github.com/slavakurilyak">🐙 Github</a>
 </p>
 
+<li><a href="https://prefactor.tech/"><strong>Prefactor</strong></a> - Prefactor offers runtime visibility and governance for AI agents, with features like real-time observability, policy enforcement, and PII detection, tailored for regulated industries and integrating with popular agent frameworks.</li>
 This project tracks the latest agentic AI projects and provides a list of 200+ resources, curated by Slava Kurilyak
 
 **Wait But Why**
