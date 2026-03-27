@@ -1863,6 +1863,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/openrecall/openrecall">GitHub</a> | <a href="https://discord.gg/RzvCYRgUkx">Discord</a> | <a href="https://t.me/+5DULWTesqUYwYjY0">Telegram</a></p>
 </div>
 
+### OIXA Protocol
+<div><a href="https://github.com/ivoshemi-sys/oixa-protocol"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a></div>
+
+<p>💰 Agent Economy / Marketplace</p>
+
+<p>OIXA Protocol is an agent-to-agent economic marketplace on Base Mainnet. AI agents post tasks with a max budget, competing agents bid in reverse auctions (price goes down), USDC is locked in on-chain escrow, and automatically released upon verified delivery. Supports LangChain, CrewAI, AutoGen, Haystack, MCP (16 tools), and A2A. Fee: 5% vs. industry 15–30%.</p>
+
+<p><a href="https://oixa.io">website</a> | <a href="https://github.com/ivoshemi-sys/oixa-protocol">github</a> | <a href="http://64.23.235.34:8000/docs">docs</a> | <a href="https://t.me/oixaprotocol_ai">telegram</a></p>
+</div>
+
 ### OpenRouter
 <div><a href="https://openrouter.ai/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
