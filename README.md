@@ -2083,6 +2083,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://shortx.ai/">website</a></p>
 </div>
 
+### ShopSavvy Desktop
+<div><a href="https://shopsavvy.com/desktop"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Closed Source"></a></div>
+
+<p>🛒 Shopping & E-commerce</p>
+
+<p>ShopSavvy Desktop is an autonomous AI shopping agent for Mac, Windows, and Linux that auto-buys products at target prices, navigates retailer checkouts, calls stores via voice to check stock and negotiate price matching, and monitors prices in the background</p>
+
+<p><a href="https://shopsavvy.com/desktop">website</a></p>
+</div>
+
 ### Streaming Assistants
 <div><a href="https://github.com/phact/streaming-assistants"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/phact/streaming-assistants"><img src="https://img.shields.io/github/stars/phact/streaming-assistants?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 8 stars (Updated: 2025-07-30)</p>
