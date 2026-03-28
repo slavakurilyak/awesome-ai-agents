@@ -523,6 +523,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://beam.ai/">website</a> | <a href="https://twitter.com/join__beam">twitter</a> | <a href="https://www.linkedin.com/company/beam-ai">linkedin</a> | <a href="https://www.youtube.com/@beam-ai">youtube</a></p>
 </div>
 
+### Bernstein
+<div><a href="https://github.com/chernistry/bernstein"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/chernistry/bernstein"><img src="https://img.shields.io/github/stars/chernistry/bernstein?style=social" alt="GitHub stars"></a></div>
+
+<p>⚙️ Development Frameworks</p>
+
+<p>Bernstein is a deterministic orchestrator that spawns parallel AI coding agents (Claude Code, Codex CLI, Gemini CLI), verifies with tests, and auto-commits</p>
+
+<p><a href="https://github.com/chernistry/bernstein">github</a></p>
+</div>
+
 ### Bland
 <div><a href="https://www.bland.ai/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
