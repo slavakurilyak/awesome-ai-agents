@@ -713,6 +713,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/risonsimon/claude-artifacts-react">github</a> | <a href="https://www.reddit.com/r/ClaudeAI/comments/1dtquuh/i_made_an_opensource_template_for_sharing_claudes/">reddit announcement</a></p>
 </div>
 
+### claude-dash
+<div><a href="https://github.com/krabat-l/claude-dash"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/krabat-l/claude-dash"><img src="https://img.shields.io/github/stars/krabat-l/claude-dash?style=social" alt="GitHub stars"></a></div>
+<p>🖥️ Developer Tools</p>
+
+<p>Real-time statusline for Claude Code showing context health, cost, quota, cache efficiency, tool activity, and git status. Zero npm dependencies.</p>
+
+<p><a href="https://github.com/krabat-l/claude-dash">github</a></p>
+</div>
+
 ### Claude-React-Jumpstart
 <div><a href="https://github.com/Bklieger/Claude-React-Jumpstart"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/Bklieger/Claude-React-Jumpstart"><img src="https://img.shields.io/github/stars/Bklieger/Claude-React-Jumpstart?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 115 stars (Updated: 2025-07-30)</p>
