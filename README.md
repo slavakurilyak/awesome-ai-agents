@@ -813,6 +813,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/continuedev/continue">github</a> | <a href="https://continue.dev">website</a></p>
 </div>
 
+### Cortex
+<div><a href="https://github.com/agentweave/cortex"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/agentweave/cortex"><img src="https://img.shields.io/github/stars/agentweave/cortex?style=social" alt="GitHub stars"></a></div>
+
+<p>⚙️ Development Frameworks</p>
+
+<p>Cortex is an open protocol for coordinating AI agent teams through plain markdown files. It uses a chief-of-staff pattern and is runtime-agnostic, supporting Claude Code, Codex, Cursor, Gemini CLI, and OpenCode. MIT licensed</p>
+
+<p><a href="https://github.com/agentweave/cortex">github</a></p>
+</div>
+
 ### Cosmo
 <div><a href="https://meetcosmo.ai/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
