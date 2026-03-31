@@ -2263,6 +2263,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://help.taskade.com/en/articles/8958457-custom-ai-agents#h_c9a93fc5b9">docs</a></p>
 </div>
 
+### ToolRouter
+<div><a href="https://toolrouter.com/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
+
+<p>⚙️ Development Frameworks</p>
+
+<p>Give your AI agent superpowers with access to 150+ tools on demand with just one account. One API key replaces managing dozens of provider accounts. Works with Claude, ChatGPT, Cursor, and any MCP client.</p>
+
+<p><a href="https://toolrouter.com/">website</a> | <a href="https://www.npmjs.com/package/toolrouter-mcp">npm</a> | <a href="https://api.toolrouter.com/mcp">remote mcp</a></p>
+</div>
+
 ### tortoise-tts
 <div><a href="https://github.com/neonbjb/tortoise-tts"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/neonbjb/tortoise-tts"><img src="https://img.shields.io/github/stars/neonbjb/tortoise-tts?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 14,463 stars (Updated: 2025-07-30)</p>
