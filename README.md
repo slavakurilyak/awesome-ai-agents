@@ -1863,6 +1863,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/openrecall/openrecall">GitHub</a> | <a href="https://discord.gg/RzvCYRgUkx">Discord</a> | <a href="https://t.me/+5DULWTesqUYwYjY0">Telegram</a></p>
 </div>
 
+### ORCA Agent Skills
+<div><a href="https://github.com/gfernandf/agent-skills"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a></div>
+
+<p>🛠️ Agent Frameworks</p>
+
+<p>ORCA is an open-source Python framework providing 122+ executable AI agent skills backed by YAML-defined capability contracts, a DAG scheduler, MCP server, and adapters for LangChain, CrewAI, and Semantic Kernel</p>
+
+<p><a href="https://github.com/gfernandf/agent-skills">GitHub</a> | <a href="https://pypi.org/project/orca-agent-skills/">PyPI</a> | <a href="https://gfernandf.github.io/agent-skills/">Docs</a></p>
+</div>
+
 ### OpenRouter
 <div><a href="https://openrouter.ai/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
