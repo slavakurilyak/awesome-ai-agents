@@ -1883,6 +1883,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/outlines-dev/outlines">github</a> | <a href="https://outlines-dev.github.io/outlines/">website</a> | <a href="https://discord.gg/ZxBxyWmW5n">discord</a></p>
 </div>
 
+### Overloop CLI
+<div><a href="https://github.com/sortlist/overloop-cli"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/sortlist/overloop-cli"><img src="https://img.shields.io/github/stars/sortlist/overloop-cli?style=social" alt="GitHub stars"></a></div>
+
+<p>🤖 AI Agents</p>
+
+<p>Overloop CLI is an AI-powered outbound engine available via npm (<code>npm i -g overloop-cli</code>). Source 450M+ contacts, launch email and LinkedIn campaigns, manage conversations. CLI-native with JSON output, agent-friendly. $69-99/mo.</p>
+
+<p><a href="https://github.com/sortlist/overloop-cli">github</a> | <a href="https://agent.overloop.ai">website</a> | <a href="https://www.npmjs.com/package/overloop-cli">npm</a></p>
+</div>
+
 ### Perplexity
 <div><a href="https://www.perplexity.ai/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
@@ -2081,6 +2091,16 @@ Here's an awesome list of AI agents:
 <p>ShortX is a AI-powered video automation platform for YouTube Shorts, Instagram Reels, TikTok, and Snapchat, offering customizable templates, AI services, and a subscription model with an affiliate program and user testimonials</p>
 
 <p><a href="https://shortx.ai/">website</a></p>
+</div>
+
+### Signals CLI
+<div><a href="https://github.com/sortlist/signals-cli"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/sortlist/signals-cli"><img src="https://img.shields.io/github/stars/sortlist/signals-cli?style=social" alt="GitHub stars"></a></div>
+
+<p>🤖 AI Agents</p>
+
+<p>Signals CLI is an intent signal monitoring tool available via npm (<code>npm i -g signals-sortlist-cli</code>). Detect LinkedIn engagers, keyword posters, job changers, funding events. JSON output for agent pipelines.</p>
+
+<p><a href="https://github.com/sortlist/signals-cli">github</a> | <a href="https://www.npmjs.com/package/signals-sortlist-cli">npm</a></p>
 </div>
 
 ### Streaming Assistants
