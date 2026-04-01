@@ -2063,6 +2063,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/OthersideAI/self-operating-computer">github</a> | <a href="https://github.com/OthersideAI">github profile</a> | <a href="https://www.hyperwriteai.com/self-operating-computer">landing page</a></p>
 </div>
 
+### SigParser
+<div><a href="https://www.sigparser.com"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
+
+<p>🤖 AI Agents</p>
+
+<p>SigParser is an email relationship data extraction and CRM enrichment platform that connects to email and calendar systems (Google Workspace, Microsoft 365) to extract contacts, enrich company data, and score relationship warmth. It features an MCP server for AI agent integration with email relationship data and syncs enriched contact and company data to CRMs like Salesforce, HubSpot, and Dynamics</p>
+
+<p><a href="https://www.sigparser.com">website</a> | <a href="https://support.sigparser.com">support</a></p>
+</div>
+
 ### ShortGPT by RayVentura
 <div><a href="https://github.com/RayVentura/ShortGPT"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/RayVentura/ShortGPT"><img src="https://img.shields.io/github/stars/RayVentura/ShortGPT?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 6,679 stars (Updated: 2025-07-30)</p>
