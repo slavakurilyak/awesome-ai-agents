@@ -463,6 +463,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://axflow.dev/">website</a> | <a href="https://github.com/axflow/axflow">github</a></p>
 </div>
 
+### AXME
+<div><a href="https://github.com/AxmeAI/axme"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/AxmeAI/axme"><img src="https://img.shields.io/github/stars/AxmeAI/axme?style=social" alt="GitHub stars"></a></div>
+
+<p>⚙️ Development Frameworks</p>
+
+<p>AXME is a durable coordination platform where agents, services, and humans coordinate as equals. Built-in crash recovery, human approval gates, retries, timeouts, and agent control plane with kill switch. Open protocol (AXP) + managed cloud. SDKs: Python, TypeScript, Go, Java, .NET</p>
+
+<p><a href="https://github.com/AxmeAI/axme">github</a> | <a href="https://cloud.axme.ai">website</a></p>
+</div>
+
 ### Azure Speech Service
 <div><a href="https://learn.microsoft.com/en-us/azure/ai-services/speech-service"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
