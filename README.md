@@ -2063,6 +2063,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/OthersideAI/self-operating-computer">github</a> | <a href="https://github.com/OthersideAI">github profile</a> | <a href="https://www.hyperwriteai.com/self-operating-computer">landing page</a></p>
 </div>
 
+### SidClaw
+<div><a href="https://github.com/sidclawhq/platform"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/sidclawhq/platform"><img src="https://img.shields.io/github/stars/sidclawhq/platform?style=social" alt="GitHub stars"></a></div>
+<p>🛡️ Safety Guardrails (Safeguarding)</p>
+
+<p>SidClaw is an open-source AI agent governance platform providing approval workflows, a policy engine, and hash-chain audit trails for AI agent actions, with integrations for 18+ frameworks including LangChain, CrewAI, and AutoGen. Apache 2.0 licensed</p>
+
+<p><a href="https://github.com/sidclawhq/platform">github</a> | <a href="https://sidclaw.com">website</a> | <a href="https://docs.sidclaw.com">docs</a></p>
+</div>
+
 ### ShortGPT by RayVentura
 <div><a href="https://github.com/RayVentura/ShortGPT"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/RayVentura/ShortGPT"><img src="https://img.shields.io/github/stars/RayVentura/ShortGPT?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 6,679 stars (Updated: 2025-07-30)</p>
