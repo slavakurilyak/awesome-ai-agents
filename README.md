@@ -133,6 +133,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/reworkd/AgentGPT">github</a> | <a href="https://github.com/reworkd">github profile</a></p>
 </div>
 
+### Agentify
+<div><a href="https://github.com/koriyoshi2041/agentify"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/koriyoshi2041/agentify"><img src="https://img.shields.io/github/stars/koriyoshi2041/agentify?style=social" alt="GitHub stars"></a></div>
+<p>🛠️ Developer Tools</p>
+
+<p>Agentify is an Agent Interface Compiler that transforms any OpenAPI specification into 9 agent interface formats — MCP servers, AGENTS.md, CLAUDE.md, .cursorrules, Skills, llms.txt, GEMINI.md, A2A Card, and CLI — with a single command, enabling any existing API to become agent-native</p>
+
+<p><a href="https://github.com/koriyoshi2041/agentify">github</a> | <a href="https://www.npmjs.com/package/agentify-cli">npm</a></p>
+</div>
+
 ### Agentive
 <div><a href="https://agentivehub.com/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
