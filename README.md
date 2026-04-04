@@ -153,6 +153,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/agentlabs-inc/agentlabs">github</a> | <a href="https://www.agentlabs.dev/">website</a> | <a href="https://docs.agentlabs.dev/">docs</a></p>
 </div>
 
+### AgentLint
+<div><a href="https://github.com/0xmariowu/AgentLint"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/0xmariowu/AgentLint"><img src="https://img.shields.io/github/stars/0xmariowu/AgentLint?style=social" alt="GitHub stars"></a></div>
+<p>🔍 Developer Tools</p>
+
+<p>AgentLint is a linter for AI-friendly repos with 33 evidence-backed checks across file structure, instruction quality, build setup, session continuity, and security posture. Built on analysis of 265 versions of Anthropic's Claude Code system prompt. Claude Code plugin with auto-fix.</p>
+
+<p><a href="https://github.com/0xmariowu/AgentLint">github</a></p>
+</div>
+
 ### AgentOps
 <div><a href="https://github.com/AgentOps-AI/agentops"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/AgentOps-AI/agentops"><img src="https://img.shields.io/github/stars/AgentOps-AI/agentops?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 4,716 stars (Updated: 2025-07-30)</p>
