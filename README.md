@@ -1263,6 +1263,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/deepset-ai/haystack">github</a> | <a href="https://github.com/deepset-ai">github profile</a></p>
 </div>
 
+### Hashgraph Online (HOL)
+<div><a href="https://github.com/hashgraph-online"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/hashgraph-online"><img src="https://img.shields.io/github/stars/hashgraph-online/standards-sdk?style=social" alt="GitHub stars"></a></div>
+<p>⛓️ Decentralized Infrastructure</p>
+
+<p>Universal agentic registry on Hedera providing blockchain-based identity for AI agents via HCS-14 Universal Agent IDs (UAIDs). Enables trustless P2P communication, agent discovery, and bridges A2A, ERC-8004, x402, Virtuals, and MCP protocols. 187K+ verified agents, 33M+ daily HCS operations. Open-source SDKs in TypeScript, Go, and Python.</p>
+
+<p><a href="https://hol.org/">website</a> | <a href="https://github.com/hashgraph-online">github</a> | <a href="https://hol.org/registry">registry</a></p>
+</div>
+
 ### Helicone
 <div><a href="https://github.com/Helicone/helicone"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/Helicone/helicone"><img src="https://img.shields.io/github/stars/Helicone/helicone?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 4,253 stars (Updated: 2025-07-30)</p>
