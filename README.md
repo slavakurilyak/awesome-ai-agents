@@ -2429,5 +2429,6 @@ To express your support, you can take the following actions:
    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=slavakurilyak/awesome-ai-agents&type=Date&theme=dark" />
    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=slavakurilyak/awesome-ai-agents&type=Date" />
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=slavakurilyak/awesome-ai-agents&type=Date" />
+- **[Agent Trust Stack](https://github.com/alexfleetcommander/agent-trust-stack-mcp)** - 7-protocol trust infrastructure for autonomous AI agents. Cryptographic provenance logging (Chain of Consciousness with Bitcoin OpenTimestamps), decentralized reputation scoring, dispute resolution, service agreements, lifecycle management, matchmaking. MCP server with 8 tools. [Smithery](https://smithery.ai/server/@alexfleetcommander/agent-trust-stack-mcp) | [PyPI](https://pypi.org/project/agent-trust-stack-mcp/)
  </picture>
 </a>
