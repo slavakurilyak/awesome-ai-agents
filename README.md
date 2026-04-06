@@ -1383,6 +1383,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://www.kapa.ai/">website</a> | <a href="https://docs.kapa.ai/">docs</a></p>
 </div>
 
+### Kitaru
+<div><a href="https://github.com/zenml-io/kitaru"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/zenml-io/kitaru"><img src="https://img.shields.io/github/stars/zenml-io/kitaru?style=social" alt="GitHub stars"></a></div>
+
+<p>⚙️ Development Frameworks</p>
+
+<p>Kitaru is a durable execution layer for AI agents. It provides primitives (checkpoints, replay, resume, wait, memory) that make agent workflows persistent, replayable, and observable — without requiring a graph DSL</p>
+
+<p><a href="https://github.com/zenml-io/kitaru">github</a> | <a href="https://kitaru.ai">website</a> | <a href="https://kitaru.ai/docs">docs</a></p>
+</div>
+
 ### LangChain
 <div><a href="https://github.com/langchain-ai/langchain"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/langchain-ai/langchain"><img src="https://img.shields.io/github/stars/langchain-ai/langchain?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 112,549 stars (Updated: 2025-07-30)</p>
