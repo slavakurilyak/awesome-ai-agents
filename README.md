@@ -1243,6 +1243,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/guidance-ai/guidance">github</a> | <a href="https://guidance.readthedocs.org/">docs</a></p>
 </div>
 
+### Guardian Agent Prompts
+<div><a href="https://github.com/milkomida77/guardian-agent-prompts"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/milkomida77/guardian-agent-prompts"><img src="https://img.shields.io/badge/GitHub-Repo-blue" alt="GitHub"></a></div>
+<p>49 production-tested system prompts (AGENT.md format) from a 57-agent AI system running 24/7</p>
+<p>🔧 Prompt Engineering / Multi-Agent Orchestration</p>
+
+<p>Guardian Agent Prompts is a collection of 49 battle-tested system prompts for building multi-agent AI systems. Each prompt covers a specialized role (orchestrator, security auditor, code architect, trading analyst, OSINT researcher, etc.) with identity blocks, quality gates, anti-hallucination rules, and inter-agent communication protocols. Production-tested in a live system coordinating 57 agents through Claude Code for 6+ months. Free orchestrator sample included.</p>
+
+<p><a href="https://github.com/milkomida77/guardian-agent-prompts">github</a></p>
+</div>
+
+
 ### Harpa
 <div><a href="https://harpa.ai/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
