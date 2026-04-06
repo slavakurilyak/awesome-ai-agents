@@ -1252,6 +1252,17 @@
   categories:
     - "Development Frameworks"
 
+- project: "Flow Weaver"
+  project_description: "Build AI agent workflows as plain TypeScript files. One annotation turns a function into a workflow node. The compiler validates the graph at compile time and generates standalone code for Inngest, Lambda, Vercel, or Cloudflare. Works with Claude Code, Copilot, Codex, and Cursor. Studio visual editor included."
+  project_is_open_source: true
+  sources:
+    - source: "github"
+      source_url: "https://github.com/synergenius-fw/flow-weaver"
+    - source: "website"
+      source_url: "https://flowweaver.ai"
+  categories:
+    - "Development Frameworks"
+
 - project: "Lobe Chat"
   project_description: "Lobe Chat is an open-source UI framework for building ChatGPT/LLM-based chat applications, featuring modern design, speech synthesis, multi-modal support, extensible plugins, and free one-click deployment for various AI agents"
   project_is_open_source: true
