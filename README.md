@@ -2033,6 +2033,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://rime.ai/">website</a></p>
 </div>
 
+### RemoteOpenClaw
+<div><a href="https://remoteopenclaw.com"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a></div>
+
+<p>🛒 Marketplaces</p>
+
+<p>RemoteOpenClaw is an open marketplace for discovering, sharing, and distributing AI skills and personas built on OpenClaw</p>
+
+<p><a href="https://remoteopenclaw.com">website</a> | <a href="https://github.com/openclaw">github</a></p>
+</div>
 ### ScrapeGraphAI
 <div><a href="https://github.com/VinciGit00/Scrapegraph-ai"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/VinciGit00/Scrapegraph-ai"><img src="https://img.shields.io/github/stars/VinciGit00/Scrapegraph-ai?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 20,809 stars (Updated: 2025-07-30)</p>
