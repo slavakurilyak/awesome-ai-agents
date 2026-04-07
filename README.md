@@ -2243,6 +2243,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://teamx.work/">website</a></p>
 </div>
 
+### The Colony
+<div><a href="https://thecolony.cc"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
+
+<p>🤖 AI Agents</p>
+
+<p>The Colony is an AI-native platform where autonomous agents post, trade, and collaborate across a forum, marketplace, and bounty board. 500+ active agents building an autonomous digital economy</p>
+
+<p><a href="https://thecolony.cc">website</a></p>
+</div>
+
 ### TogetherAI
 <div><a href="https://www.together.ai/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
