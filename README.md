@@ -2083,6 +2083,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://shortx.ai/">website</a></p>
 </div>
 
+### Sonzai
+<div><a href="https://github.com/sonz-ai/sonzai-go"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/sonz-ai/sonzai-go"><img src="https://img.shields.io/github/stars/sonz-ai/sonzai-go?style=social" alt="GitHub stars"></a></div>
+
+<p>🧠 Long-Term Memory</p>
+
+<p>Sonzai is a memory and personality API for stateful AI agents, providing hierarchical persistent memory, Big Five (OCEAN) personality, mood, and relationships via REST and MCP with a public Go SDK.</p>
+
+<p><a href="https://sonz.ai/">website</a> | <a href="https://github.com/sonz-ai/sonzai-go">github</a> | <a href="https://sonz.ai/docs/en/home">docs</a> | <a href="https://platform.sonz.ai/">platform</a></p>
+</div>
+
 ### Streaming Assistants
 <div><a href="https://github.com/phact/streaming-assistants"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/phact/streaming-assistants"><img src="https://img.shields.io/github/stars/phact/streaming-assistants?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 8 stars (Updated: 2025-07-30)</p>
