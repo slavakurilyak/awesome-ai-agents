@@ -123,6 +123,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/THUDM/AgentBench">github</a></p>
 </div>
 
+### AgentField
+<div><a href="https://github.com/Agent-Field/agentfield"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/Agent-Field/agentfield"><img src="https://img.shields.io/github/stars/Agent-Field/agentfield?style=social" alt="GitHub stars"></a></div>
+<p>⚙️ Development Frameworks</p>
+
+<p>AgentField is an open-source control plane for building and operating AI agents like APIs at scale, with routing, memory, observability, identity, auth, and policy controls.</p>
+
+<p><a href="https://github.com/Agent-Field/agentfield">github</a> | <a href="https://agentfield.ai/docs/learn?utm_source=awesome-list&utm_campaign=awesome-ai-agents&utm_id=slavakurilyak">docs</a></p>
+</div>
+
 ### AgentGPT by Reworkd
 <div><a href="https://github.com/reworkd/AgentGPT"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/reworkd/AgentGPT"><img src="https://img.shields.io/github/stars/reworkd/AgentGPT?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 34,613 stars (Updated: 2025-07-30)</p>
