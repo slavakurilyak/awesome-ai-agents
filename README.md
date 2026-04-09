@@ -1213,6 +1213,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/101dotxyz/GPTeam">github</a> | <a href="https://github.com/101dotxyz">github profile</a></p>
 </div>
 
+### gptme
+<div><a href="https://github.com/ErikBjare/gptme"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/ErikBjare/gptme"><img src="https://img.shields.io/github/stars/ErikBjare/gptme?style=social" alt="GitHub stars"></a></div>
+<p>⭐ 4,266 stars (Updated: 2026-04-09)</p>
+<p>⚙️ Development Frameworks</p>
+
+<p>gptme is an open-source terminal AI agent platform supporting multiple LLM providers, featuring persistent agents with memory across 7,500+ autonomous sessions, multi-agent orchestration, tool use (shell, Python, browser, files), and a self-improving lesson system</p>
+
+<p><a href="https://github.com/ErikBjare/gptme">github</a> | <a href="https://gptme.org">website</a> | <a href="https://gptme.org/docs/">docs</a></p>
+</div>
+
 ### Groq
 <div><a href="https://groq.com/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
