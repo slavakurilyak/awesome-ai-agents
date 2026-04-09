@@ -1383,6 +1383,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://www.kapa.ai/">website</a> | <a href="https://docs.kapa.ai/">docs</a></p>
 </div>
 
+### Knowledge Graph
+<div><a href="https://github.com/hilyfux/knowledge-graph"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/hilyfux/knowledge-graph"><img src="https://img.shields.io/github/stars/hilyfux/knowledge-graph?style=social" alt="GitHub stars"></a></div>
+<p>⭐ 3 stars (Updated: 2026-04-09)</p>
+<p>🧠 Long-Term Memory</p>
+
+<p>Knowledge Graph is a zero-dependency, git-native memory layer for Claude Code that persists learned context across sessions. Built around Anthropic-inspired engineering practices and Karpathy's AutoResearch-style knowledge synthesis, it stores project memory in plain files with ~3ms overhead per event and no vector database or external infrastructure.</p>
+
+<p><a href="https://github.com/hilyfux/knowledge-graph">github</a></p>
+</div>
+
 ### LangChain
 <div><a href="https://github.com/langchain-ai/langchain"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/langchain-ai/langchain"><img src="https://img.shields.io/github/stars/langchain-ai/langchain?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 112,549 stars (Updated: 2025-07-30)</p>
