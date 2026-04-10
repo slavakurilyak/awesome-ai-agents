@@ -853,6 +853,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://www.crewai.com/crewaiplus">website</a></p>
 </div>
 
+### CryptoGuard
+<div><a href="https://github.com/momenbasel/CryptoGuard"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/momenbasel/CryptoGuard"><img src="https://img.shields.io/github/stars/momenbasel/CryptoGuard?style=social" alt="GitHub stars"></a></div>
+
+<p>🔒 Security / Crypto</p>
+
+<p>CryptoGuard is an AI agent pre-transaction safety hook for crypto. Intercepts commands from Claude Code, Codex, and other AI agents to analyze smart contracts for honeypots, blacklists, rug pulls, and scam tokens before execution. Queries GoPlus, Honeypot.is, TokenSniffer, De.Fi, QuickIntel in parallel</p>
+
+<p><a href="https://github.com/momenbasel/CryptoGuard">github</a></p>
+</div>
+
 ### Cursor
 <div><a href="https://github.com/getcursor/cursor/issues"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
