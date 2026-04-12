@@ -1003,6 +1003,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/e2b-dev/E2B">github</a> | <a href="https://github.com/e2b-dev">github profile</a></p>
 </div>
 
+### Encyclopedia of Agentic Coding Patterns
+<div><a href="https://aipatternbook.com/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
+
+<p>📖 Reference Works</p>
+
+<p>Online reference covering 190+ patterns for AI-assisted software development. Maintained by AI agents, curated by Wolf McNally.</p>
+
+<p><a href="[https://elevenlabs.io/](https://aipatternbook.com/)">website</a></p>
+</div>
+
 ### ElevenLabs
 <div><a href="https://elevenlabs.io/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
