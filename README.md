@@ -973,6 +973,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/entropy-research/Devon">github</a></p>
 </div>
 
+### Dexto
+<div><a href="https://github.com/truffle-ai/dexto"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/truffle-ai/dexto"><img src="https://img.shields.io/github/stars/truffle-ai/dexto?style=social" alt="GitHub stars"></a></div>
+<p>⭐ 608 stars (Updated: 2026-04-12)</p>
+<p>⚙️ Development Frameworks</p>
+
+<p>Dexto is an open agent harness that ships with a production-ready coding agent. Features YAML-based configuration, 50+ LLM support, MCP tools, and persistent memory.</p>
+
+<p><a href="https://github.com/truffle-ai/dexto">github</a> | <a href="https://dexto.ai">website</a></p>
+</div>
+
 ### DevOpsGPT
 <div><a href="https://github.com/kuafuai/DevOpsGPT"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/kuafuai/DevOpsGPT"><img src="https://img.shields.io/github/stars/kuafuai/DevOpsGPT?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 5,951 stars (Updated: 2025-07-30)</p>
