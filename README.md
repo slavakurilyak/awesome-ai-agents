@@ -2254,6 +2254,7 @@ Here's an awesome list of AI agents:
 </div>
 
 ### Tools by Taskade
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 <div><a href="https://help.taskade.com/en/articles/8958457-custom-ai-agents#h_c9a93fc5b9"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
 <p> Function Calling</p>
