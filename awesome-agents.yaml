@@ -2654,4 +2654,13 @@
       source_url: "https://www.linkedin.com/company/mem0/"
   categories:
     - "Long-Term Memory"
+
+- project: "Not Human Search"
+  project_description: "Search engine for AI agents — indexes 300+ tools ranked by agentic readiness. REST API and MCP server for programmatic discovery."
+  project_is_open_source: false
+  sources:
+    - source: "website"
+      source_url: "https://nothumansearch.ai"
+  categories:
+    - "AI Agents"
   

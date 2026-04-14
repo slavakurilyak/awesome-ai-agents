@@ -1753,6 +1753,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://gpt.nexus/">website</a></p>
 </div>
 
+### Not Human Search
+<div><a href="https://nothumansearch.ai"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
+
+<p>🤖 AI Agents</p>
+
+<p>Search engine for AI agents — indexes 300+ tools ranked by agentic readiness. REST API and MCP server for programmatic discovery.</p>
+
+<p><a href="https://nothumansearch.ai">website</a></p>
+</div>
+
 ### NPI
 <div><a href="https://github.com/npi-ai/npi"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/npi-ai/npi"><img src="https://img.shields.io/github/stars/npi-ai/npi?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 222 stars (Updated: 2025-07-30)</p>
