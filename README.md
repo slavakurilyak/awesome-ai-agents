@@ -363,6 +363,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://www.anyscale.com/">website</a> | <a href="https://docs.anyscale.com/">docs</a></p>
 </div>
 
+
+### Anuki
+<div><a href="https://github.com/cylonmolting-creator/anuki"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/cylonmolting-creator/anuki"><img src="https://img.shields.io/github/stars/cylonmolting-creator/anuki?style=social" alt="GitHub stars"></a></div>
+<p>⭐ 0 stars (Updated: 2026-04-14)</p>
+<p>⚙️ Development Frameworks</p>
+
+<p>Anuki is an open-source AI agent LEGO platform for building, managing, and orchestrating multi-agent teams, featuring cognitive memory, soul-file-based personality, multi-channel support (Telegram, Discord, WebChat), and a modular architecture that lets you compose agents like building blocks</p>
+
+<p><a href="https://github.com/cylonmolting-creator/anuki">github</a></p>
+</div>
+
 ### Aomni
 <div><a href="https://www.aomni.com/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
