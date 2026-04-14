@@ -1273,6 +1273,13 @@ Here's an awesome list of AI agents:
 <p><a href="https://www.helicone.ai/">website</a> | <a href="https://github.com/Helicone/helicone">github</a></p>
 </div>
 
+### Helium MCP
+<div><a href="https://github.com/connerlambden/helium-mcp"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/connerlambden/helium-mcp"><img src="https://img.shields.io/github/stars/connerlambden/helium-mcp?style=social" alt="GitHub stars"></a></div>
+<p>Remote MCP server providing AI-powered market intelligence, news bias analysis (15+ dimensions, 5000+ sources), ML options pricing, and balanced news synthesis. Free tier, no API key.</p>
+
+<p><a href="https://github.com/connerlambden/helium-mcp">github</a> | <a href="https://heliumtrades.com/mcp">website</a></p>
+</div>
+
 ### Humane
 <div><a href="https://humane.com/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
