@@ -20,6 +20,7 @@ According to [Andrew Ng (@andrewyng)](https://github.com/andrewyng):
 > "GPT-3.5 with an agentic workflow actually outperforms GPT-4"
 
 ## 🏆 Top 10 Projects
+- [Asynkor](https://github.com/asynkor/asynkor) - Coordination layer for AI agent teams. File leasing, shared memory, cross-machine sync. One MCP server for Claude Code, Cursor, Windsurf.
 
 <ol>
 <li><a href="https://github.com/Significant-Gravitas/AutoGPT"><strong>AutoGPT</strong></a> - 177,350 stars (Updated: 2025-07-30)<br>AutoGPT provides accessible AI tools for building and using AI agents, offering a comprehensive framework including Forge for agent creation, agbenchmark for performance evaluation, a leaderboard for competition, a user-friendly UI, and CLI for seamless integration and management</li>
