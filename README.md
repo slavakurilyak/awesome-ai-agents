@@ -1873,6 +1873,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://openrouter.ai/">website</a> | <a href="https://openrouter.ai/docs">docs</a></p>
 </div>
 
+### Operant MCP
+<div><a href="https://github.com/operantlabs/operant-mcp"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/operantlabs/operant-mcp"><img src="https://img.shields.io/github/stars/operantlabs/operant-mcp?style=social" alt="GitHub stars"></a></div>
+
+<p>🔒 Security Testing</p>
+
+<p>Operant MCP is an open-source MCP server with 51 security testing tools for pentesting, vulnerability scanning, and security auditing. It covers SQLi, XSS, SSRF, IDOR, auth bypass, CORS misconfiguration, path traversal, command injection, NoSQL injection, PCAP analysis, and cloud security auditing. MIT licensed.</p>
+
+<p><a href="https://github.com/operantlabs/operant-mcp">github</a></p>
+</div>
+
 ### Outlines
 <div><a href="https://github.com/outlines-dev/outlines"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/outlines-dev/outlines"><img src="https://img.shields.io/github/stars/outlines-dev/outlines?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 12,182 stars (Updated: 2025-07-30)</p>
