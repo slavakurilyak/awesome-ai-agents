@@ -20,6 +20,7 @@ According to [Andrew Ng (@andrewyng)](https://github.com/andrewyng):
 > "GPT-3.5 with an agentic workflow actually outperforms GPT-4"
 
 ## 🏆 Top 10 Projects
+- [Asynkor](https://github.com/asynkor/asynkor) - Coordination layer for AI agent teams. File leasing, shared memory, cross-machine sync. One MCP server for Claude Code, Cursor, Windsurf.
 
 <ol>
 <li><a href="https://github.com/Significant-Gravitas/AutoGPT"><strong>AutoGPT</strong></a> - 177,350 stars (Updated: 2025-07-30)<br>AutoGPT provides accessible AI tools for building and using AI agents, offering a comprehensive framework including Forge for agent creation, agbenchmark for performance evaluation, a leaderboard for competition, a user-friendly UI, and CLI for seamless integration and management</li>
@@ -35,6 +36,7 @@ According to [Andrew Ng (@andrewyng)](https://github.com/andrewyng):
 </ol>
 
 ## 🚀 Rising 10 Projects (Recently Active, Excluding Top 10)
+- [Asynkor](https://github.com/asynkor/asynkor) - Coordination layer for AI agent teams. File leasing, shared memory, cross-machine sync. One MCP server for Claude Code, Cursor, Windsurf.
 
 <ol>
 <li><a href="https://github.com/gpt-engineer-org/gpt-engineer"><strong>GPT Engineer</strong></a> - 54,614 stars (Updated: 2025-07-30)<br>GPT-Engineer is an AI-powered tool allowing users to specify software in natural language, automatically generating and executing code, with options for improvement suggestions, and fostering collaboration within the open-source community</li>
@@ -50,6 +52,7 @@ According to [Andrew Ng (@andrewyng)](https://github.com/andrewyng):
 </ol>
 
 ## ✍️ All Projects
+- [Asynkor](https://github.com/asynkor/asynkor) - Coordination layer for AI agent teams. File leasing, shared memory, cross-machine sync. One MCP server for Claude Code, Cursor, Windsurf.
 
 Here's an awesome list of AI agents:
 
@@ -2405,6 +2408,7 @@ Here's an awesome list of AI agents:
 
 
 ## 🙋‍♂️ Hire Me
+- [Asynkor](https://github.com/asynkor/asynkor) - Coordination layer for AI agent teams. File leasing, shared memory, cross-machine sync. One MCP server for Claude Code, Cursor, Windsurf.
 
 Do you want to develop a custom agentic AI solution or looking launch your own AI agent?
 
@@ -2415,6 +2419,7 @@ Disclaimer: Slava Kurilyak is the Founder/CEO at Produvia
 At Produvia, we partner with $7M+ in revenue brands to develop custom AI agents
 
 ## ❤️ Show Your Support
+- [Asynkor](https://github.com/asynkor/asynkor) - Coordination layer for AI agent teams. File leasing, shared memory, cross-machine sync. One MCP server for Claude Code, Cursor, Windsurf.
 
 To express your support, you can take the following actions:
 
@@ -2423,6 +2428,7 @@ To express your support, you can take the following actions:
 3. **Contribute Directly**: You can contribute by forking this repository and then submitting your contributions through a new pull request [here](https://github.com/slavakurilyak/awesome-ai-agents/fork).
 
 ## 🚀 Star History
+- [Asynkor](https://github.com/asynkor/asynkor) - Coordination layer for AI agent teams. File leasing, shared memory, cross-machine sync. One MCP server for Claude Code, Cursor, Windsurf.
 
 <a href="https://star-history.com/#slavakurilyak/awesome-ai-agents&Date">
  <picture>
