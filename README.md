@@ -1764,10 +1764,11 @@ Here's an awesome list of AI agents:
 </div>
 
 ### Not Human Search
-<div></div>
-<p>🔍 AI Tool Discovery</p>
+<div><a href="https://nothumansearch.ai/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
-<p>Not Human Search is an AI tool discovery engine with agentic scoring. It indexes 8,600+ AI tools and MCP servers, ranking them by agentic readiness. Provides REST API and MCP server for programmatic access, enabling AI agents to discover and evaluate tools.</p>
+<p> Function Calling</p>
+
+<p>Not Human Search is an AI-native search engine that indexes 8,600+ MCP servers and AI tools, ranking them by agentic readiness across 7 signals including llms.txt, OpenAPI specs, and MCP server availability, with a REST API and MCP server for programmatic tool discovery by AI agents</p>
 
 <p><a href="https://nothumansearch.ai/">website</a> | <a href="https://nothumansearch.ai/llms.txt">docs</a></p>
 </div>
