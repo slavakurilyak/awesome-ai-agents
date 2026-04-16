@@ -2274,6 +2274,9 @@ Here's an awesome list of AI agents:
 </div>
 
 ### Traces by Weights & Biases
+- [FutureAGI traceAI](https://github.com/future-agi/traceAI)
+- [FutureAGI simulate-sdk](https://github.com/future-agi/simulate-sdk)
+
 <div><a href="https://wandb.ai/site/traces"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
 <p>👁️ Observability Frameworks</p>
