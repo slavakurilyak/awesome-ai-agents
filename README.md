@@ -1763,6 +1763,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/npi-ai/npi">github</a> | <a href="https://www.npi.ai/">website</a> | <a href="https://www.npi.ai/docs">docs</a> | <a href="https://www.npi.ai/blog">blog</a></p>
 </div>
 
+### Not Human Search
+<div></div>
+<p>🔍 AI Tool Discovery</p>
+
+<p>Not Human Search is an AI tool discovery engine with agentic scoring. It indexes 8,600+ AI tools and MCP servers, ranking them by agentic readiness. Provides REST API and MCP server for programmatic access, enabling AI agents to discover and evaluate tools.</p>
+
+<p><a href="https://nothumansearch.ai/">website</a> | <a href="https://nothumansearch.ai/llms.txt">docs</a></p>
+</div>
+
 ### Ollama
 <div><a href="https://github.com/ollama/ollama"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/ollama/ollama"><img src="https://img.shields.io/github/stars/ollama/ollama?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 147,994 stars (Updated: 2025-07-30)</p>
