@@ -93,6 +93,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/statelyai/agent/">github</a> | <a href="https://stately.ai/agent">website</a> | <a href="https://twitter.com/statelyai">twitter</a> | <a href="https://discord.gg/xstate">discord</a> | <a href="https://youtube.com/c/statelyai">youtube</a></p>
 </div>
 
+### Agent Express
+<div><a href="https://github.com/agent-express-ai/agent-express"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/agent-express-ai/agent-express"><img src="https://img.shields.io/github/stars/agent-express-ai/agent-express?style=social" alt="GitHub stars"></a></div>
+<p>⭐ 0 stars (Updated: 2026-04-16)</p>
+<p>🤖 AI Agents</p>
+
+<p>Middleware framework for building AI agents in TypeScript. Express.js-style (ctx, next) pattern with composable hooks for retry, budget caps, memory compaction, tool approval, and observability. Three concepts: Agent, Session, Middleware.</p>
+
+<p><a href="https://github.com/agent-express-ai/agent-express">github</a> | <a href="https://agent-express.ai">website</a></p>
+</div>
+
 ### Agent Protocol
 <div><a href="https://github.com/AI-Engineer-Foundation/agent-protocol"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a> <a href="https://github.com/AI-Engineer-Foundation/agent-protocol"><img src="https://img.shields.io/github/stars/AI-Engineer-Foundation/agent-protocol?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 1,427 stars (Updated: 2025-07-30)</p>
