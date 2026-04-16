@@ -1873,6 +1873,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://openrouter.ai/">website</a> | <a href="https://openrouter.ai/docs">docs</a></p>
 </div>
 
+### OpenTwins
+<div><a href="https://github.com/Open-Twin/opentwins"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/Open-Twin/opentwins"><img src="https://img.shields.io/github/stars/Open-Twin/opentwins?style=social" alt="GitHub stars"></a></div>
+
+<p>📱 Social Automation</p>
+
+<p>OpenTwins is a CLI and dashboard that runs autonomous digital-twin agents across ten social platforms (Reddit, Twitter/X, LinkedIn, Bluesky, Threads, Medium, Substack, Dev.to, Product Hunt, Indie Hackers). Each agent is driven by Claude Code and uses real Chrome automation via CDP, with a 7-stage content pipeline (trend scout, competitive intel, engagement tracker, network mapper, amplification, planner, writer). Local-first: SQLite for activity and quality metrics, Bree for scheduling, web dashboard at localhost:3847</p>
+
+<p><a href="https://github.com/Open-Twin/opentwins">github</a> | <a href="https://opentwins.ai">website</a> | <a href="https://www.npmjs.com/package/opentwins">npm</a></p>
+</div>
+
 ### Outlines
 <div><a href="https://github.com/outlines-dev/outlines"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/outlines-dev/outlines"><img src="https://img.shields.io/github/stars/outlines-dev/outlines?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 12,182 stars (Updated: 2025-07-30)</p>
