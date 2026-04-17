@@ -1373,6 +1373,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://jsonify.com/">website</a> | <a href="https://twitter.com/jsonifyco">twitter</a> | <a href="https://www.linkedin.com/company/jsonify/">linkedin</a></p>
 </div>
 
+### k8s4claw
+<div><a href="https://github.com/Prismer-AI/k8s4claw"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/Prismer-AI/k8s4claw"><img src="https://img.shields.io/github/stars/Prismer-AI/k8s4claw?style=social" alt="GitHub stars"></a></div>
+
+<p>⚙️ Development Frameworks</p>
+
+<p>k8s4claw is a Kubernetes operator for managing heterogeneous AI agent runtimes. One CRD manages the full lifecycle: StatefulSet, IPC Bus (WAL + DLQ + backpressure), channel sidecars (Slack, Discord, Webhook), auto-updates with circuit breaker, and PVC persistence. Supports 5 built-in runtimes plus custom runtimes.</p>
+
+<p><a href="https://github.com/Prismer-AI/k8s4claw">github</a> | <a href="https://github.com/Prismer-AI/k8s4claw/releases/download/v0.1.0/demo-k8s.mp4">demo</a></p>
+</div>
+
 ### Kapa
 <div><a href="https://www.kapa.ai/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
