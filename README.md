@@ -753,6 +753,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/semanser/codel">github</a> | <a href="https://news.ycombinator.com/item?id=39799296">announcement</a></p>
 </div>
 
+### Codex Infinity
+<div><a href="https://codex-infinity.com"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
+
+<p>🤖 AI Agents</p>
+
+<p>Codex Infinity is an autonomous coding agent that runs continuously on bare metal VPS. Supports Claude Max and OpenAI Codex plans with full root access and no cloud timeouts</p>
+
+<p><a href="https://codex-infinity.com">website</a></p>
+</div>
+
 ### Cody
 <div><a href="https://github.com/sourcegraph/cody"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/sourcegraph/cody"><img src="https://img.shields.io/github/stars/sourcegraph/cody?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 3,793 stars (Updated: 2025-07-30)</p>
