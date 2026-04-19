@@ -53,6 +53,24 @@ According to [Andrew Ng (@andrewyng)](https://github.com/andrewyng):
 
 Here's an awesome list of AI agents:
 
+### Agent Shadow Brain
+<div><a href="https://github.com/theihtisham/agent-shadow-brain"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/theihtisham/agent-shadow-brain"><img src="https://img.shields.io/github/stars/theihtisham/agent-shadow-brain?style=social" alt="GitHub stars"></a></div>
+<p>💻 Coding / Developer Tools</p>
+
+<p>Agent Shadow Brain is a self-evolving AI coding intelligence with infinite memory (TurboQuant, Google Research ICLR 2026), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense. 22 neural modules that get smarter every session. TypeScript/Node.js. MIT licensed.</p>
+
+<p><a href="https://github.com/theihtisham/agent-shadow-brain">github</a> | <a href="https://www.npmjs.com/package/@theihtisham/agent-shadow-brain">npm</a></p>
+</div>
+
+### Omni Skills Forge
+<div><a href="https://github.com/theihtisham/omni-skills-forge"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/theihtisham/omni-skills-forge"><img src="https://img.shields.io/github/stars/theihtisham/omni-skills-forge?style=social" alt="GitHub stars"></a></div>
+<p>💻 Coding / Developer Tools</p>
+
+<p>Omni Skills Forge provides 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, and Cline. Visual dashboard, one-click install, skill doctor, auto-update. 50+ skill categories. TypeScript/Node.js. MIT licensed.</p>
+
+<p><a href="https://github.com/theihtisham/omni-skills-forge">github</a> | <a href="https://www.npmjs.com/package/omni-skills-forge">npm</a></p>
+</div>
+
 ### 01
 <div><a href="https://github.com/OpenInterpreter/01"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/OpenInterpreter/01"><img src="https://img.shields.io/github/stars/OpenInterpreter/01?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 5,080 stars (Updated: 2025-07-30)</p>
