@@ -54,6 +54,17 @@ According to [Andrew Ng (@andrewyng)](https://github.com/andrewyng):
 Here's an awesome list of AI agents:
 
 ### 01
+### Agent Shadow Brain
+<div><a href="https://github.com/theihtisham/agent-shadow-brain"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/theihtisham/agent-shadow-brain"><img src="https://img.shields.io/github/stars/theihtisham/agent-shadow-brain?style=social" alt="GitHub stars"></a></div>
+<p>⭐ 6 stars</p>
+<p>⌚ Coding Intelligence</p>
+<p>Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and cross-agent protocol (CAIP)</p>
+
+### Omni Skills Forge
+<div><a href="https://github.com/theihtisham/omni-skills-forge"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/theihtisham/omni-skills-forge"><img src="https://img.shields.io/github/stars/theihtisham/omni-skills-forge?style=social" alt="GitHub stars"></a></div>
+<p>⭐ 10 stars</p>
+<p>⌚ AI Skills Library</p>
+<p>50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline with visual dashboard, one-click install, and skill doctor</p>
 <div><a href="https://github.com/OpenInterpreter/01"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/OpenInterpreter/01"><img src="https://img.shields.io/github/stars/OpenInterpreter/01?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 5,080 stars (Updated: 2025-07-30)</p>
 <p>⌚ Hardware (Wearables)</p>
