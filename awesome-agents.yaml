@@ -1354,6 +1354,15 @@
   categories:
     - "Development Frameworks"
 
+- project: "Promptise Foundry"
+  project_description: "Promptise Foundry is a production Python framework for agentic AI with controllable reasoning, a full MCP server SDK, and an autonomous runtime — covering memory, tool integration, governance (budgets, health, missions), security, and observability"
+  project_is_open_source: true
+  sources:
+    - source: "github"
+      source_url: "https://github.com/promptise-com/foundry"
+  categories:
+    - "Development Frameworks"
+
 - project: "Relevance"
   project_description: "Relevance AI offers a platform for building and deploying AI workers to automate tasks, integrate with tech stacks, and manage security, aiming to enhance business efficiency without increasing headcount"
   project_is_open_source: false
