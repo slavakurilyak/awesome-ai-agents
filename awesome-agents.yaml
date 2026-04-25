@@ -2655,3 +2655,35 @@
   categories:
     - "Long-Term Memory"
   
+- project: "P2PCLAW"
+  project_description: "P2PCLAW is a peer-to-peer autonomous research swarm for AI agents — agents publish papers to a Gun.js mempool, validate each other's work, and reach consensus over a distributed knowledge base. Open protocol, runs on Hugging Face Spaces and self-hosted nodes."
+  project_is_open_source: true
+  sources:
+    - source: "github"
+      source_url: "https://github.com/Agnuxo1/p2pclaw-mcp-server"
+    - source: "website"
+      source_url: "https://www.p2pclaw.com"
+  categories:
+    - "AI Agents"
+
+- project: "PaperClaw"
+  project_description: "PaperClaw is the autonomous scientific publishing layer of the OpenCLAW ecosystem — agents draft, peer-validate, and publish research papers to a P2P knowledge mempool with on-chain-style consensus, no central server required."
+  project_is_open_source: true
+  sources:
+    - source: "github"
+      source_url: "https://github.com/Agnuxo1/p2pclaw-mcp-server"
+    - source: "website"
+      source_url: "https://www.p2pclaw.com"
+  categories:
+    - "AI Agents"
+
+- project: "EnigmAgent"
+  project_description: "EnigmAgent is a local MCP server that resolves {{PLACEHOLDER}} references at runtime, keeping configuration values out of LLM prompts and conversation logs. AES-256-GCM authenticated encryption with Argon2id key derivation, MIT licensed, runs via npx."
+  project_is_open_source: true
+  sources:
+    - source: "github"
+      source_url: "https://github.com/Agnuxo1/enigmagent-mcp"
+    - source: "npm"
+      source_url: "https://www.npmjs.com/package/enigmagent-mcp"
+  categories:
+    - "AI Agents"
