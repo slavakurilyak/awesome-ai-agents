@@ -1383,6 +1383,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://www.kapa.ai/">website</a> | <a href="https://docs.kapa.ai/">docs</a></p>
 </div>
 
+### KubeStellar Console
+<div><a href="https://github.com/kubestellar/console"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/kubestellar/console"><img src="https://img.shields.io/github/stars/kubestellar/console?style=social" alt="GitHub stars"></a></div>
+
+<p>☸️ DevOps, Infrastructure</p>
+
+<p>KubeStellar Console is an open-source multi-cluster Kubernetes dashboard with an AI operations agent (kc-agent) that bridges LLMs to live Kubernetes clusters via the Model Context Protocol (MCP). Enables AI-assisted troubleshooting, observability, and management across edge and cloud clusters. CNCF Sandbox project</p>
+
+<p><a href="https://github.com/kubestellar/console">github</a> | <a href="https://console.kubestellar.io">demo</a> | <a href="https://kubestellar.io">website</a></p>
+</div>
+
 ### LangChain
 <div><a href="https://github.com/langchain-ai/langchain"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/langchain-ai/langchain"><img src="https://img.shields.io/github/stars/langchain-ai/langchain?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 112,549 stars (Updated: 2025-07-30)</p>
