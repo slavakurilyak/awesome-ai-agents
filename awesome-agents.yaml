@@ -2655,3 +2655,14 @@
   categories:
     - "Long-Term Memory"
   
+- project: "Suede"
+  project_description: "Suede is the ownership infrastructure layer for the AI era — combining hardware-anchored proof of creation (SuedeMic), privacy-preserving VoicePrint identity, on-chain IP registry with 6 live smart contracts, and autonomous licensing agents into one protocol for programmable intellectual property. $2.3M+ paid to creators, 3,500+ ambassadors, live on Solana and Base."
+  project_is_open_source: false
+  sources:
+    - source: "website"
+      source_url: "https://suedeai.ai/"
+    - source: "twitter"
+      source_url: "https://twitter.com/suede"
+  categories:
+    - "AI Agents"
+    - "Voice Agents"
