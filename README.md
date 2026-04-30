@@ -73,6 +73,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/HumanSignal/Adala">github</a></p>
 </div>
 
+### Aeon
+<div><a href="https://github.com/aaronjmars/aeon"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/aaronjmars/aeon"><img src="https://img.shields.io/github/stars/aaronjmars/aeon?style=social" alt="GitHub stars"></a></div>
+<p>⭐ 255 stars (Updated: 2026-04-30)</p>
+<p>⚙️ Development Frameworks</p>
+<p>👤 Personal Assistants</p>
+
+<p>Aeon is an autonomous agent framework that runs unattended on GitHub Actions, with 90+ built-in skills (research, dev, crypto, productivity, social), output quality scoring via Haiku, persistent memory, reactive triggers, and a self-healing loop (heartbeat → skill-health → skill-evals → skill-repair → self-improve); ships with MCP and A2A integrations and a fork-and-run model</p>
+
+<p><a href="https://github.com/aaronjmars/aeon">github</a> | <a href="https://x.com/aeonframework">twitter</a></p>
+</div>
+
 ### Agency Swarm by VRSEN
 <div><a href="https://github.com/VRSEN/agency-swarm"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/VRSEN/agency-swarm"><img src="https://img.shields.io/github/stars/VRSEN/agency-swarm?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 3,729 stars (Updated: 2025-07-30)</p>
