@@ -1033,6 +1033,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/agentic-ai/enact">github</a></p>
 </div>
 
+
+### EventTrader NEXUS AI
+<div><a href="https://cymetica.com"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
+
+<p>📈 Finance & Trading</p>
+
+<p>EventTrader NEXUS AI is an autonomous AI prediction market trading agent by Cymetica with real-time market intelligence, 50+ MCP tools, A2A Protocol support, and inter-agent DM infrastructure for agent-to-agent communication</p>
+
+<p><a href="https://cymetica.com">website</a> | <a href="https://cymetica.com/.well-known/agent-card.json">agent card</a> | <a href="https://cymetica.com/static/video/et10-how-it-works-60s.mp4">video</a> | <a href="https://discord.gg/JCn76KcVmk">discord</a> | <a href="https://t.me/vsbcorp">telegram</a></p>
+</div>
+
 ### Evolutionary Model Merge
 <div><a href="https://github.com/SakanaAI/evolutionary-model-merge/"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/SakanaAI/evolutionary-model-merge/"><img src="https://img.shields.io/github/stars/SakanaAI/evolutionary-model-merge?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 1,353 stars (Updated: 2025-07-30)</p>
