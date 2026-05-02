@@ -2363,6 +2363,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/ishan0102/vimGPT">github</a> | <a href="https://github.com/ishan0102/vimGPT/tree/main?tab=readme-ov-file#vimgpt">demo</a> | <a href="https://news.ycombinator.com/item?id=38200308">hackernews</a></p>
 </div>
 
+### Voidly Pay
+<div><a href="https://github.com/voidly-ai/voidly-pay"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/voidly-ai/voidly-pay"><img src="https://img.shields.io/github/stars/voidly-ai/voidly-pay?style=social" alt="GitHub stars"></a></div>
+
+<p>💸 Agent Payments</p>
+
+<p>x402 facilitator and agent payment rail with transfers, escrow, streams, subscriptions, batch payouts, and a marketplace of 17 paid endpoints. USDC settlement on Base via a Sourcify-verified vault. SDKs for TypeScript, Python, LangChain, CrewAI, AutoGen, LlamaIndex, Pydantic AI, Vercel AI, plus a 42-tool MCP server.</p>
+
+<p><a href="https://voidly.ai/pay">website</a> | <a href="https://github.com/voidly-ai/voidly-pay">github</a> | <a href="https://www.npmjs.com/package/@voidly/pay-mcp">npm</a></p>
+</div>
+
 ### Vonage
 <div><a href="https://vonage.com/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
