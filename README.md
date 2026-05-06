@@ -103,6 +103,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://www.aie.foundation/">website</a> | <a href="https://www.aie.foundation/">website</a> | <a href="https://github.com/AI-Engineer-Foundation/agent-protocol">github</a> | <a href="https://github.com/AI-Engineer-Foundation">github profile</a></p>
 </div>
 
+### Agent Stack
+<div><a href="https://github.com/MukundaKatta/agent-stack"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a></div>
+<p>⚙️ Reliability Libraries</p>
+
+<p>Agent Stack is a set of five small npm libraries (agentvet, agentguard, agentsnap, agentfit, agentcast) that fix the common reliability problems in tool-using AI agents: tool argument validation, network egress control, snapshot tests for tool-call traces, token-aware message truncation, and structured output with retry. Pure JavaScript, zero runtime dependencies, BYO LLM</p>
+
+<p><a href="https://github.com/MukundaKatta/agent-stack">github</a> | <a href="https://dev.to/mukundakatta/i-built-5-tiny-libraries-to-stop-my-ai-agents-from-misbehaving-in-production-3oni">writeup</a></p>
+</div>
+
+
 ### Agent Tools
 <div><a href="https://github.com/aibtcdev/agent-tools-ts"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/aibtcdev/agent-tools-ts"><img src="https://img.shields.io/github/stars/aibtcdev/agent-tools-ts?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 16 stars (Updated: 2025-07-30)</p>
