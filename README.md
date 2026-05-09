@@ -723,6 +723,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/Bklieger/Claude-React-Jumpstart">github</a> | <a href="https://x.com/BenjaminKlieger/status/1804264035464155220">twitter announcement</a></p>
 </div>
 
+### ClawHQ
+<div><a href="https://github.com/Malchiior/clawhq-mcp"><img src="https://img.shields.io/badge/Open%20Source-MCP%20Only-yellow" alt="Open Source MCP"></a> <a href="https://github.com/Malchiior/clawhq-mcp"><img src="https://img.shields.io/github/stars/Malchiior/clawhq-mcp?style=social" alt="GitHub stars"></a></div>
+<p>📦 AI Agent Marketplace + Multi-Channel Deployment</p>
+
+<p>ClawHQ is a hosted AI agent platform with a 700+ agent marketplace and multi-channel deployment. Users browse pre-built agents (customer support, ops, sales, finance, dev tools), deploy in 30 seconds across Telegram/WhatsApp/Discord/Slack/iMessage, and bring their own model API keys (Anthropic/OpenAI/Google) or use bundled compute. Includes a public MCP server for connecting Claude Desktop / Cursor / Windsurf to shared cross-agent memory ("Hivemind"). Free tier available; no credit card.</p>
+
+<p><a href="https://clawhq.dev">website</a> | <a href="https://github.com/Malchiior/clawhq-mcp">github (MCP)</a> | <a href="https://clawhq.dev/explore">marketplace</a> | <a href="https://clawhq.dev/docs">docs</a></p>
+</div>
+
 ### CLIN
 <div><a href="https://github.com/allenai/clin"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/allenai/clin"><img src="https://img.shields.io/github/stars/allenai/clin?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 83 stars (Updated: 2025-07-30)</p>
