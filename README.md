@@ -1103,6 +1103,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/FlowiseAI/Flowise">github</a> | <a href="https://flowiseai.com/">website</a> | <a href="https://docs.flowiseai.com/">docs</a> | <a href="https://github.com/FlowiseAI">github profile</a></p>
 </div>
 
+### Future AGI
+<div><a href="https://github.com/future-agi/future-agi"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/future-agi/future-agi"><img src="https://img.shields.io/github/stars/future-agi/future-agi?style=social" alt="GitHub stars"></a></div>
+<p>⚙️ Agent Engineering / Observability</p>
+
+<p>Future AGI is an open-source self-hostable end-to-end agent engineering and optimization platform that unifies tracing, evals, simulations, datasets, gateway, and guardrails. Simulate edge cases pre-launch, evaluate production behavior, guardrail unsafe outputs in real time, and turn every trace into signal for the next version, for shipping self-improving AI agents.</p>
+
+<p><a href="https://github.com/future-agi/future-agi">github</a> | <a href="https://futureagi.com">website</a></p>
+</div>
+
 ### FuzzTypes
 <div><a href="https://github.com/genomoncology/FuzzTypes"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/genomoncology/FuzzTypes"><img src="https://img.shields.io/github/stars/genomoncology/FuzzTypes?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 222 stars (Updated: 2025-07-30)</p>
