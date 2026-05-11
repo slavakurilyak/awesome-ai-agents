@@ -2223,6 +2223,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/TaskingAI/TaskingAI">github</a> | <a href="https://www.tasking.ai/">website</a></p>
 </div>
 
+### traceAI
+<div><a href="https://github.com/future-agi/traceAI"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/future-agi/traceAI"><img src="https://img.shields.io/github/stars/future-agi/traceAI?style=social" alt="GitHub stars"></a></div>
+<p>⚙️ Observability / Tracing</p>
+
+<p>Open-source OpenTelemetry-native tracing framework for AI agents. Auto-instruments 20+ AI frameworks and LLM providers (OpenAI, Anthropic, LangChain, LlamaIndex, CrewAI, Bedrock), capturing prompts, tokens, latency, and errors out of the box. Multi-language support across Python, TypeScript, Java, and C#.</p>
+
+<p><a href="https://github.com/future-agi/traceAI">github</a></p>
+</div>
+
 ### Tavily
 <div><a href="https://tavily.com/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
