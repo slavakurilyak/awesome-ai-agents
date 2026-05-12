@@ -893,6 +893,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/gmpetrov/databerry/">github</a></p>
 </div>
 
+### Dakera
+<div><a href="https://github.com/dakera-ai/dakera-mcp"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/dakera-ai/dakera-mcp"><img src="https://img.shields.io/github/stars/dakera-ai/dakera-mcp?style=social" alt="GitHub stars"></a></div>
+<p>🧠 Long-Term Memory</p>
+
+<p>Self-hosted MCP-native agent memory server. Gives AI agents persistent, decay-weighted episodic memory via 83 MCP tools — store, recall, and search memories across sessions with no cloud dependency. RocksDB + HNSW backend, 87.8% LoCoMo benchmark score. SDKs for Python, JavaScript, Rust, and Go.</p>
+
+<p><a href="https://github.com/dakera-ai/dakera-mcp">github</a> | <a href="https://docs.dakera.ai">docs</a></p>
+</div>
+
 ### DB-GPT
 <div><a href="https://github.com/eosphoros-ai/DB-GPT"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/eosphoros-ai/DB-GPT"><img src="https://img.shields.io/github/stars/eosphoros-ai/DB-GPT?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 17,056 stars (Updated: 2025-07-30)</p>
