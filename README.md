@@ -2083,6 +2083,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://shortx.ai/">website</a></p>
 </div>
 
+### sparkbtcbot-skill
+<div><a href="https://github.com/echennells/sparkbtcbot-skill"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/echennells/sparkbtcbot-skill"><img src="https://img.shields.io/github/stars/echennells/sparkbtcbot-skill?style=social" alt="GitHub stars"></a></div>
+<p>₿ Bitcoin</p>
+
+<p>sparkbtcbot-skill is a Claude Code skill and npm package that gives AI agents a self-custodial Bitcoin wallet on Spark (Bitcoin L2), with instant zero-fee Spark transfers, Lightning Network interop (BOLT11 invoices), L402 paywall payment, BTKN/LRC20 tokens, L1 deposits and cooperative withdrawals, and message signing. Seed is encrypted at rest with scrypt + AES-256-GCM.</p>
+
+<p><a href="https://github.com/echennells/sparkbtcbot-skill">github</a> | <a href="https://www.npmjs.com/package/sparkbtcbot-skill">npm</a></p>
+</div>
+
 ### Streaming Assistants
 <div><a href="https://github.com/phact/streaming-assistants"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/phact/streaming-assistants"><img src="https://img.shields.io/github/stars/phact/streaming-assistants?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 8 stars (Updated: 2025-07-30)</p>
