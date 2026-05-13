@@ -373,6 +373,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://www.aomni.com/">website</a> | <a href="https://twitter.com/aomniapp">twitter</a> | <a href="https://x.com/AtomSilverman/status/1781402688078622874">demo</a></p>
 </div>
 
+### APort
+<div><a href="https://github.com/aporthq/aport-agent-guardrails"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/aporthq/aport-agent-guardrails"><img src="https://img.shields.io/github/stars/aporthq/aport-agent-guardrails?style=social" alt="GitHub stars"></a></div>
+
+<p>🛡️ Safety Guardrails (Safeguarding) | 🔧 Tool Calling (Function Calling)</p>
+
+<p>APort provides pre-action authorization and guardrails for AI agents, checking tool calls against local or hosted policies before they reach the underlying framework or runtime</p>
+
+<p><a href="https://aport.io/">website</a> | <a href="https://aport.io/quickstart/">docs</a> | <a href="https://github.com/aporthq/aport-agent-guardrails">github</a></p>
+</div>
+
 ### AppAgent
 <div><a href="https://github.com/mnotgod96/AppAgent"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/mnotgod96/AppAgent"><img src="https://img.shields.io/github/stars/mnotgod96/AppAgent?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 6,049 stars (Updated: 2025-07-30)</p>
