@@ -4655,6 +4655,30 @@
       "categories": [
         "Long-Term Memory"
       ]
+    },
+    {
+      "project": "APort",
+      "project_description": "APort provides pre-action authorization and guardrails for AI agents, checking tool calls against local or hosted policies before they reach the underlying framework or runtime",
+      "project_is_open_source": true,
+      "sources": [
+        {
+          "source": "website",
+          "source_url": "https://aport.io/"
+        },
+        {
+          "source": "docs",
+          "source_url": "https://aport.io/quickstart/"
+        },
+        {
+          "source": "github",
+          "source_url": "https://github.com/aporthq/aport-agent-guardrails",
+          "stars_last_updated": ""
+        }
+      ],
+      "categories": [
+        "Safety Guardrails (Safeguarding)",
+        "Tool Calling (Function Calling)"
+      ]
     }
   ],
   "categories": [
