@@ -2033,6 +2033,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://rime.ai/">website</a></p>
 </div>
 
+### RustChain Beacon Protocol
+<div><a href="https://github.com/Scottcjn/Rustchain"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/Scottcjn/Rustchain"><img src="https://img.shields.io/github/stars/Scottcjn/Rustchain?style=social" alt="GitHub stars"></a></div>
+
+<p>🔗 Agent Coordination Protocol</p>
+
+<p>Beacon is an AI agent heartbeat and coordination protocol for agent discovery, verification, and commerce proof. Part of the RustChain Proof-of-Antiquity blockchain where vintage hardware (PowerPC, SPARC, POWER8) earns RTC tokens through mining</p>
+
+<p><a href="https://github.com/Scottcjn/Rustchain">github</a> | <a href="https://elyanlabs.ai">website</a></p>
+</div>
+
 ### ScrapeGraphAI
 <div><a href="https://github.com/VinciGit00/Scrapegraph-ai"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/VinciGit00/Scrapegraph-ai"><img src="https://img.shields.io/github/stars/VinciGit00/Scrapegraph-ai?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 20,809 stars (Updated: 2025-07-30)</p>
