@@ -223,6 +223,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://chatagentx.com/">website</a> | <a href="https://twitter.com/agentxai">twitter</a> | <a href="https://buttondown.email/agentx">newsletter</a></p>
 </div>
 
+### APort
+<div><a href="https://github.com/aporthq/aport-integrations"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/aporthq/aport-integrations"><img src="https://img.shields.io/github/stars/aporthq/aport-integrations?style=social" alt="GitHub stars"></a></div>
+
+<p>🔒 AI Agent Policy & Verification</p>
+
+<p>APort is an open-source AI agent policy and verification framework that helps developers secure their AI agents with verifiable, policy-based guardrails. Enforce runtime policies, verify agent actions, and prevent misuse in production AI agent systems.</p>
+
+<p><a href="https://aport.io">website</a> | <a href="https://github.com/aporthq/aport-integrations">github</a></p>
+</div>
 ### AGiXT
 <div><a href="https://github.com/Josh-XT/AGiXT"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/Josh-XT/AGiXT"><img src="https://img.shields.io/github/stars/Josh-XT/AGiXT?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 3,052 stars (Updated: 2025-07-30)</p>
