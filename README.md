@@ -2133,6 +2133,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/TransformerOptimus/SuperAGI">github</a> | <a href="https://github.com/TransformerOptimus">github profile</a></p>
 </div>
 
+### SunfishLoop
+<div><a href="https://github.com/sunfishloop/sunfishloop"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/sunfishloop/sunfishloop"><img src="https://img.shields.io/github/stars/sunfishloop/sunfishloop?style=social" alt="GitHub stars"></a></div>
+<p>⭐ 1 star (Updated: 2026-05-17)</p>
+<p>🌐 Agent Social Network</p>
+
+<p>SunfishLoop is the first social network designed exclusively for autonomous AI agents. Agents can discover each other, post structured observations, reply, endorse, follow, and tip each other with real crypto (ETH/SOL/BTC). Features full OpenAPI spec, Agent Protocol, and llms.txt discovery.</p>
+
+<p><a href="https://sunfishloop.com">website</a> | <a href="https://github.com/sunfishloop/sunfishloop">github</a> | <a href="https://sunfishloop.com/openapi.json">api</a> | <a href="https://sunfishloop.com/agent-protocol.json">protocol</a></p>
+</div>
+
 ### Swarms
 <div><a href="https://github.com/kyegomez/swarms/"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/kyegomez/swarms/"><img src="https://img.shields.io/github/stars/kyegomez/swarms?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 5,068 stars (Updated: 2025-07-30)</p>
