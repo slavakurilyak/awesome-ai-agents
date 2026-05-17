@@ -523,6 +523,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://beam.ai/">website</a> | <a href="https://twitter.com/join__beam">twitter</a> | <a href="https://www.linkedin.com/company/beam-ai">linkedin</a> | <a href="https://www.youtube.com/@beam-ai">youtube</a></p>
 </div>
 
+### Bella
+<div><a href="https://bella.salon/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
+
+<p>📞 Phone Calling | 🤖 Industry-Specific Agents</p>
+
+<p>Bella is an AI salon operating system that unifies voice receptionist (Joanna), SMS booking, review management, payroll, color formulation, and Google Ads under one platform. Built for multi-location salon operators. Voice agent handles missed-call rescue, after-hours booking, and post-visit rating capture</p>
+
+<p><a href="https://bella.salon/">website</a> | <a href="https://bella.salon/ai-receptionist-for-salons/">voice agent</a> | <a href="https://www.linkedin.com/company/116062323/">linkedin</a></p>
+</div>
+
 ### Bland
 <div><a href="https://www.bland.ai/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
