@@ -1033,6 +1033,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/agentic-ai/enact">github</a></p>
 </div>
 
+### Everything OpenAI Codex
+<div><a href="https://github.com/mturac/everything-openai-codex"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/mturac/everything-openai-codex"><img src="https://img.shields.io/github/stars/mturac/everything-openai-codex?style=social" alt="GitHub stars"></a></div>
+<p>⭐ 8 stars (Updated: 2026-05-19)</p>
+<p>⚙️ Development Frameworks</p>
+
+<p>Everything OpenAI Codex is an MIT-licensed workflow system for OpenAI Codex that packages a repeatable Intake, Route, Plan, Execute, Verify, Capture, and Resume loop with agents, skills, hooks, install profiles, memory and status capture, validation checks, and cross-harness adapters</p>
+
+<p><a href="https://github.com/mturac/everything-openai-codex">github</a></p>
+</div>
+
 ### Evolutionary Model Merge
 <div><a href="https://github.com/SakanaAI/evolutionary-model-merge/"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/SakanaAI/evolutionary-model-merge/"><img src="https://img.shields.io/github/stars/SakanaAI/evolutionary-model-merge?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 1,353 stars (Updated: 2025-07-30)</p>

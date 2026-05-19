@@ -1309,6 +1309,22 @@
       ]
     },
     {
+      "project": "Everything OpenAI Codex",
+      "project_description": "Everything OpenAI Codex is an MIT-licensed workflow system for OpenAI Codex that packages a repeatable Intake, Route, Plan, Execute, Verify, Capture, and Resume loop with agents, skills, hooks, install profiles, memory and status capture, validation checks, and cross-harness adapters",
+      "project_is_open_source": true,
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/mturac/everything-openai-codex",
+          "stars_last_updated": "2026-05-19T05:42:44Z",
+          "stars": 8
+        }
+      ],
+      "categories": [
+        "Development Frameworks"
+      ]
+    },
+    {
       "project": "Lumos",
       "project_description": "Lumos introduces a modular, open-source language agent framework with unified data formats that competes with or outperforms GPT-series and larger agents across various complex interactive tasks",
       "project_is_open_source": true,
