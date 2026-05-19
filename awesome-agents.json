@@ -4655,6 +4655,22 @@
       "categories": [
         "Long-Term Memory"
       ]
+    },
+    {
+      "project": "agenttrace",
+      "project_description": "agenttrace is a local-first TUI for AI coding-agent session logs, covering cost, tokens, latency, tool failures, diffs, reports, and CI gates",
+      "project_is_open_source": true,
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/luoyuctl/agenttrace",
+          "stars_last_updated": ""
+        }
+      ],
+      "categories": [
+        "Observability Frameworks",
+        "Terminal-Friendly"
+      ]
     }
   ],
   "categories": [

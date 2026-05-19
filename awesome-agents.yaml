@@ -1513,6 +1513,16 @@
   categories:
     - "Observability Frameworks"
 
+- project: "agenttrace"
+  project_description: "agenttrace is a local-first TUI for AI coding-agent session logs, covering cost, tokens, latency, tool failures, diffs, reports, and CI gates"
+  project_is_open_source: true
+  sources:
+    - source: "github"
+      source_url: "https://github.com/luoyuctl/agenttrace"
+  categories:
+    - "Observability Frameworks"
+    - "Terminal-Friendly"
+
 - project: "Context"
   project_description: "Context.ai is a tool for evaluating and analyzing products with LLMs, aiming to improve user experience and performance"
   project_is_open_source: false
@@ -2654,4 +2664,3 @@
       source_url: "https://www.linkedin.com/company/mem0/"
   categories:
     - "Long-Term Memory"
-  

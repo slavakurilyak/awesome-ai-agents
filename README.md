@@ -203,6 +203,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://x.com/AnnieLiao_2000/status/1792175318595453046">demo</a></p>
 </div>
 
+### agenttrace
+<div><a href="https://github.com/luoyuctl/agenttrace"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/luoyuctl/agenttrace"><img src="https://img.shields.io/github/stars/luoyuctl/agenttrace?style=social" alt="GitHub stars"></a></div>
+<p>👁️ Observability Frameworks | 💻 Terminal-Friendly</p>
+
+<p>agenttrace is a local-first TUI for AI coding-agent session logs, covering cost, tokens, latency, tool failures, diffs, reports, and CI gates</p>
+
+<p><a href="https://github.com/luoyuctl/agenttrace">github</a></p>
+</div>
+
 ### AgentVerse
 <div><a href="https://github.com/OpenBMB/AgentVerse"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/OpenBMB/AgentVerse"><img src="https://img.shields.io/github/stars/OpenBMB/AgentVerse?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 4,680 stars (Updated: 2025-07-30)</p>
