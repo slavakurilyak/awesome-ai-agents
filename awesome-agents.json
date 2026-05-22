@@ -4655,6 +4655,29 @@
       "categories": [
         "Long-Term Memory"
       ]
+    },
+    {
+      "project": "Komos",
+      "project_description": "Komos turns demonstrated browser workflows into reliable AI automations with scheduling, API triggers, credentials, logs, and human review for regulated operations such as background screening, insurance eligibility, and finance portals",
+      "project_is_open_source": false,
+      "sources": [
+        {
+          "source": "website",
+          "source_url": "https://www.komos.ai/"
+        },
+        {
+          "source": "docs",
+          "source_url": "https://docs.komos.ai/"
+        },
+        {
+          "source": "background screening",
+          "source_url": "https://www.komos.ai/solutions/background-screening"
+        }
+      ],
+      "categories": [
+        "AI Agents",
+        "Web Browsing Frameworks"
+      ]
     }
   ],
   "categories": [

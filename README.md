@@ -1383,6 +1383,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://www.kapa.ai/">website</a> | <a href="https://docs.kapa.ai/">docs</a></p>
 </div>
 
+### Komos
+<div><a href="https://www.komos.ai/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
+
+<p>🤖 AI Agents | 🌐 Web Browsing Frameworks</p>
+
+<p>Komos turns demonstrated browser workflows into reliable AI automations with scheduling, API triggers, credentials, logs, and human review for regulated operations such as background screening, insurance eligibility, and finance portals</p>
+
+<p><a href="https://www.komos.ai/">website</a> | <a href="https://docs.komos.ai/">docs</a> | <a href="https://www.komos.ai/solutions/background-screening">background screening</a></p>
+</div>
+
 ### LangChain
 <div><a href="https://github.com/langchain-ai/langchain"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/langchain-ai/langchain"><img src="https://img.shields.io/github/stars/langchain-ai/langchain?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 112,549 stars (Updated: 2025-07-30)</p>

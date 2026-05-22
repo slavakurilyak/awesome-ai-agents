@@ -2484,6 +2484,20 @@
   categories:
     - "Web Browsing Frameworks"
 
+- project: "Komos"
+  project_description: "Komos turns demonstrated browser workflows into reliable AI automations with scheduling, API triggers, credentials, logs, and human review for regulated operations such as background screening, insurance eligibility, and finance portals"
+  project_is_open_source: false
+  sources:
+    - source: "website"
+      source_url: "https://www.komos.ai/"
+    - source: "docs"
+      source_url: "https://docs.komos.ai/"
+    - source: "background screening"
+      source_url: "https://www.komos.ai/solutions/background-screening"
+  categories:
+    - "AI Agents"
+    - "Web Browsing Frameworks"
+
 - project: "DSPY"
   project_description: "A cutting-edge framework that compiles declarative language model calls into self-improving pipelines, enabling the systematic and efficient optimization of LM prompts and weights within complex systems"
   project_is_open_source: true
@@ -2654,4 +2668,3 @@
       source_url: "https://www.linkedin.com/company/mem0/"
   categories:
     - "Long-Term Memory"
-  
