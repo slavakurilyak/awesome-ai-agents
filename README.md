@@ -2243,6 +2243,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://teamx.work/">website</a></p>
 </div>
 
+### The Polyglot Protocol
+<div><a href="https://github.com/sabir-gbs/the-polyglot-protocol"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/sabir-gbs/the-polyglot-protocol"><img src="https://img.shields.io/github/stars/sabir-gbs/the-polyglot-protocol?style=social" alt="GitHub stars"></a></div>
+
+<p>📏 Standardization</p>
+
+<p>The Polyglot Protocol is a senior-engineer protocol for AI coding agents, covering repository discovery, language selection, 22-language guidance, testing, security, performance, validation workflows, and post-codegen audit scoring for Codex, Claude Code, OpenCode, and similar agents.</p>
+
+<p><a href="https://github.com/sabir-gbs/the-polyglot-protocol">github</a></p>
+</div>
+
 ### TogetherAI
 <div><a href="https://www.together.ai/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
