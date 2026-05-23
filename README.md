@@ -1623,6 +1623,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/allenai/lumos">github</a> | <a href="https://allenai.github.io/lumos/">website</a></p>
 </div>
 
+
+### Luminy
+<div><a href="https://github.com/feralbureau/luminy"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/feralbureau/luminy"><img src="https://img.shields.io/github/stars/feralbureau/luminy?style=social" alt="GitHub stars"></a></div>
+<p>🖥️ Desktop Apps</p>
+
+<p>Luminy is a local-first agentic AI coding assistant built with Tauri (Rust + TypeScript). Supports MCP servers for tool calling, and works with Ollama, OpenAI, Anthropic, Gemini, GitHub Copilot, and more</p>
+
+<p><a href="https://github.com/feralbureau/luminy">github</a> | <a href="https://luminy.tech">website</a></p>
+</div>
+
 ### Lyzr
 <div><a href="https://www.lyzr.ai/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
