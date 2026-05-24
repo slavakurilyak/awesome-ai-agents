@@ -2655,3 +2655,11 @@
   categories:
     - "Long-Term Memory"
   
+- project: "Sistava"
+  project_description: "Sistava is an AI agent orchestration platform for deploying and operating multiple AI agents that run your entire business across sales, marketing, finance, and customer support, reachable through Slack, WhatsApp, email, voice, Telegram, API, MCP, A2A, and webhooks, with full computer use on your own OS"
+  project_is_open_source: false
+  sources:
+    - source: "website"
+      source_url: "https://sistava.com"
+  categories:
+    - "AI Agents"
