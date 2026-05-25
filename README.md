@@ -2033,6 +2033,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://rime.ai/">website</a></p>
 </div>
 
+### Routeweiler
+<div><a href="https://github.com/nikoSchoinas/routeweiler-python-sdk"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a>
+
+<p>🤖 Agentic micropayments </p>
+
+<p>Routeweiler is a micropayment client for autonomous agents that auto-handles HTTP 402 across x402, L402, MPP-Tempo, and Stripe SPT. It enforces policy & budget, and produces traces for auditing. </p>
+
+<p><a href="https://github.com/nikoSchoinas/routeweiler-python-sdk">github</a> | <a href="https://docs.routeweiler.com">docs</a> | <a href="https://routeweiler.com">website</a></p>
+</div>
+
 ### ScrapeGraphAI
 <div><a href="https://github.com/VinciGit00/Scrapegraph-ai"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/VinciGit00/Scrapegraph-ai"><img src="https://img.shields.io/github/stars/VinciGit00/Scrapegraph-ai?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 20,809 stars (Updated: 2025-07-30)</p>
