@@ -73,6 +73,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/HumanSignal/Adala">github</a></p>
 </div>
 
+### Authsome
+<div><a href="https://github.com/agentrhq/authsome"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/agentrhq/authsome"><img src="https://img.shields.io/github/stars/agentrhq/authsome?style=social" alt="GitHub stars"></a></div>
+<p>🔐 Agent Identity / Credentials</p>
+
+<p>Authsome is a local-first credential broker and vault for AI agents. Log in once via OAuth2 or API key, the encrypted vault stores credentials on the user's machine, and a local HTTPS proxy injects them at request time so agents never see raw secret values. 45 providers ship bundled (14 OAuth2, 31 API key) including GitHub, Google, OpenAI, Linear, Slack, Notion, Resend, and Stripe. MIT, Python 3.13+.</p>
+
+<p><a href="https://github.com/agentrhq/authsome">github</a> | <a href="https://authsome.ai">website</a> | <a href="https://authsome.ai/docs">docs</a> | <a href="https://pypi.org/project/authsome/">pypi</a></p>
+</div>
+
 ### Agency Swarm by VRSEN
 <div><a href="https://github.com/VRSEN/agency-swarm"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/VRSEN/agency-swarm"><img src="https://img.shields.io/github/stars/VRSEN/agency-swarm?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 3,729 stars (Updated: 2025-07-30)</p>
