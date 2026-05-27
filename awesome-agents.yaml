@@ -2655,3 +2655,14 @@
   categories:
     - "Long-Term Memory"
   
+- project: "Maestro"
+  project_description: "Maestro is an open-source desktop command center for running multiple AI coding agents (Claude Code, Codex, Gemini CLI, etc.) in parallel, with Cue event automation, Auto Run playbooks, Group Chat across local and remote agents, and a maestro-cli that agents can drive themselves"
+  project_is_open_source: true
+  sources:
+    - source: "website"
+      source_url: "https://runmaestro.ai"
+    - source: "github"
+      source_url: "https://github.com/RunMaestro/Maestro"
+  categories:
+    - "AI Agents"
+    - "Flow Engineering (Platform Engineering)"
