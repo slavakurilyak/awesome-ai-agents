@@ -1723,6 +1723,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/francedot/NavAIGuide-TS">github</a></p>
 </div>
 
+### NERV
+<div><a href="https://github.com/juanmanueldaza/nerv"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/juanmanueldaza/nerv"><img src="https://img.shields.io/github/stars/juanmanueldaza/nerv?style=social" alt="GitHub stars"></a></div>
+<p>⭐ 0 stars (Updated: 2026-05-27)</p>
+<p>⚙️ Development Frameworks</p>
+
+<p>NERV is a minimalist agent harness powered by Spec-Driven Development (SDD). Multi-agent orchestration with A2A protocol, persistent ChromaDB memory, and CLI scaffolding. Built for steerability over complexity — 40 files, 14 skills, 5 MCP servers, GPL-2.0.</p>
+
+<p><a href="https://github.com/juanmanueldaza/nerv">github</a> | <a href="https://github.com/juanmanueldaza/nerv#readme">docs</a></p>
+</div>
+
 ### Neets
 <div><a href="https://neets.ai/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
