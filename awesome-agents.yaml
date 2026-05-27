@@ -154,6 +154,20 @@
   categories:
     - "AI Agents"
 
+- project: "WinkTerm"
+  project_description: "Self-hosted AI terminal where the agent shares the user's PTY session — in-terminal chat via #, AI writes commands to the input line for human review, with SSH, file transfer, and an HTTP Agent API plus installable skill for external coding agents"
+  project_is_open_source: true
+  sources:
+    - source: "github"
+      source_url: "https://github.com/Cznorth/winkterm"
+    - source: "demo"
+      source_url: "https://github.com/Cznorth/winkterm#-demo"
+    - source: "docs"
+      source_url: "https://github.com/Cznorth/winkterm/blob/main/docs/case-study-xmr-miner-cleanup.en.md"
+  categories:
+    - "AI Agents"
+    - "Terminal-Friendly"
+
 - project: "Data Questionnaire Agent"
   project_description: "A chatbot designed to query users on data integration practices, offering advice based on responses, utilizing a modified Chainlit library for operation"
   project_is_open_source: true
