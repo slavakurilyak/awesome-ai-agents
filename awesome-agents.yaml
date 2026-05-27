@@ -2569,6 +2569,17 @@
   categories:
     - "Personal Assistants"
 
+- project: "Hermes Agent Chinese Pack"
+  project_description: "Hermes Agent Chinese Pack adds Chinese UI text, Feishu and Telegram gateway prompts, pairing approval copy, home-channel reminders, and one-command installation for Hermes Agent"
+  project_is_open_source: true
+  sources:
+    - source: "github"
+      source_url: "https://github.com/fresh-claw/hermes-zh-cn"
+    - source: "website"
+      source_url: "https://useai.live/hermes/"
+  categories:
+    - "Personal Assistants"
+
 - project: "Produvia"
   project_description: "Since 2013, Produvia Inc. has served $7M+ in revenue brands by developing custom agentic AI solutions powered by state-of-the-art function calling LLMs including but not limited to: Claude 3 Opus, GPT-4, Bard (Gemini Pro), Claude 3 Sonnet, Claude 3 Haiku, Mistral Medium, Command R, Mistral-Next, Starling-LM-7B-beta"
   project_is_open_source: false

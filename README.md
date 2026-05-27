@@ -1273,6 +1273,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://www.helicone.ai/">website</a> | <a href="https://github.com/Helicone/helicone">github</a></p>
 </div>
 
+### Hermes Agent Chinese Pack
+<div><a href="https://github.com/fresh-claw/hermes-zh-cn"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/fresh-claw/hermes-zh-cn"><img src="https://img.shields.io/github/stars/fresh-claw/hermes-zh-cn?style=social" alt="GitHub stars"></a></div>
+<p>⭐ 5 stars (Updated: 2026-05-27)</p>
+<p>👤 Personal Assistants</p>
+
+<p>Hermes Agent Chinese Pack adds Chinese UI text, Feishu and Telegram gateway prompts, pairing approval copy, home-channel reminders, and one-command installation for Hermes Agent</p>
+
+<p><a href="https://github.com/fresh-claw/hermes-zh-cn">github</a> | <a href="https://useai.live/hermes/">website</a></p>
+</div>
+
 ### Humane
 <div><a href="https://humane.com/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
