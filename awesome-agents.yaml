@@ -24,6 +24,17 @@
   categories:
     - "AI Agents"
 
+- project: "Agent Teams"
+  project_description: "Free open-source desktop app for autonomous AI agent teams across Claude, Codex, and OpenCode. Give high-level commands while agents handle Kanban tasks, messaging, code review, logs, and approvals with 200+ models and 75+ LLM providers"
+  project_is_open_source: true
+  sources:
+    - source: "github"
+      source_url: "https://github.com/777genius/agent-teams-ai"
+    - source: "website"
+      source_url: "https://777genius.github.io/agent-teams-ai/"
+  categories:
+    - "AI Agents"
+
 - project: "Devid by Agency Swarm"
   project_description: "Devid Agent, a new AI software development tool, has been integrated into the Agency Swarm framework to enhance automated AI agency operations, alternative to Cognition AI's Devin"
   project_is_open_source: true
@@ -2654,4 +2665,3 @@
       source_url: "https://www.linkedin.com/company/mem0/"
   categories:
     - "Long-Term Memory"
-  

@@ -103,6 +103,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://www.aie.foundation/">website</a> | <a href="https://www.aie.foundation/">website</a> | <a href="https://github.com/AI-Engineer-Foundation/agent-protocol">github</a> | <a href="https://github.com/AI-Engineer-Foundation">github profile</a></p>
 </div>
 
+### Agent Teams
+<div><a href="https://github.com/777genius/agent-teams-ai"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/777genius/agent-teams-ai"><img src="https://img.shields.io/github/stars/777genius/agent-teams-ai?style=social" alt="GitHub stars"></a></div>
+
+<p>🤖 AI Agents</p>
+
+<p>Free open-source desktop app for autonomous AI agent teams across Claude, Codex, and OpenCode. Give high-level commands while agents handle Kanban tasks, messaging, code review, logs, and approvals with 200+ models and 75+ LLM providers</p>
+
+<p><a href="https://github.com/777genius/agent-teams-ai">github</a> | <a href="https://777genius.github.io/agent-teams-ai/">website</a></p>
+</div>
+
 ### Agent Tools
 <div><a href="https://github.com/aibtcdev/agent-tools-ts"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/aibtcdev/agent-tools-ts"><img src="https://img.shields.io/github/stars/aibtcdev/agent-tools-ts?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 16 stars (Updated: 2025-07-30)</p>
