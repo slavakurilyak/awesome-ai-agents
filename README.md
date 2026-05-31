@@ -283,6 +283,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://vercel.com/blog/introducing-the-vercel-ai-sdk">announcement</a> | <a href="https://sdk.vercel.ai/docs">website</a> | <a href="https://github.com/vercel/ai">github</a> | <a href="https://github.com/vercel/ai/tree/main/examples">github examples</a></p>
 </div>
 
+
+### AI-Factory
+
+⭐ 1 stars (Updated: 2026-05-31)
+🏭 Multi-Agent Orchestration
+
+Self-hosted software factory: one prompt → research, design, code, QA, deploy, and storefront listing. Twelve specialized agents, five quality gates, AI Director oversight, public build replays, and optional AIMarket economy integration.
+
+[github](https://github.com/alexar76/aicom) | [website](https://magic-ai-factory.com) | [docs](https://github.com/alexar76/aicom/tree/main/docs) | [ecosystem](https://alexar76.github.io/aicom/)
+
 ### AI Studio by Azure
 <div><a href="https://azure.microsoft.com/en-us/products/ai-studio"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
