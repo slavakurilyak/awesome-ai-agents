@@ -285,6 +285,17 @@
   categories:
     - "AI Agents"
 
+- project: "XMACNA Funcionarios Digitais"
+  project_description: "XMACNA Funcionarios Digitais with IA execute business workflows such as lead qualification, WhatsApp follow-up, CRM updates, human handoff, and supervised sales operations"
+  project_is_open_source: false
+  sources:
+    - source: "website"
+      source_url: "https://xmacna.github.io/funcionarios-digitais-com-ia/"
+    - source: "github"
+      source_url: "https://github.com/xmacna/funcionario-digital-agentget"
+  categories:
+    - "AI Agents"
+
 - project: "ShortGPT by RayVentura"
   project_description: "ShortGPT is an AI-powered framework for automating content creation, including video editing, voiceover synthesis, caption generation, and asset sourcing, with support for multiple languages and seamless integration with Google Colab and Docker for easy deployment"
   project_is_open_source: true
@@ -2654,4 +2665,3 @@
       source_url: "https://www.linkedin.com/company/mem0/"
   categories:
     - "Long-Term Memory"
-  
