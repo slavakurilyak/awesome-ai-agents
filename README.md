@@ -123,6 +123,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/THUDM/AgentBench">github</a></p>
 </div>
 
+### AgentBox
+<div><a href="https://github.com/madarco/agentbox"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/madarco/agentbox"><img src="https://img.shields.io/github/stars/madarco/agentbox?style=social" alt="GitHub stars"></a></div>
+<p>⭐ 41 stars (Updated: 2026-06-06)</p>
+<p>🤖 AI Agents</p>
+
+<p>AgentBox runs multiple coding agents in parallel, each teleported into its own sandboxed box — local Docker or cloud VMs (Hetzner, Daytona, Vercel, E2B) — with sub-1s checkpoint starts and a per-box browser and VS Code, working with Claude Code, Codex, and OpenCode</p>
+
+<p><a href="https://github.com/madarco/agentbox">github</a></p>
+</div>
+
 ### AgentGPT by Reworkd
 <div><a href="https://github.com/reworkd/AgentGPT"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/reworkd/AgentGPT"><img src="https://img.shields.io/github/stars/reworkd/AgentGPT?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 34,613 stars (Updated: 2025-07-30)</p>
