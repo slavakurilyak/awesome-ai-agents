@@ -1555,6 +1555,16 @@
   categories:
     - "Mobile-Friendly Frameworks"
 
+- project: "AgentLine"
+  project_description: "AgentLine provides telephony infrastructure for AI agents — provision phone numbers, make and receive calls, and manage voice pipelines via API"
+  project_is_open_source: false
+  sources:
+    - source: "website"
+      source_url: "https://agentline.cloud/"
+  categories:
+    - "Phone Calling"
+    - "Phone Number Providers"
+
 - project: "Bland"
   project_description: "Bland AI offers a platform for building and scaling AI-powered phone agents, featuring easy integration, live data context, custom voices, and dedicated infrastructure. Tech stack includes LLM: Claude Instant (Anthropic), Transcription: Whisper (OpenAI), TTS: ElevenLabs"
   project_is_open_source: false
