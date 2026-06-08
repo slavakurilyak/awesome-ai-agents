@@ -263,6 +263,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://deco.cx/ai-assistant">website</a> | <a href="https://github.com/deco-cx">github profile</a></p>
 </div>
 
+### AI for Database
+<div><a href="https://aifordatabase.com"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
+
+<p>🤖 AI Agents | 📊 Data & Analytics</p>
+
+<p>Agentic AI product for databases — connect any database (PostgreSQL, MySQL, MongoDB) and interact with it in plain English. No SQL needed. Build self-refreshing dashboards and trigger automated workflows based on database changes.</p>
+
+<p><a href="https://aifordatabase.com">website</a></p>
+</div>
+
 ### AI Researcher
 <div><a href="https://github.com/mshumer/ai-researcher"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/mshumer/ai-researcher"><img src="https://img.shields.io/github/stars/mshumer/ai-researcher?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 932 stars (Updated: 2025-07-30)</p>
