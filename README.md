@@ -1243,6 +1243,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/guidance-ai/guidance">github</a> | <a href="https://guidance.readthedocs.org/">docs</a></p>
 </div>
 
+### HagiCode
+<div><a href="https://hagicode.com/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
+
+<p>🤖 AI Agents</p>
+
+<p>HagiCode is a local-first AI coding workspace with proposal-driven development, parallel multi-agent execution, multi-repository coordination, and integrated commit and knowledge workflows</p>
+
+<p><a href="https://hagicode.com/">website</a> | <a href="https://github.com/HagiCode-org">github</a> | <a href="https://docs.hagicode.com/product-overview/">docs</a></p>
+</div>
+
 ### Harpa
 <div><a href="https://harpa.ai/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
