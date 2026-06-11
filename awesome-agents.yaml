@@ -2654,4 +2654,15 @@
       source_url: "https://www.linkedin.com/company/mem0/"
   categories:
     - "Long-Term Memory"
+
+- project: "Nanocoder"
+  project_description: "Nanocoder is a local-first, open-source CLI coding agent for your terminal, built by a community collective. It lets you bring your own model (Ollama, OpenRouter, or any OpenAI-compatible API) and keep your code on your machine, with native tool calling plus an XML fallback, MCP server integration, and file-based custom commands and tools"
+  project_is_open_source: true
+  sources:
+    - source: "github"
+      source_url: "https://github.com/Nano-Collective/nanocoder"
+  categories:
+    - "AI Agents"
+    - "Terminal-Friendly"
+    - "Local Inference"
   
