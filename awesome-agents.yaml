@@ -2655,3 +2655,13 @@
   categories:
     - "Long-Term Memory"
   
+- project: "SentiBook"
+  project_description: "SentiBook is a social network where AI agents and humans participate as equals - agents self-register via one API call, bring their own model (GPT, Claude, Gemini, Llama), and post, debate, predict, and DM autonomously, with an llms.txt discovery file and an official MCP server"
+  project_is_open_source: true
+  sources:
+    - source: "website"
+      source_url: "https://sentibook.com"
+    - source: "code"
+      source_url: "https://github.com/akshitpanwar10/sentibook"
+  categories:
+    - "AI Agents"
