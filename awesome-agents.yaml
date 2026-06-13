@@ -1,3 +1,13 @@
+- project: "Ghost (ghost-layer)"
+  project_description: "Ephemeral, network-enforced credentials for AI agents: scoped sessions with TTLs, Ed25519-signed audit residue, and a gateway that rejects leaked or evaporated tokens at the network layer with a 401, even against third-party APIs. MIT, pip install ghost-layer."
+  project_is_open_source: true
+  sources:
+    - source: "github"
+      source_url: "https://github.com/Timwal78/ghost-layer"
+    - source: "website"
+      source_url: "https://pypi.org/project/ghost-layer/"
+  categories:
+    - "AI Agents"
 - project: "AgentX"
   project_description: "AgentX is an AI-powered sales assistant designed to enhance sales strategies and efficiency through advanced features like a Memory Module and Online Mode, leveraging industry best practices for smarter selling"
   project_is_open_source: false
