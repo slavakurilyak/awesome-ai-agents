@@ -4655,6 +4655,21 @@
       "categories": [
         "Long-Term Memory"
       ]
+    },
+    {
+      "project": "Boardroom",
+      "project_description": "Boardroom is an open-source iOS command center for Hermes Agent that turns a local AI setup into a human-supervised autonomous company, with agent roles, boardroom debates, greenlight approvals, scheduled meetings, memos, and Demo Day ship/no-ship decisions.",
+      "project_is_open_source": true,
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/jamiejhouston-commits/boardroom"
+        }
+      ],
+      "categories": [
+        "AI Agents",
+        "Mobile-Friendly Frameworks"
+      ]
     }
   ],
   "categories": [

@@ -543,6 +543,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/BloopAI/bloop">github</a></p>
 </div>
 
+### Boardroom
+<div><a href="https://github.com/jamiejhouston-commits/boardroom"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/jamiejhouston-commits/boardroom"><img src="https://img.shields.io/github/stars/jamiejhouston-commits/boardroom?style=social" alt="GitHub stars"></a></div>
+
+<p>🤖 AI Agents | 📱 Mobile-Friendly Frameworks</p>
+
+<p>Boardroom is an open-source iOS command center for Hermes Agent that turns a local AI setup into a human-supervised autonomous company, with agent roles, boardroom debates, greenlight approvals, scheduled meetings, memos, and Demo Day ship/no-ship decisions.</p>
+
+<p><a href="https://github.com/jamiejhouston-commits/boardroom">github</a></p>
+</div>
+
 ### BrainSoup
 <div><a href="https://www.nurgo-software.com/products/brainsoup"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
