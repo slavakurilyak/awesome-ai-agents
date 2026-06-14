@@ -2655,3 +2655,16 @@
   categories:
     - "Long-Term Memory"
   
+- project: "Future AGI"
+  project_description: "Open-source platform to simulate, evaluate, trace, guardrail, route, and optimize LLM and AI agent apps in one feedback loop, so agents don't just get monitored, they self-improve. Self-hostable. Apache-2.0."
+  project_is_open_source: true
+  sources:
+    - source: "github"
+      source_url: "https://github.com/future-agi/future-agi"
+    - source: "website"
+      source_url: "https://futureagi.com/"
+    - source: "docs"
+      source_url: "https://docs.futureagi.com/"
+  categories:
+    - "Evaluation Frameworks"
+    - "Observability Frameworks"
