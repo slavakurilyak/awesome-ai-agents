@@ -1713,6 +1713,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://www.multion.ai/">website</a></p>
 </div>
 
+### NarraNexus
+<div><a href="https://github.com/NetMindAI-Open/NarraNexus"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/NetMindAI-Open/NarraNexus"><img src="https://img.shields.io/github/stars/NetMindAI-Open/NarraNexus?style=social" alt="GitHub stars"></a></div>
+<p>⭐ 36 stars (Updated: 2026-06-15)</p>
+<p>🤖 AI Agents</p>
+
+<p>NarraNexus is a ready-to-run AI agent team workspace by NetMind.AI — agents that remember, collaborate, and use tools from day one. Features persistent memory across sessions, multi-agent collaboration (PM, developer, deployment, research), and MCP-style tool integrations</p>
+
+<p><a href="https://github.com/NetMindAI-Open/NarraNexus">github</a> | <a href="https://www.narra.nexus/">website</a> | <a href="https://agent.narra.nexus/">cloud</a> | <a href="https://discord.gg/ReCMd6a2wf">discord</a></p>
+</div>
+
 ### NavAIGuide
 <div><a href="https://github.com/francedot/NavAIGuide-TS"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/francedot/NavAIGuide-TS"><img src="https://img.shields.io/github/stars/francedot/NavAIGuide-TS?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 114 stars (Updated: 2025-07-30)</p>
