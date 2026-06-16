@@ -1123,6 +1123,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/aibtcdev/gated-402-api">github</a> | <a href="https://github.com/aibtcdev">github profile</a> | <a href="https://aibtc.dev/">website</a> | <a href="https://discord.gg/5DJaBrf">discord</a></p>
 </div>
 
+### GCF (Graph Compact Format)
+<div><a href="https://github.com/blackwell-systems/gcf"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/blackwell-systems/gcf"><img src="https://img.shields.io/github/stars/blackwell-systems/gcf?style=social" alt="GitHub stars"></a></div>
+
+<p>🤖 AI Agents</p>
+
+<p>Token-optimized wire format for AI agent tool responses. 71% fewer tokens than JSON, 100% comprehension on every frontier model. Handles JSON, YAML, TOML, CSV, and MessagePack. Session deduplication makes call five 92% smaller than call one. Six language implementations (Go, Rust, TypeScript, Python, Swift, Kotlin). Drop-in proxy available for zero-code adoption. 33 billion+ lossless round-trips verified.</p>
+
+<p><a href="https://gcformat.com">website</a> | <a href="https://github.com/blackwell-systems/gcf">github</a> | <a href="https://github.com/blackwell-systems">github profile</a> | <a href="https://gcformat.com/guide/benchmarks.html">benchmarks</a></p>
+</div>
+
 ### GitWit
 <div><a href="https://gitwit.dev/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
