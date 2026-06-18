@@ -4655,6 +4655,37 @@
       "categories": [
         "Long-Term Memory"
       ]
+    },
+    {
+      "project": "Suede Agent Studio",
+      "project_description": "Suede Agent Studio is a creator-agent platform for rights-aware music, video, and programmable-IP workflows, exposing live agent-card, OpenAPI, and x402 metadata for generation, rights lookup, provenance, and agent-native commerce.",
+      "project_is_open_source": false,
+      "sources": [
+        {
+          "source": "website",
+          "source_url": "https://suedeai.ai/"
+        },
+        {
+          "source": "app",
+          "source_url": "https://app.suedeai.ai/"
+        },
+        {
+          "source": "agent card",
+          "source_url": "https://app.suedeai.ai/.well-known/agent-card.json"
+        },
+        {
+          "source": "x402 metadata",
+          "source_url": "https://app.suedeai.ai/.well-known/x402.json"
+        },
+        {
+          "source": "github profile",
+          "source_url": "https://github.com/Suede-AI"
+        }
+      ],
+      "categories": [
+        "AI Agents",
+        "Standardization"
+      ]
     }
   ],
   "categories": [

@@ -2113,6 +2113,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/steamship-core/python-client">github</a> | <a href="https://www.steamship.com/">website</a> | <a href="https://www.twitter.com/GetSteamship">twitter</a> | <a href="https://steamship.com/discord">discord</a> | <a href="https://www.github.com/steamship-core">github profile</a></p>
 </div>
 
+### Suede Agent Studio
+<div><a href="https://suedeai.ai/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
+
+<p>🤖 AI Agents | 📏 Standardization</p>
+
+<p>Suede Agent Studio is a creator-agent platform for rights-aware music, video, and programmable-IP workflows, exposing live agent-card, OpenAPI, and x402 metadata for generation, rights lookup, provenance, and agent-native commerce.</p>
+
+<p><a href="https://suedeai.ai/">website</a> | <a href="https://app.suedeai.ai/">app</a> | <a href="https://app.suedeai.ai/.well-known/agent-card.json">agent card</a> | <a href="https://app.suedeai.ai/.well-known/x402.json">x402 metadata</a> | <a href="https://github.com/Suede-AI">github profile</a></p>
+</div>
+
 ### Superagent
 <div><a href="https://github.com/superagent-ai/superagent"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/superagent-ai/superagent"><img src="https://img.shields.io/github/stars/superagent-ai/superagent?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 6,062 stars (Updated: 2025-07-30)</p>
