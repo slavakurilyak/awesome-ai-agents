@@ -73,6 +73,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/HumanSignal/Adala">github</a></p>
 </div>
 
+### Aeon
+<div><a href="https://github.com/aaronjmars/aeon"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/aaronjmars/aeon"><img src="https://img.shields.io/github/stars/aaronjmars/aeon?style=social" alt="GitHub stars"></a></div>
+<p>⭐ 526 stars (Updated: 2026-06-18)</p>
+<p>⚙️ Development Frameworks</p>
+
+<p>Aeon is an autonomous agent framework that runs unattended on GitHub Actions with no approval loops, orchestrating Claude across 90+ Markdown skills on cron or reactive triggers, with a self-healing loop that scores its own output and auto-patches failing skills, persistent version-controlled memory, and MCP + A2A integrations</p>
+
+<p><a href="https://github.com/aaronjmars/aeon">github</a></p>
+</div>
+
 ### Agency Swarm by VRSEN
 <div><a href="https://github.com/VRSEN/agency-swarm"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/VRSEN/agency-swarm"><img src="https://img.shields.io/github/stars/VRSEN/agency-swarm?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 3,729 stars (Updated: 2025-07-30)</p>
@@ -1701,6 +1711,16 @@ Here's an awesome list of AI agents:
 <p>Miranda is a platform that simplifies dashboard creation, aiming to be the 'Canva for dashboards'</p>
 
 <p><a href="https://x.com/AnnieLiao_2000/status/1792175658178855112">demo</a></p>
+</div>
+
+### MiroShark
+<div><a href="https://github.com/aaronjmars/MiroShark"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/aaronjmars/MiroShark"><img src="https://img.shields.io/github/stars/aaronjmars/MiroShark?style=social" alt="GitHub stars"></a></div>
+<p>⭐ 1,310 stars (Updated: 2026-06-18)</p>
+<p>🤖 AI Agents</p>
+
+<p>MiroShark is a universal swarm-intelligence engine: drop in a scenario and hundreds of grounded LLM personas simulate Twitter, Reddit, and a prediction market hour-by-hour, grounded in a Neo4j knowledge graph with per-agent belief-state tracking, counterfactual branching, and per-agent MCP tools</p>
+
+<p><a href="https://github.com/aaronjmars/MiroShark">github</a></p>
 </div>
 
 ### MultiOn
