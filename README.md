@@ -1743,6 +1743,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/NVIDIA/NeMo-Guardrails">github</a> | <a href="https://arxiv.org/abs/2310.10501">research paper</a></p>
 </div>
 
+### NotFair
+<div><a href="https://github.com/nowork-studio/NotFair"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/nowork-studio/NotFair"><img src="https://img.shields.io/github/stars/nowork-studio/NotFair?style=social" alt="GitHub stars"></a></div>
+<p>⭐ 2,924 stars (Updated: 2026-06-19)</p>
+<p>🤖 AI Agents</p>
+
+<p>NotFair is an open-source collection of Claude Code agent skills for SEO, GEO, Google Ads, and Meta Ads, connecting to live data through Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP</p>
+
+<p><a href="https://github.com/nowork-studio/NotFair">github</a></p>
+</div>
+
 ### NexusGPT
 <div><a href="https://gpt.nexus/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
