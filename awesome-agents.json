@@ -4655,6 +4655,21 @@
       "categories": [
         "Long-Term Memory"
       ]
+    },
+    {
+      "project": "ax",
+      "project_description": "Local telemetry and recall graph for AI coding agents, tracking sessions, cost, skills, routing, hooks, and workflow feedback",
+      "project_is_open_source": true,
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/Necmttn/ax"
+        }
+      ],
+      "categories": [
+        "Observability Frameworks",
+        "Terminal-Friendly"
+      ]
     }
   ],
   "categories": [

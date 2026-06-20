@@ -453,6 +453,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/Significant-Gravitas/AutoGPT">github</a> | <a href="https://github.com/Significant-Gravitas">github profile</a></p>
 </div>
 
+### ax
+<div><a href="https://github.com/Necmttn/ax"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/Necmttn/ax"><img src="https://img.shields.io/github/stars/Necmttn/ax?style=social" alt="GitHub stars"></a></div>
+
+<p>💻 Terminal-Friendly | 👁️ Observability Frameworks</p>
+
+<p>Local telemetry and recall graph for AI coding agents, tracking sessions, cost, skills, routing, hooks, and workflow feedback</p>
+
+<p><a href="https://github.com/Necmttn/ax">github</a></p>
+</div>
+
 ### Axflow
 <div><a href="https://github.com/axflow/axflow"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/axflow/axflow"><img src="https://img.shields.io/github/stars/axflow/axflow?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 1,122 stars (Updated: 2025-07-30)</p>
