@@ -2422,6 +2422,7 @@ To express your support, you can take the following actions:
 2. **Submit Suggestions**: If you have any ideas or feedback, please open a new issue [here](https://github.com/slavakurilyak/awesome-ai-agents/issues/new).
 3. **Contribute Directly**: You can contribute by forking this repository and then submitting your contributions through a new pull request [here](https://github.com/slavakurilyak/awesome-ai-agents/fork).
 
+- [Pixal3D](https://pixal3d.ai) - AI-powered 3D model generator. Create stunning 3D models from text and images using AI.
 ## 🚀 Star History
 
 <a href="https://star-history.com/#slavakurilyak/awesome-ai-agents&Date">
