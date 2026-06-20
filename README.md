@@ -1003,6 +1003,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/e2b-dev/E2B">github</a> | <a href="https://github.com/e2b-dev">github profile</a></p>
 </div>
 
+### EGC
+<div><a href="https://github.com/Fmarzochi/EGC"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a></div>
+<p>⚙️ Development Frameworks</p>
+
+<p>Cross-session persistent memory layer for AI coding agents (Claude Code, Cursor, Gemini CLI, Codex, Windsurf, Amp, Kiro, and more). SQLite-backed state survives context resets and keeps all tools in sync.</p>
+
+<p><a href="https://github.com/Fmarzochi/EGC">github</a></p>
+</div>
+
 ### ElevenLabs
 <div><a href="https://elevenlabs.io/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
