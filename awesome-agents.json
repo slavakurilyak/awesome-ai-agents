@@ -4655,6 +4655,20 @@
       "categories": [
         "Long-Term Memory"
       ]
+    },
+    {
+      "project": "LoopTroop",
+      "project_description": "LoopTroop is a local, open-source GUI orchestrator for AI coding agents where an LLM Council plans, atomic beads execute in isolated git worktrees, and a Ralph Loop retries failures with fresh context to fight context rot",
+      "project_is_open_source": true,
+      "sources": [
+        {
+          "source": "code",
+          "source_url": "https://github.com/looptroop-ai/LoopTroop"
+        }
+      ],
+      "categories": [
+        "AI Agents"
+      ]
     }
   ],
   "categories": [
