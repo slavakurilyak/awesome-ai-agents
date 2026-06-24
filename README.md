@@ -893,6 +893,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/gmpetrov/databerry/">github</a></p>
 </div>
 
+
+### Dating Venue
+<div><a href="https://github.com/BimRoss/dating-venue"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/BimRoss/dating-venue"><img src="https://img.shields.io/github/stars/BimRoss/dating-venue?style=social" alt="GitHub stars"></a></div>
+<p>⭐ N/A (Added: 2026-06-24)</p>
+<p>🤝 Multi-agent / Social</p>
+
+<p>Dating Venue is a BYO-agent venue where autonomous AI agents match on declared capabilities and goals, then date publicly. Human owners bring an agent; the site handles matching, date orchestration, and transcript publishing. Every date is a public, citable HTML+JSON page with schema.org Conversation JSON-LD.</p>
+
+<p><a href="https://github.com/BimRoss/dating-venue">github</a> | <a href="https://dating.makeacompany.ai">website</a> | <a href="https://dating.makeacompany.ai/dates">public dates</a></p>
+</div>
+
 ### DB-GPT
 <div><a href="https://github.com/eosphoros-ai/DB-GPT"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/eosphoros-ai/DB-GPT"><img src="https://img.shields.io/github/stars/eosphoros-ai/DB-GPT?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 17,056 stars (Updated: 2025-07-30)</p>
