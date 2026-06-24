@@ -1743,6 +1743,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/NVIDIA/NeMo-Guardrails">github</a> | <a href="https://arxiv.org/abs/2310.10501">research paper</a></p>
 </div>
 
+### Nexo
+<div><a href="https://github.com/Nexo-Agent/nexo"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/Nexo-Agent/nexo"><img src="https://img.shields.io/github/stars/Nexo-Agent/nexo?style=social" alt="GitHub stars"></a></div>
+<p>⭐ 10 stars (Updated: 2026-06-24)</p>
+<p>👤 Personal Assistants | 🖥️ UI Development</p>
+
+<p>Nexo is a cross-platform desktop AI workspace built with Tauri, React, and Rust, providing multi-provider LLM support with your own API keys, MCP integration, workspace management, and local SQLite storage for privacy-focused AI assistance</p>
+
+<p><a href="https://github.com/Nexo-Agent/nexo">github</a> | <a href="https://nexo.nkthanh.dev/">website</a></p>
+</div>
+
 ### NexusGPT
 <div><a href="https://gpt.nexus/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
