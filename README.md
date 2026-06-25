@@ -593,6 +593,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/VRSEN/agency-swarm/tree/main/agency_swarm/agents/BrowsingAgent">code</a> | <a href="https://www.youtube.com/watch?v=Yidy_ePo7pE">video</a></p>
 </div>
 
+### BuyWhere
+<div><a href="https://github.com/BuyWhere/buywhere-mcp"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a></div>
+
+<p>🤖 AI Agents</p>
+
+<p>BuyWhere is an MCP-native AI agent that provides real-time product search and price comparison across 11M+ products in Singapore, Southeast Asia, and the US, covering Shopee, Lazada, Amazon, Walmart, and 20+ retailers. Streamable-HTTP at api.buywhere.ai/mcp, stdio via npx @buywhere/mcp-server. Free API key with no signup flow.</p>
+
+<p><a href="https://github.com/BuyWhere/buywhere-mcp">github</a> | <a href="https://buywhere.ai">website</a></p>
+</div>
+
 ### Cadea
 <div><a href="https://www.cadea.ai/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 

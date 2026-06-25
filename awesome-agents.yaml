@@ -46,6 +46,19 @@
   categories:
     - "AI Agents"
 
+- project: "BuyWhere"
+  project_description: "BuyWhere is an MCP-native AI agent that provides real-time product search and price comparison across 11M+ products in Singapore, Southeast Asia, and the US, covering Shopee, Lazada, Amazon, Walmart, and 20+ retailers. Streamable-HTTP at api.buywhere.ai/mcp, stdio via npx @buywhere/mcp-server. Free API key with no signup flow."
+  project_is_open_source: true
+  sources:
+    - source: "github"
+      source_url: "https://github.com/BuyWhere/buywhere-mcp"
+    - source: "website"
+      source_url: "https://buywhere.ai"
+  categories:
+    - "AI Agents"
+    - "Function Calling"
+    - "Real-Time"
+
 - project: "Devin by Cognition"
   project_description: "Devin is a fully autonomous AI software engineer, revolutionizing coding with advanced reasoning and planning capabilities"
   project_is_open_source: false
