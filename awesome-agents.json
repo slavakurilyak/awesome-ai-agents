@@ -4657,17 +4657,17 @@
       ]
     },
     {
-      "project": "Nexo",
-      "project_description": "Nexo is a cross-platform desktop AI workspace built with Tauri, React, and Rust, providing multi-provider LLM support with your own API keys, MCP integration, workspace management, and local SQLite storage for privacy-focused AI assistance",
+      "project": "Cogito Studio",
+      "project_description": "Cogito Studio is a cross-platform desktop AI workspace built with Tauri, React, and Rust, providing multi-provider LLM support with your own API keys, MCP integration, workspace management, and local SQLite storage for privacy-focused AI assistance",
       "project_is_open_source": true,
       "sources": [
         {
           "source": "github",
-          "source_url": "https://github.com/Nexo-Agent/nexo"
+          "source_url": "https://github.com/CogitoForge-AI/cogito-studio"
         },
         {
           "source": "website",
-          "source_url": "https://nexo.nkthanh.dev/"
+          "source_url": "https://studio.cogito-ai.org/"
         }
       ],
       "categories": [
