@@ -3209,6 +3209,24 @@
       ]
     },
     {
+      "project": "Pilot Protocol",
+      "project_description": "Pilot Protocol is an open-source overlay network giving AI agents first-class network citizenship: a permanent virtual address, encrypted UDP tunnels with NAT traversal, and an explicit per-peer trust model, plus an app store of installable agent-native capabilities",
+      "project_is_open_source": true,
+      "sources": [
+        {
+          "source": "website",
+          "source_url": "https://pilotprotocol.network"
+        },
+        {
+          "source": "github",
+          "source_url": "https://github.com/pilot-protocol"
+        }
+      ],
+      "categories": [
+        "Standardization"
+      ]
+    },
+    {
       "project": "LangChainBitcoin",
       "project_description": "LangChainBitcoin is a toolset for enabling LangChain agents to interact with Bitcoin, the Lightning Network, and APIs requiring L402-based authentication, including features for Bitcoin transactions and API traversal with automated Lightning payments",
       "project_is_open_source": true,

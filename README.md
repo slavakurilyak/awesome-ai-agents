@@ -1923,6 +1923,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://pieces.app/">website</a> | <a href="https://discord.gg/getpieces">discord</a></p>
 </div>
 
+### Pilot Protocol
+<div><a href="https://github.com/pilot-protocol"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a></div>
+
+<p>📏 Standardization</p>
+
+<p>Pilot Protocol is an open-source overlay network giving AI agents first-class network citizenship: a permanent virtual address, encrypted UDP tunnels with NAT traversal, and an explicit per-peer trust model, plus an app store of installable agent-native capabilities</p>
+
+<p><a href="https://pilotprotocol.network">website</a> | <a href="https://github.com/pilot-protocol">github</a></p>
+</div>
+
 ### Pinokio
 <div><a href="https://github.com/pinokiocomputer/pinokio"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/pinokiocomputer/pinokio"><img src="https://img.shields.io/github/stars/pinokiocomputer/pinokio?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 5,349 stars (Updated: 2025-07-30)</p>
