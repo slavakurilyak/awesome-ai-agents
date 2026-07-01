@@ -49,6 +49,20 @@ According to [Andrew Ng (@andrewyng)](https://github.com/andrewyng):
 <li><a href="https://github.com/janhq/jan"><strong>Jan</strong></a> - 35,212 stars (Updated: 2025-07-30)<br>Jan is an open-source, development-stage ChatGPT alternative that operates fully offline on diverse hardware platforms, supporting universal architectures from PCs to multi-GPU clusters</li>
 </ol>
 
+## 📚 Resources
+
+Looking for free AI APIs to power your agents? Check out these curated collections:
+
+### Free AI APIs
+<div>
+<a href="https://github.com/aitoken-hub/free-ai-apis"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a>
+<a href="https://github.com/aitoken-hub/free-ai-apis"><img src="https://img.shields.io/github/stars/aitoken-hub/free-ai-apis?style=social" alt="GitHub stars"></a>
+</div>
+<p>⭐ Free AI APIs - Curated list of free and affordable AI APIs for developers. Access 200+ models including OpenAI, Anthropic Claude, Google Gemini, Groq, DeepSeek, and more through a single key with <a href="https://aitoken-hub.github.io/aitoken-hub/">AI Token Hub</a>.</p>
+<p><a href="https://github.com/aitoken-hub/free-ai-apis">github</a> | <a href="https://aitoken-hub.github.io/aitoken-hub/">website</a></p>
+
+---
+
 ## ✍️ All Projects
 
 Here's an awesome list of AI agents:
