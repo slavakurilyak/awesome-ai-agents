@@ -2422,6 +2422,10 @@ To express your support, you can take the following actions:
 2. **Submit Suggestions**: If you have any ideas or feedback, please open a new issue [here](https://github.com/slavakurilyak/awesome-ai-agents/issues/new).
 3. **Contribute Directly**: You can contribute by forking this repository and then submitting your contributions through a new pull request [here](https://github.com/slavakurilyak/awesome-ai-agents/fork).
 
+## 📚 More Awesome Lists
+
+- [Skill Hub](https://skill.442595.xyz/) — Open-source AI Agent Skills directory with 5,200+ skills across 22 categories. Filterable by platform (Claude Code, Codex, Cursor, Hermes, OpenCode). Full-text search, bilingual CN/EN, daily GitHub-synced.
+
 ## 🚀 Star History
 
 <a href="https://star-history.com/#slavakurilyak/awesome-ai-agents&Date">
