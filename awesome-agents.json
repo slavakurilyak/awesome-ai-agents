@@ -2695,6 +2695,21 @@
       ]
     },
     {
+      "project": "Project Telos",
+      "project_description": "Project Telos is a local-first MCP/CLI workbench for inspectable agent workflows, with source provenance, workspace maps, routing ledgers, action receipts, context packs, CI/operator doctors, and reviewable verification packets",
+      "project_is_open_source": true,
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/HarperZ9/telos"
+        }
+      ],
+      "categories": [
+        "Observability Frameworks",
+        "Evaluation Frameworks"
+      ]
+    },
+    {
       "project": "NavAIGuide",
       "project_description": "NavAIGuide is an extensible, mobile-friendly, multi-modal agentic framework designed to integrate with mobile and desktop apps, featuring visual task detection, advanced code selectors, action-oriented execution, and resilient error handling",
       "project_is_open_source": true,

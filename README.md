@@ -1993,6 +1993,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://produvia.com/">website</a> | <a href="https://twitter.com/produvia">twitter</a> | <a href="https://linkedin.com/company/produvia">linkedin</a></p>
 </div>
 
+### Project Telos
+<div><a href="https://github.com/HarperZ9/telos"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/HarperZ9/telos"><img src="https://img.shields.io/github/stars/HarperZ9/telos?style=social" alt="GitHub stars"></a></div>
+
+<p>👁️ Observability Frameworks | 📊 Evaluation Frameworks</p>
+
+<p>Project Telos is a local-first MCP/CLI workbench for inspectable agent workflows, with source provenance, workspace maps, routing ledgers, action receipts, context packs, CI/operator doctors, and reviewable verification packets</p>
+
+<p><a href="https://github.com/HarperZ9/telos">github</a></p>
+</div>
+
 ### Prompt2UI by sullyo
 <div><a href="https://github.com/sullyo/prompt2ui"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/sullyo/prompt2ui"><img src="https://img.shields.io/github/stars/sullyo/prompt2ui?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 232 stars (Updated: 2025-07-30)</p>
