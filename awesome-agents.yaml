@@ -2654,4 +2654,15 @@
       source_url: "https://www.linkedin.com/company/mem0/"
   categories:
     - "Long-Term Memory"
-  
+
+- project: "AIServices"
+  project_description: "AIServices provides 21 crypto intelligence endpoints (prices, DeFi yields, indicators, predictions, social signals) and policy-driven dispute resolution for AI agent commerce. Uses native x402 micropayments (USDC on Base) — agents pay per-call without API keys. Also available as an MCP server for integration with Claude, Cursor, and other AI tools."
+  project_is_open_source: true
+  sources:
+    - source: "website"
+      source_url: "https://api.aiservices.to"
+    - source: "code"
+      source_url: "https://github.com/vbkotecha/aiservices-api"
+  categories:
+    - "AI Agents"
+    - "Development Frameworks"
