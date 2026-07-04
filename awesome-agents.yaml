@@ -2655,3 +2655,14 @@
   categories:
     - "Long-Term Memory"
   
+
+- project: "Biel.ai"
+  project_description: "Biel.ai is an AI assistant for technical documentation that answers user and developer questions with source-cited responses, available as a docs site widget, Slack, Discord, and Microsoft Teams bots, a hosted MCP server for AI tools like Claude and Cursor, and a REST API"
+  project_is_open_source: false
+  sources:
+    - source: "website"
+      source_url: "https://biel.ai"
+    - source: "docs"
+      source_url: "https://docs.biel.ai"
+  categories:
+    - "AI Agents"
