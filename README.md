@@ -2193,6 +2193,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://www.talkscriber.com">website</a></p>
 </div>
 
+### Talon
+<div><a href="https://github.com/dylanneve1/talon"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/dylanneve1/talon"><img src="https://img.shields.io/github/stars/dylanneve1/talon?style=social" alt="GitHub stars"></a></div>
+<p>⭐ 60 stars (Updated: 2026-07-05)</p>
+<p>⚙️ Development Frameworks</p>
+
+<p>Talon is an open-source, multi-frontend agentic harness (MIT, TypeScript) that runs a persistent AI agent across Telegram, Discord, and other chat frontends, with support for scheduled jobs, background triggers, goal tracking, and pluggable MCP tool servers, letting one agent identity operate continuously across platforms rather than as a single-session chatbot</p>
+
+<p><a href="https://github.com/dylanneve1/talon">github</a></p>
+</div>
+
 ### Tarsier by Reworkd
 <div><a href="https://github.com/reworkd/tarsier"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/reworkd/tarsier"><img src="https://img.shields.io/github/stars/reworkd/tarsier?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 1,713 stars (Updated: 2025-07-30)</p>
