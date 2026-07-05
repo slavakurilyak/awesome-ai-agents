@@ -813,6 +813,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/continuedev/continue">github</a> | <a href="https://continue.dev">website</a></p>
 </div>
 
+### CorvinOS
+<div><a href="https://github.com/CorvinLabs/CorvinOS"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/CorvinLabs/CorvinOS"><img src="https://img.shields.io/github/stars/CorvinLabs/CorvinOS?style=social" alt="GitHub stars"></a></div>
+<p>💻 Operating System (OS) | 🤖 AI Agents | 💻 Local Inference</p>
+
+<p>CorvinOS is a self-hosted agentic OS that connects local Ollama models and cloud providers (OpenAI, Anthropic, OpenRouter) to Discord, Telegram, WhatsApp, Slack, and Email. EU AI Act 2026 and GDPR compliance are structural — built into the architecture via a 36-layer security stack including bot-disclosure, per-user consent gate, hash-chained audit log, and data-residency controls.</p>
+
+<p><a href="https://github.com/CorvinLabs/CorvinOS">github</a> | <a href="https://corvin-labs.com">website</a></p>
+</div>
+
 ### Cosmo
 <div><a href="https://meetcosmo.ai/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 

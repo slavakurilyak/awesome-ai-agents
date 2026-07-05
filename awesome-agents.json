@@ -4655,6 +4655,26 @@
       "categories": [
         "Long-Term Memory"
       ]
+    },
+    {
+      "project": "CorvinOS",
+      "project_description": "CorvinOS is a self-hosted agentic OS that connects local Ollama models and cloud providers (OpenAI, Anthropic, OpenRouter) to Discord, Telegram, WhatsApp, Slack, and Email. EU AI Act 2026 and GDPR compliance are structural — built into the architecture via a 36-layer security stack including bot-disclosure, per-user consent gate, hash-chained audit log, and data-residency controls.",
+      "project_is_open_source": true,
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/CorvinLabs/CorvinOS"
+        },
+        {
+          "source": "website",
+          "source_url": "https://corvin-labs.com"
+        }
+      ],
+      "categories": [
+        "AI Agents",
+        "Local Inference",
+        "Operating System (OS)"
+      ]
     }
   ],
   "categories": [
