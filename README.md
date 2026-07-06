@@ -113,6 +113,26 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/aibtcdev/agent-tools-ts">github</a> | <a href="https://github.com/aibtcdev">github profile</a> | <a href="https://aibtc.dev/">website</a> | <a href="https://discord.gg/5DJaBrf">discord</a></p>
 </div>
 
+### agent-trace
+<div><a href="https://github.com/alvabillwu/agent-trace"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/alvabillwu/agent-trace"><img src="https://img.shields.io/github/stars/alvabillwu/agent-trace?style=social" alt="GitHub stars"></a></div>
+<p>⭐ 0 stars (Updated: 2025)</p>
+<p>⚙️ Development Frameworks</p>
+
+<p>Lightweight OTLP-compatible tracer for AI agents -- zero dependencies, pure stdlib</p>
+
+<p><a href="https://github.com/alvabillwu/agent-trace">github</a></p>
+</div>
+
+### agent2agent
+<div><a href="https://github.com/alvabillwu/agent2agent"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/alvabillwu/agent2agent"><img src="https://img.shields.io/github/stars/alvabillwu/agent2agent?style=social" alt="GitHub stars"></a></div>
+<p>⭐ 0 stars (Updated: 2025)</p>
+<p>⚙️ Development Frameworks</p>
+
+<p>Cross-agent delegation protocol -- standardized task envelope format for inter-agent communication</p>
+
+<p><a href="https://github.com/alvabillwu/agent2agent">github</a></p>
+</div>
+
 ### AgentBench
 <div><a href="https://github.com/THUDM/AgentBench"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/THUDM/AgentBench"><img src="https://img.shields.io/github/stars/THUDM/AgentBench?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 2,711 stars (Updated: 2025-07-30)</p>
@@ -123,6 +143,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/THUDM/AgentBench">github</a></p>
 </div>
 
+### agentest
+<div><a href="https://github.com/alvabillwu/agentest"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/alvabillwu/agentest"><img src="https://img.shields.io/github/stars/alvabillwu/agentest?style=social" alt="GitHub stars"></a></div>
+<p>⭐ 0 stars (Updated: 2025)</p>
+<p>⚙️ Development Frameworks</p>
+
+<p>Lightweight test framework for AI agents -- define test cases with expected behaviors (keywords, regex, latency), run your agent, get a pass/fail report. Zero deps.</p>
+
+<p><a href="https://github.com/alvabillwu/agentest">github</a></p>
+</div>
+
 ### AgentGPT by Reworkd
 <div><a href="https://github.com/reworkd/AgentGPT"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/reworkd/AgentGPT"><img src="https://img.shields.io/github/stars/reworkd/AgentGPT?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 34,613 stars (Updated: 2025-07-30)</p>
@@ -131,6 +161,16 @@ Here's an awesome list of AI agents:
 <p>AgentGPT allows users to configure and deploy autonomous AI agents, enabling them to name their own custom AI and guide it towards any desired goal through task execution and learning</p>
 
 <p><a href="https://github.com/reworkd/AgentGPT">github</a> | <a href="https://github.com/reworkd">github profile</a></p>
+</div>
+
+### agentguard
+<div><a href="https://github.com/alvabillwu/agentguard"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/alvabillwu/agentguard"><img src="https://img.shields.io/github/stars/alvabillwu/agentguard?style=social" alt="GitHub stars"></a></div>
+<p>⭐ 0 stars (Updated: 2025)</p>
+<p>⚙️ Development Frameworks</p>
+
+<p>Shell-command safety gate for AI agents -- flags destructive commands (rm -rf, git reset --hard, force-push, curl|sh, mkfs, fork bombs) with block/review/pass verdicts. Zero deps.</p>
+
+<p><a href="https://github.com/alvabillwu/agentguard">github</a></p>
 </div>
 
 ### Agentive
@@ -151,6 +191,16 @@ Here's an awesome list of AI agents:
 <p>AgentLabs is an open-source, universal frontend solution for AI agents, offering an authentication portal, chat interface, analytics, and payment features to streamline the deployment of AI agents to public users</p>
 
 <p><a href="https://github.com/agentlabs-inc/agentlabs">github</a> | <a href="https://www.agentlabs.dev/">website</a> | <a href="https://docs.agentlabs.dev/">docs</a></p>
+</div>
+
+### agentlog
+<div><a href="https://github.com/alvabillwu/agentlog"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/alvabillwu/agentlog"><img src="https://img.shields.io/github/stars/alvabillwu/agentlog?style=social" alt="GitHub stars"></a></div>
+<p>⭐ 0 stars (Updated: 2025)</p>
+<p>⚙️ Development Frameworks</p>
+
+<p>Structured logging and replay for AI agent runs -- trace every LLM call, tool use, and step as JSONL; replay, summarize, and audit what the agent did. Zero deps.</p>
+
+<p><a href="https://github.com/alvabillwu/agentlog">github</a></p>
 </div>
 
 ### AgentOps
