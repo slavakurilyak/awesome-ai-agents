@@ -23,6 +23,8 @@ According to [Andrew Ng (@andrewyng)](https://github.com/andrewyng):
 
 <ol>
 <li><a href="https://github.com/Significant-Gravitas/AutoGPT"><strong>AutoGPT</strong></a> - 177,350 stars (Updated: 2025-07-30)<br>AutoGPT provides accessible AI tools for building and using AI agents, offering a comprehensive framework including Forge for agent creation, agbenchmark for performance evaluation, a leaderboard for competition, a user-friendly UI, and CLI for seamless integration and management</li>
+- [ContinueWith](https://continuewith.ai) - Let visitors continue any website page inside ChatGPT, Claude, Gemini, Grok, Perplexity, Mistral, and other AI assistants in one click.
+
 <li><a href="https://github.com/ollama/ollama"><strong>Ollama</strong></a> - 147,994 stars (Updated: 2025-07-30)<br>Ollama is a tool for running large language models locally, offering easy setup for macOS, Windows, Linux, and Docker, along with a library of models and quickstart guides for customization and integration</li>
 <li><a href="https://github.com/langchain-ai/langchain"><strong>LangChain</strong></a> - 112,549 stars (Updated: 2025-07-30)<br>LangChain is a framework enabling context-aware reasoning applications with integrated libraries, templates, and developer tools</li>
 <li><a href="https://github.com/langchain-ai/langchain/"><strong>LangChain Tools</strong></a> - 112,549 stars (Updated: 2025-07-30)<br>Langchain integrates various providers like Anthropic, AWS, and OpenAI, and offers tools for components such as LLMs, chat models, and data analysis, supporting functionalities from Alpha Vantage to YouTube</li>
