@@ -2283,6 +2283,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://wandb.ai/site/traces">website</a></p>
 </div>
 
+### Tree Ring Memory Framework
+<div><a href="https://github.com/TerminallyLazy/Tree-Ring-Memory"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/TerminallyLazy/Tree-Ring-Memory"><img src="https://img.shields.io/github/stars/TerminallyLazy/Tree-Ring-Memory?style=social" alt="GitHub stars"></a></div>
+
+<p>🧠 Long-Term Memory</p>
+
+<p>Tree Ring Memory is a framework-agnostic, local-first memory lifecycle for AI agents, with SQLite/FTS recall, deliberate forgetting, audit logs, consolidation, and adapters for agent runtimes</p>
+
+<p><a href="https://github.com/TerminallyLazy/Tree-Ring-Memory">github</a> | <a href="https://terminallylazy.github.io/Tree-Ring-Memory/">docs</a></p>
+</div>
+
 ### Twilio
 <div><a href="https://www.twilio.com"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 

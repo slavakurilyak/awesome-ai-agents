@@ -709,6 +709,17 @@
   categories:
     - "Long-Term Memory"
 
+- project: "Tree Ring Memory Framework"
+  project_description: "Tree Ring Memory is a framework-agnostic, local-first memory lifecycle for AI agents, with SQLite/FTS recall, deliberate forgetting, audit logs, consolidation, and adapters for agent runtimes"
+  project_is_open_source: true
+  sources:
+    - source: "github"
+      source_url: "https://github.com/TerminallyLazy/Tree-Ring-Memory"
+    - source: "docs"
+      source_url: "https://terminallylazy.github.io/Tree-Ring-Memory/"
+  categories:
+    - "Long-Term Memory"
+
 - project: "Zep"
   project_description: "Zep is a long-term memory service for AI assistants that enhances recall, understanding, and data extraction from chat histories to power personalized AI experiences"
   project_is_open_source: true
@@ -2654,4 +2665,3 @@
       source_url: "https://www.linkedin.com/company/mem0/"
   categories:
     - "Long-Term Memory"
-  
