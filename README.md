@@ -573,6 +573,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://twitter.com/browserbasehq">twitter</a> | <a href="https://www.browserbase.com/">website</a></p>
 </div>
 
+### BrowserBash
+<div><a href="https://github.com/PramodDutta/browserbash"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/PramodDutta/browserbash"><img src="https://img.shields.io/github/stars/PramodDutta/browserbash?style=social" alt="GitHub stars"></a></div>
+
+<p>🤖 AI Agents</p>
+
+<p>BrowserBash is an open-source CLI where an AI agent runs plain-English browser tests in a real Chrome and returns deterministic verdicts (assertions, exit codes); it ships an MCP server so coding agents can validate their own UI work, and runs on free local models with no API keys</p>
+
+<p><a href="https://github.com/PramodDutta/browserbash">github</a> | <a href="https://browserbash.com">website</a></p>
+</div>
+
 ### BrowserGPT
 <div><a href="https://github.com/mayt/BrowserGPT"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/mayt/BrowserGPT"><img src="https://img.shields.io/github/stars/mayt/BrowserGPT?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 419 stars (Updated: 2025-07-30)</p>
