@@ -163,6 +163,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/AgentOps-AI/agentops">github</a> | <a href="https://www.agentops.ai/">website</a> | <a href="https://docs.agentops.ai">docs</a> | <a href="https://discord.gg/mKW3ZhN9p2">discord</a> | <a href="https://x.com/AlexReibman/status/1772771418780176674">demo</a></p>
 </div>
 
+### SqueezeOS
+<div><a href="https://github.com/Timwal78/squeezeos-api"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/Timwal78/squeezeos-api"><img src="https://img.shields.io/github/stars/Timwal78/squeezeos-api?style=social" alt="GitHub stars"></a></div>
+<p>⭐ 0 stars (Updated: 2026-07-08)</p>
+<p>💰 Finance & Trading Agents</p>
+
+<p>SqueezeOS is an institutional market-intelligence MCP server built by Script Master Labs — short-squeeze detection, options flow, and IWM 0DTE signal tools, with x402/HTTP-402 micropayment-gated premium endpoints settling on Base and XRPL. Free-tier tools available with no auth required.</p>
+
+<p><a href="https://github.com/Timwal78/squeezeos-api">github</a> | <a href="https://www.scriptmasterlabs.com">website</a> | <a href="https://squeezeos-api.onrender.com/mcp">mcp endpoint</a></p>
+</div>
+
 ### AgentOS
 <div><a href="https://github.com/smartcomputer-ai/agent-os"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/smartcomputer-ai/agent-os"><img src="https://img.shields.io/github/stars/smartcomputer-ai/agent-os?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 125 stars (Updated: 2025-07-30)</p>
