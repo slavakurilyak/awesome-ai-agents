@@ -163,6 +163,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/AgentOps-AI/agentops">github</a> | <a href="https://www.agentops.ai/">website</a> | <a href="https://docs.agentops.ai">docs</a> | <a href="https://discord.gg/mKW3ZhN9p2">discord</a> | <a href="https://x.com/AlexReibman/status/1772771418780176674">demo</a></p>
 </div>
 
+### ScriptMaster Vending Router
+<div><a href="https://scriptmaster-vending-router.onrender.com"><img src="https://img.shields.io/badge/Open%20Source-No-lightgrey" alt="Hosted Service"></a></div>
+<p>🛒 Agent Commerce / Vending Infrastructure</p>
+
+<p>x402-gated vending stack for AI agents from Script Master Labs: dynamic-priced payload vending, Ghost Layer decision notarization resale, and a multi-seller marketplace for x402-payable APIs. 6 tools, live and health-checked.</p>
+
+<p><a href="https://scriptmaster-vending-router.onrender.com/health">health</a> | <a href="https://scriptmaster-vending-router.onrender.com/mcp">mcp endpoint</a> | <a href="https://www.scriptmasterlabs.com">website</a></p>
+</div>
+
 ### AgentOS
 <div><a href="https://github.com/smartcomputer-ai/agent-os"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/smartcomputer-ai/agent-os"><img src="https://img.shields.io/github/stars/smartcomputer-ai/agent-os?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 125 stars (Updated: 2025-07-30)</p>
