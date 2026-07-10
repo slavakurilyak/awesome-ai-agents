@@ -2655,3 +2655,11 @@
   categories:
     - "Long-Term Memory"
   
+- project: "LLMGraph"
+  project_description: "LLMGraph is a no-code visual builder for LLM workflows and AI agents, offering one-click deployment to a REST API and an embeddable chat widget"
+  project_is_open_source: false
+  sources:
+    - source: "website"
+      source_url: "https://llmgraph.ai"
+  categories:
+    - "No-Code Development Frameworks"

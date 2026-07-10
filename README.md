@@ -1553,6 +1553,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/run-llama/llama_index">github</a> | <a href="https://llamahub.ai/?tab=tools">website</a> | <a href="https://docs.llamaindex.ai/en/latest/module_guides/deploying/agents/tools/">docs</a></p>
 </div>
 
+### LLMGraph
+<div><a href="https://llmgraph.ai"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
+
+<p>🚫💻 No-Code Development Frameworks</p>
+
+<p>LLMGraph is a no-code visual builder for LLM workflows and AI agents, offering one-click deployment to a REST API and an embeddable chat widget</p>
+
+<p><a href="https://llmgraph.ai">website</a></p>
+</div>
+
 ### LM Studio
 <div><a href="https://lmstudio.ai/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
