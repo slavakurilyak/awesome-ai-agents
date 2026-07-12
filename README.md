@@ -293,6 +293,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://azure.microsoft.com/en-us/products/ai-studio">website</a></p>
 </div>
 
+### AI-Factory
+<div><a href="https://github.com/alexar76/aicom"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/alexar76/aicom"><img src="https://img.shields.io/github/stars/alexar76/aicom?style=social" alt="GitHub stars"></a></div>
+<p>⭐ 1 stars (Updated: 2026-07-12)</p>
+<p>🏭 Multi-Agent Orchestration</p>
+
+<p>Self-hosted software factory: one prompt → research, design, code, QA, deploy, and storefront listing. Twelve specialized agents, five quality gates, AI Director oversight, public build replays, and optional AIMarket economy integration (discovery, micropayments, plugins).</p>
+
+<p><a href="https://github.com/alexar76/aicom">github</a> | <a href="https://magic-ai-factory.com">website</a> | <a href="https://github.com/alexar76/aicom/tree/main/docs">docs</a> | <a href="https://modeldev.modelmarket.dev">ecosystem</a></p>
+</div>
+
 ### ai-artifacts
 <div><a href="https://github.com/e2b-dev/ai-artifacts"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/e2b-dev/ai-artifacts"><img src="https://img.shields.io/github/stars/e2b-dev/ai-artifacts?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 5,681 stars (Updated: 2025-07-30)</p>
