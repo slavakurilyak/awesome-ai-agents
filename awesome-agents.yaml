@@ -1,3 +1,13 @@
+- project: "DarkMoon"
+  project_description: "Open-source autonomous AI pentester and MCP host that drives Claude or a local model to orchestrate 80+ offensive-security tools, with a local Privacy Gateway for reversible on-device tokenization"
+  project_is_open_source: true
+  sources:
+    - source: "code"
+      source_url: "https://github.com/ASCIT31/Dark-Moon"
+    - source: "website"
+      source_url: "https://dark-moon.org"
+  categories:
+    - "AI Agents"
 - project: "AgentX"
   project_description: "AgentX is an AI-powered sales assistant designed to enhance sales strategies and efficiency through advanced features like a Memory Module and Online Mode, leveraging industry best practices for smarter selling"
   project_is_open_source: false
