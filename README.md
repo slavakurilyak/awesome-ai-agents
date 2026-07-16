@@ -332,6 +332,15 @@ Here's an awesome list of AI agents:
 
 <p><a href="https://github.com/agiresearch/AIOS">github</a> | <a href="https://github.com/agiresearch">github profile</a></p>
 </div>
+### Altimate Code
+<div><a href="https://www.altimate.ai/code"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
+
+<p>🤖 AI Agents</p>
+
+<p>Altimate Code is an agentic data engineering CLI that connects to your warehouse, dbt project, and git history to plan, write, test, and PR data model changes — ranked #1 on ADE-Bench</p>
+
+<p><a href="https://www.altimate.ai/code">website</a> | <a href="https://help.altimate.ai/code/">docs</a></p>
+</div>
 
 ### Anthropic
 <div><a href="https://www.anthropic.com/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
