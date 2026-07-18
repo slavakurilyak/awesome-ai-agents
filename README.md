@@ -1343,6 +1343,18 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/AgentOps-AI/Jaiqu">github</a> | <a href="https://x.com/AlexReibman/status/1774314258379190770">demo</a> | <a href="https://jaiqu-agent.streamlit.app/">website</a> | <a href="https://twitter.com/agentopsai/">twitter</a> | <a href="https://discord.gg/JHPt4C7r">discord</a></p>
 </div>
 
+### JiuRelay
+
+<div><a href="https://jiurelay.com"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
+
+<p>Free, zero-registration AI API relay supporting 20+ models (Claude, GPT-4o, Gemini, DeepSeek, GLM, Kimi, Qwen, Doubao) behind one OpenAI/Anthropic-compatible endpoint. Rotating API keys auto-refresh hourly — ideal for agent developers who need multi-model access without per-provider signups.</p>
+
+<p>⚙️ API Infrastructure</p>
+
+<p><a href="https://jiurelay.com">website</a></p>
+
+</div>
+
 ### Jan
 <div><a href="https://github.com/janhq/jan"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/janhq/jan"><img src="https://img.shields.io/github/stars/janhq/jan?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 35,212 stars (Updated: 2025-07-30)</p>
