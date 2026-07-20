@@ -1273,6 +1273,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://www.helicone.ai/">website</a> | <a href="https://github.com/Helicone/helicone">github</a></p>
 </div>
 
+### Hellomatik
+<div><a href="https://hellomatik.com/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
+
+<p>🤖 AI Agents</p>
+
+<p>Hellomatik is an AI agent platform that turns a company's knowledge into agents that answer, sell and execute across WhatsApp, email and web, with integrations for e-commerce (Shopify), CRM, payments (Stripe) and ERP (Sage) systems.</p>
+
+<p><a href="https://hellomatik.com/">website</a></p>
+</div>
+
 ### Humane
 <div><a href="https://humane.com/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
