@@ -2655,3 +2655,11 @@
   categories:
     - "Long-Term Memory"
   
+- project: "AgentGrid"
+  project_description: "AgentGrid is a desktop app (macOS, Linux, Windows) that provides an infinite, zoomable canvas for orchestrating multiple AI coding agents in parallel; a master orchestrator pane spawns role-based worker agents (builder, QA, reviewer), each optionally running in its own git worktree, alongside integrated terminals and Playwright browser panes, and it runs both the Claude Agent SDK and the OpenAI Codex SDK behind a shared worker protocol"
+  project_is_open_source: false
+  sources:
+    - source: "website"
+      source_url: "https://agentgrid.sh"
+  categories:
+    - "Development Frameworks"
