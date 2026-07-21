@@ -2243,6 +2243,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://teamx.work/">website</a></p>
 </div>
 
+### The Forge
+<div><a href="https://github.com/ModernOps888/the-forge"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/ModernOps888/the-forge"><img src="https://img.shields.io/github/stars/ModernOps888/the-forge?style=social" alt="GitHub stars"></a></div>
+<p>⚙️ Development Frameworks</p>
+
+<p>The Forge takes solutions from multiple LLMs, compiles them through a JIT compiler (Vitalis), benchmarks candidates, then breeds the top performers together via crossover, mutation, and selection across multiple generations</p>
+
+<p><a href="https://github.com/ModernOps888/the-forge">github</a></p>
+</div>
+
 ### TogetherAI
 <div><a href="https://www.together.ai/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
