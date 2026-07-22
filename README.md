@@ -1613,6 +1613,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/farizrahman4u/loopgpt">github</a> | <a href="https://github.com/farizrahman4u">github profile</a></p>
 </div>
 
+### lucinate
+<div><a href="https://github.com/lucinate-ai/lucinate"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/lucinate-ai/lucinate"><img src="https://img.shields.io/github/stars/lucinate-ai/lucinate?style=social" alt="GitHub stars"></a></div>
+<p>⭐ 11 stars (Updated: 2026-07-22)</p>
+<p>💻 Terminal-Friendly</p>
+
+<p>A multi-backend terminal AI chat client for OpenClaw, Hermes, Ollama, and OpenAI-compatible APIs.</p>
+
+<p><a href="https://github.com/lucinate-ai/lucinate">github</a></p>
+</div>
+
 ### Lumos
 <div><a href="https://github.com/allenai/lumos"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/allenai/lumos"><img src="https://img.shields.io/github/stars/allenai/lumos?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 467 stars (Updated: 2025-07-30)</p>
