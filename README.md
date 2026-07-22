@@ -2133,6 +2133,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/TransformerOptimus/SuperAGI">github</a> | <a href="https://github.com/TransformerOptimus">github profile</a></p>
 </div>
 
+### SqueezeOS
+<div><a href="https://github.com/timwal78/squeezeos"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/timwal78/squeezeos"><img src="https://img.shields.io/github/stars/timwal78/squeezeos?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents</p>
+
+<p>SqueezeOS is an institutional-grade AI trading intelligence MCP server providing 52 tools for autonomous agents. Includes real-time market signals, options flow analysis, squeeze detection, institutional momentum indicators, compliance data (SEC/FDA), federal contract opportunities, and autonomous agent credit scoring. Features x402 pay-per-call micropayment model via RLUSD on XRPL. Zero API keys required, zero subscriptions.</p>
+
+<p><a href="https://github.com/timwal78/squeezeos">github</a> | <a href="https://www.scriptmasterlabs.com">website</a> | <a href="https://squeezeos-api.onrender.com/mcp">MCP endpoint</a></p>
+</div>
+
 ### Swarms
 <div><a href="https://github.com/kyegomez/swarms/"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/kyegomez/swarms/"><img src="https://img.shields.io/github/stars/kyegomez/swarms?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 5,068 stars (Updated: 2025-07-30)</p>
