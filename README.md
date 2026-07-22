@@ -1253,6 +1253,12 @@ Here's an awesome list of AI agents:
 <p><a href="https://harpa.ai/">website</a></p>
 </div>
 
+### halo-record
+<div><a href="https://github.com/bkuan001/halo-record"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/bkuan001/halo-record"><img src="https://img.shields.io/github/stars/bkuan001/halo-record?style=social" alt="GitHub stars"></a></div>
+<p>🔒 Security</p>
+
+<p>halo-record creates tamper-evident records of what AI agents actually do — every tool call, model call, and data access written to a hash-chained, append-only log that anyone can re-verify without trusting the vendor that produced it, with self-verifying HTML reports for security reviews, date-windowed audit exports, and deterministic policy checks against AIUC-1 and the OWASP Top 10 for Agentic Applications; Apache-2.0, zero runtime dependencies, available in Python and TypeScript with adapters for LangChain, MCP, LiteLLM, and OpenTelemetry</p>
+
 ### Haystack
 <div><a href="https://github.com/deepset-ai/haystack"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/deepset-ai/haystack"><img src="https://img.shields.io/github/stars/deepset-ai/haystack?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 21,701 stars (Updated: 2025-07-30)</p>
