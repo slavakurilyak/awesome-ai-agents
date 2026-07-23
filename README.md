@@ -26,27 +26,20 @@ According to [Andrew Ng (@andrewyng)](https://github.com/andrewyng):
 <li><a href="https://github.com/ollama/ollama"><strong>Ollama</strong></a> - 147,994 stars (Updated: 2025-07-30)<br>Ollama is a tool for running large language models locally, offering easy setup for macOS, Windows, Linux, and Docker, along with a library of models and quickstart guides for customization and integration</li>
 <li><a href="https://github.com/langchain-ai/langchain"><strong>LangChain</strong></a> - 112,549 stars (Updated: 2025-07-30)<br>LangChain is a framework enabling context-aware reasoning applications with integrated libraries, templates, and developer tools</li>
 <li><a href="https://github.com/langchain-ai/langchain/"><strong>LangChain Tools</strong></a> - 112,549 stars (Updated: 2025-07-30)<br>Langchain integrates various providers like Anthropic, AWS, and OpenAI, and offers tools for components such as LLMs, chat models, and data analysis, supporting functionalities from Alpha Vantage to YouTube</li>
+<li><a href="https://github.com/punkpeye/awesome-mcp-servers"><strong>Awesome MCP Servers</strong></a> - 91,276 stars (Updated: 2026-07-24)<br>A large community-curated directory of Model Context Protocol servers across databases, browsers, cloud, dev-tools and more — the go-to index for discovering MCP integrations.</li>
 <li><a href="https://github.com/lobehub/lobe-chat"><strong>Lobe Chat</strong></a> - 63,923 stars (Updated: 2025-07-30)<br>Lobe Chat is an open-source UI framework for building ChatGPT/LLM-based chat applications, featuring modern design, speech synthesis, multi-modal support, extensible plugins, and free one-click deployment for various AI agents</li>
 <li><a href="https://github.com/OpenDevin/OpenDevin"><strong>OpenDevin</strong></a> - 61,429 stars (Updated: 2025-07-30)<br>OpenDevin is an open-source initiative aimed at replicating and enhancing the autonomous AI software engineer Devin, focusing on collaboration and complex task execution in software development, emphasizing its relevance to advancing agentic AI technologies</li>
 <li><a href="https://github.com/OpenInterpreter/open-interpreter"><strong>Open Interpreter</strong></a> - 60,095 stars (Updated: 2025-07-30)<br>Open Interpreter is a coding agent enabling language models to execute code locally, facilitating natural-language interaction with your computer's capabilities, overcoming limitations of hosted solutions like internet access and package restrictions. It features interactive and programmatic chats, system message customization, and can control your computer's keyboard and mouse, allowing for enhanced control and flexibility in development environments</li>
 <li><a href="https://github.com/OpenInterpreter/open-interpreter"><strong>Open Interpreter</strong></a> - 60,095 stars (Updated: 2025-07-30)<br>Open Interpreter is a coding agent enabling language models to execute code locally, facilitating natural-language interaction with your computer's capabilities, overcoming limitations of hosted solutions like internet access and package restrictions. It features interactive and programmatic chats, system message customization, and can control your computer's keyboard and mouse, allowing for enhanced control and flexibility in development environments</li>
-<li><a href="https://github.com/geekan/MetaGPT"><strong>MetaGPT</strong></a> - 57,568 stars (Updated: 2025-07-30)<br>MetaGPT is a multi-agent framework enabling GPT to collaborate within a software company, facilitating complex tasks by assigning different roles to GPTs</li>
-<li><a href="https://github.com/zylon-ai/private-gpt/"><strong>PrivateGPT</strong></a> - 56,373 stars (Updated: 2025-07-30)<br>PrivateGPT is a secure, offline-capable AI tool for querying documents with Large Language Models, offering high-level and low-level APIs for privacy-conscious, context-aware application development</li>
+<li><a href="https://github.com/upstash/context7"><strong>Context7</strong></a> - 59,648 stars (Updated: 2026-07-24)<br>Upstash's MCP server that pulls up-to-date, version-specific documentation and code examples for libraries directly into an agent's context, reducing hallucinated APIs.</li>
 </ol>
 
 ## 🚀 Rising 10 Projects (Recently Active, Excluding Top 10)
 
 <ol>
-<li><a href="https://github.com/gpt-engineer-org/gpt-engineer"><strong>GPT Engineer</strong></a> - 54,614 stars (Updated: 2025-07-30)<br>GPT-Engineer is an AI-powered tool allowing users to specify software in natural language, automatically generating and executing code, with options for improvement suggestions, and fostering collaboration within the open-source community</li>
-<li><a href="https://github.com/microsoft/autogen"><strong>AutoGen by Microsoft</strong></a> - 48,077 stars (Updated: 2025-07-30)<br>AutoGen is a multi-agent conversation framework facilitating the development of next-gen LLM applications, highlighted by various accomplishments and offering enhanced LLM inferences, customizable agents, and comprehensive documentation</li>
-<li><a href="https://github.com/microsoft/autogen"><strong>AutoGen Studio by Microsoft</strong></a> - 48,077 stars (Updated: 2025-07-30)<br>AutoGen Studio 2.0 is Microsoft's advanced AI development tool, offering a user-friendly interface, powerful Python API, and comprehensive features for creating and controlling AI agents and workflows</li>
-<li><a href="https://github.com/run-llama/llama_index"><strong>LlamaIndex Tools</strong></a> - 43,398 stars (Updated: 2025-07-30)<br>LlamaIndex offers a variety of tools for building data agents, with top downloads including IonicShoppingToolSpec, OpenAPIToolSpec, WikipediaToolSpec, GmailToolSpec, and GoogleCalendarToolSpec, enabling seamless integration with user-defined functions, query engines, and third-party services</li>
-<li><a href="https://github.com/FlowiseAI/Flowise"><strong>Flowise</strong></a> - 42,100 stars (Updated: 2025-07-30)<br>Flowise simplifies the creation of applications leveraging large language models (LLMs) by providing a drag-and-drop interface for customizing AI workflows, offering easy installation, Docker support, development tools, and documentation for integrating various functionalities such as authentication, streaming, and custom tools to enhance AI agents' capabilities</li>
-<li><a href="https://github.com/lm-sys/FastChat"><strong>FastChat</strong></a> - 38,916 stars (Updated: 2025-07-30)<br>FastChat is a platform for training, serving, and evaluating large language model chatbots, featuring an open-source distributed multi-model system, API compatibility, and a dataset for LLM conversations</li>
-<li><a href="https://github.com/mem0ai/mem0"><strong>mem0</strong></a> - 37,574 stars (Updated: 2025-07-30)<br>Mem0 is an intelligent memory layer for Large Language Models that enhances personalized AI experiences by retaining and utilizing contextual information across various applications.</li>
-<li><a href="https://github.com/calcom/cal.com/tree/main/apps/ai"><strong>Cal.ai</strong></a> - 37,384 stars (Updated: 2025-07-30)<br>Cal.ai is an open-source AI scheduling assistant that manages email communications for booking, rearranging, and inquiring about meetings, leveraging a LangChain Agent Executor and MailParser for efficient scheduling without API key exposure</li>
-<li><a href="https://github.com/paul-gauthier/aider"><strong>Aider</strong></a> - 36,185 stars (Updated: 2025-07-30)<br>Aider is a command-line tool for AI-assisted pair programming, allowing code editing in local git repositories with GPT-3.5/GPT-4, featuring direct file edits, automatic git commits, and support for most popular programming languages</li>
-<li><a href="https://github.com/janhq/jan"><strong>Jan</strong></a> - 35,212 stars (Updated: 2025-07-30)<br>Jan is an open-source, development-stage ChatGPT alternative that operates fully offline on diverse hardware platforms, supporting universal architectures from PCs to multi-GPU clusters</li>
+<li><a href="https://github.com/microsoft/playwright-mcp"><strong>Playwright MCP</strong></a> - 35,441 stars (Updated: 2026-07-24)<br>Microsoft's MCP server for browser automation via Playwright, giving agents structured, accessibility-tree-based control of a real browser without screenshots or vision models.</li>
+<li><a href="https://github.com/github/github-mcp-server"><strong>GitHub MCP Server</strong></a> - 31,661 stars (Updated: 2026-07-24)<br>GitHub's official Model Context Protocol server, letting agents interact with repositories, issues, pull requests, Actions and code security through the MCP standard.</li>
+<li><a href="https://github.com/oraios/serena"><strong>Serena</strong></a> - 26,796 stars (Updated: 2026-07-24)<br>A coding-agent toolkit exposed as an MCP server, adding semantic, language-server-powered code retrieval and editing (symbol-level) to any MCP-compatible agent or IDE.</li>
 </ol>
 
 ## ✍️ All Projects
@@ -128,7 +121,7 @@ Here's an awesome list of AI agents:
 <p>⭐ 34,613 stars (Updated: 2025-07-30)</p>
 <p>⚙️ Development Frameworks</p>
 
-<p>AgentGPT allows users to configure and deploy autonomous AI agents, enabling them to name their own custom AI and guide it towards any desired goal through task execution and learning</p>
+<p>⚠️ [ARCHIVED 2026] The repository is archived (read-only) and no longer maintained. AgentGPT let users configure and deploy autonomous AI agents in the browser — name a custom AI and guide it toward a goal via task execution and learning.</p>
 
 <p><a href="https://github.com/reworkd/AgentGPT">github</a> | <a href="https://github.com/reworkd">github profile</a></p>
 </div>
@@ -451,6 +444,16 @@ Here's an awesome list of AI agents:
 <p>AutoGPT provides accessible AI tools for building and using AI agents, offering a comprehensive framework including Forge for agent creation, agbenchmark for performance evaluation, a leaderboard for competition, a user-friendly UI, and CLI for seamless integration and management</p>
 
 <p><a href="https://github.com/Significant-Gravitas/AutoGPT">github</a> | <a href="https://github.com/Significant-Gravitas">github profile</a></p>
+</div>
+
+### Awesome MCP Servers
+<div><a href="https://github.com/punkpeye/awesome-mcp-servers"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/punkpeye/awesome-mcp-servers"><img src="https://img.shields.io/github/stars/punkpeye/awesome-mcp-servers?style=social" alt="GitHub stars"></a></div>
+<p>⭐ 91,276 stars (Updated: 2026-07-24)</p>
+<p>🔌 MCP Servers</p>
+
+<p>A large community-curated directory of Model Context Protocol servers across databases, browsers, cloud, dev-tools and more — the go-to index for discovering MCP integrations.</p>
+
+<p><a href="https://github.com/punkpeye/awesome-mcp-servers">github</a> | <a href="https://glama.ai/mcp/servers">website</a></p>
 </div>
 
 ### Axflow
@@ -803,6 +806,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://context.ai/">website</a> | <a href="https://docs.context.ai/">docs</a></p>
 </div>
 
+### Context7
+<div><a href="https://github.com/upstash/context7"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/upstash/context7"><img src="https://img.shields.io/github/stars/upstash/context7?style=social" alt="GitHub stars"></a></div>
+<p>⭐ 59,648 stars (Updated: 2026-07-24)</p>
+<p>🔌 MCP Servers</p>
+
+<p>Upstash's MCP server that pulls up-to-date, version-specific documentation and code examples for libraries directly into an agent's context, reducing hallucinated APIs.</p>
+
+<p><a href="https://github.com/upstash/context7">github</a> | <a href="https://context7.com/">website</a></p>
+</div>
+
 ### Continue
 <div><a href="https://github.com/continuedev/continue"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/continuedev/continue"><img src="https://img.shields.io/github/stars/continuedev/continue?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 27,982 stars (Updated: 2025-07-30)</p>
@@ -906,7 +919,7 @@ Here's an awesome list of AI agents:
 ### Deepgram
 <div><a href="https://x.com/AlexReibman/status/1772774552260788296"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
-<p>🤖 AI Agents | 🎙️ Transcriber Providers</p>
+<p>🎙️ Transcriber Providers | 🤖 AI Agents</p>
 
 <p>Conversational AI tools designed for creating voice bots and agents, featuring realistic, low-latency voice technology</p>
 
@@ -1123,6 +1136,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/aibtcdev/gated-402-api">github</a> | <a href="https://github.com/aibtcdev">github profile</a> | <a href="https://aibtc.dev/">website</a> | <a href="https://discord.gg/5DJaBrf">discord</a></p>
 </div>
 
+### GitHub MCP Server
+<div><a href="https://github.com/github/github-mcp-server"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/github/github-mcp-server"><img src="https://img.shields.io/github/stars/github/github-mcp-server?style=social" alt="GitHub stars"></a></div>
+<p>⭐ 31,661 stars (Updated: 2026-07-24)</p>
+<p>🔧 Tool Calling (Function Calling) | 🔌 MCP Servers</p>
+
+<p>GitHub's official Model Context Protocol server, letting agents interact with repositories, issues, pull requests, Actions and code security through the MCP standard.</p>
+
+<p><a href="https://github.com/github/github-mcp-server">github</a> | <a href="https://docs.github.com/en/copilot/customizing-copilot/using-model-context-protocol/using-the-github-mcp-server">docs</a></p>
+</div>
+
 ### GitWit
 <div><a href="https://gitwit.dev/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
@@ -1158,7 +1181,7 @@ Here's an awesome list of AI agents:
 <p>⭐ 54,614 stars (Updated: 2025-07-30)</p>
 <p>🤖 AI Agents</p>
 
-<p>GPT-Engineer is an AI-powered tool allowing users to specify software in natural language, automatically generating and executing code, with options for improvement suggestions, and fostering collaboration within the open-source community</p>
+<p>⚠️ [ARCHIVED 2026] The repository is archived (read-only); the author's work moved to the commercial Lovable / gptengineer.app product. GPT-Engineer was an AI tool to specify software in natural language and auto-generate and run the code.</p>
 
 <p><a href="https://github.com/gpt-engineer-org/gpt-engineer">github</a> | <a href="https://github.com/gpt-engineer-org">github profile</a> | <a href="https://gptengineer.app">website</a></p>
 </div>
@@ -1608,7 +1631,7 @@ Here's an awesome list of AI agents:
 <p>⭐ 1,458 stars (Updated: 2025-07-30)</p>
 <p>⚙️ Development Frameworks</p>
 
-<p>LoopGPT is a modular auto-GPT framework with features such as a 'Plug N Play' API, GPT 3.5 compatibility, minimal prompt overhead, human-in-the-loop capability, and full state serialization, facilitating easy installation and usage through Python code, CLI, or Docker, with the ability to add custom tools and course correction, along with saving and loading agent state, requiring Python 3.8+ and an OpenAI API Key, and optional setup for Google search support</p>
+<p>⚠️ [PIVOTED 2026] The original repo now redirects to vitalops/openvibe — the LoopGPT framework as such is no longer developed under this name. LoopGPT was a modular auto-GPT framework with a plug-n-play API, human-in-the-loop, custom tools and full agent-state serialization (Python 3.8+).</p>
 
 <p><a href="https://github.com/farizrahman4u/loopgpt">github</a> | <a href="https://github.com/farizrahman4u">github profile</a></p>
 </div>
@@ -1953,6 +1976,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://play.ht/">website</a></p>
 </div>
 
+### Playwright MCP
+<div><a href="https://github.com/microsoft/playwright-mcp"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/microsoft/playwright-mcp"><img src="https://img.shields.io/github/stars/microsoft/playwright-mcp?style=social" alt="GitHub stars"></a></div>
+<p>⭐ 35,441 stars (Updated: 2026-07-24)</p>
+<p>🔌 MCP Servers | 🌐 Web Browsing Frameworks</p>
+
+<p>Microsoft's MCP server for browser automation via Playwright, giving agents structured, accessibility-tree-based control of a real browser without screenshots or vision models.</p>
+
+<p><a href="https://github.com/microsoft/playwright-mcp">github</a></p>
+</div>
+
 ### PraisonAI
 <div><a href="https://github.com/MervinPraison/PraisonAI/"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/MervinPraison/PraisonAI/"><img src="https://img.shields.io/github/stars/MervinPraison/PraisonAI?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 5,237 stars (Updated: 2025-07-30)</p>
@@ -2063,6 +2096,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/OthersideAI/self-operating-computer">github</a> | <a href="https://github.com/OthersideAI">github profile</a> | <a href="https://www.hyperwriteai.com/self-operating-computer">landing page</a></p>
 </div>
 
+### Serena
+<div><a href="https://github.com/oraios/serena"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/oraios/serena"><img src="https://img.shields.io/github/stars/oraios/serena?style=social" alt="GitHub stars"></a></div>
+<p>⭐ 26,796 stars (Updated: 2026-07-24)</p>
+<p>🔌 MCP Servers</p>
+
+<p>A coding-agent toolkit exposed as an MCP server, adding semantic, language-server-powered code retrieval and editing (symbol-level) to any MCP-compatible agent or IDE.</p>
+
+<p><a href="https://github.com/oraios/serena">github</a></p>
+</div>
+
 ### ShortGPT by RayVentura
 <div><a href="https://github.com/RayVentura/ShortGPT"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/RayVentura/ShortGPT"><img src="https://img.shields.io/github/stars/RayVentura/ShortGPT?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 6,679 stars (Updated: 2025-07-30)</p>
@@ -2128,7 +2171,7 @@ Here's an awesome list of AI agents:
 <p>⭐ 16,585 stars (Updated: 2025-07-30)</p>
 <p>⚙️ Development Frameworks</p>
 
-<p>SuperAGI is an open-source framework facilitating the development, management, and operation of useful Autonomous AI Agents with a variety of features and toolkits available, including a graphical user interface, action console, and multiple vector databases</p>
+<p>⚠️ [INACTIVE 2026] Effectively abandoned — no commits in ~18 months (last push Jan 2025). SuperAGI was an open-source framework for developing, managing and running autonomous AI agents, with a GUI, action console and multiple vector-DB integrations.</p>
 
 <p><a href="https://github.com/TransformerOptimus/SuperAGI">github</a> | <a href="https://github.com/TransformerOptimus">github profile</a></p>
 </div>

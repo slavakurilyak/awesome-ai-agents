@@ -62,6 +62,10 @@
   category_description: "protocols or standardized ways of interacting with AI agents"
   emoji: "📏"
 
+- category: "MCP Servers"
+  category_description: "Model Context Protocol (MCP) servers that expose tools and data sources to AI agents through the open MCP standard"
+  emoji: "🔌"
+
 - category: "Bitcoin"
   category_description: "LLMs with function calling (aka tools) which unlocks Bitcoin payments"
   emoji: "₿"

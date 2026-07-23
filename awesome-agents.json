@@ -524,7 +524,7 @@
     },
     {
       "project": "GPT Engineer",
-      "project_description": "GPT-Engineer is an AI-powered tool allowing users to specify software in natural language, automatically generating and executing code, with options for improvement suggestions, and fostering collaboration within the open-source community",
+      "project_description": "\u26a0\ufe0f [ARCHIVED 2026] The repository is archived (read-only); the author's work moved to the commercial Lovable / gptengineer.app product. GPT-Engineer was an AI tool to specify software in natural language and auto-generate and run the code.",
       "project_is_open_source": true,
       "sources": [
         {
@@ -1544,7 +1544,7 @@
     },
     {
       "project": "AgentGPT by Reworkd",
-      "project_description": "AgentGPT allows users to configure and deploy autonomous AI agents, enabling them to name their own custom AI and guide it towards any desired goal through task execution and learning",
+      "project_description": "\u26a0\ufe0f [ARCHIVED 2026] The repository is archived (read-only) and no longer maintained. AgentGPT let users configure and deploy autonomous AI agents in the browser \u2014 name a custom AI and guide it toward a goal via task execution and learning.",
       "project_is_open_source": true,
       "sources": [
         {
@@ -1778,7 +1778,7 @@
     },
     {
       "project": "SuperAGI",
-      "project_description": "SuperAGI is an open-source framework facilitating the development, management, and operation of useful Autonomous AI Agents with a variety of features and toolkits available, including a graphical user interface, action console, and multiple vector databases",
+      "project_description": "\u26a0\ufe0f [INACTIVE 2026] Effectively abandoned \u2014 no commits in ~18 months (last push Jan 2025). SuperAGI was an open-source framework for developing, managing and running autonomous AI agents, with a GUI, action console and multiple vector-DB integrations.",
       "project_is_open_source": true,
       "sources": [
         {
@@ -2112,7 +2112,7 @@
     },
     {
       "project": "LoopGPT",
-      "project_description": "LoopGPT is a modular auto-GPT framework with features such as a 'Plug N Play' API, GPT 3.5 compatibility, minimal prompt overhead, human-in-the-loop capability, and full state serialization, facilitating easy installation and usage through Python code, CLI, or Docker, with the ability to add custom tools and course correction, along with saving and loading agent state, requiring Python 3.8+ and an OpenAI API Key, and optional setup for Google search support",
+      "project_description": "\u26a0\ufe0f [PIVOTED 2026] The original repo now redirects to vitalops/openvibe \u2014 the LoopGPT framework as such is no longer developed under this name. LoopGPT was a modular auto-GPT framework with a plug-n-play API, human-in-the-loop, custom tools and full agent-state serialization (Python 3.8+).",
       "project_is_open_source": true,
       "sources": [
         {
@@ -4655,6 +4655,100 @@
       "categories": [
         "Long-Term Memory"
       ]
+    },
+    {
+      "project": "GitHub MCP Server",
+      "project_description": "GitHub's official Model Context Protocol server, letting agents interact with repositories, issues, pull requests, Actions and code security through the MCP standard.",
+      "project_is_open_source": true,
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/github/github-mcp-server",
+          "stars_last_updated": "2026-07-24T00:34:29.245324",
+          "stars": 31661
+        },
+        {
+          "source": "docs",
+          "source_url": "https://docs.github.com/en/copilot/customizing-copilot/using-model-context-protocol/using-the-github-mcp-server"
+        }
+      ],
+      "categories": [
+        "MCP Servers",
+        "Tool Calling (Function Calling)"
+      ]
+    },
+    {
+      "project": "Playwright MCP",
+      "project_description": "Microsoft's MCP server for browser automation via Playwright, giving agents structured, accessibility-tree-based control of a real browser without screenshots or vision models.",
+      "project_is_open_source": true,
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/microsoft/playwright-mcp",
+          "stars_last_updated": "2026-07-24T00:34:30.127782",
+          "stars": 35441
+        }
+      ],
+      "categories": [
+        "MCP Servers",
+        "Web Browsing Frameworks"
+      ]
+    },
+    {
+      "project": "Context7",
+      "project_description": "Upstash's MCP server that pulls up-to-date, version-specific documentation and code examples for libraries directly into an agent's context, reducing hallucinated APIs.",
+      "project_is_open_source": true,
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/upstash/context7",
+          "stars_last_updated": "2026-07-24T00:34:30.992847",
+          "stars": 59648
+        },
+        {
+          "source": "website",
+          "source_url": "https://context7.com/"
+        }
+      ],
+      "categories": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "project": "Serena",
+      "project_description": "A coding-agent toolkit exposed as an MCP server, adding semantic, language-server-powered code retrieval and editing (symbol-level) to any MCP-compatible agent or IDE.",
+      "project_is_open_source": true,
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/oraios/serena",
+          "stars_last_updated": "2026-07-24T00:34:32.922970",
+          "stars": 26796
+        }
+      ],
+      "categories": [
+        "MCP Servers"
+      ]
+    },
+    {
+      "project": "Awesome MCP Servers",
+      "project_description": "A large community-curated directory of Model Context Protocol servers across databases, browsers, cloud, dev-tools and more \u2014 the go-to index for discovering MCP integrations.",
+      "project_is_open_source": true,
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "stars_last_updated": "2026-07-24T00:34:33.781852",
+          "stars": 91276
+        },
+        {
+          "source": "website",
+          "source_url": "https://glama.ai/mcp/servers"
+        }
+      ],
+      "categories": [
+        "MCP Servers"
+      ]
     }
   ],
   "categories": [
@@ -4737,6 +4831,11 @@
       "category": "Standardization",
       "category_description": "protocols or standardized ways of interacting with AI agents",
       "emoji": "\ud83d\udccf"
+    },
+    {
+      "category": "MCP Servers",
+      "category_description": "Model Context Protocol (MCP) servers that expose tools and data sources to AI agents through the open MCP standard",
+      "emoji": "\ud83d\udd0c"
     },
     {
       "category": "Bitcoin",
