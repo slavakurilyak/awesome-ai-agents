@@ -1491,6 +1491,15 @@
   categories:
     - "Evaluation Frameworks"
 
+- project: "whatbroke"
+  project_description: "whatbroke is an open-source CLI that diffs an AI agent's behavior between two recorded runs, reporting dropped tool calls, drifted arguments, cost and latency regressions, and outcome flips after a model swap or prompt change, with multi-sample rates that filter out baseline flakiness"
+  project_is_open_source: true
+  sources:
+    - source: "github"
+      source_url: "https://github.com/arthi-arumugam-git/whatbroke"
+  categories:
+    - "Evaluation Frameworks"
+
 - project: "LangSmith by LangChain"
   project_description: "LangSmith provides tools for debugging, testing, evaluating, and monitoring LLM applications, integrating seamlessly with LangChain for comprehensive AI agent observability"
   project_is_open_source: true

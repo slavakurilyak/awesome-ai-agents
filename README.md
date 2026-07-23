@@ -2383,6 +2383,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://x.com/AlexReibman/status/1772777493122163107">demo</a></p>
 </div>
 
+### whatbroke
+<div><a href="https://github.com/arthi-arumugam-git/whatbroke"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/arthi-arumugam-git/whatbroke"><img src="https://img.shields.io/github/stars/arthi-arumugam-git/whatbroke?style=social" alt="GitHub stars"></a></div>
+<p>⭐ 1 stars (Updated: 2026-07-23)</p>
+<p>📊 Evaluation Frameworks</p>
+
+<p>whatbroke is an open-source CLI that diffs an AI agent's behavior between two recorded runs, reporting dropped tool calls, drifted arguments, cost and latency regressions, and outcome flips after a model swap or prompt change, with multi-sample rates that filter out baseline flakiness</p>
+
+<p><a href="https://github.com/arthi-arumugam-git/whatbroke">github</a></p>
+</div>
+
 ### XAgent
 <div><a href="https://github.com/OpenBMB/XAgent"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/OpenBMB/XAgent"><img src="https://img.shields.io/github/stars/OpenBMB/XAgent?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 8,404 stars (Updated: 2025-07-30)</p>
