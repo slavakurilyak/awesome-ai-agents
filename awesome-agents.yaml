@@ -123,6 +123,17 @@
   categories:
     - "AI Agents"
 
+- project: "The Agentic Leaderboard"
+  project_description: "Weekly auto-updated benchmark ranking the top 100 open-source AI agents on reliability, tool selection quality, autonomous iteration, and community mindshare, with open CC-BY data, longitudinal rank history, and a public methodology"
+  project_is_open_source: false
+  sources:
+    - source: "website"
+      source_url: "https://www.theagenticleaderboard.com"
+    - source: "github"
+      source_url: "https://github.com/ifyoubuildit/the-agentic-leaderboard-data"
+  categories:
+    - "AI Agents"
+
 - project: "vimGPT"
   project_description: "vimGPT is a project that integrates GPT-4V's vision capabilities with the Vimium extension to enable web browsing and interaction through keyboard navigation and voice commands, offering innovative solutions and improvements for accessibility and efficiency"
   project_is_open_source: true
