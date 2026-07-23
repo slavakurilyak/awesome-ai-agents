@@ -100,14 +100,14 @@
     },
     {
       "project": "OpenDevin",
-      "project_description": "OpenDevin is an open-source initiative aimed at replicating and enhancing the autonomous AI software engineer Devin, focusing on collaboration and complex task execution in software development, emphasizing its relevance to advancing agentic AI technologies",
+      "project_description": "\u26a0\ufe0f [RENAMED 2026] OpenDevin has been renamed to OpenHands (maintained by All Hands AI) \u2014 see the OpenHands entry for the current project. Originally an open-source initiative to replicate and enhance the autonomous AI software engineer Devin, focusing on complex software-development task execution.",
       "project_is_open_source": true,
       "sources": [
         {
           "source": "github",
           "source_url": "https://github.com/OpenDevin/OpenDevin",
-          "stars_last_updated": "2025-07-30T17:24:09.008997",
-          "stars": 61429
+          "stars_last_updated": "2026-07-24T00:20:21.432787",
+          "stars": 81851
         },
         {
           "source": "github profile",
@@ -126,8 +126,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/stitionai/devika",
-          "stars_last_updated": "2025-07-30T17:24:09.752904",
-          "stars": 19431
+          "stars_last_updated": "2026-07-24T00:20:22.174022",
+          "stars": 19544
         },
         {
           "source": "demo",
@@ -150,8 +150,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/semanser/codel",
-          "stars_last_updated": "2025-07-30T17:24:10.239443",
-          "stars": 2372
+          "stars_last_updated": "2026-07-24T00:20:22.855038",
+          "stars": 2461
         },
         {
           "source": "announcement",
@@ -170,8 +170,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/Pythagora-io/gpt-pilot",
-          "stars_last_updated": "2025-07-30T17:24:10.798780",
-          "stars": 33246
+          "stars_last_updated": "2026-07-24T00:20:23.567924",
+          "stars": 33725
         },
         {
           "source": "discord",
@@ -190,8 +190,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/entropy-research/Devon",
-          "stars_last_updated": "2025-07-30T17:24:11.319246",
-          "stars": 3443
+          "stars_last_updated": "2026-07-24T00:20:24.260476",
+          "stars": 3451
         }
       ],
       "categories": [
@@ -206,8 +206,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/unit-mesh/auto-dev",
-          "stars_last_updated": "2025-07-30T17:24:11.933859",
-          "stars": 4039
+          "stars_last_updated": "2026-07-24T00:20:25.327606",
+          "stars": 4518
         },
         {
           "source": "docs",
@@ -226,8 +226,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/ishan0102/vimGPT",
-          "stars_last_updated": "2025-07-30T17:24:12.411138",
-          "stars": 2669
+          "stars_last_updated": "2026-07-24T00:20:26.007996",
+          "stars": 2651
         },
         {
           "source": "demo",
@@ -278,8 +278,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/onepointconsulting/data-questionnaire-agent",
-          "stars_last_updated": "2025-07-30T17:24:12.912333",
-          "stars": 67
+          "stars_last_updated": "2026-07-24T00:20:26.659068",
+          "stars": 72
         }
       ],
       "categories": [
@@ -398,8 +398,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/sullyo/fingen",
-          "stars_last_updated": "2025-07-30T17:24:13.418391",
-          "stars": 100
+          "stars_last_updated": "2026-07-24T00:20:27.286775",
+          "stars": 106
         }
       ],
       "categories": [
@@ -414,8 +414,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/OthersideAI/self-operating-computer",
-          "stars_last_updated": "2025-07-30T17:24:13.967047",
-          "stars": 9808
+          "stars_last_updated": "2026-07-24T00:20:27.971031",
+          "stars": 10250
         },
         {
           "source": "github profile",
@@ -466,8 +466,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/OpenInterpreter/open-interpreter",
-          "stars_last_updated": "2025-07-30T17:24:14.577400",
-          "stars": 60095
+          "stars_last_updated": "2026-07-24T00:20:28.960951",
+          "stars": 67204
         }
       ],
       "categories": [
@@ -496,8 +496,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/RayVentura/ShortGPT",
-          "stars_last_updated": "2025-07-30T17:24:15.074336",
-          "stars": 6679
+          "stars_last_updated": "2026-07-24T00:20:29.645159",
+          "stars": 7720
         },
         {
           "source": "github profile",
@@ -530,8 +530,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/gpt-engineer-org/gpt-engineer",
-          "stars_last_updated": "2025-07-30T17:24:15.806563",
-          "stars": 54614
+          "stars_last_updated": "2026-07-24T00:20:30.607450",
+          "stars": 55199
         },
         {
           "source": "github profile",
@@ -554,8 +554,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/OthersideAI/self-operating-computer",
-          "stars_last_updated": "2025-07-30T17:24:16.308172",
-          "stars": 9808
+          "stars_last_updated": "2026-07-24T00:20:31.287913",
+          "stars": 10250
         },
         {
           "source": "github profile",
@@ -592,8 +592,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/Significant-Gravitas/AutoGPT",
-          "stars_last_updated": "2025-07-30T17:24:16.926573",
-          "stars": 177350
+          "stars_last_updated": "2026-07-24T00:20:32.058389",
+          "stars": 185657
         },
         {
           "source": "github profile",
@@ -628,14 +628,14 @@
     },
     {
       "project": "BabyAGI",
-      "project_description": "BabyAGI exemplifies an AI-powered task management system utilizing OpenAI and vector databases like Chroma or Weaviate, creating, prioritizing, and executing tasks based on previous outcomes and predefined objectives, with the main function involving an infinite loop where tasks are processed, enriched, and stored using OpenAI's NLP capabilities and Chroma/Weaviate, inspired by the Task-Driven Autonomous Agent concept",
+      "project_description": "\u26a0\ufe0f [LEGACY 2026] Historically important but experimental and no longer actively developed as a framework (the original repo is effectively archived; the author's work moved to a newer 'babyagi' experimental function-framework). BabyAGI was an early AI-powered task-management loop using OpenAI plus a vector DB (Chroma/Weaviate) to create, prioritize and execute tasks toward an objective \u2014 a seminal Task-Driven Autonomous Agent demo, not a production framework.",
       "project_is_open_source": true,
       "sources": [
         {
           "source": "github",
           "source_url": "https://github.com/yoheinakajima/babyagi",
-          "stars_last_updated": "2025-07-30T17:24:17.446519",
-          "stars": 21686
+          "stars_last_updated": "2026-07-24T00:20:32.685258",
+          "stars": 22337
         },
         {
           "source": "github profile",
@@ -654,8 +654,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/assafelovic/gpt-researcher",
-          "stars_last_updated": "2025-07-30T17:24:17.912684",
-          "stars": 22597
+          "stars_last_updated": "2026-07-24T00:20:33.308577",
+          "stars": 28589
         },
         {
           "source": "github profile",
@@ -674,8 +674,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/rotemweiss57/gpt-newspaper",
-          "stars_last_updated": "2025-07-30T17:24:18.407518",
-          "stars": 1345
+          "stars_last_updated": "2026-07-24T00:20:33.949349",
+          "stars": 1468
         },
         {
           "source": "github profile",
@@ -712,8 +712,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/mayt/BrowserGPT",
-          "stars_last_updated": "2025-07-30T17:24:18.906250",
-          "stars": 419
+          "stars_last_updated": "2026-07-24T00:20:34.590202",
+          "stars": 420
         },
         {
           "source": "github profile",
@@ -764,8 +764,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/calcom/cal.com/tree/main/apps/ai",
-          "stars_last_updated": "2025-07-30T17:24:19.472244",
-          "stars": 37384
+          "stars_last_updated": "2026-07-24T00:20:35.603425",
+          "stars": 46721
         }
       ],
       "categories": [
@@ -780,8 +780,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/BloopAI/bloop",
-          "stars_last_updated": "2025-07-30T17:24:20.064002",
-          "stars": 9480
+          "stars_last_updated": "2026-07-24T00:20:36.288014",
+          "stars": 9510
         }
       ],
       "categories": [
@@ -801,7 +801,8 @@
           "source": "github",
           "source_url": "https://github.com/sourcegraph/cody",
           "stars_last_updated": "2025-07-30T17:24:20.683864",
-          "stars": 3793
+          "stars": 3793,
+          "badge": "badge not found"
         }
       ],
       "categories": [
@@ -816,8 +817,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/TabbyML/tabby",
-          "stars_last_updated": "2025-07-30T17:24:21.211203",
-          "stars": 31853
+          "stars_last_updated": "2026-07-24T00:20:37.571775",
+          "stars": 33787
         },
         {
           "source": "website",
@@ -840,8 +841,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/continuedev/continue",
-          "stars_last_updated": "2025-07-30T17:24:21.712517",
-          "stars": 27982
+          "stars_last_updated": "2026-07-24T00:20:38.238428",
+          "stars": 35063
         },
         {
           "source": "website",
@@ -878,8 +879,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/sweepai/sweep",
-          "stars_last_updated": "2025-07-30T17:24:22.279896",
-          "stars": 7577
+          "stars_last_updated": "2026-07-24T00:20:38.980505",
+          "stars": 7703
         },
         {
           "source": "website",
@@ -916,8 +917,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/paul-gauthier/aider",
-          "stars_last_updated": "2025-07-30T17:24:23.066600",
-          "stars": 36185
+          "stars_last_updated": "2026-07-24T00:20:40.168556",
+          "stars": 47638
         }
       ],
       "categories": [
@@ -950,8 +951,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/tonykipkemboi/trip_planner_agent",
-          "stars_last_updated": "2025-07-30T17:24:23.593639",
-          "stars": 133
+          "stars_last_updated": "2026-07-24T00:20:41.015246",
+          "stars": 143
         }
       ],
       "categories": [
@@ -966,8 +967,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/OpenBMB/XAgent",
-          "stars_last_updated": "2025-07-30T17:24:24.118317",
-          "stars": 8404
+          "stars_last_updated": "2026-07-24T00:20:41.715573",
+          "stars": 8524
         },
         {
           "source": "demo",
@@ -1042,8 +1043,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/mshumer/ai-researcher",
-          "stars_last_updated": "2025-07-30T17:24:24.634259",
-          "stars": 932
+          "stars_last_updated": "2026-07-24T00:20:42.372514",
+          "stars": 948
         },
         {
           "source": "announcement",
@@ -1088,8 +1089,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/allenai/clin",
-          "stars_last_updated": "2025-07-30T17:24:25.280267",
-          "stars": 83
+          "stars_last_updated": "2026-07-24T00:20:43.070700",
+          "stars": 89
         },
         {
           "source": "research paper",
@@ -1122,8 +1123,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/statelyai/agent/",
-          "stars_last_updated": "2025-07-30T17:24:25.845758",
-          "stars": 299
+          "stars_last_updated": "2026-07-24T00:20:43.804920",
+          "stars": 417
         },
         {
           "source": "website",
@@ -1218,8 +1219,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/cpacker/MemGPT/",
-          "stars_last_updated": "2025-07-30T17:24:26.615851",
-          "stars": 17568
+          "stars_last_updated": "2026-07-24T00:20:44.806098",
+          "stars": 23932
         }
       ],
       "categories": [
@@ -1238,8 +1239,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/getzep/zep/",
-          "stars_last_updated": "2025-07-30T17:24:27.205554",
-          "stars": 3447
+          "stars_last_updated": "2026-07-24T00:20:45.509071",
+          "stars": 4773
         }
       ],
       "categories": [
@@ -1254,8 +1255,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/kyegomez/swarms/",
-          "stars_last_updated": "2025-07-30T17:24:27.749057",
-          "stars": 5068
+          "stars_last_updated": "2026-07-24T00:20:46.139810",
+          "stars": 6979
         },
         {
           "source": "discord",
@@ -1300,8 +1301,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/agentic-ai/enact",
-          "stars_last_updated": "2025-07-30T17:24:28.323492",
-          "stars": 113
+          "stars_last_updated": "2026-07-24T00:20:46.908495",
+          "stars": 120
         }
       ],
       "categories": [
@@ -1316,8 +1317,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/allenai/lumos",
-          "stars_last_updated": "2025-07-30T17:24:28.875021",
-          "stars": 467
+          "stars_last_updated": "2026-07-24T00:20:47.602361",
+          "stars": 478
         },
         {
           "source": "website",
@@ -1336,8 +1337,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/TaskingAI/TaskingAI",
-          "stars_last_updated": "2025-07-30T17:24:29.411643",
-          "stars": 5274
+          "stars_last_updated": "2026-07-24T00:20:48.254523",
+          "stars": 5394
         },
         {
           "source": "website",
@@ -1356,8 +1357,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/smartcomputer-ai/agent-os",
-          "stars_last_updated": "2025-07-30T17:24:29.893282",
-          "stars": 125
+          "stars_last_updated": "2026-07-24T00:20:48.943968",
+          "stars": 200
         }
       ],
       "categories": [
@@ -1372,8 +1373,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/zjunlp/AutoAct",
-          "stars_last_updated": "2025-07-30T17:24:30.425920",
-          "stars": 229
+          "stars_last_updated": "2026-07-24T00:20:49.603321",
+          "stars": 238
         },
         {
           "source": "website",
@@ -1392,8 +1393,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/princeton-nlp/SWE-agent",
-          "stars_last_updated": "2025-07-30T17:24:31.261652",
-          "stars": 16847
+          "stars_last_updated": "2026-07-24T00:20:50.608407",
+          "stars": 19898
         },
         {
           "source": "website",
@@ -1430,8 +1431,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/axflow/axflow",
-          "stars_last_updated": "2025-07-30T17:24:31.818495",
-          "stars": 1122
+          "stars_last_updated": "2026-07-24T00:20:51.319214",
+          "stars": 1119
         }
       ],
       "categories": [
@@ -1446,8 +1447,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/Josh-XT/AGiXT",
-          "stars_last_updated": "2025-07-30T17:24:32.360785",
-          "stars": 3052
+          "stars_last_updated": "2026-07-24T00:20:51.962396",
+          "stars": 3206
         },
         {
           "source": "website",
@@ -1466,8 +1467,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/topoteretes/cognee",
-          "stars_last_updated": "2025-07-30T17:24:32.934961",
-          "stars": 6513
+          "stars_last_updated": "2026-07-24T00:20:52.716961",
+          "stars": 29212
         }
       ],
       "categories": [
@@ -1482,8 +1483,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/HumanSignal/Adala",
-          "stars_last_updated": "2025-07-30T17:24:33.478814",
-          "stars": 1228
+          "stars_last_updated": "2026-07-24T00:20:53.413079",
+          "stars": 1615
         }
       ],
       "categories": [
@@ -1530,8 +1531,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/reworkd/tarsier",
-          "stars_last_updated": "2025-07-30T17:24:34.023649",
-          "stars": 1713
+          "stars_last_updated": "2026-07-24T00:20:54.130780",
+          "stars": 1762
         },
         {
           "source": "website",
@@ -1550,8 +1551,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/reworkd/AgentGPT",
-          "stars_last_updated": "2025-07-30T17:24:34.670109",
-          "stars": 34613
+          "stars_last_updated": "2026-07-24T00:20:54.837003",
+          "stars": 36285
         },
         {
           "source": "github profile",
@@ -1570,8 +1571,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/agentlabs-inc/agentlabs",
-          "stars_last_updated": "2025-07-30T17:24:35.446142",
-          "stars": 498
+          "stars_last_updated": "2026-07-24T00:20:56.141679",
+          "stars": 554
         },
         {
           "source": "website",
@@ -1594,8 +1595,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/VRSEN/agency-swarm",
-          "stars_last_updated": "2025-07-30T17:24:35.932491",
-          "stars": 3729
+          "stars_last_updated": "2026-07-24T00:20:57.001655",
+          "stars": 4496
         }
       ],
       "categories": [
@@ -1624,8 +1625,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/langchain-ai/langchain",
-          "stars_last_updated": "2025-07-30T17:24:36.483836",
-          "stars": 112549
+          "stars_last_updated": "2026-07-24T00:20:57.732091",
+          "stars": 142437
         }
       ],
       "categories": [
@@ -1640,8 +1641,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/langchain-ai/langchainjs",
-          "stars_last_updated": "2025-07-30T17:24:37.033843",
-          "stars": 15289
+          "stars_last_updated": "2026-07-24T00:20:58.443443",
+          "stars": 17976
         }
       ],
       "categories": [
@@ -1656,8 +1657,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/langchain-ai/langgraph",
-          "stars_last_updated": "2025-07-30T17:24:37.759179",
-          "stars": 16529
+          "stars_last_updated": "2026-07-24T00:20:59.118840",
+          "stars": 37948
         }
       ],
       "categories": [
@@ -1672,8 +1673,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/langchain-ai/langgraphjs",
-          "stars_last_updated": "2025-07-30T17:24:38.315858",
-          "stars": 1842
+          "stars_last_updated": "2026-07-24T00:20:59.822897",
+          "stars": 3135
         }
       ],
       "categories": [
@@ -1688,8 +1689,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/langchain-ai/opengpts",
-          "stars_last_updated": "2025-07-30T17:24:38.871032",
-          "stars": 6673
+          "stars_last_updated": "2026-07-24T00:21:00.548243",
+          "stars": 6739
         }
       ],
       "categories": [
@@ -1704,8 +1705,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/langchain-ai/langserve",
-          "stars_last_updated": "2025-07-30T17:24:39.478624",
-          "stars": 2137
+          "stars_last_updated": "2026-07-24T00:21:01.245981",
+          "stars": 2330
         }
       ],
       "categories": [
@@ -1714,14 +1715,14 @@
     },
     {
       "project": "AutoGen by Microsoft",
-      "project_description": "AutoGen is a multi-agent conversation framework facilitating the development of next-gen LLM applications, highlighted by various accomplishments and offering enhanced LLM inferences, customizable agents, and comprehensive documentation",
+      "project_description": "\u26a0\ufe0f [SUPERSEDED 2026] The standalone AutoGen has been merged with Semantic Kernel into the Microsoft Agent Framework (v1.0, April 2026) \u2014 see that entry for the actively developed successor. AutoGen was a multi-agent conversation framework for next-gen LLM applications, offering customizable agents and enhanced LLM inference.",
       "project_is_open_source": true,
       "sources": [
         {
           "source": "github",
           "source_url": "https://github.com/microsoft/autogen",
-          "stars_last_updated": "2025-07-30T17:24:40.221282",
-          "stars": 48077
+          "stars_last_updated": "2026-07-24T00:21:01.998341",
+          "stars": 59919
         },
         {
           "source": "video",
@@ -1734,14 +1735,14 @@
     },
     {
       "project": "AutoGen Studio by Microsoft",
-      "project_description": "AutoGen Studio 2.0 is Microsoft's advanced AI development tool, offering a user-friendly interface, powerful Python API, and comprehensive features for creating and controlling AI agents and workflows",
+      "project_description": "\u26a0\ufe0f [SUPERSEDED 2026] Rolled into the Microsoft Agent Framework (merger of AutoGen + Semantic Kernel, 2026) \u2014 see that entry. AutoGen Studio 2.0 was Microsoft's low-code UI and Python API for creating and controlling AI agents and workflows.",
       "project_is_open_source": true,
       "sources": [
         {
           "source": "github",
           "source_url": "https://github.com/microsoft/autogen",
-          "stars_last_updated": "2025-07-30T17:24:40.921802",
-          "stars": 48077
+          "stars_last_updated": "2026-07-24T00:21:02.748202",
+          "stars": 59919
         },
         {
           "source": "website",
@@ -1768,8 +1769,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/microsoft/JARVIS",
-          "stars_last_updated": "2025-07-30T17:24:41.649978",
-          "stars": 24248
+          "stars_last_updated": "2026-07-24T00:21:03.632624",
+          "stars": 25081
         }
       ],
       "categories": [
@@ -1784,8 +1785,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/TransformerOptimus/SuperAGI",
-          "stars_last_updated": "2025-07-30T17:24:42.783653",
-          "stars": 16585
+          "stars_last_updated": "2026-07-24T00:21:04.361864",
+          "stars": 17634
         },
         {
           "source": "github profile",
@@ -1804,8 +1805,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/OpenBMB/ChatDev",
-          "stars_last_updated": "2025-07-30T17:24:43.329354",
-          "stars": 27226
+          "stars_last_updated": "2026-07-24T00:21:05.023473",
+          "stars": 33809
         },
         {
           "source": "github profile",
@@ -1824,8 +1825,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/geekan/MetaGPT",
-          "stars_last_updated": "2025-07-30T17:24:44.151871",
-          "stars": 57568
+          "stars_last_updated": "2026-07-24T00:21:06.265900",
+          "stars": 69490
         },
         {
           "source": "github profile",
@@ -1844,8 +1845,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/deepset-ai/haystack",
-          "stars_last_updated": "2025-07-30T17:24:44.713815",
-          "stars": 21701
+          "stars_last_updated": "2026-07-24T00:21:06.968623",
+          "stars": 25990
         },
         {
           "source": "github profile",
@@ -1864,8 +1865,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/joaomdmoura/crewai",
-          "stars_last_updated": "2025-07-30T17:24:45.539869",
-          "stars": 35054
+          "stars_last_updated": "2026-07-24T00:21:08.265130",
+          "stars": 56033
         },
         {
           "source": "github profile",
@@ -1898,8 +1899,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/eosphoros-ai/DB-GPT",
-          "stars_last_updated": "2025-07-30T17:24:46.096153",
-          "stars": 17056
+          "stars_last_updated": "2026-07-24T00:21:09.178510",
+          "stars": 19545
         },
         {
           "source": "github profile",
@@ -1918,8 +1919,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/kuafuai/DevOpsGPT",
-          "stars_last_updated": "2025-07-30T17:24:46.706938",
-          "stars": 5951
+          "stars_last_updated": "2026-07-24T00:21:09.890470",
+          "stars": 5960
         },
         {
           "source": "github profile",
@@ -1938,8 +1939,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/e2b-dev/E2B",
-          "stars_last_updated": "2025-07-30T17:24:47.311156",
-          "stars": 9112
+          "stars_last_updated": "2026-07-24T00:21:10.683266",
+          "stars": 13081
         },
         {
           "source": "github profile",
@@ -1958,8 +1959,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/aiwaves-cn/agents",
-          "stars_last_updated": "2025-07-30T17:24:47.812263",
-          "stars": 5666
+          "stars_last_updated": "2026-07-24T00:21:11.373044",
+          "stars": 5954
         },
         {
           "source": "github profile",
@@ -1978,8 +1979,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/camel-ai/camel",
-          "stars_last_updated": "2025-07-30T17:24:48.364447",
-          "stars": 13571
+          "stars_last_updated": "2026-07-24T00:21:12.041393",
+          "stars": 17472
         },
         {
           "source": "github profile",
@@ -1998,8 +1999,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/superagent-ai/superagent",
-          "stars_last_updated": "2025-07-30T17:24:48.914019",
-          "stars": 6062
+          "stars_last_updated": "2026-07-24T00:21:12.756286",
+          "stars": 6679
         },
         {
           "source": "github profile",
@@ -2018,8 +2019,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/OpenBMB/AgentVerse",
-          "stars_last_updated": "2025-07-30T17:24:49.425824",
-          "stars": 4680
+          "stars_last_updated": "2026-07-24T00:21:13.434505",
+          "stars": 5087
         },
         {
           "source": "github profile",
@@ -2038,8 +2039,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/101dotxyz/GPTeam",
-          "stars_last_updated": "2025-07-30T17:24:49.971840",
-          "stars": 1696
+          "stars_last_updated": "2026-07-24T00:21:14.124687",
+          "stars": 1719
         },
         {
           "source": "github profile",
@@ -2058,8 +2059,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/langchain-ai/streamlit-agent",
-          "stars_last_updated": "2025-07-30T17:24:50.525470",
-          "stars": 1520
+          "stars_last_updated": "2026-07-24T00:21:14.819810",
+          "stars": 1641
         },
         {
           "source": "github profile",
@@ -2078,8 +2079,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/agiresearch/OpenAGI",
-          "stars_last_updated": "2025-07-30T17:24:51.051064",
-          "stars": 2175
+          "stars_last_updated": "2026-07-24T00:21:15.558886",
+          "stars": 2277
         },
         {
           "source": "github profile",
@@ -2098,8 +2099,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/agiresearch/AIOS",
-          "stars_last_updated": "2025-07-30T17:24:51.612322",
-          "stars": 4439
+          "stars_last_updated": "2026-07-24T00:21:16.251496",
+          "stars": 6124
         },
         {
           "source": "github profile",
@@ -2118,8 +2119,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/farizrahman4u/loopgpt",
-          "stars_last_updated": "2025-07-30T17:24:52.084510",
-          "stars": 1458
+          "stars_last_updated": "2026-07-24T00:21:17.283949",
+          "stars": 1453
         },
         {
           "source": "github profile",
@@ -2138,8 +2139,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/fetchai/uAgents",
-          "stars_last_updated": "2025-07-30T17:24:52.710017",
-          "stars": 1468
+          "stars_last_updated": "2026-07-24T00:21:18.031395",
+          "stars": 1640
         },
         {
           "source": "github profile",
@@ -2176,8 +2177,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/FlowiseAI/Flowise",
-          "stars_last_updated": "2025-07-30T17:24:53.378425",
-          "stars": 42100
+          "stars_last_updated": "2026-07-24T00:21:18.749485",
+          "stars": 54864
         },
         {
           "source": "website",
@@ -2204,8 +2205,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/lobehub/lobe-chat",
-          "stars_last_updated": "2025-07-30T17:24:53.957322",
-          "stars": 63923
+          "stars_last_updated": "2026-07-24T00:21:19.807463",
+          "stars": 80733
         },
         {
           "source": "website",
@@ -2224,8 +2225,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/xingyaoww/code-act",
-          "stars_last_updated": "2025-07-30T17:24:54.454303",
-          "stars": 1312
+          "stars_last_updated": "2026-07-24T00:21:20.477484",
+          "stars": 1689
         }
       ],
       "categories": [
@@ -2240,8 +2241,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/bazed-ai/bazed-af",
-          "stars_last_updated": "2025-07-30T17:24:55.223654",
-          "stars": 73
+          "stars_last_updated": "2026-07-24T00:21:21.489742",
+          "stars": 78
         },
         {
           "source": "website",
@@ -2264,8 +2265,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/gmpetrov/databerry/",
-          "stars_last_updated": "2025-07-30T17:24:55.706448",
-          "stars": 2935
+          "stars_last_updated": "2026-07-24T00:21:22.181889",
+          "stars": 2962
         }
       ],
       "categories": [
@@ -2306,8 +2307,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/steamship-core/python-client",
-          "stars_last_updated": "2025-07-30T17:24:56.302022",
-          "stars": 324
+          "stars_last_updated": "2026-07-24T00:21:22.948344",
+          "stars": 321
         },
         {
           "source": "website",
@@ -2364,8 +2365,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/MervinPraison/PraisonAI/",
-          "stars_last_updated": "2025-07-30T17:24:56.784015",
-          "stars": 5237
+          "stars_last_updated": "2026-07-24T00:21:23.598522",
+          "stars": 8508
         },
         {
           "source": "demo",
@@ -2530,8 +2531,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/langfuse/langfuse",
-          "stars_last_updated": "2025-07-30T17:24:57.341594",
-          "stars": 14432
+          "stars_last_updated": "2026-07-24T00:21:24.354814",
+          "stars": 31739
         },
         {
           "source": "website",
@@ -2558,8 +2559,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/AgentOps-AI/agentops",
-          "stars_last_updated": "2025-07-30T17:24:57.869494",
-          "stars": 4716
+          "stars_last_updated": "2026-07-24T00:21:25.159406",
+          "stars": 5725
         },
         {
           "source": "website",
@@ -2594,8 +2595,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/reworkd/bananalyzer",
-          "stars_last_updated": "2025-07-30T17:24:58.566503",
-          "stars": 304
+          "stars_last_updated": "2026-07-24T00:21:26.572660",
+          "stars": 327
         }
       ],
       "categories": [
@@ -2610,8 +2611,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/THUDM/AgentBench",
-          "stars_last_updated": "2025-07-30T17:24:59.147641",
-          "stars": 2711
+          "stars_last_updated": "2026-07-24T00:21:27.335538",
+          "stars": 3597
         }
       ],
       "categories": [
@@ -2626,8 +2627,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/langchain-ai/langsmith-sdk",
-          "stars_last_updated": "2025-07-30T17:24:59.686341",
-          "stars": 605
+          "stars_last_updated": "2026-07-24T00:21:28.068501",
+          "stars": 984
         },
         {
           "source": "docs",
@@ -2686,8 +2687,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/Helicone/helicone",
-          "stars_last_updated": "2025-07-30T17:25:00.241548",
-          "stars": 4253
+          "stars_last_updated": "2026-07-24T00:21:28.837931",
+          "stars": 5987
         }
       ],
       "categories": [
@@ -2702,8 +2703,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/francedot/NavAIGuide-TS",
-          "stars_last_updated": "2025-07-30T17:25:00.970921",
-          "stars": 114
+          "stars_last_updated": "2026-07-24T00:21:29.888409",
+          "stars": 115
         }
       ],
       "categories": [
@@ -2718,8 +2719,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/mnotgod96/AppAgent",
-          "stars_last_updated": "2025-07-30T17:25:01.732582",
-          "stars": 6049
+          "stars_last_updated": "2026-07-24T00:21:31.017009",
+          "stars": 6820
         },
         {
           "source": "github profile",
@@ -2952,8 +2953,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/neonbjb/tortoise-tts",
-          "stars_last_updated": "2025-07-30T17:25:02.248097",
-          "stars": 14463
+          "stars_last_updated": "2026-07-24T00:21:31.638631",
+          "stars": 14866
         },
         {
           "source": "research paper",
@@ -3008,8 +3009,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/pinokiocomputer/pinokio",
-          "stars_last_updated": "2025-07-30T17:25:02.819368",
-          "stars": 5349
+          "stars_last_updated": "2026-07-24T00:21:32.506980",
+          "stars": 7780
         },
         {
           "source": "github profile",
@@ -3028,8 +3029,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/ollama/ollama",
-          "stars_last_updated": "2025-07-30T17:25:03.326042",
-          "stars": 147994
+          "stars_last_updated": "2026-07-24T00:21:33.207934",
+          "stars": 176723
         },
         {
           "source": "github profile",
@@ -3048,8 +3049,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/janhq/jan",
-          "stars_last_updated": "2025-07-30T17:25:04.206834",
-          "stars": 35212
+          "stars_last_updated": "2026-07-24T00:21:33.988927",
+          "stars": 43679
         },
         {
           "source": "github profile",
@@ -3086,8 +3087,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/lm-sys/FastChat",
-          "stars_last_updated": "2025-07-30T17:25:04.749968",
-          "stars": 38916
+          "stars_last_updated": "2026-07-24T00:21:34.734509",
+          "stars": 39501
         },
         {
           "source": "demo",
@@ -3114,8 +3115,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/zylon-ai/private-gpt/",
-          "stars_last_updated": "2025-07-30T17:25:05.269092",
-          "stars": 56373
+          "stars_last_updated": "2026-07-24T00:21:35.444985",
+          "stars": 57356
         }
       ],
       "categories": [
@@ -3130,8 +3131,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/PromtEngineer/localGPT",
-          "stars_last_updated": "2025-07-30T17:25:05.759001",
-          "stars": 21748
+          "stars_last_updated": "2026-07-24T00:21:36.079744",
+          "stars": 22205
         }
       ],
       "categories": [
@@ -3168,8 +3169,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/KhoomeiK/LlamaGym",
-          "stars_last_updated": "2025-07-30T17:25:06.274152",
-          "stars": 1208
+          "stars_last_updated": "2026-07-24T00:21:36.808471",
+          "stars": 1253
         },
         {
           "source": "github profile",
@@ -3196,8 +3197,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/AI-Engineer-Foundation/agent-protocol",
-          "stars_last_updated": "2025-07-30T17:25:07.052532",
-          "stars": 1427
+          "stars_last_updated": "2026-07-24T00:21:37.886818",
+          "stars": 1461
         },
         {
           "source": "github profile",
@@ -3220,8 +3221,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/lightninglabs/LangChainBitcoin",
-          "stars_last_updated": "2025-07-30T17:25:07.650886",
-          "stars": 141
+          "stars_last_updated": "2026-07-24T00:21:38.576143",
+          "stars": 142
         }
       ],
       "categories": [
@@ -3236,8 +3237,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/aibtcdev/agent-tools-ts",
-          "stars_last_updated": "2025-07-30T17:25:08.235718",
-          "stars": 16
+          "stars_last_updated": "2026-07-24T00:21:39.269808",
+          "stars": 17
         },
         {
           "source": "github profile",
@@ -3264,7 +3265,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/aibtcdev/ai-agent-crew",
-          "stars_last_updated": "2025-07-30T17:25:08.767224",
+          "stars_last_updated": "2026-07-24T00:21:40.061536",
           "stars": 46
         },
         {
@@ -3292,7 +3293,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/aibtcdev/gated-402-api",
-          "stars_last_updated": "2025-07-30T17:25:09.334070",
+          "stars_last_updated": "2026-07-24T00:21:40.702459",
           "stars": 1
         },
         {
@@ -3328,8 +3329,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/OpenInterpreter/01",
-          "stars_last_updated": "2025-07-30T17:25:09.932420",
-          "stars": 5080
+          "stars_last_updated": "2026-07-24T00:21:41.356890",
+          "stars": 5145
         },
         {
           "source": "website",
@@ -3366,8 +3367,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/OpenInterpreter/open-interpreter",
-          "stars_last_updated": "2025-07-30T17:25:10.523074",
-          "stars": 60095
+          "stars_last_updated": "2026-07-24T00:21:42.461301",
+          "stars": 67204
         }
       ],
       "categories": [
@@ -3386,8 +3387,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/OthersideAI/self-operating-computer",
-          "stars_last_updated": "2025-07-30T17:25:11.097640",
-          "stars": 9808
+          "stars_last_updated": "2026-07-24T00:21:43.179544",
+          "stars": 10250
         },
         {
           "source": "github profile",
@@ -3406,8 +3407,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/onuratakan/gpt-computer-assistant",
-          "stars_last_updated": "2025-07-30T17:25:11.826430",
-          "stars": 7625
+          "stars_last_updated": "2026-07-24T00:21:44.238235",
+          "stars": 7918
         }
       ],
       "categories": [
@@ -3422,8 +3423,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/guidance-ai/guidance",
-          "stars_last_updated": "2025-07-30T17:25:12.390754",
-          "stars": 20537
+          "stars_last_updated": "2026-07-24T00:21:45.014813",
+          "stars": 21691
         },
         {
           "source": "docs",
@@ -3442,7 +3443,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/ivycheck/ivycheck-python-sdk",
-          "stars_last_updated": "2025-07-30T17:25:12.939745",
+          "stars_last_updated": "2026-07-24T00:21:46.016800",
           "stars": 2
         },
         {
@@ -3466,8 +3467,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/guardrails-ai/guardrails",
-          "stars_last_updated": "2025-07-30T17:25:13.477674",
-          "stars": 5352
+          "stars_last_updated": "2026-07-24T00:21:46.696902",
+          "stars": 7194
         },
         {
           "source": "twitter",
@@ -3486,8 +3487,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/NVIDIA/NeMo-Guardrails",
-          "stars_last_updated": "2025-07-30T17:25:14.021031",
-          "stars": 4937
+          "stars_last_updated": "2026-07-24T00:21:47.841290",
+          "stars": 6778
         },
         {
           "source": "research paper",
@@ -3520,8 +3521,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/genomoncology/FuzzTypes",
-          "stars_last_updated": "2025-07-30T17:25:14.533293",
-          "stars": 222
+          "stars_last_updated": "2026-07-24T00:21:48.522737",
+          "stars": 220
         },
         {
           "source": "website",
@@ -3540,8 +3541,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/jxnl/instructor",
-          "stars_last_updated": "2025-07-30T17:25:15.311510",
-          "stars": 11088
+          "stars_last_updated": "2026-07-24T00:21:49.552993",
+          "stars": 13605
         },
         {
           "source": "website",
@@ -3560,8 +3561,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/instructor-ai/cloud",
-          "stars_last_updated": "2025-07-30T17:25:15.876682",
-          "stars": 36
+          "stars_last_updated": "2026-07-24T00:21:50.233201",
+          "stars": 38
         },
         {
           "source": "announcement",
@@ -3580,8 +3581,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/pydantic/pydantic",
-          "stars_last_updated": "2025-07-30T17:25:16.491934",
-          "stars": 24701
+          "stars_last_updated": "2026-07-24T00:21:50.973041",
+          "stars": 28362
         },
         {
           "source": "website",
@@ -3600,8 +3601,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/outlines-dev/outlines",
-          "stars_last_updated": "2025-07-30T17:25:17.358385",
-          "stars": 12182
+          "stars_last_updated": "2026-07-24T00:21:52.194063",
+          "stars": 15278
         },
         {
           "source": "website",
@@ -3624,8 +3625,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/PrefectHQ/marvin/",
-          "stars_last_updated": "2025-07-30T17:25:17.905077",
-          "stars": 5830
+          "stars_last_updated": "2026-07-24T00:21:52.972679",
+          "stars": 6181
         },
         {
           "source": "website",
@@ -3644,8 +3645,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/developersdigest/llm-answer-engine",
-          "stars_last_updated": "2025-07-30T17:25:18.367169",
-          "stars": 4911
+          "stars_last_updated": "2026-07-24T00:21:53.680129",
+          "stars": 5032
         },
         {
           "source": "github profile",
@@ -3664,8 +3665,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/AgentOps-AI/Jaiqu",
-          "stars_last_updated": "2025-07-30T17:25:19.381837",
-          "stars": 333
+          "stars_last_updated": "2026-07-24T00:21:54.388890",
+          "stars": 344
         },
         {
           "source": "demo",
@@ -3722,8 +3723,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/SakanaAI/evolutionary-model-merge/",
-          "stars_last_updated": "2025-07-30T17:25:19.971654",
-          "stars": 1353
+          "stars_last_updated": "2026-07-24T00:21:55.133754",
+          "stars": 1437
         }
       ],
       "categories": [
@@ -3738,8 +3739,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/arcee-ai/mergekit",
-          "stars_last_updated": "2025-07-30T17:25:20.529181",
-          "stars": 6120
+          "stars_last_updated": "2026-07-24T00:21:55.887822",
+          "stars": 7258
         }
       ],
       "categories": [
@@ -3788,8 +3789,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/joaomdmoura/crewai-tools",
-          "stars_last_updated": "2025-07-30T17:25:21.310956",
-          "stars": 1176
+          "stars_last_updated": "2026-07-24T00:21:57.000911",
+          "stars": 1460
         }
       ],
       "categories": [
@@ -3804,8 +3805,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/langchain-ai/langchain/",
-          "stars_last_updated": "2025-07-30T17:25:21.891282",
-          "stars": 112549
+          "stars_last_updated": "2026-07-24T00:21:57.744810",
+          "stars": 142437
         },
         {
           "source": "docs",
@@ -3824,8 +3825,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/langchain-ai/langchainjs",
-          "stars_last_updated": "2025-07-30T17:25:22.440195",
-          "stars": 15289
+          "stars_last_updated": "2026-07-24T00:21:58.481680",
+          "stars": 17976
         },
         {
           "source": "docs",
@@ -3844,8 +3845,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/run-llama/llama_index",
-          "stars_last_updated": "2025-07-30T17:25:22.954440",
-          "stars": 43398
+          "stars_last_updated": "2026-07-24T00:21:59.150502",
+          "stars": 51039
         },
         {
           "source": "website",
@@ -3868,8 +3869,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/OpenInterpreter/aifs",
-          "stars_last_updated": "2025-07-30T17:25:23.474889",
-          "stars": 433
+          "stars_last_updated": "2026-07-24T00:21:59.826954",
+          "stars": 462
         }
       ],
       "categories": [
@@ -3938,8 +3939,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/microsoft/TypeChat",
-          "stars_last_updated": "2025-07-30T17:25:24.204702",
-          "stars": 8536
+          "stars_last_updated": "2026-07-24T00:22:00.790156",
+          "stars": 8676
         }
       ],
       "categories": [
@@ -3954,8 +3955,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/npi-ai/npi",
-          "stars_last_updated": "2025-07-30T17:25:25.006776",
-          "stars": 222
+          "stars_last_updated": "2026-07-24T00:22:01.799007",
+          "stars": 228
         },
         {
           "source": "website",
@@ -3990,8 +3991,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/vercel/ai",
-          "stars_last_updated": "2025-07-30T17:25:25.562099",
-          "stars": 16133
+          "stars_last_updated": "2026-07-24T00:22:02.546414",
+          "stars": 25745
         },
         {
           "source": "github examples",
@@ -4010,8 +4011,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/sullyo/prompt2ui",
-          "stars_last_updated": "2025-07-30T17:25:26.131650",
-          "stars": 232
+          "stars_last_updated": "2026-07-24T00:22:03.197404",
+          "stars": 239
         },
         {
           "source": "twitter announcement",
@@ -4250,8 +4251,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/anysphere/priompt",
-          "stars_last_updated": "2025-07-30T17:25:27.480435",
-          "stars": 2651
+          "stars_last_updated": "2026-07-24T00:22:04.538757",
+          "stars": 2842
         }
       ],
       "categories": [
@@ -4266,8 +4267,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/eth-sri/lmql",
-          "stars_last_updated": "2025-07-30T17:25:28.042945",
-          "stars": 4017
+          "stars_last_updated": "2026-07-24T00:22:05.229698",
+          "stars": 4202
         },
         {
           "source": "website",
@@ -4315,7 +4316,8 @@
           "source": "github",
           "source_url": "https://github.com/VinciGit00/Scrapegraph-ai",
           "stars_last_updated": "2025-07-30T17:25:29.014856",
-          "stars": 20809
+          "stars": 20809,
+          "badge": "badge not found"
         },
         {
           "source": "docs",
@@ -4356,8 +4358,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/stanfordnlp/dspy",
-          "stars_last_updated": "2025-07-30T17:25:29.544873",
-          "stars": 26786
+          "stars_last_updated": "2026-07-24T00:22:06.481390",
+          "stars": 36326
         }
       ],
       "categories": [
@@ -4372,8 +4374,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/darrenburns/elia",
-          "stars_last_updated": "2025-07-30T17:25:30.063885",
-          "stars": 2238
+          "stars_last_updated": "2026-07-24T00:22:07.466423",
+          "stars": 2475
         }
       ],
       "categories": [
@@ -4402,8 +4404,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/datastax/astra-assistants-api",
-          "stars_last_updated": "2025-07-30T17:25:30.605049",
-          "stars": 203
+          "stars_last_updated": "2026-07-24T00:22:08.229568",
+          "stars": 206
         }
       ],
       "categories": [
@@ -4418,7 +4420,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/phact/streaming-assistants",
-          "stars_last_updated": "2025-07-30T17:25:31.149254",
+          "stars_last_updated": "2026-07-24T00:22:08.889672",
           "stars": 8
         }
       ],
@@ -4434,8 +4436,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/MLT-OSS/open-assistant-api",
-          "stars_last_updated": "2025-07-30T17:25:31.701456",
-          "stars": 347
+          "stars_last_updated": "2026-07-24T00:22:09.622192",
+          "stars": 364
         }
       ],
       "categories": [
@@ -4450,8 +4452,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/BerriAI/litellm",
-          "stars_last_updated": "2025-07-30T17:25:32.241819",
-          "stars": 26572
+          "stars_last_updated": "2026-07-24T00:22:10.339150",
+          "stars": 54502
         }
       ],
       "categories": [
@@ -4524,8 +4526,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/ozgrozer/chatgpt-artifacts",
-          "stars_last_updated": "2025-07-30T17:25:32.770078",
-          "stars": 508
+          "stars_last_updated": "2026-07-24T00:22:11.012297",
+          "stars": 511
         },
         {
           "source": "twitter announcement",
@@ -4544,7 +4546,7 @@
         {
           "source": "github",
           "source_url": "https://github.com/risonsimon/claude-artifacts-react",
-          "stars_last_updated": "2025-07-30T17:25:33.282743",
+          "stars_last_updated": "2026-07-24T00:22:11.710208",
           "stars": 50
         },
         {
@@ -4564,8 +4566,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/Bklieger/Claude-React-Jumpstart",
-          "stars_last_updated": "2025-07-30T17:25:33.766125",
-          "stars": 115
+          "stars_last_updated": "2026-07-24T00:22:12.344921",
+          "stars": 120
         },
         {
           "source": "twitter announcement",
@@ -4584,8 +4586,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/ykyritsis/ChatGPT-code-preview",
-          "stars_last_updated": "2025-07-30T17:25:34.288527",
-          "stars": 117
+          "stars_last_updated": "2026-07-24T00:22:12.993105",
+          "stars": 116
         }
       ],
       "categories": [
@@ -4608,8 +4610,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/e2b-dev/ai-artifacts",
-          "stars_last_updated": "2025-07-30T17:25:35.165391",
-          "stars": 5681
+          "stars_last_updated": "2026-07-24T00:22:14.109860",
+          "stars": 6350
         }
       ],
       "categories": [
@@ -4624,8 +4626,8 @@
         {
           "source": "github",
           "source_url": "https://github.com/mem0ai/mem0",
-          "stars_last_updated": "2025-07-30T17:25:35.728442",
-          "stars": 37574
+          "stars_last_updated": "2026-07-24T00:22:14.803736",
+          "stars": 61548
         },
         {
           "source": "website",
@@ -4654,6 +4656,309 @@
       ],
       "categories": [
         "Long-Term Memory"
+      ]
+    },
+    {
+      "project": "Claude Agent SDK",
+      "project_description": "Anthropic's official SDK for building autonomous agents on the same harness that powers Claude Code, with native tool-use loop, MCP support, subagents, and long-running sessions. The default choice inside the Claude ecosystem (July 2026).",
+      "project_is_open_source": true,
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/anthropics/claude-agent-sdk-python",
+          "stars_last_updated": "2026-07-24T00:22:49.719003",
+          "stars": 7703
+        },
+        {
+          "source": "docs",
+          "source_url": "https://docs.claude.com/en/api/agent-sdk/overview"
+        }
+      ],
+      "categories": [
+        "Development Frameworks",
+        "Terminal-Friendly"
+      ]
+    },
+    {
+      "project": "OpenAI Agents SDK",
+      "project_description": "OpenAI's lightweight, production-ready framework for multi-agent workflows with handoffs, guardrails, sessions and tracing. Successor to Swarm; integrates tightly with OpenAI hosted tools (web search, file search, computer use).",
+      "project_is_open_source": true,
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/openai/openai-agents-python",
+          "stars_last_updated": "2026-07-24T00:22:50.651250",
+          "stars": 28121
+        },
+        {
+          "source": "docs",
+          "source_url": "https://openai.github.io/openai-agents-python/"
+        }
+      ],
+      "categories": [
+        "Development Frameworks"
+      ]
+    },
+    {
+      "project": "Google ADK",
+      "project_description": "Google's open-source Agent Development Kit for building, evaluating and deploying multi-agent systems; model-agnostic, optimized for Gemini and Vertex AI but works with any LLM.",
+      "project_is_open_source": true,
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/google/adk-python",
+          "stars_last_updated": "2026-07-24T00:22:51.543225",
+          "stars": 20856
+        },
+        {
+          "source": "docs",
+          "source_url": "https://google.github.io/adk-docs/"
+        }
+      ],
+      "categories": [
+        "Development Frameworks"
+      ]
+    },
+    {
+      "project": "smolagents",
+      "project_description": "Hugging Face's minimalist agent framework (~1k LOC core) where agents write their actions as Python code (CodeAgent). Provider-agnostic, sandbox execution, ideal for lightweight local agents.",
+      "project_is_open_source": true,
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/huggingface/smolagents",
+          "stars_last_updated": "2026-07-24T00:22:52.404198",
+          "stars": 28506
+        },
+        {
+          "source": "docs",
+          "source_url": "https://huggingface.co/docs/smolagents"
+        }
+      ],
+      "categories": [
+        "Development Frameworks",
+        "Terminal-Friendly"
+      ]
+    },
+    {
+      "project": "Agno",
+      "project_description": "High-performance framework for building multi-agent systems with memory, knowledge and reasoning (formerly Phidata). Model- and provider-agnostic with a focus on speed and low overhead.",
+      "project_is_open_source": true,
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/agno-agi/agno",
+          "stars_last_updated": "2026-07-24T00:22:53.240531",
+          "stars": 41385
+        },
+        {
+          "source": "docs",
+          "source_url": "https://docs.agno.com/"
+        }
+      ],
+      "categories": [
+        "Development Frameworks"
+      ]
+    },
+    {
+      "project": "Strands Agents",
+      "project_description": "AWS open-source, model-driven SDK for building agents in a few lines of code; trades some control for simplicity by letting the model drive the tool loop. Provider-agnostic.",
+      "project_is_open_source": true,
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/strands-agents/sdk-python",
+          "stars_last_updated": "2026-07-24T00:24:32.987609",
+          "stars": 6676
+        },
+        {
+          "source": "docs",
+          "source_url": "https://strandsagents.com/"
+        }
+      ],
+      "categories": [
+        "Development Frameworks"
+      ]
+    },
+    {
+      "project": "Microsoft Agent Framework",
+      "project_description": "Microsoft's unified agent framework (v1.0, April 2026) merging Semantic Kernel and AutoGen into a single graph-based, enterprise-grade SDK for .NET and Python. Supersedes standalone AutoGen.",
+      "project_is_open_source": true,
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/microsoft/agent-framework",
+          "stars_last_updated": "2026-07-24T00:24:10.522332",
+          "stars": 12342
+        },
+        {
+          "source": "docs",
+          "source_url": "https://learn.microsoft.com/en-us/agent-framework/"
+        }
+      ],
+      "categories": [
+        "Development Frameworks"
+      ]
+    },
+    {
+      "project": "Mastra",
+      "project_description": "TypeScript-first agent framework covering workflows, agents, RAG, evals and observability. The TS-world counterpart to LangGraph/CrewAI, built by the Gatsby team.",
+      "project_is_open_source": true,
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/mastra-ai/mastra",
+          "stars_last_updated": "2026-07-24T00:24:12.095880",
+          "stars": 26500
+        },
+        {
+          "source": "docs",
+          "source_url": "https://mastra.ai/docs"
+        }
+      ],
+      "categories": [
+        "Development Frameworks"
+      ]
+    },
+    {
+      "project": "OpenHands",
+      "project_description": "The renamed continuation of OpenDevin (by All Hands AI): the most popular open-source autonomous software engineer, scoring ~77% on SWE-Bench Verified with Claude Sonnet 4.5. Writes code, runs tests, fixes bugs and browses the web with zero vendor lock-in.",
+      "project_is_open_source": true,
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/OpenHands/OpenHands",
+          "stars_last_updated": "2026-07-24T00:24:13.844971",
+          "stars": 81851
+        },
+        {
+          "source": "website",
+          "source_url": "https://www.openhands.dev/"
+        }
+      ],
+      "categories": [
+        "AI Agents"
+      ]
+    },
+    {
+      "project": "Model Context Protocol",
+      "project_description": "Open standard from Anthropic for connecting LLMs and agents to tools and data sources through a uniform client-server interface; now the de-facto interoperability layer adopted across major agent frameworks.",
+      "project_is_open_source": true,
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/modelcontextprotocol/servers",
+          "stars_last_updated": "2026-07-24T00:24:14.825580",
+          "stars": 88811
+        },
+        {
+          "source": "docs",
+          "source_url": "https://modelcontextprotocol.io/"
+        }
+      ],
+      "categories": [
+        "Standardization",
+        "Tool Calling (Function Calling)"
+      ]
+    },
+    {
+      "project": "browser-use",
+      "project_description": "Framework that lets AI agents control a real browser via the DOM and vision, enabling robust web automation and scraping without brittle selectors. Widely used for agentic browsing in 2026.",
+      "project_is_open_source": true,
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/browser-use/browser-use",
+          "stars_last_updated": "2026-07-24T00:24:15.699207",
+          "stars": 106350
+        },
+        {
+          "source": "docs",
+          "source_url": "https://docs.browser-use.com/"
+        }
+      ],
+      "categories": [
+        "Web Browsing Frameworks"
+      ]
+    },
+    {
+      "project": "Crawl4AI",
+      "project_description": "LLM-friendly open-source web crawler and scraper that outputs clean Markdown/structured data ready for RAG and agents; async, fast, headless-mode support.",
+      "project_is_open_source": true,
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/unclecode/crawl4ai",
+          "stars_last_updated": "2026-07-24T00:24:16.486658",
+          "stars": 74586
+        },
+        {
+          "source": "docs",
+          "source_url": "https://docs.crawl4ai.com/"
+        }
+      ],
+      "categories": [
+        "Web Browsing Frameworks"
+      ]
+    },
+    {
+      "project": "Firecrawl",
+      "project_description": "Turns entire websites into LLM-ready Markdown or structured data via crawl, scrape and extract endpoints; popular data ingestion layer for agents and RAG pipelines.",
+      "project_is_open_source": true,
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/firecrawl/firecrawl",
+          "stars_last_updated": "2026-07-24T00:24:17.331474",
+          "stars": 155029
+        },
+        {
+          "source": "website",
+          "source_url": "https://www.firecrawl.dev/"
+        }
+      ],
+      "categories": [
+        "Web Browsing Frameworks"
+      ]
+    },
+    {
+      "project": "Stagehand",
+      "project_description": "Browserbase's AI browser automation framework built on Playwright, adding natural-language act/extract/observe primitives for reliable agentic web interaction.",
+      "project_is_open_source": true,
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/browserbase/stagehand",
+          "stars_last_updated": "2026-07-24T00:24:18.251169",
+          "stars": 23616
+        },
+        {
+          "source": "docs",
+          "source_url": "https://docs.stagehand.dev/"
+        }
+      ],
+      "categories": [
+        "Web Browsing Frameworks"
+      ]
+    },
+    {
+      "project": "BAML",
+      "project_description": "BoundaryML's domain-specific language for building reliable LLM functions with type-safe, schema-aligned structured outputs and streaming; alternative to Instructor/Outlines across many languages.",
+      "project_is_open_source": true,
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/BoundaryML/baml",
+          "stars_last_updated": "2026-07-24T00:24:19.103868",
+          "stars": 8601
+        },
+        {
+          "source": "docs",
+          "source_url": "https://docs.boundaryml.com/"
+        }
+      ],
+      "categories": [
+        "Structured Outputs"
       ]
     }
   ],

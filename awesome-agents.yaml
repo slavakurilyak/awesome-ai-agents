@@ -58,7 +58,7 @@
     - "AI Agents"
 
 - project: "OpenDevin"
-  project_description: "OpenDevin is an open-source initiative aimed at replicating and enhancing the autonomous AI software engineer Devin, focusing on collaboration and complex task execution in software development, emphasizing its relevance to advancing agentic AI technologies"
+  project_description: "⚠️ [RENAMED 2026] OpenDevin has been renamed to OpenHands (maintained by All Hands AI) — see the OpenHands entry for the current project. Originally an open-source initiative to replicate and enhance the autonomous AI software engineer Devin, focusing on complex software-development task execution."
   project_is_open_source: true
   sources:
     - source: "github"
@@ -365,7 +365,7 @@
     - "AI Agents"
 
 - project: "BabyAGI"
-  project_description: "BabyAGI exemplifies an AI-powered task management system utilizing OpenAI and vector databases like Chroma or Weaviate, creating, prioritizing, and executing tasks based on previous outcomes and predefined objectives, with the main function involving an infinite loop where tasks are processed, enriched, and stored using OpenAI's NLP capabilities and Chroma/Weaviate, inspired by the Task-Driven Autonomous Agent concept"
+  project_description: "⚠️ [LEGACY 2026] Historically important but experimental and no longer actively developed as a framework (the original repo is effectively archived; the author's work moved to a newer 'babyagi' experimental function-framework). BabyAGI was an early AI-powered task-management loop using OpenAI plus a vector DB (Chroma/Weaviate) to create, prioritize and execute tasks toward an objective — a seminal Task-Driven Autonomous Agent demo, not a production framework."
   project_is_open_source: true
   sources:
     - source: "github"
@@ -985,7 +985,7 @@
     - "Development Frameworks"
 
 - project: "AutoGen by Microsoft"
-  project_description: "AutoGen is a multi-agent conversation framework facilitating the development of next-gen LLM applications, highlighted by various accomplishments and offering enhanced LLM inferences, customizable agents, and comprehensive documentation"
+  project_description: "⚠️ [SUPERSEDED 2026] The standalone AutoGen has been merged with Semantic Kernel into the Microsoft Agent Framework (v1.0, April 2026) — see that entry for the actively developed successor. AutoGen was a multi-agent conversation framework for next-gen LLM applications, offering customizable agents and enhanced LLM inference."
   project_is_open_source: true
   sources:
     - source: "github"
@@ -996,7 +996,7 @@
     - "Development Frameworks"
 
 - project: "AutoGen Studio by Microsoft"
-  project_description: "AutoGen Studio 2.0 is Microsoft's advanced AI development tool, offering a user-friendly interface, powerful Python API, and comprehensive features for creating and controlling AI agents and workflows"
+  project_description: "⚠️ [SUPERSEDED 2026] Rolled into the Microsoft Agent Framework (merger of AutoGen + Semantic Kernel, 2026) — see that entry. AutoGen Studio 2.0 was Microsoft's low-code UI and Python API for creating and controlling AI agents and workflows."
   project_is_open_source: true
   sources:
     - source: "github"
@@ -2655,3 +2655,170 @@
   categories:
     - "Long-Term Memory"
   
+- project: "Claude Agent SDK"
+  project_description: "Anthropic's official SDK for building autonomous agents on the same harness that powers Claude Code, with native tool-use loop, MCP support, subagents, and long-running sessions. The default choice inside the Claude ecosystem (July 2026)."
+  project_is_open_source: true
+  sources:
+    - source: "github"
+      source_url: "https://github.com/anthropics/claude-agent-sdk-python"
+    - source: "docs"
+      source_url: "https://docs.claude.com/en/api/agent-sdk/overview"
+  categories:
+    - "Development Frameworks"
+    - "Terminal-Friendly"
+
+- project: "OpenAI Agents SDK"
+  project_description: "OpenAI's lightweight, production-ready framework for multi-agent workflows with handoffs, guardrails, sessions and tracing. Successor to Swarm; integrates tightly with OpenAI hosted tools (web search, file search, computer use)."
+  project_is_open_source: true
+  sources:
+    - source: "github"
+      source_url: "https://github.com/openai/openai-agents-python"
+    - source: "docs"
+      source_url: "https://openai.github.io/openai-agents-python/"
+  categories:
+    - "Development Frameworks"
+
+- project: "Google ADK"
+  project_description: "Google's open-source Agent Development Kit for building, evaluating and deploying multi-agent systems; model-agnostic, optimized for Gemini and Vertex AI but works with any LLM."
+  project_is_open_source: true
+  sources:
+    - source: "github"
+      source_url: "https://github.com/google/adk-python"
+    - source: "docs"
+      source_url: "https://google.github.io/adk-docs/"
+  categories:
+    - "Development Frameworks"
+
+- project: "smolagents"
+  project_description: "Hugging Face's minimalist agent framework (~1k LOC core) where agents write their actions as Python code (CodeAgent). Provider-agnostic, sandbox execution, ideal for lightweight local agents."
+  project_is_open_source: true
+  sources:
+    - source: "github"
+      source_url: "https://github.com/huggingface/smolagents"
+    - source: "docs"
+      source_url: "https://huggingface.co/docs/smolagents"
+  categories:
+    - "Development Frameworks"
+    - "Terminal-Friendly"
+
+- project: "Agno"
+  project_description: "High-performance framework for building multi-agent systems with memory, knowledge and reasoning (formerly Phidata). Model- and provider-agnostic with a focus on speed and low overhead."
+  project_is_open_source: true
+  sources:
+    - source: "github"
+      source_url: "https://github.com/agno-agi/agno"
+    - source: "docs"
+      source_url: "https://docs.agno.com/"
+  categories:
+    - "Development Frameworks"
+
+- project: "Strands Agents"
+  project_description: "AWS open-source, model-driven SDK for building agents in a few lines of code; trades some control for simplicity by letting the model drive the tool loop. Provider-agnostic."
+  project_is_open_source: true
+  sources:
+    - source: "github"
+      source_url: "https://github.com/strands-agents/sdk-python"
+    - source: "docs"
+      source_url: "https://strandsagents.com/"
+  categories:
+    - "Development Frameworks"
+
+- project: "Microsoft Agent Framework"
+  project_description: "Microsoft's unified agent framework (v1.0, April 2026) merging Semantic Kernel and AutoGen into a single graph-based, enterprise-grade SDK for .NET and Python. Supersedes standalone AutoGen."
+  project_is_open_source: true
+  sources:
+    - source: "github"
+      source_url: "https://github.com/microsoft/agent-framework"
+    - source: "docs"
+      source_url: "https://learn.microsoft.com/en-us/agent-framework/"
+  categories:
+    - "Development Frameworks"
+
+- project: "Mastra"
+  project_description: "TypeScript-first agent framework covering workflows, agents, RAG, evals and observability. The TS-world counterpart to LangGraph/CrewAI, built by the Gatsby team."
+  project_is_open_source: true
+  sources:
+    - source: "github"
+      source_url: "https://github.com/mastra-ai/mastra"
+    - source: "docs"
+      source_url: "https://mastra.ai/docs"
+  categories:
+    - "Development Frameworks"
+
+- project: "OpenHands"
+  project_description: "The renamed continuation of OpenDevin (by All Hands AI): the most popular open-source autonomous software engineer, scoring ~77% on SWE-Bench Verified with Claude Sonnet 4.5. Writes code, runs tests, fixes bugs and browses the web with zero vendor lock-in."
+  project_is_open_source: true
+  sources:
+    - source: "github"
+      source_url: "https://github.com/OpenHands/OpenHands"
+    - source: "website"
+      source_url: "https://www.openhands.dev/"
+  categories:
+    - "AI Agents"
+
+- project: "Model Context Protocol"
+  project_description: "Open standard from Anthropic for connecting LLMs and agents to tools and data sources through a uniform client-server interface; now the de-facto interoperability layer adopted across major agent frameworks."
+  project_is_open_source: true
+  sources:
+    - source: "github"
+      source_url: "https://github.com/modelcontextprotocol/servers"
+    - source: "docs"
+      source_url: "https://modelcontextprotocol.io/"
+  categories:
+    - "Standardization"
+    - "Tool Calling (Function Calling)"
+
+- project: "browser-use"
+  project_description: "Framework that lets AI agents control a real browser via the DOM and vision, enabling robust web automation and scraping without brittle selectors. Widely used for agentic browsing in 2026."
+  project_is_open_source: true
+  sources:
+    - source: "github"
+      source_url: "https://github.com/browser-use/browser-use"
+    - source: "docs"
+      source_url: "https://docs.browser-use.com/"
+  categories:
+    - "Web Browsing Frameworks"
+
+- project: "Crawl4AI"
+  project_description: "LLM-friendly open-source web crawler and scraper that outputs clean Markdown/structured data ready for RAG and agents; async, fast, headless-mode support."
+  project_is_open_source: true
+  sources:
+    - source: "github"
+      source_url: "https://github.com/unclecode/crawl4ai"
+    - source: "docs"
+      source_url: "https://docs.crawl4ai.com/"
+  categories:
+    - "Web Browsing Frameworks"
+
+- project: "Firecrawl"
+  project_description: "Turns entire websites into LLM-ready Markdown or structured data via crawl, scrape and extract endpoints; popular data ingestion layer for agents and RAG pipelines."
+  project_is_open_source: true
+  sources:
+    - source: "github"
+      source_url: "https://github.com/firecrawl/firecrawl"
+    - source: "website"
+      source_url: "https://www.firecrawl.dev/"
+  categories:
+    - "Web Browsing Frameworks"
+
+- project: "Stagehand"
+  project_description: "Browserbase's AI browser automation framework built on Playwright, adding natural-language act/extract/observe primitives for reliable agentic web interaction."
+  project_is_open_source: true
+  sources:
+    - source: "github"
+      source_url: "https://github.com/browserbase/stagehand"
+    - source: "docs"
+      source_url: "https://docs.stagehand.dev/"
+  categories:
+    - "Web Browsing Frameworks"
+
+- project: "BAML"
+  project_description: "BoundaryML's domain-specific language for building reliable LLM functions with type-safe, schema-aligned structured outputs and streaming; alternative to Instructor/Outlines across many languages."
+  project_is_open_source: true
+  sources:
+    - source: "github"
+      source_url: "https://github.com/BoundaryML/baml"
+    - source: "docs"
+      source_url: "https://docs.boundaryml.com/"
+  categories:
+    - "Structured Outputs"
