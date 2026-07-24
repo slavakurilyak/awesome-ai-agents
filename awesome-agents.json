@@ -205,7 +205,7 @@
       "sources": [
         {
           "source": "github",
-          "source_url": "https://github.com/unit-mesh/auto-dev",
+          "source_url": "https://github.com/phodal/auto-dev",
           "stars_last_updated": "2025-07-30T17:24:11.933859",
           "stars": 4039
         },
@@ -465,7 +465,7 @@
       "sources": [
         {
           "source": "github",
-          "source_url": "https://github.com/OpenInterpreter/open-interpreter",
+          "source_url": "https://github.com/openinterpreter/openinterpreter",
           "stars_last_updated": "2025-07-30T17:24:14.577400",
           "stars": 60095
         }
@@ -763,7 +763,7 @@
         },
         {
           "source": "github",
-          "source_url": "https://github.com/calcom/cal.com/tree/main/apps/ai",
+          "source_url": "https://github.com/calcom/cal.diy/tree/main/apps/ai",
           "stars_last_updated": "2025-07-30T17:24:19.472244",
           "stars": 37384
         }
@@ -915,7 +915,7 @@
       "sources": [
         {
           "source": "github",
-          "source_url": "https://github.com/paul-gauthier/aider",
+          "source_url": "https://github.com/Aider-AI/aider",
           "stars_last_updated": "2025-07-30T17:24:23.066600",
           "stars": 36185
         }
@@ -1217,7 +1217,7 @@
         },
         {
           "source": "github",
-          "source_url": "https://github.com/cpacker/MemGPT/",
+          "source_url": "https://github.com/letta-ai/letta/",
           "stars_last_updated": "2025-07-30T17:24:26.615851",
           "stars": 17568
         }
@@ -1391,7 +1391,7 @@
       "sources": [
         {
           "source": "github",
-          "source_url": "https://github.com/princeton-nlp/SWE-agent",
+          "source_url": "https://github.com/SWE-agent/SWE-agent",
           "stars_last_updated": "2025-07-30T17:24:31.261652",
           "stars": 16847
         },
@@ -1569,7 +1569,7 @@
       "sources": [
         {
           "source": "github",
-          "source_url": "https://github.com/agentlabs-inc/agentlabs",
+          "source_url": "https://github.com/agentlabs-dev/agentlabs",
           "stars_last_updated": "2025-07-30T17:24:35.446142",
           "stars": 498
         },
@@ -1823,7 +1823,7 @@
       "sources": [
         {
           "source": "github",
-          "source_url": "https://github.com/geekan/MetaGPT",
+          "source_url": "https://github.com/FoundationAgents/MetaGPT",
           "stars_last_updated": "2025-07-30T17:24:44.151871",
           "stars": 57568
         },
@@ -1863,7 +1863,7 @@
       "sources": [
         {
           "source": "github",
-          "source_url": "https://github.com/joaomdmoura/crewai",
+          "source_url": "https://github.com/crewAIInc/crewAI",
           "stars_last_updated": "2025-07-30T17:24:45.539869",
           "stars": 35054
         },
@@ -2203,7 +2203,7 @@
       "sources": [
         {
           "source": "github",
-          "source_url": "https://github.com/lobehub/lobe-chat",
+          "source_url": "https://github.com/lobehub/lobehub",
           "stars_last_updated": "2025-07-30T17:24:53.957322",
           "stars": 63923
         },
@@ -2239,7 +2239,7 @@
       "sources": [
         {
           "source": "github",
-          "source_url": "https://github.com/bazed-ai/bazed-af",
+          "source_url": "https://github.com/sagentic-ai/sagentic-af",
           "stars_last_updated": "2025-07-30T17:24:55.223654",
           "stars": 73
         },
@@ -2717,7 +2717,7 @@
       "sources": [
         {
           "source": "github",
-          "source_url": "https://github.com/mnotgod96/AppAgent",
+          "source_url": "https://github.com/TencentQQGYLab/AppAgent",
           "stars_last_updated": "2025-07-30T17:25:01.732582",
           "stars": 6049
         },
@@ -3195,7 +3195,7 @@
         },
         {
           "source": "github",
-          "source_url": "https://github.com/AI-Engineer-Foundation/agent-protocol",
+          "source_url": "https://github.com/agi-inc/agent-protocol",
           "stars_last_updated": "2025-07-30T17:25:07.052532",
           "stars": 1427
         },
@@ -3405,7 +3405,7 @@
       "sources": [
         {
           "source": "github",
-          "source_url": "https://github.com/onuratakan/gpt-computer-assistant",
+          "source_url": "https://github.com/Upsonic/Upsonic",
           "stars_last_updated": "2025-07-30T17:25:11.826430",
           "stars": 7625
         }
@@ -3485,7 +3485,7 @@
       "sources": [
         {
           "source": "github",
-          "source_url": "https://github.com/NVIDIA/NeMo-Guardrails",
+          "source_url": "https://github.com/NVIDIA-NeMo/Guardrails",
           "stars_last_updated": "2025-07-30T17:25:14.021031",
           "stars": 4937
         },
@@ -3539,7 +3539,7 @@
       "sources": [
         {
           "source": "github",
-          "source_url": "https://github.com/jxnl/instructor",
+          "source_url": "https://github.com/567-labs/instructor",
           "stars_last_updated": "2025-07-30T17:25:15.311510",
           "stars": 11088
         },
@@ -3599,7 +3599,7 @@
       "sources": [
         {
           "source": "github",
-          "source_url": "https://github.com/outlines-dev/outlines",
+          "source_url": "https://github.com/dottxt-ai/outlines",
           "stars_last_updated": "2025-07-30T17:25:17.358385",
           "stars": 12182
         },
@@ -3953,7 +3953,7 @@
       "sources": [
         {
           "source": "github",
-          "source_url": "https://github.com/npi-ai/npi",
+          "source_url": "https://github.com/sheet0/npi",
           "stars_last_updated": "2025-07-30T17:25:25.006776",
           "stars": 222
         },
@@ -4607,7 +4607,7 @@
         },
         {
           "source": "github",
-          "source_url": "https://github.com/e2b-dev/ai-artifacts",
+          "source_url": "https://github.com/e2b-dev/fragments",
           "stars_last_updated": "2025-07-30T17:25:35.165391",
           "stars": 5681
         }

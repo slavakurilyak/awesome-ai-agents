@@ -117,7 +117,7 @@
   project_is_open_source: true
   sources:
     - source: "github"
-      source_url: "https://github.com/unit-mesh/auto-dev"
+      source_url: "https://github.com/phodal/auto-dev"
     - source: "docs"
       source_url: "https://ide.unitmesh.cc"
   categories:
@@ -272,7 +272,7 @@
   project_is_open_source: true
   sources:
     - source: "github"
-      source_url: "https://github.com/OpenInterpreter/open-interpreter"
+      source_url: "https://github.com/openinterpreter/openinterpreter"
   categories:
     - "AI Agents"
 
@@ -444,7 +444,7 @@
     - source: "website"
       source_url: "https://cal.com/ai"
     - source: "github"
-      source_url: "https://github.com/calcom/cal.com/tree/main/apps/ai"
+      source_url: "https://github.com/calcom/cal.diy/tree/main/apps/ai"
   categories:
     - "AI Agents"
 
@@ -530,7 +530,7 @@
   project_is_open_source: true
   sources:
     - source: "github"
-      source_url: "https://github.com/paul-gauthier/aider"
+      source_url: "https://github.com/Aider-AI/aider"
   categories:
     - "AI Agents"
 
@@ -705,7 +705,7 @@
     - source: "website"
       source_url: "https://memgpt.ai/"
     - source: "github"
-      source_url: "https://github.com/cpacker/MemGPT/"
+      source_url: "https://github.com/letta-ai/letta/"
   categories:
     - "Long-Term Memory"
 
@@ -802,7 +802,7 @@
   project_is_open_source: true
   sources:
     - source: "github"
-      source_url: "https://github.com/princeton-nlp/SWE-agent"
+      source_url: "https://github.com/SWE-agent/SWE-agent"
     - source: "website"
       source_url: "https://swe-agent.com/"
   categories:
@@ -904,7 +904,7 @@
   project_is_open_source: true
   sources:
     - source: "github"
-      source_url: "https://github.com/agentlabs-inc/agentlabs"
+      source_url: "https://github.com/agentlabs-dev/agentlabs"
     - source: "website"
       source_url: "https://www.agentlabs.dev/"
     - source: "docs"
@@ -1046,7 +1046,7 @@
   project_is_open_source: true
   sources:
     - source: "github"
-      source_url: "https://github.com/geekan/MetaGPT"
+      source_url: "https://github.com/FoundationAgents/MetaGPT"
     - source: "github profile"
       source_url: "https://github.com/geekan"
   categories:
@@ -1068,7 +1068,7 @@
   project_is_open_source: true
   sources:
     - source: "github"
-      source_url: "https://github.com/joaomdmoura/crewai"
+      source_url: "https://github.com/crewAIInc/crewAI"
     - source: "github profile"
       source_url: "https://github.com/joaomdmoura"
   categories:
@@ -1257,7 +1257,7 @@
   project_is_open_source: true
   sources:
     - source: "github"
-      source_url: "https://github.com/lobehub/lobe-chat"
+      source_url: "https://github.com/lobehub/lobehub"
     - source: "website"
       source_url: "https://chat-preview.lobehub.com/"
   categories:
@@ -1277,7 +1277,7 @@
   project_is_open_source: true
   sources:
     - source: "github"
-      source_url: "https://github.com/bazed-ai/bazed-af"
+      source_url: "https://github.com/sagentic-ai/sagentic-af"
     - source: "website"
       source_url: "https://bazed.ai/"
     - source: "discord"
@@ -1549,7 +1549,7 @@
   project_is_open_source: true
   sources:
     - source: "github"
-      source_url: "https://github.com/mnotgod96/AppAgent"
+      source_url: "https://github.com/TencentQQGYLab/AppAgent"
     - source: "github profile"
       source_url: "https://github.com/mnotgod96"
   categories:
@@ -1831,7 +1831,7 @@
     - source: "website"
       source_url: "https://www.aie.foundation/"
     - source: "github"
-      source_url: "https://github.com/AI-Engineer-Foundation/agent-protocol"
+      source_url: "https://github.com/agi-inc/agent-protocol"
     - source: "github profile"
       source_url: "https://github.com/AI-Engineer-Foundation"
   categories:
@@ -1924,7 +1924,7 @@
   project_is_open_source: true
   sources:
     - source: "github"
-      source_url: "https://github.com/OpenInterpreter/open-interpreter"
+      source_url: "https://github.com/openinterpreter/openinterpreter"
   categories:
     - "Operating System (OS)"
 
@@ -1946,7 +1946,7 @@
   project_is_open_source: true
   sources:
     - source: "github"
-      source_url: "https://github.com/onuratakan/gpt-computer-assistant"
+      source_url: "https://github.com/Upsonic/Upsonic"
   categories:
     - "Operating System (OS)"
 
@@ -1990,7 +1990,7 @@
   project_is_open_source: true
   sources:
     - source: "github"
-      source_url: "https://github.com/NVIDIA/NeMo-Guardrails"
+      source_url: "https://github.com/NVIDIA-NeMo/Guardrails"
     - source: "research paper"
       source_url: "https://arxiv.org/abs/2310.10501"
   categories:
@@ -2021,7 +2021,7 @@
   project_is_open_source: true
   sources:
     - source: "github"
-      source_url: "https://github.com/jxnl/instructor"
+      source_url: "https://github.com/567-labs/instructor"
     - source: "website"
       source_url: "https://python.useinstructor.com/"
   categories:
@@ -2054,7 +2054,7 @@
   project_is_open_source: true
   sources:
     - source: "github"
-      source_url: "https://github.com/outlines-dev/outlines"
+      source_url: "https://github.com/dottxt-ai/outlines"
     - source: "website"
       source_url: "https://outlines-dev.github.io/outlines/"
     - source: "discord"
@@ -2253,7 +2253,7 @@
   project_is_open_source: true
   sources:
     - source: "github"
-      source_url: "https://github.com/npi-ai/npi"
+      source_url: "https://github.com/sheet0/npi"
     - source: "website"
       source_url: "https://www.npi.ai/"
     - source: "docs"
@@ -2629,7 +2629,7 @@
   project_is_open_source: true
   sources:
     - source: "github"
-      source_url: "https://github.com/e2b-dev/ai-artifacts"
+      source_url: "https://github.com/e2b-dev/fragments"
     - source: "reddit announcement"
       source_url: "https://www.reddit.com/r/ClaudeAI/comments/1dmy6y2/open_source_version_of_anthropics_artifacts_ui/"
   categories:
