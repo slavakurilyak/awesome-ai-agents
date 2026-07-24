@@ -36,18 +36,7 @@ According to [Andrew Ng (@andrewyng)](https://github.com/andrewyng):
 
 ## 🚀 Rising 10 Projects (Recently Active, Excluding Top 10)
 
-<ol>
-<li><a href="https://github.com/gpt-engineer-org/gpt-engineer"><strong>GPT Engineer</strong></a> - 54,614 stars (Updated: 2025-07-30)<br>GPT-Engineer is an AI-powered tool allowing users to specify software in natural language, automatically generating and executing code, with options for improvement suggestions, and fostering collaboration within the open-source community</li>
-<li><a href="https://github.com/microsoft/autogen"><strong>AutoGen by Microsoft</strong></a> - 48,077 stars (Updated: 2025-07-30)<br>AutoGen is a multi-agent conversation framework facilitating the development of next-gen LLM applications, highlighted by various accomplishments and offering enhanced LLM inferences, customizable agents, and comprehensive documentation</li>
-<li><a href="https://github.com/microsoft/autogen"><strong>AutoGen Studio by Microsoft</strong></a> - 48,077 stars (Updated: 2025-07-30)<br>AutoGen Studio 2.0 is Microsoft's advanced AI development tool, offering a user-friendly interface, powerful Python API, and comprehensive features for creating and controlling AI agents and workflows</li>
-<li><a href="https://github.com/run-llama/llama_index"><strong>LlamaIndex Tools</strong></a> - 43,398 stars (Updated: 2025-07-30)<br>LlamaIndex offers a variety of tools for building data agents, with top downloads including IonicShoppingToolSpec, OpenAPIToolSpec, WikipediaToolSpec, GmailToolSpec, and GoogleCalendarToolSpec, enabling seamless integration with user-defined functions, query engines, and third-party services</li>
-<li><a href="https://github.com/FlowiseAI/Flowise"><strong>Flowise</strong></a> - 42,100 stars (Updated: 2025-07-30)<br>Flowise simplifies the creation of applications leveraging large language models (LLMs) by providing a drag-and-drop interface for customizing AI workflows, offering easy installation, Docker support, development tools, and documentation for integrating various functionalities such as authentication, streaming, and custom tools to enhance AI agents' capabilities</li>
-<li><a href="https://github.com/lm-sys/FastChat"><strong>FastChat</strong></a> - 38,916 stars (Updated: 2025-07-30)<br>FastChat is a platform for training, serving, and evaluating large language model chatbots, featuring an open-source distributed multi-model system, API compatibility, and a dataset for LLM conversations</li>
-<li><a href="https://github.com/mem0ai/mem0"><strong>mem0</strong></a> - 37,574 stars (Updated: 2025-07-30)<br>Mem0 is an intelligent memory layer for Large Language Models that enhances personalized AI experiences by retaining and utilizing contextual information across various applications.</li>
-<li><a href="https://github.com/calcom/cal.com/tree/main/apps/ai"><strong>Cal.ai</strong></a> - 37,384 stars (Updated: 2025-07-30)<br>Cal.ai is an open-source AI scheduling assistant that manages email communications for booking, rearranging, and inquiring about meetings, leveraging a LangChain Agent Executor and MailParser for efficient scheduling without API key exposure</li>
-<li><a href="https://github.com/paul-gauthier/aider"><strong>Aider</strong></a> - 36,185 stars (Updated: 2025-07-30)<br>Aider is a command-line tool for AI-assisted pair programming, allowing code editing in local git repositories with GPT-3.5/GPT-4, featuring direct file edits, automatic git commits, and support for most popular programming languages</li>
-<li><a href="https://github.com/janhq/jan"><strong>Jan</strong></a> - 35,212 stars (Updated: 2025-07-30)<br>Jan is an open-source, development-stage ChatGPT alternative that operates fully offline on diverse hardware platforms, supporting universal architectures from PCs to multi-GPU clusters</li>
-</ol>
+<p><em>No projects to display for Rising Projects.</em></p>
 
 ## ✍️ All Projects
 
@@ -58,7 +47,7 @@ Here's an awesome list of AI agents:
 <p>⭐ 5,080 stars (Updated: 2025-07-30)</p>
 <p>⌚ Hardware (Wearables)</p>
 
-<p>The '01 Project' by Open Interpreter is an open-source initiative focused on creating an ecosystem for AI devices, aiming to become the GNU/Linux in this domain, with details on its experimental status, software, hardware, and a speech-to-speech interface based on a code-interpreting language model for dynamic interactions</p>
+<p>⚠️ [INACTIVE 2026] The '01 Project' by Open Interpreter is an open-source initiative focused on creating an ecosystem for AI devices, aiming to become the GNU/Linux in this domain, with details on its experimental status, software, hardware, and a speech-to-speech interface based on a code-interpreting language model for dynamic interactions</p>
 
 <p><a href="https://changes.openinterpreter.com/log/introducing-the-01-developer-preview">announcement</a> | <a href="https://twitter.com/OpenInterpreter/status/1770821439458840846">demo</a> | <a href="https://github.com/OpenInterpreter/01">github</a> | <a href="http://openinterpreter.com/01">website</a> | <a href="https://01.openinterpreter.com/">docs</a></p>
 </div>
@@ -108,7 +97,7 @@ Here's an awesome list of AI agents:
 <p>⭐ 16 stars (Updated: 2025-07-30)</p>
 <p>₿ Bitcoin</p>
 
-<p>Typescript tools for Bitcoin/Stacks blockchain interaction, utilizing Bun.js and Stacks.js, with a focus on AI integration</p>
+<p>⚠️ [ARCHIVED 2026] Typescript tools for Bitcoin/Stacks blockchain interaction, utilizing Bun.js and Stacks.js, with a focus on AI integration</p>
 
 <p><a href="https://github.com/aibtcdev/agent-tools-ts">github</a> | <a href="https://github.com/aibtcdev">github profile</a> | <a href="https://aibtc.dev/">website</a> | <a href="https://discord.gg/5DJaBrf">discord</a></p>
 </div>
@@ -178,7 +167,7 @@ Here's an awesome list of AI agents:
 <p>⭐ 5,666 stars (Updated: 2025-07-30)</p>
 <p>⚙️ Development Frameworks</p>
 
-<p>Agents is an open-source framework for building autonomous language agents with features including long-short term memory, tool usage, web navigation, multi-agent communication, human-agent interaction, and symbolic control, allowing customization through natural language config files and deployment in various interfaces</p>
+<p>⚠️ [INACTIVE 2026] Agents is an open-source framework for building autonomous language agents with features including long-short term memory, tool usage, web navigation, multi-agent communication, human-agent interaction, and symbolic control, allowing customization through natural language config files and deployment in various interfaces</p>
 
 <p><a href="https://github.com/aiwaves-cn/agents">github</a> | <a href="https://github.com/aiwaves-cn">github profile</a></p>
 </div>
@@ -208,7 +197,7 @@ Here's an awesome list of AI agents:
 <p>⭐ 4,680 stars (Updated: 2025-07-30)</p>
 <p>⚙️ Development Frameworks</p>
 
-<p>AgentVerse is an Apache2-licensed Python framework for deploying multiple LLM-based agents in various applications, offering task-solving and simulation frameworks for collaborative task accomplishment and behavior observation among agents</p>
+<p>⚠️ [INACTIVE 2026] AgentVerse is an Apache2-licensed Python framework for deploying multiple LLM-based agents in various applications, offering task-solving and simulation frameworks for collaborative task accomplishment and behavior observation among agents</p>
 
 <p><a href="https://github.com/OpenBMB/AgentVerse">github</a> | <a href="https://github.com/OpenBMB">github profile</a></p>
 </div>
@@ -248,7 +237,7 @@ Here's an awesome list of AI agents:
 <p>⭐ 46 stars (Updated: 2025-07-30)</p>
 <p>₿ Bitcoin</p>
 
-<p>Langchain and CrewAI have launched AI agents equipped with Bitcoin wallets, facilitating automated operations within a blockchain environment</p>
+<p>⚠️ [ARCHIVED 2026] Langchain and CrewAI have launched AI agents equipped with Bitcoin wallets, facilitating automated operations within a blockchain environment</p>
 
 <p><a href="https://github.com/aibtcdev/ai-agent-crew">github</a> | <a href="https://github.com/aibtcdev">github profile</a> | <a href="https://aibtc.dev/">website</a> | <a href="https://discord.gg/5DJaBrf">discord</a></p>
 </div>
@@ -268,7 +257,7 @@ Here's an awesome list of AI agents:
 <p>⭐ 932 stars (Updated: 2025-07-30)</p>
 <p>🤖 AI Agents</p>
 
-<p>The AI Researcher is an AI agent leveraging Claude 3 and SERPAPI for in-depth topic research, refining subtopic analyses into a comprehensive report, customizable and requiring API keys for functionality</p>
+<p>⚠️ [INACTIVE 2026] The AI Researcher is an AI agent leveraging Claude 3 and SERPAPI for in-depth topic research, refining subtopic analyses into a comprehensive report, customizable and requiring API keys for functionality</p>
 
 <p><a href="https://github.com/mshumer/ai-researcher">github</a> | <a href="https://twitter.com/i/web/status/1776341679617745126">announcement</a> | <a href="https://app.hyperwriteai.com/personalassistant/tool/b40d5925-4780-4eed-9f69-a03ae931de37">website</a></p>
 </div>
@@ -318,7 +307,7 @@ Here's an awesome list of AI agents:
 <p>⭐ 433 stars (Updated: 2025-07-30)</p>
 <p> Function Calling</p>
 
-<p>AIFS offers a simple and efficient local semantic search capability for folders, leveraging Unstructured.IO for advanced data processing and ChromaDB for fast, similarity-based searching of embeddings</p>
+<p>⚠️ [INACTIVE 2026] AIFS offers a simple and efficient local semantic search capability for folders, leveraging Unstructured.IO for advanced data processing and ChromaDB for fast, similarity-based searching of embeddings</p>
 
 <p><a href="https://github.com/OpenInterpreter/aifs">github</a></p>
 </div>
@@ -408,7 +397,7 @@ Here's an awesome list of AI agents:
 <p>⭐ 229 stars (Updated: 2025-07-30)</p>
 <p>⚙️ Development Frameworks</p>
 
-<p>AutoAct is an automatic agent learning framework that synthesizes planning trajectories without large-scale data or closed-source models, using a division-of-labor strategy for task completion, demonstrating superior or comparable performance in experiments</p>
+<p>⚠️ [INACTIVE 2026] AutoAct is an automatic agent learning framework that synthesizes planning trajectories without large-scale data or closed-source models, using a division-of-labor strategy for task completion, demonstrating superior or comparable performance in experiments</p>
 
 <p><a href="https://github.com/zjunlp/AutoAct">github</a> | <a href="https://www.zjukg.org/project/AutoAct/">website</a></p>
 </div>
@@ -458,7 +447,7 @@ Here's an awesome list of AI agents:
 <p>⭐ 1,122 stars (Updated: 2025-07-30)</p>
 <p>⚙️ Development Frameworks</p>
 
-<p>Axflow is a TypeScript framework designed for AI development, offering a modular collection of tools for building natural language applications, and it emphasizes a code-first approach to simplify the integration of LLMs into scalable solutions</p>
+<p>⚠️ [INACTIVE 2026] Axflow is a TypeScript framework designed for AI development, offering a modular collection of tools for building natural language applications, and it emphasizes a code-first approach to simplify the integration of LLMs into scalable solutions</p>
 
 <p><a href="https://axflow.dev/">website</a> | <a href="https://github.com/axflow/axflow">github</a></p>
 </div>
@@ -488,7 +477,7 @@ Here's an awesome list of AI agents:
 <p>⭐ 304 stars (Updated: 2025-07-30)</p>
 <p>📊 Evaluation Frameworks</p>
 
-<p>Bananalyzer is a framework for evaluating AI agents on web tasks, utilizing Playwright for creating diverse datasets of website snapshots for reliable and varied web task assessments</p>
+<p>⚠️ [INACTIVE 2026] Bananalyzer is a framework for evaluating AI agents on web tasks, utilizing Playwright for creating diverse datasets of website snapshots for reliable and varied web task assessments</p>
 
 <p><a href="https://reworkd.ai">website</a> | <a href="https://github.com/reworkd/bananalyzer">github</a></p>
 </div>
@@ -538,7 +527,7 @@ Here's an awesome list of AI agents:
 <p>⭐ 9,480 stars (Updated: 2025-07-30)</p>
 <p>🤖 AI Agents</p>
 
-<p>Bloop is a GPT-4-based coding assistant that boosts engineer productivity by allowing natural language interactions with codebases for explanations, feature writing, error troubleshooting, and more, featuring a code-centric AI playground, fast regex search, and comprehensive code navigation tools</p>
+<p>⚠️ [ARCHIVED 2026] Bloop is a GPT-4-based coding assistant that boosts engineer productivity by allowing natural language interactions with codebases for explanations, feature writing, error troubleshooting, and more, featuring a code-centric AI playground, fast regex search, and comprehensive code navigation tools</p>
 
 <p><a href="https://github.com/BloopAI/bloop">github</a></p>
 </div>
@@ -668,7 +657,7 @@ Here's an awesome list of AI agents:
 <p>⭐ 508 stars (Updated: 2025-07-30)</p>
 <p>🖥️ UI Development</p>
 
-<p>Bring Claude's Artifacts feature to ChatGPT which allows you to execute Node.js commands on your ChatGPT Artifacts projects, inspired by Claude's Artifacts</p>
+<p>⚠️ [INACTIVE 2026] Bring Claude's Artifacts feature to ChatGPT which allows you to execute Node.js commands on your ChatGPT Artifacts projects, inspired by Claude's Artifacts</p>
 
 <p><a href="https://github.com/ozgrozer/chatgpt-artifacts">github</a> | <a href="https://x.com/ozgrozer/status/1808677091996541251">twitter announcement</a></p>
 </div>
@@ -678,7 +667,7 @@ Here's an awesome list of AI agents:
 <p>⭐ 117 stars (Updated: 2025-07-30)</p>
 <p>🖥️ UI Development</p>
 
-<p>Artifacts-like chrome extension for ChatGPT, inspired by Claude 3.5 Sonnet, which requires CSP unblocker for JS to function</p>
+<p>⚠️ [INACTIVE 2026] Artifacts-like chrome extension for ChatGPT, inspired by Claude 3.5 Sonnet, which requires CSP unblocker for JS to function</p>
 
 <p><a href="https://github.com/ykyritsis/ChatGPT-code-preview">github</a></p>
 </div>
@@ -688,7 +677,7 @@ Here's an awesome list of AI agents:
 <p>⭐ 14 stars (Updated: 2024-08-05)</p>
 <p>🖥️ UI Development</p>
 
-<p>An open-source Flask-React chat application that interacts with Claude AI, featuring file uploads, Markdown rendering, and code highlighting, seeking contributors to expand its capabilities, inspired by Claude Artifacts</p>
+<p>⚠️ [GONE 2026 — repo deleted] An open-source Flask-React chat application that interacts with Claude AI, featuring file uploads, Markdown rendering, and code highlighting, seeking contributors to expand its capabilities, inspired by Claude Artifacts</p>
 
 <p><a href="https://github.com/PierrunoYT/claude-3-artifacts">github</a> | <a href="https://www.reddit.com/r/ClaudeAI/comments/1dqhta5/help_me_buiild_claude_3_artifacs_opensource/">reddit announcement</a></p>
 </div>
@@ -708,7 +697,7 @@ Here's an awesome list of AI agents:
 <p>⭐ 50 stars (Updated: 2025-07-30)</p>
 <p>🖥️ UI Development</p>
 
-<p>This project provides a streamlined solution for deploying and testing React code generated by Claude Artifacts, offering one-click deployment options to Vercel or Cloudflare Pages and easy code editing through a central ArtifactCode.jsx file</p>
+<p>⚠️ [INACTIVE 2026] This project provides a streamlined solution for deploying and testing React code generated by Claude Artifacts, offering one-click deployment options to Vercel or Cloudflare Pages and easy code editing through a central ArtifactCode.jsx file</p>
 
 <p><a href="https://github.com/risonsimon/claude-artifacts-react">github</a> | <a href="https://www.reddit.com/r/ClaudeAI/comments/1dtquuh/i_made_an_opensource_template_for_sharing_claudes/">reddit announcement</a></p>
 </div>
@@ -728,7 +717,7 @@ Here's an awesome list of AI agents:
 <p>⭐ 83 stars (Updated: 2025-07-30)</p>
 <p>🤖 AI Agents</p>
 
-<p>CLIN by Allen Institute for AI is an interactive continual learning agent that adapts rapidly to tasks, using a setup process involving Java, Python, and the ScienceWorld environment, supported by models like GPT-3.5-turbo and GPT-4</p>
+<p>⚠️ [INACTIVE 2026] CLIN by Allen Institute for AI is an interactive continual learning agent that adapts rapidly to tasks, using a setup process involving Java, Python, and the ScienceWorld environment, supported by models like GPT-3.5-turbo and GPT-4</p>
 
 <p><a href="https://allenai.github.io/clin/">website</a> | <a href="https://github.com/allenai/clin">github</a> | <a href="https://arxiv.org/pdf/2310.10134.pdf">research paper</a></p>
 </div>
@@ -738,7 +727,7 @@ Here's an awesome list of AI agents:
 <p>⭐ 1,312 stars (Updated: 2025-07-30)</p>
 <p>⚙️ Development Frameworks</p>
 
-<p>CodeActAgent, trained on CodeActInstruct, showcases superior performance in both in-domain and out-of-domain tasks, enabling dynamic code execution and multi-turn interactions for more effective LLM agents</p>
+<p>⚠️ [INACTIVE 2026] CodeActAgent, trained on CodeActInstruct, showcases superior performance in both in-domain and out-of-domain tasks, enabling dynamic code execution and multi-turn interactions for more effective LLM agents</p>
 
 <p><a href="https://github.com/xingyaoww/code-act">github</a></p>
 </div>
@@ -748,7 +737,7 @@ Here's an awesome list of AI agents:
 <p>⭐ 2,372 stars (Updated: 2025-07-30)</p>
 <p>🤖 AI Agents</p>
 
-<p>Autonomous AI agent, inspired by Devin, designed for complex task execution with features like a secure sandboxed Docker environment, integrated browser for real-time web information, text editor, and PostgreSQL database for history tracking, highlighting its relevance to agentic AI through its ability to autonomously navigate and perform actions across terminal, browser, and editor interfaces</p>
+<p>⚠️ [INACTIVE 2026] Autonomous AI agent, inspired by Devin, designed for complex task execution with features like a secure sandboxed Docker environment, integrated browser for real-time web information, text editor, and PostgreSQL database for history tracking, highlighting its relevance to agentic AI through its ability to autonomously navigate and perform actions across terminal, browser, and editor interfaces</p>
 
 <p><a href="https://github.com/semanser/codel">github</a> | <a href="https://news.ycombinator.com/item?id=39799296">announcement</a></p>
 </div>
@@ -758,7 +747,7 @@ Here's an awesome list of AI agents:
 <p>⭐ 3,793 stars (Updated: 2025-07-30)</p>
 <p>🤖 AI Agents</p>
 
-<p>Cody, an AI coding assistant, now offers an enterprise version with enhanced security, scalability, and control for organizations, supporting various IDEs and providing AI-powered autocomplete, chat assistance, and custom command capabilities</p>
+<p>⚠️ [GONE 2026 — repo deleted] Cody, an AI coding assistant, now offers an enterprise version with enhanced security, scalability, and control for organizations, supporting various IDEs and providing AI-powered autocomplete, chat assistance, and custom command capabilities</p>
 
 <p><a href="https://sourcegraph.com/cody">website</a> | <a href="https://github.com/sourcegraph/cody">github</a></p>
 </div>
@@ -838,7 +827,7 @@ Here's an awesome list of AI agents:
 <p>⭐ 1,176 stars (Updated: 2025-07-30)</p>
 <p> Function Calling</p>
 
-<p>crewAI Tools is a library that provides a framework for developing sophisticated tools to enhance crewAI agents, with methods for subclassing BaseTool, utilizing the tool decorator, and guidelines for contributing to the ecosystem</p>
+<p>⚠️ [ARCHIVED 2026] crewAI Tools is a library that provides a framework for developing sophisticated tools to enhance crewAI agents, with methods for subclassing BaseTool, utilizing the tool decorator, and guidelines for contributing to the ecosystem</p>
 
 <p><a href="https://github.com/joaomdmoura/crewai-tools">github</a></p>
 </div>
@@ -888,7 +877,7 @@ Here's an awesome list of AI agents:
 <p>⭐ 2,935 stars (Updated: 2025-07-30)</p>
 <p>⚙️ Development Frameworks</p>
 
-<p>Chaindesk is a no-code platform for building custom LLM Agents, enabling users to quickly set up a semantic search system over personal data without technical knowledge</p>
+<p>⚠️ [INACTIVE 2026] Chaindesk is a no-code platform for building custom LLM Agents, enabling users to quickly set up a semantic search system over personal data without technical knowledge</p>
 
 <p><a href="https://github.com/gmpetrov/databerry/">github</a></p>
 </div>
@@ -906,7 +895,7 @@ Here's an awesome list of AI agents:
 ### Deepgram
 <div><a href="https://x.com/AlexReibman/status/1772774552260788296"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
-<p>🤖 AI Agents | 🎙️ Transcriber Providers</p>
+<p>🎙️ Transcriber Providers | 🤖 AI Agents</p>
 
 <p>Conversational AI tools designed for creating voice bots and agents, featuring realistic, low-latency voice technology</p>
 
@@ -978,7 +967,7 @@ Here's an awesome list of AI agents:
 <p>⭐ 5,951 stars (Updated: 2025-07-30)</p>
 <p>⚙️ Development Frameworks</p>
 
-<p>DevOpsGPT is an AI-driven software development automation solution that combines large language models with DevOps tools to convert natural language requirements into working software, enhancing development efficiency, shortening cycles, and reducing communication costs</p>
+<p>⚠️ [INACTIVE 2026] DevOpsGPT is an AI-driven software development automation solution that combines large language models with DevOps tools to convert natural language requirements into working software, enhancing development efficiency, shortening cycles, and reducing communication costs</p>
 
 <p><a href="https://github.com/kuafuai/DevOpsGPT">github</a> | <a href="https://github.com/kuafuai">github profile</a></p>
 </div>
@@ -1018,7 +1007,7 @@ Here's an awesome list of AI agents:
 <p>⭐ 2,238 stars (Updated: 2025-07-30)</p>
 <p>💻 Terminal-Friendly</p>
 
-<p>Keyboard-centric terminal user interface for interacting with large language models (LLMs) like ChatGPT, Claude, Llama 3, Phi 3, Mistral, and Gemma, offering benefits such as efficient, terminal-based interaction, easy switching between multiple models, local model support, and the ability to store conversations in a local SQLite database</p>
+<p>⚠️ [INACTIVE 2026] Keyboard-centric terminal user interface for interacting with large language models (LLMs) like ChatGPT, Claude, Llama 3, Phi 3, Mistral, and Gemma, offering benefits such as efficient, terminal-based interaction, easy switching between multiple models, local model support, and the ability to store conversations in a local SQLite database</p>
 
 <p><a href="https://github.com/darrenburns/elia">github</a></p>
 </div>
@@ -1038,7 +1027,7 @@ Here's an awesome list of AI agents:
 <p>⭐ 1,353 stars (Updated: 2025-07-30)</p>
 <p>🔀 Model Merges</p>
 
-<p>Sakana AI's evolutionary model merge (EMM) combines 500,000 open-source models using evolutionary techniques to create new foundation models, achieving groundbreaking results without being explicitly optimized for specific benchmarks, marking a significant step toward AGI by empowering AI with combined knowledge akin to Retrieval Augmented Generation</p>
+<p>⚠️ [INACTIVE 2026] Sakana AI's evolutionary model merge (EMM) combines 500,000 open-source models using evolutionary techniques to create new foundation models, achieving groundbreaking results without being explicitly optimized for specific benchmarks, marking a significant step toward AGI by empowering AI with combined knowledge akin to Retrieval Augmented Generation</p>
 
 <p><a href="https://twitter.com/AlphaSignalAI/status/1771201081734811797">announcement</a> | <a href="https://github.com/SakanaAI/evolutionary-model-merge/">github</a></p>
 </div>
@@ -1088,7 +1077,7 @@ Here's an awesome list of AI agents:
 <p>⭐ 100 stars (Updated: 2025-07-30)</p>
 <p>🤖 AI Agents</p>
 
-<p>FinGen is a financial analysis agent using RSC, LangChain, and Polygon finance API, emphasizing it's not financial advice and requires API keys for use</p>
+<p>⚠️ [INACTIVE 2026] FinGen is a financial analysis agent using RSC, LangChain, and Polygon finance API, emphasizing it's not financial advice and requires API keys for use</p>
 
 <p><a href="https://twitter.com/SullyOmarr/status/1772282548841791730">announcement</a> | <a href="https://github.com/sullyo/fingen">github</a></p>
 </div>
@@ -1108,7 +1097,7 @@ Here's an awesome list of AI agents:
 <p>⭐ 222 stars (Updated: 2025-07-30)</p>
 <p>🏗️ Structured Outputs</p>
 
-<p>FuzzTypes is a Pydantic extension library providing autocorrecting annotation types, enhancing Pydantic's data conversions for AI agents by enabling powerful normalization capabilities like named entity linking to ensure structured data consists of 'smart things' instead of 'dumb strings'</p>
+<p>⚠️ [ARCHIVED 2026] FuzzTypes is a Pydantic extension library providing autocorrecting annotation types, enhancing Pydantic's data conversions for AI agents by enabling powerful normalization capabilities like named entity linking to ensure structured data consists of 'smart things' instead of 'dumb strings'</p>
 
 <p><a href="https://github.com/genomoncology/FuzzTypes">github</a> | <a href="https://www.genomoncology.com/">website</a></p>
 </div>
@@ -1118,7 +1107,7 @@ Here's an awesome list of AI agents:
 <p>⭐ 1 stars (Updated: 2025-07-30)</p>
 <p>₿ Bitcoin</p>
 
-<p>An API using a Stacks smart contract to control access, issuing a 200 status for access approval and a 402 with payment instructions for denial</p>
+<p>⚠️ [ARCHIVED 2026] An API using a Stacks smart contract to control access, issuing a 200 status for access approval and a 402 with payment instructions for denial</p>
 
 <p><a href="https://github.com/aibtcdev/gated-402-api">github</a> | <a href="https://github.com/aibtcdev">github profile</a> | <a href="https://aibtc.dev/">website</a> | <a href="https://discord.gg/5DJaBrf">discord</a></p>
 </div>
@@ -1178,7 +1167,7 @@ Here's an awesome list of AI agents:
 <p>⭐ 1,345 stars (Updated: 2025-07-30)</p>
 <p>🤖 AI Agents</p>
 
-<p>GPT Newspaper is an autonomous agent project using AI to create personalized newspapers based on user preferences, featuring six specialized sub-agents for searching, curating, writing, designing, editing, and publishing content tailored to individual interests</p>
+<p>⚠️ [INACTIVE 2026] GPT Newspaper is an autonomous agent project using AI to create personalized newspapers based on user preferences, featuring six specialized sub-agents for searching, curating, writing, designing, editing, and publishing content tailored to individual interests</p>
 
 <p><a href="https://github.com/rotemweiss57/gpt-newspaper">github</a> | <a href="https://github.com/rotemweiss57">github profile</a></p>
 </div>
@@ -1318,7 +1307,7 @@ Here's an awesome list of AI agents:
 <p>⭐ 36 stars (Updated: 2025-07-30)</p>
 <p>🏗️ Structured Outputs</p>
 
-<p>Instructor Cloud offers a platform for extracting models from text rapidly, with real-time streaming and the potential to utilize GPT-4*, encouraging engagement through contributions and adaptation of its FastAPI-based service</p>
+<p>⚠️ [INACTIVE 2026] Instructor Cloud offers a platform for extracting models from text rapidly, with real-time streaming and the potential to utilize GPT-4*, encouraging engagement through contributions and adaptation of its FastAPI-based service</p>
 
 <p><a href="https://github.com/instructor-ai/cloud">github</a> | <a href="https://twitter.com/jxnlco/status/1774822440922763707">announcement</a></p>
 </div>
@@ -1328,7 +1317,7 @@ Here's an awesome list of AI agents:
 <p>⭐ 2 stars (Updated: 2025-07-30)</p>
 <p>🛡️ Safety Guardrails (Safeguarding)</p>
 
-<p>IvyCheck offers an API for real-time AI application safety checks, preventing prompt injection attacks, PII data leakage, and hallucinations in agentic AI development</p>
+<p>⚠️ [INACTIVE 2026] IvyCheck offers an API for real-time AI application safety checks, preventing prompt injection attacks, PII data leakage, and hallucinations in agentic AI development</p>
 
 <p><a href="https://github.com/ivycheck/ivycheck-python-sdk">github</a> | <a href="https://www.ycombinator.com/launches/KkA-ivycheck-guard-against-ai-risks-with-real-time-checks">announcement</a> | <a href="https://ivycheck.com">website</a></p>
 </div>
@@ -1428,7 +1417,7 @@ Here's an awesome list of AI agents:
 <p>⭐ 141 stars (Updated: 2025-07-30)</p>
 <p>₿ Bitcoin</p>
 
-<p>LangChainBitcoin is a toolset for enabling LangChain agents to interact with Bitcoin, the Lightning Network, and APIs requiring L402-based authentication, including features for Bitcoin transactions and API traversal with automated Lightning payments</p>
+<p>⚠️ [INACTIVE 2026] LangChainBitcoin is a toolset for enabling LangChain agents to interact with Bitcoin, the Lightning Network, and APIs requiring L402-based authentication, including features for Bitcoin transactions and API traversal with automated Lightning payments</p>
 
 <p><a href="https://lightning.engineering/posts/2023-07-05-l402-langchain/">announcement</a> | <a href="https://github.com/lightninglabs/LangChainBitcoin">github</a></p>
 </div>
@@ -1468,7 +1457,7 @@ Here's an awesome list of AI agents:
 <p>⭐ 2,137 stars (Updated: 2025-07-30)</p>
 <p>⚙️ Development Frameworks</p>
 
-<p>LangServe facilitates the deployment of LangChain runnables and chains as a REST API, providing features like automatic schema inference, efficient endpoints, and a playground page, with plans for a hosted version for one-click deployments</p>
+<p>⚠️ [ARCHIVED 2026] LangServe facilitates the deployment of LangChain runnables and chains as a REST API, providing features like automatic schema inference, efficient endpoints, and a playground page, with plans for a hosted version for one-click deployments</p>
 
 <p><a href="https://github.com/langchain-ai/langserve">github</a></p>
 </div>
@@ -1538,7 +1527,7 @@ Here's an awesome list of AI agents:
 <p>⭐ 1,208 stars (Updated: 2025-07-30)</p>
 <p> Reinforcement Learning</p>
 
-<p>LlamaGym simplifies the fine-tuning of LLM agents with online reinforcement learning, providing a framework to iterate and experiment across Gym environments for efficient agent prompting and hyperparameter tuning</p>
+<p>⚠️ [INACTIVE 2026] LlamaGym simplifies the fine-tuning of LLM agents with online reinforcement learning, providing a framework to iterate and experiment across Gym environments for efficient agent prompting and hyperparameter tuning</p>
 
 <p><a href="https://github.com/KhoomeiK/LlamaGym">github</a> | <a href="https://github.com/KhoomeiK">github profile</a></p>
 </div>
@@ -1618,7 +1607,7 @@ Here's an awesome list of AI agents:
 <p>⭐ 467 stars (Updated: 2025-07-30)</p>
 <p>⚙️ Development Frameworks</p>
 
-<p>Lumos introduces a modular, open-source language agent framework with unified data formats that competes with or outperforms GPT-series and larger agents across various complex interactive tasks</p>
+<p>⚠️ [INACTIVE 2026] Lumos introduces a modular, open-source language agent framework with unified data formats that competes with or outperforms GPT-series and larger agents across various complex interactive tasks</p>
 
 <p><a href="https://github.com/allenai/lumos">github</a> | <a href="https://allenai.github.io/lumos/">website</a></p>
 </div>
@@ -1718,7 +1707,7 @@ Here's an awesome list of AI agents:
 <p>⭐ 114 stars (Updated: 2025-07-30)</p>
 <p>📱 Mobile-Friendly Frameworks</p>
 
-<p>NavAIGuide is an extensible, mobile-friendly, multi-modal agentic framework designed to integrate with mobile and desktop apps, featuring visual task detection, advanced code selectors, action-oriented execution, and resilient error handling</p>
+<p>⚠️ [INACTIVE 2026] NavAIGuide is an extensible, mobile-friendly, multi-modal agentic framework designed to integrate with mobile and desktop apps, featuring visual task detection, advanced code selectors, action-oriented execution, and resilient error handling</p>
 
 <p><a href="https://github.com/francedot/NavAIGuide-TS">github</a></p>
 </div>
@@ -1798,7 +1787,7 @@ Here's an awesome list of AI agents:
 <p>⭐ 2,175 stars (Updated: 2025-07-30)</p>
 <p>⚙️ Development Frameworks</p>
 
-<p>OpenAGI by AGI Research is an open-source platform integrating Large Language Models (LLMs) with domain-specific expert models for complex task-solving, fostering a paradigm where LLMs operate various external models, accompanied by a Reinforcement Learning from Task Feedback (RLTF) mechanism for self-improvement</p>
+<p>⚠️ [INACTIVE 2026] OpenAGI by AGI Research is an open-source platform integrating Large Language Models (LLMs) with domain-specific expert models for complex task-solving, fostering a paradigm where LLMs operate various external models, accompanied by a Reinforcement Learning from Task Feedback (RLTF) mechanism for self-improvement</p>
 
 <p><a href="https://github.com/agiresearch/OpenAGI">github</a> | <a href="https://github.com/agiresearch">github profile</a></p>
 </div>
@@ -1838,7 +1827,7 @@ Here's an awesome list of AI agents:
 <p>⭐ 6,673 stars (Updated: 2025-07-30)</p>
 <p>⚙️ Development Frameworks</p>
 
-<p>OpenGPTs is an open-source project providing customizable GPT-based experiences, offering control over language models, prompts, tools, vector databases, retrieval algorithms, and chat history databases, featuring three cognitive architectures: Assistant, RAG, and Chatbot, with support for various language models and deployment options including Docker, Cloud Run, and Kubernetes</p>
+<p>⚠️ [ARCHIVED 2026] OpenGPTs is an open-source project providing customizable GPT-based experiences, offering control over language models, prompts, tools, vector databases, retrieval algorithms, and chat history databases, featuring three cognitive architectures: Assistant, RAG, and Chatbot, with support for various language models and deployment options including Docker, Cloud Run, and Kubernetes</p>
 
 <p><a href="https://github.com/langchain-ai/opengpts">github</a></p>
 </div>
@@ -1998,7 +1987,7 @@ Here's an awesome list of AI agents:
 <p>⭐ 232 stars (Updated: 2025-07-30)</p>
 <p>🖥️ UI Development</p>
 
-<p>An open-source project that converts prompts to user interfaces, demonstrated by creating a basic Google Calendar clone using Claude in about 2 hours, inspired by Claude Artifacts</p>
+<p>⚠️ [INACTIVE 2026] An open-source project that converts prompts to user interfaces, demonstrated by creating a basic Google Calendar clone using Claude in about 2 hours, inspired by Claude Artifacts</p>
 
 <p><a href="https://github.com/sullyo/prompt2ui">github</a> | <a href="https://x.com/SullyOmarr/status/1804997474761003327">twitter announcement</a></p>
 </div>
@@ -2088,7 +2077,7 @@ Here's an awesome list of AI agents:
 <p>⭐ 8 stars (Updated: 2025-07-30)</p>
 <p>🤖 Assistants API</p>
 
-<p>The `streaming-assistants` library on GitHub enables streaming for OpenAI Assistants API using Astra Assistants, providing a workaround for the lack of streaming support in the official OpenAI Assistants API</p>
+<p>⚠️ [INACTIVE 2026] The `streaming-assistants` library on GitHub enables streaming for OpenAI Assistants API using Astra Assistants, providing a workaround for the lack of streaming support in the official OpenAI Assistants API</p>
 
 <p><a href="https://github.com/phact/streaming-assistants">github</a></p>
 </div>
@@ -2098,7 +2087,7 @@ Here's an awesome list of AI agents:
 <p>⭐ 1,520 stars (Updated: 2025-07-30)</p>
 <p>⚙️ Development Frameworks</p>
 
-<p>This repository showcases various LangChain agents as Streamlit apps, including a basic streaming app, a memory-based conversation app, a demo replicating MRKL functionality, a minimal agent with search capability, chatbots with feedback options, document querying, database communication, and pandas DataFrame interaction, featuring LangChain and Streamlit integrations</p>
+<p>⚠️ [ARCHIVED 2026] This repository showcases various LangChain agents as Streamlit apps, including a basic streaming app, a memory-based conversation app, a demo replicating MRKL functionality, a minimal agent with search capability, chatbots with feedback options, document querying, database communication, and pandas DataFrame interaction, featuring LangChain and Streamlit integrations</p>
 
 <p><a href="https://github.com/langchain-ai/streamlit-agent">github</a> | <a href="https://github.com/langchain-ai">github profile</a></p>
 </div>
@@ -2108,7 +2097,7 @@ Here's an awesome list of AI agents:
 <p>⭐ 324 stars (Updated: 2025-07-30)</p>
 <p>⚙️ Development Frameworks</p>
 
-<p>A development platform for AI Agents offering Python SDK, cloud deployment, serverless hosting, vector search, webhooks, and media generation, with a focus on simplicity, scalability, and integration with popular models and services</p>
+<p>⚠️ [INACTIVE 2026] A development platform for AI Agents offering Python SDK, cloud deployment, serverless hosting, vector search, webhooks, and media generation, with a focus on simplicity, scalability, and integration with popular models and services</p>
 
 <p><a href="https://github.com/steamship-core/python-client">github</a> | <a href="https://www.steamship.com/">website</a> | <a href="https://www.twitter.com/GetSteamship">twitter</a> | <a href="https://steamship.com/discord">discord</a> | <a href="https://www.github.com/steamship-core">github profile</a></p>
 </div>
@@ -2198,7 +2187,7 @@ Here's an awesome list of AI agents:
 <p>⭐ 1,713 stars (Updated: 2025-07-30)</p>
 <p>⚙️ Development Frameworks</p>
 
-<p>Tarsier is an open-source utility library by Reworkd, aimed at enhancing web interaction for AI agents by visually tagging interactable elements, facilitating actions based on text or screenshots for GPT-4(V) and providing OCR utilities</p>
+<p>⚠️ [INACTIVE 2026] Tarsier is an open-source utility library by Reworkd, aimed at enhancing web interaction for AI agents by visually tagging interactable elements, facilitating actions based on text or screenshots for GPT-4(V) and providing OCR utilities</p>
 
 <p><a href="https://github.com/reworkd/tarsier">github</a> | <a href="https://reworkd.ai/">website</a></p>
 </div>
@@ -2218,7 +2207,7 @@ Here's an awesome list of AI agents:
 <p>⭐ 5,274 stars (Updated: 2025-07-30)</p>
 <p>⚙️ Development Frameworks</p>
 
-<p>TaskingAI is a platform enhancing AI-native app development with Firebase-like simplicity, offering an all-in-one LLM platform with intuitive project management, BaaS-inspired workflow, and customizable integration for developing GPTs-like multi-tenant applications</p>
+<p>⚠️ [INACTIVE 2026] TaskingAI is a platform enhancing AI-native app development with Firebase-like simplicity, offering an all-in-one LLM platform with intuitive project management, BaaS-inspired workflow, and customizable integration for developing GPTs-like multi-tenant applications</p>
 
 <p><a href="https://github.com/TaskingAI/TaskingAI">github</a> | <a href="https://www.tasking.ai/">website</a></p>
 </div>
@@ -2268,7 +2257,7 @@ Here's an awesome list of AI agents:
 <p>⭐ 14,463 stars (Updated: 2025-07-30)</p>
 <p> Voice Providers (TTS Models)</p>
 
-<p>A multi-voice TTS system trained with an emphasis on quality</p>
+<p>⚠️ [INACTIVE 2026] A multi-voice TTS system trained with an emphasis on quality</p>
 
 <p><a href="https://github.com/neonbjb/tortoise-tts">github</a> | <a href="https://arxiv.org/abs/2305.07243">research paper</a> | <a href="https://huggingface.co/spaces/Manmay/tortoise-tts">demo</a></p>
 </div>
@@ -2318,7 +2307,7 @@ Here's an awesome list of AI agents:
 <p>⭐ 133 stars (Updated: 2025-07-30)</p>
 <p>🤖 AI Agents</p>
 
-<p>VacAIgent is a Streamlit-integrated, CrewAI framework-based AI application (Trip Planner Agent) that automates and enhances trip planning through a user-friendly interface, demonstrating collaborative AI agent task execution and offering an interactive web app experience for tailoring travel plans</p>
+<p>⚠️ [INACTIVE 2026] VacAIgent is a Streamlit-integrated, CrewAI framework-based AI application (Trip Planner Agent) that automates and enhances trip planning through a user-friendly interface, demonstrating collaborative AI agent task execution and offering an interactive web app experience for tailoring travel plans</p>
 
 <p><a href="https://github.com/tonykipkemboi/trip_planner_agent">github</a></p>
 </div>
@@ -2358,7 +2347,7 @@ Here's an awesome list of AI agents:
 <p>⭐ 2,669 stars (Updated: 2025-07-30)</p>
 <p>🤖 AI Agents</p>
 
-<p>vimGPT is a project that integrates GPT-4V's vision capabilities with the Vimium extension to enable web browsing and interaction through keyboard navigation and voice commands, offering innovative solutions and improvements for accessibility and efficiency</p>
+<p>⚠️ [INACTIVE 2026] vimGPT is a project that integrates GPT-4V's vision capabilities with the Vimium extension to enable web browsing and interaction through keyboard navigation and voice commands, offering innovative solutions and improvements for accessibility and efficiency</p>
 
 <p><a href="https://github.com/ishan0102/vimGPT">github</a> | <a href="https://github.com/ishan0102/vimGPT/tree/main?tab=readme-ov-file#vimgpt">demo</a> | <a href="https://news.ycombinator.com/item?id=38200308">hackernews</a></p>
 </div>
@@ -2388,7 +2377,7 @@ Here's an awesome list of AI agents:
 <p>⭐ 8,404 stars (Updated: 2025-07-30)</p>
 <p>🤖 AI Agents</p>
 
-<p>XAgent is an open-source, experimental Large Language Model-driven autonomous agent designed to autonomously solve a wide range of tasks with features like autonomy, safety, extensibility, a GUI for easy interaction, and the ability to cooperate with humans</p>
+<p>⚠️ [INACTIVE 2026] XAgent is an open-source, experimental Large Language Model-driven autonomous agent designed to autonomously solve a wide range of tasks with features like autonomy, safety, extensibility, a GUI for easy interaction, and the ability to cooperate with humans</p>
 
 <p><a href="https://github.com/OpenBMB/XAgent">github</a> | <a href="https://www.youtube.com/watch?v=QGkpd-tsFPA">demo</a> | <a href="https://xagent-doc.readthedocs.io/en/latest/">docs</a> | <a href="https://blog.x-agent.net/blog/xagent/">blog</a></p>
 </div>
