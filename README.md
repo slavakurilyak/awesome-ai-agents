@@ -723,6 +723,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/Bklieger/Claude-React-Jumpstart">github</a> | <a href="https://x.com/BenjaminKlieger/status/1804264035464155220">twitter announcement</a></p>
 </div>
 
+### ClawBench
+<div><a href="https://github.com/TIGER-AI-Lab/ClawBench"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/TIGER-AI-Lab/ClawBench"><img src="https://img.shields.io/github/stars/TIGER-AI-Lab/ClawBench?style=social" alt="GitHub stars"></a></div>
+<p>⭐ 525 stars (Updated: 2026-07-26)</p>
+<p>📊 Evaluation Frameworks</p>
+
+<p>ClawBench is an open-source benchmarking framework for evaluating AI web agents on real-world online tasks in isolated containers, recording browser actions, screenshots, HTTP traffic, session video, and agent messages for analysis</p>
+
+<p><a href="https://github.com/TIGER-AI-Lab/ClawBench">github</a> | <a href="https://arxiv.org/abs/2604.08523">research paper</a> | <a href="https://claw-bench.com/">website</a></p>
+</div>
+
 ### CLIN
 <div><a href="https://github.com/allenai/clin"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/allenai/clin"><img src="https://img.shields.io/github/stars/allenai/clin?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 83 stars (Updated: 2025-07-30)</p>

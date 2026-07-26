@@ -1491,6 +1491,19 @@
   categories:
     - "Evaluation Frameworks"
 
+- project: "ClawBench"
+  project_description: "ClawBench is an open-source benchmarking framework for evaluating AI web agents on real-world online tasks in isolated containers, recording browser actions, screenshots, HTTP traffic, session video, and agent messages for analysis"
+  project_is_open_source: true
+  sources:
+    - source: "github"
+      source_url: "https://github.com/TIGER-AI-Lab/ClawBench"
+    - source: "research paper"
+      source_url: "https://arxiv.org/abs/2604.08523"
+    - source: "website"
+      source_url: "https://claw-bench.com/"
+  categories:
+    - "Evaluation Frameworks"
+
 - project: "LangSmith by LangChain"
   project_description: "LangSmith provides tools for debugging, testing, evaluating, and monitoring LLM applications, integrating seamlessly with LangChain for comprehensive AI agent observability"
   project_is_open_source: true
@@ -2654,4 +2667,3 @@
       source_url: "https://www.linkedin.com/company/mem0/"
   categories:
     - "Long-Term Memory"
-  
