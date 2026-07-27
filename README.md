@@ -123,6 +123,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/THUDM/AgentBench">github</a></p>
 </div>
 
+### ClawBench
+<div><a href="https://github.com/reacher-z/ClawBench"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/reacher-z/ClawBench"><img src="https://img.shields.io/github/stars/reacher-z/ClawBench?style=social" alt="GitHub stars"></a></div>
+<p>📊 Evaluation Frameworks</p>
+
+<p>Browser-agent benchmark covering everyday online tasks across live websites, with multi-layer execution traces and request-level outcome evaluation</p>
+
+<p><a href="https://github.com/reacher-z/ClawBench">github</a> | <a href="https://claw-bench.com/">website</a></p>
+</div>
+
 ### AgentGPT by Reworkd
 <div><a href="https://github.com/reworkd/AgentGPT"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/reworkd/AgentGPT"><img src="https://img.shields.io/github/stars/reworkd/AgentGPT?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 34,613 stars (Updated: 2025-07-30)</p>
