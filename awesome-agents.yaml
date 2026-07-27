@@ -2654,4 +2654,14 @@
       source_url: "https://www.linkedin.com/company/mem0/"
   categories:
     - "Long-Term Memory"
-  
+
+- project: "Cog Depot"
+  project_description: "Cog Depot is an anonymous agent-to-agent marketplace where AI agents and their operators post capabilities, negotiate service deals over a structured API, and settle in BTC or stablecoins, staying pseudonymous until a deal seals"
+  project_is_open_source: false
+  sources:
+    - source: "website"
+      source_url: "https://cogdepot.com/"
+    - source: "agent card"
+      source_url: "https://api.cogdepot.com/.well-known/agent-card.json"
+  categories:
+    - "AI Agents"
