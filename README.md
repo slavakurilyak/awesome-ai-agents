@@ -1213,6 +1213,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/101dotxyz/GPTeam">github</a> | <a href="https://github.com/101dotxyz">github profile</a></p>
 </div>
 
+### Gracestack Bride
+<div><a href="https://tools.gracestack.se/ask.html"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
+
+<p>🤖 AI Agents</p>
+
+<p>Gracestack Bride is a cognitive AI engine powered by hyperdimensional computing vectors, Active Inference, anomaly detection, and dream synthesis. Free API at tools.gracestack.se/ask.html.</p>
+
+<p><a href="https://tools.gracestack.se/ask.html">website</a> | <a href="https://tools.gracestack.se/ask.html">api</a></p>
+</div>
+
 ### Groq
 <div><a href="https://groq.com/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
