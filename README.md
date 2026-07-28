@@ -543,6 +543,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/BloopAI/bloop">github</a></p>
 </div>
 
+### BundleDex
+<div><a href="https://github.com/McClawdDigital/bundledex"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/McClawdDigital/bundledex"><img src="https://img.shields.io/github/stars/McClawdDigital/bundledex?style=social" alt="GitHub stars"></a></div>
+
+<p>⚙️ Development Frameworks</p>
+
+<p>BundleDex is the definitive registry for Open Knowledge Format (OKF) bundles — 409 bundles across 177 OKF-conformant repositories (3,889 stars indexed). Features MCP tools for AI agent discovery, REST API endpoints, and an llms.txt endpoint for LLM-friendly directory access.</p>
+
+<p><a href="https://github.com/McClawdDigital/bundledex">github</a> | <a href="https://bundledex.net">website</a></p>
+</div>
+
 ### BrainSoup
 <div><a href="https://www.nurgo-software.com/products/brainsoup"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 

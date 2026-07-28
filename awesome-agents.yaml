@@ -457,6 +457,17 @@
   categories:
     - "AI Agents"
 
+- project: "BundleDex"
+  project_description: "BundleDex is the definitive registry for Open Knowledge Format (OKF) bundles — 409 bundles across 177 OKF-conformant repositories (3,889 stars indexed). Features MCP tools for AI agent discovery, REST API endpoints, and an llms.txt endpoint for LLM-friendly directory access."
+  project_is_open_source: true
+  sources:
+    - source: "github"
+      source_url: "https://github.com/McClawdDigital/bundledex"
+    - source: "website"
+      source_url: "https://bundledex.net"
+  categories:
+    - "Development Frameworks"
+
 - project: "Cody"
   project_description: "Cody, an AI coding assistant, now offers an enterprise version with enhanced security, scalability, and control for organizations, supporting various IDEs and providing AI-powered autocomplete, chat assistance, and custom command capabilities"
   project_is_open_source: true
