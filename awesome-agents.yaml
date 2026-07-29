@@ -1603,6 +1603,15 @@
   categories:
     - "Phone Calling"
 
+- project: "Workforce Wave"
+  project_description: "Workforce Wave is an AI voice receptionist and virtual receptionist platform for small and mid-size businesses, handling 24/7 call answering, appointment booking, lead capture, and after-hours coverage"
+  project_is_open_source: false
+  sources:
+    - source: "website"
+      source_url: "https://www.workforcewave.com/"
+  categories:
+    - "Phone Calling"
+
 - project: "ElevenLabs"
   project_description: "ElevenLabs is a software company that develops AI-powered, natural-sounding speech synthesis and text-to-speech software, with the mission of making content universally accessible in any language and voice"
   project_is_open_source: false
