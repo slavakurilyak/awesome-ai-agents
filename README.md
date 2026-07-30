@@ -1216,7 +1216,7 @@ Here's an awesome list of AI agents:
 ### Groq
 <div><a href="https://groq.com/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
-<p>🧠🔧 Model Providers With Function Calling Support | 🧠 Model Providers</p>
+<p>🧠 Model Providers | 🧠🔧 Model Providers With Function Calling Support</p>
 
 <p>GroqCloud API endpoints support tool use for programmatic execution of specified operations through requests with explicitly defined operations, allowing Groq API model endpoints to deliver structured JSON output that can be used to directly invoke functions from desired codebases; these following models powered by Groq all support tool use: `llama3-70b`, `llama3-8b`, `mixtral-8x7b`, `gemma-7b-it`; parallel tool calling is enabled for both Llama3 models</p>
 
@@ -2391,6 +2391,16 @@ Here's an awesome list of AI agents:
 <p>XAgent is an open-source, experimental Large Language Model-driven autonomous agent designed to autonomously solve a wide range of tasks with features like autonomy, safety, extensibility, a GUI for easy interaction, and the ability to cooperate with humans</p>
 
 <p><a href="https://github.com/OpenBMB/XAgent">github</a> | <a href="https://www.youtube.com/watch?v=QGkpd-tsFPA">demo</a> | <a href="https://xagent-doc.readthedocs.io/en/latest/">docs</a> | <a href="https://blog.x-agent.net/blog/xagent/">blog</a></p>
+</div>
+
+### Xquik
+<div><a href="https://github.com/Xquik-dev/x-twitter-scraper"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/Xquik-dev/x-twitter-scraper"><img src="https://img.shields.io/github/stars/Xquik-dev/x-twitter-scraper?style=social" alt="GitHub stars"></a></div>
+
+<p>🔧 Tool Calling (Function Calling)</p>
+
+<p>Xquik provides open-source agent Skills for X/Twitter research, monitoring, exports, webhooks, and confirmation-gated publishing through REST and MCP. Xquik is an independent third-party service. Not affiliated with X Corp. "Twitter" and "X" are trademarks of X Corp.</p>
+
+<p><a href="https://github.com/Xquik-dev/x-twitter-scraper">github</a> | <a href="https://xquik.com">website</a> | <a href="https://docs.xquik.com">docs</a></p>
 </div>
 
 ### Zep

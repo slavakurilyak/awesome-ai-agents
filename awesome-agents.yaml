@@ -569,6 +569,19 @@
   categories:
     - "AI Agents"
 
+- project: "Xquik"
+  project_description: 'Xquik provides open-source agent Skills for X/Twitter research, monitoring, exports, webhooks, and confirmation-gated publishing through REST and MCP. Xquik is an independent third-party service. Not affiliated with X Corp. "Twitter" and "X" are trademarks of X Corp.'
+  project_is_open_source: true
+  sources:
+    - source: "github"
+      source_url: "https://github.com/Xquik-dev/x-twitter-scraper"
+    - source: "website"
+      source_url: "https://xquik.com"
+    - source: "docs"
+      source_url: "https://docs.xquik.com"
+  categories:
+    - "Tool Calling (Function Calling)"
+
 - project: "BrainSoup"
   project_description: "BrainSoup is a multi-agent and multi-LLM native client, enabling users to create a team of personalized AI agents that can learn, remember, react to events, use tools, leverage the local resources of the user's computer, and work together to solve tasks autonomously"
   project_is_open_source: false
@@ -2654,4 +2667,3 @@
       source_url: "https://www.linkedin.com/company/mem0/"
   categories:
     - "Long-Term Memory"
-  

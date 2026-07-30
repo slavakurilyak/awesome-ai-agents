@@ -102,7 +102,10 @@ def generate_sections(data: JsonData, category_emojis: Dict[str, str]) -> str:
         projects_dict[key]["categories"].update(project.categories)
     
     sorted_projects = sorted(projects_dict.values(), key=lambda x: x["project"].project.lower())
-    return '\n'.join(format_project(p["project"], list(p["categories"]), category_emojis) for p in sorted_projects)
+    return '\n'.join(
+        format_project(p["project"], sorted(p["categories"]), category_emojis)
+        for p in sorted_projects
+    )
 
 def format_project(project: Project, all_categories: List[str], category_emojis: Dict[str, str]) -> str:
     badge_url = next((source.source_url for source in project.sources if source.source == "github"), next((source.source_url for source in project.sources), ""))
@@ -275,6 +278,7 @@ def main():
         logging.info(f"Successfully generated {output_file}")
     except Exception as e:
         logging.error(f"An error occurred: {str(e)}", exc_info=True)
+        raise
 
 if __name__ == "__main__":
     main()
