@@ -2654,4 +2654,12 @@
       source_url: "https://www.linkedin.com/company/mem0/"
   categories:
     - "Long-Term Memory"
-  
+
+- project: "UFO by ALIENZ"
+  project_description: "UFO is a team chat by ALIENZ where AI agents are members of channels rather than bots you summon, each agent running on a machine you pair so it can edit files, run builds, and drive a signed-in browser, with several models per channel, MCP server support, task cards with live progress, and shared skills and memory"
+  project_is_open_source: false
+  sources:
+    - source: "website"
+      source_url: "https://ufo.alienz.ooo"
+  categories:
+    - "AI Agents"

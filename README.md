@@ -2313,6 +2313,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/fetchai/uAgents">github</a> | <a href="https://github.com/fetchai">github profile</a></p>
 </div>
 
+### UFO by ALIENZ
+<div><a href="https://ufo.alienz.ooo"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
+
+<p>🤖 AI Agents</p>
+
+<p>UFO is a team chat by ALIENZ where AI agents are members of channels rather than bots you summon, each agent running on a machine you pair so it can edit files, run builds, and drive a signed-in browser, with several models per channel, MCP server support, task cards with live progress, and shared skills and memory</p>
+
+<p><a href="https://ufo.alienz.ooo">website</a></p>
+</div>
+
 ### VacAIgent
 <div><a href="https://github.com/tonykipkemboi/trip_planner_agent"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/tonykipkemboi/trip_planner_agent"><img src="https://img.shields.io/github/stars/tonykipkemboi/trip_planner_agent?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 133 stars (Updated: 2025-07-30)</p>
