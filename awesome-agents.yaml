@@ -2493,6 +2493,17 @@
   categories:
     - "Flow Engineering (Platform Engineering)"
 
+- project: "rote"
+  project_description: "An open source CLI that compiles a proven agent skill into a typed, deterministic pipeline, turning fixed logic into reviewable Python or TypeScript with per-step tests while judgment steps stay as typed LLM-judge signatures, and emitting DBOS, Temporal, Cloudflare Workflows, Inngest, or plain Python/TS"
+  project_is_open_source: true
+  sources:
+    - source: "github"
+      source_url: "https://github.com/trevhud/rote"
+    - source: "website"
+      source_url: "https://roteskills.com"
+  categories:
+    - "Flow Engineering (Platform Engineering)"
+
 - project: "elia"
   project_description: "Keyboard-centric terminal user interface for interacting with large language models (LLMs) like ChatGPT, Claude, Llama 3, Phi 3, Mistral, and Gemma, offering benefits such as efficient, terminal-based interaction, easy switching between multiple models, local model support, and the ability to store conversations in a local SQLite database"
   project_is_open_source: true
