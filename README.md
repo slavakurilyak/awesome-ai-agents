@@ -2403,6 +2403,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://www.getzep.com/">website</a> | <a href="https://github.com/getzep/zep/">github</a></p>
 </div>
 
+### agent-kit
+<div><a href="https://github.com/socialrobot-io/agent-kit"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/socialrobot-io/agent-kit"><img src="https://img.shields.io/github/stars/socialrobot-io/agent-kit?style=social" alt="GitHub stars"></a></div>
+<p>⭐ 1 star (Updated: 2025-07-31)</p>
+<p>🤖 AI Agents</p>
+
+<p>agent-kit solves the problem of deploying AI agents to real customers: per-tenant isolation, sandboxed execution, curated memory, and human-gated learning, all as an npm library with no complex infrastructure.</p>
+
+<p><a href="https://github.com/socialrobot-io/agent-kit">github</a> | <a href="https://www.npmjs.com/package/@socialrobot-io/agent-kit-core">npm</a></p>
+</div>
+
 
 ## 🙋‍♂️ Hire Me
 
