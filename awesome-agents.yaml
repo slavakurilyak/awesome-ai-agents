@@ -1,3 +1,14 @@
+- project: "Aeon"
+  project_description: "Autonomous agent framework that runs unattended on GitHub Actions, on a cron schedule or reactive repo triggers. Agent behavior is defined as Markdown skills that dispatch to one of six coding-agent harnesses (Claude Code, Codex, Grok, Pi, Vibe, Kimi) behind one contract, with output quality scoring, git-persisted memory, a self-healing loop, and an MCP server exposing every skill as a tool"
+  project_is_open_source: true
+  sources:
+    - source: "code"
+      source_url: "https://github.com/aeonfun/aeon"
+    - source: "website"
+      source_url: "https://www.aeon.fun/"
+  categories:
+    - "AI Agents"
+
 - project: "AgentX"
   project_description: "AgentX is an AI-powered sales assistant designed to enhance sales strategies and efficiency through advanced features like a Memory Module and Online Mode, leveraging industry best practices for smarter selling"
   project_is_open_source: false
