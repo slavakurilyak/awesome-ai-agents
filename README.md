@@ -37,16 +37,7 @@ According to [Andrew Ng (@andrewyng)](https://github.com/andrewyng):
 ## 🚀 Rising 10 Projects (Recently Active, Excluding Top 10)
 
 <ol>
-<li><a href="https://github.com/gpt-engineer-org/gpt-engineer"><strong>GPT Engineer</strong></a> - 54,614 stars (Updated: 2025-07-30)<br>GPT-Engineer is an AI-powered tool allowing users to specify software in natural language, automatically generating and executing code, with options for improvement suggestions, and fostering collaboration within the open-source community</li>
-<li><a href="https://github.com/microsoft/autogen"><strong>AutoGen by Microsoft</strong></a> - 48,077 stars (Updated: 2025-07-30)<br>AutoGen is a multi-agent conversation framework facilitating the development of next-gen LLM applications, highlighted by various accomplishments and offering enhanced LLM inferences, customizable agents, and comprehensive documentation</li>
-<li><a href="https://github.com/microsoft/autogen"><strong>AutoGen Studio by Microsoft</strong></a> - 48,077 stars (Updated: 2025-07-30)<br>AutoGen Studio 2.0 is Microsoft's advanced AI development tool, offering a user-friendly interface, powerful Python API, and comprehensive features for creating and controlling AI agents and workflows</li>
-<li><a href="https://github.com/run-llama/llama_index"><strong>LlamaIndex Tools</strong></a> - 43,398 stars (Updated: 2025-07-30)<br>LlamaIndex offers a variety of tools for building data agents, with top downloads including IonicShoppingToolSpec, OpenAPIToolSpec, WikipediaToolSpec, GmailToolSpec, and GoogleCalendarToolSpec, enabling seamless integration with user-defined functions, query engines, and third-party services</li>
-<li><a href="https://github.com/FlowiseAI/Flowise"><strong>Flowise</strong></a> - 42,100 stars (Updated: 2025-07-30)<br>Flowise simplifies the creation of applications leveraging large language models (LLMs) by providing a drag-and-drop interface for customizing AI workflows, offering easy installation, Docker support, development tools, and documentation for integrating various functionalities such as authentication, streaming, and custom tools to enhance AI agents' capabilities</li>
-<li><a href="https://github.com/lm-sys/FastChat"><strong>FastChat</strong></a> - 38,916 stars (Updated: 2025-07-30)<br>FastChat is a platform for training, serving, and evaluating large language model chatbots, featuring an open-source distributed multi-model system, API compatibility, and a dataset for LLM conversations</li>
-<li><a href="https://github.com/mem0ai/mem0"><strong>mem0</strong></a> - 37,574 stars (Updated: 2025-07-30)<br>Mem0 is an intelligent memory layer for Large Language Models that enhances personalized AI experiences by retaining and utilizing contextual information across various applications.</li>
-<li><a href="https://github.com/calcom/cal.com/tree/main/apps/ai"><strong>Cal.ai</strong></a> - 37,384 stars (Updated: 2025-07-30)<br>Cal.ai is an open-source AI scheduling assistant that manages email communications for booking, rearranging, and inquiring about meetings, leveraging a LangChain Agent Executor and MailParser for efficient scheduling without API key exposure</li>
-<li><a href="https://github.com/paul-gauthier/aider"><strong>Aider</strong></a> - 36,185 stars (Updated: 2025-07-30)<br>Aider is a command-line tool for AI-assisted pair programming, allowing code editing in local git repositories with GPT-3.5/GPT-4, featuring direct file edits, automatic git commits, and support for most popular programming languages</li>
-<li><a href="https://github.com/janhq/jan"><strong>Jan</strong></a> - 35,212 stars (Updated: 2025-07-30)<br>Jan is an open-source, development-stage ChatGPT alternative that operates fully offline on diverse hardware platforms, supporting universal architectures from PCs to multi-GPU clusters</li>
+<li><a href="https://github.com/Orkas-AI/Orkas"><strong>Orkas</strong></a> - 982 stars (Updated: 2026-08-04)<br>Orkas is an open-source, local-first desktop AI team whose Commander decomposes goals and coordinates specialist agents in parallel or sequence, with support for local coding-agent runtimes and bring-your-own model providers</li>
 </ol>
 
 ## ✍️ All Projects
@@ -1871,6 +1862,16 @@ Here's an awesome list of AI agents:
 <p>OpenRouter.ai is a platform that provides access to a wide range of large language models, including open-source and proprietary options like ChatGPT, Gemini, and Perplexity, allowing users to find the best models and pricing for their prompts and use cases</p>
 
 <p><a href="https://openrouter.ai/">website</a> | <a href="https://openrouter.ai/docs">docs</a></p>
+</div>
+
+### Orkas
+<div><a href="https://github.com/Orkas-AI/Orkas"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/Orkas-AI/Orkas"><img src="https://img.shields.io/github/stars/Orkas-AI/Orkas?style=social" alt="GitHub stars"></a></div>
+<p>⭐ 982 stars (Updated: 2026-08-04)</p>
+<p>🤖 AI Agents | 💻 Operating System (OS)</p>
+
+<p>Orkas is an open-source, local-first desktop AI team whose Commander decomposes goals and coordinates specialist agents in parallel or sequence, with support for local coding-agent runtimes and bring-your-own model providers</p>
+
+<p><a href="https://github.com/Orkas-AI/Orkas">github</a></p>
 </div>
 
 ### Outlines

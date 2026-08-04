@@ -2654,4 +2654,13 @@
       source_url: "https://www.linkedin.com/company/mem0/"
   categories:
     - "Long-Term Memory"
-  
+
+- project: "Orkas"
+  project_description: "Orkas is an open-source, local-first desktop AI team whose Commander decomposes goals and coordinates specialist agents in parallel or sequence, with support for local coding-agent runtimes and bring-your-own model providers"
+  project_is_open_source: true
+  sources:
+    - source: "github"
+      source_url: "https://github.com/Orkas-AI/Orkas"
+  categories:
+    - "AI Agents"
+    - "Operating System (OS)"
