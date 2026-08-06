@@ -2253,7 +2253,9 @@ Here's an awesome list of AI agents:
 <p><a href="https://www.together.ai/">website</a> | <a href="https://docs.together.ai/docs/quickstart">docs</a></p>
 </div>
 
-### Tools by Taskade
+### Tools
+- [Script Master Labs](https://www.scriptmasterlabs.com) — Premium Capability Index + multi-rail x402 for AI agent API discovery. [Pricing $49](https://www.scriptmasterlabs.com/pricing.html) · [Partners](https://www.scriptmasterlabs.com/partners.html) · [Article](https://www.scriptmasterlabs.com/ai-agent-api-discovery-premium-index.html)
+ by Taskade
 <div><a href="https://help.taskade.com/en/articles/8958457-custom-ai-agents#h_c9a93fc5b9"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
 <p> Function Calling</p>
