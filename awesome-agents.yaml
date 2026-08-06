@@ -2005,6 +2005,17 @@
   categories:
     - "Safety Guardrails (Safeguarding)"
 
+- project: "AIActGuard"
+  project_description: "AIActGuard is drop-in EU AI Act compliance middleware for agentic AI — audit trails, risk classification, and human-approval gates added as a decorator/callback around an existing agent (LangChain, CrewAI, Claude Agent SDK, LangGraph, AutoGen, OpenAI Agents SDK) rather than a new orchestrator, plus drafting tools for the supporting paperwork (technical documentation, conformity checklists, FRIAs, incident reports, NIST/ISO mappings)"
+  project_is_open_source: true
+  sources:
+    - source: "github"
+      source_url: "https://github.com/NavikkumarModi/AIActGuard"
+    - source: "pypi"
+      source_url: "https://pypi.org/project/aiactguard/"
+  categories:
+    - "Safety Guardrails (Safeguarding)"
+
 - project: "FuzzTypes"
   project_description: "FuzzTypes is a Pydantic extension library providing autocorrecting annotation types, enhancing Pydantic's data conversions for AI agents by enabling powerful normalization capabilities like named entity linking to ensure structured data consists of 'smart things' instead of 'dumb strings'"
   project_is_open_source: true

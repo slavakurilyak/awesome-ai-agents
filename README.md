@@ -303,6 +303,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/e2b-dev/ai-artifacts">github example</a> | <a href="https://www.reddit.com/r/ClaudeAI/comments/1dmy6y2/open_source_version_of_anthropics_artifacts_ui/">reddit announcement</a> | <a href="https://github.com/e2b-dev/ai-artifacts">github</a></p>
 </div>
 
+### AIActGuard
+<div><a href="https://github.com/NavikkumarModi/AIActGuard"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/NavikkumarModi/AIActGuard"><img src="https://img.shields.io/github/stars/NavikkumarModi/AIActGuard?style=social" alt="GitHub stars"></a></div>
+<p>⭐ 0 stars (Updated: 2026-08-06)</p>
+<p>🛡️ Safety Guardrails (Safeguarding)</p>
+
+<p>AIActGuard is drop-in EU AI Act compliance middleware for agentic AI — audit trails, risk classification, and human-approval gates added as a decorator/callback around an existing agent (LangChain, CrewAI, Claude Agent SDK, LangGraph, AutoGen, OpenAI Agents SDK) rather than a new orchestrator, plus drafting tools for the supporting paperwork (technical documentation, conformity checklists, FRIAs, incident reports, NIST/ISO mappings)</p>
+
+<p><a href="https://github.com/NavikkumarModi/AIActGuard">github</a> | <a href="https://pypi.org/project/aiactguard/">pypi</a></p>
+</div>
+
 ### Aider
 <div><a href="https://github.com/paul-gauthier/aider"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/paul-gauthier/aider"><img src="https://img.shields.io/github/stars/paul-gauthier/aider?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 36,185 stars (Updated: 2025-07-30)</p>

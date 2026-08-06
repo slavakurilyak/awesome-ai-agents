@@ -4655,6 +4655,26 @@
       "categories": [
         "Long-Term Memory"
       ]
+    },
+    {
+      "project": "AIActGuard",
+      "project_description": "AIActGuard is drop-in EU AI Act compliance middleware for agentic AI \u2014 audit trails, risk classification, and human-approval gates added as a decorator/callback around an existing agent (LangChain, CrewAI, Claude Agent SDK, LangGraph, AutoGen, OpenAI Agents SDK) rather than a new orchestrator, plus drafting tools for the supporting paperwork (technical documentation, conformity checklists, FRIAs, incident reports, NIST/ISO mappings)",
+      "project_is_open_source": true,
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/NavikkumarModi/AIActGuard",
+          "stars_last_updated": "2026-08-06T14:41:07.000000",
+          "stars": 0
+        },
+        {
+          "source": "pypi",
+          "source_url": "https://pypi.org/project/aiactguard/"
+        }
+      ],
+      "categories": [
+        "Safety Guardrails (Safeguarding)"
+      ]
     }
   ],
   "categories": [
