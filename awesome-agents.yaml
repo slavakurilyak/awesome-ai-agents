@@ -2655,3 +2655,26 @@
   categories:
     - "Long-Term Memory"
   
+- project: "SARA"
+  project_description: "Open-source WhatsApp AI agent with multi-provider LLM support (Groq, Cerebras, Mistral), 30+ function-calling tools, autonomy gate, and vertical agent architecture for 20 industries. Production-ready with WAHA bridge and proactive behavior system"
+  project_is_open_source: true
+  sources:
+    - source: "github"
+      source_url: "https://github.com/Alessandro114/sara"
+    - source: "website"
+      source_url: "https://get-scala.com"
+  categories:
+    - "AI Agents"
+    - "Chatbots"
+
+- project: "LandIQ"
+  project_description: "Autonomous AI agent for real estate feasibility analysis. Implements PLAN-OBSERVE-ANALYZE-VERDICT agent loop with multi-country data connectors (IT/ES/PT/GE). Supports Groq, Cerebras, Mistral, OpenAI via BYOK model"
+  project_is_open_source: true
+  sources:
+    - source: "github"
+      source_url: "https://github.com/Alessandro114/landiq"
+    - source: "website"
+      source_url: "https://get-scala.com"
+  categories:
+    - "AI Agents"
+    - "Real Estate"
