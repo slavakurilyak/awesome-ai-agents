@@ -1783,6 +1783,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/MLT-OSS/open-assistant-api">github</a></p>
 </div>
 
+### Open Index
+<div><a href="https://github.com/DrDroidLab/open-index"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/DrDroidLab/open-index"><img src="https://img.shields.io/github/stars/DrDroidLab/open-index?style=social" alt="GitHub stars"></a></div>
+
+<p>🧠 Long-Term Memory</p>
+
+<p>Open Index is an open-source context layer for domain-specialized AI agents that builds searchable, continuously improving knowledge graphs with structured schemas, semantic search, and MCP-based read/write access</p>
+
+<p><a href="https://github.com/DrDroidLab/open-index">github</a></p>
+</div>
+
 ### Open Interpreter
 <div><a href="https://github.com/OpenInterpreter/open-interpreter"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/OpenInterpreter/open-interpreter"><img src="https://img.shields.io/github/stars/OpenInterpreter/open-interpreter?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 60,095 stars (Updated: 2025-07-30)</p>

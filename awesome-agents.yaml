@@ -720,6 +720,15 @@
   categories:
     - "Long-Term Memory"
 
+- project: "Open Index"
+  project_description: "Open Index is an open-source context layer for domain-specialized AI agents that builds searchable, continuously improving knowledge graphs with structured schemas, semantic search, and MCP-based read/write access"
+  project_is_open_source: true
+  sources:
+    - source: "github"
+      source_url: "https://github.com/DrDroidLab/open-index"
+  categories:
+    - "Long-Term Memory"
+
 - project: "Swarms"
   project_description: "Swarms orchestrates multi-agent collaboration for production-grade applications, solving issues like short memory and high costs, with customizable tools for specific needs, currently used by RBC, John Deere, and AI startups"
   project_is_open_source: true
@@ -2654,4 +2663,3 @@
       source_url: "https://www.linkedin.com/company/mem0/"
   categories:
     - "Long-Term Memory"
-  
