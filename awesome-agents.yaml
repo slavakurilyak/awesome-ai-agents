@@ -2654,4 +2654,13 @@
       source_url: "https://www.linkedin.com/company/mem0/"
   categories:
     - "Long-Term Memory"
-  
+- project: "stipend.sh"
+  project_description: "Non-custodial USDC wallet on Base that an AI agent installs by itself, with per-transaction, per-day and per-counterparty spending limits enforced in code between deciding and signing"
+  project_is_open_source: true
+  sources:
+    - source: "GitHub"
+      source_url: "https://github.com/stipend-sh/stipend"
+    - source: "website"
+      source_url: "https://stipend.sh"
+  categories:
+    - "Tool Calling (Function Calling)"
