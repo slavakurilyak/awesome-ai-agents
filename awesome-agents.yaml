@@ -2654,4 +2654,22 @@
       source_url: "https://www.linkedin.com/company/mem0/"
   categories:
     - "Long-Term Memory"
-  
+
+- project: "Atomic Agent"
+  project_description: "Atomic Agent is a local-first CLI and TUI coding and agentic assistant that runs open-weight models entirely on your machine through a llama.cpp fork, with no account or API key required. It ships 56 built-in tools spanning browser, filesystem, git, memory, and vision, supports MCP, uses a five-layer local memory system, and runs on macOS, Linux, and Windows"
+  project_is_open_source: true
+  sources:
+    - source: "github"
+      source_url: "https://github.com/AtomicBot-ai/atomic-agent"
+    - source: "website"
+      source_url: "https://atomicagent.io"
+    - source: "docs"
+      source_url: "https://atomicagent.io/docs"
+    - source: "twitter"
+      source_url: "https://x.com/atomicagent_io"
+    - source: "discord"
+      source_url: "https://discord.gg/Us7qXtDGw"
+  categories:
+    - "AI Agents"
+    - "Local Inference"
+    - "Terminal-Friendly"
