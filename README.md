@@ -51,6 +51,11 @@ According to [Andrew Ng (@andrewyng)](https://github.com/andrewyng):
 
 ## ✍️ All Projects
 
+<div><a href="https://github.com/jayamitkatariya/clickyyy"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/jayamitkatariya/clickyyy"><img src="https://img.shields.io/github/stars/jayamitkatariya/clickyyy?style=social" alt="GitHub stars"></a></div>
+<p>Clickyy: Shake your cursor to summon an AI agent that sees your screen and clicks, types, drags, and acts for you on macOS.</p>
+
+## ✍️ All Projects
+
 Here's an awesome list of AI agents:
 
 ### 01
