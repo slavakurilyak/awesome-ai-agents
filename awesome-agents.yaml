@@ -2654,4 +2654,17 @@
       source_url: "https://www.linkedin.com/company/mem0/"
   categories:
     - "Long-Term Memory"
-  
+
+- project: "SandBase"
+  project_description: "SandBase is a managed agent platform for combining model instructions and tools, then running agents through on-demand endpoints, scheduled deployments, or persistent sessions"
+  project_is_open_source: false
+  sources:
+    - source: "github"
+      source_url: "https://github.com/sandbaseai/sandbase-docs"
+      stars_last_updated: "2026-08-15"
+    - source: "website"
+      source_url: "https://sandbase.ai"
+    - source: "docs"
+      source_url: "https://docs.sandbase.ai/agents/"
+  categories:
+    - "Development Frameworks"

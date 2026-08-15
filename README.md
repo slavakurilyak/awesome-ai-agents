@@ -2033,6 +2033,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://rime.ai/">website</a></p>
 </div>
 
+### SandBase
+<div><a href="https://github.com/sandbaseai/sandbase-docs"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a> <a href="https://github.com/sandbaseai/sandbase-docs"><img src="https://img.shields.io/github/stars/sandbaseai/sandbase-docs?style=social" alt="GitHub stars"></a></div>
+
+<p>⚙️ Development Frameworks</p>
+
+<p>SandBase is a managed agent platform for combining model instructions and tools, then running agents through on-demand endpoints, scheduled deployments, or persistent sessions</p>
+
+<p><a href="https://github.com/sandbaseai/sandbase-docs">github</a> | <a href="https://sandbase.ai">website</a> | <a href="https://docs.sandbase.ai/agents/">docs</a></p>
+</div>
+
 ### ScrapeGraphAI
 <div><a href="https://github.com/VinciGit00/Scrapegraph-ai"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/VinciGit00/Scrapegraph-ai"><img src="https://img.shields.io/github/stars/VinciGit00/Scrapegraph-ai?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 20,809 stars (Updated: 2025-07-30)</p>
