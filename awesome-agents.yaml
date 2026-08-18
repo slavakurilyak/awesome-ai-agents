@@ -2278,6 +2278,23 @@
   categories:
     - "UI Development"
 
+- project: "UIZZE"
+  project_description: "UI quality reference and finish-gate workflow for coding agents. The free MIT anti-ui-slop Skill defines product-specific design contracts and required loading, empty, error, responsive, and accessibility states. Full UIZZE adds live search and audits across 800,000+ real web and iOS screens."
+  project_is_open_source: true
+  sources:
+    - source: "github"
+      source_url: "https://github.com/uizze/uizze"
+      stars: 7
+      stars_last_updated: "2026-08-18T00:00:00Z"
+    - source: "website"
+      source_url: "https://uizze.com"
+    - source: "free Skill"
+      source_url: "https://github.com/uizze/uizze/tree/main/skills/anti-ui-slop"
+    - source: "preview"
+      source_url: "https://uizze.com/mcp/preview"
+  categories:
+    - "UI Development"
+
 - project: "Prompt2UI by sullyo"
   project_description: "An open-source project that converts prompts to user interfaces, demonstrated by creating a basic Google Calendar clone using Claude in about 2 hours, inspired by Claude Artifacts"
   project_is_open_source: true
@@ -2654,4 +2671,3 @@
       source_url: "https://www.linkedin.com/company/mem0/"
   categories:
     - "Long-Term Memory"
-  

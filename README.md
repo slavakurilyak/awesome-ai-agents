@@ -2313,6 +2313,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/fetchai/uAgents">github</a> | <a href="https://github.com/fetchai">github profile</a></p>
 </div>
 
+### UIZZE
+<div><a href="https://github.com/uizze/uizze"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/uizze/uizze"><img src="https://img.shields.io/github/stars/uizze/uizze?style=social" alt="GitHub stars"></a></div>
+<p>⭐ 7 stars (Updated: 2026-08-18)</p>
+<p>🖥️ UI Development</p>
+
+<p>UI quality reference and finish-gate workflow for coding agents. The free MIT anti-ui-slop Skill defines product-specific design contracts and required loading, empty, error, responsive, and accessibility states. Full UIZZE adds live search and audits across 800,000+ real web and iOS screens.</p>
+
+<p><a href="https://github.com/uizze/uizze">github</a> | <a href="https://uizze.com">website</a> | <a href="https://github.com/uizze/uizze/tree/main/skills/anti-ui-slop">free Skill</a> | <a href="https://uizze.com/mcp/preview">preview</a></p>
+</div>
+
 ### VacAIgent
 <div><a href="https://github.com/tonykipkemboi/trip_planner_agent"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/tonykipkemboi/trip_planner_agent"><img src="https://img.shields.io/github/stars/tonykipkemboi/trip_planner_agent?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 133 stars (Updated: 2025-07-30)</p>
