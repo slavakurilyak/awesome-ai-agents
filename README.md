@@ -1873,6 +1873,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://openrouter.ai/">website</a> | <a href="https://openrouter.ai/docs">docs</a></p>
 </div>
 
+### Offset
+<div><a href="https://github.com/The-Masked-Bear/offset-terminal"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a></div>
+
+<p>🤖 AI Agents & Coding</p>
+
+<p>Offset is a from-scratch neubrutalist terminal coding agent featuring speculative git branching and multi-model pipeline orchestration, executing parallel problem solving in isolated git worktrees across Claude, GPT-4, Gemini, and local Ollama models.</p>
+
+<p><a href="https://github.com/The-Masked-Bear/offset-terminal">github</a> | <a href="https://the-masked-bear.github.io/offset-terminal/">website</a></p>
+</div>
+
 ### Outlines
 <div><a href="https://github.com/outlines-dev/outlines"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/outlines-dev/outlines"><img src="https://img.shields.io/github/stars/outlines-dev/outlines?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 12,182 stars (Updated: 2025-07-30)</p>
