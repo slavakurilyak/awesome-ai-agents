@@ -1505,17 +1505,23 @@
       ]
     },
     {
-      "project": "Central by Zapier",
-      "project_description": "Zapier Central is an AI workspace designed to automate tasks across 6,000+ apps with AI bots, offering capabilities like live data connection, AI automation, and interaction with data sources for businesses and individual productivity enhancements",
-      "project_is_open_source": false,
+      "project": "SDK by Zapier",
+      "project_description": "The Zapier SDK is a TypeScript SDK and CLI for building agent tools and integrations against Zapier's connection layer, giving coding agents programmatic access to Zapier's app catalog and action library",
+      "project_is_open_source": true,
       "sources": [
         {
-          "source": "announcement",
-          "source_url": "https://zapier.com/blog/introducing-zapier-central-ai-bots/"
+          "source": "docs",
+          "source_url": "https://docs.zapier.com/sdk"
         },
         {
-          "source": "website",
-          "source_url": "https://zapier.com/central"
+          "source": "github",
+          "source_url": "https://github.com/zapier/sdk",
+          "stars_last_updated": "2026-08-20T17:28:31.000000",
+          "stars": 240
+        },
+        {
+          "source": "npm",
+          "source_url": "https://www.npmjs.com/package/@zapier/zapier-sdk"
         }
       ],
       "categories": [

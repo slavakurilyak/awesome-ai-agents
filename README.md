@@ -623,16 +623,6 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/camel-ai/camel">github</a> | <a href="https://github.com/camel-ai">github profile</a></p>
 </div>
 
-### Central by Zapier
-<div><a href="https://zapier.com/blog/introducing-zapier-central-ai-bots/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
-
-<p>⚙️ Development Frameworks</p>
-
-<p>Zapier Central is an AI workspace designed to automate tasks across 6,000+ apps with AI bots, offering capabilities like live data connection, AI automation, and interaction with data sources for businesses and individual productivity enhancements</p>
-
-<p><a href="https://zapier.com/blog/introducing-zapier-central-ai-bots/">announcement</a> | <a href="https://zapier.com/central">website</a></p>
-</div>
-
 ### ChartGPT
 <div><a href="https://chartgpt.io"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
@@ -2041,6 +2031,16 @@ Here's an awesome list of AI agents:
 <p>ScrapeGraph AI provides a tool for creating AI agents that can automate web scraping tasks efficiently, enhancing data extraction capabilities through the use of LangGraph, function calls, and web scraping techniques</p>
 
 <p><a href="https://github.com/VinciGit00/Scrapegraph-ai">github</a> | <a href="https://scrapegraph-doc.onrender.com/">docs</a> | <a href="https://scrapegraph-ai-demo.streamlit.appn/">demo</a></p>
+</div>
+
+### SDK by Zapier
+<div><a href="https://github.com/zapier/sdk"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/zapier/sdk"><img src="https://img.shields.io/github/stars/zapier/sdk?style=social" alt="GitHub stars"></a></div>
+<p>⭐ 240 stars (Updated: 2026-08-20)</p>
+<p>⚙️ Development Frameworks</p>
+
+<p>The Zapier SDK is a TypeScript SDK and CLI for building agent tools and integrations against Zapier's connection layer, giving coding agents programmatic access to Zapier's app catalog and action library</p>
+
+<p><a href="https://docs.zapier.com/sdk">docs</a> | <a href="https://github.com/zapier/sdk">github</a> | <a href="https://www.npmjs.com/package/@zapier/zapier-sdk">npm</a></p>
 </div>
 
 ### Self Operating Computer
