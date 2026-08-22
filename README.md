@@ -1913,6 +1913,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://www.hyperwriteai.com/personal-assistant">website</a> | <a href="https://github.com/OthersideAI">github profile</a></p>
 </div>
 
+### Persona
+
+<div><a href="https://github.com/jayamitkatariya/personacli"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/jayamitkatariya/personacli"><img src="https://img.shields.io/github/stars/jayamitkatariya/personacli?style=social" alt="GitHub stars"></a></div>
+<p>⚙️ Personal Assistant</p>
+
+<p>Persona is a local-first personal workspace: Markdown notes and tasks stored on your machine, with an AI chat grounded in your own files. Runs locally via Ollama or any OpenAI-compatible API</p>
+
+<p><a href="https://github.com/jayamitkatariya/personacli">github</a></p>
+</div>
+
 ### Pieces
 <div><a href="https://pieces.app/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
