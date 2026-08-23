@@ -906,7 +906,7 @@ Here's an awesome list of AI agents:
 ### Deepgram
 <div><a href="https://x.com/AlexReibman/status/1772774552260788296"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
-<p>🤖 AI Agents | 🎙️ Transcriber Providers</p>
+<p>🎙️ Transcriber Providers | 🤖 AI Agents</p>
 
 <p>Conversational AI tools designed for creating voice bots and agents, featuring realistic, low-latency voice technology</p>
 
@@ -1216,7 +1216,7 @@ Here's an awesome list of AI agents:
 ### Groq
 <div><a href="https://groq.com/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
-<p>🧠🔧 Model Providers With Function Calling Support | 🧠 Model Providers</p>
+<p>🧠 Model Providers | 🧠🔧 Model Providers With Function Calling Support</p>
 
 <p>GroqCloud API endpoints support tool use for programmatic execution of specified operations through requests with explicitly defined operations, allowing Groq API model endpoints to deliver structured JSON output that can be used to directly invoke functions from desired codebases; these following models powered by Groq all support tool use: `llama3-70b`, `llama3-8b`, `mixtral-8x7b`, `gemma-7b-it`; parallel tool calling is enabled for both Llama3 models</p>
 
@@ -1361,6 +1361,16 @@ Here's an awesome list of AI agents:
 <p>JARVIS aims to advance artificial general intelligence (AGI) through cutting-edge research and facilitate broader community engagement</p>
 
 <p><a href="https://github.com/microsoft/JARVIS">github</a></p>
+</div>
+
+### jaybox-core
+<div><a href="https://github.com/Jaybox-core/jaybox-core"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/Jaybox-core/jaybox-core"><img src="https://img.shields.io/github/stars/Jaybox-core/jaybox-core?style=social" alt="GitHub stars"></a></div>
+<p>⭐ 1 stars (Updated: 2025-07-30)</p>
+<p>🛡️ Safety Guardrails (Safeguarding)</p>
+
+<p>A security-hardened agentic execution runtime and Directed Acyclic Verification Graph (DAVG) engine protecting agent workflows with AST static filters and UNIX resource limits.</p>
+
+<p><a href="https://github.com/Jaybox-core/jaybox-core">github</a></p>
 </div>
 
 ### Jsonify

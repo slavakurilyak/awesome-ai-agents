@@ -4655,6 +4655,22 @@
       "categories": [
         "Long-Term Memory"
       ]
+    },
+    {
+      "project": "jaybox-core",
+      "project_description": "A security-hardened agentic execution runtime and Directed Acyclic Verification Graph (DAVG) engine protecting agent workflows with AST static filters and UNIX resource limits.",
+      "project_is_open_source": true,
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/Jaybox-core/jaybox-core",
+          "stars_last_updated": "2025-07-30T17:25:35.728442",
+          "stars": 1
+        }
+      ],
+      "categories": [
+        "Safety Guardrails (Safeguarding)"
+      ]
     }
   ],
   "categories": [
