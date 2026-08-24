@@ -53,6 +53,12 @@ According to [Andrew Ng (@andrewyng)](https://github.com/andrewyng):
 
 Here's an awesome list of AI agents:
 
+### Speculative-MCP
+<div><a href="https://github.com/VoDaiLocz/speculative-mcp"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/VoDaiLocz/speculative-mcp"><img src="https://img.shields.io/github/stars/VoDaiLocz/speculative-mcp?style=social" alt="GitHub stars"></a></div>
+<p>⚡ Developer Tools & Infrastructure (Model Context Protocol Performance Middleware)</p>
+
+Speculative-MCP is an open-source transparent proxy for MCP servers that eliminates tool call I/O latency in AI Agent loops by pre-fetching predicted read-only tools in parallel with reasoning. Reduces P95 turn latency by 35%-48%.
+
 ### 01
 <div><a href="https://github.com/OpenInterpreter/01"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/OpenInterpreter/01"><img src="https://img.shields.io/github/stars/OpenInterpreter/01?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 5,080 stars (Updated: 2025-07-30)</p>
