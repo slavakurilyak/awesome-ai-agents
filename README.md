@@ -51,6 +51,16 @@ According to [Andrew Ng (@andrewyng)](https://github.com/andrewyng):
 
 ## ✍️ All Projects
 
+### Kilo-Kit
+<div><a href="https://github.com/VoDaiLocz/kilo-kit-mcp"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/VoDaiLocz/kilo-kit-mcp"><img src="https://img.shields.io/github/stars/VoDaiLocz/kilo-kit-mcp?style=social" alt="GitHub stars"></a></div>
+<p>⚙️ Development Frameworks & MCP Runtime</p>
+
+<p>Kilo-Kit is an all-in-one MCP server and 177-skill library providing protocol-level C4 workflow gates, sandboxed execution, and cognitive reasoning engines (Tree of Thoughts, Adversarial Grilling, 5-Whys Root Cause Tracer, Context Compactor, Self-Evolution) for coding agents across Antigravity, Cursor, Windsurf, Claude Code, and Codex.</p>
+
+<p><a href="https://github.com/VoDaiLocz/kilo-kit-mcp">github</a></p>
+</div>
+
+
 Here's an awesome list of AI agents:
 
 ### 01
