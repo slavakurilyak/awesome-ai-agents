@@ -2273,6 +2273,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/neonbjb/tortoise-tts">github</a> | <a href="https://arxiv.org/abs/2305.07243">research paper</a> | <a href="https://huggingface.co/spaces/Manmay/tortoise-tts">demo</a></p>
 </div>
 
+### Tracefold
+<div><a href="https://github.com/TraceFold/tracefold"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/TraceFold/tracefold"><img src="https://img.shields.io/github/stars/TraceFold/tracefold?style=social" alt="GitHub stars"></a></div>
+<p>🛡️ AI Safety and Guardrails</p>
+
+<p>Tracefold is a verified transformation calculus and undo engine in Rust for AI agent tool executions and filesystem mutations. It escrows verified pre-commit inverses before effects land, producing signed offline-verifiable DSSE receipts and Merkle tile logs.</p>
+
+<p><a href="https://github.com/TraceFold/tracefold">github</a></p>
+</div>
+
 ### Traces by Weights & Biases
 <div><a href="https://wandb.ai/site/traces"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
