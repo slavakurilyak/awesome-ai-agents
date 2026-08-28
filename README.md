@@ -2243,6 +2243,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://teamx.work/">website</a></p>
 </div>
 
+### The Context Company
+<div><a href="https://www.thecontextcompany.com"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
+
+<p>👁️ Observability Frameworks</p>
+
+<p>The Context Company is an AI agent observability and customer analytics platform that helps companies understand and improve their agents in production by surfacing recurring patterns and account-level insights from production conversations and traces</p>
+
+<p><a href="https://www.thecontextcompany.com">website</a> | <a href="https://docs.thecontextcompany.com">docs</a></p>
+</div>
+
 ### TogetherAI
 <div><a href="https://www.together.ai/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 

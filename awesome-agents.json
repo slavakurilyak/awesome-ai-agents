@@ -4655,6 +4655,24 @@
       "categories": [
         "Long-Term Memory"
       ]
+    },
+    {
+      "project": "The Context Company",
+      "project_description": "The Context Company is an AI agent observability and customer analytics platform that helps companies understand and improve their agents in production by surfacing recurring patterns and account-level insights from production conversations and traces",
+      "project_is_open_source": false,
+      "sources": [
+        {
+          "source": "website",
+          "source_url": "https://www.thecontextcompany.com"
+        },
+        {
+          "source": "docs",
+          "source_url": "https://docs.thecontextcompany.com"
+        }
+      ],
+      "categories": [
+        "Observability Frameworks"
+      ]
     }
   ],
   "categories": [
