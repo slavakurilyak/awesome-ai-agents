@@ -2654,4 +2654,17 @@
       source_url: "https://www.linkedin.com/company/mem0/"
   categories:
     - "Long-Term Memory"
-  
+
+- project: "Screenpipe"
+  project_description: "Screenpipe captures screen and audio locally, making work history searchable to AI assistants and scheduled agents through MCP while keeping captured data on-device by default."
+  project_is_open_source: false
+  sources:
+    - source: "github"
+      source_url: "https://github.com/screenpipe/screenpipe"
+    - source: "website"
+      source_url: "https://screenpi.pe/"
+  categories:
+    - "AI Agents"
+    - "Long-Term Memory"
+    - "Local Inference"
+    - "Personal Assistants"

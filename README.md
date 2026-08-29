@@ -2043,6 +2043,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/VinciGit00/Scrapegraph-ai">github</a> | <a href="https://scrapegraph-doc.onrender.com/">docs</a> | <a href="https://scrapegraph-ai-demo.streamlit.appn/">demo</a></p>
 </div>
 
+### Screenpipe
+<div><a href="https://github.com/screenpipe/screenpipe"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a> <a href="https://github.com/screenpipe/screenpipe"><img src="https://img.shields.io/github/stars/screenpipe/screenpipe?style=social" alt="GitHub stars"></a></div>
+
+<p>🤖 AI Agents | 🧠 Long-Term Memory | 💻 Local Inference | 👤 Personal Assistants</p>
+
+<p>Screenpipe captures screen and audio locally, making work history searchable to AI assistants and scheduled agents through MCP while keeping captured data on-device by default.</p>
+
+<p><a href="https://github.com/screenpipe/screenpipe">github</a> | <a href="https://screenpi.pe/">website</a></p>
+</div>
+
 ### Self Operating Computer
 <div><a href="https://github.com/OthersideAI/self-operating-computer"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/OthersideAI/self-operating-computer"><img src="https://img.shields.io/github/stars/OthersideAI/self-operating-computer?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 9,808 stars (Updated: 2025-07-30)</p>
