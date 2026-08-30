@@ -2033,6 +2033,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://rime.ai/">website</a></p>
 </div>
 
+### SandBase Harness
+<div><a href="https://github.com/sandbaseai/sandbase-harness"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/sandbaseai/sandbase-harness"><img src="https://img.shields.io/github/stars/sandbaseai/sandbase-harness?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents</p>
+
+<p>SandBase Harness is a local-first TypeScript runtime for building and operating AI agents, with persistent sessions, sandboxed tools, MCP integration, memory, credentials, audit logs, and replay support</p>
+
+<p><a href="https://github.com/sandbaseai/sandbase-harness">github</a> | <a href="https://sandbase.ai/docs/sandbase-harness/">docs</a> | <a href="https://registry.modelcontextprotocol.io/?q=sandbase-harness">MCP Registry</a></p>
+</div>
+
 ### ScrapeGraphAI
 <div><a href="https://github.com/VinciGit00/Scrapegraph-ai"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/VinciGit00/Scrapegraph-ai"><img src="https://img.shields.io/github/stars/VinciGit00/Scrapegraph-ai?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 20,809 stars (Updated: 2025-07-30)</p>
