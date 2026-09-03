@@ -723,6 +723,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/Bklieger/Claude-React-Jumpstart">github</a> | <a href="https://x.com/BenjaminKlieger/status/1804264035464155220">twitter announcement</a></p>
 </div>
 
+### ClawMetry
+<div><a href="https://github.com/vivekchand/clawmetry"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/vivekchand/clawmetry"><img src="https://img.shields.io/github/stars/vivekchand/clawmetry?style=social" alt="GitHub stars"></a></div>
+
+<p>👁️ Observability Frameworks</p>
+
+<p>ClawMetry is a self-hosted, local-first observability dashboard and kill switch for coding agents and agent runtimes such as OpenClaw, Claude Code, Codex, Cursor, Gemini CLI and Cline, reading the session logs the runtimes already write on disk to show sessions, transcripts, tool calls, tokens and cost per session and per model, so there is no SDK to install and nothing sits in the request path</p>
+
+<p><a href="https://github.com/vivekchand/clawmetry">github</a> | <a href="https://clawmetry.com">website</a></p>
+</div>
+
 ### CLIN
 <div><a href="https://github.com/allenai/clin"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/allenai/clin"><img src="https://img.shields.io/github/stars/allenai/clin?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 83 stars (Updated: 2025-07-30)</p>
