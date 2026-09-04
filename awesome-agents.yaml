@@ -733,6 +733,7 @@
   categories:
     - "Development Frameworks"
 
+
 - project: "Lyzr"
   project_description: "Lyzr provides an enterprise-grade AI agent framework for easy configuration, deployment, and management of AI agents, supporting integration with multiple LLMs and databases, and offers ISO-compliant safety, white-glove onboarding, and 24/7 enterprise support"
   project_is_open_source: false
@@ -2654,4 +2655,16 @@
       source_url: "https://www.linkedin.com/company/mem0/"
   categories:
     - "Long-Term Memory"
-  
+
+- project: "AIWG"
+  project_description: "AIWG deploys reusable agents, skills, context, rules, and governed workflows into the native project paths used by multiple AI coding platforms"
+  project_is_open_source: true
+  sources:
+    - source: "github"
+      source_url: "https://github.com/jmagly/aiwg"
+    - source: "website"
+      source_url: "https://aiwg.io/"
+    - source: "docs"
+      source_url: "https://docs.aiwg.io/"
+  categories:
+    - "Development Frameworks"

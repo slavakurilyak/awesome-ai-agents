@@ -37,16 +37,7 @@ According to [Andrew Ng (@andrewyng)](https://github.com/andrewyng):
 ## 🚀 Rising 10 Projects (Recently Active, Excluding Top 10)
 
 <ol>
-<li><a href="https://github.com/gpt-engineer-org/gpt-engineer"><strong>GPT Engineer</strong></a> - 54,614 stars (Updated: 2025-07-30)<br>GPT-Engineer is an AI-powered tool allowing users to specify software in natural language, automatically generating and executing code, with options for improvement suggestions, and fostering collaboration within the open-source community</li>
-<li><a href="https://github.com/microsoft/autogen"><strong>AutoGen by Microsoft</strong></a> - 48,077 stars (Updated: 2025-07-30)<br>AutoGen is a multi-agent conversation framework facilitating the development of next-gen LLM applications, highlighted by various accomplishments and offering enhanced LLM inferences, customizable agents, and comprehensive documentation</li>
-<li><a href="https://github.com/microsoft/autogen"><strong>AutoGen Studio by Microsoft</strong></a> - 48,077 stars (Updated: 2025-07-30)<br>AutoGen Studio 2.0 is Microsoft's advanced AI development tool, offering a user-friendly interface, powerful Python API, and comprehensive features for creating and controlling AI agents and workflows</li>
-<li><a href="https://github.com/run-llama/llama_index"><strong>LlamaIndex Tools</strong></a> - 43,398 stars (Updated: 2025-07-30)<br>LlamaIndex offers a variety of tools for building data agents, with top downloads including IonicShoppingToolSpec, OpenAPIToolSpec, WikipediaToolSpec, GmailToolSpec, and GoogleCalendarToolSpec, enabling seamless integration with user-defined functions, query engines, and third-party services</li>
-<li><a href="https://github.com/FlowiseAI/Flowise"><strong>Flowise</strong></a> - 42,100 stars (Updated: 2025-07-30)<br>Flowise simplifies the creation of applications leveraging large language models (LLMs) by providing a drag-and-drop interface for customizing AI workflows, offering easy installation, Docker support, development tools, and documentation for integrating various functionalities such as authentication, streaming, and custom tools to enhance AI agents' capabilities</li>
-<li><a href="https://github.com/lm-sys/FastChat"><strong>FastChat</strong></a> - 38,916 stars (Updated: 2025-07-30)<br>FastChat is a platform for training, serving, and evaluating large language model chatbots, featuring an open-source distributed multi-model system, API compatibility, and a dataset for LLM conversations</li>
-<li><a href="https://github.com/mem0ai/mem0"><strong>mem0</strong></a> - 37,574 stars (Updated: 2025-07-30)<br>Mem0 is an intelligent memory layer for Large Language Models that enhances personalized AI experiences by retaining and utilizing contextual information across various applications.</li>
-<li><a href="https://github.com/calcom/cal.com/tree/main/apps/ai"><strong>Cal.ai</strong></a> - 37,384 stars (Updated: 2025-07-30)<br>Cal.ai is an open-source AI scheduling assistant that manages email communications for booking, rearranging, and inquiring about meetings, leveraging a LangChain Agent Executor and MailParser for efficient scheduling without API key exposure</li>
-<li><a href="https://github.com/paul-gauthier/aider"><strong>Aider</strong></a> - 36,185 stars (Updated: 2025-07-30)<br>Aider is a command-line tool for AI-assisted pair programming, allowing code editing in local git repositories with GPT-3.5/GPT-4, featuring direct file edits, automatic git commits, and support for most popular programming languages</li>
-<li><a href="https://github.com/janhq/jan"><strong>Jan</strong></a> - 35,212 stars (Updated: 2025-07-30)<br>Jan is an open-source, development-stage ChatGPT alternative that operates fully offline on diverse hardware platforms, supporting universal architectures from PCs to multi-GPU clusters</li>
+<li><a href="https://github.com/jmagly/aiwg"><strong>AIWG</strong></a> - 209 stars (Updated: 2026-09-03)<br>AIWG deploys reusable agents, skills, context, rules, and governed workflows into the native project paths used by multiple AI coding platforms</li>
 </ol>
 
 ## ✍️ All Projects
@@ -331,6 +322,16 @@ Here's an awesome list of AI agents:
 <p>AIOS by AGI Research is an LLM Agent Operating System which enables an operating system 'with soul' -- an important step towards AGI</p>
 
 <p><a href="https://github.com/agiresearch/AIOS">github</a> | <a href="https://github.com/agiresearch">github profile</a></p>
+</div>
+
+### AIWG
+<div><a href="https://github.com/jmagly/aiwg"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/jmagly/aiwg"><img src="https://img.shields.io/github/stars/jmagly/aiwg?style=social" alt="GitHub stars"></a></div>
+<p>⭐ 209 stars (Updated: 2026-09-03)</p>
+<p>⚙️ Development Frameworks</p>
+
+<p>AIWG deploys reusable agents, skills, context, rules, and governed workflows into the native project paths used by multiple AI coding platforms</p>
+
+<p><a href="https://github.com/jmagly/aiwg">github</a> | <a href="https://aiwg.io/">website</a> | <a href="https://docs.aiwg.io/">docs</a></p>
 </div>
 
 ### Anthropic
@@ -1216,7 +1217,7 @@ Here's an awesome list of AI agents:
 ### Groq
 <div><a href="https://groq.com/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
-<p>🧠🔧 Model Providers With Function Calling Support | 🧠 Model Providers</p>
+<p>🧠 Model Providers | 🧠🔧 Model Providers With Function Calling Support</p>
 
 <p>GroqCloud API endpoints support tool use for programmatic execution of specified operations through requests with explicitly defined operations, allowing Groq API model endpoints to deliver structured JSON output that can be used to directly invoke functions from desired codebases; these following models powered by Groq all support tool use: `llama3-70b`, `llama3-8b`, `mixtral-8x7b`, `gemma-7b-it`; parallel tool calling is enabled for both Llama3 models</p>
 
