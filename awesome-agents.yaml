@@ -1149,6 +1149,15 @@
   categories:
     - "Development Frameworks"
 
+- project: "Superagent for Mac"
+  project_description: "Open-source macOS desktop app (not to be confused with the Superagent AI assistant framework above) that gives coding agents like Claude Code and Codex a real environment to act in: a browser they can navigate and drive, an iOS Simulator they can install apps into and screenshot, and a phone companion app for remote monitoring of a session"
+  project_is_open_source: true
+  sources:
+    - source: "github"
+      source_url: "https://github.com/pungme/superagent-desktop"
+  categories:
+    - "Agent Tools"
+
 - project: "AgentVerse"
   project_description: "AgentVerse is an Apache2-licensed Python framework for deploying multiple LLM-based agents in various applications, offering task-solving and simulation frameworks for collaborative task accomplishment and behavior observation among agents"
   project_is_open_source: true
