@@ -393,6 +393,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://platform.openai.com/docs/assistants/overview">docs</a></p>
 </div>
 
+### Aster
+<div><a href="https://github.com/Zfinix/aster"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/Zfinix/aster"><img src="https://img.shields.io/github/stars/Zfinix/aster?style=social" alt="GitHub stars"></a></div>
+
+<p>🤖 AI Agents</p>
+
+<p>Aster is an open-source terminal coding agent that reads your code, answers questions, edits files, runs commands, and reviews your changes, working with any OpenAI-compatible provider including OpenRouter, OpenAI, Groq, Anthropic, and local models</p>
+
+<p><a href="https://github.com/Zfinix/aster">github</a></p>
+</div>
+
 ### Astra Assistants API
 <div><a href="https://github.com/datastax/astra-assistants-api"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/datastax/astra-assistants-api"><img src="https://img.shields.io/github/stars/datastax/astra-assistants-api?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 203 stars (Updated: 2025-07-30)</p>

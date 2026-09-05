@@ -45,6 +45,20 @@
       ]
     },
     {
+      "project": "Aster",
+      "project_description": "Aster is an open-source terminal coding agent that reads your code, answers questions, edits files, runs commands, and reviews your changes, working with any OpenAI-compatible provider including OpenRouter, OpenAI, Groq, Anthropic, and local models",
+      "project_is_open_source": true,
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/Zfinix/aster"
+        }
+      ],
+      "categories": [
+        "AI Agents"
+      ]
+    },
+    {
       "project": "Devid by Agency Swarm",
       "project_description": "Devid Agent, a new AI software development tool, has been integrated into the Agency Swarm framework to enhance automated AI agency operations, alternative to Cognition AI's Devin",
       "project_is_open_source": true,
