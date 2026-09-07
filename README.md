@@ -1763,6 +1763,14 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/npi-ai/npi">github</a> | <a href="https://www.npi.ai/">website</a> | <a href="https://www.npi.ai/docs">docs</a> | <a href="https://www.npi.ai/blog">blog</a></p>
 </div>
 
+### Okto-Nexus
+<div><a href="https://github.com/OktoLabsAI/okto-nexus"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/OktoLabsAI/okto-nexus"><img src="https://img.shields.io/github/stars/OktoLabsAI/okto-nexus?style=social" alt="GitHub stars"></a></div>
+<p>⭐ 2 stars (Updated: 2026-09-07)</p>
+<p>🛡️ Safety Guardrails (Safeguarding)</p>
+<p>Okto Nexus is a local-first MCP coordination hub for teams of AI coding agents, with single-winner handoff claims, human-in-the-loop approval on risky actions, and durable messaging for crash recovery</p>
+<p><a href="https://github.com/OktoLabsAI/okto-nexus">github</a> | <a href="https://oktolabs.ai/platform/nexus/">website</a></p>
+</div>
+
 ### Ollama
 <div><a href="https://github.com/ollama/ollama"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/ollama/ollama"><img src="https://img.shields.io/github/stars/ollama/ollama?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 147,994 stars (Updated: 2025-07-30)</p>
