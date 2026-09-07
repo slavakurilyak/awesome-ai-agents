@@ -1116,6 +1116,17 @@
   categories:
     - "Development Frameworks"
 
+- project: "Vetto"
+  project_description: "Vetto is a daemon-less kernel sandbox for AI coding agents (Landlock/seccomp/namespaces on Linux, Seatbelt on macOS): vetto enable wraps Claude Code, Codex CLI and 18 more agents so secret reads and off-allowlist egress are denied by the kernel"
+  project_is_open_source: true
+  sources:
+    - source: "github"
+      source_url: "https://github.com/shleder/vetto"
+    - source: "github profile"
+      source_url: "https://github.com/shleder"
+  categories:
+    - "Development Frameworks"
+
 - project: "Agents by AI Waves"
   project_description: "Agents is an open-source framework for building autonomous language agents with features including long-short term memory, tool usage, web navigation, multi-agent communication, human-agent interaction, and symbolic control, allowing customization through natural language config files and deployment in various interfaces"
   project_is_open_source: true
