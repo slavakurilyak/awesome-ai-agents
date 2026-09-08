@@ -803,6 +803,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://context.ai/">website</a> | <a href="https://docs.context.ai/">docs</a></p>
 </div>
 
+### ContextStream
+<div><a href="https://contextstream.io"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
+
+<p>🛠️ Developer Tools</p>
+
+<p>Shared project context for Cursor, Claude Code, Codex, and Grok. Intelligence isn’t the bottleneck. Context is.</p>
+
+<p><a href="https://contextstream.io">website</a> | <a href="https://mcp.contextstream.io/mcp">MCP</a> | <a href="https://contextstream.io/benchmarks">benchmarks</a></p>
+</div>
+
 ### Continue
 <div><a href="https://github.com/continuedev/continue"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/continuedev/continue"><img src="https://img.shields.io/github/stars/continuedev/continue?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 27,982 stars (Updated: 2025-07-30)</p>
