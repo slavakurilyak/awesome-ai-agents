@@ -2403,6 +2403,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://www.getzep.com/">website</a> | <a href="https://github.com/getzep/zep/">github</a></p>
 </div>
 
+### ZYRAXON-AI
+<div><a href="https://github.com/onelpawarai-X/ZYRAXON-AI"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/onelpawarai-X/ZYRAXON-AI"><img src="https://img.shields.io/github/stars/onelpawarai-X/ZYRAXON-AI?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents, Coding</p>
+
+<p>ZYRAXON-AI is a desktop AI agent with 357+ tools, 9 agent modes (Build, Research, Debug, Deploy, etc.), eternal memory (survives laptop reset), self-healing, code guardian, Monaco AI assistant, TTS, and voice control. 21+ free models, Electron EXE, works offline.</p>
+
+<p><a href="https://github.com/onelpawarai-X/ZYRAXON-AI">github</a> | <a href="https://zyraxonai.lovable.app">website</a></p>
+</div>
+
 
 ## 🙋‍♂️ Hire Me
 
