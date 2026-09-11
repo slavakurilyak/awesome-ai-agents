@@ -2655,3 +2655,11 @@
   categories:
     - "Long-Term Memory"
   
+- project: "Era"
+  project_description: "Spins up fake companies with simulated Salesforce, Zendesk, and Slack instances so agents can be tested against a full software stack over MCP. Free, from Eon."
+  project_is_open_source: false
+  sources:
+    - source: "website"
+      source_url: "https://era.eon.io"
+  categories:
+    - "Evaluation Frameworks"
