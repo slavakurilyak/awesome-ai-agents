@@ -2654,4 +2654,16 @@
       source_url: "https://www.linkedin.com/company/mem0/"
   categories:
     - "Long-Term Memory"
-  
+
+- project: "Nexus-Agent"
+  project_description: "Nexus-Agent is an open-source autonomous AI software engineering agent with self-healing ReAct execution, AST pre-validation guardrails, persistent time-travel rollback, and dual CLI/Web UI interfaces"
+  project_is_open_source: true
+  sources:
+    - source: "github"
+      source_url: "https://github.com/parkain707/nexus-agent"
+    - source: "demo"
+      source_url: "https://should-busy-repairs-metres.trycloudflare.com"
+  categories:
+    - "AI Agents"
+    - "Development Frameworks"
+    - "Safety Guardrails (Safeguarding)"
