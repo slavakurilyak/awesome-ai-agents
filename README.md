@@ -2083,6 +2083,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://shortx.ai/">website</a></p>
 </div>
 
+### Solgrok
+<div><a href="https://github.com/LMajster/sgrok"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/LMajster/sgrok"><img src="https://img.shields.io/github/stars/LMajster/sgrok?style=social" alt="GitHub stars"></a></div>
+<p>⭐ 0 stars (Updated: 2026-09-14)</p>
+<p>🤖 AI Agents</p>
+
+<p>Solgrok is an autonomous Solana creator-ops AI agent that runs 24/7 promotion and fee claim/sweep for its Bags.fm token ($SGROK)</p>
+
+<p><a href="https://github.com/LMajster/sgrok">github</a> | <a href="https://lmajster.github.io/sgrok/">website</a></p>
+</div>
+
 ### Streaming Assistants
 <div><a href="https://github.com/phact/streaming-assistants"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/phact/streaming-assistants"><img src="https://img.shields.io/github/stars/phact/streaming-assistants?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 8 stars (Updated: 2025-07-30)</p>
