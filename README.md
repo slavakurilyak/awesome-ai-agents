@@ -1298,7 +1298,7 @@ Here's an awesome list of AI agents:
 
 <p>🤖 AI Agents</p>
 
-<p>HostDeFi is a free token-safety scanner agents can call via hosted MCP server and A2A agent card — A+–F grades for Solana and 8 EVM chains from on-chain checks, plus x402-paid analytics endpoints.</p>
+<p>HostDeFi is a free token-safety scanner agents can call via hosted MCP server and A2A agent card — A+–F grades for Solana and 7 EVM chains from on-chain checks, plus x402-paid analytics endpoints.</p>
 
 <p><a href="https://hostdefi.com">website</a> | <a href="https://hostdefi.com/api/v1/mcp">mcp</a></p>
 
