@@ -1703,6 +1703,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://x.com/AnnieLiao_2000/status/1792175658178855112">demo</a></p>
 </div>
 
+### Moching
+<div><a href="https://github.com/moching-ai-dev/moching"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"/></a></div>
+<p>⭐ 6 stars (Updated: 2026-09-16)</p>
+<p>⚙️ Desktop Automation</p>
+
+<p>Moching is an open-source AI desktop agent written in Rust. It sees and controls the screen in real time through dual engines (visual understanding + accessibility UI tree), and runs an autonomous see-act-verify execution loop. It ships with 219 native tools, a 30+ skill store, and MCP plugin support. Available for Windows and macOS.</p>
+
+<p><a href="https://github.com/moching-ai-dev/moching">github</a> · <a href="https://mochingcode.com">website</a></p>
+</div>
+
+
 ### MultiOn
 <div><a href="https://www.multion.ai/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
