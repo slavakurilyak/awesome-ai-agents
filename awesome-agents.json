@@ -4655,6 +4655,28 @@
       "categories": [
         "Long-Term Memory"
       ]
+    },
+    {
+      "project": "Scalekit",
+      "project_description": "Scalekit AgentKit gives AI agents 400+ connectors with a built-in tooling and auth layer, so agents can call user-scoped tools without building OAuth or token plumbing",
+      "project_is_open_source": false,
+      "sources": [
+        {
+          "source": "website",
+          "source_url": "https://www.scalekit.com/agentkit"
+        },
+        {
+          "source": "docs",
+          "source_url": "https://docs.scalekit.com/agentkit/quickstart/"
+        },
+        {
+          "source": "github profile",
+          "source_url": "https://github.com/scalekit-inc"
+        }
+      ],
+      "categories": [
+        "Function Calling"
+      ]
     }
   ],
   "categories": [

@@ -2033,6 +2033,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://rime.ai/">website</a></p>
 </div>
 
+### Scalekit
+<div><a href="https://www.scalekit.com/agentkit"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
+
+<p> Function Calling</p>
+
+<p>Scalekit AgentKit gives AI agents 400+ connectors with a built-in tooling and auth layer, so agents can call user-scoped tools without building OAuth or token plumbing</p>
+
+<p><a href="https://www.scalekit.com/agentkit">website</a> | <a href="https://docs.scalekit.com/agentkit/quickstart/">docs</a> | <a href="https://github.com/scalekit-inc">github profile</a></p>
+</div>
+
 ### ScrapeGraphAI
 <div><a href="https://github.com/VinciGit00/Scrapegraph-ai"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/VinciGit00/Scrapegraph-ai"><img src="https://img.shields.io/github/stars/VinciGit00/Scrapegraph-ai?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 20,809 stars (Updated: 2025-07-30)</p>
