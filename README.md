@@ -1293,6 +1293,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://www.hume.ai/">website</a> | <a href="https://discord.com/invite/WPRSugvAm6">discord</a></p>
 </div>
 
+### HostDeFi
+<div><a href="https://hostdefi.com"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
+
+<p>🤖 AI Agents</p>
+
+<p>HostDeFi is a free token-safety scanner agents can call via hosted MCP server and A2A agent card — A+–F grades for Solana and 8 EVM chains from on-chain checks, plus x402-paid analytics endpoints.</p>
+
+<p><a href="https://hostdefi.com">website</a> | <a href="https://hostdefi.com/api/v1/mcp">mcp</a></p>
+
 ### Imbue
 <div><a href="https://imbue.com/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
