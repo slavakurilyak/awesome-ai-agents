@@ -2038,7 +2038,7 @@ Here's an awesome list of AI agents:
 
 <p> Function Calling</p>
 
-<p>Scalekit AgentKit gives AI agents 400+ connectors with a built-in tooling and auth layer, so agents can call user-scoped tools without building OAuth or token plumbing</p>
+<p>Scalekit enables AI agents to use 400+ connectors with a built-in tooling and auth layer, offering managed authentication, user-scoped tool calls, and hosted credentials to simplify tool use</p>
 
 <p><a href="https://www.scalekit.com/agentkit">website</a> | <a href="https://docs.scalekit.com/agentkit/quickstart/">docs</a> | <a href="https://github.com/scalekit-inc">github profile</a></p>
 </div>

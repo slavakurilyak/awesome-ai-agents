@@ -4658,7 +4658,7 @@
     },
     {
       "project": "Scalekit",
-      "project_description": "Scalekit AgentKit gives AI agents 400+ connectors with a built-in tooling and auth layer, so agents can call user-scoped tools without building OAuth or token plumbing",
+      "project_description": "Scalekit enables AI agents to use 400+ connectors with a built-in tooling and auth layer, offering managed authentication, user-scoped tool calls, and hosted credentials to simplify tool use",
       "project_is_open_source": false,
       "sources": [
         {
