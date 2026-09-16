@@ -2043,6 +2043,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/VinciGit00/Scrapegraph-ai">github</a> | <a href="https://scrapegraph-doc.onrender.com/">docs</a> | <a href="https://scrapegraph-ai-demo.streamlit.appn/">demo</a></p>
 </div>
 
+### Self Auditing Agent
+<div><a href="https://github.com/simin-yuan/self-auditing-agent"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/simin-yuan/self-auditing-agent"><img src="https://img.shields.io/github/stars/simin-yuan/self-auditing-agent?style=social" alt="GitHub stars"></a></div>
+<p>⭐ 0 stars (Updated: 2026-09-16)</p>
+<p>📊 Evaluation Frameworks</p>
+
+<p>Self Auditing Agent publishes an AI agent's operational audit log: each conclusion carries a runnable command a third party can execute to re-derive it, so the process is independently reviewable rather than just the output. The repository also ships gatecheck, a mutation tester that attacks the project's own validator and reports which mutations it fails to catch, so a gate that can never say no shows up as a defect</p>
+
+<p><a href="https://github.com/simin-yuan/self-auditing-agent">github</a></p>
+</div>
 ### Self Operating Computer
 <div><a href="https://github.com/OthersideAI/self-operating-computer"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/OthersideAI/self-operating-computer"><img src="https://img.shields.io/github/stars/OthersideAI/self-operating-computer?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 9,808 stars (Updated: 2025-07-30)</p>
