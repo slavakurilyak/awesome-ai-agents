@@ -1703,6 +1703,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://x.com/AnnieLiao_2000/status/1792175658178855112">demo</a></p>
 </div>
 
+### Mnemoverse
+<div><a href="https://mnemoverse.com"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
+
+<p>🧠 Long-Term Memory</p>
+
+<p>Hosted memory server for AI agents over MCP; tell it a recalled memory helped or misled, and it re-ranks what comes back next. The MCP server is MIT licensed; the memory engine is hosted, which is why the badge says No</p>
+
+<p><a href="https://mnemoverse.com">website</a> | <a href="https://mnemoverse.com/docs/api/mcp-server">docs</a> | <a href="https://github.com/mnemoverse/mcp-memory-server">mcp server</a></p>
+</div>
+
 ### MultiOn
 <div><a href="https://www.multion.ai/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
