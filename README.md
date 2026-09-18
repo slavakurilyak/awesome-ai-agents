@@ -253,6 +253,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/aibtcdev/ai-agent-crew">github</a> | <a href="https://github.com/aibtcdev">github profile</a> | <a href="https://aibtc.dev/">website</a> | <a href="https://discord.gg/5DJaBrf">discord</a></p>
 </div>
 
+### AI Agent Templates
+<div><a href="https://github.com/harsh-matchmyflight/ai-agent-templates"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/harsh-matchmyflight/ai-agent-templates"><img src="https://img.shields.io/github/stars/harsh-matchmyflight/ai-agent-templates?style=social" alt="GitHub stars"></a></div>
+<p>⭐ 0 stars (Updated: 2026-09-18)</p>
+<p>🤖 AI Agents</p>
+
+<p>Free MIT templates for two revenue-critical small-business agents — a Twilio missed-call to SMS text-back webhook (Node 20, zero dependencies, 7 tests) and a CSV-driven no-show reminder agent sending 24h/2h/30-min-after messages through pluggable Twilio or WhatsApp senders with dry-run and idempotent cron state (Python 3.11, 16 tests)</p>
+
+<p><a href="https://github.com/harsh-matchmyflight/ai-agent-templates">github</a></p>
+</div>
+
 ### AI Assistant by Deco
 <div><a href="https://deco.cx/ai-assistant"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
