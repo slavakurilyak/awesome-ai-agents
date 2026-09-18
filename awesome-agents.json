@@ -4655,6 +4655,27 @@
       "categories": [
         "Long-Term Memory"
       ]
+    },
+    {
+      "project": "EVO-AI",
+      "project_description": "EVO-AI is a distributed self-evolving language model network. 813K parameters evolving via (1+lambda)-ES across volunteer nodes. Public HTTP API + A2A JSON-RPC 2.0 compatible. Truly open, no signup, no API key.",
+      "project_is_open_source": true,
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/Mafengwo292/evo-ai"
+        },
+        {
+          "source": "website",
+          "source_url": "http://47.253.174.153:80"
+        }
+      ],
+      "categories": [
+        "AI Agents",
+        "Open Source LLMs",
+        "Multi-Agent Systems",
+        "Self-Evolving"
+      ]
     }
   ],
   "categories": [
