@@ -720,6 +720,19 @@
   categories:
     - "Long-Term Memory"
 
+- project: "BindAI"
+  project_description: "Open-source Python framework for building AI agents and agentic workflows"
+  project_is_open_source: true
+  sources:
+    - source: "github"
+      source_url: "https://github.com/BindBrain/BindAI"
+    - source: "website"
+      source_url: "https://bindai.dev"
+    - source: "docs"
+      source_url: "https://docs.bindai.dev"
+  categories:
+    - "Development Frameworks"
+
 - project: "Swarms"
   project_description: "Swarms orchestrates multi-agent collaboration for production-grade applications, solving issues like short memory and high costs, with customizable tools for specific needs, currently used by RBC, John Deere, and AI startups"
   project_is_open_source: true
