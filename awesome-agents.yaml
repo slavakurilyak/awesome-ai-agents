@@ -2655,3 +2655,12 @@
   categories:
     - "Long-Term Memory"
   
+
+- project: "jevme"
+  project_description: "jevme is an open-source voice-controlled agent for macOS that operates any app through the accessibility tree, acts on commands while you are still speaking, and memoizes LLM reasoning (Claude) into fast classifier decisions (TypeSafe Jev) so repeated tasks skip the LLM"
+  project_is_open_source: true
+  sources:
+    - source: "github"
+      source_url: "https://github.com/danielyedaniel/jevme"
+  categories:
+    - "Operating System (OS)"
