@@ -2,4 +2,5 @@
 .whisper
 .DS_Store
 venv
+.curation-triage-state.json
 .env

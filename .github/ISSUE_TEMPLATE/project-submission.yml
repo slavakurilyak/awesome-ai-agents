@@ -1,0 +1,58 @@
+name: Submit an AI agent project
+description: Recommend an open-source AI agent project for the curated list.
+title: "Project submission: "
+labels: ["project submission"]
+body:
+  - type: markdown
+    attributes:
+      value: >-
+        Third-party projects must have a public repository on GitHub, GitLab.com, or Codeberg.
+        No specific license or minimum star count is required. Hosted products without
+        their own qualifying public repository are not eligible. Submissions are reviewed
+        for fit and evidence.
+        The optional [Curation skill](https://github.com/slavakurilyak/awesome-ai-agents/tree/main/skills/awesome-ai-agents-curation)
+        can help prepare your answers.
+  - type: input
+    id: project
+    attributes:
+      label: Project name
+      placeholder: Example Agent
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: What does it do?
+      description: Describe the agent's useful behavior and who it helps.
+    validations:
+      required: true
+  - type: input
+    id: primary_link
+    attributes:
+      label: Public source repository
+      description: Direct repository URL on GitHub, GitLab.com, or Codeberg. A website, organization profile, client library, or integration alone does not qualify.
+      placeholder: https://github.com/owner/project
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence and how to try it
+      description: Link to docs, demo, or code showing what it can do and how people interact with it.
+    validations:
+      required: true
+  - type: input
+    id: categories
+    attributes:
+      label: Suggested category
+      description: Optional. Prefer a category already used in the list.
+      placeholder: AI Agents
+    validations:
+      required: false
+  - type: checkboxes
+    id: founder
+    attributes:
+      label: Founder submission
+      options:
+        - label: I am a founder or team member submitting this project.
+          required: false

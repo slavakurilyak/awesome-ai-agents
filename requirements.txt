@@ -1,8 +1,0 @@
-PyYAML
-pydantic
-requests
-PyGithub
-python-dotenv
-colorama
-deepdiff
-rich

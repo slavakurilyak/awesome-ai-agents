@@ -1,53 +1,46 @@
 # Scripts
 
-This directory contains utility scripts for the Awesome AI Agents project.
+These Go commands maintain the Awesome AI Agents data and README. Run them from any working directory; each command locates the repository relative to its source file.
 
-## Available Scripts
+## Validate project data
 
-### `01-generate-json.py`
-This script generates the `awesome-agents.json` file from the `awesome-agents.yaml` and `awesome-categories.yaml` files.
-
-**Usage:**
-```shell
-python scripts/01-generate-json.py
-````
-
-### `02-update-github-stars.py`
-
-This script updates the GitHub stars count for each project listed in `awesome-agents.json`. It requires a GitHub Personal Access Token with `public_repo` scope, which should be set as an environment variable `GITHUB_TOKEN`.
-
-__Usage:__
+`awesome-agents.json` is the single canonical project dataset. Validate project names, descriptions, categories, and source URLs before submitting a change.
 
 ```shell
-# Ensure GITHUB_TOKEN environment variable is set
-# export GITHUB_TOKEN="your_github_pat"
-python scripts/02-update-github-stars.py
+go run ./cmd/validate-data
 ```
 
-### `03-generate-readme.py`
+## Verify open-source eligibility
 
-This script generates the main `README.md` file for the project using the `README.template.md` and the data from `awesome-agents.json`.
-
-__Usage:__
+Checks each project's direct repository against GitHub, GitLab.com, or Codeberg metadata. A successful public repository check is required; no particular license is required.
 
 ```shell
-python scripts/03-generate-readme.py
+go run ./cmd/verify-forge-repositories
 ```
 
-## Workflow
+The command fails closed on API errors and does not write partial verification results. Projects without a qualifying public repository are marked ineligible and must be removed before validation. `go run ./cmd/validate-data` independently performs live metadata checks and rejects any third-party project without a qualifying repository.
 
-To update all data and regenerate the main project README, run the scripts in the following order:
+## Update GitHub stars
 
-1. __Generate JSON data:__
-   ```shell
-   python scripts/01-generate-json.py
-   ```
-2. __Update GitHub stars (ensure `GITHUB_TOKEN` is set):__
-   ```shell
-   # export GITHUB_TOKEN="your_github_pat" # Uncomment and set if not already set
-   python scripts/02-update-github-stars.py
-   ```
-3. __Generate README:__
-   ```shell
-   python scripts/03-generate-readme.py
-   ```
+Fetches current repository stars and archived status for GitHub sources, updates `awesome-agents.json`, and appends or refreshes the UTC daily record in `github-stars-history.json`. `GITHUB_TOKEN` is optional and may be set to increase API limits.
+
+```shell
+GITHUB_TOKEN="your_github_pat" go run ./cmd/update-github-stars
+```
+
+## Generate README
+
+Uses `awesome-agents.json`, `awesome-categories.yaml`, `github-stars-history.json`, and `README.template.md` to generate `README.md`, including top starred and seven-day rising projects.
+
+```shell
+go run ./cmd/generate-readme
+```
+
+## Full workflow
+
+```shell
+go run ./cmd/verify-forge-repositories
+go run ./cmd/validate-data
+go run ./cmd/update-github-stars
+go run ./cmd/generate-readme
+```
