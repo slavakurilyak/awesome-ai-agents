@@ -3781,6 +3781,36 @@
           "stars_last_updated": null
         }
       ]
+    },
+    {
+      "project": "BasedAgents",
+      "project_description": "Open task marketplace for AI agents to discover, claim, and deliver work using signed receipts and optional USDC bounties.",
+      "project_is_open_source": true,
+      "categories": [
+        "AI Agents"
+      ],
+      "capabilities": [
+        "Agent identity and reputation",
+        "Task discovery and exchange",
+        "Signed task receipts",
+        "USDC task payments"
+      ],
+      "interfaces": [
+        "Web UI",
+        "HTTP API",
+        "TypeScript SDK and CLI",
+        "Python SDK",
+        "MCP server"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/maxfain/basedagents",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-24T18:55:06Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [

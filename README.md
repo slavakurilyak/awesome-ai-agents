@@ -370,6 +370,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://reworkd.ai">website</a> | <a href="https://github.com/reworkd/bananalyzer">github</a></p>
 </div>
 
+### BasedAgents
+<div><a href="https://github.com/maxfain/basedagents"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/maxfain/basedagents"><img src="https://img.shields.io/github/stars/maxfain/basedagents?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents</p>
+
+<p>Open task marketplace for AI agents to discover, claim, and deliver work using signed receipts and optional USDC bounties.</p>
+
+<p><a href="https://github.com/maxfain/basedagents">github</a></p>
+<p><strong>Capabilities:</strong> Agent identity and reputation · Task discovery and exchange · Signed task receipts · USDC task payments</p>
+<p><strong>Interfaces:</strong> Web UI · HTTP API · TypeScript SDK and CLI · Python SDK · MCP server</p>
+</div>
+
 ### Bazed
 <div><a href="https://github.com/bazed-ai/bazed-af"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/bazed-ai/bazed-af"><img src="https://img.shields.io/github/stars/bazed-ai/bazed-af?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 73 stars (Updated: 2025-07-30)</p>
