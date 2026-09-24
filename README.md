@@ -380,6 +380,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/bazed-ai/bazed-af">github</a> | <a href="https://bazed.ai/">website</a> | <a href="https://discord.gg/VmEEUrc7dg">discord</a></p>
 </div>
 
+### BlackVault
+<div><a href="https://github.com/venkat22022202/black-vault"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/venkat22022202/black-vault"><img src="https://img.shields.io/github/stars/venkat22022202/black-vault?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents</p>
+
+<p>Self-hostable API key proxy for AI agents with per-token access controls, budget limits, and an OpenAI-compatible gateway for multiple model providers.</p>
+
+<p><a href="https://github.com/venkat22022202/black-vault">github</a> | <a href="https://black-vault-murex.vercel.app">demo</a></p>
+</div>
+
 ### Bloop
 <div><a href="https://github.com/BloopAI/bloop"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/BloopAI/bloop"><img src="https://img.shields.io/github/stars/BloopAI/bloop?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 9,480 stars (Updated: 2025-07-30)</p>
