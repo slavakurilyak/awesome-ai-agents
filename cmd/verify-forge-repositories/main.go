@@ -4,9 +4,11 @@
 package main
 
 import (
+	"flag"
 	"fmt"
 	"net/http"
 	"os"
+	"strings"
 	"time"
 
 	"awesome-ai-agents/internal/forgeverify"
@@ -14,21 +16,51 @@ import (
 )
 
 func main() {
-	if err := run(); err != nil {
+	project := flag.String("project", "", "verify only this exact project name")
+	all := flag.Bool("all", false, "verify every project (explicit full-catalog audit)")
+	flag.Parse()
+	if flag.NArg() != 0 {
+		fmt.Fprintln(os.Stderr, "ERROR: unexpected positional arguments")
+		os.Exit(2)
+	}
+	projectName := strings.TrimSpace(*project)
+	if (projectName != "") == *all {
+		fmt.Fprintln(os.Stderr, "ERROR: specify exactly one of --project <name> or --all")
+		os.Exit(2)
+	}
+	if err := run(projectName, *all); err != nil {
 		fmt.Fprintln(os.Stderr, "ERROR:", err)
 		os.Exit(1)
 	}
 }
 
-func run() error {
+func run(projectName string, fullAudit bool) error {
 	root := projectdata.Root()
 	var data projectdata.Data
 	if err := projectdata.ReadJSON(root+"/awesome-agents.json", &data); err != nil {
 		return err
 	}
+	projectIndexes := make([]int, 0, len(data.Agents))
+	if fullAudit {
+		for i := range data.Agents {
+			projectIndexes = append(projectIndexes, i)
+		}
+	} else {
+		for i := range data.Agents {
+			if data.Agents[i].Project == projectName {
+				projectIndexes = append(projectIndexes, i)
+			}
+		}
+		if len(projectIndexes) == 0 {
+			return fmt.Errorf("project %q not found", projectName)
+		}
+		if len(projectIndexes) > 1 {
+			return fmt.Errorf("project name %q is not unique", projectName)
+		}
+	}
 	client := &http.Client{Timeout: 30 * time.Second}
 	failures, checked, ineligible := 0, 0, 0
-	for i := range data.Agents {
+	for _, i := range projectIndexes {
 		project := &data.Agents[i]
 		found := false
 		for j := range project.Sources {
@@ -73,6 +105,13 @@ func run() error {
 	if err := projectdata.WriteJSON(root+"/awesome-agents.json", data, true); err != nil {
 		return err
 	}
-	fmt.Printf("Forge checks: %d; projects without a qualifying repository: %d; API failures: %d\n", checked, ineligible, failures)
+	if !fullAudit {
+		fmt.Printf("Forge checks: %d; project checked: %s; qualifying repository: %t; API failures: %d\n", checked, projectName, ineligible == 0, failures)
+		if ineligible > 0 {
+			return fmt.Errorf("project %q has no verified public repository", projectName)
+		}
+	} else {
+		fmt.Printf("Forge checks: %d; projects without a qualifying repository: %d; API failures: %d\n", checked, ineligible, failures)
+	}
 	return nil
 }

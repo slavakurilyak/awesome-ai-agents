@@ -37,20 +37,20 @@ Pull requests are welcome for direct edits. `awesome-agents.json` is the canonic
 }
 ```
 
-Use an existing category from `awesome-categories.yaml`. Describe observable capabilities accurately; do not infer features from marketing claims alone. The `project_is_open_source` value is derived from a successful forge metadata check, not from the contributor's assertion. Maintainers run `go run ./cmd/verify-forge-repositories`; only public repositories qualify, and no license field or license allowlist is used. GitHub, GitLab.com, and Codeberg are supported. A check failure or inaccessible repository is unverified and does not qualify. Keep star counts and repository health metadata to the existing automated workflow.
-
-Before opening a pull request, run:
+Use an existing category from `awesome-categories.yaml`. Describe observable capabilities accurately; do not infer features from marketing claims alone. The `project_is_open_source` value is derived from a successful forge metadata check, not from the contributor's assertion. For a single-project change, run these targeted commands from the repository root before opening a pull request, replacing the placeholder with the exact `project` value:
 
 ```sh
-go run ./cmd/validate-data
+go run ./cmd/verify-forge-repositories --project "Project name"
+go run ./cmd/validate-data --project "Project name"
+go run ./cmd/generate-readme
 ```
 
-This validator checks the current forge metadata for every third-party entry. Maintainers also run `go run ./cmd/verify-forge-repositories` to refresh the verification snapshot.
+Only the named project's forge metadata is checked live; the validator also checks the catalog's local structure. These commands do not make live forge requests for unrelated projects. Only public repositories qualify, and no license field or license allowlist is used. GitHub, GitLab.com, and Codeberg are supported. A check failure or inaccessible repository is unverified and does not qualify. Keep star counts and repository health metadata to the existing automated workflow. To run a full-catalog audit, explicitly pass `--all` to either forge command; full-catalog live checks are not part of routine per-PR validation.
 
 Maintainers make the final inclusion and categorization decision after reviewing fit, evidence, duplicates, and presentation. A submission or skill recommendation is not a promise of acceptance, placement, audience reach, or project growth.
 
 ## Maintainer review
 
-Run `go run ./cmd/verify-forge-repositories` and require a successful public-repository result on GitHub, GitLab.com, or Codeberg for every entry. No specific license is required. Check the repository's default-branch commit history and require at least one substantive, non-automated commit dated within the six months before review. Do not rely on the forge profile's `updated_at` timestamp, stars, or bot-only dependency/metadata changes. If the submission has no direct qualifying repository, the forge check fails, the repository is private or inaccessible, or the activity window is exceeded, it does not meet the contribution rules and may be closed. Then review project behavior, category fit, duplicates, and presentation.
+For an individual submission, run `go run ./cmd/verify-forge-repositories --project "Project name"` and `go run ./cmd/validate-data --project "Project name"`; do not make live checks for unrelated catalog entries. Require a successful public-repository result on GitHub, GitLab.com, or Codeberg. No specific license is required. Check the repository's default-branch commit history and require at least one substantive, non-automated commit dated within the six months before review. Do not rely on the forge profile's `updated_at` timestamp, stars, or bot-only dependency/metadata changes. If the submission has no direct qualifying repository, the forge check fails, the repository is private or inaccessible, or the activity window is exceeded, it does not meet the contribution rules and may be closed. Then review project behavior, category fit, duplicates, and presentation. Run full-catalog live audits only when specifically requested, using `--all`.
 
 The list is curated to help readers discover projects. Listings provide an opportunity for discovery, not a guaranteed outcome. For consulting on building or deploying AI agents, see [Hire Me](https://cal.com/slavakurilyak/discovery-call).
