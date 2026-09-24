@@ -1,6 +1,6 @@
 # Contributing
 
-Thanks for helping people discover useful open-source AI agent projects. Projects are eligible only when a public repository on GitHub, GitLab.com, or Codeberg can be verified. No particular license or minimum star count is required. Hosted products without their own qualifying repository are not eligible.
+Thanks for helping people discover useful open-source AI agent projects. Projects are eligible only when a public repository on GitHub, GitLab.com, or Codeberg can be verified and its default branch has at least one substantive, non-automated commit within the six months before review. No particular license or minimum star count is required. Hosted products without their own qualifying repository are not eligible.
 
 ## Recommend a project
 
@@ -8,6 +8,7 @@ Open a [project submission issue](https://github.com/slavakurilyak/awesome-ai-ag
 
 - Project name and a concise description of what it does.
 - The direct URL of the project's public repository on GitHub, GitLab.com, or Codeberg. A website, organization profile, integration, or client library alone does not qualify.
+- Evidence that the repository's default branch has received a substantive, non-automated commit within the last six months. Maintainers verify this from commit history; repository profile updates, stars, and bot-only dependency or metadata changes do not count.
 - How people use or interact with it, and what agent behavior it provides.
 - Suggested existing category or categories, if known.
 - A clear note when the project is new or has little usage history; stars are not an eligibility requirement.
@@ -50,6 +51,6 @@ Maintainers make the final inclusion and categorization decision after reviewing
 
 ## Maintainer review
 
-Run `go run ./cmd/verify-forge-repositories` and require a successful public-repository result on GitHub, GitLab.com, or Codeberg for every entry. No specific license is required. If the submission has no direct qualifying repository, the forge check fails, or the repository is private or inaccessible, it does not meet the contribution rules and may be closed. Then review project behavior, category fit, duplicates, and presentation.
+Run `go run ./cmd/verify-forge-repositories` and require a successful public-repository result on GitHub, GitLab.com, or Codeberg for every entry. No specific license is required. Check the repository's default-branch commit history and require at least one substantive, non-automated commit dated within the six months before review. Do not rely on the forge profile's `updated_at` timestamp, stars, or bot-only dependency/metadata changes. If the submission has no direct qualifying repository, the forge check fails, the repository is private or inaccessible, or the activity window is exceeded, it does not meet the contribution rules and may be closed. Then review project behavior, category fit, duplicates, and presentation.
 
 The list is curated to help readers discover projects. Listings provide an opportunity for discovery, not a guaranteed outcome. For consulting on building or deploying AI agents, see [Hire Me](https://cal.com/slavakurilyak/discovery-call).
