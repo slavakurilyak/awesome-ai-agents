@@ -3731,6 +3731,34 @@
           "stars": null
         }
       ]
+    },
+    {
+      "project": "AgentFlow",
+      "project_description": "Trainable, tool-integrated multi-agent framework with planner, executor, verifier, and generator modules; supports multi-turn inference and Flow-GRPO training.",
+      "project_is_open_source": true,
+      "categories": [
+        "AI Agents",
+        "Development Frameworks"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/lupantech/AgentFlow",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-24T17:55:30Z",
+          "repository_status": "active"
+        },
+        {
+          "source": "website",
+          "source_url": "https://agentflow.stanford.edu/",
+          "stars_last_updated": null
+        },
+        {
+          "source": "research paper",
+          "source_url": "https://huggingface.co/papers/2510.05592",
+          "stars_last_updated": null
+        }
+      ]
     }
   ],
   "categories": [

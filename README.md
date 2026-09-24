@@ -122,6 +122,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/THUDM/AgentBench">github</a></p>
 </div>
 
+### AgentFlow
+<div><a href="https://github.com/lupantech/AgentFlow"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/lupantech/AgentFlow"><img src="https://img.shields.io/github/stars/lupantech/AgentFlow?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents | ⚙️ Development Frameworks</p>
+
+<p>Trainable, tool-integrated multi-agent framework with planner, executor, verifier, and generator modules; supports multi-turn inference and Flow-GRPO training.</p>
+
+<p><a href="https://github.com/lupantech/AgentFlow">github</a> | <a href="https://agentflow.stanford.edu/">website</a> | <a href="https://huggingface.co/papers/2510.05592">research paper</a></p>
+</div>
+
 ### AgentGPT by Reworkd
 <div><a href="https://github.com/reworkd/AgentGPT"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/reworkd/AgentGPT"><img src="https://img.shields.io/github/stars/reworkd/AgentGPT?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 34,613 stars (Updated: 2025-07-30)</p>
