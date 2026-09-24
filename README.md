@@ -1278,7 +1278,7 @@ Here's an awesome list of AI agents:
 
 <p>🤖 AI Agents</p>
 
-<p>Hellomatik is an AI agent platform that turns a company's knowledge into agents that answer, sell and execute across WhatsApp, email and web, with integrations for e-commerce (Shopify), CRM, payments (Stripe) and ERP (Sage) systems.</p>
+<p>Hellomatik integrates the data from a company's systems (ERP, CRM, warehouse management system and email) into a single blueprint, for one department or the whole organisation. AI agents operate on that blueprint: they answer business questions, send alerts and prepare each operation, and the company decides which operations complete automatically and which wait for an approver to accept, amend or reject.</p>
 
 <p><a href="https://hellomatik.com/">website</a></p>
 </div>
