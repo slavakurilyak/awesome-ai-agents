@@ -7,9 +7,10 @@ body:
     attributes:
       value: >-
         Third-party projects must have a public repository on GitHub, GitLab.com, or Codeberg.
-        No specific license or minimum star count is required. Hosted products without
-        their own qualifying public repository are not eligible. Submissions are reviewed
-        for fit and evidence.
+        No specific license or minimum star count is required. The default branch must
+        have at least one substantive, non-automated commit within the six months before
+        review. Hosted products without their own qualifying public repository are not
+        eligible. Submissions are reviewed for fit and evidence.
         The optional [Curation skill](https://github.com/slavakurilyak/awesome-ai-agents/tree/main/skills/awesome-ai-agents-curation)
         can help prepare your answers.
   - type: input
@@ -32,6 +33,14 @@ body:
       label: Public source repository
       description: Direct repository URL on GitHub, GitLab.com, or Codeberg. A website, organization profile, client library, or integration alone does not qualify.
       placeholder: https://github.com/owner/project
+    validations:
+      required: true
+  - type: input
+    id: recent_commit
+    attributes:
+      label: Recent substantive commit
+      description: Direct commit link on the default branch, dated within the last six months. Maintainers verify the commit and exclude automated maintenance-only changes.
+      placeholder: https://github.com/owner/project/commit/...
     validations:
       required: true
   - type: textarea

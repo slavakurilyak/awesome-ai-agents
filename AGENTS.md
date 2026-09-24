@@ -11,3 +11,5 @@ When triaging submissions, use `CURATION_AUTOMATION.md` for the repository workf
 ## Third-party project eligibility
 
 Every project added to the list must have its own public repository on GitHub, GitLab.com, or Codeberg. No specific license is required. A hosted product, website, forge organization profile, client, or integration without the project's own public repository does not qualify. Never treat a contributor-supplied boolean or license claim as verification; run `go run ./cmd/verify-forge-repositories` and require successful public repository metadata. Failed, private, or inaccessible checks mean unverified and ineligible.
+
+The repository must also show recent project maintenance: at least one substantive, non-automated commit to its default branch within the six months before review. Check the default branch's commit history; do not use repository `updated_at`, stars, or bot-only dependency/metadata changes as evidence of project maintenance. If the activity window is exceeded, the contribution is ineligible and may be closed.
