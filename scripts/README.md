@@ -4,21 +4,21 @@ These Go commands maintain the Awesome AI Agents data and README. Run them from 
 
 ## Validate project data
 
-`awesome-agents.json` is the single canonical project dataset. Validate project names, descriptions, categories, and source URLs before submitting a change.
+`awesome-agents.json` is the single canonical project dataset. Validate project names, descriptions, categories, and source URLs before submitting a change. For a one-project contribution, pass the exact project name so live forge requests stay scoped to that project.
 
 ```shell
-go run ./cmd/validate-data
+go run ./cmd/validate-data --project "Project name"
 ```
 
 ## Verify open-source eligibility
 
-Checks each project's direct repository against GitHub, GitLab.com, or Codeberg metadata. A successful public repository check is required; no particular license is required.
+Checks the named project's direct repository against GitHub, GitLab.com, or Codeberg metadata. A successful public repository check is required; no particular license is required.
 
 ```shell
-go run ./cmd/verify-forge-repositories
+go run ./cmd/verify-forge-repositories --project "Project name"
 ```
 
-The command fails closed on API errors and does not write partial verification results. Projects without a qualifying public repository are marked ineligible and must be removed before validation. `go run ./cmd/validate-data` independently performs live metadata checks and rejects any third-party project without a qualifying repository.
+The command updates only the named project's verification metadata. It fails on API errors or when that project has no qualifying public repository. `go run ./cmd/validate-data --project "Project name"` checks local catalog structure and live metadata for the named project. Do not run full-catalog live checks for a one-project change.
 
 ## Update GitHub stars
 
@@ -36,11 +36,14 @@ Uses `awesome-agents.json`, `awesome-categories.yaml`, `github-stars-history.jso
 go run ./cmd/generate-readme
 ```
 
-## Full workflow
+## Per-project workflow
+
+For one new project, run:
 
 ```shell
-go run ./cmd/verify-forge-repositories
-go run ./cmd/validate-data
-go run ./cmd/update-github-stars
+go run ./cmd/verify-forge-repositories --project "Project name"
+go run ./cmd/validate-data --project "Project name"
 go run ./cmd/generate-readme
 ```
+
+The two forge commands also support `--all` for an explicit full-catalog audit. They require either `--project "Project name"` or `--all`; no-argument calls fail instead of unexpectedly checking the full catalog. Run the GitHub star updater separately when refreshing catalog-wide metrics.
