@@ -3759,6 +3759,28 @@
           "stars_last_updated": null
         }
       ]
+    },
+    {
+      "project": "BlackVault",
+      "project_description": "Self-hostable API key proxy for AI agents with per-token access controls, budget limits, and an OpenAI-compatible gateway for multiple model providers.",
+      "project_is_open_source": true,
+      "categories": [
+        "AI Agents"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/venkat22022202/black-vault",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-24T18:18:45Z",
+          "repository_status": "active"
+        },
+        {
+          "source": "demo",
+          "source_url": "https://black-vault-murex.vercel.app",
+          "stars_last_updated": null
+        }
+      ]
     }
   ],
   "categories": [
