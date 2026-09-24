@@ -709,6 +709,17 @@
   categories:
     - "Long-Term Memory"
 
+- project: "Agent QA"
+  project_description: "Agent QA is an agentic QA harness that runs natural-language web and mobile tests, adapts to UI changes, and exposes a CLI and MCP server for developer workflows"
+  project_is_open_source: false
+  sources:
+    - source: "github"
+      source_url: "https://github.com/vostride/agent-qa"
+    - source: "docs"
+      source_url: "https://vostride.com/docs/agent-qa"
+  categories:
+    - "AI Agents"
+
 - project: "Zep"
   project_description: "Zep is a long-term memory service for AI assistants that enhances recall, understanding, and data extraction from chat histories to power personalized AI experiences"
   project_is_open_source: true
@@ -2654,4 +2665,3 @@
       source_url: "https://www.linkedin.com/company/mem0/"
   categories:
     - "Long-Term Memory"
-  
