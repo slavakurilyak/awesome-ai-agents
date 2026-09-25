@@ -4296,6 +4296,26 @@
         "repository_status": "active"
       }]
     }
+ ,
+    {
+      "project": "Authsome",
+      "project_description": "A local credential broker for AI agents that stores credentials in an encrypted vault and injects them through a local HTTPS proxy, keeping raw secrets away from agent processes.",
+      "project_is_open_source": true,
+      "categories": ["AI Agents", "Safety Guardrails (Safeguarding)"],
+      "capabilities": [
+        "Manage OAuth2 and API key credentials for agent tools",
+        "Store credentials in an encrypted local vault",
+        "Inject credentials into requests through a local HTTPS proxy"
+      ],
+      "interfaces": ["Python package", "Local HTTPS proxy", "CLI"],
+      "sources": [{
+        "source": "github",
+        "source_url": "https://github.com/agentrhq/authsome",
+        "stars_last_updated": null,
+        "repository_checked_at": "2026-09-25T17:41:16Z",
+        "repository_status": "active"
+      }]
+    }
   ],
   "categories": [
     {

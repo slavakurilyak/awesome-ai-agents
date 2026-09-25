@@ -288,6 +288,17 @@ Here's an awesome list of AI agents:
 <p><strong>Interfaces:</strong> CLI · TUI · HTTP API · MCP</p>
 </div>
 
+### Authsome
+<div><a href="https://github.com/agentrhq/authsome"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/agentrhq/authsome"><img src="https://img.shields.io/github/stars/agentrhq/authsome?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents | 🛡️ Safety Guardrails (Safeguarding)</p>
+
+<p>A local credential broker for AI agents that stores credentials in an encrypted vault and injects them through a local HTTPS proxy, keeping raw secrets away from agent processes.</p>
+
+<p><a href="https://github.com/agentrhq/authsome">github</a></p>
+<p><strong>Capabilities:</strong> Manage OAuth2 and API key credentials for agent tools · Store credentials in an encrypted local vault · Inject credentials into requests through a local HTTPS proxy</p>
+<p><strong>Interfaces:</strong> Python package · Local HTTPS proxy · CLI</p>
+</div>
+
 ### AutoDev
 <div><a href="https://github.com/phodal/auto-dev"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/phodal/auto-dev"><img src="https://img.shields.io/github/stars/phodal/auto-dev?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 4,039 stars (Updated: 2025-07-30)</p>
