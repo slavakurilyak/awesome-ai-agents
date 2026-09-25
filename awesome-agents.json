@@ -6007,6 +6007,34 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "GolemCore Bot",
+      "project_description": "GolemCore Bot is an agent platform for AI-native teams, with channel-connected agents, skills, plugins, MCP servers, memory, and execution tracing.",
+      "project_is_open_source": true,
+      "categories": [
+        "Development Frameworks"
+      ],
+      "capabilities": [
+        "channel-connected agent runtime",
+        "skills, plugins, and MCP integration",
+        "persistent memory and execution tracing"
+      ],
+      "interfaces": [
+        "Web UI",
+        "Telegram",
+        "Webhooks"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/alexk-dev/golemcore-bot",
+          "stars": null,
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T19:54:00Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
