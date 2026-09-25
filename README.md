@@ -83,6 +83,17 @@ Here's an awesome list of AI agents:
 <p><strong>Interfaces:</strong> Web dashboard · CLI · MCP server · Coding-agent skills</p>
 </div>
 
+### Agent Teams
+<div><a href="https://github.com/777genius/agent-teams-ai"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/777genius/agent-teams-ai"><img src="https://img.shields.io/github/stars/777genius/agent-teams-ai?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents</p>
+
+<p>A desktop app for directing autonomous coding-agent teams through Kanban tasks, shared messaging, code review, and approvals.</p>
+
+<p><a href="https://github.com/777genius/agent-teams-ai">github</a></p>
+<p><strong>Capabilities:</strong> Coordinate multiple coding agents · Assign and monitor Kanban tasks · Review agent work and activity logs · Manage approvals across agent workflows</p>
+<p><strong>Interfaces:</strong> Desktop UI · Claude · Codex · OpenCode · Cursor</p>
+</div>
+
 ### agent-kit
 <div><a href="https://github.com/socialrobot-io/agent-kit"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/socialrobot-io/agent-kit"><img src="https://img.shields.io/github/stars/socialrobot-io/agent-kit?style=social" alt="GitHub stars"></a></div>
 <p>🤖 AI Agents</p>
