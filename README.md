@@ -1771,6 +1771,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/huggingface/smolagents">github</a></p>
 </div>
 
+### Sonzai Go SDK
+<div><a href="https://github.com/sonz-ai/sonzai-go"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/sonz-ai/sonzai-go"><img src="https://img.shields.io/github/stars/sonz-ai/sonzai-go?style=social" alt="GitHub stars"></a></div>
+<p>⚙️ Development Frameworks | 🧠 Long-Term Memory</p>
+
+<p>An open-source Go client for the hosted Sonzai Mind Layer API, providing agent runtimes with memory context, turn persistence, and voice services.</p>
+
+<p><a href="https://github.com/sonz-ai/sonzai-go">github</a></p>
+<p><strong>Capabilities:</strong> Retrieve memory context bundles for agent sessions · Persist agent conversation turns and submit usage reports · Access Sonzai runtime and voice API resources from Go</p>
+<p><strong>Interfaces:</strong> Go module · REST API client</p>
+</div>
+
 ### sparkbtcbot-skill
 <div><a href="https://github.com/echennells/sparkbtcbot"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/echennells/sparkbtcbot"><img src="https://img.shields.io/github/stars/echennells/sparkbtcbot?style=social" alt="GitHub stars"></a></div>
 <p>₿ Bitcoin</p>
