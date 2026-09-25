@@ -945,6 +945,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/microsoft/JARVIS">github</a></p>
 </div>
 
+### Jev Social
+<div><a href="https://github.com/socai-io/jev-social"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/socai-io/jev-social"><img src="https://img.shields.io/github/stars/socai-io/jev-social?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents</p>
+
+<p>A browser-grounded social research agent that lets Jev select bounded operations, uses the socai CLI in the user's Chrome session, and generates source-linked reports.</p>
+
+<p><a href="https://github.com/socai-io/jev-social">github</a></p>
+</div>
+
 ### jevme
 <div><a href="https://github.com/danielyedaniel/jevme"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/danielyedaniel/jevme"><img src="https://img.shields.io/github/stars/danielyedaniel/jevme?style=social" alt="GitHub stars"></a></div>
 <p>💻 Operating System (OS)</p>

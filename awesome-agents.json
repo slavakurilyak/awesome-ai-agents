@@ -397,6 +397,24 @@
       ]
     },
     {
+      "project": "Jev Social",
+      "project_description": "A browser-grounded social research agent that lets Jev select bounded operations, uses the socai CLI in the user's Chrome session, and generates source-linked reports.",
+      "project_is_open_source": true,
+      "categories": [
+        "AI Agents"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/socai-io/jev-social",
+          "stars": null,
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T07:54:35Z",
+          "repository_status": "active"
+        }
+      ]
+    },
+    {
       "project": "Reel Agent",
       "project_description": "A self-hosted Telegram agent that analyzes social-media videos, returns source-linked breakdowns, and can plan or build related projects on the user's PC with command approvals.",
       "project_is_open_source": true,
