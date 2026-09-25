@@ -130,6 +130,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/smartcomputer-ai/agent-os">github</a></p>
 </div>
 
+### AgentServices
+<div><a href="https://github.com/vbkotecha/agentservices-api"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/vbkotecha/agentservices-api"><img src="https://img.shields.io/github/stars/vbkotecha/agentservices-api?style=social" alt="GitHub stars"></a></div>
+<p>🔌 MCP Servers</p>
+
+<p>AgentServices exposes crypto market and DeFi data to AI agents through a REST API and MCP server, with x402 micropayments for paid requests.</p>
+
+<p><a href="https://github.com/vbkotecha/agentservices-api">github</a></p>
+</div>
+
 ### AgentWatch
 <div><a href="https://github.com/nicofains1/agentwatch"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/nicofains1/agentwatch"><img src="https://img.shields.io/github/stars/nicofains1/agentwatch?style=social" alt="GitHub stars"></a></div>
 <p>👁️ Observability Frameworks</p>

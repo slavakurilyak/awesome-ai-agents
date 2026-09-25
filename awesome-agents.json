@@ -3668,6 +3668,23 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "AgentServices",
+      "project_description": "AgentServices exposes crypto market and DeFi data to AI agents through a REST API and MCP server, with x402 micropayments for paid requests.",
+      "project_is_open_source": true,
+      "categories": [
+        "MCP Servers"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/vbkotecha/agentservices-api",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T16:26:21Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
