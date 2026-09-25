@@ -2773,6 +2773,33 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "Superagent for Mac",
+      "project_description": "Superagent for Mac is an open-source macOS workspace for Claude Code and Codex, combining persistent coding-agent chats with an agent-controlled browser, iOS Simulator, and companion iPhone app for monitoring conversations and responding to agent requests. It runs locally and uses the user’s existing agent subscription.",
+      "project_is_open_source": true,
+      "categories": [
+        "Operating System (OS)"
+      ],
+      "capabilities": [
+        "Browser automation",
+        "iOS Simulator interaction",
+        "Remote agent supervision"
+      ],
+      "interfaces": [
+        "macOS desktop app",
+        "iOS companion app",
+        "Claude Code and Codex"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/pungme/superagent-desktop",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T14:59:01Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
