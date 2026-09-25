@@ -1381,6 +1381,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/pydantic/pydantic">github</a> | <a href="https://docs.pydantic.dev/">website</a></p>
 </div>
 
+### Self Auditing Agent
+<div><a href="https://github.com/simin-yuan/self-auditing-agent"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/simin-yuan/self-auditing-agent"><img src="https://img.shields.io/github/stars/simin-yuan/self-auditing-agent?style=social" alt="GitHub stars"></a></div>
+<p>📊 Evaluation Frameworks</p>
+
+<p>Self Auditing Agent pairs audit claims with rerunnable commands and includes gatecheck, a mutation tester for quality gates available as a GitHub Action and pre-commit hook.</p>
+
+<p><a href="https://github.com/simin-yuan/self-auditing-agent">github</a></p>
+</div>
+
 ### Self Operating Computer
 <div><a href="https://github.com/OthersideAI/self-operating-computer"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/OthersideAI/self-operating-computer"><img src="https://img.shields.io/github/stars/OthersideAI/self-operating-computer?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 9,808 stars (Updated: 2025-07-30)</p>
