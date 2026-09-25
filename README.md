@@ -1653,6 +1653,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/arcee-ai/mergekit">github</a></p>
 </div>
 
+### Metorial
+<div><a href="https://github.com/metorial/metorial"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/metorial/metorial"><img src="https://img.shields.io/github/stars/metorial/metorial?style=social" alt="GitHub stars"></a></div>
+<p>🔌 MCP Servers</p>
+
+<p>Metorial is an open-source control plane for agent access to external systems, standardizing integrations with shared authentication, permissions, and observability.</p>
+
+<p><a href="https://github.com/metorial/metorial">github</a></p>
+<p><strong>Capabilities:</strong> agent access to external systems · integration authentication and permissions · integration observability</p>
+<p><strong>Interfaces:</strong> MCP · SDK · CLI</p>
+</div>
+
 ### Microsoft Agent Framework
 <div><a href="https://github.com/microsoft/agent-framework"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/microsoft/agent-framework"><img src="https://img.shields.io/github/stars/microsoft/agent-framework?style=social" alt="GitHub stars"></a></div>
 <p>⚙️ Development Frameworks</p>

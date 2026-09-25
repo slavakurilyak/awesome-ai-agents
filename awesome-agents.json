@@ -6147,6 +6147,34 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "Metorial",
+      "project_description": "Metorial is an open-source control plane for agent access to external systems, standardizing integrations with shared authentication, permissions, and observability.",
+      "project_is_open_source": true,
+      "categories": [
+        "MCP Servers"
+      ],
+      "capabilities": [
+        "agent access to external systems",
+        "integration authentication and permissions",
+        "integration observability"
+      ],
+      "interfaces": [
+        "MCP",
+        "SDK",
+        "CLI"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/metorial/metorial",
+          "stars": null,
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T19:58:00Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
