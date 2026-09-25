@@ -3685,6 +3685,24 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "Project Telos",
+      "project_description": "Project Telos is a local-first MCP and CLI workbench for inspectable agent workflows, with provenance, routing ledgers, action receipts, context packs, diagnostics, and replayable verification packets.",
+      "project_is_open_source": true,
+      "categories": [
+        "Observability Frameworks",
+        "Evaluation Frameworks"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/HarperZ9/telos",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T16:30:01Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
