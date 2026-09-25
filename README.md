@@ -2339,6 +2339,17 @@ Here's an awesome list of AI agents:
 <p><strong>Interfaces:</strong> Web UI · CLI · SSH · Docker · HTTP API</p>
 </div>
 
+### WritBase
+<div><a href="https://github.com/Writbase/writbase"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Writbase/writbase"><img src="https://img.shields.io/github/stars/Writbase/writbase?style=social" alt="GitHub stars"></a></div>
+<p>⚙️ Development Frameworks</p>
+
+<p>An MCP-native task control plane for AI agent teams, with persistent tasks, scoped permissions, delegation, and provenance.</p>
+
+<p><a href="https://github.com/Writbase/writbase">github</a></p>
+<p><strong>Capabilities:</strong> Maintain a persistent task registry for agents and human supervisors · Delegate tasks between agents with scoped permissions · Track task history and provenance</p>
+<p><strong>Interfaces:</strong> MCP server · CLI</p>
+</div>
+
 ### XAgent
 <div><a href="https://github.com/OpenBMB/XAgent"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/OpenBMB/XAgent"><img src="https://img.shields.io/github/stars/OpenBMB/XAgent?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 8,404 stars (Updated: 2025-07-30)</p>

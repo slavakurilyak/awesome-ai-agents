@@ -5464,6 +5464,32 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "WritBase",
+      "project_description": "An MCP-native task control plane for AI agent teams, with persistent tasks, scoped permissions, delegation, and provenance.",
+      "project_is_open_source": true,
+      "capabilities": [
+        "Maintain a persistent task registry for agents and human supervisors",
+        "Delegate tasks between agents with scoped permissions",
+        "Track task history and provenance"
+      ],
+      "interfaces": [
+        "MCP server",
+        "CLI"
+      ],
+      "categories": [
+        "Development Frameworks"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/Writbase/writbase",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T19:32:00Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
