@@ -738,6 +738,17 @@ Here's an awesome list of AI agents:
 <p><strong>Interfaces:</strong> CLI · Local web dashboard</p>
 </div>
 
+### Cline
+<div><a href="https://github.com/cline/cline"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/cline/cline"><img src="https://img.shields.io/github/stars/cline/cline?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents</p>
+
+<p>Cline is an open-source coding agent available in IDEs, terminals, and desktop, where it can plan and carry out software development tasks with user control.</p>
+
+<p><a href="https://github.com/cline/cline">github</a></p>
+<p><strong>Capabilities:</strong> code planning and editing · tool use across development workflows · MCP integrations</p>
+<p><strong>Interfaces:</strong> IDE extension · CLI · Desktop app</p>
+</div>
+
 ### Cogito Studio
 <div><a href="https://github.com/CogitoForge-AI/cogito-studio"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/CogitoForge-AI/cogito-studio"><img src="https://img.shields.io/github/stars/CogitoForge-AI/cogito-studio?style=social" alt="GitHub stars"></a></div>
 <p>👤 Personal Assistants | 🖥️ UI Development</p>
