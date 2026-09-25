@@ -4605,6 +4605,33 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "Taskade",
+      "project_description": "An AI-native workspace with custom agents, workflow automation, and prompt-built apps; its official public repository contains product documentation and clone-ready App Kits.",
+      "project_is_open_source": true,
+      "categories": [
+        "AI Agents"
+      ],
+      "capabilities": [
+        "Custom AI agents",
+        "Workflow automation",
+        "Prompt-built apps"
+      ],
+      "interfaces": [
+        "Web application",
+        "REST API",
+        "MCP server"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/taskade/taskade",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T14:32:56Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [

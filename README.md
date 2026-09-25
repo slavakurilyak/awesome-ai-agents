@@ -1798,6 +1798,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/reworkd/tarsier">github</a> | <a href="https://reworkd.ai/">website</a></p>
 </div>
 
+### Taskade
+<div><a href="https://github.com/taskade/taskade"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/taskade/taskade"><img src="https://img.shields.io/github/stars/taskade/taskade?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents</p>
+
+<p>An AI-native workspace with custom agents, workflow automation, and prompt-built apps; its official public repository contains product documentation and clone-ready App Kits.</p>
+
+<p><a href="https://github.com/taskade/taskade">github</a></p>
+<p><strong>Capabilities:</strong> Custom AI agents · Workflow automation · Prompt-built apps</p>
+<p><strong>Interfaces:</strong> Web application · REST API · MCP server</p>
+</div>
+
 ### TaskingAI
 <div><a href="https://github.com/TaskingAI/TaskingAI"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/TaskingAI/TaskingAI"><img src="https://img.shields.io/github/stars/TaskingAI/TaskingAI?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 5,274 stars (Updated: 2025-07-30)</p>
