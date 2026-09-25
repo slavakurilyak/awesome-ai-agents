@@ -1315,6 +1315,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/mastra-ai/mastra">github</a></p>
 </div>
 
+### Max CLI
+<div><a href="https://github.com/sortlist/max-cli"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/sortlist/max-cli"><img src="https://img.shields.io/github/stars/sortlist/max-cli?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents</p>
+
+<p>A lead-intelligence CLI for discovering prospects and managing lead-generation subscriptions and workflows.</p>
+
+<p><a href="https://github.com/sortlist/max-cli">github</a></p>
+<p><strong>Capabilities:</strong> Discover leads from monitored sources · Manage subscriptions and lead workflows · Connect campaigns and enroll leads</p>
+<p><strong>Interfaces:</strong> CLI · Max API</p>
+</div>
+
 ### Melaya SDKs
 <div><a href="https://github.com/melaya-labs/melaya"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/melaya-labs/melaya"><img src="https://img.shields.io/github/stars/melaya-labs/melaya?style=social" alt="GitHub stars"></a></div>
 <p>⚙️ Development Frameworks</p>
@@ -1630,6 +1641,17 @@ Here's an awesome list of AI agents:
 <p>Outlines is a robust text generation library designed for agentic AI developers, featuring support for multiple model integrations, advanced prompting with Jinja, efficient structured generation through regex, JSON schema, context-free grammars, and more, enabling the creation of predictable and structured AI agent outputs</p>
 
 <p><a href="https://github.com/dottxt-ai/outlines">github</a> | <a href="https://outlines-dev.github.io/outlines/">website</a> | <a href="https://discord.gg/ZxBxyWmW5n">discord</a></p>
+</div>
+
+### Overloop CLI
+<div><a href="https://github.com/sortlist/overloop-cli"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/sortlist/overloop-cli"><img src="https://img.shields.io/github/stars/sortlist/overloop-cli?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents</p>
+
+<p>A command-line client for managing prospects, sourcing, campaigns, and sales outreach through the Overloop API.</p>
+
+<p><a href="https://github.com/sortlist/overloop-cli">github</a></p>
+<p><strong>Capabilities:</strong> Find and manage prospects · Create and operate outbound campaigns · Manage sourcing and conversations</p>
+<p><strong>Interfaces:</strong> CLI · Overloop API</p>
 </div>
 
 ### Perplexity-Inspired LLM Answer Engine
