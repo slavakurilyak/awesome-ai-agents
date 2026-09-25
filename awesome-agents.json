@@ -5076,6 +5076,33 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "Cortex Memory",
+      "project_description": "A local-first memory tool for AI coding assistants that captures project context and carries it across sessions.",
+      "project_is_open_source": true,
+      "capabilities": [
+        "Capture project decisions, patterns, and context across coding sessions",
+        "Persist and retrieve multi-layer project memory",
+        "Inject relevant memory into new assistant sessions"
+      ],
+      "interfaces": [
+        "VS Code extension",
+        "CLI",
+        "MCP server"
+      ],
+      "categories": [
+        "Long-Term Memory"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/SKULLFIRE07/cortex-memory",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T18:59:00Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
