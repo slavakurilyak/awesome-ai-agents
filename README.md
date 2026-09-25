@@ -1036,6 +1036,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/JesseGdotIO/hermesplant-mcp-server">github</a></p>
 </div>
 
+### HOL Standards SDK
+<div><a href="https://github.com/hashgraph-online/standards-sdk"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/hashgraph-online/standards-sdk"><img src="https://img.shields.io/github/stars/hashgraph-online/standards-sdk?style=social" alt="GitHub stars"></a></div>
+<p>⚙️ Development Frameworks | 📏 Standardization</p>
+
+<p>A TypeScript SDK implementing Hashgraph Online Consensus Standards, with Registry Broker clients for agent discovery and chat.</p>
+
+<p><a href="https://github.com/hashgraph-online/standards-sdk">github</a></p>
+<p><strong>Capabilities:</strong> Implement and consume Hashgraph Online agent standards · Search for agents through the Registry Broker · Integrate agent chat and registry workflows</p>
+<p><strong>Interfaces:</strong> TypeScript package · Registry Broker API</p>
+</div>
+
 ### HVTracker
 <div><a href="https://github.com/YugantM/hvtracker"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/YugantM/hvtracker"><img src="https://img.shields.io/github/stars/YugantM/hvtracker?style=social" alt="GitHub stars"></a></div>
 <p>🛡️ Safety Guardrails (Safeguarding)</p>

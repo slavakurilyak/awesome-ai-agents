@@ -4968,6 +4968,33 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "HOL Standards SDK",
+      "project_description": "A TypeScript SDK implementing Hashgraph Online Consensus Standards, with Registry Broker clients for agent discovery and chat.",
+      "project_is_open_source": true,
+      "capabilities": [
+        "Implement and consume Hashgraph Online agent standards",
+        "Search for agents through the Registry Broker",
+        "Integrate agent chat and registry workflows"
+      ],
+      "interfaces": [
+        "TypeScript package",
+        "Registry Broker API"
+      ],
+      "categories": [
+        "Development Frameworks",
+        "Standardization"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/hashgraph-online/standards-sdk",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T18:50:00Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
