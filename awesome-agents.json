@@ -5270,6 +5270,34 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "ConnectOnion",
+      "project_description": "A Python CLI harness that lets coding agents access local tools such as Gmail, a browser, and files from their shell.",
+      "project_is_open_source": true,
+      "capabilities": [
+        "Give coding agents shell-accessible tools for email and browser workflows",
+        "Keep user credentials on the local machine",
+        "Build agent workflows by composing command-line capabilities"
+      ],
+      "interfaces": [
+        "Python package",
+        "CLI",
+        "Local shell tools"
+      ],
+      "categories": [
+        "Development Frameworks",
+        "Tool Calling (Function Calling)"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/openonion/connectonion",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T19:17:00Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
