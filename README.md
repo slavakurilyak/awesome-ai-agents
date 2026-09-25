@@ -702,6 +702,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/topoteretes/cognee">github</a></p>
 </div>
 
+### ConnectOnion
+<div><a href="https://github.com/openonion/connectonion"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/openonion/connectonion"><img src="https://img.shields.io/github/stars/openonion/connectonion?style=social" alt="GitHub stars"></a></div>
+<p>⚙️ Development Frameworks | 🔧 Tool Calling (Function Calling)</p>
+
+<p>A Python CLI harness that lets coding agents access local tools such as Gmail, a browser, and files from their shell.</p>
+
+<p><a href="https://github.com/openonion/connectonion">github</a></p>
+<p><strong>Capabilities:</strong> Give coding agents shell-accessible tools for email and browser workflows · Keep user credentials on the local machine · Build agent workflows by composing command-line capabilities</p>
+<p><strong>Interfaces:</strong> Python package · CLI · Local shell tools</p>
+</div>
+
 ### Context7
 <div><a href="https://github.com/upstash/context7"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/upstash/context7"><img src="https://img.shields.io/github/stars/upstash/context7?style=social" alt="GitHub stars"></a></div>
 <p>🔌 MCP Servers</p>
