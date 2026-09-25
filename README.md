@@ -1201,6 +1201,17 @@ Here's an awesome list of AI agents:
 <p><strong>Interfaces:</strong> TypeScript package · Registry Broker API</p>
 </div>
 
+### Human Pages MCP Server
+<div><a href="https://github.com/human-pages-ai/humanpages"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/human-pages-ai/humanpages"><img src="https://img.shields.io/github/stars/human-pages-ai/humanpages?style=social" alt="GitHub stars"></a></div>
+<p>🔌 MCP Servers</p>
+
+<p>Human Pages MCP Server lets AI agents find, hire, and coordinate people for tasks that require real-world human work, including testing, localization, and community operations.</p>
+
+<p><a href="https://github.com/human-pages-ai/humanpages">github</a></p>
+<p><strong>Capabilities:</strong> search people by skill and location · create jobs and manage messaging · human task fulfillment</p>
+<p><strong>Interfaces:</strong> MCP</p>
+</div>
+
 ### HVTracker
 <div><a href="https://github.com/YugantM/hvtracker"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/YugantM/hvtracker"><img src="https://img.shields.io/github/stars/YugantM/hvtracker?style=social" alt="GitHub stars"></a></div>
 <p>🛡️ Safety Guardrails (Safeguarding)</p>

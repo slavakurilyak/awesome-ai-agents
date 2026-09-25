@@ -5763,6 +5763,32 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "Human Pages MCP Server",
+      "project_description": "Human Pages MCP Server lets AI agents find, hire, and coordinate people for tasks that require real-world human work, including testing, localization, and community operations.",
+      "project_is_open_source": true,
+      "categories": [
+        "MCP Servers"
+      ],
+      "capabilities": [
+        "search people by skill and location",
+        "create jobs and manage messaging",
+        "human task fulfillment"
+      ],
+      "interfaces": [
+        "MCP"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/human-pages-ai/humanpages",
+          "stars": null,
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T19:47:00Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
