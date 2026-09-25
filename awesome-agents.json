@@ -4862,6 +4862,58 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "Overloop CLI",
+      "project_description": "A command-line client for managing prospects, sourcing, campaigns, and sales outreach through the Overloop API.",
+      "project_is_open_source": true,
+      "capabilities": [
+        "Find and manage prospects",
+        "Create and operate outbound campaigns",
+        "Manage sourcing and conversations"
+      ],
+      "interfaces": [
+        "CLI",
+        "Overloop API"
+      ],
+      "categories": [
+        "AI Agents"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/sortlist/overloop-cli",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T18:42:00Z",
+          "repository_status": "active"
+        }
+      ]
+    },
+    {
+      "project": "Max CLI",
+      "project_description": "A lead-intelligence CLI for discovering prospects and managing lead-generation subscriptions and workflows.",
+      "project_is_open_source": true,
+      "capabilities": [
+        "Discover leads from monitored sources",
+        "Manage subscriptions and lead workflows",
+        "Connect campaigns and enroll leads"
+      ],
+      "interfaces": [
+        "CLI",
+        "Max API"
+      ],
+      "categories": [
+        "AI Agents"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/sortlist/max-cli",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T18:42:00Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
