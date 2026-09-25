@@ -4835,6 +4835,33 @@
         "repository_checked_at": "2026-09-25T18:35:20Z",
         "repository_status": "active"
       }]
+    },
+    {
+      "project": "SidClaw",
+      "project_description": "An agent governance platform that intercepts tool calls for policy checks, human approval, and auditable traces.",
+      "project_is_open_source": true,
+      "categories": [
+        "Safety Guardrails (Safeguarding)"
+      ],
+      "capabilities": [
+        "Enforce policies on agent tool calls",
+        "Route risky actions for human approval",
+        "Record auditable traces of agent actions"
+      ],
+      "interfaces": [
+        "Web dashboard",
+        "SDK",
+        "MCP integrations"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/sidclawhq/platform",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T18:38:23Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
