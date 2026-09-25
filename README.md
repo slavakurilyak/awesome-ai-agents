@@ -396,6 +396,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/Significant-Gravitas/AutoGPT">github</a> | <a href="https://github.com/Significant-Gravitas">github profile</a></p>
 </div>
 
+### Awesome Embodied AI Safety
+<div><a href="https://github.com/x-zheng16/Awesome-Embodied-AI-Safety"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/x-zheng16/Awesome-Embodied-AI-Safety"><img src="https://img.shields.io/github/stars/x-zheng16/Awesome-Embodied-AI-Safety?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents</p>
+
+<p>An open survey of embodied AI safety research, organizing papers on perception, cognition, planning, interaction, and agentic-system risks.</p>
+
+<p><a href="https://github.com/x-zheng16/Awesome-Embodied-AI-Safety">github</a></p>
+</div>
+
 ### Axflow
 <div><a href="https://github.com/axflow/axflow"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/axflow/axflow"><img src="https://img.shields.io/github/stars/axflow/axflow?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 1,122 stars (Updated: 2025-07-30)</p>

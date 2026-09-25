@@ -4450,6 +4450,23 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "Awesome Embodied AI Safety",
+      "project_description": "An open survey of embodied AI safety research, organizing papers on perception, cognition, planning, interaction, and agentic-system risks.",
+      "project_is_open_source": true,
+      "categories": [
+        "AI Agents"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/x-zheng16/Awesome-Embodied-AI-Safety",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T08:57:34Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
