@@ -3157,6 +3157,81 @@
         }
       ]
     }
+,
+    {
+      "project": "GitHub MCP Server",
+      "project_description": "GitHub's official MCP server lets AI agents work with repositories, issues, pull requests, Actions, and code security through the Model Context Protocol.",
+      "project_is_open_source": true,
+      "categories": [
+        "MCP Servers",
+        "Tool Calling (Function Calling)"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/github/github-mcp-server",
+          "stars": null,
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T15:45:02Z",
+          "repository_status": "active"
+        }
+      ]
+    },
+    {
+      "project": "Playwright MCP",
+      "project_description": "Microsoft's Playwright MCP server gives agents structured, accessibility-tree-based control of a real browser.",
+      "project_is_open_source": true,
+      "categories": [
+        "MCP Servers",
+        "Web Browsing Frameworks"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/microsoft/playwright-mcp",
+          "stars": null,
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T15:45:03Z",
+          "repository_status": "active"
+        }
+      ]
+    },
+    {
+      "project": "Context7",
+      "project_description": "Context7 provides version-specific library documentation and code examples to agents through an MCP server.",
+      "project_is_open_source": true,
+      "categories": [
+        "MCP Servers"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/upstash/context7",
+          "stars": null,
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T15:45:03Z",
+          "repository_status": "active"
+        }
+      ]
+    },
+    {
+      "project": "Serena",
+      "project_description": "Serena is a coding-agent toolkit exposed as an MCP server, providing semantic code retrieval and editing through language-server-powered tools.",
+      "project_is_open_source": true,
+      "categories": [
+        "MCP Servers"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/oraios/serena",
+          "stars": null,
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T15:45:04Z",
+          "repository_status": "active"
+        }
+      ]
+    }
   ],
   "categories": [
     {
@@ -3298,6 +3373,10 @@
     {
       "category": "Custom Development",
       "category_description": "AI agencies that specialize in custom AI agent development"
+    },
+    {
+      "category": "MCP Servers",
+      "category_description": "Model Context Protocol (MCP) servers that expose tools and data sources to AI agents through the open MCP standard"
     }
   ]
 }

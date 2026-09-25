@@ -137,3 +137,7 @@
 - category: "Custom Development"
   category_description: "AI agencies that specialize in custom AI agent development"
   emoji: "🛠️"
+
+- category: "MCP Servers"
+  category_description: "Model Context Protocol (MCP) servers that expose tools and data sources to AI agents through the open MCP standard"
+  emoji: "🔌"
