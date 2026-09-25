@@ -4516,6 +4516,26 @@
         "repository_status": "active"
       }]
     }
+ ,
+    {
+      "project": "Promptise Foundry",
+      "project_description": "A Python framework for building and running AI agents with integrated tools, controllable reasoning, memory, security, governance, and observability.",
+      "project_is_open_source": true,
+      "categories": ["AI Agents", "Development Frameworks"],
+      "capabilities": [
+        "Build agents and MCP tools with a Python SDK",
+        "Run autonomous agents with memory and controllable reasoning",
+        "Govern multi-tenant deployments with budgets, approvals, and observability"
+      ],
+      "interfaces": ["Python package", "MCP server", "Autonomous runtime"],
+      "sources": [{
+        "source": "github",
+        "source_url": "https://github.com/promptise-com/Foundry",
+        "stars_last_updated": null,
+        "repository_checked_at": "2026-09-25T18:04:06Z",
+        "repository_status": "active"
+      }]
+    }
   ],
   "categories": [
     {

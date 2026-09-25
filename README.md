@@ -1553,6 +1553,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/HarperZ9/telos">github</a></p>
 </div>
 
+### Promptise Foundry
+<div><a href="https://github.com/promptise-com/Foundry"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/promptise-com/Foundry"><img src="https://img.shields.io/github/stars/promptise-com/Foundry?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents | ⚙️ Development Frameworks</p>
+
+<p>A Python framework for building and running AI agents with integrated tools, controllable reasoning, memory, security, governance, and observability.</p>
+
+<p><a href="https://github.com/promptise-com/Foundry">github</a></p>
+<p><strong>Capabilities:</strong> Build agents and MCP tools with a Python SDK · Run autonomous agents with memory and controllable reasoning · Govern multi-tenant deployments with budgets, approvals, and observability</p>
+<p><strong>Interfaces:</strong> Python package · MCP server · Autonomous runtime</p>
+</div>
+
 ### Pydantic
 <div><a href="https://github.com/pydantic/pydantic"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/pydantic/pydantic"><img src="https://img.shields.io/github/stars/pydantic/pydantic?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 24,701 stars (Updated: 2025-07-30)</p>
