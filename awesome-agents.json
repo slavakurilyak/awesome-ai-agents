@@ -3101,6 +3101,25 @@
         }
       ]
     }
+,
+    {
+      "project": "agent-kit",
+      "project_description": "agent-kit is a TypeScript toolkit for deploying multi-tenant AI agents with sandboxed execution, curated memory, and human-approved learning.",
+      "project_is_open_source": true,
+      "categories": [
+        "AI Agents"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/socialrobot-io/agent-kit",
+          "stars": null,
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T15:29:23Z",
+          "repository_status": "active"
+        }
+      ]
+    }
   ],
   "categories": [
     {

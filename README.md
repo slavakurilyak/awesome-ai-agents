@@ -83,6 +83,15 @@ Here's an awesome list of AI agents:
 <p><strong>Interfaces:</strong> Web dashboard · CLI · MCP server · Coding-agent skills</p>
 </div>
 
+### agent-kit
+<div><a href="https://github.com/socialrobot-io/agent-kit"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/socialrobot-io/agent-kit"><img src="https://img.shields.io/github/stars/socialrobot-io/agent-kit?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents</p>
+
+<p>agent-kit is a TypeScript toolkit for deploying multi-tenant AI agents with sandboxed execution, curated memory, and human-approved learning.</p>
+
+<p><a href="https://github.com/socialrobot-io/agent-kit">github</a></p>
+</div>
+
 ### agentfix-mini-scanner
 <div><a href="https://github.com/Virt92/agentfix-oss-scanner"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Virt92/agentfix-oss-scanner"><img src="https://img.shields.io/github/stars/Virt92/agentfix-oss-scanner?style=social" alt="GitHub stars"></a></div>
 <p>📊 Evaluation Frameworks</p>
