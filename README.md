@@ -72,6 +72,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/statelyai/agent/">github</a> | <a href="https://stately.ai/agent">website</a> | <a href="https://twitter.com/statelyai">twitter</a> | <a href="https://discord.gg/xstate">discord</a> | <a href="https://youtube.com/c/statelyai">youtube</a></p>
 </div>
 
+### Agent Platform
+<div><a href="https://github.com/Ace-li521/agent-platform"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Ace-li521/agent-platform"><img src="https://img.shields.io/github/stars/Ace-li521/agent-platform?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents</p>
+
+<p>A lightweight, stateless platform for discovering and routing requests between AI agents through an HTTP and JSON API.</p>
+
+<p><a href="https://github.com/Ace-li521/agent-platform">github</a></p>
+<p><strong>Capabilities:</strong> Register and discover agents dynamically · Route requests between agents with message history · Trace cross-agent requests</p>
+<p><strong>Interfaces:</strong> HTTP and JSON API · Docker · FastAPI</p>
+</div>
+
 ### Agent QA
 <div><a href="https://github.com/vostride/agent-qa"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/vostride/agent-qa"><img src="https://img.shields.io/github/stars/vostride/agent-qa?style=social" alt="GitHub stars"></a></div>
 <p>🤖 AI Agents</p>
