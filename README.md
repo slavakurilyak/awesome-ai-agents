@@ -979,6 +979,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/farizrahman4u/loopgpt">github</a> | <a href="https://github.com/farizrahman4u">github profile</a></p>
 </div>
 
+### LoopTroop
+<div><a href="https://github.com/looptroop-ai/LoopTroop"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/looptroop-ai/LoopTroop"><img src="https://img.shields.io/github/stars/looptroop-ai/LoopTroop?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents</p>
+
+<p>LoopTroop is a local AI coding orchestrator that plans work with an LLM council, runs tasks in isolated Git worktrees, and retries failures with fresh context.</p>
+
+<p><a href="https://github.com/looptroop-ai/LoopTroop">github</a></p>
+<p><strong>Capabilities:</strong> Ticket-to-PR coding workflow · Multi-model planning · Isolated worktree execution · Verification and review</p>
+<p><strong>Interfaces:</strong> Desktop UI · CLI · OpenCode integration</p>
+</div>
+
 ### lucinate
 <div><a href="https://github.com/lucinate-ai/lucinate"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/lucinate-ai/lucinate"><img src="https://img.shields.io/github/stars/lucinate-ai/lucinate?style=social" alt="GitHub stars"></a></div>
 <p>💻 Terminal-Friendly</p>
