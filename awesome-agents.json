@@ -4596,6 +4596,26 @@
         "repository_status": "active"
       }]
     }
+ ,
+    {
+      "project": "Corellis",
+      "project_description": "An OpenClaw-based multi-agent workforce framework with shared team memory, goal decomposition, fleet learning, task management, and approval workflows.",
+      "project_is_open_source": true,
+      "categories": ["AI Agents", "Long-Term Memory", "Safety Guardrails (Safeguarding)"],
+      "capabilities": [
+        "Decompose team goals and coordinate tasks across agent fleets",
+        "Share searchable knowledge and promote lessons across agents",
+        "Route sensitive actions through human approval workflows"
+      ],
+      "interfaces": ["OpenClaw", "Docker", "Slack", "Agent skills"],
+      "sources": [{
+        "source": "github",
+        "source_url": "https://github.com/CorellisOrg/Corellis",
+        "stars_last_updated": null,
+        "repository_checked_at": "2026-09-25T18:11:42Z",
+        "repository_status": "active"
+      }]
+    }
   ],
   "categories": [
     {

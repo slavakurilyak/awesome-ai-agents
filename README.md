@@ -642,6 +642,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/continuedev/continue">github</a> | <a href="https://continue.dev">website</a></p>
 </div>
 
+### Corellis
+<div><a href="https://github.com/CorellisOrg/Corellis"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/CorellisOrg/Corellis"><img src="https://img.shields.io/github/stars/CorellisOrg/Corellis?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents | 🧠 Long-Term Memory | 🛡️ Safety Guardrails (Safeguarding)</p>
+
+<p>An OpenClaw-based multi-agent workforce framework with shared team memory, goal decomposition, fleet learning, task management, and approval workflows.</p>
+
+<p><a href="https://github.com/CorellisOrg/Corellis">github</a></p>
+<p><strong>Capabilities:</strong> Decompose team goals and coordinate tasks across agent fleets · Share searchable knowledge and promote lessons across agents · Route sensitive actions through human approval workflows</p>
+<p><strong>Interfaces:</strong> OpenClaw · Docker · Slack · Agent skills</p>
+</div>
+
 ### CorvinOS
 <div><a href="https://github.com/CorvinLabs/CorvinOS"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/CorvinLabs/CorvinOS"><img src="https://img.shields.io/github/stars/CorvinLabs/CorvinOS?style=social" alt="GitHub stars"></a></div>
 <p>🤖 AI Agents | 💻 Local Inference | 💻 Operating System (OS)</p>
