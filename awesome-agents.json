@@ -4941,6 +4941,33 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "Cortex",
+      "project_description": "An open protocol for coordinating AI agent teams through shared Markdown task files and a chief-of-staff workflow.",
+      "project_is_open_source": true,
+      "capabilities": [
+        "Coordinate chief-of-staff and worker agents through shared task files",
+        "Track team tasks and agent status across projects",
+        "Integrate with multiple coding-agent runtimes"
+      ],
+      "interfaces": [
+        "Markdown protocol",
+        "Claude Code plugin",
+        "Runtime adapters"
+      ],
+      "categories": [
+        "Development Frameworks"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/agentweave/cortex",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T18:48:00Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
