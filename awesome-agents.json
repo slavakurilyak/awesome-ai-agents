@@ -394,6 +394,24 @@
       ]
     },
     {
+      "project": "BulkPublish",
+      "project_description": "Open-source Python and Node.js SDKs and an MCP server that connect agents to BulkPublish's hosted social publishing API, with tools for drafting, scheduling, publishing, approvals, and analytics.",
+      "project_is_open_source": true,
+      "categories": [
+        "Tool Calling (Function Calling)"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/azeemkafridi/bulkpublish-api",
+          "stars": null,
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T08:08:05Z",
+          "repository_status": "active"
+        }
+      ]
+    },
+    {
       "project": "AgentLeak",
       "project_description": "An open-source privacy evaluation toolkit that analyzes agent traces across tool calls, shared memory, inter-agent messages, and logs, producing redacted reports and CI gates.",
       "project_is_open_source": true,

@@ -485,6 +485,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/VRSEN/agency-swarm/tree/main/agency_swarm/agents/BrowsingAgent">github</a> | <a href="https://www.youtube.com/watch?v=Yidy_ePo7pE">video</a></p>
 </div>
 
+### BulkPublish
+<div><a href="https://github.com/azeemkafridi/bulkpublish-api"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/azeemkafridi/bulkpublish-api"><img src="https://img.shields.io/github/stars/azeemkafridi/bulkpublish-api?style=social" alt="GitHub stars"></a></div>
+<p>🔧 Tool Calling (Function Calling)</p>
+
+<p>Open-source Python and Node.js SDKs and an MCP server that connect agents to BulkPublish's hosted social publishing API, with tools for drafting, scheduling, publishing, approvals, and analytics.</p>
+
+<p><a href="https://github.com/azeemkafridi/bulkpublish-api">github</a></p>
+</div>
+
 ### Cal.ai
 <div><a href="https://github.com/calcom/cal.com/tree/main/apps/ai"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/calcom/cal.com/tree/main/apps/ai"><img src="https://img.shields.io/github/stars/calcom/cal.com?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 37,384 stars (Updated: 2025-07-30)</p>
