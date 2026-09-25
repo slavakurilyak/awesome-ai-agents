@@ -92,6 +92,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/socialrobot-io/agent-kit">github</a></p>
 </div>
 
+### AgentBox
+<div><a href="https://github.com/madarco/agentbox"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/madarco/agentbox"><img src="https://img.shields.io/github/stars/madarco/agentbox?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents | ⚙️ Development Frameworks</p>
+
+<p>Run multiple coding agents in parallel inside isolated local Docker containers or cloud virtual machines, with per-box browser and VS Code access.</p>
+
+<p><a href="https://github.com/madarco/agentbox">github</a></p>
+<p><strong>Capabilities:</strong> Run coding agents in isolated environments · Checkpoint and restore agent work · Provide per-environment browser and VS Code access</p>
+<p><strong>Interfaces:</strong> CLI · Docker · Cloud virtual machines · Claude Code · Codex · OpenCode</p>
+</div>
+
 ### agentfix-mini-scanner
 <div><a href="https://github.com/Virt92/agentfix-oss-scanner"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Virt92/agentfix-oss-scanner"><img src="https://img.shields.io/github/stars/Virt92/agentfix-oss-scanner?style=social" alt="GitHub stars"></a></div>
 <p>📊 Evaluation Frameworks</p>
