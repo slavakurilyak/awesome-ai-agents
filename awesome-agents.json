@@ -4467,6 +4467,32 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "YouTube Skills for AI Agents",
+      "project_description": "A collection of agent skills for retrieving YouTube transcripts, searching videos, browsing channels, and extracting playlists through TranscriptAPI.",
+      "project_is_open_source": true,
+      "categories": [
+        "AI Agents"
+      ],
+      "capabilities": [
+        "YouTube transcripts",
+        "Video search",
+        "Channel browsing",
+        "Playlist extraction"
+      ],
+      "interfaces": [
+        "Agent Skills"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/ZeroPointRepo/youtube-skills",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T09:22:00Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
