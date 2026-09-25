@@ -389,6 +389,17 @@ Here's an awesome list of AI agents:
 <p><strong>Interfaces:</strong> Python library · CLI · MCP integrations</p>
 </div>
 
+### Arch Tools
+<div><a href="https://github.com/Deesmo/Arch-AI-Tools"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Deesmo/Arch-AI-Tools"><img src="https://img.shields.io/github/stars/Deesmo/Arch-AI-Tools?style=social" alt="GitHub stars"></a></div>
+<p>⚙️ Development Frameworks | 🔧 Tool Calling (Function Calling)</p>
+
+<p>A multi-tool API and MCP server for AI agents, with x402 micropayments and tools for web, AI, crypto, and media workflows.</p>
+
+<p><a href="https://github.com/Deesmo/Arch-AI-Tools">github</a></p>
+<p><strong>Capabilities:</strong> Call a collection of AI, web, crypto, and media tools · Pay per call with USDC through x402 · Integrate the tools into MCP-compatible agent clients</p>
+<p><strong>Interfaces:</strong> REST API · MCP server · TypeScript SDK</p>
+</div>
+
 ### Aster
 <div><a href="https://github.com/Zfinix/aster"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Zfinix/aster"><img src="https://img.shields.io/github/stars/Zfinix/aster?style=social" alt="GitHub stars"></a></div>
 <p>🤖 AI Agents</p>
