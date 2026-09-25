@@ -2606,6 +2606,18 @@ Here's an awesome list of AI agents:
 <p><strong>Interfaces:</strong> Agent Skills · GitHub Action · MCP</p>
 </div>
 
+### Unified AI System
+<div><a href="https://github.com/happy520ai/unified-ai-system"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/happy520ai/unified-ai-system"><img src="https://img.shields.io/github/stars/happy520ai/unified-ai-system?style=social" alt="GitHub stars"></a></div>
+<p>🌐 Self-hosted AI gateway and MCP control plane</p>
+
+<p>Unified AI System is a self-hosted, credential-free AI gateway that exposes fifteen bounded MCP tools to Codex, Cursor and Cline, alongside OpenAI- and Anthropic-compatible chat APIs with virtual keys, token budgets, exact and semantic response caching, and an audit trail. It turns any OpenAPI 3 spec into governed MCP tools, and its local fake provider is the default, so every feature can be tried without an API key.</p>
+
+<p><a href="https://github.com/happy520ai/unified-ai-system">github</a> | <a href="https://happy520ai.github.io/unified-ai-system/">docs</a> | <a href="https://github.com/happy520ai/unified-ai-system/pkgs/container/unified-ai-system%2Fmcp-server">images</a></p>
+<p><strong>Capabilities:</strong> Provider-free prompt enhancement · Virtual-key budgets and audit trail · OpenAPI 3 to governed MCP tools</p>
+<p><strong>Interfaces:</strong> MCP (stdio) · OpenAI-compatible REST · Docker</p>
+<p><strong>Note:</strong> New project with little usage history (single-digit stars as of 2026-09-25); the default branch carries human-authored commits this week.</p>
+</div>
+
 ### Upsonic
 <div><a href="https://github.com/Upsonic/Upsonic"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Upsonic/Upsonic"><img src="https://img.shields.io/github/stars/Upsonic/Upsonic?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 7,625 stars (Updated: 2025-07-30)</p>
