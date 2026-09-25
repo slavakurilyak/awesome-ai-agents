@@ -1979,6 +1979,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/HNF-FRN/Reel-watcher-telegram-Agent">github</a></p>
 </div>
 
+### Remembra
+<div><a href="https://github.com/remembra-ai/remembra"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/remembra-ai/remembra"><img src="https://img.shields.io/github/stars/remembra-ai/remembra?style=social" alt="GitHub stars"></a></div>
+<p>🧠 Long-Term Memory</p>
+
+<p>Remembra is a self-hosted semantic memory system for AI agents, with persistent memory, retrieval, knowledge graph features, and integrations for agent frameworks and MCP.</p>
+
+<p><a href="https://github.com/remembra-ai/remembra">github</a></p>
+<p><strong>Capabilities:</strong> semantic memory and retrieval · knowledge graph · agent framework integrations</p>
+<p><strong>Interfaces:</strong> API · SDK · MCP</p>
+</div>
+
 ### rote
 <div><a href="https://github.com/trevhud/rote"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/trevhud/rote"><img src="https://img.shields.io/github/stars/trevhud/rote?style=social" alt="GitHub stars"></a></div>
 <p>🔄 Flow Engineering (Platform Engineering)</p>

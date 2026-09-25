@@ -5652,6 +5652,34 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "Remembra",
+      "project_description": "Remembra is a self-hosted semantic memory system for AI agents, with persistent memory, retrieval, knowledge graph features, and integrations for agent frameworks and MCP.",
+      "project_is_open_source": true,
+      "categories": [
+        "Long-Term Memory"
+      ],
+      "capabilities": [
+        "semantic memory and retrieval",
+        "knowledge graph",
+        "agent framework integrations"
+      ],
+      "interfaces": [
+        "API",
+        "SDK",
+        "MCP"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/remembra-ai/remembra",
+          "stars": null,
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T19:38:15Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
