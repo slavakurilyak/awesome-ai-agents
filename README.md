@@ -1117,6 +1117,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/modelcontextprotocol/modelcontextprotocol">github</a></p>
 </div>
 
+### Nanocoder
+<div><a href="https://github.com/Nano-Collective/nanocoder"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Nano-Collective/nanocoder"><img src="https://img.shields.io/github/stars/Nano-Collective/nanocoder?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents | 💻 Local Inference | 💻 Terminal-Friendly</p>
+
+<p>A local-first terminal coding agent that connects to user-selected models and supports tool calling, MCP, and custom commands.</p>
+
+<p><a href="https://github.com/Nano-Collective/nanocoder">github</a></p>
+<p><strong>Capabilities:</strong> Read and edit local code · Run coding-agent tools in the terminal · Connect to local or hosted language models · Extend workflows with MCP and custom commands</p>
+<p><strong>Interfaces:</strong> CLI · Ollama · OpenRouter · OpenAI-compatible APIs · MCP</p>
+</div>
+
 ### NarraNexus
 <div><a href="https://github.com/NetMindAI-Open/NarraNexus"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/NetMindAI-Open/NarraNexus"><img src="https://img.shields.io/github/stars/NetMindAI-Open/NarraNexus?style=social" alt="GitHub stars"></a></div>
 <p>🤖 AI Agents | 🧠 Long-Term Memory</p>

@@ -3936,6 +3936,38 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "Nanocoder",
+      "project_description": "A local-first terminal coding agent that connects to user-selected models and supports tool calling, MCP, and custom commands.",
+      "project_is_open_source": true,
+      "capabilities": [
+        "Read and edit local code",
+        "Run coding-agent tools in the terminal",
+        "Connect to local or hosted language models",
+        "Extend workflows with MCP and custom commands"
+      ],
+      "interfaces": [
+        "CLI",
+        "Ollama",
+        "OpenRouter",
+        "OpenAI-compatible APIs",
+        "MCP"
+      ],
+      "categories": [
+        "AI Agents",
+        "Terminal-Friendly",
+        "Local Inference"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/Nano-Collective/nanocoder",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T17:05:47Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
