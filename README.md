@@ -503,6 +503,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/azeemkafridi/bulkpublish-api">github</a></p>
 </div>
 
+### BuyWhere MCP Server
+<div><a href="https://github.com/BuyWhere/buywhere-mcp"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/BuyWhere/buywhere-mcp"><img src="https://img.shields.io/github/stars/BuyWhere/buywhere-mcp?style=social" alt="GitHub stars"></a></div>
+<p>🔧 Tool Calling (Function Calling)</p>
+
+<p>An open-source MCP client that connects AI agents to BuyWhere’s hosted product-data API for product search, price comparison, and deal discovery.</p>
+
+<p><a href="https://github.com/BuyWhere/buywhere-mcp">github</a></p>
+</div>
+
 ### Cal.ai
 <div><a href="https://github.com/calcom/cal.com/tree/main/apps/ai"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/calcom/cal.com/tree/main/apps/ai"><img src="https://img.shields.io/github/stars/calcom/cal.com?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 37,384 stars (Updated: 2025-07-30)</p>
