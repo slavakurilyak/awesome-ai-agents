@@ -1168,6 +1168,17 @@ Here's an awesome list of AI agents:
 <p><strong>Interfaces:</strong> Python runtime · CLI · MCP tools</p>
 </div>
 
+### Hivekeep
+<div><a href="https://github.com/MarlBurroW/hivekeep"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/MarlBurroW/hivekeep"><img src="https://img.shields.io/github/stars/MarlBurroW/hivekeep?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents | 👤 Personal Assistants</p>
+
+<p>Hivekeep is a self-hosted platform of persistent AI agents that remember, collaborate, and respond across connected channels, packaged to run on your own server.</p>
+
+<p><a href="https://github.com/MarlBurroW/hivekeep">github</a></p>
+<p><strong>Capabilities:</strong> persistent agent memory · multi-agent collaboration · messaging channel integrations</p>
+<p><strong>Interfaces:</strong> Web UI · API</p>
+</div>
+
 ### HOL Standards SDK
 <div><a href="https://github.com/hashgraph-online/standards-sdk"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/hashgraph-online/standards-sdk"><img src="https://img.shields.io/github/stars/hashgraph-online/standards-sdk?style=social" alt="GitHub stars"></a></div>
 <p>⚙️ Development Frameworks | 📏 Standardization</p>

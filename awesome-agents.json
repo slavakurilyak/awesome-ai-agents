@@ -5680,6 +5680,34 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "Hivekeep",
+      "project_description": "Hivekeep is a self-hosted platform of persistent AI agents that remember, collaborate, and respond across connected channels, packaged to run on your own server.",
+      "project_is_open_source": true,
+      "categories": [
+        "AI Agents",
+        "Personal Assistants"
+      ],
+      "capabilities": [
+        "persistent agent memory",
+        "multi-agent collaboration",
+        "messaging channel integrations"
+      ],
+      "interfaces": [
+        "Web UI",
+        "API"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/MarlBurroW/hivekeep",
+          "stars": null,
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T19:42:33Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
