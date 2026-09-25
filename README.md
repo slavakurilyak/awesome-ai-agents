@@ -94,6 +94,17 @@ Here's an awesome list of AI agents:
 <p><strong>Interfaces:</strong> Web dashboard · CLI · MCP server · Coding-agent skills</p>
 </div>
 
+### Agent Stack
+<div><a href="https://github.com/MukundaKatta/agent-stack"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/MukundaKatta/agent-stack"><img src="https://img.shields.io/github/stars/MukundaKatta/agent-stack?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents | 🛡️ Safety Guardrails (Safeguarding)</p>
+
+<p>A set of small, single-purpose libraries that improve reliability in production LLM agents through tool validation, network controls, trace tests, context fitting, structured output checks, and usage budgets.</p>
+
+<p><a href="https://github.com/MukundaKatta/agent-stack">github</a></p>
+<p><strong>Capabilities:</strong> Validate tool arguments and structured model outputs · Restrict outbound network calls and test tool-call traces · Fit context windows and cap token or dollar usage</p>
+<p><strong>Interfaces:</strong> TypeScript packages on npm · Python packages on PyPI · MCP servers</p>
+</div>
+
 ### Agent Teams
 <div><a href="https://github.com/777genius/agent-teams-ai"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/777genius/agent-teams-ai"><img src="https://img.shields.io/github/stars/777genius/agent-teams-ai?style=social" alt="GitHub stars"></a></div>
 <p>🤖 AI Agents</p>
