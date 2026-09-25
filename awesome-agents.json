@@ -1,6 +1,24 @@
 {
   "agents": [
     {
+      "project": "AIWG",
+      "project_description": "AIWG deploys specialized agents, skills, context, rules, and governed workflows into native project paths across multiple AI coding platforms.",
+      "project_is_open_source": true,
+      "categories": [
+        "Development Frameworks"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/jmagly/aiwg",
+          "stars": null,
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T07:37:14Z",
+          "repository_status": "active"
+        }
+      ]
+    },
+    {
       "project": "Devid by Agency Swarm",
       "project_description": "Devid Agent, a new AI software development tool, has been integrated into the Agency Swarm framework to enhance automated AI agency operations, alternative to Cognition AI's Devin",
       "project_is_open_source": true,

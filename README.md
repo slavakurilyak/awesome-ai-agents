@@ -281,6 +281,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/agiresearch/AIOS">github</a> | <a href="https://github.com/agiresearch">github profile</a></p>
 </div>
 
+### AIWG
+<div><a href="https://github.com/jmagly/aiwg"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/jmagly/aiwg"><img src="https://img.shields.io/github/stars/jmagly/aiwg?style=social" alt="GitHub stars"></a></div>
+<p>⚙️ Development Frameworks</p>
+
+<p>AIWG deploys specialized agents, skills, context, rules, and governed workflows into native project paths across multiple AI coding platforms.</p>
+
+<p><a href="https://github.com/jmagly/aiwg">github</a></p>
+</div>
+
 ### AppAgent
 <div><a href="https://github.com/mnotgod96/AppAgent"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/mnotgod96/AppAgent"><img src="https://img.shields.io/github/stars/mnotgod96/AppAgent?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 6,049 stars (Updated: 2025-07-30)</p>
