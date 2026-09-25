@@ -1579,6 +1579,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/tonykipkemboi/trip_planner_agent">github</a></p>
 </div>
 
+### Vetto
+<div><a href="https://github.com/shleder/vetto"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/shleder/vetto"><img src="https://img.shields.io/github/stars/shleder/vetto?style=social" alt="GitHub stars"></a></div>
+<p>⚙️ Development Frameworks | 🛡️ Safety Guardrails (Safeguarding)</p>
+
+<p>Vetto is a daemon-less, rootless sandbox that applies kernel-enforced security policies to AI coding agents, with agent command shims and MCP tool isolation.</p>
+
+<p><a href="https://github.com/shleder/vetto">github</a></p>
+</div>
+
 ### vimGPT
 <div><a href="https://github.com/ishan0102/vimGPT"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/ishan0102/vimGPT"><img src="https://img.shields.io/github/stars/ishan0102/vimGPT?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 2,669 stars (Updated: 2025-07-30)</p>
