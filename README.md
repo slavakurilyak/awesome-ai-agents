@@ -389,6 +389,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/yoheinakajima/babyagi">github</a> | <a href="https://github.com/yoheinakajima">github profile</a></p>
 </div>
 
+### Baizhi Agent Toolkit
+<div><a href="https://github.com/chaitin/baizhi-agent-toolkit"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/chaitin/baizhi-agent-toolkit"><img src="https://img.shields.io/github/stars/chaitin/baizhi-agent-toolkit?style=social" alt="GitHub stars"></a></div>
+<p>🔧 Tool Calling (Function Calling)</p>
+
+<p>The official open-source client integration for Baizhi Cloud's hosted MCP service, with a Gemini CLI extension, registry manifest, and setup guides for web search, webpage retrieval, and structured extraction. The backend remains hosted and requires an API key.</p>
+
+<p><a href="https://github.com/chaitin/baizhi-agent-toolkit">github</a></p>
+</div>
+
 ### Bananalyzer by Reworkd
 <div><a href="https://github.com/reworkd/bananalyzer"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/reworkd/bananalyzer"><img src="https://img.shields.io/github/stars/reworkd/bananalyzer?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 304 stars (Updated: 2025-07-30)</p>
