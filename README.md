@@ -1395,6 +1395,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/openai/openai-agents-python">github</a></p>
 </div>
 
+### OpenClaw Monitor
+<div><a href="https://github.com/flik2002/openclaw-monitor"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/flik2002/openclaw-monitor"><img src="https://img.shields.io/github/stars/flik2002/openclaw-monitor?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents</p>
+
+<p>An offline web dashboard for OpenClaw that monitors agent sessions, scheduled tasks, token usage, message trends, and local system metrics.</p>
+
+<p><a href="https://github.com/flik2002/openclaw-monitor">github</a></p>
+<p><strong>Capabilities:</strong> Monitor live agent sessions and task schedules · Track per-model token usage and message trends · Display local system uptime and memory metrics</p>
+<p><strong>Interfaces:</strong> Web dashboard · Node.js API · Windows launcher</p>
+</div>
+
 ### OpenHands (formerly OpenDevin)
 <div><a href="https://github.com/OpenHands/OpenHands"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/OpenHands/OpenHands"><img src="https://img.shields.io/github/stars/OpenHands/OpenHands?style=social" alt="GitHub stars"></a></div>
 <p>🤖 AI Agents</p>
