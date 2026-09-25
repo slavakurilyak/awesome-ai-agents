@@ -5979,6 +5979,34 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "Opik",
+      "project_description": "Opik is an open-source platform for LLM and agent observability, tracing, evaluation, prompt management, and production monitoring.",
+      "project_is_open_source": true,
+      "categories": [
+        "Evaluation Frameworks"
+      ],
+      "capabilities": [
+        "LLM and agent tracing",
+        "evaluation and experiment comparison",
+        "prompt management and monitoring"
+      ],
+      "interfaces": [
+        "Web UI",
+        "API",
+        "SDK"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/comet-ml/opik",
+          "stars": null,
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T19:53:00Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [

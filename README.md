@@ -1932,6 +1932,17 @@ Here's an awesome list of AI agents:
 <p><strong>Interfaces:</strong> MCP server · npm package</p>
 </div>
 
+### Opik
+<div><a href="https://github.com/comet-ml/opik"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/comet-ml/opik"><img src="https://img.shields.io/github/stars/comet-ml/opik?style=social" alt="GitHub stars"></a></div>
+<p>📊 Evaluation Frameworks</p>
+
+<p>Opik is an open-source platform for LLM and agent observability, tracing, evaluation, prompt management, and production monitoring.</p>
+
+<p><a href="https://github.com/comet-ml/opik">github</a></p>
+<p><strong>Capabilities:</strong> LLM and agent tracing · evaluation and experiment comparison · prompt management and monitoring</p>
+<p><strong>Interfaces:</strong> Web UI · API · SDK</p>
+</div>
+
 ### ORCH
 <div><a href="https://github.com/oxgeneral/ORCH"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/oxgeneral/ORCH"><img src="https://img.shields.io/github/stars/oxgeneral/ORCH?style=social" alt="GitHub stars"></a></div>
 <p>⚙️ Development Frameworks</p>
