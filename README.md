@@ -102,6 +102,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://www.aie.foundation/">website</a> | <a href="https://www.aie.foundation/">website</a> | <a href="https://github.com/AI-Engineer-Foundation/agent-protocol">github</a> | <a href="https://github.com/AI-Engineer-Foundation">github profile</a></p>
 </div>
 
+### Agent QA
+<div><a href="https://github.com/vostride/agent-qa"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/vostride/agent-qa"><img src="https://img.shields.io/github/stars/vostride/agent-qa?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents</p>
+
+<p>Agent QA is a self-improving QA harness with memory for natural-language web and mobile tests; it adapts to UI changes and provides a dashboard, CLI, MCP server, and coding-agent skills.</p>
+
+<p><a href="https://github.com/vostride/agent-qa">github</a> | <a href="https://vostride.com/docs/agent-qa">docs</a></p>
+<p><strong>Capabilities:</strong> Natural-language web and mobile testing · Adaptive test execution across UI changes · Reusable execution memory</p>
+<p><strong>Interfaces:</strong> Web dashboard · CLI · MCP server · Coding-agent skills</p>
+</div>
+
 ### Agent Tools
 <div><a href="https://github.com/aibtcdev/agent-tools-ts"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/aibtcdev/agent-tools-ts"><img src="https://img.shields.io/github/stars/aibtcdev/agent-tools-ts?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 16 stars (Updated: 2025-07-30)</p>
