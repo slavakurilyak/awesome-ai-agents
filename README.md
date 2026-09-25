@@ -1595,6 +1595,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/huggingface/smolagents">github</a></p>
 </div>
 
+### sparkbtcbot-skill
+<div><a href="https://github.com/echennells/sparkbtcbot"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/echennells/sparkbtcbot"><img src="https://img.shields.io/github/stars/echennells/sparkbtcbot?style=social" alt="GitHub stars"></a></div>
+<p>₿ Bitcoin</p>
+
+<p>A self-custodial Spark Bitcoin wallet skill for AI agents, supporting BTC transfers, Lightning invoices, L402 payments, token operations, and merchant purchases with payment guardrails.</p>
+
+<p><a href="https://github.com/echennells/sparkbtcbot">github</a></p>
+<p><strong>Capabilities:</strong> Create and manage a self-custodial Spark wallet · Send and receive Bitcoin through Spark and Lightning · Pay L402 APIs and perform token or merchant transactions with policy checks</p>
+<p><strong>Interfaces:</strong> Claude Code plugin · npm package · Agent skill</p>
+</div>
+
 ### Stagehand
 <div><a href="https://github.com/browserbase/stagehand"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/browserbase/stagehand"><img src="https://img.shields.io/github/stars/browserbase/stagehand?style=social" alt="GitHub stars"></a></div>
 <p>🌐 Web Browsing Frameworks</p>
