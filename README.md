@@ -469,6 +469,17 @@ Here's an awesome list of AI agents:
 <p><strong>Interfaces:</strong> CLI · Local Studio UI · Claude Code integration · Codex integration</p>
 </div>
 
+### B2B SDR Agent Template
+<div><a href="https://github.com/iPythoning/b2b-sdr-agent-template"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/iPythoning/b2b-sdr-agent-template"><img src="https://img.shields.io/github/stars/iPythoning/b2b-sdr-agent-template?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents</p>
+
+<p>An OpenClaw-based AI sales development representative template for managing B2B export leads across a multi-stage sales pipeline.</p>
+
+<p><a href="https://github.com/iPythoning/b2b-sdr-agent-template">github</a></p>
+<p><strong>Capabilities:</strong> Capture and score B2B prospects · Manage a staged sales pipeline and follow-ups · Coordinate prospect communication across messaging and email channels</p>
+<p><strong>Interfaces:</strong> OpenClaw agent template · WhatsApp · Telegram · Email</p>
+</div>
+
 ### Baizhi Agent Toolkit
 <div><a href="https://github.com/chaitin/baizhi-agent-toolkit"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/chaitin/baizhi-agent-toolkit"><img src="https://img.shields.io/github/stars/chaitin/baizhi-agent-toolkit?style=social" alt="GitHub stars"></a></div>
 <p>🔧 Tool Calling (Function Calling)</p>
