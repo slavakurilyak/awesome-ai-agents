@@ -2110,6 +2110,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/browserbase/stagehand">github</a></p>
 </div>
 
+### Steel Browser
+<div><a href="https://github.com/steel-dev/steel-browser"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/steel-dev/steel-browser"><img src="https://img.shields.io/github/stars/steel-dev/steel-browser?style=social" alt="GitHub stars"></a></div>
+<p>🌐 Web Browsing Frameworks</p>
+
+<p>An open-source browser API and sandbox that provides managed browser sessions for AI agents and web automation.</p>
+
+<p><a href="https://github.com/steel-dev/steel-browser">github</a></p>
+<p><strong>Capabilities:</strong> Create and manage isolated browser sessions · Automate live websites and authenticated workflows · Capture browser page context and artifacts</p>
+<p><strong>Interfaces:</strong> Browser API · SDKs · Browser automation tools</p>
+</div>
+
 ### stipend.sh
 <div><a href="https://github.com/stipend-sh/stipend"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/stipend-sh/stipend"><img src="https://img.shields.io/github/stars/stipend-sh/stipend?style=social" alt="GitHub stars"></a></div>
 <p>🔧 Tool Calling (Function Calling)</p>

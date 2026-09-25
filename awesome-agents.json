@@ -5572,6 +5572,33 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "Steel Browser",
+      "project_description": "An open-source browser API and sandbox that provides managed browser sessions for AI agents and web automation.",
+      "project_is_open_source": true,
+      "capabilities": [
+        "Create and manage isolated browser sessions",
+        "Automate live websites and authenticated workflows",
+        "Capture browser page context and artifacts"
+      ],
+      "interfaces": [
+        "Browser API",
+        "SDKs",
+        "Browser automation tools"
+      ],
+      "categories": [
+        "Web Browsing Frameworks"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/steel-dev/steel-browser",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T19:40:00Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
