@@ -4776,6 +4776,26 @@
         "repository_status": "active"
       }]
     }
+ ,
+    {
+      "project": "Flow Weaver",
+      "project_description": "A deterministic TypeScript workflow compiler that turns JSDoc-annotated functions into standalone workflow code you can inspect, test, and own.",
+      "project_is_open_source": true,
+      "categories": ["AI Agents", "Development Frameworks"],
+      "capabilities": [
+        "Validate and compile annotated TypeScript workflows into execution graphs",
+        "Run workflows locally and inspect execution steps in a web console",
+        "Create and operate workflows through MCP tools and approval gates"
+      ],
+      "interfaces": ["TypeScript package on npm", "CLI", "MCP server", "Local web console"],
+      "sources": [{
+        "source": "github",
+        "source_url": "https://github.com/synergenius-fw/flow-weaver",
+        "stars_last_updated": null,
+        "repository_checked_at": "2026-09-25T18:31:10Z",
+        "repository_status": "active"
+      }]
+    }
   ],
   "categories": [
     {
