@@ -394,6 +394,24 @@
       ]
     },
     {
+      "project": "Baizhi Agent Toolkit",
+      "project_description": "The official open-source client integration for Baizhi Cloud's hosted MCP service, with a Gemini CLI extension, registry manifest, and setup guides for web search, webpage retrieval, and structured extraction. The backend remains hosted and requires an API key.",
+      "project_is_open_source": true,
+      "categories": [
+        "Tool Calling (Function Calling)"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/chaitin/baizhi-agent-toolkit",
+          "stars": null,
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T08:02:02Z",
+          "repository_status": "active"
+        }
+      ]
+    },
+    {
       "project": "Okto-Nexus",
       "project_description": "Okto-Nexus is a local-first MCP coordination hub for multi-agent teams, with durable messaging, atomic handoffs, governance controls, and human approval.",
       "project_is_open_source": true,
