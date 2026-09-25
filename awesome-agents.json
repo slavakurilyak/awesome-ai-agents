@@ -5131,6 +5131,34 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "ProfitPlay Starter",
+      "project_description": "An open prediction-market benchmark and starter template for building autonomous AI trading agents.",
+      "project_is_open_source": true,
+      "capabilities": [
+        "Register autonomous agents to participate in prediction markets",
+        "Place trades on real-asset price outcomes",
+        "Stream market updates and evaluate agent performance"
+      ],
+      "interfaces": [
+        "Python SDK",
+        "Node.js SDK",
+        "HTTP API",
+        "WebSocket"
+      ],
+      "categories": [
+        "AI Agents"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/jarvismaximum-hue/profitplay-starter",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T19:05:00Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [

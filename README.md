@@ -1797,6 +1797,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/zylon-ai/private-gpt/">github</a></p>
 </div>
 
+### ProfitPlay Starter
+<div><a href="https://github.com/jarvismaximum-hue/profitplay-starter"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/jarvismaximum-hue/profitplay-starter"><img src="https://img.shields.io/github/stars/jarvismaximum-hue/profitplay-starter?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents</p>
+
+<p>An open prediction-market benchmark and starter template for building autonomous AI trading agents.</p>
+
+<p><a href="https://github.com/jarvismaximum-hue/profitplay-starter">github</a></p>
+<p><strong>Capabilities:</strong> Register autonomous agents to participate in prediction markets · Place trades on real-asset price outcomes · Stream market updates and evaluate agent performance</p>
+<p><strong>Interfaces:</strong> Python SDK · Node.js SDK · HTTP API · WebSocket</p>
+</div>
+
 ### Project Telos
 <div><a href="https://github.com/HarperZ9/telos"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/HarperZ9/telos"><img src="https://img.shields.io/github/stars/HarperZ9/telos?style=social" alt="GitHub stars"></a></div>
 <p>📊 Evaluation Frameworks | 👁️ Observability Frameworks</p>
