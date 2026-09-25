@@ -3591,6 +3591,25 @@
         }
       ]
     }
+,
+    {
+      "project": "Zooid",
+      "project_description": "Zooid is a self-hostable team-chat surface built on Matrix where people supervise AI agents running as teammates with approval cards, tool calls, and live plans.",
+      "project_is_open_source": true,
+      "categories": [
+        "UI Development"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/zooid-ai/zooid",
+          "stars": null,
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T16:13:07Z",
+          "repository_status": "active"
+        }
+      ]
+    }
   ],
   "categories": [
     {
