@@ -1894,6 +1894,17 @@ Here's an awesome list of AI agents:
 <p><strong>Interfaces:</strong> Web dashboard · SDK · MCP integrations</p>
 </div>
 
+### SkillFlow MCP Server
+<div><a href="https://github.com/rafsilva85/skillflow-mcp-server"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/rafsilva85/skillflow-mcp-server"><img src="https://img.shields.io/github/stars/rafsilva85/skillflow-mcp-server?style=social" alt="GitHub stars"></a></div>
+<p>⚙️ Development Frameworks</p>
+
+<p>An MCP server that lets AI coding agents search, discover, and evaluate skills from the SkillFlow marketplace.</p>
+
+<p><a href="https://github.com/rafsilva85/skillflow-mcp-server">github</a></p>
+<p><strong>Capabilities:</strong> Search and discover skills from the SkillFlow marketplace · Review skill performance and trust metrics</p>
+<p><strong>Interfaces:</strong> MCP server over stdio · Streamable HTTP</p>
+</div>
+
 ### Smartipedia
 <div><a href="https://github.com/sksareen/smartipedia"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/sksareen/smartipedia"><img src="https://img.shields.io/github/stars/sksareen/smartipedia?style=social" alt="GitHub stars"></a></div>
 <p>🤖 AI Agents</p>

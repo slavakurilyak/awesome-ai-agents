@@ -5051,6 +5051,31 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "SkillFlow MCP Server",
+      "project_description": "An MCP server that lets AI coding agents search, discover, and evaluate skills from the SkillFlow marketplace.",
+      "project_is_open_source": true,
+      "capabilities": [
+        "Search and discover skills from the SkillFlow marketplace",
+        "Review skill performance and trust metrics"
+      ],
+      "interfaces": [
+        "MCP server over stdio",
+        "Streamable HTTP"
+      ],
+      "categories": [
+        "Development Frameworks"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/rafsilva85/skillflow-mcp-server",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T18:57:00Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
