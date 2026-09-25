@@ -5353,6 +5353,33 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "Kodo",
+      "project_description": "An autonomous multi-agent coding orchestrator that runs coding agents through work cycles with independent verification.",
+      "project_is_open_source": true,
+      "capabilities": [
+        "Coordinate coding agents through iterative work cycles",
+        "Have separate agents review and verify changes",
+        "Run long-lived coding tasks from a CLI workflow"
+      ],
+      "interfaces": [
+        "Python package",
+        "CLI",
+        "Claude Code, Cursor, Codex, and Gemini CLI integrations"
+      ],
+      "categories": [
+        "Development Frameworks"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/ikamensh/kodo",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T19:24:00Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
