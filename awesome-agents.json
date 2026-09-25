@@ -4203,6 +4203,37 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "WinkTerm",
+      "project_description": "A self-hosted AI terminal that shares the user's PTY, drafts commands in the terminal input for review, and supports SSH and agent integrations.",
+      "project_is_open_source": true,
+      "capabilities": [
+        "Answer questions using live terminal context",
+        "Draft commands for a person to inspect before execution",
+        "Manage SSH sessions and file transfers",
+        "Connect external coding agents through an API and skill"
+      ],
+      "interfaces": [
+        "Web UI",
+        "CLI",
+        "SSH",
+        "Docker",
+        "HTTP API"
+      ],
+      "categories": [
+        "AI Agents",
+        "Terminal-Friendly"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/Cznorth/winkterm",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T17:30:07Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
