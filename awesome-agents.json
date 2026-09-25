@@ -3499,6 +3499,25 @@
         }
       ]
     }
+,
+    {
+      "project": "halo-record",
+      "project_description": "halo-record creates tamper-evident, hash-chained records of AI agent tool calls, model calls, and data access, with verifiable reports and policy checks.",
+      "project_is_open_source": true,
+      "categories": [
+        "Observability Frameworks"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/bkuan001/halo-record",
+          "stars": null,
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T15:59:04Z",
+          "repository_status": "active"
+        }
+      ]
+    }
   ],
   "categories": [
     {

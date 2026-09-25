@@ -689,6 +689,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/guidance-ai/guidance">github</a> | <a href="https://guidance.readthedocs.org/">docs</a></p>
 </div>
 
+### halo-record
+<div><a href="https://github.com/bkuan001/halo-record"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/bkuan001/halo-record"><img src="https://img.shields.io/github/stars/bkuan001/halo-record?style=social" alt="GitHub stars"></a></div>
+<p>👁️ Observability Frameworks</p>
+
+<p>halo-record creates tamper-evident, hash-chained records of AI agent tool calls, model calls, and data access, with verifiable reports and policy checks.</p>
+
+<p><a href="https://github.com/bkuan001/halo-record">github</a></p>
+</div>
+
 ### Haystack
 <div><a href="https://github.com/deepset-ai/haystack"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/deepset-ai/haystack"><img src="https://img.shields.io/github/stars/deepset-ai/haystack?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 21,701 stars (Updated: 2025-07-30)</p>
