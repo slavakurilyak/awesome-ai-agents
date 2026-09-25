@@ -1358,6 +1358,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/npi-ai/npi">github</a> | <a href="https://www.npi.ai/">website</a> | <a href="https://www.npi.ai/docs">docs</a> | <a href="https://www.npi.ai/blog">blog</a></p>
 </div>
 
+### Octomind
+<div><a href="https://github.com/Muvon/octomind"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Muvon/octomind"><img src="https://img.shields.io/github/stars/Muvon/octomind?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents | ⚙️ Development Frameworks</p>
+
+<p>A Rust CLI-first AI agent runtime that uses model providers and MCP tools to work with files, code, and shell, with interactive, piped, daemon, WebSocket, and ACP modes.</p>
+
+<p><a href="https://github.com/Muvon/octomind">github</a></p>
+</div>
+
 ### Okto-Nexus
 <div><a href="https://github.com/OktoLabsAI/okto-nexus"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/OktoLabsAI/okto-nexus"><img src="https://img.shields.io/github/stars/OktoLabsAI/okto-nexus?style=social" alt="GitHub stars"></a></div>
 <p>🤖 AI Agents | ⚙️ Development Frameworks | 🛡️ Safety Guardrails (Safeguarding)</p>

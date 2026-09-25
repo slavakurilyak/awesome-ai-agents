@@ -4379,6 +4379,24 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "Octomind",
+      "project_description": "A Rust CLI-first AI agent runtime that uses model providers and MCP tools to work with files, code, and shell, with interactive, piped, daemon, WebSocket, and ACP modes.",
+      "project_is_open_source": true,
+      "categories": [
+        "AI Agents",
+        "Development Frameworks"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/Muvon/octomind",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T08:45:52Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
