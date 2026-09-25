@@ -1135,6 +1135,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/JesseGdotIO/hermesplant-mcp-server">github</a></p>
 </div>
 
+### Hive
+<div><a href="https://github.com/aden-hive/hive"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/aden-hive/hive"><img src="https://img.shields.io/github/stars/aden-hive/hive?style=social" alt="GitHub stars"></a></div>
+<p>⚙️ Development Frameworks</p>
+
+<p>A model-agnostic runtime for production AI agent teams, with dynamic worker colonies, shared task state, and human oversight.</p>
+
+<p><a href="https://github.com/aden-hive/hive">github</a></p>
+<p><strong>Capabilities:</strong> Grow specialized agent teams to carry out long-running processes · Coordinate workers through a shared ledger and persistent task plans · Recover from failures and manage cost, observability, and human review</p>
+<p><strong>Interfaces:</strong> Python runtime · CLI · MCP tools</p>
+</div>
+
 ### HOL Standards SDK
 <div><a href="https://github.com/hashgraph-online/standards-sdk"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/hashgraph-online/standards-sdk"><img src="https://img.shields.io/github/stars/hashgraph-online/standards-sdk?style=social" alt="GitHub stars"></a></div>
 <p>⚙️ Development Frameworks | 📏 Standardization</p>
