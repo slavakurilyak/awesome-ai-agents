@@ -3139,6 +3139,25 @@
         }
       ]
     }
+,
+    {
+      "project": "ClawBench",
+      "project_description": "ClawBench is an open-source benchmark for browser agents, with everyday tasks across live websites, execution traces, and request-level outcome evaluation.",
+      "project_is_open_source": true,
+      "categories": [
+        "Evaluation Frameworks"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/TIGER-AI-Lab/ClawBench",
+          "stars": null,
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T15:33:10Z",
+          "repository_status": "active"
+        }
+      ]
+    }
   ],
   "categories": [
     {
