@@ -1516,6 +1516,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/HNF-FRN/Reel-watcher-telegram-Agent">github</a></p>
 </div>
 
+### rust-norion
+<div><a href="https://github.com/yanghao1143/rust-norion"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/yanghao1143/rust-norion"><img src="https://img.shields.io/github/stars/yanghao1143/rust-norion?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents | ⚙️ Development Frameworks</p>
+
+<p>A Rust research prototype for LLM runtime and agent control, with routing, memory, runtime adapters, rollback, tracing, and gated self-evolution.</p>
+
+<p><a href="https://github.com/yanghao1143/rust-norion">github</a></p>
+</div>
+
 ### Self Auditing Agent
 <div><a href="https://github.com/simin-yuan/self-auditing-agent"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/simin-yuan/self-auditing-agent"><img src="https://img.shields.io/github/stars/simin-yuan/self-auditing-agent?style=social" alt="GitHub stars"></a></div>
 <p>📊 Evaluation Frameworks</p>

@@ -4255,6 +4255,24 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "rust-norion",
+      "project_description": "A Rust research prototype for LLM runtime and agent control, with routing, memory, runtime adapters, rollback, tracing, and gated self-evolution.",
+      "project_is_open_source": true,
+      "categories": [
+        "AI Agents",
+        "Development Frameworks"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/yanghao1143/rust-norion",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T08:29:30Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
