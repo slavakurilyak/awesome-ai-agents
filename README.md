@@ -105,6 +105,17 @@ Here's an awesome list of AI agents:
 <p><strong>Interfaces:</strong> Web dashboard · CLI · MCP server · Coding-agent skills</p>
 </div>
 
+### Agent Skills Runtime (ORCA)
+<div><a href="https://github.com/gfernandf/agent-skills"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/gfernandf/agent-skills"><img src="https://img.shields.io/github/stars/gfernandf/agent-skills?style=social" alt="GitHub stars"></a></div>
+<p>⚙️ Development Frameworks</p>
+
+<p>A runtime for executing reusable agent skills with backend-agnostic capability contracts, policy and safety controls, and traceability.</p>
+
+<p><a href="https://github.com/gfernandf/agent-skills">github</a></p>
+<p><strong>Capabilities:</strong> Define reusable skills and backend-agnostic capability contracts · Bind skills to PythonCall, OpenAPI, MCP, or OpenRPC backends · Execute DAG workflows with policy controls, state, and traceability</p>
+<p><strong>Interfaces:</strong> Python package · MCP server · OpenAPI and OpenRPC bindings</p>
+</div>
+
 ### Agent Stack
 <div><a href="https://github.com/MukundaKatta/agent-stack"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/MukundaKatta/agent-stack"><img src="https://img.shields.io/github/stars/MukundaKatta/agent-stack?style=social" alt="GitHub stars"></a></div>
 <p>🤖 AI Agents | 🛡️ Safety Guardrails (Safeguarding)</p>

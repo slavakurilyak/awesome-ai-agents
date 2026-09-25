@@ -4914,6 +4914,33 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "Agent Skills Runtime (ORCA)",
+      "project_description": "A runtime for executing reusable agent skills with backend-agnostic capability contracts, policy and safety controls, and traceability.",
+      "project_is_open_source": true,
+      "capabilities": [
+        "Define reusable skills and backend-agnostic capability contracts",
+        "Bind skills to PythonCall, OpenAPI, MCP, or OpenRPC backends",
+        "Execute DAG workflows with policy controls, state, and traceability"
+      ],
+      "interfaces": [
+        "Python package",
+        "MCP server",
+        "OpenAPI and OpenRPC bindings"
+      ],
+      "categories": [
+        "Development Frameworks"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/gfernandf/agent-skills",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T18:46:15Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
