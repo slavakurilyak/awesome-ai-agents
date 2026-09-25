@@ -34,7 +34,7 @@ According to [Andrew Ng (@andrewyng)](https://github.com/andrewyng):
 <li><a href="https://github.com/ollama/ollama"><strong>Ollama</strong></a> - 147,994 stars (Updated: 2025-07-30)<br>Ollama is a tool for running large language models locally, offering easy setup for macOS, Windows, Linux, and Docker, along with a library of models and quickstart guides for customization and integration</li>
 <li><a href="https://github.com/langchain-ai/langchain"><strong>LangChain</strong></a> - 112,549 stars (Updated: 2025-07-30)<br>LangChain is a framework enabling context-aware reasoning applications with integrated libraries, templates, and developer tools</li>
 <li><a href="https://github.com/langchain-ai/langchain/"><strong>LangChain Tools</strong></a> - 112,549 stars (Updated: 2025-07-30)<br>Langchain integrates various providers like Anthropic, AWS, and OpenAI, and offers tools for components such as LLMs, chat models, and data analysis, supporting functionalities from Alpha Vantage to YouTube</li>
-<li><a href="https://github.com/lobehub/lobe-chat"><strong>Lobe Chat</strong></a> - 63,923 stars (Updated: 2025-07-30)<br>Lobe Chat is an open-source UI framework for building ChatGPT/LLM-based chat applications, featuring modern design, speech synthesis, multi-modal support, extensible plugins, and free one-click deployment for various AI agents</li>
+<li><a href="https://github.com/lobehub/lobehub"><strong>Lobe Chat</strong></a> - 63,923 stars (Updated: 2025-07-30)<br>Lobe Chat is an open-source UI framework for building ChatGPT/LLM-based chat applications, featuring modern design, speech synthesis, multi-modal support, extensible plugins, and free one-click deployment for various AI agents</li>
 <li><a href="https://github.com/OpenDevin/OpenDevin"><strong>OpenDevin</strong></a> - 61,429 stars (Updated: 2025-07-30)<br>OpenDevin is an open-source initiative aimed at replicating and enhancing the autonomous AI software engineer Devin, focusing on collaboration and complex task execution in software development, emphasizing its relevance to advancing agentic AI technologies</li>
 <li><a href="https://github.com/OpenInterpreter/open-interpreter"><strong>Open Interpreter</strong></a> - 60,095 stars (Updated: 2025-07-30)<br>Open Interpreter is a coding agent enabling language models to execute code locally, facilitating natural-language interaction with your computer's capabilities, overcoming limitations of hosted solutions like internet access and package restrictions. It features interactive and programmatic chats, system message customization, and can control your computer's keyboard and mouse, allowing for enhanced control and flexibility in development environments</li>
 <li><a href="https://github.com/OpenInterpreter/open-interpreter"><strong>Open Interpreter</strong></a> - 60,095 stars (Updated: 2025-07-30)<br>Open Interpreter is a coding agent enabling language models to execute code locally, facilitating natural-language interaction with your computer's capabilities, overcoming limitations of hosted solutions like internet access and package restrictions. It features interactive and programmatic chats, system message customization, and can control your computer's keyboard and mouse, allowing for enhanced control and flexibility in development environments</li>
@@ -162,12 +162,12 @@ Here's an awesome list of AI agents:
 </div>
 
 ### ai-artifacts
-<div><a href="https://github.com/e2b-dev/ai-artifacts"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/e2b-dev/ai-artifacts"><img src="https://img.shields.io/github/stars/e2b-dev/ai-artifacts?style=social" alt="GitHub stars"></a></div>
+<div><a href="https://github.com/e2b-dev/fragments"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/e2b-dev/fragments"><img src="https://img.shields.io/github/stars/e2b-dev/fragments?style=social" alt="GitHub stars"></a></div>
 <p>🖥️ UI Development</p>
 
 <p>This project implements Anthropic's Artifacts UI, using E2B's Code Interpreter SDK for secure AI code execution and Claude Sonnet 3.5 for code generation</p>
 
-<p><a href="https://github.com/e2b-dev/ai-artifacts">github</a> | <a href="https://www.reddit.com/r/ClaudeAI/comments/1dmy6y2/open_source_version_of_anthropics_artifacts_ui/">reddit announcement</a> | <a href="https://github.com/e2b-dev/ai-artifacts">github</a></p>
+<p><a href="https://github.com/e2b-dev/fragments">github</a> | <a href="https://www.reddit.com/r/ClaudeAI/comments/1dmy6y2/open_source_version_of_anthropics_artifacts_ui/">reddit announcement</a> | <a href="https://github.com/e2b-dev/fragments">github</a></p>
 </div>
 
 ### AIActGuard
@@ -180,13 +180,13 @@ Here's an awesome list of AI agents:
 </div>
 
 ### Aider
-<div><a href="https://github.com/paul-gauthier/aider"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/paul-gauthier/aider"><img src="https://img.shields.io/github/stars/paul-gauthier/aider?style=social" alt="GitHub stars"></a></div>
+<div><a href="https://github.com/Aider-AI/aider"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Aider-AI/aider"><img src="https://img.shields.io/github/stars/Aider-AI/aider?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 36,185 stars (Updated: 2025-07-30)</p>
 <p>🤖 AI Agents</p>
 
 <p>Aider is a command-line tool for AI-assisted pair programming, allowing code editing in local git repositories with GPT-3.5/GPT-4, featuring direct file edits, automatic git commits, and support for most popular programming languages</p>
 
-<p><a href="https://github.com/paul-gauthier/aider">github</a></p>
+<p><a href="https://github.com/Aider-AI/aider">github</a></p>
 </div>
 
 ### AIGEN Protocol
@@ -238,13 +238,13 @@ Here's an awesome list of AI agents:
 </div>
 
 ### AutoDev
-<div><a href="https://github.com/unit-mesh/auto-dev"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/unit-mesh/auto-dev"><img src="https://img.shields.io/github/stars/unit-mesh/auto-dev?style=social" alt="GitHub stars"></a></div>
+<div><a href="https://github.com/phodal/auto-dev"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/phodal/auto-dev"><img src="https://img.shields.io/github/stars/phodal/auto-dev?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 4,039 stars (Updated: 2025-07-30)</p>
 <p>🤖 AI Agents</p>
 
 <p>AutoDev is an AI-powered coding assistant offering multilingual support, automatic code generation, and debugging assistance, featuring customizable prompts and specialized tools for development, testing, documentation, and the integration of custom AI agents, with a focus on experimenting and building AI agents using its UI framework</p>
 
-<p><a href="https://github.com/unit-mesh/auto-dev">github</a> | <a href="https://ide.unitmesh.cc">docs</a></p>
+<p><a href="https://github.com/phodal/auto-dev">github</a> | <a href="https://ide.unitmesh.cc">docs</a></p>
 </div>
 
 ### AutoGen by Microsoft
@@ -307,13 +307,13 @@ Here's an awesome list of AI agents:
 </div>
 
 ### Bazed
-<div><a href="https://github.com/bazed-ai/bazed-af"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/bazed-ai/bazed-af"><img src="https://img.shields.io/github/stars/bazed-ai/bazed-af?style=social" alt="GitHub stars"></a></div>
+<div><a href="https://github.com/sagentic-ai/sagentic-af"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/sagentic-ai/sagentic-af"><img src="https://img.shields.io/github/stars/sagentic-ai/sagentic-af?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 73 stars (Updated: 2025-07-30)</p>
 <p>⚙️ Development Frameworks</p>
 
 <p>Bazed Agent Framework, aimed at empowering developers to build autonomous agent swarms without requiring deep Python ML knowledge, is facilitating the creation of sophisticated systems through TypeScript for enhanced autonomy and reliability</p>
 
-<p><a href="https://github.com/bazed-ai/bazed-af">github</a> | <a href="https://bazed.ai/">website</a> | <a href="https://discord.gg/VmEEUrc7dg">discord</a></p>
+<p><a href="https://github.com/sagentic-ai/sagentic-af">github</a> | <a href="https://bazed.ai/">website</a> | <a href="https://discord.gg/VmEEUrc7dg">discord</a></p>
 </div>
 
 ### BindAI
@@ -452,13 +452,13 @@ Here's an awesome list of AI agents:
 </div>
 
 ### crewAI by João Moura
-<div><a href="https://github.com/joaomdmoura/crewai"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/joaomdmoura/crewai"><img src="https://img.shields.io/github/stars/joaomdmoura/crewai?style=social" alt="GitHub stars"></a></div>
+<div><a href="https://github.com/crewAIInc/crewAI"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/crewAIInc/crewAI"><img src="https://img.shields.io/github/stars/crewAIInc/crewAI?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 35,054 stars (Updated: 2025-07-30)</p>
 <p>⚙️ Development Frameworks</p>
 
 <p>crewAI is a cutting-edge AI framework designed for orchestrating role-playing, autonomous AI agents, enabling seamless collaboration and complex task handling</p>
 
-<p><a href="https://github.com/joaomdmoura/crewai">github</a> | <a href="https://github.com/joaomdmoura">github profile</a></p>
+<p><a href="https://github.com/crewAIInc/crewAI">github</a> | <a href="https://github.com/joaomdmoura">github profile</a></p>
 </div>
 
 ### DB-GPT
@@ -559,13 +559,13 @@ Here's an awesome list of AI agents:
 </div>
 
 ### GPT Computer Assistant
-<div><a href="https://github.com/onuratakan/gpt-computer-assistant"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/onuratakan/gpt-computer-assistant"><img src="https://img.shields.io/github/stars/onuratakan/gpt-computer-assistant?style=social" alt="GitHub stars"></a></div>
+<div><a href="https://github.com/Upsonic/Upsonic"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Upsonic/Upsonic"><img src="https://img.shields.io/github/stars/Upsonic/Upsonic?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 7,625 stars (Updated: 2025-07-30)</p>
 <p>💻 Operating System (OS)</p>
 
 <p>GPT Computer Assistant is an unofficial app that brings ChatGPT functionality to Windows and Linux, allowing for screen reading, microphone use, system audio interaction, clipboard management, script execution, and more</p>
 
-<p><a href="https://github.com/onuratakan/gpt-computer-assistant">github</a></p>
+<p><a href="https://github.com/Upsonic/Upsonic">github</a></p>
 </div>
 
 ### GPT Pilot
@@ -629,13 +629,13 @@ Here's an awesome list of AI agents:
 </div>
 
 ### Instructor
-<div><a href="https://github.com/jxnl/instructor"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/jxnl/instructor"><img src="https://img.shields.io/github/stars/jxnl/instructor?style=social" alt="GitHub stars"></a></div>
+<div><a href="https://github.com/567-labs/instructor"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/567-labs/instructor"><img src="https://img.shields.io/github/stars/567-labs/instructor?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 11,088 stars (Updated: 2025-07-30)</p>
 <p>🏗️ Structured Outputs</p>
 
 <p>Instructor, a Python library, facilitates working with structured outputs from large language models (LLMs), offering features like response model specification, retry management, validation, and streaming support, primarily aimed at enhancing workflows of AI agents utilizing LLMs</p>
 
-<p><a href="https://github.com/jxnl/instructor">github</a> | <a href="https://python.useinstructor.com/">website</a></p>
+<p><a href="https://github.com/567-labs/instructor">github</a> | <a href="https://python.useinstructor.com/">website</a></p>
 </div>
 
 ### InsumerAPI Agent Tools
@@ -806,13 +806,13 @@ Here's an awesome list of AI agents:
 </div>
 
 ### Lobe Chat
-<div><a href="https://github.com/lobehub/lobe-chat"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/lobehub/lobe-chat"><img src="https://img.shields.io/github/stars/lobehub/lobe-chat?style=social" alt="GitHub stars"></a></div>
+<div><a href="https://github.com/lobehub/lobehub"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/lobehub/lobehub"><img src="https://img.shields.io/github/stars/lobehub/lobehub?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 63,923 stars (Updated: 2025-07-30)</p>
 <p>⚙️ Development Frameworks</p>
 
 <p>Lobe Chat is an open-source UI framework for building ChatGPT/LLM-based chat applications, featuring modern design, speech synthesis, multi-modal support, extensible plugins, and free one-click deployment for various AI agents</p>
 
-<p><a href="https://github.com/lobehub/lobe-chat">github</a> | <a href="https://chat-preview.lobehub.com/">website</a></p>
+<p><a href="https://github.com/lobehub/lobehub">github</a> | <a href="https://chat-preview.lobehub.com/">website</a></p>
 </div>
 
 ### LocalGPT
@@ -856,13 +856,13 @@ Here's an awesome list of AI agents:
 </div>
 
 ### MemGPT
-<div><a href="https://github.com/cpacker/MemGPT/"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/cpacker/MemGPT/"><img src="https://img.shields.io/github/stars/cpacker/MemGPT?style=social" alt="GitHub stars"></a></div>
+<div><a href="https://github.com/letta-ai/letta/"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/letta-ai/letta/"><img src="https://img.shields.io/github/stars/letta-ai/letta?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 17,568 stars (Updated: 2025-07-30)</p>
 <p>🧠 Long-Term Memory</p>
 
 <p>MemGPT introduces a customizable AI chatbot framework with self-editing memory and access to unlimited data, promoting perpetual, context-rich conversations</p>
 
-<p><a href="https://memgpt.ai/">website</a> | <a href="https://github.com/cpacker/MemGPT/">github</a></p>
+<p><a href="https://memgpt.ai/">website</a> | <a href="https://github.com/letta-ai/letta/">github</a></p>
 </div>
 
 ### MergeKit
@@ -894,13 +894,13 @@ Here's an awesome list of AI agents:
 </div>
 
 ### NeMo Guardrails
-<div><a href="https://github.com/NVIDIA/NeMo-Guardrails"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/NVIDIA/NeMo-Guardrails"><img src="https://img.shields.io/github/stars/NVIDIA/NeMo-Guardrails?style=social" alt="GitHub stars"></a></div>
+<div><a href="https://github.com/NVIDIA-NeMo/Guardrails"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/NVIDIA-NeMo/Guardrails"><img src="https://img.shields.io/github/stars/NVIDIA-NeMo/Guardrails?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 4,937 stars (Updated: 2025-07-30)</p>
 <p>🛡️ Safety Guardrails (Safeguarding)</p>
 
 <p>NeMo Guardrails is an open-source toolkit facilitating the integration of programmable guardrails, essential for steering and safeguarding AI agents' conversational outputs, into large language model-based applications</p>
 
-<p><a href="https://github.com/NVIDIA/NeMo-Guardrails">github</a> | <a href="https://arxiv.org/abs/2310.10501">research paper</a></p>
+<p><a href="https://github.com/NVIDIA-NeMo/Guardrails">github</a> | <a href="https://arxiv.org/abs/2310.10501">research paper</a></p>
 </div>
 
 ### Nexus-Agent
@@ -1017,13 +1017,13 @@ Here's an awesome list of AI agents:
 </div>
 
 ### Outlines
-<div><a href="https://github.com/outlines-dev/outlines"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/outlines-dev/outlines"><img src="https://img.shields.io/github/stars/outlines-dev/outlines?style=social" alt="GitHub stars"></a></div>
+<div><a href="https://github.com/dottxt-ai/outlines"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/dottxt-ai/outlines"><img src="https://img.shields.io/github/stars/dottxt-ai/outlines?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 12,182 stars (Updated: 2025-07-30)</p>
 <p>🏗️ Structured Outputs</p>
 
 <p>Outlines is a robust text generation library designed for agentic AI developers, featuring support for multiple model integrations, advanced prompting with Jinja, efficient structured generation through regex, JSON schema, context-free grammars, and more, enabling the creation of predictable and structured AI agent outputs</p>
 
-<p><a href="https://github.com/outlines-dev/outlines">github</a> | <a href="https://outlines-dev.github.io/outlines/">website</a> | <a href="https://discord.gg/ZxBxyWmW5n">discord</a></p>
+<p><a href="https://github.com/dottxt-ai/outlines">github</a> | <a href="https://outlines-dev.github.io/outlines/">website</a> | <a href="https://discord.gg/ZxBxyWmW5n">discord</a></p>
 </div>
 
 ### Perplexity-Inspired LLM Answer Engine
@@ -1214,13 +1214,13 @@ Here's an awesome list of AI agents:
 </div>
 
 ### SWE-agent
-<div><a href="https://github.com/princeton-nlp/SWE-agent"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/princeton-nlp/SWE-agent"><img src="https://img.shields.io/github/stars/princeton-nlp/SWE-agent?style=social" alt="GitHub stars"></a></div>
+<div><a href="https://github.com/SWE-agent/SWE-agent"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/SWE-agent/SWE-agent"><img src="https://img.shields.io/github/stars/SWE-agent/SWE-agent?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 16,847 stars (Updated: 2025-07-30)</p>
 <p>⚙️ Development Frameworks</p>
 
 <p>This open source project introduces SWE-agent, a software engineering agent for LMs like GPT-4, enhancing bug and issue resolution in GitHub repositories with state-of-the-art performance, facilitated by a well-designed Agent-Computer Interface (ACI) and support for OpenAI and Anthropic Claude models</p>
 
-<p><a href="https://github.com/princeton-nlp/SWE-agent">github</a> | <a href="https://swe-agent.com/">website</a></p>
+<p><a href="https://github.com/SWE-agent/SWE-agent">github</a> | <a href="https://swe-agent.com/">website</a></p>
 </div>
 
 ### Synapse Messenger

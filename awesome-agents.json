@@ -142,10 +142,10 @@
       "sources": [
         {
           "source": "github",
-          "source_url": "https://github.com/unit-mesh/auto-dev",
+          "source_url": "https://github.com/phodal/auto-dev",
           "stars": 4039,
           "stars_last_updated": "2025-07-30T17:24:11.933859",
-          "repository_checked_at": "2026-09-24T12:52:03Z",
+          "repository_checked_at": "2026-09-25T15:39:54Z",
           "repository_status": "active"
         },
         {
@@ -514,10 +514,10 @@
       "sources": [
         {
           "source": "github",
-          "source_url": "https://github.com/paul-gauthier/aider",
+          "source_url": "https://github.com/Aider-AI/aider",
           "stars": 36185,
           "stars_last_updated": "2025-07-30T17:24:23.066600",
-          "repository_checked_at": "2026-09-24T12:52:13Z",
+          "repository_checked_at": "2026-09-25T15:39:54Z",
           "repository_status": "active"
         }
       ]
@@ -616,10 +616,10 @@
         },
         {
           "source": "github",
-          "source_url": "https://github.com/cpacker/MemGPT/",
+          "source_url": "https://github.com/letta-ai/letta/",
           "stars": 17568,
           "stars_last_updated": "2025-07-30T17:24:26.615851",
-          "repository_checked_at": "2026-09-24T12:52:15Z",
+          "repository_checked_at": "2026-09-25T15:39:55Z",
           "repository_status": "active"
         }
       ]
@@ -736,10 +736,10 @@
       "sources": [
         {
           "source": "github",
-          "source_url": "https://github.com/princeton-nlp/SWE-agent",
+          "source_url": "https://github.com/SWE-agent/SWE-agent",
           "stars": 16847,
           "stars_last_updated": "2025-07-30T17:24:31.261652",
-          "repository_checked_at": "2026-09-24T12:52:19Z",
+          "repository_checked_at": "2026-09-25T15:39:55Z",
           "repository_status": "active"
         },
         {
@@ -1018,10 +1018,10 @@
       "sources": [
         {
           "source": "github",
-          "source_url": "https://github.com/joaomdmoura/crewai",
+          "source_url": "https://github.com/crewAIInc/crewAI",
           "stars": 35054,
           "stars_last_updated": "2025-07-30T17:24:45.539869",
-          "repository_checked_at": "2026-09-24T12:52:29Z",
+          "repository_checked_at": "2026-09-25T15:39:56Z",
           "repository_status": "active"
         },
         {
@@ -1270,10 +1270,10 @@
       "sources": [
         {
           "source": "github",
-          "source_url": "https://github.com/lobehub/lobe-chat",
+          "source_url": "https://github.com/lobehub/lobehub",
           "stars": 63923,
           "stars_last_updated": "2025-07-30T17:24:53.957322",
-          "repository_checked_at": "2026-09-24T12:52:35Z",
+          "repository_checked_at": "2026-09-25T15:39:56Z",
           "repository_status": "active"
         },
         {
@@ -1294,10 +1294,10 @@
       "sources": [
         {
           "source": "github",
-          "source_url": "https://github.com/bazed-ai/bazed-af",
+          "source_url": "https://github.com/sagentic-ai/sagentic-af",
           "stars": 73,
           "stars_last_updated": "2025-07-30T17:24:55.223654",
-          "repository_checked_at": "2026-09-24T12:52:36Z",
+          "repository_checked_at": "2026-09-25T15:39:57Z",
           "repository_status": "active"
         },
         {
@@ -1618,10 +1618,10 @@
       "sources": [
         {
           "source": "github",
-          "source_url": "https://github.com/onuratakan/gpt-computer-assistant",
+          "source_url": "https://github.com/Upsonic/Upsonic",
           "stars": 7625,
           "stars_last_updated": "2025-07-30T17:25:11.826430",
-          "repository_checked_at": "2026-09-24T12:52:50Z",
+          "repository_checked_at": "2026-09-25T15:39:57Z",
           "repository_status": "active"
         }
       ]
@@ -1702,10 +1702,10 @@
       "sources": [
         {
           "source": "github",
-          "source_url": "https://github.com/NVIDIA/NeMo-Guardrails",
+          "source_url": "https://github.com/NVIDIA-NeMo/Guardrails",
           "stars": 4937,
           "stars_last_updated": "2025-07-30T17:25:14.021031",
-          "repository_checked_at": "2026-09-24T12:52:52Z",
+          "repository_checked_at": "2026-09-25T15:39:57Z",
           "repository_status": "active"
         },
         {
@@ -1726,10 +1726,10 @@
       "sources": [
         {
           "source": "github",
-          "source_url": "https://github.com/jxnl/instructor",
+          "source_url": "https://github.com/567-labs/instructor",
           "stars": 11088,
           "stars_last_updated": "2025-07-30T17:25:15.311510",
-          "repository_checked_at": "2026-09-24T12:52:53Z",
+          "repository_checked_at": "2026-09-25T15:39:58Z",
           "repository_status": "active"
         },
         {
@@ -1774,10 +1774,10 @@
       "sources": [
         {
           "source": "github",
-          "source_url": "https://github.com/outlines-dev/outlines",
+          "source_url": "https://github.com/dottxt-ai/outlines",
           "stars": 12182,
           "stars_last_updated": "2025-07-30T17:25:17.358385",
-          "repository_checked_at": "2026-09-24T12:52:55Z",
+          "repository_checked_at": "2026-09-25T15:39:58Z",
           "repository_status": "active"
         },
         {
@@ -2077,10 +2077,10 @@
       "sources": [
         {
           "source": "github",
-          "source_url": "https://github.com/e2b-dev/ai-artifacts",
+          "source_url": "https://github.com/e2b-dev/fragments",
           "stars": null,
           "stars_last_updated": null,
-          "repository_checked_at": "2026-09-24T12:53:08Z",
+          "repository_checked_at": "2026-09-25T15:39:59Z",
           "repository_status": "active"
         },
         {
@@ -2091,12 +2091,11 @@
         },
         {
           "source": "github",
-          "source_url": "https://github.com/e2b-dev/ai-artifacts",
+          "source_url": "https://github.com/e2b-dev/fragments",
           "stars": 5681,
           "stars_last_updated": "2025-07-30T17:25:35.165391",
-          "repository_checked_at": "2026-09-24T12:50:51Z",
-          "repository_status": "check_failed",
-          "repository_status_detail": "unsupported forge \"github.com\""
+          "repository_checked_at": "2026-09-25T15:39:59Z",
+          "repository_status": "active"
         }
       ]
     },
