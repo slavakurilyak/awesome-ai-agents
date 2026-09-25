@@ -3811,6 +3811,39 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "Agent QA",
+      "project_description": "Agent QA is a self-improving QA harness with memory for natural-language web and mobile tests; it adapts to UI changes and provides a dashboard, CLI, MCP server, and coding-agent skills.",
+      "project_is_open_source": true,
+      "categories": [
+        "AI Agents"
+      ],
+      "capabilities": [
+        "Natural-language web and mobile testing",
+        "Adaptive test execution across UI changes",
+        "Reusable execution memory"
+      ],
+      "interfaces": [
+        "Web dashboard",
+        "CLI",
+        "MCP server",
+        "Coding-agent skills"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/vostride/agent-qa",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T06:29:35Z",
+          "repository_status": "active"
+        },
+        {
+          "source": "docs",
+          "source_url": "https://vostride.com/docs/agent-qa",
+          "stars_last_updated": null
+        }
+      ]
     }
   ],
   "categories": [
