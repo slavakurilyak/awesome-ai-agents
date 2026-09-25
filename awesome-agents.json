@@ -3738,6 +3738,24 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "Cogito Studio",
+      "project_description": "Cogito Studio is a cross-platform desktop AI workspace built with Tauri, React, and Rust, offering multi-provider model access, MCP integration, workspace management, and local SQLite storage.",
+      "project_is_open_source": true,
+      "categories": [
+        "Personal Assistants",
+        "UI Development"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/CogitoForge-AI/cogito-studio",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T16:37:41Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
