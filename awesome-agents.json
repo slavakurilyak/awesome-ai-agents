@@ -301,6 +301,43 @@
       ]
     },
     {
+      "project": "Moching",
+      "project_description": "Moching is a desktop AI agent for controlling a PC, with screen perception, browser and Office automation, and native tools.",
+      "project_is_open_source": true,
+      "categories": [
+        "Operating System (OS)"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/moching-ai-dev/moching",
+          "stars": null,
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T07:18:09Z",
+          "repository_status": "active"
+        }
+      ]
+    },
+    {
+      "project": "Vetto",
+      "project_description": "Vetto is a daemon-less, rootless sandbox that applies kernel-enforced security policies to AI coding agents, with agent command shims and MCP tool isolation.",
+      "project_is_open_source": true,
+      "categories": [
+        "Development Frameworks",
+        "Safety Guardrails (Safeguarding)"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/shleder/vetto",
+          "stars": null,
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T07:28:53Z",
+          "repository_status": "active"
+        }
+      ]
+    },
+    {
       "project": "Nexus-Agent",
       "project_description": "Nexus-Agent is an autonomous software-engineering agent with a self-healing execution loop, AST pre-validation, persistent rollback, and terminal and web interfaces.",
       "project_is_open_source": true,
@@ -3832,6 +3869,24 @@
           "stars": null,
           "stars_last_updated": null,
           "repository_checked_at": "2026-09-25T07:12:40Z",
+          "repository_status": "active"
+        }
+      ]
+    },
+    {
+      "project": "ContextStream",
+      "project_description": "ContextStream is an MCP server for shared project context and persistent agent memory, with semantic search, traceable sources, and scoped access.",
+      "project_is_open_source": true,
+      "categories": [
+        "Long-Term Memory"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/contextstream/mcp-server",
+          "stars": null,
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T07:26:50Z",
           "repository_status": "active"
         }
       ]

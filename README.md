@@ -559,6 +559,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/topoteretes/cognee">github</a></p>
 </div>
 
+### ContextStream
+<div><a href="https://github.com/contextstream/mcp-server"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/contextstream/mcp-server"><img src="https://img.shields.io/github/stars/contextstream/mcp-server?style=social" alt="GitHub stars"></a></div>
+<p>🧠 Long-Term Memory</p>
+
+<p>ContextStream is an MCP server for shared project context and persistent agent memory, with semantic search, traceable sources, and scoped access.</p>
+
+<p><a href="https://github.com/contextstream/mcp-server">github</a></p>
+</div>
+
 ### Continue
 <div><a href="https://github.com/continuedev/continue"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/continuedev/continue"><img src="https://img.shields.io/github/stars/continuedev/continue?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 27,982 stars (Updated: 2025-07-30)</p>
@@ -1202,6 +1211,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/mnemoverse/mcp-memory-server">github</a></p>
 </div>
 
+### Moching
+<div><a href="https://github.com/moching-ai-dev/moching"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/moching-ai-dev/moching"><img src="https://img.shields.io/github/stars/moching-ai-dev/moching?style=social" alt="GitHub stars"></a></div>
+<p>💻 Operating System (OS)</p>
+
+<p>Moching is a desktop AI agent for controlling a PC, with screen perception, browser and Office automation, and native tools.</p>
+
+<p><a href="https://github.com/moching-ai-dev/moching">github</a></p>
+</div>
+
 ### NavAIGuide
 <div><a href="https://github.com/francedot/NavAIGuide-TS"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/francedot/NavAIGuide-TS"><img src="https://img.shields.io/github/stars/francedot/NavAIGuide-TS?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 114 stars (Updated: 2025-07-30)</p>
@@ -1577,6 +1595,15 @@ Here's an awesome list of AI agents:
 <p>VacAIgent is a Streamlit-integrated, CrewAI framework-based AI application (Trip Planner Agent) that automates and enhances trip planning through a user-friendly interface, demonstrating collaborative AI agent task execution and offering an interactive web app experience for tailoring travel plans</p>
 
 <p><a href="https://github.com/tonykipkemboi/trip_planner_agent">github</a></p>
+</div>
+
+### Vetto
+<div><a href="https://github.com/shleder/vetto"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/shleder/vetto"><img src="https://img.shields.io/github/stars/shleder/vetto?style=social" alt="GitHub stars"></a></div>
+<p>⚙️ Development Frameworks | 🛡️ Safety Guardrails (Safeguarding)</p>
+
+<p>Vetto is a daemon-less, rootless sandbox that applies kernel-enforced security policies to AI coding agents, with agent command shims and MCP tool isolation.</p>
+
+<p><a href="https://github.com/shleder/vetto">github</a></p>
 </div>
 
 ### vimGPT
