@@ -4476,6 +4476,26 @@
         "repository_status": "active"
       }]
     }
+ ,
+    {
+      "project": "Arachne",
+      "project_description": "A DSPy-native runtime that turns natural-language goals into inspectable agent graphs, executes independent steps in parallel, evaluates results, and can repair failed runs.",
+      "project_is_open_source": true,
+      "categories": ["AI Agents", "Development Frameworks"],
+      "capabilities": [
+        "Weave goals into typed agent execution graphs",
+        "Execute independent graph nodes concurrently with durable sessions",
+        "Evaluate results and retry, reroute, or reweave failed runs"
+      ],
+      "interfaces": ["Python library", "CLI", "MCP integrations"],
+      "sources": [{
+        "source": "github",
+        "source_url": "https://github.com/Strategic-Automation/arachne",
+        "stars_last_updated": null,
+        "repository_checked_at": "2026-09-25T18:00:45Z",
+        "repository_status": "active"
+      }]
+    }
   ],
   "categories": [
     {
