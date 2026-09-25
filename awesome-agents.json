@@ -4696,6 +4696,26 @@
         "repository_status": "active"
       }]
     }
+ ,
+    {
+      "project": "gptme",
+      "project_description": "A provider-agnostic personal AI agent that runs in terminals from laptops and remote servers, with local tools for coding and general knowledge work.",
+      "project_is_open_source": true,
+      "categories": ["AI Agents", "Development Frameworks", "Terminal-Friendly"],
+      "capabilities": [
+        "Use shell, Python, web, and vision tools to complete tasks",
+        "Run persistent autonomous agents across local and headless environments",
+        "Extend agents with plugins, skills, MCP, and ACP integrations"
+      ],
+      "interfaces": ["Terminal CLI", "Python package", "MCP", "ACP"],
+      "sources": [{
+        "source": "github",
+        "source_url": "https://github.com/gptme/gptme",
+        "stars_last_updated": null,
+        "repository_checked_at": "2026-09-25T18:22:31Z",
+        "repository_status": "active"
+      }]
+    }
   ],
   "categories": [
     {

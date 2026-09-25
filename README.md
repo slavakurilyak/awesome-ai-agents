@@ -890,6 +890,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/assafelovic/gpt-researcher">github</a> | <a href="https://github.com/assafelovic">github profile</a></p>
 </div>
 
+### gptme
+<div><a href="https://github.com/gptme/gptme"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/gptme/gptme"><img src="https://img.shields.io/github/stars/gptme/gptme?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents | ⚙️ Development Frameworks | 💻 Terminal-Friendly</p>
+
+<p>A provider-agnostic personal AI agent that runs in terminals from laptops and remote servers, with local tools for coding and general knowledge work.</p>
+
+<p><a href="https://github.com/gptme/gptme">github</a></p>
+<p><strong>Capabilities:</strong> Use shell, Python, web, and vision tools to complete tasks · Run persistent autonomous agents across local and headless environments · Extend agents with plugins, skills, MCP, and ACP integrations</p>
+<p><strong>Interfaces:</strong> Terminal CLI · Python package · MCP · ACP</p>
+</div>
+
 ### Guardrails
 <div><a href="https://github.com/guardrails-ai/guardrails"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/guardrails-ai/guardrails"><img src="https://img.shields.io/github/stars/guardrails-ai/guardrails?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 5,352 stars (Updated: 2025-07-30)</p>
