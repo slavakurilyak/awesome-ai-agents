@@ -338,6 +338,46 @@
       ]
     },
     {
+      "project": "Nexus-Agent",
+      "project_description": "Nexus-Agent is an autonomous software-engineering agent with a self-healing execution loop, AST pre-validation, persistent rollback, and terminal and web interfaces.",
+      "project_is_open_source": true,
+      "categories": [
+        "AI Agents",
+        "Development Frameworks",
+        "Safety Guardrails (Safeguarding)"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/parkain707/nexus-agent",
+          "stars": null,
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T07:22:54Z",
+          "repository_status": "active"
+        }
+      ]
+    },
+    {
+      "project": "Okto-Nexus",
+      "project_description": "Okto-Nexus is a local-first MCP coordination hub for multi-agent teams, with durable messaging, atomic handoffs, governance controls, and human approval.",
+      "project_is_open_source": true,
+      "categories": [
+        "AI Agents",
+        "Development Frameworks",
+        "Safety Guardrails (Safeguarding)"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/OktoLabsAI/okto-nexus",
+          "stars": null,
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T07:31:01Z",
+          "repository_status": "active"
+        }
+      ]
+    },
+    {
       "project": "Okto-Pulse",
       "project_description": "Okto-Pulse is a local-first SDLC workbench for AI coding teams, with structured project artifacts, governance gates, validation rules, and MCP tools.",
       "project_is_open_source": true,

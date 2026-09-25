@@ -1240,6 +1240,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/NVIDIA/NeMo-Guardrails">github</a> | <a href="https://arxiv.org/abs/2310.10501">research paper</a></p>
 </div>
 
+### Nexus-Agent
+<div><a href="https://github.com/parkain707/nexus-agent"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/parkain707/nexus-agent"><img src="https://img.shields.io/github/stars/parkain707/nexus-agent?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents | ⚙️ Development Frameworks | 🛡️ Safety Guardrails (Safeguarding)</p>
+
+<p>Nexus-Agent is an autonomous software-engineering agent with a self-healing execution loop, AST pre-validation, persistent rollback, and terminal and web interfaces.</p>
+
+<p><a href="https://github.com/parkain707/nexus-agent">github</a></p>
+</div>
+
 ### NPI
 <div><a href="https://github.com/npi-ai/npi"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/npi-ai/npi"><img src="https://img.shields.io/github/stars/npi-ai/npi?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 222 stars (Updated: 2025-07-30)</p>
@@ -1248,6 +1257,15 @@ Here's an awesome list of AI agents:
 <p>NPi is an open-source platform providing tool-use APIs for AI agents, with installation and setup instructions available</p>
 
 <p><a href="https://github.com/npi-ai/npi">github</a> | <a href="https://www.npi.ai/">website</a> | <a href="https://www.npi.ai/docs">docs</a> | <a href="https://www.npi.ai/blog">blog</a></p>
+</div>
+
+### Okto-Nexus
+<div><a href="https://github.com/OktoLabsAI/okto-nexus"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/OktoLabsAI/okto-nexus"><img src="https://img.shields.io/github/stars/OktoLabsAI/okto-nexus?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents | ⚙️ Development Frameworks | 🛡️ Safety Guardrails (Safeguarding)</p>
+
+<p>Okto-Nexus is a local-first MCP coordination hub for multi-agent teams, with durable messaging, atomic handoffs, governance controls, and human approval.</p>
+
+<p><a href="https://github.com/OktoLabsAI/okto-nexus">github</a></p>
 </div>
 
 ### Okto-Pulse
