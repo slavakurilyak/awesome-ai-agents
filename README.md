@@ -432,6 +432,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/topoteretes/cognee">github</a></p>
 </div>
 
+### Context7
+<div><a href="https://github.com/upstash/context7"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/upstash/context7"><img src="https://img.shields.io/github/stars/upstash/context7?style=social" alt="GitHub stars"></a></div>
+<p>🔌 MCP Servers</p>
+
+<p>Context7 provides version-specific library documentation and code examples to agents through an MCP server.</p>
+
+<p><a href="https://github.com/upstash/context7">github</a></p>
+</div>
+
 ### ContextStream
 <div><a href="https://github.com/contextstream/mcp-server"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/contextstream/mcp-server"><img src="https://img.shields.io/github/stars/contextstream/mcp-server?style=social" alt="GitHub stars"></a></div>
 <p>🧠 Long-Term Memory</p>
@@ -556,6 +565,15 @@ Here's an awesome list of AI agents:
 <p>A browser-based AI coding agent that uses live application context to edit frontend source files with hot reload through Next.js, Astro, and Vite integrations.</p>
 
 <p><a href="https://github.com/frontman-ai/frontman">github</a></p>
+</div>
+
+### GitHub MCP Server
+<div><a href="https://github.com/github/github-mcp-server"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/github/github-mcp-server"><img src="https://img.shields.io/github/stars/github/github-mcp-server?style=social" alt="GitHub stars"></a></div>
+<p>🔌 MCP Servers | 🔧 Tool Calling (Function Calling)</p>
+
+<p>GitHub's official MCP server lets AI agents work with repositories, issues, pull requests, Actions, and code security through the Model Context Protocol.</p>
+
+<p><a href="https://github.com/github/github-mcp-server">github</a></p>
 </div>
 
 ### GPT Computer Assistant
@@ -1036,6 +1054,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/developersdigest/llm-answer-engine">github</a> | <a href="https://github.com/developersdigest">github profile</a></p>
 </div>
 
+### Playwright MCP
+<div><a href="https://github.com/microsoft/playwright-mcp"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/microsoft/playwright-mcp"><img src="https://img.shields.io/github/stars/microsoft/playwright-mcp?style=social" alt="GitHub stars"></a></div>
+<p>🔌 MCP Servers | 🌐 Web Browsing Frameworks</p>
+
+<p>Microsoft's Playwright MCP server gives agents structured, accessibility-tree-based control of a real browser.</p>
+
+<p><a href="https://github.com/microsoft/playwright-mcp">github</a></p>
+</div>
+
 ### PolyMind
 <div><a href="https://github.com/samirasadov28-code/PolyMind"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/samirasadov28-code/PolyMind"><img src="https://img.shields.io/github/stars/samirasadov28-code/PolyMind?style=social" alt="GitHub stars"></a></div>
 <p>🤖 AI Agents</p>
@@ -1140,6 +1167,15 @@ Here's an awesome list of AI agents:
 <p>Self Auditing Agent pairs audit claims with rerunnable commands and includes gatecheck, a mutation tester for quality gates available as a GitHub Action and pre-commit hook.</p>
 
 <p><a href="https://github.com/simin-yuan/self-auditing-agent">github</a></p>
+</div>
+
+### Serena
+<div><a href="https://github.com/oraios/serena"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/oraios/serena"><img src="https://img.shields.io/github/stars/oraios/serena?style=social" alt="GitHub stars"></a></div>
+<p>🔌 MCP Servers</p>
+
+<p>Serena is a coding-agent toolkit exposed as an MCP server, providing semantic code retrieval and editing through language-server-powered tools.</p>
+
+<p><a href="https://github.com/oraios/serena">github</a></p>
 </div>
 
 ### Smartipedia
