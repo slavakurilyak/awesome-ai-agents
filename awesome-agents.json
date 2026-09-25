@@ -4496,6 +4496,26 @@
         "repository_status": "active"
       }]
     }
+ ,
+    {
+      "project": "KubeStellar Console",
+      "project_description": "A self-hosted multi-cluster Kubernetes dashboard with an AI operations agent that connects language models to live clusters through MCP.",
+      "project_is_open_source": true,
+      "categories": ["AI Agents", "Tool Calling (Function Calling)"],
+      "capabilities": [
+        "Inspect and manage multiple Kubernetes clusters",
+        "Bridge AI operations workflows to live clusters through MCP",
+        "Install guided missions for CNCF projects"
+      ],
+      "interfaces": ["Web dashboard", "MCP", "kc-agent", "Kubernetes"],
+      "sources": [{
+        "source": "github",
+        "source_url": "https://github.com/kubestellar/console",
+        "stars_last_updated": null,
+        "repository_checked_at": "2026-09-25T18:02:32Z",
+        "repository_status": "active"
+      }]
+    }
   ],
   "categories": [
     {
