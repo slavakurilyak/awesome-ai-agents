@@ -1206,6 +1206,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/developersdigest/llm-answer-engine">github</a> | <a href="https://github.com/developersdigest">github profile</a></p>
 </div>
 
+### Pilot Protocol
+<div><a href="https://github.com/pilot-protocol/pilotprotocol"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/pilot-protocol/pilotprotocol"><img src="https://img.shields.io/github/stars/pilot-protocol/pilotprotocol?style=social" alt="GitHub stars"></a></div>
+<p>📏 Standardization</p>
+
+<p>Pilot Protocol is an overlay network for AI agents, with permanent virtual addresses, encrypted UDP tunnels, NAT traversal, and per-peer trust controls.</p>
+
+<p><a href="https://github.com/pilot-protocol/pilotprotocol">github</a></p>
+</div>
+
 ### Playwright MCP
 <div><a href="https://github.com/microsoft/playwright-mcp"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/microsoft/playwright-mcp"><img src="https://img.shields.io/github/stars/microsoft/playwright-mcp?style=social" alt="GitHub stars"></a></div>
 <p>🔌 MCP Servers | 🌐 Web Browsing Frameworks</p>
