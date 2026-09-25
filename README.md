@@ -750,6 +750,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/CorvinLabs/CorvinOS">github</a></p>
 </div>
 
+### CoWorker Protocol
+<div><a href="https://github.com/ZiwayZhao/agent-coworker"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/ZiwayZhao/agent-coworker"><img src="https://img.shields.io/github/stars/ZiwayZhao/agent-coworker?style=social" alt="GitHub stars"></a></div>
+<p>⚙️ Development Frameworks | 📏 Standardization</p>
+
+<p>A peer-to-peer protocol for serving and invoking agent skills over XMTP with encrypted communication and revocable trust.</p>
+
+<p><a href="https://github.com/ZiwayZhao/agent-coworker">github</a></p>
+<p><strong>Capabilities:</strong> Serve remote agent skills without distributing their implementation · Delegate tasks asynchronously between agents · Apply trust levels and version checks to remote skill calls</p>
+<p><strong>Interfaces:</strong> Python package · MCP server · XMTP</p>
+</div>
+
 ### Crawl4AI
 <div><a href="https://github.com/unclecode/crawl4ai"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/unclecode/crawl4ai"><img src="https://img.shields.io/github/stars/unclecode/crawl4ai?style=social" alt="GitHub stars"></a></div>
 <p>🌐 Web Browsing Frameworks</p>
