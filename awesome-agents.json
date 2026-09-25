@@ -3968,6 +3968,35 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "HagiCode Desktop",
+      "project_description": "An Electron desktop app for installing, running, monitoring, and updating HagiCode Server, with local resource monitoring and agent executor selection.",
+      "project_is_open_source": true,
+      "capabilities": [
+        "Set up and manage HagiCode Server",
+        "Monitor local resources and service health",
+        "Select coding-agent executors"
+      ],
+      "interfaces": [
+        "Desktop UI",
+        "Claude Code",
+        "Codex",
+        "GitHub Copilot CLI"
+      ],
+      "categories": [
+        "Development Frameworks",
+        "UI Development"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/HagiCode-org/desktop",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T17:08:28Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
