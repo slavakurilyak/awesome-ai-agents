@@ -3537,6 +3537,25 @@
         }
       ]
     }
+,
+    {
+      "project": "The Forge",
+      "project_description": "The Forge coordinates LLMs to generate code candidates, compiles and benchmarks them, then evolves top candidates through mutation and selection.",
+      "project_is_open_source": true,
+      "categories": [
+        "Development Frameworks"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/ModernOps888/the-forge",
+          "stars": null,
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T16:05:15Z",
+          "repository_status": "active"
+        }
+      ]
+    }
   ],
   "categories": [
     {
