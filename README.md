@@ -2826,6 +2826,17 @@ Here's an awesome list of AI agents:
 <p><strong>Interfaces:</strong> Agent Skills · GitHub Action · MCP</p>
 </div>
 
+### Unified AI System
+<div><a href="https://github.com/happy520ai/unified-ai-system"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/happy520ai/unified-ai-system"><img src="https://img.shields.io/github/stars/happy520ai/unified-ai-system?style=social" alt="GitHub stars"></a></div>
+<p>⚙️ Development Frameworks | 🔧 Tool Calling (Function Calling)</p>
+
+<p>A self-hosted AI gateway and control plane that exposes governed MCP tools, converts OpenAPI services to MCP, and proxies compatible model APIs with virtual-key budgets, caching, and audit.</p>
+
+<p><a href="https://github.com/happy520ai/unified-ai-system">github</a></p>
+<p><strong>Capabilities:</strong> Expose OpenAPI services and upstream MCP servers as governed tools · Proxy compatible model APIs with virtual-key budgets, caching, and audit trails</p>
+<p><strong>Interfaces:</strong> MCP · OpenAI-compatible REST API · CLI · Docker</p>
+</div>
+
 ### Upsonic
 <div><a href="https://github.com/Upsonic/Upsonic"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Upsonic/Upsonic"><img src="https://img.shields.io/github/stars/Upsonic/Upsonic?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 7,957 stars</p>

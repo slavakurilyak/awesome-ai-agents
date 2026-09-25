@@ -6531,6 +6531,34 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "Unified AI System",
+      "project_description": "A self-hosted AI gateway and control plane that exposes governed MCP tools, converts OpenAPI services to MCP, and proxies compatible model APIs with virtual-key budgets, caching, and audit.",
+      "project_is_open_source": true,
+      "categories": [
+        "Development Frameworks",
+        "Tool Calling (Function Calling)"
+      ],
+      "capabilities": [
+        "Expose OpenAPI services and upstream MCP servers as governed tools",
+        "Proxy compatible model APIs with virtual-key budgets, caching, and audit trails"
+      ],
+      "interfaces": [
+        "MCP",
+        "OpenAI-compatible REST API",
+        "CLI",
+        "Docker"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/happy520ai/unified-ai-system",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T21:30:39Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
