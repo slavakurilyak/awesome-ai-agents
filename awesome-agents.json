@@ -4143,6 +4143,38 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "Maestro",
+      "project_description": "A desktop command center for running multiple AI coding agents in parallel, automating sessions with event cues and playbooks, and coordinating local and remote agents.",
+      "project_is_open_source": true,
+      "capabilities": [
+        "Run multiple coding agents in parallel",
+        "Automate agent workflows with event cues and playbooks",
+        "Coordinate conversations across local and remote agents",
+        "Let agents manage runs through a CLI"
+      ],
+      "interfaces": [
+        "Desktop UI",
+        "CLI",
+        "Claude Code",
+        "Codex",
+        "Gemini CLI",
+        "OpenCode"
+      ],
+      "categories": [
+        "AI Agents",
+        "Flow Engineering (Platform Engineering)"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/RunMaestro/Maestro",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T17:24:48Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
