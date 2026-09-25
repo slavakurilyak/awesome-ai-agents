@@ -1570,6 +1570,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/ZeroPointRepo/zillow-skills">github</a></p>
 </div>
 
+### Zooid
+<div><a href="https://github.com/zooid-ai/zooid"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/zooid-ai/zooid"><img src="https://img.shields.io/github/stars/zooid-ai/zooid?style=social" alt="GitHub stars"></a></div>
+<p>🖥️ UI Development</p>
+
+<p>Zooid is a self-hostable team-chat surface built on Matrix where people supervise AI agents running as teammates with approval cards, tool calls, and live plans.</p>
+
+<p><a href="https://github.com/zooid-ai/zooid">github</a></p>
+</div>
+
 ## 🙋‍♂️ Hire Me
 
 Do you want to develop a custom agentic AI solution or looking launch your own AI agent?
