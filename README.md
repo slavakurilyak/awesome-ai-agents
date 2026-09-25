@@ -2119,6 +2119,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/stipend-sh/stipend">github</a></p>
 </div>
 
+### Stoneforge
+<div><a href="https://github.com/stoneforge-ai/stoneforge"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/stoneforge-ai/stoneforge"><img src="https://img.shields.io/github/stars/stoneforge-ai/stoneforge?style=social" alt="GitHub stars"></a></div>
+<p>⚙️ Development Frameworks</p>
+
+<p>A web dashboard and local runtime for orchestrating parallel AI coding agents, with task dispatch and isolated workspaces.</p>
+
+<p><a href="https://github.com/stoneforge-ai/stoneforge">github</a></p>
+<p><strong>Capabilities:</strong> Dispatch coding tasks to multiple agents in parallel · Isolate agent work and coordinate task states · Monitor agent activity and recover from failures</p>
+<p><strong>Interfaces:</strong> Web dashboard · CLI · Local runtime</p>
+</div>
+
 ### StoryRoute
 <div><a href="https://github.com/samirasadov28-code/storyroute"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/samirasadov28-code/storyroute"><img src="https://img.shields.io/github/stars/samirasadov28-code/storyroute?style=social" alt="GitHub stars"></a></div>
 <p>🤖 AI Agents</p>
