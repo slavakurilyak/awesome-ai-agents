@@ -834,6 +834,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/firecrawl/firecrawl">github</a></p>
 </div>
 
+### Flow Weaver
+<div><a href="https://github.com/synergenius-fw/flow-weaver"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/synergenius-fw/flow-weaver"><img src="https://img.shields.io/github/stars/synergenius-fw/flow-weaver?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents | ⚙️ Development Frameworks</p>
+
+<p>A deterministic TypeScript workflow compiler that turns JSDoc-annotated functions into standalone workflow code you can inspect, test, and own.</p>
+
+<p><a href="https://github.com/synergenius-fw/flow-weaver">github</a></p>
+<p><strong>Capabilities:</strong> Validate and compile annotated TypeScript workflows into execution graphs · Run workflows locally and inspect execution steps in a web console · Create and operate workflows through MCP tools and approval gates</p>
+<p><strong>Interfaces:</strong> TypeScript package on npm · CLI · MCP server · Local web console</p>
+</div>
+
 ### Flowise
 <div><a href="https://github.com/FlowiseAI/Flowise"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/FlowiseAI/Flowise"><img src="https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 42,100 stars (Updated: 2025-07-30)</p>
