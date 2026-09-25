@@ -875,6 +875,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/kuafuai/DevOpsGPT">github</a> | <a href="https://github.com/kuafuai">github profile</a></p>
 </div>
 
+### Dorothy
+<div><a href="https://github.com/Charlie85270/Dorothy"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Charlie85270/Dorothy"><img src="https://img.shields.io/github/stars/Charlie85270/Dorothy?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents | ⚙️ Development Frameworks</p>
+
+<p>A desktop workspace for orchestrating, monitoring, and automating multiple AI coding agents.</p>
+
+<p><a href="https://github.com/Charlie85270/Dorothy">github</a></p>
+<p><strong>Capabilities:</strong> Run and monitor multiple coding-agent CLIs from one desktop app · Manage agent work with Kanban boards and scheduled automations · Control agent sessions remotely through connected messaging tools</p>
+<p><strong>Interfaces:</strong> Desktop app · MCP servers</p>
+</div>
+
 ### DSH Studio
 <div><a href="https://github.com/Moresyl/dsh-studio"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Moresyl/dsh-studio"><img src="https://img.shields.io/github/stars/Moresyl/dsh-studio?style=social" alt="GitHub stars"></a></div>
 <p>🖥️ UI Development</p>
