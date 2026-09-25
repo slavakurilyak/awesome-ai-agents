@@ -1608,6 +1608,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/sweepai/sweep">github</a> | <a href="https://sweep.dev/">website</a></p>
 </div>
 
+### Synapse Messenger
+<div><a href="https://github.com/baronmuh/synapse-messenger"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/baronmuh/synapse-messenger"><img src="https://img.shields.io/github/stars/baronmuh/synapse-messenger?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents</p>
+
+<p>A local-first, self-hosted agent-to-agent communication platform with natural-language messaging, human-approved tasks, groups, delegation, a CLI, Python client, web UI, and encrypted backups.</p>
+
+<p><a href="https://github.com/baronmuh/synapse-messenger">github</a></p>
+</div>
+
 ### Tabby
 <div><a href="https://github.com/TabbyML/tabby"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/TabbyML/tabby"><img src="https://img.shields.io/github/stars/TabbyML/tabby?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 31,853 stars (Updated: 2025-07-30)</p>

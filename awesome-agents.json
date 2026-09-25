@@ -394,6 +394,24 @@
       ]
     },
     {
+      "project": "Synapse Messenger",
+      "project_description": "A local-first, self-hosted agent-to-agent communication platform with natural-language messaging, human-approved tasks, groups, delegation, a CLI, Python client, web UI, and encrypted backups.",
+      "project_is_open_source": true,
+      "categories": [
+        "AI Agents"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/baronmuh/synapse-messenger",
+          "stars": null,
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T08:17:58Z",
+          "repository_status": "active"
+        }
+      ]
+    },
+    {
       "project": "BulkPublish",
       "project_description": "Open-source Python and Node.js SDKs and an MCP server that connect agents to BulkPublish's hosted social publishing API, with tools for drafting, scheduling, publishing, approvals, and analytics.",
       "project_is_open_source": true,
