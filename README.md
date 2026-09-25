@@ -1085,6 +1085,17 @@ Here's an awesome list of AI agents:
 <p><strong>Interfaces:</strong> Kubernetes Operator · Claw CRD · Go · Docker</p>
 </div>
 
+### Kitaru
+<div><a href="https://github.com/zenml-io/kitaru"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/zenml-io/kitaru"><img src="https://img.shields.io/github/stars/zenml-io/kitaru?style=social" alt="GitHub stars"></a></div>
+<p>📊 Evaluation Frameworks | 👁️ Observability Frameworks</p>
+
+<p>An open-source replay-based evaluation toolkit for AI agents that records or imports production traces as sessions and reruns them against model, prompt, or code changes.</p>
+
+<p><a href="https://github.com/zenml-io/kitaru">github</a></p>
+<p><strong>Capabilities:</strong> Record agent runs or import traces from supported observability tools · Replay sessions with recorded tool responses to compare agent changes · Evaluate cohorts and review results against trace evidence</p>
+<p><strong>Interfaces:</strong> Python package · TypeScript package · CLI · MCP server</p>
+</div>
+
 ### KubeStellar Console
 <div><a href="https://github.com/kubestellar/console"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/kubestellar/console"><img src="https://img.shields.io/github/stars/kubestellar/console?style=social" alt="GitHub stars"></a></div>
 <p>🤖 AI Agents | 🔧 Tool Calling (Function Calling)</p>
