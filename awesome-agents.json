@@ -3907,6 +3907,35 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "NarraNexus",
+      "project_description": "An open-source AI team workspace for persistent agent identity and memory, multi-agent collaboration, and long-running work across connected channels.",
+      "project_is_open_source": true,
+      "capabilities": [
+        "Maintain agent identity and persistent memory",
+        "Coordinate long-running multi-agent teams",
+        "Share context through agent messaging"
+      ],
+      "interfaces": [
+        "Desktop UI",
+        "CLI",
+        "MCP integrations",
+        "Lark, Slack, and WeChat channels"
+      ],
+      "categories": [
+        "AI Agents",
+        "Long-Term Memory"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/NetMindAI-Open/NarraNexus",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T17:03:20Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [

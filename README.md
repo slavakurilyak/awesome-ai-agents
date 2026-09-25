@@ -1117,6 +1117,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/modelcontextprotocol/modelcontextprotocol">github</a></p>
 </div>
 
+### NarraNexus
+<div><a href="https://github.com/NetMindAI-Open/NarraNexus"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/NetMindAI-Open/NarraNexus"><img src="https://img.shields.io/github/stars/NetMindAI-Open/NarraNexus?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents | 🧠 Long-Term Memory</p>
+
+<p>An open-source AI team workspace for persistent agent identity and memory, multi-agent collaboration, and long-running work across connected channels.</p>
+
+<p><a href="https://github.com/NetMindAI-Open/NarraNexus">github</a></p>
+<p><strong>Capabilities:</strong> Maintain agent identity and persistent memory · Coordinate long-running multi-agent teams · Share context through agent messaging</p>
+<p><strong>Interfaces:</strong> Desktop UI · CLI · MCP integrations · Lark, Slack, and WeChat channels</p>
+</div>
+
 ### NeMo Guardrails
 <div><a href="https://github.com/NVIDIA-NeMo/Guardrails"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/NVIDIA-NeMo/Guardrails"><img src="https://img.shields.io/github/stars/NVIDIA-NeMo/Guardrails?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 4,937 stars (Updated: 2025-07-30)</p>
