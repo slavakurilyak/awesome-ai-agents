@@ -227,6 +227,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/vbkotecha/agentservices-api">github</a></p>
 </div>
 
+### AgentStamp
+<div><a href="https://github.com/vinaybhosle/agentstamp"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/vinaybhosle/agentstamp"><img src="https://img.shields.io/github/stars/vinaybhosle/agentstamp?style=social" alt="GitHub stars"></a></div>
+<p>🛡️ Safety Guardrails (Safeguarding) | 📏 Standardization</p>
+
+<p>An agent identity and trust platform providing signed credentials, registry discovery, reputation scoring, and verification tools.</p>
+
+<p><a href="https://github.com/vinaybhosle/agentstamp">github</a></p>
+<p><strong>Capabilities:</strong> Register agents and issue signed identity certificates · Discover and evaluate agents through a public registry · Verify agent trust scores and compliance signals</p>
+<p><strong>Interfaces:</strong> REST API · MCP server · GitHub Action · TypeScript SDK</p>
+</div>
+
 ### AgentTrace
 <div><a href="https://github.com/luoyuctl/agenttrace"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/luoyuctl/agenttrace"><img src="https://img.shields.io/github/stars/luoyuctl/agenttrace?style=social" alt="GitHub stars"></a></div>
 <p>👁️ Observability Frameworks | 💻 Terminal-Friendly</p>
