@@ -1722,6 +1722,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/OpenBMB/XAgent">github</a> | <a href="https://www.youtube.com/watch?v=QGkpd-tsFPA">demo</a> | <a href="https://xagent-doc.readthedocs.io/en/latest/">docs</a> | <a href="https://blog.x-agent.net/blog/xagent/">blog</a></p>
 </div>
 
+### XMACNA Funcionario Digital AgentGet Pack
+<div><a href="https://github.com/xmacna/funcionario-digital-agentget"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/xmacna/funcionario-digital-agentget"><img src="https://img.shields.io/github/stars/xmacna/funcionario-digital-agentget?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents</p>
+
+<p>An installable AgentGet knowledge pack and Claude Code agent for designing AI sales workflows, including WhatsApp lead qualification, CRM hygiene, and supervised business automation.</p>
+
+<p><a href="https://github.com/xmacna/funcionario-digital-agentget">github</a></p>
+<p><strong>Capabilities:</strong> Design lead qualification workflows · Define WhatsApp follow-up and handoff rules · Plan CRM data models and operating playbooks</p>
+<p><strong>Interfaces:</strong> AgentGet pack · Claude Code agent · Markdown instructions</p>
+</div>
+
 ### YouTube Skills for AI Agents
 <div><a href="https://github.com/ZeroPointRepo/youtube-skills"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/ZeroPointRepo/youtube-skills"><img src="https://img.shields.io/github/stars/ZeroPointRepo/youtube-skills?style=social" alt="GitHub stars"></a></div>
 <p>🤖 AI Agents</p>

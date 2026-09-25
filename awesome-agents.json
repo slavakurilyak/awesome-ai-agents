@@ -4086,6 +4086,33 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "XMACNA Funcionario Digital AgentGet Pack",
+      "project_description": "An installable AgentGet knowledge pack and Claude Code agent for designing AI sales workflows, including WhatsApp lead qualification, CRM hygiene, and supervised business automation.",
+      "project_is_open_source": true,
+      "capabilities": [
+        "Design lead qualification workflows",
+        "Define WhatsApp follow-up and handoff rules",
+        "Plan CRM data models and operating playbooks"
+      ],
+      "interfaces": [
+        "AgentGet pack",
+        "Claude Code agent",
+        "Markdown instructions"
+      ],
+      "categories": [
+        "AI Agents"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/xmacna/funcionario-digital-agentget",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T17:18:51Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
