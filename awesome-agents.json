@@ -4432,6 +4432,24 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "AIGEN Protocol",
+      "project_description": "A reference implementation of an open bounty protocol that lets AI agents post and claim missions through API and MCP tools, with verification and on-chain payouts.",
+      "project_is_open_source": true,
+      "categories": [
+        "Standardization",
+        "Tool Calling (Function Calling)"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/Aigen-Protocol/aigen-protocol",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T08:53:47Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [

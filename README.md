@@ -289,6 +289,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/OpenInterpreter/aifs">github</a></p>
 </div>
 
+### AIGEN Protocol
+<div><a href="https://github.com/Aigen-Protocol/aigen-protocol"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Aigen-Protocol/aigen-protocol"><img src="https://img.shields.io/github/stars/Aigen-Protocol/aigen-protocol?style=social" alt="GitHub stars"></a></div>
+<p>📏 Standardization | 🔧 Tool Calling (Function Calling)</p>
+
+<p>A reference implementation of an open bounty protocol that lets AI agents post and claim missions through API and MCP tools, with verification and on-chain payouts.</p>
+
+<p><a href="https://github.com/Aigen-Protocol/aigen-protocol">github</a></p>
+</div>
+
 ### AIOS
 <div><a href="https://github.com/agiresearch/AIOS"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/agiresearch/AIOS"><img src="https://img.shields.io/github/stars/agiresearch/AIOS?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 4,439 stars (Updated: 2025-07-30)</p>
