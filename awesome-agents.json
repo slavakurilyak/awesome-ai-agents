@@ -4356,6 +4356,26 @@
         "repository_status": "active"
       }]
     }
+ ,
+    {
+      "project": "sparkbtcbot-skill",
+      "project_description": "A self-custodial Spark Bitcoin wallet skill for AI agents, supporting BTC transfers, Lightning invoices, L402 payments, token operations, and merchant purchases with payment guardrails.",
+      "project_is_open_source": true,
+      "categories": ["Bitcoin"],
+      "capabilities": [
+        "Create and manage a self-custodial Spark wallet",
+        "Send and receive Bitcoin through Spark and Lightning",
+        "Pay L402 APIs and perform token or merchant transactions with policy checks"
+      ],
+      "interfaces": ["Claude Code plugin", "npm package", "Agent skill"],
+      "sources": [{
+        "source": "github",
+        "source_url": "https://github.com/echennells/sparkbtcbot",
+        "stars_last_updated": null,
+        "repository_checked_at": "2026-09-25T17:48:06Z",
+        "repository_status": "active"
+      }]
+    }
   ],
   "categories": [
     {
