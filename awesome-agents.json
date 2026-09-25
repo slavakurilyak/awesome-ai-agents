@@ -4055,6 +4055,37 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "AgentBox",
+      "project_description": "Run multiple coding agents in parallel inside isolated local Docker containers or cloud virtual machines, with per-box browser and VS Code access.",
+      "project_is_open_source": true,
+      "capabilities": [
+        "Run coding agents in isolated environments",
+        "Checkpoint and restore agent work",
+        "Provide per-environment browser and VS Code access"
+      ],
+      "interfaces": [
+        "CLI",
+        "Docker",
+        "Cloud virtual machines",
+        "Claude Code",
+        "Codex",
+        "OpenCode"
+      ],
+      "categories": [
+        "AI Agents",
+        "Development Frameworks"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/madarco/agentbox",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T17:16:05Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
