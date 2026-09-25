@@ -72,6 +72,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/statelyai/agent/">github</a> | <a href="https://stately.ai/agent">website</a> | <a href="https://twitter.com/statelyai">twitter</a> | <a href="https://discord.gg/xstate">discord</a> | <a href="https://youtube.com/c/statelyai">youtube</a></p>
 </div>
 
+### Agent Express
+<div><a href="https://github.com/agent-express-ai/agent-express"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/agent-express-ai/agent-express"><img src="https://img.shields.io/github/stars/agent-express-ai/agent-express?style=social" alt="GitHub stars"></a></div>
+<p>⚙️ Development Frameworks | 👁️ Observability Frameworks | 🛡️ Safety Guardrails (Safeguarding)</p>
+
+<p>A minimalist TypeScript middleware framework for building AI agents with composable guards, model routing, memory, testing, and observability.</p>
+
+<p><a href="https://github.com/agent-express-ai/agent-express">github</a></p>
+<p><strong>Capabilities:</strong> Compose retries, budget limits, validation, timeouts, and human approvals · Route models and compact agent memory across turns · Trace usage and connect MCP servers as tool sources</p>
+<p><strong>Interfaces:</strong> TypeScript package on npm · CLI · MCP integration</p>
+</div>
+
 ### Agent Platform
 <div><a href="https://github.com/Ace-li521/agent-platform"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Ace-li521/agent-platform"><img src="https://img.shields.io/github/stars/Ace-li521/agent-platform?style=social" alt="GitHub stars"></a></div>
 <p>🤖 AI Agents</p>
