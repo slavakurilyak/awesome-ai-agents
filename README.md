@@ -402,6 +402,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/bazed-ai/bazed-af">github</a> | <a href="https://bazed.ai/">website</a> | <a href="https://discord.gg/VmEEUrc7dg">discord</a></p>
 </div>
 
+### BindAI
+<div><a href="https://github.com/BindBrain/BindAI"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/BindBrain/BindAI"><img src="https://img.shields.io/github/stars/BindBrain/BindAI?style=social" alt="GitHub stars"></a></div>
+<p>⚙️ Development Frameworks</p>
+
+<p>BindAI is a modular Python framework for building AI applications with reusable components for agents, tools, workflows, memory, knowledge retrieval, model providers, and integrations.</p>
+
+<p><a href="https://github.com/BindBrain/BindAI">github</a> | <a href="https://bindai.dev">website</a> | <a href="https://docs.bindai.dev">docs</a></p>
+</div>
+
 ### BlackVault
 <div><a href="https://github.com/venkat22022202/black-vault"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/venkat22022202/black-vault"><img src="https://img.shields.io/github/stars/venkat22022202/black-vault?style=social" alt="GitHub stars"></a></div>
 <p>🤖 AI Agents</p>
