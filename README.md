@@ -1403,6 +1403,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/modelcontextprotocol/modelcontextprotocol">github</a></p>
 </div>
 
+### Moss
+<div><a href="https://github.com/usemoss/moss"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/usemoss/moss"><img src="https://img.shields.io/github/stars/usemoss/moss?style=social" alt="GitHub stars"></a></div>
+<p>🧠 Long-Term Memory</p>
+
+<p>An open-source semantic search runtime for conversational AI agents, combining vector and keyword retrieval, built-in embeddings, metadata filters, and browser WebAssembly support.</p>
+
+<p><a href="https://github.com/usemoss/moss">github</a></p>
+<p><strong>Capabilities:</strong> Index and retrieve agent knowledge with hybrid semantic and keyword search · Generate embeddings and filter results by metadata · Run retrieval in browser environments through WebAssembly</p>
+<p><strong>Interfaces:</strong> Python SDK · TypeScript SDK · Elixir SDK · C SDK · WebAssembly</p>
+</div>
+
 ### n3rv (formerly NERV)
 <div><a href="https://github.com/juanmanueldaza/n3rv"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/juanmanueldaza/n3rv"><img src="https://img.shields.io/github/stars/juanmanueldaza/n3rv?style=social" alt="GitHub stars"></a></div>
 <p>⚙️ Development Frameworks</p>
