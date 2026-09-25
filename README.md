@@ -1414,6 +1414,15 @@ Here's an awesome list of AI agents:
 <p><strong>Interfaces:</strong> Web application · REST API · MCP server</p>
 </div>
 
+### The Agentic Leaderboard
+<div><a href="https://github.com/ifyoubuildit/the-agentic-leaderboard-data"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/ifyoubuildit/the-agentic-leaderboard-data"><img src="https://img.shields.io/github/stars/ifyoubuildit/the-agentic-leaderboard-data?style=social" alt="GitHub stars"></a></div>
+<p>📊 Evaluation Frameworks</p>
+
+<p>The Agentic Leaderboard publishes weekly rankings of open-source AI agents across reliability, tool selection, autonomous iteration, and community signals, with public data and methodology.</p>
+
+<p><a href="https://github.com/ifyoubuildit/the-agentic-leaderboard-data">github</a></p>
+</div>
+
 ### The Genesis Accord
 <div><a href="https://github.com/Bengtsson78/genesis-accord-standard"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Bengtsson78/genesis-accord-standard"><img src="https://img.shields.io/github/stars/Bengtsson78/genesis-accord-standard?style=social" alt="GitHub stars"></a></div>
 <p>📏 Standardization</p>
