@@ -1035,6 +1035,17 @@ Here's an awesome list of AI agents:
 <p><strong>Interfaces:</strong> CLI · MCP · Local web console</p>
 </div>
 
+### Screenpipe
+<div><a href="https://github.com/screenpipe/screenpipe"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/screenpipe/screenpipe"><img src="https://img.shields.io/github/stars/screenpipe/screenpipe?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents | 💻 Local Inference | 🧠 Long-Term Memory | 👤 Personal Assistants</p>
+
+<p>Screenpipe captures screen and audio locally, then exposes searchable work history and agent context through an MCP server. It supports scheduled agent workflows and per-pipe access policies, with processing options that include local and configured remote models.</p>
+
+<p><a href="https://github.com/screenpipe/screenpipe">github</a></p>
+<p><strong>Capabilities:</strong> Local screen and audio memory · Searchable context for AI agents · Per-pipe data access policies</p>
+<p><strong>Interfaces:</strong> Desktop app · CLI · MCP</p>
+</div>
+
 ### Self Auditing Agent
 <div><a href="https://github.com/simin-yuan/self-auditing-agent"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/simin-yuan/self-auditing-agent"><img src="https://img.shields.io/github/stars/simin-yuan/self-auditing-agent?style=social" alt="GitHub stars"></a></div>
 <p>📊 Evaluation Frameworks</p>
