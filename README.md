@@ -879,6 +879,17 @@ Here's an awesome list of AI agents:
 <p><strong>Interfaces:</strong> Python package · Claude Code hook · Agent skill</p>
 </div>
 
+### CUGA
+<div><a href="https://github.com/cuga-project/cuga-agent"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/cuga-project/cuga-agent"><img src="https://img.shields.io/github/stars/cuga-project/cuga-agent?style=social" alt="GitHub stars"></a></div>
+<p>⚙️ Development Frameworks</p>
+
+<p>CUGA is an enterprise agent harness for configuring and deploying generalist agents across API and web workflows, with tool orchestration, safety policies, and evaluation.</p>
+
+<p><a href="https://github.com/cuga-project/cuga-agent">github</a></p>
+<p><strong>Capabilities:</strong> enterprise workflow automation · tool orchestration across APIs and web apps · policy and evaluation controls</p>
+<p><strong>Interfaces:</strong> Python SDK · API · Web UI</p>
+</div>
+
 ### Cycles
 <div><a href="https://github.com/runcycles/cycles-server"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/runcycles/cycles-server"><img src="https://img.shields.io/github/stars/runcycles/cycles-server?style=social" alt="GitHub stars"></a></div>
 <p>🤖 AI Agents | 🛡️ Safety Guardrails (Safeguarding) | 📏 Standardization</p>
