@@ -4290,6 +4290,23 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "Zillapi",
+      "project_description": "MIT-0 agent skills for querying Zillow property data through Zillapi’s hosted API; the repository contains client skills, while the MCP server is hosted.",
+      "project_is_open_source": true,
+      "categories": [
+        "Tool Calling (Function Calling)"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/ZeroPointRepo/zillow-skills",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T08:32:55Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
