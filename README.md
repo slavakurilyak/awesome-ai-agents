@@ -719,6 +719,17 @@ Here's an awesome list of AI agents:
 <p><strong>Interfaces:</strong> Markdown protocol · Claude Code plugin · Runtime adapters</p>
 </div>
 
+### Cortex Memory
+<div><a href="https://github.com/SKULLFIRE07/cortex-memory"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/SKULLFIRE07/cortex-memory"><img src="https://img.shields.io/github/stars/SKULLFIRE07/cortex-memory?style=social" alt="GitHub stars"></a></div>
+<p>🧠 Long-Term Memory</p>
+
+<p>A local-first memory tool for AI coding assistants that captures project context and carries it across sessions.</p>
+
+<p><a href="https://github.com/SKULLFIRE07/cortex-memory">github</a></p>
+<p><strong>Capabilities:</strong> Capture project decisions, patterns, and context across coding sessions · Persist and retrieve multi-layer project memory · Inject relevant memory into new assistant sessions</p>
+<p><strong>Interfaces:</strong> VS Code extension · CLI · MCP server</p>
+</div>
+
 ### CorvinOS
 <div><a href="https://github.com/CorvinLabs/CorvinOS"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/CorvinLabs/CorvinOS"><img src="https://img.shields.io/github/stars/CorvinLabs/CorvinOS?style=social" alt="GitHub stars"></a></div>
 <p>🤖 AI Agents | 💻 Local Inference | 💻 Operating System (OS)</p>
