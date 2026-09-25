@@ -1735,6 +1735,17 @@ Here's an awesome list of AI agents:
 <p><strong>Interfaces:</strong> Web application · REST API · MCP server</p>
 </div>
 
+### TealTiger
+<div><a href="https://github.com/agentguard-ai/tealtiger"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/agentguard-ai/tealtiger"><img src="https://img.shields.io/github/stars/agentguard-ai/tealtiger?style=social" alt="GitHub stars"></a></div>
+<p>🛡️ Safety Guardrails (Safeguarding)</p>
+
+<p>An open-source security and governance SDK for AI applications, providing deterministic policy enforcement, guardrails, cost tracking, and audit evidence.</p>
+
+<p><a href="https://github.com/agentguard-ai/tealtiger">github</a></p>
+<p><strong>Capabilities:</strong> Apply deterministic policies and tool allowlists to agent actions · Detect sensitive data and track model usage costs · Produce audit decisions and export governance evidence</p>
+<p><strong>Interfaces:</strong> TypeScript package on npm · Python package on PyPI · MCP servers · Docker sidecar</p>
+</div>
+
 ### The Agentic Leaderboard
 <div><a href="https://github.com/ifyoubuildit/the-agentic-leaderboard-data"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/ifyoubuildit/the-agentic-leaderboard-data"><img src="https://img.shields.io/github/stars/ifyoubuildit/the-agentic-leaderboard-data?style=social" alt="GitHub stars"></a></div>
 <p>📊 Evaluation Frameworks</p>
