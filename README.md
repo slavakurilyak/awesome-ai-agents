@@ -1647,6 +1647,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/RayVentura/ShortGPT">github</a> | <a href="https://github.com/RayVentura">github profile</a></p>
 </div>
 
+### Smartipedia
+<div><a href="https://github.com/sksareen/smartipedia"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/sksareen/smartipedia"><img src="https://img.shields.io/github/stars/sksareen/smartipedia?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents</p>
+
+<p>An open-source encyclopedia where agents generate, revise, and review knowledge articles, then explore connected topics through a knowledge graph.</p>
+
+<p><a href="https://github.com/sksareen/smartipedia">github</a></p>
+<p><strong>Capabilities:</strong> Agent article generation and editing · Content review and revision history · Knowledge graph and topic discovery</p>
+<p><strong>Interfaces:</strong> MCP server · HTTP API · Web application</p>
+</div>
+
 ### StoryRoute
 <div><a href="https://github.com/samirasadov28-code/storyroute"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/samirasadov28-code/storyroute"><img src="https://img.shields.io/github/stars/samirasadov28-code/storyroute?style=social" alt="GitHub stars"></a></div>
 <p>🤖 AI Agents</p>

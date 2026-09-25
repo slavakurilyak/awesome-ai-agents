@@ -4545,6 +4545,33 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "Smartipedia",
+      "project_description": "An open-source encyclopedia where agents generate, revise, and review knowledge articles, then explore connected topics through a knowledge graph.",
+      "project_is_open_source": true,
+      "categories": [
+        "AI Agents"
+      ],
+      "capabilities": [
+        "Agent article generation and editing",
+        "Content review and revision history",
+        "Knowledge graph and topic discovery"
+      ],
+      "interfaces": [
+        "MCP server",
+        "HTTP API",
+        "Web application"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/sksareen/smartipedia",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T13:12:37Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
