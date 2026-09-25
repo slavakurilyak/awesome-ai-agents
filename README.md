@@ -1134,6 +1134,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/arian-gogani/nobulex-registry">github</a></p>
 </div>
 
+### NotFair
+<div><a href="https://github.com/nowork-studio/notfair-plugin"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/nowork-studio/notfair-plugin"><img src="https://img.shields.io/github/stars/nowork-studio/notfair-plugin?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents</p>
+
+<p>Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads, with integrations that read live account and analytics data.</p>
+
+<p><a href="https://github.com/nowork-studio/notfair-plugin">github</a></p>
+<p><strong>Capabilities:</strong> Audit SEO and GEO performance · Analyze and manage Google Ads · Analyze and manage Meta Ads · Review search and web analytics</p>
+<p><strong>Interfaces:</strong> Claude Code skills · Google Ads MCP · Meta Ads MCP · Google Search Console MCP · Google Analytics MCP</p>
+</div>
+
 ### Observatory by The Context Company
 <div><a href="https://github.com/The-Context-Company/observatory"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/The-Context-Company/observatory"><img src="https://img.shields.io/github/stars/The-Context-Company/observatory?style=social" alt="GitHub stars"></a></div>
 <p>👁️ Observability Frameworks</p>

@@ -3846,6 +3846,36 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "NotFair",
+      "project_description": "Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads, with integrations that read live account and analytics data.",
+      "project_is_open_source": true,
+      "capabilities": [
+        "Audit SEO and GEO performance",
+        "Analyze and manage Google Ads",
+        "Analyze and manage Meta Ads",
+        "Review search and web analytics"
+      ],
+      "interfaces": [
+        "Claude Code skills",
+        "Google Ads MCP",
+        "Meta Ads MCP",
+        "Google Search Console MCP",
+        "Google Analytics MCP"
+      ],
+      "categories": [
+        "AI Agents"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/nowork-studio/notfair-plugin",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T16:58:44Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
