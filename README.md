@@ -400,6 +400,17 @@ Here's an awesome list of AI agents:
 <p><strong>Interfaces:</strong> CLI · Python package · TypeScript package · MCP server</p>
 </div>
 
+### APort Agent Guardrails
+<div><a href="https://github.com/aporthq/aport-agent-guardrails"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/aporthq/aport-agent-guardrails"><img src="https://img.shields.io/github/stars/aporthq/aport-agent-guardrails?style=social" alt="GitHub stars"></a></div>
+<p>🛡️ Safety Guardrails (Safeguarding)</p>
+
+<p>APort Agent Guardrails evaluates tool actions before execution and applies configurable authorization policies for agent frameworks, including OpenClaw.</p>
+
+<p><a href="https://github.com/aporthq/aport-agent-guardrails">github</a></p>
+<p><strong>Capabilities:</strong> pre-action authorization · tool call policy enforcement · local and API evaluation</p>
+<p><strong>Interfaces:</strong> Node.js package · Python package</p>
+</div>
+
 ### Arachne
 <div><a href="https://github.com/Strategic-Automation/arachne"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Strategic-Automation/arachne"><img src="https://img.shields.io/github/stars/Strategic-Automation/arachne?style=social" alt="GitHub stars"></a></div>
 <p>🤖 AI Agents | ⚙️ Development Frameworks</p>

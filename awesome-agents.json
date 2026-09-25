@@ -5924,6 +5924,33 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "APort Agent Guardrails",
+      "project_description": "APort Agent Guardrails evaluates tool actions before execution and applies configurable authorization policies for agent frameworks, including OpenClaw.",
+      "project_is_open_source": true,
+      "categories": [
+        "Safety Guardrails (Safeguarding)"
+      ],
+      "capabilities": [
+        "pre-action authorization",
+        "tool call policy enforcement",
+        "local and API evaluation"
+      ],
+      "interfaces": [
+        "Node.js package",
+        "Python package"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/aporthq/aport-agent-guardrails",
+          "stars": null,
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T19:52:00Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
