@@ -1699,6 +1699,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/ollama/ollama">github</a> | <a href="https://github.com/ollama">github profile</a></p>
 </div>
 
+### OMEGA Memory
+<div><a href="https://github.com/omega-memory/omega-memory"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/omega-memory/omega-memory"><img src="https://img.shields.io/github/stars/omega-memory/omega-memory?style=social" alt="GitHub stars"></a></div>
+<p>🧠 Long-Term Memory</p>
+
+<p>A local-first, cross-model memory system that helps AI agents retain context, coordinate, and learn between sessions.</p>
+
+<p><a href="https://github.com/omega-memory/omega-memory">github</a></p>
+<p><strong>Capabilities:</strong> Store and retrieve context across agent sessions · Share memory across coding agents and model providers · Support agent coordination and learning from prior work</p>
+<p><strong>Interfaces:</strong> Python package · CLI · MCP server</p>
+</div>
+
 ### Open Index
 <div><a href="https://github.com/DrDroidLab/open-index"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/DrDroidLab/open-index"><img src="https://img.shields.io/github/stars/DrDroidLab/open-index?style=social" alt="GitHub stars"></a></div>
 <p>🧠 Long-Term Memory</p>
