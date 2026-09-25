@@ -3081,6 +3081,26 @@
         }
       ]
     }
+,
+    {
+      "project": "Orkas",
+      "project_description": "Orkas is a local-first desktop AI team where a commander coordinates specialist agents and local coding-agent runtimes, with support for user-provided model providers.",
+      "project_is_open_source": true,
+      "categories": [
+        "AI Agents",
+        "Operating System (OS)"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/Orkas-AI/Orkas",
+          "stars": null,
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T15:27:43Z",
+          "repository_status": "active"
+        }
+      ]
+    }
   ],
   "categories": [
     {

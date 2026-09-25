@@ -989,6 +989,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/OpenDevin/OpenDevin">github</a> | <a href="https://github.com/OpenDevin">github profile</a></p>
 </div>
 
+### Orkas
+<div><a href="https://github.com/Orkas-AI/Orkas"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Orkas-AI/Orkas"><img src="https://img.shields.io/github/stars/Orkas-AI/Orkas?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents | 💻 Operating System (OS)</p>
+
+<p>Orkas is a local-first desktop AI team where a commander coordinates specialist agents and local coding-agent runtimes, with support for user-provided model providers.</p>
+
+<p><a href="https://github.com/Orkas-AI/Orkas">github</a></p>
+</div>
+
 ### Outlines
 <div><a href="https://github.com/outlines-dev/outlines"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/outlines-dev/outlines"><img src="https://img.shields.io/github/stars/outlines-dev/outlines?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 12,182 stars (Updated: 2025-07-30)</p>
