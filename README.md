@@ -754,6 +754,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://www.helicone.ai/">website</a> | <a href="https://github.com/Helicone/helicone">github</a></p>
 </div>
 
+### Hermes Plant
+<div><a href="https://github.com/JesseGdotIO/hermesplant-mcp-server"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/JesseGdotIO/hermesplant-mcp-server"><img src="https://img.shields.io/github/stars/JesseGdotIO/hermesplant-mcp-server?style=social" alt="GitHub stars"></a></div>
+<p>🔌 MCP Servers | 🛡️ Safety Guardrails (Safeguarding)</p>
+
+<p>The open-source Hermes Plant MCP server connects agents to action safety and commerce assurance services for shell, Git, SQL, deployment, and x402 workflows.</p>
+
+<p><a href="https://github.com/JesseGdotIO/hermesplant-mcp-server">github</a></p>
+</div>
+
 ### Instructor
 <div><a href="https://github.com/567-labs/instructor"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/567-labs/instructor"><img src="https://img.shields.io/github/stars/567-labs/instructor?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 11,088 stars (Updated: 2025-07-30)</p>

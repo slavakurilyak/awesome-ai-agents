@@ -3720,6 +3720,24 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "Hermes Plant",
+      "project_description": "The open-source Hermes Plant MCP server connects agents to action safety and commerce assurance services for shell, Git, SQL, deployment, and x402 workflows.",
+      "project_is_open_source": true,
+      "categories": [
+        "Safety Guardrails (Safeguarding)",
+        "MCP Servers"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/JesseGdotIO/hermesplant-mcp-server",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T16:34:11Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
