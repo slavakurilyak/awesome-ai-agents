@@ -5213,6 +5213,35 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "AgentStamp",
+      "project_description": "An agent identity and trust platform providing signed credentials, registry discovery, reputation scoring, and verification tools.",
+      "project_is_open_source": true,
+      "capabilities": [
+        "Register agents and issue signed identity certificates",
+        "Discover and evaluate agents through a public registry",
+        "Verify agent trust scores and compliance signals"
+      ],
+      "interfaces": [
+        "REST API",
+        "MCP server",
+        "GitHub Action",
+        "TypeScript SDK"
+      ],
+      "categories": [
+        "Safety Guardrails (Safeguarding)",
+        "Standardization"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/vinaybhosle/agentstamp",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T19:12:00Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
