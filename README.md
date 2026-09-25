@@ -1514,6 +1514,17 @@ Here's an awesome list of AI agents:
 <p><strong>Interfaces:</strong> CLI · Web dashboard · npm package</p>
 </div>
 
+### Operant MCP
+<div><a href="https://github.com/operantlabs/operant-mcp"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/operantlabs/operant-mcp"><img src="https://img.shields.io/github/stars/operantlabs/operant-mcp?style=social" alt="GitHub stars"></a></div>
+<p>🔧 Tool Calling (Function Calling)</p>
+
+<p>An open-source MCP server that gives AI agents a toolkit for security testing, network forensics, and vulnerability assessment.</p>
+
+<p><a href="https://github.com/operantlabs/operant-mcp">github</a></p>
+<p><strong>Capabilities:</strong> Run security tests and vulnerability assessments through MCP tools · Analyze network captures and memory artifacts · Provide reconnaissance and malware-analysis utilities</p>
+<p><strong>Interfaces:</strong> MCP server · npm package</p>
+</div>
+
 ### Orkas
 <div><a href="https://github.com/Orkas-AI/Orkas"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Orkas-AI/Orkas"><img src="https://img.shields.io/github/stars/Orkas-AI/Orkas?style=social" alt="GitHub stars"></a></div>
 <p>🤖 AI Agents | 💻 Operating System (OS)</p>

@@ -4636,6 +4636,26 @@
         "repository_status": "active"
       }]
     }
+ ,
+    {
+      "project": "Operant MCP",
+      "project_description": "An open-source MCP server that gives AI agents a toolkit for security testing, network forensics, and vulnerability assessment.",
+      "project_is_open_source": true,
+      "categories": ["Tool Calling (Function Calling)"],
+      "capabilities": [
+        "Run security tests and vulnerability assessments through MCP tools",
+        "Analyze network captures and memory artifacts",
+        "Provide reconnaissance and malware-analysis utilities"
+      ],
+      "interfaces": ["MCP server", "npm package"],
+      "sources": [{
+        "source": "github",
+        "source_url": "https://github.com/operantlabs/operant-mcp",
+        "stars_last_updated": null,
+        "repository_checked_at": "2026-09-25T18:16:13Z",
+        "repository_status": "active"
+      }]
+    }
   ],
   "categories": [
     {
