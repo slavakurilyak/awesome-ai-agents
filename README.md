@@ -2642,6 +2642,15 @@ Here's an awesome list of AI agents:
 <p><strong>Interfaces:</strong> macOS desktop app · iOS companion app · Claude Code and Codex</p>
 </div>
 
+### SVRF
+<div><a href="https://github.com/nybarius/SVRF"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/nybarius/SVRF"><img src="https://img.shields.io/github/stars/nybarius/SVRF?style=social" alt="GitHub stars"></a></div>
+<p>🔌 MCP Servers</p>
+
+<p>SVRF is a merge train that batches, gates and lands pull requests for repositories where coding agents open pull requests faster than CI can gate them one by one; it ships an MCP server (svrf mcp) so an agent whose pull request is held can query why and fix it itself.</p>
+
+<p><a href="https://github.com/nybarius/SVRF">github</a></p>
+</div>
+
 ### Swarms
 <div><a href="https://github.com/kyegomez/swarms/"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/kyegomez/swarms/"><img src="https://img.shields.io/github/stars/kyegomez/swarms?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 7,206 stars · Growth: today +5 stars (+0.1%)</p>

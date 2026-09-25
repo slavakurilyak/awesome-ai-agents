@@ -6559,6 +6559,23 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "SVRF",
+      "project_description": "SVRF is a merge train that batches, gates and lands pull requests for repositories where coding agents open pull requests faster than CI can gate them one by one; it ships an MCP server (svrf mcp) so an agent whose pull request is held can query why and fix it itself.",
+      "project_is_open_source": true,
+      "categories": [
+        "MCP Servers"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/nybarius/SVRF",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T22:20:53Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
