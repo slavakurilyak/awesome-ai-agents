@@ -5517,6 +5517,34 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "SAGE",
+      "project_description": "Persistent, consensus-validated memory infrastructure for AI agents, with confidence scoring and natural memory decay.",
+      "project_is_open_source": true,
+      "capabilities": [
+        "Persist institutional memory across AI conversations",
+        "Validate memory updates through signed votes and multi-validator consensus",
+        "Track confidence and decay memory over time"
+      ],
+      "interfaces": [
+        "Desktop app",
+        "Go CLI",
+        "MCP server"
+      ],
+      "categories": [
+        "Long-Term Memory",
+        "Safety Guardrails (Safeguarding)"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/l33tdawg/sage",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T19:36:00Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [

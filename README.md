@@ -1986,6 +1986,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/yanghao1143/rust-norion">github</a></p>
 </div>
 
+### SAGE
+<div><a href="https://github.com/l33tdawg/sage"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/l33tdawg/sage"><img src="https://img.shields.io/github/stars/l33tdawg/sage?style=social" alt="GitHub stars"></a></div>
+<p>🧠 Long-Term Memory | 🛡️ Safety Guardrails (Safeguarding)</p>
+
+<p>Persistent, consensus-validated memory infrastructure for AI agents, with confidence scoring and natural memory decay.</p>
+
+<p><a href="https://github.com/l33tdawg/sage">github</a></p>
+<p><strong>Capabilities:</strong> Persist institutional memory across AI conversations · Validate memory updates through signed votes and multi-validator consensus · Track confidence and decay memory over time</p>
+<p><strong>Interfaces:</strong> Desktop app · Go CLI · MCP server</p>
+</div>
+
 ### SandBase Harness
 <div><a href="https://github.com/sandbaseai/sandbase-harness"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/sandbaseai/sandbase-harness"><img src="https://img.shields.io/github/stars/sandbaseai/sandbase-harness?style=social" alt="GitHub stars"></a></div>
 <p>🤖 AI Agents | ⚙️ Development Frameworks</p>
