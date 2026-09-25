@@ -925,6 +925,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/farizrahman4u/loopgpt">github</a> | <a href="https://github.com/farizrahman4u">github profile</a></p>
 </div>
 
+### lucinate
+<div><a href="https://github.com/lucinate-ai/lucinate"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/lucinate-ai/lucinate"><img src="https://img.shields.io/github/stars/lucinate-ai/lucinate?style=social" alt="GitHub stars"></a></div>
+<p>💻 Terminal-Friendly</p>
+
+<p>lucinate is a terminal-native AI chat client for OpenClaw, Hermes Agent, Ollama, and OpenAI-compatible backends, with routines and local skill management.</p>
+
+<p><a href="https://github.com/lucinate-ai/lucinate">github</a></p>
+</div>
+
 ### Marvin
 <div><a href="https://github.com/PrefectHQ/marvin/"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/PrefectHQ/marvin/"><img src="https://img.shields.io/github/stars/PrefectHQ/marvin?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 5,830 stars (Updated: 2025-07-30)</p>

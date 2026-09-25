@@ -3518,6 +3518,25 @@
         }
       ]
     }
+,
+    {
+      "project": "lucinate",
+      "project_description": "lucinate is a terminal-native AI chat client for OpenClaw, Hermes Agent, Ollama, and OpenAI-compatible backends, with routines and local skill management.",
+      "project_is_open_source": true,
+      "categories": [
+        "Terminal-Friendly"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/lucinate-ai/lucinate",
+          "stars": null,
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T16:01:27Z",
+          "repository_status": "active"
+        }
+      ]
+    }
   ],
   "categories": [
     {
