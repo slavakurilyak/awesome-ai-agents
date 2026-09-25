@@ -1084,6 +1084,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/HNF-FRN/Reel-watcher-telegram-Agent">github</a></p>
 </div>
 
+### rote
+<div><a href="https://github.com/trevhud/rote"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/trevhud/rote"><img src="https://img.shields.io/github/stars/trevhud/rote?style=social" alt="GitHub stars"></a></div>
+<p>🔄 Flow Engineering (Platform Engineering)</p>
+
+<p>rote compiles proven agent skills into typed, deterministic Python or TypeScript pipelines, with tests for fixed steps and typed LLM-judge signatures for work requiring judgment.</p>
+
+<p><a href="https://github.com/trevhud/rote">github</a></p>
+</div>
+
 ### rust-norion
 <div><a href="https://github.com/yanghao1143/rust-norion"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/yanghao1143/rust-norion"><img src="https://img.shields.io/github/stars/yanghao1143/rust-norion?style=social" alt="GitHub stars"></a></div>
 <p>🤖 AI Agents | ⚙️ Development Frameworks</p>

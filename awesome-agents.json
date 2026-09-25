@@ -3120,6 +3120,25 @@
         }
       ]
     }
+,
+    {
+      "project": "rote",
+      "project_description": "rote compiles proven agent skills into typed, deterministic Python or TypeScript pipelines, with tests for fixed steps and typed LLM-judge signatures for work requiring judgment.",
+      "project_is_open_source": true,
+      "categories": [
+        "Flow Engineering (Platform Engineering)"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/trevhud/rote",
+          "stars": null,
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T15:30:52Z",
+          "repository_status": "active"
+        }
+      ]
+    }
   ],
   "categories": [
     {
