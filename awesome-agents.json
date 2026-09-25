@@ -4736,6 +4736,26 @@
         "repository_status": "active"
       }]
     }
+ ,
+    {
+      "project": "AgentField",
+      "project_description": "An open-source control plane for building and operating AI agents as callable services, with routing, coordination, asynchronous execution, memory, and observability.",
+      "project_is_open_source": true,
+      "categories": ["AI Agents", "Development Frameworks", "Observability Frameworks"],
+      "capabilities": [
+        "Expose agent functions as REST endpoints for services and other agents",
+        "Coordinate multi-agent workflows with fan-out, queues, and retries",
+        "Operate agent backends with memory and execution observability"
+      ],
+      "interfaces": ["Python SDK", "Go SDK", "TypeScript SDK", "REST API", "Control plane"],
+      "sources": [{
+        "source": "github",
+        "source_url": "https://github.com/Agent-Field/agentfield",
+        "stars_last_updated": null,
+        "repository_checked_at": "2026-09-25T18:27:09Z",
+        "repository_status": "active"
+      }]
+    }
   ],
   "categories": [
     {
