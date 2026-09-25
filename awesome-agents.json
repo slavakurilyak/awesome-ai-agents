@@ -4456,6 +4456,26 @@
         "repository_status": "active"
       }]
     }
+ ,
+    {
+      "project": "Cycles",
+      "project_description": "A self-hosted runtime authority for AI agents that enforces budgets, risk limits, and tool-action policies before execution through a concurrency-safe reservation lifecycle.",
+      "project_is_open_source": true,
+      "categories": ["AI Agents", "Safety Guardrails (Safeguarding)", "Standardization"],
+      "capabilities": [
+        "Enforce agent spend budgets and action policies before execution",
+        "Reserve, commit, or release usage with concurrency-safe controls",
+        "Provide tenant-isolated governance through the Cycles Protocol"
+      ],
+      "interfaces": ["Java server", "REST API", "MCP server", "Docker"],
+      "sources": [{
+        "source": "github",
+        "source_url": "https://github.com/runcycles/cycles-server",
+        "stars_last_updated": null,
+        "repository_checked_at": "2026-09-25T17:58:48Z",
+        "repository_status": "active"
+      }]
+    }
   ],
   "categories": [
     {

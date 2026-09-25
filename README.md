@@ -648,6 +648,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/crewAIInc/crewAI">github</a> | <a href="https://github.com/joaomdmoura">github profile</a></p>
 </div>
 
+### Cycles
+<div><a href="https://github.com/runcycles/cycles-server"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/runcycles/cycles-server"><img src="https://img.shields.io/github/stars/runcycles/cycles-server?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents | 🛡️ Safety Guardrails (Safeguarding) | 📏 Standardization</p>
+
+<p>A self-hosted runtime authority for AI agents that enforces budgets, risk limits, and tool-action policies before execution through a concurrency-safe reservation lifecycle.</p>
+
+<p><a href="https://github.com/runcycles/cycles-server">github</a></p>
+<p><strong>Capabilities:</strong> Enforce agent spend budgets and action policies before execution · Reserve, commit, or release usage with concurrency-safe controls · Provide tenant-isolated governance through the Cycles Protocol</p>
+<p><strong>Interfaces:</strong> Java server · REST API · MCP server · Docker</p>
+</div>
+
 ### DB-GPT
 <div><a href="https://github.com/eosphoros-ai/DB-GPT"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/eosphoros-ai/DB-GPT"><img src="https://img.shields.io/github/stars/eosphoros-ai/DB-GPT?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 17,056 stars (Updated: 2025-07-30)</p>
