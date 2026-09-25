@@ -3062,6 +3062,25 @@
         }
       ]
     }
+,
+    {
+      "project": "AIActGuard",
+      "project_description": "AIActGuard provides EU AI Act compliance middleware for agentic AI, with audit trails, risk classification, and human-approval gates integrated into existing agent frameworks, plus tools for drafting supporting documentation.",
+      "project_is_open_source": true,
+      "categories": [
+        "Safety Guardrails (Safeguarding)"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/NavikkumarModi/AIActGuard",
+          "stars": null,
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T15:26:18Z",
+          "repository_status": "active"
+        }
+      ]
+    }
   ],
   "categories": [
     {

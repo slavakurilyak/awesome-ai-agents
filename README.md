@@ -161,6 +161,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/e2b-dev/ai-artifacts">github</a> | <a href="https://www.reddit.com/r/ClaudeAI/comments/1dmy6y2/open_source_version_of_anthropics_artifacts_ui/">reddit announcement</a> | <a href="https://github.com/e2b-dev/ai-artifacts">github</a></p>
 </div>
 
+### AIActGuard
+<div><a href="https://github.com/NavikkumarModi/AIActGuard"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/NavikkumarModi/AIActGuard"><img src="https://img.shields.io/github/stars/NavikkumarModi/AIActGuard?style=social" alt="GitHub stars"></a></div>
+<p>🛡️ Safety Guardrails (Safeguarding)</p>
+
+<p>AIActGuard provides EU AI Act compliance middleware for agentic AI, with audit trails, risk classification, and human-approval gates integrated into existing agent frameworks, plus tools for drafting supporting documentation.</p>
+
+<p><a href="https://github.com/NavikkumarModi/AIActGuard">github</a></p>
+</div>
+
 ### Aider
 <div><a href="https://github.com/paul-gauthier/aider"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/paul-gauthier/aider"><img src="https://img.shields.io/github/stars/paul-gauthier/aider?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 36,185 stars (Updated: 2025-07-30)</p>
