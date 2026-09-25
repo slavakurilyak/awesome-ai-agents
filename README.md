@@ -35,11 +35,11 @@ According to [Andrew Ng (@andrewyng)](https://github.com/andrewyng):
 <li><a href="https://github.com/langchain-ai/langchain"><strong>LangChain</strong></a> - 112,549 stars (Updated: 2025-07-30)<br>LangChain is a framework enabling context-aware reasoning applications with integrated libraries, templates, and developer tools</li>
 <li><a href="https://github.com/langchain-ai/langchain/"><strong>LangChain Tools</strong></a> - 112,549 stars (Updated: 2025-07-30)<br>Langchain integrates various providers like Anthropic, AWS, and OpenAI, and offers tools for components such as LLMs, chat models, and data analysis, supporting functionalities from Alpha Vantage to YouTube</li>
 <li><a href="https://github.com/lobehub/lobehub"><strong>Lobe Chat</strong></a> - 63,923 stars (Updated: 2025-07-30)<br>Lobe Chat is an open-source UI framework for building ChatGPT/LLM-based chat applications, featuring modern design, speech synthesis, multi-modal support, extensible plugins, and free one-click deployment for various AI agents</li>
-<li><a href="https://github.com/OpenDevin/OpenDevin"><strong>OpenDevin</strong></a> - 61,429 stars (Updated: 2025-07-30)<br>OpenDevin is an open-source initiative aimed at replicating and enhancing the autonomous AI software engineer Devin, focusing on collaboration and complex task execution in software development, emphasizing its relevance to advancing agentic AI technologies</li>
 <li><a href="https://github.com/OpenInterpreter/open-interpreter"><strong>Open Interpreter</strong></a> - 60,095 stars (Updated: 2025-07-30)<br>Open Interpreter is a coding agent enabling language models to execute code locally, facilitating natural-language interaction with your computer's capabilities, overcoming limitations of hosted solutions like internet access and package restrictions. It features interactive and programmatic chats, system message customization, and can control your computer's keyboard and mouse, allowing for enhanced control and flexibility in development environments</li>
 <li><a href="https://github.com/OpenInterpreter/open-interpreter"><strong>Open Interpreter</strong></a> - 60,095 stars (Updated: 2025-07-30)<br>Open Interpreter is a coding agent enabling language models to execute code locally, facilitating natural-language interaction with your computer's capabilities, overcoming limitations of hosted solutions like internet access and package restrictions. It features interactive and programmatic chats, system message customization, and can control your computer's keyboard and mouse, allowing for enhanced control and flexibility in development environments</li>
 <li><a href="https://github.com/zylon-ai/private-gpt/"><strong>PrivateGPT</strong></a> - 56,373 stars (Updated: 2025-07-30)<br>PrivateGPT is a secure, offline-capable AI tool for querying documents with Large Language Models, offering high-level and low-level APIs for privacy-conscious, context-aware application development</li>
 <li><a href="https://github.com/microsoft/autogen"><strong>AutoGen by Microsoft</strong></a> - 48,077 stars (Updated: 2025-07-30)<br>AutoGen is a multi-agent conversation framework facilitating the development of next-gen LLM applications, highlighted by various accomplishments and offering enhanced LLM inferences, customizable agents, and comprehensive documentation</li>
+<li><a href="https://github.com/microsoft/autogen"><strong>AutoGen Studio by Microsoft</strong></a> - 48,077 stars (Updated: 2025-07-30)<br>AutoGen Studio 2.0 is Microsoft's advanced AI development tool, offering a user-friendly interface, powerful Python API, and comprehensive features for creating and controlling AI agents and workflows</li>
 </ol>
 
 ## 📈 Fastest Relative 7-Day Star Growth (Excluding Top 10; 100+ stars)
@@ -149,6 +149,15 @@ Here's an awesome list of AI agents:
 <p>AGiXT is an advanced AI Automation Platform designed to enhance AI instruction management and task execution across various providers, incorporating features like adaptive memory, smart instruct, and a versatile plugin system to push the boundaries of AI technology towards achieving Artificial General Intelligence (AGI)</p>
 
 <p><a href="https://github.com/Josh-XT/AGiXT">github</a> | <a href="https://agixt.com/">website</a></p>
+</div>
+
+### Agno
+<div><a href="https://github.com/agno-agi/agno"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/agno-agi/agno"><img src="https://img.shields.io/github/stars/agno-agi/agno?style=social" alt="GitHub stars"></a></div>
+<p>⚙️ Development Frameworks</p>
+
+<p>Agno is a model-agnostic framework for building multi-agent systems with memory, knowledge, and reasoning.</p>
+
+<p><a href="https://github.com/agno-agi/agno">github</a></p>
 </div>
 
 ### AI SDK by Vercel
@@ -295,6 +304,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/chaitin/baizhi-agent-toolkit">github</a></p>
 </div>
 
+### BAML
+<div><a href="https://github.com/BoundaryML/baml"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/BoundaryML/baml"><img src="https://img.shields.io/github/stars/BoundaryML/baml?style=social" alt="GitHub stars"></a></div>
+<p>🏗️ Structured Outputs</p>
+
+<p>BAML is a domain-specific language for building typed LLM functions with structured outputs and streaming.</p>
+
+<p><a href="https://github.com/BoundaryML/baml">github</a></p>
+</div>
+
 ### BasedAgents
 <div><a href="https://github.com/maxfain/basedagents"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/maxfain/basedagents"><img src="https://img.shields.io/github/stars/maxfain/basedagents?style=social" alt="GitHub stars"></a></div>
 <p>🤖 AI Agents</p>
@@ -343,6 +361,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/Blave-TW/blave-agent">github</a></p>
 <p><strong>Capabilities:</strong> Agent-assisted strategy development · Backtesting and robustness analysis · Deterministic trading automation</p>
 <p><strong>Interfaces:</strong> macOS desktop app · Claude Code and Codex integration</p>
+</div>
+
+### browser-use
+<div><a href="https://github.com/browser-use/browser-use"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/browser-use/browser-use"><img src="https://img.shields.io/github/stars/browser-use/browser-use?style=social" alt="GitHub stars"></a></div>
+<p>🌐 Web Browsing Frameworks</p>
+
+<p>browser-use lets AI agents interact with websites through a browser using page structure and vision.</p>
+
+<p><a href="https://github.com/browser-use/browser-use">github</a></p>
 </div>
 
 ### BrowsingAgent by Agency Swarm
@@ -402,6 +429,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/OpenBMB/ChatDev">github</a> | <a href="https://github.com/OpenBMB">github profile</a></p>
 </div>
 
+### Claude Agent SDK
+<div><a href="https://github.com/anthropics/claude-agent-sdk-python"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/anthropics/claude-agent-sdk-python"><img src="https://img.shields.io/github/stars/anthropics/claude-agent-sdk-python?style=social" alt="GitHub stars"></a></div>
+<p>⚙️ Development Frameworks</p>
+
+<p>Anthropic's Python SDK for building agents with Claude using the Claude Code harness.</p>
+
+<p><a href="https://github.com/anthropics/claude-agent-sdk-python">github</a></p>
+</div>
+
 ### ClawBench
 <div><a href="https://github.com/TIGER-AI-Lab/ClawBench"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/TIGER-AI-Lab/ClawBench"><img src="https://img.shields.io/github/stars/TIGER-AI-Lab/ClawBench?style=social" alt="GitHub stars"></a></div>
 <p>📊 Evaluation Frameworks</p>
@@ -458,6 +494,15 @@ Here's an awesome list of AI agents:
 <p>Continue is an open-source autopilot plugin for VS Code and JetBrains, enhancing coding with LLMs through features like task and tab autocomplete, natural language edits, file generation, and customization options, available under the Apache 2.0 license</p>
 
 <p><a href="https://github.com/continuedev/continue">github</a> | <a href="https://continue.dev">website</a></p>
+</div>
+
+### Crawl4AI
+<div><a href="https://github.com/unclecode/crawl4ai"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/unclecode/crawl4ai"><img src="https://img.shields.io/github/stars/unclecode/crawl4ai?style=social" alt="GitHub stars"></a></div>
+<p>🌐 Web Browsing Frameworks</p>
+
+<p>Crawl4AI is an open-source web crawler that produces Markdown and structured data for AI applications.</p>
+
+<p><a href="https://github.com/unclecode/crawl4ai">github</a></p>
 </div>
 
 ### crewAI by João Moura
@@ -548,6 +593,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/Mafengwo292/evo-ai">github</a></p>
 </div>
 
+### Firecrawl
+<div><a href="https://github.com/firecrawl/firecrawl"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/firecrawl/firecrawl"><img src="https://img.shields.io/github/stars/firecrawl/firecrawl?style=social" alt="GitHub stars"></a></div>
+<p>🌐 Web Browsing Frameworks</p>
+
+<p>Firecrawl turns websites into Markdown and structured data through crawl, scrape, and extract APIs.</p>
+
+<p><a href="https://github.com/firecrawl/firecrawl">github</a></p>
+</div>
+
 ### Flowise
 <div><a href="https://github.com/FlowiseAI/Flowise"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/FlowiseAI/Flowise"><img src="https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 42,100 stars (Updated: 2025-07-30)</p>
@@ -574,6 +628,15 @@ Here's an awesome list of AI agents:
 <p>GitHub's official MCP server lets AI agents work with repositories, issues, pull requests, Actions, and code security through the Model Context Protocol.</p>
 
 <p><a href="https://github.com/github/github-mcp-server">github</a></p>
+</div>
+
+### Google ADK
+<div><a href="https://github.com/google/adk-python"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/google/adk-python"><img src="https://img.shields.io/github/stars/google/adk-python?style=social" alt="GitHub stars"></a></div>
+<p>⚙️ Development Frameworks</p>
+
+<p>Google's open-source Agent Development Kit for building, evaluating, and deploying multi-agent systems.</p>
+
+<p><a href="https://github.com/google/adk-python">github</a></p>
 </div>
 
 ### GPT Computer Assistant
@@ -863,6 +926,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/PrefectHQ/marvin/">github</a> | <a href="https://askmarvin.ai/">website</a></p>
 </div>
 
+### Mastra
+<div><a href="https://github.com/mastra-ai/mastra"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/mastra-ai/mastra"><img src="https://img.shields.io/github/stars/mastra-ai/mastra?style=social" alt="GitHub stars"></a></div>
+<p>⚙️ Development Frameworks</p>
+
+<p>Mastra is a TypeScript framework for building AI agents, workflows, RAG applications, and evaluations.</p>
+
+<p><a href="https://github.com/mastra-ai/mastra">github</a></p>
+</div>
+
 ### mem0
 <div><a href="https://github.com/mem0ai/mem0"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/mem0ai/mem0"><img src="https://img.shields.io/github/stars/mem0ai/mem0?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 37,574 stars (Updated: 2025-07-30)</p>
@@ -893,6 +965,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/arcee-ai/mergekit">github</a></p>
 </div>
 
+### Microsoft Agent Framework
+<div><a href="https://github.com/microsoft/agent-framework"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/microsoft/agent-framework"><img src="https://img.shields.io/github/stars/microsoft/agent-framework?style=social" alt="GitHub stars"></a></div>
+<p>⚙️ Development Frameworks</p>
+
+<p>Microsoft's framework for building AI agents and workflows, combining capabilities from AutoGen and Semantic Kernel.</p>
+
+<p><a href="https://github.com/microsoft/agent-framework">github</a></p>
+</div>
+
 ### Mnemoverse
 <div><a href="https://github.com/mnemoverse/mcp-memory-server"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/mnemoverse/mcp-memory-server"><img src="https://img.shields.io/github/stars/mnemoverse/mcp-memory-server?style=social" alt="GitHub stars"></a></div>
 <p>🧠 Long-Term Memory</p>
@@ -909,6 +990,15 @@ Here's an awesome list of AI agents:
 <p>Moching is a desktop AI agent for controlling a PC, with screen perception, browser and Office automation, and native tools.</p>
 
 <p><a href="https://github.com/moching-ai-dev/moching">github</a></p>
+</div>
+
+### Model Context Protocol
+<div><a href="https://github.com/modelcontextprotocol/modelcontextprotocol"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/modelcontextprotocol/modelcontextprotocol"><img src="https://img.shields.io/github/stars/modelcontextprotocol/modelcontextprotocol?style=social" alt="GitHub stars"></a></div>
+<p>📏 Standardization | 🔧 Tool Calling (Function Calling)</p>
+
+<p>An open protocol standard for connecting AI applications to tools and data sources through a client-server interface.</p>
+
+<p><a href="https://github.com/modelcontextprotocol/modelcontextprotocol">github</a></p>
 </div>
 
 ### NeMo Guardrails
@@ -1015,14 +1105,22 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/the-open-agent/openagent">github</a></p>
 </div>
 
-### OpenDevin
-<div><a href="https://github.com/OpenDevin/OpenDevin"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/OpenDevin/OpenDevin"><img src="https://img.shields.io/github/stars/OpenDevin/OpenDevin?style=social" alt="GitHub stars"></a></div>
-<p>⭐ 61,429 stars (Updated: 2025-07-30)</p>
+### OpenAI Agents SDK
+<div><a href="https://github.com/openai/openai-agents-python"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/openai/openai-agents-python"><img src="https://img.shields.io/github/stars/openai/openai-agents-python?style=social" alt="GitHub stars"></a></div>
+<p>⚙️ Development Frameworks</p>
+
+<p>OpenAI's framework for building agent workflows with tools, handoffs, guardrails, sessions, and tracing.</p>
+
+<p><a href="https://github.com/openai/openai-agents-python">github</a></p>
+</div>
+
+### OpenHands (formerly OpenDevin)
+<div><a href="https://github.com/OpenHands/OpenHands"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/OpenHands/OpenHands"><img src="https://img.shields.io/github/stars/OpenHands/OpenHands?style=social" alt="GitHub stars"></a></div>
 <p>🤖 AI Agents</p>
 
-<p>OpenDevin is an open-source initiative aimed at replicating and enhancing the autonomous AI software engineer Devin, focusing on collaboration and complex task execution in software development, emphasizing its relevance to advancing agentic AI technologies</p>
+<p>OpenHands is an open-source software development agent platform that can edit code, run commands, and interact with tools.</p>
 
-<p><a href="https://github.com/OpenDevin/OpenDevin">github</a> | <a href="https://github.com/OpenDevin">github profile</a></p>
+<p><a href="https://github.com/OpenHands/OpenHands">github</a></p>
 </div>
 
 ### Orkas
@@ -1189,6 +1287,24 @@ Here's an awesome list of AI agents:
 <p><strong>Interfaces:</strong> MCP server · HTTP API · Web application</p>
 </div>
 
+### smolagents
+<div><a href="https://github.com/huggingface/smolagents"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/huggingface/smolagents"><img src="https://img.shields.io/github/stars/huggingface/smolagents?style=social" alt="GitHub stars"></a></div>
+<p>⚙️ Development Frameworks | 💻 Terminal-Friendly</p>
+
+<p>Hugging Face's lightweight agent framework, including code agents that write and execute Python actions.</p>
+
+<p><a href="https://github.com/huggingface/smolagents">github</a></p>
+</div>
+
+### Stagehand
+<div><a href="https://github.com/browserbase/stagehand"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/browserbase/stagehand"><img src="https://img.shields.io/github/stars/browserbase/stagehand?style=social" alt="GitHub stars"></a></div>
+<p>🌐 Web Browsing Frameworks</p>
+
+<p>Stagehand adds natural-language act, extract, and observe APIs to Playwright for browser automation.</p>
+
+<p><a href="https://github.com/browserbase/stagehand">github</a></p>
+</div>
+
 ### stipend.sh
 <div><a href="https://github.com/stipend-sh/stipend"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/stipend-sh/stipend"><img src="https://img.shields.io/github/stars/stipend-sh/stipend?style=social" alt="GitHub stars"></a></div>
 <p>🔧 Tool Calling (Function Calling)</p>
@@ -1207,6 +1323,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/samirasadov28-code/storyroute">github</a></p>
 <p><strong>Capabilities:</strong> GPS-aware landmark discovery · LLM-generated audio stories · Text-to-speech narration</p>
 <p><strong>Interfaces:</strong> Progressive web app</p>
+</div>
+
+### Strands Agents
+<div><a href="https://github.com/strands-agents/harness-sdk"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/strands-agents/harness-sdk"><img src="https://img.shields.io/github/stars/strands-agents/harness-sdk?style=social" alt="GitHub stars"></a></div>
+<p>⚙️ Development Frameworks</p>
+
+<p>AWS's model-driven SDK for building agents that use tools through a model-directed loop.</p>
+
+<p><a href="https://github.com/strands-agents/harness-sdk">github</a></p>
 </div>
 
 ### Strata

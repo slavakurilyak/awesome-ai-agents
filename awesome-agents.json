@@ -85,8 +85,8 @@
       ]
     },
     {
-      "project": "OpenDevin",
-      "project_description": "OpenDevin is an open-source initiative aimed at replicating and enhancing the autonomous AI software engineer Devin, focusing on collaboration and complex task execution in software development, emphasizing its relevance to advancing agentic AI technologies",
+      "project": "OpenHands (formerly OpenDevin)",
+      "project_description": "OpenHands is an open-source software development agent platform that can edit code, run commands, and interact with tools.",
       "project_is_open_source": true,
       "categories": [
         "AI Agents"
@@ -94,17 +94,11 @@
       "sources": [
         {
           "source": "github",
-          "source_url": "https://github.com/OpenDevin/OpenDevin",
-          "stars": 61429,
-          "stars_last_updated": "2025-07-30T17:24:09.008997",
-          "repository_checked_at": "2026-09-24T12:52:01Z",
-          "repository_status": "active"
-        },
-        {
-          "source": "github profile",
-          "source_url": "https://github.com/OpenDevin",
+          "source_url": "https://github.com/OpenHands/OpenHands",
+          "stars": null,
           "stars_last_updated": null,
-          "stars": null
+          "repository_checked_at": "2026-09-25T15:51:46Z",
+          "repository_status": "active"
         }
       ]
     },
@@ -3228,6 +3222,260 @@
           "stars": null,
           "stars_last_updated": null,
           "repository_checked_at": "2026-09-25T15:45:04Z",
+          "repository_status": "active"
+        }
+      ]
+    },
+    {
+      "project": "Claude Agent SDK",
+      "project_description": "Anthropic's Python SDK for building agents with Claude using the Claude Code harness.",
+      "project_is_open_source": true,
+      "categories": [
+        "Development Frameworks"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/anthropics/claude-agent-sdk-python",
+          "stars": null,
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T15:51:41Z",
+          "repository_status": "active"
+        }
+      ]
+    },
+    {
+      "project": "OpenAI Agents SDK",
+      "project_description": "OpenAI's framework for building agent workflows with tools, handoffs, guardrails, sessions, and tracing.",
+      "project_is_open_source": true,
+      "categories": [
+        "Development Frameworks"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/openai/openai-agents-python",
+          "stars": null,
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T15:51:42Z",
+          "repository_status": "active"
+        }
+      ]
+    },
+    {
+      "project": "Google ADK",
+      "project_description": "Google's open-source Agent Development Kit for building, evaluating, and deploying multi-agent systems.",
+      "project_is_open_source": true,
+      "categories": [
+        "Development Frameworks"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/google/adk-python",
+          "stars": null,
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T15:51:42Z",
+          "repository_status": "active"
+        }
+      ]
+    },
+    {
+      "project": "smolagents",
+      "project_description": "Hugging Face's lightweight agent framework, including code agents that write and execute Python actions.",
+      "project_is_open_source": true,
+      "categories": [
+        "Development Frameworks",
+        "Terminal-Friendly"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/huggingface/smolagents",
+          "stars": null,
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T15:51:43Z",
+          "repository_status": "active"
+        }
+      ]
+    },
+    {
+      "project": "Agno",
+      "project_description": "Agno is a model-agnostic framework for building multi-agent systems with memory, knowledge, and reasoning.",
+      "project_is_open_source": true,
+      "categories": [
+        "Development Frameworks"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/agno-agi/agno",
+          "stars": null,
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T15:51:44Z",
+          "repository_status": "active"
+        }
+      ]
+    },
+    {
+      "project": "Strands Agents",
+      "project_description": "AWS's model-driven SDK for building agents that use tools through a model-directed loop.",
+      "project_is_open_source": true,
+      "categories": [
+        "Development Frameworks"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/strands-agents/harness-sdk",
+          "stars": null,
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T15:51:44Z",
+          "repository_status": "active"
+        }
+      ]
+    },
+    {
+      "project": "Microsoft Agent Framework",
+      "project_description": "Microsoft's framework for building AI agents and workflows, combining capabilities from AutoGen and Semantic Kernel.",
+      "project_is_open_source": true,
+      "categories": [
+        "Development Frameworks"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/microsoft/agent-framework",
+          "stars": null,
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T15:51:45Z",
+          "repository_status": "active"
+        }
+      ]
+    },
+    {
+      "project": "Mastra",
+      "project_description": "Mastra is a TypeScript framework for building AI agents, workflows, RAG applications, and evaluations.",
+      "project_is_open_source": true,
+      "categories": [
+        "Development Frameworks"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/mastra-ai/mastra",
+          "stars": null,
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T15:51:46Z",
+          "repository_status": "active"
+        }
+      ]
+    },
+    {
+      "project": "Model Context Protocol",
+      "project_description": "An open protocol standard for connecting AI applications to tools and data sources through a client-server interface.",
+      "project_is_open_source": true,
+      "categories": [
+        "Standardization",
+        "Tool Calling (Function Calling)"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/modelcontextprotocol/modelcontextprotocol",
+          "stars": null,
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T15:51:47Z",
+          "repository_status": "active"
+        }
+      ]
+    },
+    {
+      "project": "browser-use",
+      "project_description": "browser-use lets AI agents interact with websites through a browser using page structure and vision.",
+      "project_is_open_source": true,
+      "categories": [
+        "Web Browsing Frameworks"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/browser-use/browser-use",
+          "stars": null,
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T15:51:48Z",
+          "repository_status": "active"
+        }
+      ]
+    },
+    {
+      "project": "Crawl4AI",
+      "project_description": "Crawl4AI is an open-source web crawler that produces Markdown and structured data for AI applications.",
+      "project_is_open_source": true,
+      "categories": [
+        "Web Browsing Frameworks"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/unclecode/crawl4ai",
+          "stars": null,
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T15:51:48Z",
+          "repository_status": "active"
+        }
+      ]
+    },
+    {
+      "project": "Firecrawl",
+      "project_description": "Firecrawl turns websites into Markdown and structured data through crawl, scrape, and extract APIs.",
+      "project_is_open_source": true,
+      "categories": [
+        "Web Browsing Frameworks"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/firecrawl/firecrawl",
+          "stars": null,
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T15:51:49Z",
+          "repository_status": "active"
+        }
+      ]
+    },
+    {
+      "project": "Stagehand",
+      "project_description": "Stagehand adds natural-language act, extract, and observe APIs to Playwright for browser automation.",
+      "project_is_open_source": true,
+      "categories": [
+        "Web Browsing Frameworks"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/browserbase/stagehand",
+          "stars": null,
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T15:51:49Z",
+          "repository_status": "active"
+        }
+      ]
+    },
+    {
+      "project": "BAML",
+      "project_description": "BAML is a domain-specific language for building typed LLM functions with structured outputs and streaming.",
+      "project_is_open_source": true,
+      "categories": [
+        "Structured Outputs"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/BoundaryML/baml",
+          "stars": null,
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T15:51:50Z",
           "repository_status": "active"
         }
       ]
