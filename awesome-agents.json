@@ -4572,6 +4572,39 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "InsumerAPI Agent Tools",
+      "project_description": "Open-source MCP and LangChain integrations for calling Insumer’s hosted service to verify on-chain wallet conditions and return signed attestations.",
+      "project_is_open_source": true,
+      "categories": [
+        "AI Agents"
+      ],
+      "capabilities": [
+        "On-chain wallet condition verification",
+        "Cryptographically signed attestations",
+        "Privacy-preserving balance checks"
+      ],
+      "interfaces": [
+        "MCP server",
+        "LangChain toolkit"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/douglasborthwick-crypto/mcp-server-insumer",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T13:19:24Z",
+          "repository_status": "active"
+        },
+        {
+          "source": "github",
+          "source_url": "https://github.com/douglasborthwick-crypto/langchain-insumer",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T13:20:50Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
