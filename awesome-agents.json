@@ -4397,6 +4397,23 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "PolyMind",
+      "project_description": "A web app that monitors Polymarket and Kalshi markets, detects configured price, volume, and wallet signals, and provides LLM analysis of alerts.",
+      "project_is_open_source": true,
+      "categories": [
+        "AI Agents"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/samirasadov28-code/PolyMind",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T08:49:06Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [

@@ -1493,6 +1493,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://pinokio.computer/">website</a> | <a href="https://github.com/pinokiocomputer/pinokio">github</a> | <a href="https://github.com/pinokiocomputer">github profile</a></p>
 </div>
 
+### PolyMind
+<div><a href="https://github.com/samirasadov28-code/PolyMind"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/samirasadov28-code/PolyMind"><img src="https://img.shields.io/github/stars/samirasadov28-code/PolyMind?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents</p>
+
+<p>A web app that monitors Polymarket and Kalshi markets, detects configured price, volume, and wallet signals, and provides LLM analysis of alerts.</p>
+
+<p><a href="https://github.com/samirasadov28-code/PolyMind">github</a></p>
+</div>
+
 ### PraisonAI
 <div><a href="https://github.com/MervinPraison/PraisonAI/"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/MervinPraison/PraisonAI/"><img src="https://img.shields.io/github/stars/MervinPraison/PraisonAI?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 5,237 stars (Updated: 2025-07-30)</p>
