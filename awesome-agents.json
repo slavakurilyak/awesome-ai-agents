@@ -4816,6 +4816,26 @@
         "repository_status": "active"
       }]
     }
+ ,
+    {
+      "project": "Moss",
+      "project_description": "An open-source semantic search runtime for conversational AI agents, combining vector and keyword retrieval, built-in embeddings, metadata filters, and browser WebAssembly support.",
+      "project_is_open_source": true,
+      "categories": ["Long-Term Memory"],
+      "capabilities": [
+        "Index and retrieve agent knowledge with hybrid semantic and keyword search",
+        "Generate embeddings and filter results by metadata",
+        "Run retrieval in browser environments through WebAssembly"
+      ],
+      "interfaces": ["Python SDK", "TypeScript SDK", "Elixir SDK", "C SDK", "WebAssembly"],
+      "sources": [{
+        "source": "github",
+        "source_url": "https://github.com/usemoss/moss",
+        "stars_last_updated": null,
+        "repository_checked_at": "2026-09-25T18:35:20Z",
+        "repository_status": "active"
+      }]
+    }
   ],
   "categories": [
     {
