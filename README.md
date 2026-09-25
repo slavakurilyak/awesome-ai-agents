@@ -1253,6 +1253,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/zylon-ai/private-gpt/">github</a></p>
 </div>
 
+### Project Telos
+<div><a href="https://github.com/HarperZ9/telos"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/HarperZ9/telos"><img src="https://img.shields.io/github/stars/HarperZ9/telos?style=social" alt="GitHub stars"></a></div>
+<p>📊 Evaluation Frameworks | 👁️ Observability Frameworks</p>
+
+<p>Project Telos is a local-first MCP and CLI workbench for inspectable agent workflows, with provenance, routing ledgers, action receipts, context packs, diagnostics, and replayable verification packets.</p>
+
+<p><a href="https://github.com/HarperZ9/telos">github</a></p>
+</div>
+
 ### Pydantic
 <div><a href="https://github.com/pydantic/pydantic"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/pydantic/pydantic"><img src="https://img.shields.io/github/stars/pydantic/pydantic?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 24,701 stars (Updated: 2025-07-30)</p>
