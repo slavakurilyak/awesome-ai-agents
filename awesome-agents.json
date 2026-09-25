@@ -4756,6 +4756,26 @@
         "repository_status": "active"
       }]
     }
+ ,
+    {
+      "project": "Agent Trust Stack MCP Server",
+      "project_description": "An MCP server for AI agents providing cryptographic activity provenance, chain integrity checks, agent identity verification, and reputation tools.",
+      "project_is_open_source": true,
+      "categories": ["AI Agents", "Safety Guardrails (Safeguarding)", "Tool Calling (Function Calling)"],
+      "capabilities": [
+        "Record agent activity in verifiable hash chains",
+        "Anchor chain hashes for external timestamping and verify chain integrity",
+        "Check agent identity and submit or retrieve reputation ratings"
+      ],
+      "interfaces": ["MCP server", "Python package"],
+      "sources": [{
+        "source": "github",
+        "source_url": "https://github.com/alexfleetcommander/agent-trust-stack-mcp",
+        "stars_last_updated": null,
+        "repository_checked_at": "2026-09-25T18:29:15Z",
+        "repository_status": "active"
+      }]
+    }
   ],
   "categories": [
     {
