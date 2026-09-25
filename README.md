@@ -1488,6 +1488,15 @@ Here's an awesome list of AI agents:
 <p><strong>Interfaces:</strong> Voice call · Desktop app · MCP</p>
 </div>
 
+### Tree Ring Memory Framework
+<div><a href="https://github.com/TerminallyLazy/Tree-Ring-Memory"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/TerminallyLazy/Tree-Ring-Memory"><img src="https://img.shields.io/github/stars/TerminallyLazy/Tree-Ring-Memory?style=social" alt="GitHub stars"></a></div>
+<p>🧠 Long-Term Memory</p>
+
+<p>Tree Ring Memory is a framework-agnostic, local-first memory lifecycle for AI agents, with SQLite search, deliberate forgetting, audit logs, consolidation, and runtime adapters.</p>
+
+<p><a href="https://github.com/TerminallyLazy/Tree-Ring-Memory">github</a></p>
+</div>
+
 ### TypeChat
 <div><a href="https://github.com/microsoft/TypeChat"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/microsoft/TypeChat"><img src="https://img.shields.io/github/stars/microsoft/TypeChat?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 8,536 stars (Updated: 2025-07-30)</p>
