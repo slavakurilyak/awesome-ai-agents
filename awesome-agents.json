@@ -394,6 +394,24 @@
       ]
     },
     {
+      "project": "AgentLeak",
+      "project_description": "An open-source privacy evaluation toolkit that analyzes agent traces across tool calls, shared memory, inter-agent messages, and logs, producing redacted reports and CI gates.",
+      "project_is_open_source": true,
+      "categories": [
+        "Evaluation Frameworks"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/yagobski/agentleak",
+          "stars": null,
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T08:05:02Z",
+          "repository_status": "active"
+        }
+      ]
+    },
+    {
       "project": "Baizhi Agent Toolkit",
       "project_description": "The official open-source client integration for Baizhi Cloud's hosted MCP service, with a Gemini CLI extension, registry manifest, and setup guides for web search, webpage retrieval, and structured extraction. The backend remains hosted and requires an API key.",
       "project_is_open_source": true,

@@ -162,6 +162,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/agentlabs-inc/agentlabs">github</a> | <a href="https://www.agentlabs.dev/">website</a> | <a href="https://docs.agentlabs.dev/">docs</a></p>
 </div>
 
+### AgentLeak
+<div><a href="https://github.com/yagobski/agentleak"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/yagobski/agentleak"><img src="https://img.shields.io/github/stars/yagobski/agentleak?style=social" alt="GitHub stars"></a></div>
+<p>📊 Evaluation Frameworks</p>
+
+<p>An open-source privacy evaluation toolkit that analyzes agent traces across tool calls, shared memory, inter-agent messages, and logs, producing redacted reports and CI gates.</p>
+
+<p><a href="https://github.com/yagobski/agentleak">github</a></p>
+</div>
+
 ### AgentOps
 <div><a href="https://github.com/AgentOps-AI/agentops"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/AgentOps-AI/agentops"><img src="https://img.shields.io/github/stars/AgentOps-AI/agentops?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 4,716 stars (Updated: 2025-07-30)</p>
