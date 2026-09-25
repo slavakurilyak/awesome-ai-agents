@@ -3610,6 +3610,25 @@
         }
       ]
     }
+,
+    {
+      "project": "BrowserBash",
+      "project_description": "BrowserBash is a CLI and MCP server for running plain-English browser tests in Chrome and returning deterministic assertions and exit codes for agent-driven UI validation.",
+      "project_is_open_source": true,
+      "categories": [
+        "Evaluation Frameworks"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/PramodDutta/browserbash",
+          "stars": null,
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T16:17:35Z",
+          "repository_status": "active"
+        }
+      ]
+    }
   ],
   "categories": [
     {

@@ -372,6 +372,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/browser-use/browser-use">github</a></p>
 </div>
 
+### BrowserBash
+<div><a href="https://github.com/PramodDutta/browserbash"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/PramodDutta/browserbash"><img src="https://img.shields.io/github/stars/PramodDutta/browserbash?style=social" alt="GitHub stars"></a></div>
+<p>📊 Evaluation Frameworks</p>
+
+<p>BrowserBash is a CLI and MCP server for running plain-English browser tests in Chrome and returning deterministic assertions and exit codes for agent-driven UI validation.</p>
+
+<p><a href="https://github.com/PramodDutta/browserbash">github</a></p>
+</div>
+
 ### BrowsingAgent by Agency Swarm
 <div><a href="https://github.com/VRSEN/agency-swarm/tree/main/agency_swarm/agents/BrowsingAgent"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/VRSEN/agency-swarm/tree/main/agency_swarm/agents/BrowsingAgent"><img src="https://img.shields.io/github/stars/VRSEN/agency-swarm?style=social" alt="GitHub stars"></a></div>
 <p>🤖 AI Agents</p>
