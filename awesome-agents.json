@@ -4238,6 +4238,23 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "Edgrapi",
+      "project_description": "Open-source agent skills and a lightweight MCP stdio bridge for Edgrapi’s hosted API, which returns normalized SEC and US government data as JSON.",
+      "project_is_open_source": true,
+      "categories": [
+        "Tool Calling (Function Calling)"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/paperandbeyond23-gif/edgrapi-skills",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T08:28:04Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
