@@ -356,6 +356,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/jmagly/aiwg">github</a></p>
 </div>
 
+### AKF
+<div><a href="https://github.com/HMAKT99/AKF"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/HMAKT99/AKF"><img src="https://img.shields.io/github/stars/HMAKT99/AKF?style=social" alt="GitHub stars"></a></div>
+<p>🛡️ Safety Guardrails (Safeguarding) | 📏 Standardization</p>
+
+<p>An AI-native file format and toolchain for carrying provenance, evidence, and verification metadata with files.</p>
+
+<p><a href="https://github.com/HMAKT99/AKF">github</a></p>
+<p><strong>Capabilities:</strong> Attach provenance and trust metadata to files · Inspect and verify claims and evidence · Replay checks against recorded evidence</p>
+<p><strong>Interfaces:</strong> CLI · Python package · TypeScript package · MCP server</p>
+</div>
+
 ### Arachne
 <div><a href="https://github.com/Strategic-Automation/arachne"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Strategic-Automation/arachne"><img src="https://img.shields.io/github/stars/Strategic-Automation/arachne?style=social" alt="GitHub stars"></a></div>
 <p>🤖 AI Agents | ⚙️ Development Frameworks</p>
