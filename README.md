@@ -2189,6 +2189,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/huggingface/smolagents">github</a></p>
 </div>
 
+### SnapRender
+<div><a href="https://github.com/User0856/snaprender-integrations"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/User0856/snaprender-integrations"><img src="https://img.shields.io/github/stars/User0856/snaprender-integrations?style=social" alt="GitHub stars"></a></div>
+<p>🔌 MCP Servers</p>
+
+<p>SnapRender is a screenshot API for agent workflows, with a remote MCP server and SDK integrations for capturing websites as images or PDFs.</p>
+
+<p><a href="https://github.com/User0856/snaprender-integrations">github</a></p>
+<p><strong>Capabilities:</strong> website screenshots · image and PDF capture · remote MCP tools</p>
+<p><strong>Interfaces:</strong> MCP · SDK · API</p>
+</div>
+
 ### Sonzai Go SDK
 <div><a href="https://github.com/sonz-ai/sonzai-go"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/sonz-ai/sonzai-go"><img src="https://img.shields.io/github/stars/sonz-ai/sonzai-go?style=social" alt="GitHub stars"></a></div>
 <p>⚙️ Development Frameworks | 🧠 Long-Term Memory</p>

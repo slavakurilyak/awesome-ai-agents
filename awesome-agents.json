@@ -5870,6 +5870,34 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "SnapRender",
+      "project_description": "SnapRender is a screenshot API for agent workflows, with a remote MCP server and SDK integrations for capturing websites as images or PDFs.",
+      "project_is_open_source": true,
+      "categories": [
+        "MCP Servers"
+      ],
+      "capabilities": [
+        "website screenshots",
+        "image and PDF capture",
+        "remote MCP tools"
+      ],
+      "interfaces": [
+        "MCP",
+        "SDK",
+        "API"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/User0856/snaprender-integrations",
+          "stars": null,
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T19:51:00Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
