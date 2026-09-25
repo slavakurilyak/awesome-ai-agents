@@ -1802,6 +1802,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/openai/openai-agents-python">github</a></p>
 </div>
 
+### OpenClaw
+<div><a href="https://github.com/openclaw/openclaw"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/openclaw/openclaw"><img src="https://img.shields.io/github/stars/openclaw/openclaw?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents | 👤 Personal Assistants</p>
+
+<p>OpenClaw is a personal AI assistant that runs on your own devices and connects to messaging channels, tools, skills, scheduled tasks, and memory.</p>
+
+<p><a href="https://github.com/openclaw/openclaw">github</a></p>
+<p><strong>Capabilities:</strong> multi-channel messaging · scheduled tasks · skills and tool integrations</p>
+<p><strong>Interfaces:</strong> CLI · Web UI · Messaging</p>
+</div>
+
 ### OpenClaw Monitor
 <div><a href="https://github.com/flik2002/openclaw-monitor"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/flik2002/openclaw-monitor"><img src="https://img.shields.io/github/stars/flik2002/openclaw-monitor?style=social" alt="GitHub stars"></a></div>
 <p>🤖 AI Agents</p>
