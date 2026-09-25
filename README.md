@@ -1241,6 +1241,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/npi-ai/npi">github</a> | <a href="https://www.npi.ai/">website</a> | <a href="https://www.npi.ai/docs">docs</a> | <a href="https://www.npi.ai/blog">blog</a></p>
 </div>
 
+### Okto-Nexus
+<div><a href="https://github.com/OktoLabsAI/okto-nexus"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/OktoLabsAI/okto-nexus"><img src="https://img.shields.io/github/stars/OktoLabsAI/okto-nexus?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents | ⚙️ Development Frameworks | 🛡️ Safety Guardrails (Safeguarding)</p>
+
+<p>Okto-Nexus is a local-first MCP coordination hub for multi-agent teams, with durable messaging, atomic handoffs, governance controls, and human approval.</p>
+
+<p><a href="https://github.com/OktoLabsAI/okto-nexus">github</a></p>
+</div>
+
 ### Ollama
 <div><a href="https://github.com/ollama/ollama"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/ollama/ollama"><img src="https://img.shields.io/github/stars/ollama/ollama?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 147,994 stars (Updated: 2025-07-30)</p>
