@@ -4416,6 +4416,26 @@
         "repository_status": "active"
       }]
     }
+ ,
+    {
+      "project": "OpenClaw Monitor",
+      "project_description": "An offline web dashboard for OpenClaw that monitors agent sessions, scheduled tasks, token usage, message trends, and local system metrics.",
+      "project_is_open_source": true,
+      "categories": ["AI Agents"],
+      "capabilities": [
+        "Monitor live agent sessions and task schedules",
+        "Track per-model token usage and message trends",
+        "Display local system uptime and memory metrics"
+      ],
+      "interfaces": ["Web dashboard", "Node.js API", "Windows launcher"],
+      "sources": [{
+        "source": "github",
+        "source_url": "https://github.com/flik2002/openclaw-monitor",
+        "stars_last_updated": null,
+        "repository_checked_at": "2026-09-25T17:54:54Z",
+        "repository_status": "active"
+      }]
+    }
   ],
   "categories": [
     {
