@@ -2800,6 +2800,32 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "ClawMetry",
+      "project_description": "ClawMetry is an open-source, local-first dashboard that reads existing session files from OpenClaw, NVIDIA NemoClaw, Goose, and Qwen Code. It provides agent session replay, tool-call timelines, and token and cost reporting where runtimes expose that data.",
+      "project_is_open_source": true,
+      "categories": [
+        "Observability Frameworks"
+      ],
+      "capabilities": [
+        "Agent session monitoring and replay",
+        "Tool-call timelines",
+        "Token and cost reporting"
+      ],
+      "interfaces": [
+        "CLI",
+        "Local web dashboard"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/vivekchand/clawmetry",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T15:01:51Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [

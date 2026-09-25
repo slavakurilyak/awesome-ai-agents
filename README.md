@@ -373,6 +373,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/OpenBMB/ChatDev">github</a> | <a href="https://github.com/OpenBMB">github profile</a></p>
 </div>
 
+### ClawMetry
+<div><a href="https://github.com/vivekchand/clawmetry"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/vivekchand/clawmetry"><img src="https://img.shields.io/github/stars/vivekchand/clawmetry?style=social" alt="GitHub stars"></a></div>
+<p>👁️ Observability Frameworks</p>
+
+<p>ClawMetry is an open-source, local-first dashboard that reads existing session files from OpenClaw, NVIDIA NemoClaw, Goose, and Qwen Code. It provides agent session replay, tool-call timelines, and token and cost reporting where runtimes expose that data.</p>
+
+<p><a href="https://github.com/vivekchand/clawmetry">github</a></p>
+<p><strong>Capabilities:</strong> Agent session monitoring and replay · Tool-call timelines · Token and cost reporting</p>
+<p><strong>Interfaces:</strong> CLI · Local web dashboard</p>
+</div>
+
 ### Cognee
 <div><a href="https://github.com/topoteretes/cognee"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/topoteretes/cognee"><img src="https://img.shields.io/github/stars/topoteretes/cognee?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 6,513 stars (Updated: 2025-07-30)</p>
