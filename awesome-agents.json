@@ -4256,6 +4256,26 @@
         "repository_status": "active"
       }]
     }
+ ,
+    {
+      "project": "Hermes Agent Chinese Pack",
+      "project_description": "A Chinese language and workflow enhancement pack for Hermes Agent desktop, TUI, and CLI, with localized prompts, gateway guidance, pairing approvals, and installation tools.",
+      "project_is_open_source": true,
+      "categories": ["Personal Assistants"],
+      "capabilities": [
+        "Localize Hermes Agent interfaces and prompts into Chinese",
+        "Provide setup guidance for messaging gateways and pairing approvals",
+        "Install version-matched Chinese enhancement packages"
+      ],
+      "interfaces": ["Hermes Agent Desktop", "TUI", "CLI", "Windows PowerShell", "Shell installer"],
+      "sources": [{
+        "source": "github",
+        "source_url": "https://github.com/fresh-claw/hermes-zh-cn",
+        "stars_last_updated": null,
+        "repository_checked_at": "2026-09-25T17:38:20Z",
+        "repository_status": "active"
+      }]
+    }
   ],
   "categories": [
     {

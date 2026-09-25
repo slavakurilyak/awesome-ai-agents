@@ -840,6 +840,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://www.helicone.ai/">website</a> | <a href="https://github.com/Helicone/helicone">github</a></p>
 </div>
 
+### Hermes Agent Chinese Pack
+<div><a href="https://github.com/fresh-claw/hermes-zh-cn"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/fresh-claw/hermes-zh-cn"><img src="https://img.shields.io/github/stars/fresh-claw/hermes-zh-cn?style=social" alt="GitHub stars"></a></div>
+<p>👤 Personal Assistants</p>
+
+<p>A Chinese language and workflow enhancement pack for Hermes Agent desktop, TUI, and CLI, with localized prompts, gateway guidance, pairing approvals, and installation tools.</p>
+
+<p><a href="https://github.com/fresh-claw/hermes-zh-cn">github</a></p>
+<p><strong>Capabilities:</strong> Localize Hermes Agent interfaces and prompts into Chinese · Provide setup guidance for messaging gateways and pairing approvals · Install version-matched Chinese enhancement packages</p>
+<p><strong>Interfaces:</strong> Hermes Agent Desktop · TUI · CLI · Windows PowerShell · Shell installer</p>
+</div>
+
 ### Hermes Plant
 <div><a href="https://github.com/JesseGdotIO/hermesplant-mcp-server"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/JesseGdotIO/hermesplant-mcp-server"><img src="https://img.shields.io/github/stars/JesseGdotIO/hermesplant-mcp-server?style=social" alt="GitHub stars"></a></div>
 <p>🔌 MCP Servers | 🛡️ Safety Guardrails (Safeguarding)</p>
