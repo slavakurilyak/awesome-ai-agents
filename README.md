@@ -127,6 +127,17 @@ Here's an awesome list of AI agents:
 <p><strong>Interfaces:</strong> Desktop UI · Claude · Codex · OpenCode · Cursor</p>
 </div>
 
+### Agent Trust Stack MCP Server
+<div><a href="https://github.com/alexfleetcommander/agent-trust-stack-mcp"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/alexfleetcommander/agent-trust-stack-mcp"><img src="https://img.shields.io/github/stars/alexfleetcommander/agent-trust-stack-mcp?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents | 🛡️ Safety Guardrails (Safeguarding) | 🔧 Tool Calling (Function Calling)</p>
+
+<p>An MCP server for AI agents providing cryptographic activity provenance, chain integrity checks, agent identity verification, and reputation tools.</p>
+
+<p><a href="https://github.com/alexfleetcommander/agent-trust-stack-mcp">github</a></p>
+<p><strong>Capabilities:</strong> Record agent activity in verifiable hash chains · Anchor chain hashes for external timestamping and verify chain integrity · Check agent identity and submit or retrieve reputation ratings</p>
+<p><strong>Interfaces:</strong> MCP server · Python package</p>
+</div>
+
 ### agent-kit
 <div><a href="https://github.com/socialrobot-io/agent-kit"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/socialrobot-io/agent-kit"><img src="https://img.shields.io/github/stars/socialrobot-io/agent-kit?style=social" alt="GitHub stars"></a></div>
 <p>🤖 AI Agents</p>
