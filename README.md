@@ -1729,6 +1729,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/Bengtsson78/genesis-accord-standard">github</a></p>
 </div>
 
+### The Polyglot Protocol
+<div><a href="https://github.com/sabir-gbs/the-polyglot-protocol"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/sabir-gbs/the-polyglot-protocol"><img src="https://img.shields.io/github/stars/sabir-gbs/the-polyglot-protocol?style=social" alt="GitHub stars"></a></div>
+<p>📏 Standardization</p>
+
+<p>A portable set of standards for AI coding agents covering repository discovery, language selection, development workflows, and post-generation audits.</p>
+
+<p><a href="https://github.com/sabir-gbs/the-polyglot-protocol">github</a></p>
+<p><strong>Capabilities:</strong> Guide repository discovery and technology selection · Provide language-specific development and validation practices · Define post-code-generation audit and scoring workflows</p>
+<p><strong>Interfaces:</strong> Codex skill · Claude Code · OpenCode · Documentation</p>
+</div>
+
 ### Thursday
 <div><a href="https://github.com/cgoinglove/thursday"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/cgoinglove/thursday"><img src="https://img.shields.io/github/stars/cgoinglove/thursday?style=social" alt="GitHub stars"></a></div>
 <p>👤 Personal Assistants</p>
