@@ -1113,16 +1113,6 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/google/adk-python">github</a></p>
 </div>
 
-### GPT Computer Assistant
-<div><a href="https://github.com/Upsonic/Upsonic"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Upsonic/Upsonic"><img src="https://img.shields.io/github/stars/Upsonic/Upsonic?style=social" alt="GitHub stars"></a></div>
-<p>⭐ 7,625 stars (Updated: 2025-07-30)</p>
-<p>💻 Operating System (OS)</p>
-
-<p>GPT Computer Assistant is an unofficial app that brings ChatGPT functionality to Windows and Linux, allowing for screen reading, microphone use, system audio interaction, clipboard management, script execution, and more</p>
-
-<p><a href="https://github.com/Upsonic/Upsonic">github</a></p>
-</div>
-
 ### GPT Pilot
 <div><a href="https://github.com/Pythagora-io/gpt-pilot"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Pythagora-io/gpt-pilot"><img src="https://img.shields.io/github/stars/Pythagora-io/gpt-pilot?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 33,246 stars (Updated: 2025-07-30)</p>
@@ -2614,6 +2604,18 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/uizze/uizze">github</a></p>
 <p><strong>Capabilities:</strong> Agent-guided interface design · Pull request UI checks · Web and iOS design reference search</p>
 <p><strong>Interfaces:</strong> Agent Skills · GitHub Action · MCP</p>
+</div>
+
+### Upsonic
+<div><a href="https://github.com/Upsonic/Upsonic"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Upsonic/Upsonic"><img src="https://img.shields.io/github/stars/Upsonic/Upsonic?style=social" alt="GitHub stars"></a></div>
+<p>⭐ 7,625 stars (Updated: 2025-07-30)</p>
+<p>⚙️ Development Frameworks</p>
+
+<p>Upsonic is a Python framework for building autonomous AI agents, with tools for workflows, MCP, and agent evaluation.</p>
+
+<p><a href="https://github.com/Upsonic/Upsonic">github</a></p>
+<p><strong>Capabilities:</strong> autonomous agent development · tool and MCP integration · workflow and output evaluation</p>
+<p><strong>Interfaces:</strong> Python SDK · CLI</p>
 </div>
 
 ### Vetto

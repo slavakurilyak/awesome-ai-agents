@@ -1603,11 +1603,11 @@
       ]
     },
     {
-      "project": "GPT Computer Assistant",
-      "project_description": "GPT Computer Assistant is an unofficial app that brings ChatGPT functionality to Windows and Linux, allowing for screen reading, microphone use, system audio interaction, clipboard management, script execution, and more",
+      "project": "Upsonic",
+      "project_description": "Upsonic is a Python framework for building autonomous AI agents, with tools for workflows, MCP, and agent evaluation.",
       "project_is_open_source": true,
       "categories": [
-        "Operating System (OS)"
+        "Development Frameworks"
       ],
       "sources": [
         {
@@ -1618,6 +1618,15 @@
           "repository_checked_at": "2026-09-25T15:39:57Z",
           "repository_status": "active"
         }
+      ],
+      "capabilities": [
+        "autonomous agent development",
+        "tool and MCP integration",
+        "workflow and output evaluation"
+      ],
+      "interfaces": [
+        "Python SDK",
+        "CLI"
       ]
     },
     {
