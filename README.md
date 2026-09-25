@@ -485,6 +485,15 @@ Here's an awesome list of AI agents:
 <p><strong>Interfaces:</strong> CLI · Local web dashboard</p>
 </div>
 
+### Cogito Studio
+<div><a href="https://github.com/CogitoForge-AI/cogito-studio"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/CogitoForge-AI/cogito-studio"><img src="https://img.shields.io/github/stars/CogitoForge-AI/cogito-studio?style=social" alt="GitHub stars"></a></div>
+<p>👤 Personal Assistants | 🖥️ UI Development</p>
+
+<p>Cogito Studio is a cross-platform desktop AI workspace built with Tauri, React, and Rust, offering multi-provider model access, MCP integration, workspace management, and local SQLite storage.</p>
+
+<p><a href="https://github.com/CogitoForge-AI/cogito-studio">github</a></p>
+</div>
+
 ### Cognee
 <div><a href="https://github.com/topoteretes/cognee"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/topoteretes/cognee"><img src="https://img.shields.io/github/stars/topoteretes/cognee?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 6,513 stars (Updated: 2025-07-30)</p>
