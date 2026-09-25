@@ -1745,6 +1745,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/shleder/vetto">github</a></p>
 </div>
 
+### WinkTerm
+<div><a href="https://github.com/Cznorth/winkterm"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Cznorth/winkterm"><img src="https://img.shields.io/github/stars/Cznorth/winkterm?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents | 💻 Terminal-Friendly</p>
+
+<p>A self-hosted AI terminal that shares the user's PTY, drafts commands in the terminal input for review, and supports SSH and agent integrations.</p>
+
+<p><a href="https://github.com/Cznorth/winkterm">github</a></p>
+<p><strong>Capabilities:</strong> Answer questions using live terminal context · Draft commands for a person to inspect before execution · Manage SSH sessions and file transfers · Connect external coding agents through an API and skill</p>
+<p><strong>Interfaces:</strong> Web UI · CLI · SSH · Docker · HTTP API</p>
+</div>
+
 ### XAgent
 <div><a href="https://github.com/OpenBMB/XAgent"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/OpenBMB/XAgent"><img src="https://img.shields.io/github/stars/OpenBMB/XAgent?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 8,404 stars (Updated: 2025-07-30)</p>
