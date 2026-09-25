@@ -4632,6 +4632,33 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "Thursday",
+      "project_description": "Thursday is an open-source personal voice assistant that runs on your computer and delegates longer tasks to background AI agents using a real browser, shell, files, Agent Skills, and MCP servers. It keeps the live call available while work runs and returns results as local files; it uses hosted model providers rather than local inference.",
+      "project_is_open_source": true,
+      "categories": [
+        "Personal Assistants"
+      ],
+      "capabilities": [
+        "Voice-based task delegation",
+        "Background browser and shell agents",
+        "Local file creation"
+      ],
+      "interfaces": [
+        "Voice call",
+        "Desktop app",
+        "MCP"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/cgoinglove/thursday",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T14:38:17Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [

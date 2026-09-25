@@ -1828,6 +1828,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/Bengtsson78/genesis-accord-standard">github</a></p>
 </div>
 
+### Thursday
+<div><a href="https://github.com/cgoinglove/thursday"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/cgoinglove/thursday"><img src="https://img.shields.io/github/stars/cgoinglove/thursday?style=social" alt="GitHub stars"></a></div>
+<p>👤 Personal Assistants</p>
+
+<p>Thursday is an open-source personal voice assistant that runs on your computer and delegates longer tasks to background AI agents using a real browser, shell, files, Agent Skills, and MCP servers. It keeps the live call available while work runs and returns results as local files; it uses hosted model providers rather than local inference.</p>
+
+<p><a href="https://github.com/cgoinglove/thursday">github</a></p>
+<p><strong>Capabilities:</strong> Voice-based task delegation · Background browser and shell agents · Local file creation</p>
+<p><strong>Interfaces:</strong> Voice call · Desktop app · MCP</p>
+</div>
+
 ### tortoise-tts
 <div><a href="https://github.com/neonbjb/tortoise-tts"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/neonbjb/tortoise-tts"><img src="https://img.shields.io/github/stars/neonbjb/tortoise-tts?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 14,463 stars (Updated: 2025-07-30)</p>
