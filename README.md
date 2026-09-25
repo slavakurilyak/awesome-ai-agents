@@ -1486,6 +1486,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/anysphere/priompt">github</a></p>
 </div>
 
+### Prismfy Wizard
+<div><a href="https://github.com/Prismfy/prismfy-wizard"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Prismfy/prismfy-wizard"><img src="https://img.shields.io/github/stars/Prismfy/prismfy-wizard?style=social" alt="GitHub stars"></a></div>
+<p>✍️ Prompt Engineering | 🔧 Tool Calling (Function Calling)</p>
+
+<p>A CLI that installs the Prismfy live-search command and managed search-policy blocks into local AI-agent instruction files, with selectable verification modes and dry-run support.</p>
+
+<p><a href="https://github.com/Prismfy/prismfy-wizard">github</a></p>
+</div>
+
 ### PrivateGPT
 <div><a href="https://github.com/zylon-ai/private-gpt/"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/zylon-ai/private-gpt/"><img src="https://img.shields.io/github/stars/zylon-ai/private-gpt?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 56,373 stars (Updated: 2025-07-30)</p>

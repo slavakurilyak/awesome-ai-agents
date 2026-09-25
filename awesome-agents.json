@@ -4325,6 +4325,24 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "Prismfy Wizard",
+      "project_description": "A CLI that installs the Prismfy live-search command and managed search-policy blocks into local AI-agent instruction files, with selectable verification modes and dry-run support.",
+      "project_is_open_source": true,
+      "categories": [
+        "Tool Calling (Function Calling)",
+        "Prompt Engineering"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/Prismfy/prismfy-wizard",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T08:37:55Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
