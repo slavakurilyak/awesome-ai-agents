@@ -5545,6 +5545,33 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "Stoneforge",
+      "project_description": "A web dashboard and local runtime for orchestrating parallel AI coding agents, with task dispatch and isolated workspaces.",
+      "project_is_open_source": true,
+      "capabilities": [
+        "Dispatch coding tasks to multiple agents in parallel",
+        "Isolate agent work and coordinate task states",
+        "Monitor agent activity and recover from failures"
+      ],
+      "interfaces": [
+        "Web dashboard",
+        "CLI",
+        "Local runtime"
+      ],
+      "categories": [
+        "Development Frameworks"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/stoneforge-ai/stoneforge",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T19:38:00Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
