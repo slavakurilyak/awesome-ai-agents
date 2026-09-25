@@ -986,6 +986,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/danielyedaniel/jevme">github</a></p>
 </div>
 
+### k8s4claw
+<div><a href="https://github.com/Prismer-AI/k8s4claw"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Prismer-AI/k8s4claw"><img src="https://img.shields.io/github/stars/Prismer-AI/k8s4claw?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents | ⚙️ Development Frameworks | 🛡️ Safety Guardrails (Safeguarding)</p>
+
+<p>A Kubernetes operator for deploying and managing AI agent runtimes, with bounded self-healing that keeps LLMs out of the cluster's workload write path.</p>
+
+<p><a href="https://github.com/Prismer-AI/k8s4claw">github</a></p>
+<p><strong>Capabilities:</strong> Manage agent runtimes and their supporting services through a Kubernetes CRD · Apply validated, allowlisted operations through a reconciler · Support persistence, IPC, channel sidecars, and signed audit receipts</p>
+<p><strong>Interfaces:</strong> Kubernetes Operator · Claw CRD · Go · Docker</p>
+</div>
+
 ### KubeStellar Console
 <div><a href="https://github.com/kubestellar/console"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/kubestellar/console"><img src="https://img.shields.io/github/stars/kubestellar/console?style=social" alt="GitHub stars"></a></div>
 <p>🤖 AI Agents | 🔧 Tool Calling (Function Calling)</p>

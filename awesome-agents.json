@@ -4536,6 +4536,26 @@
         "repository_status": "active"
       }]
     }
+ ,
+    {
+      "project": "k8s4claw",
+      "project_description": "A Kubernetes operator for deploying and managing AI agent runtimes, with bounded self-healing that keeps LLMs out of the cluster's workload write path.",
+      "project_is_open_source": true,
+      "categories": ["AI Agents", "Development Frameworks", "Safety Guardrails (Safeguarding)"],
+      "capabilities": [
+        "Manage agent runtimes and their supporting services through a Kubernetes CRD",
+        "Apply validated, allowlisted operations through a reconciler",
+        "Support persistence, IPC, channel sidecars, and signed audit receipts"
+      ],
+      "interfaces": ["Kubernetes Operator", "Claw CRD", "Go", "Docker"],
+      "sources": [{
+        "source": "github",
+        "source_url": "https://github.com/Prismer-AI/k8s4claw",
+        "stars_last_updated": null,
+        "repository_checked_at": "2026-09-25T18:06:02Z",
+        "repository_status": "active"
+      }]
+    }
   ],
   "categories": [
     {
