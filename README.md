@@ -208,6 +208,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/Zfinix/aster">github</a></p>
 </div>
 
+### Atomic Agent
+<div><a href="https://github.com/AtomicBot-ai/atomic-agent"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/AtomicBot-ai/atomic-agent"><img src="https://img.shields.io/github/stars/AtomicBot-ai/atomic-agent?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents | 💻 Local Inference | 💻 Terminal-Friendly</p>
+
+<p>Atomic Agent is a local-first terminal coding assistant that runs open-weight models through llama.cpp and keeps its control loop and state on the user’s machine. It can browse, work with files and Git, retain memory across sessions, and connect external tools over MCP.</p>
+
+<p><a href="https://github.com/AtomicBot-ai/atomic-agent">github</a></p>
+<p><strong>Capabilities:</strong> Local model inference · Browser, file, and Git tools · Persistent memory and MCP tool connections</p>
+<p><strong>Interfaces:</strong> CLI · TUI · HTTP API · MCP</p>
+</div>
+
 ### AutoDev
 <div><a href="https://github.com/unit-mesh/auto-dev"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/unit-mesh/auto-dev"><img src="https://img.shields.io/github/stars/unit-mesh/auto-dev?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 4,039 stars (Updated: 2025-07-30)</p>
