@@ -183,6 +183,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/vbkotecha/agentservices-api">github</a></p>
 </div>
 
+### AgentTrace
+<div><a href="https://github.com/luoyuctl/agenttrace"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/luoyuctl/agenttrace"><img src="https://img.shields.io/github/stars/luoyuctl/agenttrace?style=social" alt="GitHub stars"></a></div>
+<p>👁️ Observability Frameworks | 💻 Terminal-Friendly</p>
+
+<p>A local-first terminal interface and report generator for reviewing AI coding-agent sessions, usage costs, latency, failures, and run health.</p>
+
+<p><a href="https://github.com/luoyuctl/agenttrace">github</a></p>
+<p><strong>Capabilities:</strong> Aggregate session costs, tokens, and elapsed time across coding agents · Diagnose slow runs, tool failures, and retry loops · Generate local reports for session health and anomalies</p>
+<p><strong>Interfaces:</strong> Rust TUI · CLI · Homebrew · npm package</p>
+</div>
+
 ### AgentWatch
 <div><a href="https://github.com/nicofains1/agentwatch"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/nicofains1/agentwatch"><img src="https://img.shields.io/github/stars/nicofains1/agentwatch?style=social" alt="GitHub stars"></a></div>
 <p>👁️ Observability Frameworks</p>
