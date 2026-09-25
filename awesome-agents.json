@@ -6091,6 +6091,34 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "Sayna",
+      "project_description": "Sayna is a self-hosted real-time voice server that provides speech-to-text and text-to-speech through WebSocket and REST APIs, with provider integrations, LiveKit streaming, and SIP telephony.",
+      "project_is_open_source": true,
+      "categories": [
+        "Real-Time",
+        "Development Frameworks"
+      ],
+      "capabilities": [
+        "speech-to-text and text-to-speech",
+        "real-time audio streaming",
+        "SIP telephony integration"
+      ],
+      "interfaces": [
+        "WebSocket API",
+        "REST API"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/SaynaAI/sayna",
+          "stars": null,
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T19:57:00Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [

@@ -2195,6 +2195,17 @@ Here's an awesome list of AI agents:
 <p><strong>Interfaces:</strong> CLI · MCP · Local web console</p>
 </div>
 
+### Sayna
+<div><a href="https://github.com/SaynaAI/sayna"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/SaynaAI/sayna"><img src="https://img.shields.io/github/stars/SaynaAI/sayna?style=social" alt="GitHub stars"></a></div>
+<p>⚙️ Development Frameworks | ⚡ Real-Time</p>
+
+<p>Sayna is a self-hosted real-time voice server that provides speech-to-text and text-to-speech through WebSocket and REST APIs, with provider integrations, LiveKit streaming, and SIP telephony.</p>
+
+<p><a href="https://github.com/SaynaAI/sayna">github</a></p>
+<p><strong>Capabilities:</strong> speech-to-text and text-to-speech · real-time audio streaming · SIP telephony integration</p>
+<p><strong>Interfaces:</strong> WebSocket API · REST API</p>
+</div>
+
 ### Screenpipe
 <div><a href="https://github.com/screenpipe/screenpipe"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/screenpipe/screenpipe"><img src="https://img.shields.io/github/stars/screenpipe/screenpipe?style=social" alt="GitHub stars"></a></div>
 <p>🤖 AI Agents | 💻 Local Inference | 🧠 Long-Term Memory | 👤 Personal Assistants</p>
