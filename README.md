@@ -1756,6 +1756,17 @@ Here's an awesome list of AI agents:
 <p><strong>Interfaces:</strong> MCP server · npm package</p>
 </div>
 
+### ORCH
+<div><a href="https://github.com/oxgeneral/ORCH"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/oxgeneral/ORCH"><img src="https://img.shields.io/github/stars/oxgeneral/ORCH?style=social" alt="GitHub stars"></a></div>
+<p>⚙️ Development Frameworks</p>
+
+<p>A CLI runtime for running and coordinating teams of AI agents on parallel tasks with shared state and review workflows.</p>
+
+<p><a href="https://github.com/oxgeneral/ORCH">github</a></p>
+<p><strong>Capabilities:</strong> Run coding agents in parallel against a typed task queue · Track task state, review gates, and failed-agent retries · Coordinate agents with inter-agent messaging and shared context</p>
+<p><strong>Interfaces:</strong> CLI · Terminal UI · Node.js package</p>
+</div>
+
 ### Orkas
 <div><a href="https://github.com/Orkas-AI/Orkas"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Orkas-AI/Orkas"><img src="https://img.shields.io/github/stars/Orkas-AI/Orkas?style=social" alt="GitHub stars"></a></div>
 <p>🤖 AI Agents | 💻 Operating System (OS)</p>

@@ -5326,6 +5326,33 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "ORCH",
+      "project_description": "A CLI runtime for running and coordinating teams of AI agents on parallel tasks with shared state and review workflows.",
+      "project_is_open_source": true,
+      "capabilities": [
+        "Run coding agents in parallel against a typed task queue",
+        "Track task state, review gates, and failed-agent retries",
+        "Coordinate agents with inter-agent messaging and shared context"
+      ],
+      "interfaces": [
+        "CLI",
+        "Terminal UI",
+        "Node.js package"
+      ],
+      "categories": [
+        "Development Frameworks"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/oxgeneral/ORCH",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T19:22:00Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
