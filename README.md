@@ -559,6 +559,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/topoteretes/cognee">github</a></p>
 </div>
 
+### ContextStream
+<div><a href="https://github.com/contextstream/mcp-server"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/contextstream/mcp-server"><img src="https://img.shields.io/github/stars/contextstream/mcp-server?style=social" alt="GitHub stars"></a></div>
+<p>🧠 Long-Term Memory</p>
+
+<p>ContextStream is an MCP server for shared project context and persistent agent memory, with semantic search, traceable sources, and scoped access.</p>
+
+<p><a href="https://github.com/contextstream/mcp-server">github</a></p>
+</div>
+
 ### Continue
 <div><a href="https://github.com/continuedev/continue"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/continuedev/continue"><img src="https://img.shields.io/github/stars/continuedev/continue?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 27,982 stars (Updated: 2025-07-30)</p>

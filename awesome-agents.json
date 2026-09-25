@@ -3835,6 +3835,24 @@
       ]
     },
     {
+      "project": "ContextStream",
+      "project_description": "ContextStream is an MCP server for shared project context and persistent agent memory, with semantic search, traceable sources, and scoped access.",
+      "project_is_open_source": true,
+      "categories": [
+        "Long-Term Memory"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/contextstream/mcp-server",
+          "stars": null,
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T07:26:50Z",
+          "repository_status": "active"
+        }
+      ]
+    },
+    {
       "project": "AgentFlow",
       "project_description": "Trainable, tool-integrated multi-agent framework with planner, executor, verifier, and generator modules; supports multi-turn inference and Flow-GRPO training.",
       "project_is_open_source": true,
