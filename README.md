@@ -1217,6 +1217,17 @@ Here's an awesome list of AI agents:
 <p><strong>Interfaces:</strong> Python package · TypeScript package · CLI · MCP server</p>
 </div>
 
+### Kodo
+<div><a href="https://github.com/ikamensh/kodo"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/ikamensh/kodo"><img src="https://img.shields.io/github/stars/ikamensh/kodo?style=social" alt="GitHub stars"></a></div>
+<p>⚙️ Development Frameworks</p>
+
+<p>An autonomous multi-agent coding orchestrator that runs coding agents through work cycles with independent verification.</p>
+
+<p><a href="https://github.com/ikamensh/kodo">github</a></p>
+<p><strong>Capabilities:</strong> Coordinate coding agents through iterative work cycles · Have separate agents review and verify changes · Run long-lived coding tasks from a CLI workflow</p>
+<p><strong>Interfaces:</strong> Python package · CLI · Claude Code, Cursor, Codex, and Gemini CLI integrations</p>
+</div>
+
 ### KubeStellar Console
 <div><a href="https://github.com/kubestellar/console"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/kubestellar/console"><img src="https://img.shields.io/github/stars/kubestellar/console?style=social" alt="GitHub stars"></a></div>
 <p>🤖 AI Agents | 🔧 Tool Calling (Function Calling)</p>
