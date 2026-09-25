@@ -849,6 +849,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/JesseGdotIO/hermesplant-mcp-server">github</a></p>
 </div>
 
+### HVTracker
+<div><a href="https://github.com/YugantM/hvtracker"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/YugantM/hvtracker"><img src="https://img.shields.io/github/stars/YugantM/hvtracker?style=social" alt="GitHub stars"></a></div>
+<p>🛡️ Safety Guardrails (Safeguarding)</p>
+
+<p>An open-source trust registry that aggregates public evidence about AI agents and MCP servers, with project comparisons, score history, and machine-readable data.</p>
+
+<p><a href="https://github.com/YugantM/hvtracker">github</a></p>
+<p><strong>Capabilities:</strong> Browse evidence about AI-agent and MCP-server projects · Compare project trust signals · Review score history and evidence coverage · Consume machine-readable registry data</p>
+<p><strong>Interfaces:</strong> Web app · Public JSON API · Embeddable badges</p>
+</div>
+
 ### Instructor
 <div><a href="https://github.com/567-labs/instructor"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/567-labs/instructor"><img src="https://img.shields.io/github/stars/567-labs/instructor?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 11,088 stars (Updated: 2025-07-30)</p>
