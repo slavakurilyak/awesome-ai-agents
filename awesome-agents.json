@@ -5951,6 +5951,34 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "Hivemoot",
+      "project_description": "Hivemoot runs a team of AI agents on GitHub repositories, where agents propose work, debate in issues, implement changes, review pull requests, and vote on decisions.",
+      "project_is_open_source": true,
+      "categories": [
+        "AI Agents"
+      ],
+      "capabilities": [
+        "autonomous software development team",
+        "issue and pull request collaboration",
+        "agent governance and voting"
+      ],
+      "interfaces": [
+        "GitHub App",
+        "CLI",
+        "Web UI"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/hivemoot/hivemoot",
+          "stars": null,
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T19:52:00Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
