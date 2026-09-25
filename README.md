@@ -986,6 +986,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/danielyedaniel/jevme">github</a></p>
 </div>
 
+### KubeStellar Console
+<div><a href="https://github.com/kubestellar/console"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/kubestellar/console"><img src="https://img.shields.io/github/stars/kubestellar/console?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents | 🔧 Tool Calling (Function Calling)</p>
+
+<p>A self-hosted multi-cluster Kubernetes dashboard with an AI operations agent that connects language models to live clusters through MCP.</p>
+
+<p><a href="https://github.com/kubestellar/console">github</a></p>
+<p><strong>Capabilities:</strong> Inspect and manage multiple Kubernetes clusters · Bridge AI operations workflows to live clusters through MCP · Install guided missions for CNCF projects</p>
+<p><strong>Interfaces:</strong> Web dashboard · MCP · kc-agent · Kubernetes</p>
+</div>
+
 ### LangChain
 <div><a href="https://github.com/langchain-ai/langchain"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/langchain-ai/langchain"><img src="https://img.shields.io/github/stars/langchain-ai/langchain?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 112,549 stars (Updated: 2025-07-30)</p>
