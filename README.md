@@ -750,6 +750,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/e2b-dev/E2B">github</a> | <a href="https://github.com/e2b-dev">github profile</a></p>
 </div>
 
+### Edgrapi
+<div><a href="https://github.com/paperandbeyond23-gif/edgrapi-skills"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/paperandbeyond23-gif/edgrapi-skills"><img src="https://img.shields.io/github/stars/paperandbeyond23-gif/edgrapi-skills?style=social" alt="GitHub stars"></a></div>
+<p>🔧 Tool Calling (Function Calling)</p>
+
+<p>Open-source agent skills and a lightweight MCP stdio bridge for Edgrapi’s hosted API, which returns normalized SEC and US government data as JSON.</p>
+
+<p><a href="https://github.com/paperandbeyond23-gif/edgrapi-skills">github</a></p>
+</div>
+
 ### elia
 <div><a href="https://github.com/darrenburns/elia"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/darrenburns/elia"><img src="https://img.shields.io/github/stars/darrenburns/elia?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 2,238 stars (Updated: 2025-07-30)</p>
