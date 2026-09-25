@@ -1441,6 +1441,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/ifyoubuildit/the-agentic-leaderboard-data">github</a></p>
 </div>
 
+### The Forge
+<div><a href="https://github.com/ModernOps888/the-forge"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/ModernOps888/the-forge"><img src="https://img.shields.io/github/stars/ModernOps888/the-forge?style=social" alt="GitHub stars"></a></div>
+<p>⚙️ Development Frameworks</p>
+
+<p>The Forge coordinates LLMs to generate code candidates, compiles and benchmarks them, then evolves top candidates through mutation and selection.</p>
+
+<p><a href="https://github.com/ModernOps888/the-forge">github</a></p>
+</div>
+
 ### The Genesis Accord
 <div><a href="https://github.com/Bengtsson78/genesis-accord-standard"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Bengtsson78/genesis-accord-standard"><img src="https://img.shields.io/github/stars/Bengtsson78/genesis-accord-standard?style=social" alt="GitHub stars"></a></div>
 <p>📏 Standardization</p>
