@@ -3480,6 +3480,25 @@
         }
       ]
     }
+,
+    {
+      "project": "The Agentic Leaderboard",
+      "project_description": "The Agentic Leaderboard publishes weekly rankings of open-source AI agents across reliability, tool selection, autonomous iteration, and community signals, with public data and methodology.",
+      "project_is_open_source": true,
+      "categories": [
+        "Evaluation Frameworks"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/ifyoubuildit/the-agentic-leaderboard-data",
+          "stars": null,
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T15:57:10Z",
+          "repository_status": "active"
+        }
+      ]
+    }
   ],
   "categories": [
     {
