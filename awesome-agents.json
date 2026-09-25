@@ -5599,6 +5599,33 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "Dorothy",
+      "project_description": "A desktop workspace for orchestrating, monitoring, and automating multiple AI coding agents.",
+      "project_is_open_source": true,
+      "capabilities": [
+        "Run and monitor multiple coding-agent CLIs from one desktop app",
+        "Manage agent work with Kanban boards and scheduled automations",
+        "Control agent sessions remotely through connected messaging tools"
+      ],
+      "interfaces": [
+        "Desktop app",
+        "MCP servers"
+      ],
+      "categories": [
+        "AI Agents",
+        "Development Frameworks"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/Charlie85270/Dorothy",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T19:42:00Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
