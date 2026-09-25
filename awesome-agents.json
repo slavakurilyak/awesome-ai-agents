@@ -4576,6 +4576,26 @@
         "repository_status": "active"
       }]
     }
+ ,
+    {
+      "project": "OpenTwins",
+      "project_description": "A local-first CLI and dashboard for running autonomous digital-twin agents across social platforms, with content workflows, scheduling, and browser automation.",
+      "project_is_open_source": true,
+      "categories": ["AI Agents", "Personal Assistants"],
+      "capabilities": [
+        "Research trends and plan or draft social content",
+        "Track engagement and schedule publishing workflows",
+        "Automate platform interactions through Chrome"
+      ],
+      "interfaces": ["CLI", "Web dashboard", "npm package"],
+      "sources": [{
+        "source": "github",
+        "source_url": "https://github.com/Open-Twin/opentwins",
+        "stars_last_updated": null,
+        "repository_checked_at": "2026-09-25T18:09:52Z",
+        "repository_status": "active"
+      }]
+    }
   ],
   "categories": [
     {

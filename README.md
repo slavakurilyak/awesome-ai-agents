@@ -1481,6 +1481,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/OpenHands/OpenHands">github</a></p>
 </div>
 
+### OpenTwins
+<div><a href="https://github.com/Open-Twin/opentwins"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Open-Twin/opentwins"><img src="https://img.shields.io/github/stars/Open-Twin/opentwins?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents | 👤 Personal Assistants</p>
+
+<p>A local-first CLI and dashboard for running autonomous digital-twin agents across social platforms, with content workflows, scheduling, and browser automation.</p>
+
+<p><a href="https://github.com/Open-Twin/opentwins">github</a></p>
+<p><strong>Capabilities:</strong> Research trends and plan or draft social content · Track engagement and schedule publishing workflows · Automate platform interactions through Chrome</p>
+<p><strong>Interfaces:</strong> CLI · Web dashboard · npm package</p>
+</div>
+
 ### Orkas
 <div><a href="https://github.com/Orkas-AI/Orkas"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Orkas-AI/Orkas"><img src="https://img.shields.io/github/stars/Orkas-AI/Orkas?style=social" alt="GitHub stars"></a></div>
 <p>🤖 AI Agents | 💻 Operating System (OS)</p>
