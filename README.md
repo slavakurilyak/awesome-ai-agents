@@ -707,6 +707,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/agentic-ai/enact">github</a></p>
 </div>
 
+### EVO-AI
+<div><a href="https://github.com/Mafengwo292/evo-ai"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Mafengwo292/evo-ai"><img src="https://img.shields.io/github/stars/Mafengwo292/evo-ai?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents</p>
+
+<p>EVO-AI is a distributed language-model project that evolves model weights across volunteer nodes and exposes generation through HTTP and A2A JSON-RPC interfaces.</p>
+
+<p><a href="https://github.com/Mafengwo292/evo-ai">github</a></p>
+</div>
+
 ### Evolutionary Model Merge
 <div><a href="https://github.com/SakanaAI/evolutionary-model-merge/"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/SakanaAI/evolutionary-model-merge/"><img src="https://img.shields.io/github/stars/SakanaAI/evolutionary-model-merge?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 1,353 stars (Updated: 2025-07-30)</p>

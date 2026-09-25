@@ -3157,6 +3157,24 @@
       ]
     },
     {
+      "project": "EVO-AI",
+      "project_description": "EVO-AI is a distributed language-model project that evolves model weights across volunteer nodes and exposes generation through HTTP and A2A JSON-RPC interfaces.",
+      "project_is_open_source": true,
+      "categories": [
+        "AI Agents"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/Mafengwo292/evo-ai",
+          "stars": null,
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T07:09:52Z",
+          "repository_status": "active"
+        }
+      ]
+    },
+    {
       "project": "MergeKit",
       "project_description": "Arcee AI's MergeKit offers tools for merging pre-trained large language models, enabling the creation of more versatile AI agents by combining knowledge from different sources, akin to Retrieval Augmented Generation (RAG)",
       "project_is_open_source": true,
