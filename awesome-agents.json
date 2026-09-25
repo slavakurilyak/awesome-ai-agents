@@ -4656,6 +4656,26 @@
         "repository_status": "active"
       }]
     }
+ ,
+    {
+      "project": "MemClaw",
+      "project_description": "A persistent memory tool for AI coding agents that isolates workspaces by project and provides a dashboard for reviewing and managing stored context.",
+      "project_is_open_source": true,
+      "categories": ["Long-Term Memory"],
+      "capabilities": [
+        "Keep separate memory workspaces for each project",
+        "Store and retrieve project context for coding agents",
+        "Review and manage saved memories in a web dashboard"
+      ],
+      "interfaces": ["MCP", "Web dashboard", "Agent skill"],
+      "sources": [{
+        "source": "github",
+        "source_url": "https://github.com/Felo-Inc/memclaw",
+        "stars_last_updated": null,
+        "repository_checked_at": "2026-09-25T18:18:40Z",
+        "repository_status": "active"
+      }]
+    }
   ],
   "categories": [
     {
