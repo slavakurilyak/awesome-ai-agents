@@ -6119,6 +6119,34 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "Cline",
+      "project_description": "Cline is an open-source coding agent available in IDEs, terminals, and desktop, where it can plan and carry out software development tasks with user control.",
+      "project_is_open_source": true,
+      "categories": [
+        "AI Agents"
+      ],
+      "capabilities": [
+        "code planning and editing",
+        "tool use across development workflows",
+        "MCP integrations"
+      ],
+      "interfaces": [
+        "IDE extension",
+        "CLI",
+        "Desktop app"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/cline/cline",
+          "stars": null,
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T19:58:00Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
