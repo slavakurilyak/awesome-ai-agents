@@ -2969,6 +2969,32 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "DSH Studio",
+      "project_description": "DSH Studio is a cross-platform desktop interface for supervising and managing the local DeepSeek Harness service. It monitors and restarts the service, manages plugin installation, and offers optional paired-phone access through a separate local-network gateway.",
+      "project_is_open_source": true,
+      "categories": [
+        "UI Development"
+      ],
+      "capabilities": [
+        "Local agent-runtime supervision",
+        "Plugin installation and management",
+        "Paired-phone access to the desktop session"
+      ],
+      "interfaces": [
+        "Desktop app",
+        "Paired mobile browser"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/Moresyl/dsh-studio",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T15:16:30Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [

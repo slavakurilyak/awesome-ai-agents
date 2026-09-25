@@ -452,6 +452,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/kuafuai/DevOpsGPT">github</a> | <a href="https://github.com/kuafuai">github profile</a></p>
 </div>
 
+### DSH Studio
+<div><a href="https://github.com/Moresyl/dsh-studio"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Moresyl/dsh-studio"><img src="https://img.shields.io/github/stars/Moresyl/dsh-studio?style=social" alt="GitHub stars"></a></div>
+<p>🖥️ UI Development</p>
+
+<p>DSH Studio is a cross-platform desktop interface for supervising and managing the local DeepSeek Harness service. It monitors and restarts the service, manages plugin installation, and offers optional paired-phone access through a separate local-network gateway.</p>
+
+<p><a href="https://github.com/Moresyl/dsh-studio">github</a></p>
+<p><strong>Capabilities:</strong> Local agent-runtime supervision · Plugin installation and management · Paired-phone access to the desktop session</p>
+<p><strong>Interfaces:</strong> Desktop app · Paired mobile browser</p>
+</div>
+
 ### DSPY
 <div><a href="https://github.com/stanfordnlp/dspy"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/stanfordnlp/dspy"><img src="https://img.shields.io/github/stars/stanfordnlp/dspy?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 26,786 stars (Updated: 2025-07-30)</p>
