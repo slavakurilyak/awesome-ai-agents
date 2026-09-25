@@ -2113,6 +2113,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/pydantic/pydantic">github</a> | <a href="https://docs.pydantic.dev/">website</a></p>
 </div>
 
+### Quorum
+<div><a href="https://github.com/Detrol/quorum-cli"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Detrol/quorum-cli"><img src="https://img.shields.io/github/stars/Detrol/quorum-cli?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents</p>
+
+<p>Quorum lets multiple AI models and agent CLIs conduct structured debates using formal methods, critique, and synthesis, through a terminal UI, MCP, and a web version.</p>
+
+<p><a href="https://github.com/Detrol/quorum-cli">github</a></p>
+<p><strong>Capabilities:</strong> structured multi-agent debate · critique and consensus synthesis · local and hosted model participation</p>
+<p><strong>Interfaces:</strong> CLI · MCP · Web UI</p>
+</div>
+
 ### Reel Agent
 <div><a href="https://github.com/HNF-FRN/Reel-watcher-telegram-Agent"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/HNF-FRN/Reel-watcher-telegram-Agent"><img src="https://img.shields.io/github/stars/HNF-FRN/Reel-watcher-telegram-Agent?style=social" alt="GitHub stars"></a></div>
 <p>🤖 AI Agents</p>
