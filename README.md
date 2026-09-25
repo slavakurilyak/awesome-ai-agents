@@ -1270,6 +1270,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/mem0ai/mem0">github</a> | <a href="https://app.mem0.ai/">website</a> | <a href="https://docs.mem0.ai/">docs</a> | <a href="https://mem0.ai/discord">discord</a> | <a href="https://x.com/mem0ai">twitter</a> | <a href="https://github.com/mem0ai">github profile</a> | <a href="https://www.linkedin.com/company/mem0/">linkedin</a></p>
 </div>
 
+### MemClaw
+<div><a href="https://github.com/Felo-Inc/memclaw"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Felo-Inc/memclaw"><img src="https://img.shields.io/github/stars/Felo-Inc/memclaw?style=social" alt="GitHub stars"></a></div>
+<p>🧠 Long-Term Memory</p>
+
+<p>A persistent memory tool for AI coding agents that isolates workspaces by project and provides a dashboard for reviewing and managing stored context.</p>
+
+<p><a href="https://github.com/Felo-Inc/memclaw">github</a></p>
+<p><strong>Capabilities:</strong> Keep separate memory workspaces for each project · Store and retrieve project context for coding agents · Review and manage saved memories in a web dashboard</p>
+<p><strong>Interfaces:</strong> MCP · Web dashboard · Agent skill</p>
+</div>
+
 ### MemGPT
 <div><a href="https://github.com/letta-ai/letta/"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/letta-ai/letta/"><img src="https://img.shields.io/github/stars/letta-ai/letta?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 17,568 stars (Updated: 2025-07-30)</p>
