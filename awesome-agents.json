@@ -301,6 +301,24 @@
       ]
     },
     {
+      "project": "Moching",
+      "project_description": "Moching is a desktop AI agent for controlling a PC, with screen perception, browser and Office automation, and native tools.",
+      "project_is_open_source": true,
+      "categories": [
+        "Operating System (OS)"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/moching-ai-dev/moching",
+          "stars": null,
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T07:18:09Z",
+          "repository_status": "active"
+        }
+      ]
+    },
+    {
       "project": "Open Interpreter",
       "project_description": "Open Interpreter is a coding agent enabling language models to execute code locally, facilitating natural-language interaction with your computer's capabilities, overcoming limitations of hosted solutions like internet access and package restrictions. It features interactive and programmatic chats, system message customization, and can control your computer's keyboard and mouse, allowing for enhanced control and flexibility in development environments",
       "project_is_open_source": true,
