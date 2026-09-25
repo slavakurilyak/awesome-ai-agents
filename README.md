@@ -1771,6 +1771,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://www.getzep.com/">website</a> | <a href="https://github.com/getzep/zep/">github</a></p>
 </div>
 
+### Zillapi
+<div><a href="https://github.com/ZeroPointRepo/zillow-skills"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/ZeroPointRepo/zillow-skills"><img src="https://img.shields.io/github/stars/ZeroPointRepo/zillow-skills?style=social" alt="GitHub stars"></a></div>
+<p>🔧 Tool Calling (Function Calling)</p>
+
+<p>MIT-0 agent skills for querying Zillow property data through Zillapi’s hosted API; the repository contains client skills, while the MCP server is hosted.</p>
+
+<p><a href="https://github.com/ZeroPointRepo/zillow-skills">github</a></p>
+</div>
+
 ## 🙋‍♂️ Hire Me
 
 Do you want to develop a custom agentic AI solution or looking launch your own AI agent?
