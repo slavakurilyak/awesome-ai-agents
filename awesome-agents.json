@@ -3648,6 +3648,27 @@
         }
       ]
     }
+,
+    {
+      "project": "CorvinOS",
+      "project_description": "CorvinOS is a self-hosted agentic OS that connects local and cloud models to messaging platforms including Discord, Telegram, WhatsApp, Slack, and email.",
+      "project_is_open_source": true,
+      "categories": [
+        "AI Agents",
+        "Local Inference",
+        "Operating System (OS)"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/CorvinLabs/CorvinOS",
+          "stars": null,
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T16:23:30Z",
+          "repository_status": "active"
+        }
+      ]
+    }
   ],
   "categories": [
     {
