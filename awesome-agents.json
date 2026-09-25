@@ -4659,6 +4659,32 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "Blave Agent",
+      "project_description": "Blave Agent is a macOS quant research workspace that connects coding agents such as Claude Code or Codex to help develop and backtest trading strategies, including Monte Carlo permutation tests, parameter scans, and walk-forward analysis. Live trading runs through a separate deterministic process with position reconciliation and a kill switch.",
+      "project_is_open_source": true,
+      "categories": [
+        "AI Agents"
+      ],
+      "capabilities": [
+        "Agent-assisted strategy development",
+        "Backtesting and robustness analysis",
+        "Deterministic trading automation"
+      ],
+      "interfaces": [
+        "macOS desktop app",
+        "Claude Code and Codex integration"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/Blave-TW/blave-agent",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T14:41:01Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
