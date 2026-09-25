@@ -5103,6 +5103,34 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "B2B SDR Agent Template",
+      "project_description": "An OpenClaw-based AI sales development representative template for managing B2B export leads across a multi-stage sales pipeline.",
+      "project_is_open_source": true,
+      "capabilities": [
+        "Capture and score B2B prospects",
+        "Manage a staged sales pipeline and follow-ups",
+        "Coordinate prospect communication across messaging and email channels"
+      ],
+      "interfaces": [
+        "OpenClaw agent template",
+        "WhatsApp",
+        "Telegram",
+        "Email"
+      ],
+      "categories": [
+        "AI Agents"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/iPythoning/b2b-sdr-agent-template",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T19:02:00Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
