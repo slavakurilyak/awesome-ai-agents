@@ -692,6 +692,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/crewAIInc/crewAI">github</a> | <a href="https://github.com/joaomdmoura">github profile</a></p>
 </div>
 
+### CryptoGuard
+<div><a href="https://github.com/momenbasel/CryptoGuard"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/momenbasel/CryptoGuard"><img src="https://img.shields.io/github/stars/momenbasel/CryptoGuard?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents | 🛡️ Safety Guardrails (Safeguarding)</p>
+
+<p>A pre-transaction safety hook for AI agents that assesses crypto contract and token risks using security-oracle data and bytecode analysis.</p>
+
+<p><a href="https://github.com/momenbasel/CryptoGuard">github</a></p>
+<p><strong>Capabilities:</strong> Check smart contracts for honeypot, blacklist, and rug-pull indicators · Aggregate risk signals from multiple security data sources · Add a review gate before agent-initiated crypto transactions</p>
+<p><strong>Interfaces:</strong> Python package · Claude Code hook · Agent skill</p>
+</div>
+
 ### Cycles
 <div><a href="https://github.com/runcycles/cycles-server"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/runcycles/cycles-server"><img src="https://img.shields.io/github/stars/runcycles/cycles-server?style=social" alt="GitHub stars"></a></div>
 <p>🤖 AI Agents | 🛡️ Safety Guardrails (Safeguarding) | 📏 Standardization</p>
