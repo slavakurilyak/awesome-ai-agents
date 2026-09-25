@@ -5708,6 +5708,32 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "Autohand Code CLI",
+      "project_description": "Autohand Code CLI is a terminal-native AI coding agent that plans and edits code, runs tools, and supports testing, memory, skills, and permission controls.",
+      "project_is_open_source": true,
+      "categories": [
+        "Development Frameworks"
+      ],
+      "capabilities": [
+        "code planning and editing",
+        "tool execution and testing",
+        "project memory and skills"
+      ],
+      "interfaces": [
+        "CLI"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/autohandai/code-cli",
+          "stars": null,
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T19:45:00Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
