@@ -319,6 +319,25 @@
       ]
     },
     {
+      "project": "Vetto",
+      "project_description": "Vetto is a daemon-less, rootless sandbox that applies kernel-enforced security policies to AI coding agents, with agent command shims and MCP tool isolation.",
+      "project_is_open_source": true,
+      "categories": [
+        "Development Frameworks",
+        "Safety Guardrails (Safeguarding)"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/shleder/vetto",
+          "stars": null,
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T07:28:53Z",
+          "repository_status": "active"
+        }
+      ]
+    },
+    {
       "project": "Open Interpreter",
       "project_description": "Open Interpreter is a coding agent enabling language models to execute code locally, facilitating natural-language interaction with your computer's capabilities, overcoming limitations of hosted solutions like internet access and package restrictions. It features interactive and programmatic chats, system message customization, and can control your computer's keyboard and mouse, allowing for enhanced control and flexibility in development environments",
       "project_is_open_source": true,
