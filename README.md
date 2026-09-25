@@ -1063,6 +1063,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/superagent-ai/superagent">github</a> | <a href="https://github.com/superagent-ai">github profile</a></p>
 </div>
 
+### Superagent for Mac
+<div><a href="https://github.com/pungme/superagent-desktop"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/pungme/superagent-desktop"><img src="https://img.shields.io/github/stars/pungme/superagent-desktop?style=social" alt="GitHub stars"></a></div>
+<p>💻 Operating System (OS)</p>
+
+<p>Superagent for Mac is an open-source macOS workspace for Claude Code and Codex, combining persistent coding-agent chats with an agent-controlled browser, iOS Simulator, and companion iPhone app for monitoring conversations and responding to agent requests. It runs locally and uses the user’s existing agent subscription.</p>
+
+<p><a href="https://github.com/pungme/superagent-desktop">github</a></p>
+<p><strong>Capabilities:</strong> Browser automation · iOS Simulator interaction · Remote agent supervision</p>
+<p><strong>Interfaces:</strong> macOS desktop app · iOS companion app · Claude Code and Codex</p>
+</div>
+
 ### Swarms
 <div><a href="https://github.com/kyegomez/swarms/"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/kyegomez/swarms/"><img src="https://img.shields.io/github/stars/kyegomez/swarms?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 5,068 stars (Updated: 2025-07-30)</p>
