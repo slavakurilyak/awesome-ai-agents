@@ -4113,6 +4113,36 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "Agent Teams",
+      "project_description": "A desktop app for directing autonomous coding-agent teams through Kanban tasks, shared messaging, code review, and approvals.",
+      "project_is_open_source": true,
+      "capabilities": [
+        "Coordinate multiple coding agents",
+        "Assign and monitor Kanban tasks",
+        "Review agent work and activity logs",
+        "Manage approvals across agent workflows"
+      ],
+      "interfaces": [
+        "Desktop UI",
+        "Claude",
+        "Codex",
+        "OpenCode",
+        "Cursor"
+      ],
+      "categories": [
+        "AI Agents"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/777genius/agent-teams-ai",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T17:21:19Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
