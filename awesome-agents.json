@@ -4796,6 +4796,26 @@
         "repository_status": "active"
       }]
     }
+ ,
+    {
+      "project": "Kitaru",
+      "project_description": "An open-source replay-based evaluation toolkit for AI agents that records or imports production traces as sessions and reruns them against model, prompt, or code changes.",
+      "project_is_open_source": true,
+      "categories": ["Evaluation Frameworks", "Observability Frameworks"],
+      "capabilities": [
+        "Record agent runs or import traces from supported observability tools",
+        "Replay sessions with recorded tool responses to compare agent changes",
+        "Evaluate cohorts and review results against trace evidence"
+      ],
+      "interfaces": ["Python package", "TypeScript package", "CLI", "MCP server"],
+      "sources": [{
+        "source": "github",
+        "source_url": "https://github.com/zenml-io/kitaru",
+        "stars_last_updated": null,
+        "repository_checked_at": "2026-09-25T18:32:59Z",
+        "repository_status": "active"
+      }]
+    }
   ],
   "categories": [
     {
