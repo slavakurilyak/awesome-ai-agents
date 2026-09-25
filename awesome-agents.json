@@ -4307,6 +4307,24 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "Frontman",
+      "project_description": "A browser-based AI coding agent that uses live application context to edit frontend source files with hot reload through Next.js, Astro, and Vite integrations.",
+      "project_is_open_source": true,
+      "categories": [
+        "AI Agents",
+        "UI Development"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/frontman-ai/frontman",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T08:35:18Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [

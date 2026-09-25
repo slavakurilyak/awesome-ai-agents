@@ -828,6 +828,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/FlowiseAI/Flowise">github</a> | <a href="https://flowiseai.com/">website</a> | <a href="https://docs.flowiseai.com/">docs</a> | <a href="https://github.com/FlowiseAI">github profile</a></p>
 </div>
 
+### Frontman
+<div><a href="https://github.com/frontman-ai/frontman"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/frontman-ai/frontman"><img src="https://img.shields.io/github/stars/frontman-ai/frontman?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents | 🖥️ UI Development</p>
+
+<p>A browser-based AI coding agent that uses live application context to edit frontend source files with hot reload through Next.js, Astro, and Vite integrations.</p>
+
+<p><a href="https://github.com/frontman-ai/frontman">github</a></p>
+</div>
+
 ### FuzzTypes
 <div><a href="https://github.com/genomoncology/FuzzTypes"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/genomoncology/FuzzTypes"><img src="https://img.shields.io/github/stars/genomoncology/FuzzTypes?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 222 stars (Updated: 2025-07-30)</p>
