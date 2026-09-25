@@ -3629,6 +3629,25 @@
         }
       ]
     }
+,
+    {
+      "project": "Tree Ring Memory Framework",
+      "project_description": "Tree Ring Memory is a framework-agnostic, local-first memory lifecycle for AI agents, with SQLite search, deliberate forgetting, audit logs, consolidation, and runtime adapters.",
+      "project_is_open_source": true,
+      "categories": [
+        "Long-Term Memory"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/TerminallyLazy/Tree-Ring-Memory",
+          "stars": null,
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T16:21:04Z",
+          "repository_status": "active"
+        }
+      ]
+    }
   ],
   "categories": [
     {
