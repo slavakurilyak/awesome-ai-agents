@@ -304,6 +304,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/x-zheng16/Awesome-Embodied-AI-Safety">github</a></p>
 </div>
 
+### ax
+<div><a href="https://github.com/Necmttn/ax"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Necmttn/ax"><img src="https://img.shields.io/github/stars/Necmttn/ax?style=social" alt="GitHub stars"></a></div>
+<p>👁️ Observability Frameworks | 💻 Terminal-Friendly</p>
+
+<p>A local agent-experience graph for coding agents that captures sessions, recalls project context, and turns recurring workflow friction into reviewable improvements.</p>
+
+<p><a href="https://github.com/Necmttn/ax">github</a></p>
+<p><strong>Capabilities:</strong> Capture coding-agent session telemetry · Recall project-specific session context · Track costs and workflow outcomes · Propose reviewable workflow improvements</p>
+<p><strong>Interfaces:</strong> CLI · Local Studio UI · Claude Code integration · Codex integration</p>
+</div>
+
 ### Baizhi Agent Toolkit
 <div><a href="https://github.com/chaitin/baizhi-agent-toolkit"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/chaitin/baizhi-agent-toolkit"><img src="https://img.shields.io/github/stars/chaitin/baizhi-agent-toolkit?style=social" alt="GitHub stars"></a></div>
 <p>🔧 Tool Calling (Function Calling)</p>
