@@ -5298,6 +5298,34 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "Fazm",
+      "project_description": "A local macOS AI computer agent that uses voice and visual context to operate apps, browsers, documents, and workflows.",
+      "project_is_open_source": true,
+      "capabilities": [
+        "Control macOS apps and browser workflows using natural language",
+        "Understand on-screen context while carrying out desktop tasks",
+        "Create and edit code and documents through computer use"
+      ],
+      "interfaces": [
+        "macOS desktop app",
+        "Voice interface",
+        "ACP bridge"
+      ],
+      "categories": [
+        "AI Agents",
+        "Operating System (OS)"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/mediar-ai/fazm",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T19:20:00Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [

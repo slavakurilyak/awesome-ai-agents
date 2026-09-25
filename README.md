@@ -924,6 +924,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/Mafengwo292/evo-ai">github</a></p>
 </div>
 
+### Fazm
+<div><a href="https://github.com/mediar-ai/fazm"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/mediar-ai/fazm"><img src="https://img.shields.io/github/stars/mediar-ai/fazm?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents | 💻 Operating System (OS)</p>
+
+<p>A local macOS AI computer agent that uses voice and visual context to operate apps, browsers, documents, and workflows.</p>
+
+<p><a href="https://github.com/mediar-ai/fazm">github</a></p>
+<p><strong>Capabilities:</strong> Control macOS apps and browser workflows using natural language · Understand on-screen context while carrying out desktop tasks · Create and edit code and documents through computer use</p>
+<p><strong>Interfaces:</strong> macOS desktop app · Voice interface · ACP bridge</p>
+</div>
+
 ### Firecrawl
 <div><a href="https://github.com/firecrawl/firecrawl"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/firecrawl/firecrawl"><img src="https://img.shields.io/github/stars/firecrawl/firecrawl?style=social" alt="GitHub stars"></a></div>
 <p>🌐 Web Browsing Frameworks</p>
