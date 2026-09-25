@@ -218,6 +218,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/smartcomputer-ai/agent-os">github</a></p>
 </div>
 
+### Agents Squads
+<div><a href="https://github.com/agents-squads/squads-cli"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/agents-squads/squads-cli"><img src="https://img.shields.io/github/stars/agents-squads/squads-cli?style=social" alt="GitHub stars"></a></div>
+<p>⚙️ Development Frameworks</p>
+
+<p>Agents Squads is a CLI for defining and running autonomous AI squads with persistent memory, shared goals, git-backed state, and verification across engineering, research, product, and operations.</p>
+
+<p><a href="https://github.com/agents-squads/squads-cli">github</a></p>
+<p><strong>Capabilities:</strong> multi-agent orchestration · persistent memory · task execution and verification</p>
+<p><strong>Interfaces:</strong> CLI</p>
+</div>
+
 ### AgentServices
 <div><a href="https://github.com/vbkotecha/agentservices-api"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/vbkotecha/agentservices-api"><img src="https://img.shields.io/github/stars/vbkotecha/agentservices-api?style=social" alt="GitHub stars"></a></div>
 <p>🔌 MCP Servers</p>

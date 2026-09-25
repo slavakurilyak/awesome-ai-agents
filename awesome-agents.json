@@ -5626,6 +5626,32 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "Agents Squads",
+      "project_description": "Agents Squads is a CLI for defining and running autonomous AI squads with persistent memory, shared goals, git-backed state, and verification across engineering, research, product, and operations.",
+      "project_is_open_source": true,
+      "categories": [
+        "Development Frameworks"
+      ],
+      "capabilities": [
+        "multi-agent orchestration",
+        "persistent memory",
+        "task execution and verification"
+      ],
+      "interfaces": [
+        "CLI"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/agents-squads/squads-cli",
+          "stars": null,
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T19:38:15Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
