@@ -5408,6 +5408,35 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "TITAN",
+      "project_description": "A local-first AI agent framework for running specialist agents with shared memory, tools, approvals, and mission control.",
+      "project_is_open_source": true,
+      "capabilities": [
+        "Run and coordinate specialist agents with configurable models and harnesses",
+        "Share agent memory and tools across missions",
+        "Review agent activity and approve higher-autonomy work"
+      ],
+      "interfaces": [
+        "CLI",
+        "MCP server",
+        "Local web interface",
+        "npm package"
+      ],
+      "categories": [
+        "AI Agents",
+        "Development Frameworks"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/Djtony707/TITAN",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T19:28:00Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [

@@ -2257,6 +2257,17 @@ Here's an awesome list of AI agents:
 <p><strong>Interfaces:</strong> Voice call · Desktop app · MCP</p>
 </div>
 
+### TITAN
+<div><a href="https://github.com/Djtony707/TITAN"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Djtony707/TITAN"><img src="https://img.shields.io/github/stars/Djtony707/TITAN?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents | ⚙️ Development Frameworks</p>
+
+<p>A local-first AI agent framework for running specialist agents with shared memory, tools, approvals, and mission control.</p>
+
+<p><a href="https://github.com/Djtony707/TITAN">github</a></p>
+<p><strong>Capabilities:</strong> Run and coordinate specialist agents with configurable models and harnesses · Share agent memory and tools across missions · Review agent activity and approve higher-autonomy work</p>
+<p><strong>Interfaces:</strong> CLI · MCP server · Local web interface · npm package</p>
+</div>
+
 ### Tree Ring Memory Framework
 <div><a href="https://github.com/TerminallyLazy/Tree-Ring-Memory"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/TerminallyLazy/Tree-Ring-Memory"><img src="https://img.shields.io/github/stars/TerminallyLazy/Tree-Ring-Memory?style=social" alt="GitHub stars"></a></div>
 <p>🧠 Long-Term Memory</p>
