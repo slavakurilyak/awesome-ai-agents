@@ -4396,6 +4396,26 @@
         "repository_status": "active"
       }]
     }
+ ,
+    {
+      "project": "TealTiger",
+      "project_description": "An open-source security and governance SDK for AI applications, providing deterministic policy enforcement, guardrails, cost tracking, and audit evidence.",
+      "project_is_open_source": true,
+      "categories": ["Safety Guardrails (Safeguarding)"],
+      "capabilities": [
+        "Apply deterministic policies and tool allowlists to agent actions",
+        "Detect sensitive data and track model usage costs",
+        "Produce audit decisions and export governance evidence"
+      ],
+      "interfaces": ["TypeScript package on npm", "Python package on PyPI", "MCP servers", "Docker sidecar"],
+      "sources": [{
+        "source": "github",
+        "source_url": "https://github.com/agentguard-ai/tealtiger",
+        "stars_last_updated": null,
+        "repository_checked_at": "2026-09-25T17:52:30Z",
+        "repository_status": "active"
+      }]
+    }
   ],
   "categories": [
     {
