@@ -5734,6 +5734,35 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "OpenClaw",
+      "project_description": "OpenClaw is a personal AI assistant that runs on your own devices and connects to messaging channels, tools, skills, scheduled tasks, and memory.",
+      "project_is_open_source": true,
+      "categories": [
+        "AI Agents",
+        "Personal Assistants"
+      ],
+      "capabilities": [
+        "multi-channel messaging",
+        "scheduled tasks",
+        "skills and tool integrations"
+      ],
+      "interfaces": [
+        "CLI",
+        "Web UI",
+        "Messaging"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/openclaw/openclaw",
+          "stars": null,
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T19:46:00Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
