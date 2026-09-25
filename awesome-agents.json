@@ -4556,6 +4556,26 @@
         "repository_status": "active"
       }]
     }
+ ,
+    {
+      "project": "Agent Express",
+      "project_description": "A minimalist TypeScript middleware framework for building AI agents with composable guards, model routing, memory, testing, and observability.",
+      "project_is_open_source": true,
+      "categories": ["Development Frameworks", "Safety Guardrails (Safeguarding)", "Observability Frameworks"],
+      "capabilities": [
+        "Compose retries, budget limits, validation, timeouts, and human approvals",
+        "Route models and compact agent memory across turns",
+        "Trace usage and connect MCP servers as tool sources"
+      ],
+      "interfaces": ["TypeScript package on npm", "CLI", "MCP integration"],
+      "sources": [{
+        "source": "github",
+        "source_url": "https://github.com/agent-express-ai/agent-express",
+        "stars_last_updated": null,
+        "repository_checked_at": "2026-09-25T18:08:10Z",
+        "repository_status": "active"
+      }]
+    }
   ],
   "categories": [
     {
