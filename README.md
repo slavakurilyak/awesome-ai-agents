@@ -402,6 +402,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/OpenBMB/ChatDev">github</a> | <a href="https://github.com/OpenBMB">github profile</a></p>
 </div>
 
+### ClawBench
+<div><a href="https://github.com/TIGER-AI-Lab/ClawBench"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/TIGER-AI-Lab/ClawBench"><img src="https://img.shields.io/github/stars/TIGER-AI-Lab/ClawBench?style=social" alt="GitHub stars"></a></div>
+<p>📊 Evaluation Frameworks</p>
+
+<p>ClawBench is an open-source benchmark for browser agents, with everyday tasks across live websites, execution traces, and request-level outcome evaluation.</p>
+
+<p><a href="https://github.com/TIGER-AI-Lab/ClawBench">github</a></p>
+</div>
+
 ### ClawMetry
 <div><a href="https://github.com/vivekchand/clawmetry"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/vivekchand/clawmetry"><img src="https://img.shields.io/github/stars/vivekchand/clawmetry?style=social" alt="GitHub stars"></a></div>
 <p>👁️ Observability Frameworks</p>
