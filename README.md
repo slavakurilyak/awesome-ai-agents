@@ -872,6 +872,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/arian-gogani/nobulex-registry">github</a></p>
 </div>
 
+### Observatory by The Context Company
+<div><a href="https://github.com/The-Context-Company/observatory"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/The-Context-Company/observatory"><img src="https://img.shields.io/github/stars/The-Context-Company/observatory?style=social" alt="GitHub stars"></a></div>
+<p>👁️ Observability Frameworks</p>
+
+<p>Observatory provides TypeScript and Python OpenTelemetry packages for instrumenting LLM and agent frameworks, plus a local widget for viewing traces. Integrations include Vercel AI SDK, Claude Agent SDK, LangChain, Mastra, OpenClaw, CrewAI, Agno, and LiteLLM.</p>
+
+<p><a href="https://github.com/The-Context-Company/observatory">github</a></p>
+<p><strong>Capabilities:</strong> LLM and agent trace instrumentation · Framework integrations · Local trace visualization</p>
+<p><strong>Interfaces:</strong> TypeScript SDK · Python SDK · Local web widget</p>
+</div>
+
 ### Octomind
 <div><a href="https://github.com/Muvon/octomind"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Muvon/octomind"><img src="https://img.shields.io/github/stars/Muvon/octomind?style=social" alt="GitHub stars"></a></div>
 <p>🤖 AI Agents | ⚙️ Development Frameworks</p>

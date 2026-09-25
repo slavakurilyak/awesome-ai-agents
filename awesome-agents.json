@@ -2884,6 +2884,33 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "Observatory by The Context Company",
+      "project_description": "Observatory provides TypeScript and Python OpenTelemetry packages for instrumenting LLM and agent frameworks, plus a local widget for viewing traces. Integrations include Vercel AI SDK, Claude Agent SDK, LangChain, Mastra, OpenClaw, CrewAI, Agno, and LiteLLM.",
+      "project_is_open_source": true,
+      "categories": [
+        "Observability Frameworks"
+      ],
+      "capabilities": [
+        "LLM and agent trace instrumentation",
+        "Framework integrations",
+        "Local trace visualization"
+      ],
+      "interfaces": [
+        "TypeScript SDK",
+        "Python SDK",
+        "Local web widget"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/The-Context-Company/observatory",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T15:08:09Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
