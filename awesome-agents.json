@@ -4436,6 +4436,26 @@
         "repository_status": "active"
       }]
     }
+ ,
+    {
+      "project": "AgentTrace",
+      "project_description": "A local-first terminal interface and report generator for reviewing AI coding-agent sessions, usage costs, latency, failures, and run health.",
+      "project_is_open_source": true,
+      "categories": ["Observability Frameworks", "Terminal-Friendly"],
+      "capabilities": [
+        "Aggregate session costs, tokens, and elapsed time across coding agents",
+        "Diagnose slow runs, tool failures, and retry loops",
+        "Generate local reports for session health and anomalies"
+      ],
+      "interfaces": ["Rust TUI", "CLI", "Homebrew", "npm package"],
+      "sources": [{
+        "source": "github",
+        "source_url": "https://github.com/luoyuctl/agenttrace",
+        "stars_last_updated": null,
+        "repository_checked_at": "2026-09-25T17:56:20Z",
+        "repository_status": "active"
+      }]
+    }
   ],
   "categories": [
     {
