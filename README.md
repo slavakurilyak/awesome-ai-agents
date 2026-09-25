@@ -458,6 +458,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/x-zheng16/Awesome-Embodied-AI-Safety">github</a></p>
 </div>
 
+### Awesome OpenClaw Agents
+<div><a href="https://github.com/mergisi/awesome-openclaw-agents"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/mergisi/awesome-openclaw-agents"><img src="https://img.shields.io/github/stars/mergisi/awesome-openclaw-agents?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents</p>
+
+<p>A community-maintained collection of OpenClaw agent templates with personas, tool bindings, memory rules, and operating schedules.</p>
+
+<p><a href="https://github.com/mergisi/awesome-openclaw-agents">github</a></p>
+<p><strong>Capabilities:</strong> Browse reusable OpenClaw agent configurations across roles · Adapt templates with persona, tool, and memory instructions · Start new role-specific agents from Markdown configurations</p>
+<p><strong>Interfaces:</strong> Markdown templates · OpenClaw</p>
+</div>
+
 ### ax
 <div><a href="https://github.com/Necmttn/ax"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Necmttn/ax"><img src="https://img.shields.io/github/stars/Necmttn/ax?style=social" alt="GitHub stars"></a></div>
 <p>👁️ Observability Frameworks | 💻 Terminal-Friendly</p>

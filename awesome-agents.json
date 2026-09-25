@@ -5187,6 +5187,32 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "Awesome OpenClaw Agents",
+      "project_description": "A community-maintained collection of OpenClaw agent templates with personas, tool bindings, memory rules, and operating schedules.",
+      "project_is_open_source": true,
+      "capabilities": [
+        "Browse reusable OpenClaw agent configurations across roles",
+        "Adapt templates with persona, tool, and memory instructions",
+        "Start new role-specific agents from Markdown configurations"
+      ],
+      "interfaces": [
+        "Markdown templates",
+        "OpenClaw"
+      ],
+      "categories": [
+        "AI Agents"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/mergisi/awesome-openclaw-agents",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T19:10:00Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
