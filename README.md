@@ -1842,6 +1842,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/OpenBMB/XAgent">github</a> | <a href="https://www.youtube.com/watch?v=QGkpd-tsFPA">demo</a> | <a href="https://xagent-doc.readthedocs.io/en/latest/">docs</a> | <a href="https://blog.x-agent.net/blog/xagent/">blog</a></p>
 </div>
 
+### YouTube Skills for AI Agents
+<div><a href="https://github.com/ZeroPointRepo/youtube-skills"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/ZeroPointRepo/youtube-skills"><img src="https://img.shields.io/github/stars/ZeroPointRepo/youtube-skills?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents</p>
+
+<p>A collection of agent skills for retrieving YouTube transcripts, searching videos, browsing channels, and extracting playlists through TranscriptAPI.</p>
+
+<p><a href="https://github.com/ZeroPointRepo/youtube-skills">github</a></p>
+<p><strong>Capabilities:</strong> YouTube transcripts · Video search · Channel browsing · Playlist extraction</p>
+<p><strong>Interfaces:</strong> Agent Skills</p>
+</div>
+
 ### Zep
 <div><a href="https://github.com/getzep/zep/"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/getzep/zep/"><img src="https://img.shields.io/github/stars/getzep/zep?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 3,447 stars (Updated: 2025-07-30)</p>
