@@ -300,6 +300,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/mnotgod96/AppAgent">github</a> | <a href="https://github.com/mnotgod96">github profile</a></p>
 </div>
 
+### Aster
+<div><a href="https://github.com/Zfinix/aster"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Zfinix/aster"><img src="https://img.shields.io/github/stars/Zfinix/aster?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents</p>
+
+<p>Aster is a local-first software-engineering agent that uses shared tools, permissions, memory, skills, and retrieval for chat, code review, and fixes.</p>
+
+<p><a href="https://github.com/Zfinix/aster">github</a></p>
+</div>
+
 ### Astra Assistants API
 <div><a href="https://github.com/datastax/astra-assistants-api"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/datastax/astra-assistants-api"><img src="https://img.shields.io/github/stars/datastax/astra-assistants-api?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 203 stars (Updated: 2025-07-30)</p>
@@ -566,6 +575,15 @@ Here's an awesome list of AI agents:
 <p>Cognee is an open-source framework aimed at simplifying data processing for large language models (LLMs) by creating knowledge graphs and data models, offering tools for information addition, knowledge creation, and similarity-based search</p>
 
 <p><a href="https://github.com/topoteretes/cognee">github</a></p>
+</div>
+
+### ContextStream
+<div><a href="https://github.com/contextstream/mcp-server"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/contextstream/mcp-server"><img src="https://img.shields.io/github/stars/contextstream/mcp-server?style=social" alt="GitHub stars"></a></div>
+<p>🧠 Long-Term Memory</p>
+
+<p>ContextStream is an MCP server for shared project context and persistent agent memory, with semantic search, traceable sources, and scoped access.</p>
+
+<p><a href="https://github.com/contextstream/mcp-server">github</a></p>
 </div>
 
 ### Continue
@@ -945,6 +963,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/microsoft/JARVIS">github</a></p>
 </div>
 
+### Jev Social
+<div><a href="https://github.com/socai-io/jev-social"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/socai-io/jev-social"><img src="https://img.shields.io/github/stars/socai-io/jev-social?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents</p>
+
+<p>A browser-grounded social research agent that lets Jev select bounded operations, uses the socai CLI in the user's Chrome session, and generates source-linked reports.</p>
+
+<p><a href="https://github.com/socai-io/jev-social">github</a></p>
+</div>
+
 ### jevme
 <div><a href="https://github.com/danielyedaniel/jevme"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/danielyedaniel/jevme"><img src="https://img.shields.io/github/stars/danielyedaniel/jevme?style=social" alt="GitHub stars"></a></div>
 <p>💻 Operating System (OS)</p>
@@ -1240,6 +1267,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/NVIDIA/NeMo-Guardrails">github</a> | <a href="https://arxiv.org/abs/2310.10501">research paper</a></p>
 </div>
 
+### Nexus-Agent
+<div><a href="https://github.com/parkain707/nexus-agent"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/parkain707/nexus-agent"><img src="https://img.shields.io/github/stars/parkain707/nexus-agent?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents | ⚙️ Development Frameworks | 🛡️ Safety Guardrails (Safeguarding)</p>
+
+<p>Nexus-Agent is an autonomous software-engineering agent with a self-healing execution loop, AST pre-validation, persistent rollback, and terminal and web interfaces.</p>
+
+<p><a href="https://github.com/parkain707/nexus-agent">github</a></p>
+</div>
+
 ### NPI
 <div><a href="https://github.com/npi-ai/npi"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/npi-ai/npi"><img src="https://img.shields.io/github/stars/npi-ai/npi?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 222 stars (Updated: 2025-07-30)</p>
@@ -1248,6 +1284,24 @@ Here's an awesome list of AI agents:
 <p>NPi is an open-source platform providing tool-use APIs for AI agents, with installation and setup instructions available</p>
 
 <p><a href="https://github.com/npi-ai/npi">github</a> | <a href="https://www.npi.ai/">website</a> | <a href="https://www.npi.ai/docs">docs</a> | <a href="https://www.npi.ai/blog">blog</a></p>
+</div>
+
+### Okto-Nexus
+<div><a href="https://github.com/OktoLabsAI/okto-nexus"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/OktoLabsAI/okto-nexus"><img src="https://img.shields.io/github/stars/OktoLabsAI/okto-nexus?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents | ⚙️ Development Frameworks | 🛡️ Safety Guardrails (Safeguarding)</p>
+
+<p>Okto-Nexus is a local-first MCP coordination hub for multi-agent teams, with durable messaging, atomic handoffs, governance controls, and human approval.</p>
+
+<p><a href="https://github.com/OktoLabsAI/okto-nexus">github</a></p>
+</div>
+
+### Okto-Pulse
+<div><a href="https://github.com/OktoLabsAI/okto-pulse"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/OktoLabsAI/okto-pulse"><img src="https://img.shields.io/github/stars/OktoLabsAI/okto-pulse?style=social" alt="GitHub stars"></a></div>
+<p>⚙️ Development Frameworks | 🛡️ Safety Guardrails (Safeguarding)</p>
+
+<p>Okto-Pulse is a local-first SDLC workbench for AI coding teams, with structured project artifacts, governance gates, validation rules, and MCP tools.</p>
+
+<p><a href="https://github.com/OktoLabsAI/okto-pulse">github</a></p>
 </div>
 
 ### Ollama
@@ -1397,6 +1451,15 @@ Here's an awesome list of AI agents:
 <p>Pydantic is a Python library facilitating data validation through type hints, particularly useful for AI agents, offering fast validation capabilities and compatibility with various development tools</p>
 
 <p><a href="https://github.com/pydantic/pydantic">github</a> | <a href="https://docs.pydantic.dev/">website</a></p>
+</div>
+
+### Reel Agent
+<div><a href="https://github.com/HNF-FRN/Reel-watcher-telegram-Agent"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/HNF-FRN/Reel-watcher-telegram-Agent"><img src="https://img.shields.io/github/stars/HNF-FRN/Reel-watcher-telegram-Agent?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents</p>
+
+<p>A self-hosted Telegram agent that analyzes social-media videos, returns source-linked breakdowns, and can plan or build related projects on the user's PC with command approvals.</p>
+
+<p><a href="https://github.com/HNF-FRN/Reel-watcher-telegram-Agent">github</a></p>
 </div>
 
 ### Self Auditing Agent
@@ -1586,6 +1649,15 @@ Here's an awesome list of AI agents:
 <p>VacAIgent is a Streamlit-integrated, CrewAI framework-based AI application (Trip Planner Agent) that automates and enhances trip planning through a user-friendly interface, demonstrating collaborative AI agent task execution and offering an interactive web app experience for tailoring travel plans</p>
 
 <p><a href="https://github.com/tonykipkemboi/trip_planner_agent">github</a></p>
+</div>
+
+### Vetto
+<div><a href="https://github.com/shleder/vetto"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/shleder/vetto"><img src="https://img.shields.io/github/stars/shleder/vetto?style=social" alt="GitHub stars"></a></div>
+<p>⚙️ Development Frameworks | 🛡️ Safety Guardrails (Safeguarding)</p>
+
+<p>Vetto is a daemon-less, rootless sandbox that applies kernel-enforced security policies to AI coding agents, with agent command shims and MCP tool isolation.</p>
+
+<p><a href="https://github.com/shleder/vetto">github</a></p>
 </div>
 
 ### vimGPT
