@@ -2767,6 +2767,24 @@
       ]
     },
     {
+      "project": "jevme",
+      "project_description": "jevme is a voice-controlled macOS agent that uses accessibility controls to operate apps, executes commands as the user speaks, and learns reusable tasks from demonstrations.",
+      "project_is_open_source": true,
+      "categories": [
+        "Operating System (OS)"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/danielyedaniel/jevme",
+          "stars": null,
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T06:41:35Z",
+          "repository_status": "active"
+        }
+      ]
+    },
+    {
       "project": "Guidance",
       "project_description": "The text describes 'guidance,' a programming paradigm that enhances control and efficiency in model generation by allowing for constraints like regex and CFGs, integrating stateful control, and offering a simplified interface for complex generation scenarios",
       "project_is_open_source": true,

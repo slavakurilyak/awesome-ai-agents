@@ -887,6 +887,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/microsoft/JARVIS">github</a></p>
 </div>
 
+### jevme
+<div><a href="https://github.com/danielyedaniel/jevme"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/danielyedaniel/jevme"><img src="https://img.shields.io/github/stars/danielyedaniel/jevme?style=social" alt="GitHub stars"></a></div>
+<p>💻 Operating System (OS)</p>
+
+<p>jevme is a voice-controlled macOS agent that uses accessibility controls to operate apps, executes commands as the user speaks, and learns reusable tasks from demonstrations.</p>
+
+<p><a href="https://github.com/danielyedaniel/jevme">github</a></p>
+</div>
+
 ### LangChain
 <div><a href="https://github.com/langchain-ai/langchain"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/langchain-ai/langchain"><img src="https://img.shields.io/github/stars/langchain-ai/langchain?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 112,549 stars (Updated: 2025-07-30)</p>
