@@ -4273,6 +4273,23 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "The Genesis Accord",
+      "project_description": "An open standard that defines eight evidence-based dimensions for AI agents assessing human–AI operator interactions and issuing credentials.",
+      "project_is_open_source": true,
+      "categories": [
+        "Standardization"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/Bengtsson78/genesis-accord-standard",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T08:31:07Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [

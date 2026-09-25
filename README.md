@@ -1683,6 +1683,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/TaskingAI/TaskingAI">github</a> | <a href="https://www.tasking.ai/">website</a></p>
 </div>
 
+### The Genesis Accord
+<div><a href="https://github.com/Bengtsson78/genesis-accord-standard"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Bengtsson78/genesis-accord-standard"><img src="https://img.shields.io/github/stars/Bengtsson78/genesis-accord-standard?style=social" alt="GitHub stars"></a></div>
+<p>📏 Standardization</p>
+
+<p>An open standard that defines eight evidence-based dimensions for AI agents assessing human–AI operator interactions and issuing credentials.</p>
+
+<p><a href="https://github.com/Bengtsson78/genesis-accord-standard">github</a></p>
+</div>
+
 ### tortoise-tts
 <div><a href="https://github.com/neonbjb/tortoise-tts"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/neonbjb/tortoise-tts"><img src="https://img.shields.io/github/stars/neonbjb/tortoise-tts?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 14,463 stars (Updated: 2025-07-30)</p>
