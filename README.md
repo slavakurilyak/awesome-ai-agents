@@ -1426,6 +1426,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/pydantic/pydantic">github</a> | <a href="https://docs.pydantic.dev/">website</a></p>
 </div>
 
+### Reel Agent
+<div><a href="https://github.com/HNF-FRN/Reel-watcher-telegram-Agent"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/HNF-FRN/Reel-watcher-telegram-Agent"><img src="https://img.shields.io/github/stars/HNF-FRN/Reel-watcher-telegram-Agent?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents</p>
+
+<p>A self-hosted Telegram agent that analyzes social-media videos, returns source-linked breakdowns, and can plan or build related projects on the user's PC with command approvals.</p>
+
+<p><a href="https://github.com/HNF-FRN/Reel-watcher-telegram-Agent">github</a></p>
+</div>
+
 ### Self Auditing Agent
 <div><a href="https://github.com/simin-yuan/self-auditing-agent"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/simin-yuan/self-auditing-agent"><img src="https://img.shields.io/github/stars/simin-yuan/self-auditing-agent?style=social" alt="GitHub stars"></a></div>
 <p>📊 Evaluation Frameworks</p>
