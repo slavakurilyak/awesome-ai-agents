@@ -1208,6 +1208,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/fetchai/uAgents">github</a> | <a href="https://github.com/fetchai">github profile</a></p>
 </div>
 
+### UIZZE
+<div><a href="https://github.com/uizze/uizze"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/uizze/uizze"><img src="https://img.shields.io/github/stars/uizze/uizze?style=social" alt="GitHub stars"></a></div>
+<p>🖥️ UI Development</p>
+
+<p>UIZZE provides design skills and a free GitHub Action for coding agents: its skills guide product-specific interface design, and the PR check flags common UI issues in changed source. An optional paid MCP server provides web and iOS design references.</p>
+
+<p><a href="https://github.com/uizze/uizze">github</a></p>
+<p><strong>Capabilities:</strong> Agent-guided interface design · Pull request UI checks · Web and iOS design reference search</p>
+<p><strong>Interfaces:</strong> Agent Skills · GitHub Action · MCP</p>
+</div>
+
 ### Vetto
 <div><a href="https://github.com/shleder/vetto"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/shleder/vetto"><img src="https://img.shields.io/github/stars/shleder/vetto?style=social" alt="GitHub stars"></a></div>
 <p>⚙️ Development Frameworks | 🛡️ Safety Guardrails (Safeguarding)</p>
