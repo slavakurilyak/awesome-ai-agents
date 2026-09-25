@@ -4716,6 +4716,26 @@
         "repository_status": "active"
       }]
     }
+ ,
+    {
+      "project": "Sonzai Go SDK",
+      "project_description": "An open-source Go client for the hosted Sonzai Mind Layer API, providing agent runtimes with memory context, turn persistence, and voice services.",
+      "project_is_open_source": true,
+      "categories": ["Long-Term Memory", "Development Frameworks"],
+      "capabilities": [
+        "Retrieve memory context bundles for agent sessions",
+        "Persist agent conversation turns and submit usage reports",
+        "Access Sonzai runtime and voice API resources from Go"
+      ],
+      "interfaces": ["Go module", "REST API client"],
+      "sources": [{
+        "source": "github",
+        "source_url": "https://github.com/sonz-ai/sonzai-go",
+        "stars_last_updated": null,
+        "repository_checked_at": "2026-09-25T18:25:17Z",
+        "repository_status": "active"
+      }]
+    }
   ],
   "categories": [
     {
