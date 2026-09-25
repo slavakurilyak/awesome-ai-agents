@@ -169,6 +169,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/agno-agi/agno">github</a></p>
 </div>
 
+### AI for Database MCP Server
+<div><a href="https://github.com/dann26parr69/aifordatabase-mcp"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/dann26parr69/aifordatabase-mcp"><img src="https://img.shields.io/github/stars/dann26parr69/aifordatabase-mcp?style=social" alt="GitHub stars"></a></div>
+<p>🔌 MCP Servers | 🔧 Tool Calling (Function Calling)</p>
+
+<p>An open-source MCP server connecting agents to AI for Database's hosted API for scoped database queries, schema inspection, scheduled workflows, and dashboards.</p>
+
+<p><a href="https://github.com/dann26parr69/aifordatabase-mcp">github</a></p>
+<p><strong>Capabilities:</strong> Inspect database connections and schemas · Run scoped database queries · Create and trigger scheduled workflows · Inspect dashboards and usage</p>
+<p><strong>Interfaces:</strong> MCP · npx CLI · Claude Code · Claude Desktop · Cursor</p>
+</div>
+
 ### AI SDK by Vercel
 <div><a href="https://github.com/vercel/ai"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/vercel/ai"><img src="https://img.shields.io/github/stars/vercel/ai?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 16,133 stars (Updated: 2025-07-30)</p>
