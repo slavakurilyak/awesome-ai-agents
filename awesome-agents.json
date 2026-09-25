@@ -4336,6 +4336,26 @@
         "repository_status": "active"
       }]
     }
+ ,
+    {
+      "project": "Agent Platform",
+      "project_description": "A lightweight, stateless platform for discovering and routing requests between AI agents through an HTTP and JSON API.",
+      "project_is_open_source": true,
+      "categories": ["AI Agents"],
+      "capabilities": [
+        "Register and discover agents dynamically",
+        "Route requests between agents with message history",
+        "Trace cross-agent requests"
+      ],
+      "interfaces": ["HTTP and JSON API", "Docker", "FastAPI"],
+      "sources": [{
+        "source": "github",
+        "source_url": "https://github.com/Ace-li521/agent-platform",
+        "stars_last_updated": null,
+        "repository_checked_at": "2026-09-25T17:45:09Z",
+        "repository_status": "active"
+      }]
+    }
   ],
   "categories": [
     {
