@@ -1099,6 +1099,15 @@ Here's an awesome list of AI agents:
 <p><strong>Interfaces:</strong> MCP server · HTTP API · Web application</p>
 </div>
 
+### stipend.sh
+<div><a href="https://github.com/stipend-sh/stipend"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/stipend-sh/stipend"><img src="https://img.shields.io/github/stars/stipend-sh/stipend?style=social" alt="GitHub stars"></a></div>
+<p>🔧 Tool Calling (Function Calling)</p>
+
+<p>A non-custodial USDC wallet on Base for AI agents, with an MCP server and spending limits enforced below the instruction layer.</p>
+
+<p><a href="https://github.com/stipend-sh/stipend">github</a></p>
+</div>
+
 ### StoryRoute
 <div><a href="https://github.com/samirasadov28-code/storyroute"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/samirasadov28-code/storyroute"><img src="https://img.shields.io/github/stars/samirasadov28-code/storyroute?style=social" alt="GitHub stars"></a></div>
 <p>🤖 AI Agents</p>
