@@ -83,6 +83,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/VRSEN/agency-swarm">github</a></p>
 </div>
 
+### Agent 007
+<div><a href="https://github.com/bill10/agent-007"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/bill10/agent-007"><img src="https://img.shields.io/github/stars/bill10/agent-007?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents</p>
+
+<p>A self-hosted job board that runs coding agents in isolated Git worktrees, queues jobs, and returns pull requests or summaries for review.</p>
+
+<p><a href="https://github.com/bill10/agent-007">github</a></p>
+<p><strong>Capabilities:</strong> Run terminal coding agents in isolated Git worktrees · Queue jobs and review resulting pull requests or summaries · Coordinate workers through MCP</p>
+<p><strong>Interfaces:</strong> Web UI · CLI · MCP</p>
+</div>
+
 ### Agent by Stately AI
 <div><a href="https://github.com/statelyai/agent/"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/statelyai/agent/"><img src="https://img.shields.io/github/stars/statelyai/agent?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 464 stars</p>
