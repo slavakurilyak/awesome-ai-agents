@@ -3876,6 +3876,37 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "GCF (Graph Compact Format)",
+      "project_description": "An AI-native structured-data wire format with implementations in six languages and a proxy for adopting compact agent tool responses.",
+      "project_is_open_source": true,
+      "capabilities": [
+        "Encode and decode structured data",
+        "Reduce token use in agent tool responses",
+        "Adopt compact responses through a proxy"
+      ],
+      "interfaces": [
+        "Go SDK",
+        "Rust SDK",
+        "TypeScript SDK",
+        "Python SDK",
+        "Swift SDK",
+        "Kotlin SDK"
+      ],
+      "categories": [
+        "Standardization",
+        "Tool Calling (Function Calling)"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/blackwell-systems/gcf",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T17:01:22Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [

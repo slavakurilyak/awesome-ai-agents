@@ -677,6 +677,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/frontman-ai/frontman">github</a></p>
 </div>
 
+### GCF (Graph Compact Format)
+<div><a href="https://github.com/blackwell-systems/gcf"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/blackwell-systems/gcf"><img src="https://img.shields.io/github/stars/blackwell-systems/gcf?style=social" alt="GitHub stars"></a></div>
+<p>📏 Standardization | 🔧 Tool Calling (Function Calling)</p>
+
+<p>An AI-native structured-data wire format with implementations in six languages and a proxy for adopting compact agent tool responses.</p>
+
+<p><a href="https://github.com/blackwell-systems/gcf">github</a></p>
+<p><strong>Capabilities:</strong> Encode and decode structured data · Reduce token use in agent tool responses · Adopt compact responses through a proxy</p>
+<p><strong>Interfaces:</strong> Go SDK · Rust SDK · TypeScript SDK · Python SDK · Swift SDK · Kotlin SDK</p>
+</div>
+
 ### GitHub MCP Server
 <div><a href="https://github.com/github/github-mcp-server"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/github/github-mcp-server"><img src="https://img.shields.io/github/stars/github/github-mcp-server?style=social" alt="GitHub stars"></a></div>
 <p>🔌 MCP Servers | 🔧 Tool Calling (Function Calling)</p>
