@@ -756,6 +756,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/guidance-ai/guidance">github</a> | <a href="https://guidance.readthedocs.org/">docs</a></p>
 </div>
 
+### HagiCode Desktop
+<div><a href="https://github.com/HagiCode-org/desktop"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/HagiCode-org/desktop"><img src="https://img.shields.io/github/stars/HagiCode-org/desktop?style=social" alt="GitHub stars"></a></div>
+<p>⚙️ Development Frameworks | 🖥️ UI Development</p>
+
+<p>An Electron desktop app for installing, running, monitoring, and updating HagiCode Server, with local resource monitoring and agent executor selection.</p>
+
+<p><a href="https://github.com/HagiCode-org/desktop">github</a></p>
+<p><strong>Capabilities:</strong> Set up and manage HagiCode Server · Monitor local resources and service health · Select coding-agent executors</p>
+<p><strong>Interfaces:</strong> Desktop UI · Claude Code · Codex · GitHub Copilot CLI</p>
+</div>
+
 ### halo-record
 <div><a href="https://github.com/bkuan001/halo-record"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/bkuan001/halo-record"><img src="https://img.shields.io/github/stars/bkuan001/halo-record?style=social" alt="GitHub stars"></a></div>
 <p>👁️ Observability Frameworks</p>
