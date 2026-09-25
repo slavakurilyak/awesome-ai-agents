@@ -3703,6 +3703,23 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "Pilot Protocol",
+      "project_description": "Pilot Protocol is an overlay network for AI agents, with permanent virtual addresses, encrypted UDP tunnels, NAT traversal, and per-peer trust controls.",
+      "project_is_open_source": true,
+      "categories": [
+        "Standardization"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/pilot-protocol/pilotprotocol",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T16:31:36Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
