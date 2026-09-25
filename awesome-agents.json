@@ -4235,6 +4235,27 @@
         }
       ]
     }
+ ,
+    {
+      "project": "n3rv (formerly NERV)",
+      "project_description": "A runtime library and config generator for OpenCode agent workspaces, with provider abstraction, A2A task delegation, persistent memory, and MCP servers.",
+      "project_is_open_source": true,
+      "categories": ["Development Frameworks"],
+      "capabilities": [
+        "Scaffold and update OpenCode agent workspaces",
+        "Route models through provider adapters",
+        "Delegate tasks between agents through an A2A hub",
+        "Store and retrieve agent memory"
+      ],
+      "interfaces": ["CLI", "Python package", "MCP servers", "OpenCode integration"],
+      "sources": [{
+        "source": "github",
+        "source_url": "https://github.com/juanmanueldaza/n3rv",
+        "stars_last_updated": null,
+        "repository_checked_at": "2026-09-25T17:32:41Z",
+        "repository_status": "active"
+      }]
+    }
   ],
   "categories": [
     {
