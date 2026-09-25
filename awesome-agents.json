@@ -3997,6 +3997,37 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "AI for Database MCP Server",
+      "project_description": "An open-source MCP server connecting agents to AI for Database's hosted API for scoped database queries, schema inspection, scheduled workflows, and dashboards.",
+      "project_is_open_source": true,
+      "capabilities": [
+        "Inspect database connections and schemas",
+        "Run scoped database queries",
+        "Create and trigger scheduled workflows",
+        "Inspect dashboards and usage"
+      ],
+      "interfaces": [
+        "MCP",
+        "npx CLI",
+        "Claude Code",
+        "Claude Desktop",
+        "Cursor"
+      ],
+      "categories": [
+        "MCP Servers",
+        "Tool Calling (Function Calling)"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/dann26parr69/aifordatabase-mcp",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T17:11:09Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
