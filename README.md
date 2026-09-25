@@ -1493,6 +1493,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/trevhud/rote">github</a></p>
 </div>
 
+### Routeweiler
+<div><a href="https://github.com/nikoSchoinas/routeweiler-python-sdk"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/nikoSchoinas/routeweiler-python-sdk"><img src="https://img.shields.io/github/stars/nikoSchoinas/routeweiler-python-sdk?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents | 🔧 Tool Calling (Function Calling)</p>
+
+<p>An async HTTP client for autonomous agents that handles HTTP 402 payments across multiple payment rails, enforces spend policies, recovers credentials, and emits audit traces.</p>
+
+<p><a href="https://github.com/nikoSchoinas/routeweiler-python-sdk">github</a></p>
+<p><strong>Capabilities:</strong> Handle paid HTTP requests across x402, L402, MPP-Tempo, and Stripe SPT · Apply spend caps and policy rules to agent payments · Recover payment credentials and emit audit traces</p>
+<p><strong>Interfaces:</strong> Python async HTTP client · PyPI package</p>
+</div>
+
 ### rust-norion
 <div><a href="https://github.com/yanghao1143/rust-norion"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/yanghao1143/rust-norion"><img src="https://img.shields.io/github/stars/yanghao1143/rust-norion?style=social" alt="GitHub stars"></a></div>
 <p>🤖 AI Agents | ⚙️ Development Frameworks</p>

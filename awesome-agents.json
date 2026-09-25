@@ -4276,6 +4276,26 @@
         "repository_status": "active"
       }]
     }
+ ,
+    {
+      "project": "Routeweiler",
+      "project_description": "An async HTTP client for autonomous agents that handles HTTP 402 payments across multiple payment rails, enforces spend policies, recovers credentials, and emits audit traces.",
+      "project_is_open_source": true,
+      "categories": ["AI Agents", "Tool Calling (Function Calling)"],
+      "capabilities": [
+        "Handle paid HTTP requests across x402, L402, MPP-Tempo, and Stripe SPT",
+        "Apply spend caps and policy rules to agent payments",
+        "Recover payment credentials and emit audit traces"
+      ],
+      "interfaces": ["Python async HTTP client", "PyPI package"],
+      "sources": [{
+        "source": "github",
+        "source_url": "https://github.com/nikoSchoinas/routeweiler-python-sdk",
+        "stars_last_updated": null,
+        "repository_checked_at": "2026-09-25T17:38:02Z",
+        "repository_status": "active"
+      }]
+    }
   ],
   "categories": [
     {
