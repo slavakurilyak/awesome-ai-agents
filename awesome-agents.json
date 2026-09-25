@@ -5159,6 +5159,34 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "CoWorker Protocol",
+      "project_description": "A peer-to-peer protocol for serving and invoking agent skills over XMTP with encrypted communication and revocable trust.",
+      "project_is_open_source": true,
+      "capabilities": [
+        "Serve remote agent skills without distributing their implementation",
+        "Delegate tasks asynchronously between agents",
+        "Apply trust levels and version checks to remote skill calls"
+      ],
+      "interfaces": [
+        "Python package",
+        "MCP server",
+        "XMTP"
+      ],
+      "categories": [
+        "Development Frameworks",
+        "Standardization"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/ZiwayZhao/agent-coworker",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T19:08:00Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
