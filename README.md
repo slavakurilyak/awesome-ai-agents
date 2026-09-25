@@ -1018,6 +1018,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/mastra-ai/mastra">github</a></p>
 </div>
 
+### Melaya SDKs
+<div><a href="https://github.com/melaya-labs/melaya"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/melaya-labs/melaya"><img src="https://img.shields.io/github/stars/melaya-labs/melaya?style=social" alt="GitHub stars"></a></div>
+<p>⚙️ Development Frameworks</p>
+
+<p>Nine official open-source SDKs for integrating applications with Melaya's APIs, covering authentication, agents, pipelines, device control, evaluations, and other public platform surfaces.</p>
+
+<p><a href="https://github.com/melaya-labs/melaya">github</a></p>
+<p><strong>Capabilities:</strong> Integrate applications with Melaya APIs · Manage agent workflows and platform resources</p>
+<p><strong>Interfaces:</strong> TypeScript · Python · Go · Rust · Java · Kotlin · C# / .NET · Ruby · PHP</p>
+</div>
+
 ### mem0
 <div><a href="https://github.com/mem0ai/mem0"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/mem0ai/mem0"><img src="https://img.shields.io/github/stars/mem0ai/mem0?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 37,574 stars (Updated: 2025-07-30)</p>

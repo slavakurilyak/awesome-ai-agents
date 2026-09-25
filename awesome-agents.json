@@ -3784,6 +3784,38 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "Melaya SDKs",
+      "project_description": "Nine official open-source SDKs for integrating applications with Melaya's APIs, covering authentication, agents, pipelines, device control, evaluations, and other public platform surfaces.",
+      "project_is_open_source": true,
+      "capabilities": [
+        "Integrate applications with Melaya APIs",
+        "Manage agent workflows and platform resources"
+      ],
+      "interfaces": [
+        "TypeScript",
+        "Python",
+        "Go",
+        "Rust",
+        "Java",
+        "Kotlin",
+        "C# / .NET",
+        "Ruby",
+        "PHP"
+      ],
+      "categories": [
+        "Development Frameworks"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/melaya-labs/melaya",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T16:53:53Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
