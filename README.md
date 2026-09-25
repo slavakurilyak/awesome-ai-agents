@@ -147,6 +147,17 @@ Here's an awesome list of AI agents:
 <p><strong>Interfaces:</strong> CLI · Docker · Cloud virtual machines · Claude Code · Codex · OpenCode</p>
 </div>
 
+### AgentField
+<div><a href="https://github.com/Agent-Field/agentfield"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Agent-Field/agentfield"><img src="https://img.shields.io/github/stars/Agent-Field/agentfield?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents | ⚙️ Development Frameworks | 👁️ Observability Frameworks</p>
+
+<p>An open-source control plane for building and operating AI agents as callable services, with routing, coordination, asynchronous execution, memory, and observability.</p>
+
+<p><a href="https://github.com/Agent-Field/agentfield">github</a></p>
+<p><strong>Capabilities:</strong> Expose agent functions as REST endpoints for services and other agents · Coordinate multi-agent workflows with fan-out, queues, and retries · Operate agent backends with memory and execution observability</p>
+<p><strong>Interfaces:</strong> Python SDK · Go SDK · TypeScript SDK · REST API · Control plane</p>
+</div>
+
 ### agentfix-mini-scanner
 <div><a href="https://github.com/Virt92/agentfix-oss-scanner"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Virt92/agentfix-oss-scanner"><img src="https://img.shields.io/github/stars/Virt92/agentfix-oss-scanner?style=social" alt="GitHub stars"></a></div>
 <p>📊 Evaluation Frameworks</p>
