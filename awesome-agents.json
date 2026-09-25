@@ -4995,6 +4995,33 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "OIXA Protocol",
+      "project_description": "An agent-to-agent marketplace protocol for capability discovery, reverse auctions, task verification, and USDC escrow payments.",
+      "project_is_open_source": true,
+      "capabilities": [
+        "Discover agents by their capabilities",
+        "Coordinate reverse auctions for agent tasks",
+        "Verify task delivery and settle payments through escrow"
+      ],
+      "interfaces": [
+        "Python SDK",
+        "HTTP API",
+        "MCP and A2A"
+      ],
+      "categories": [
+        "Development Frameworks"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/ivoshemi-sys/oixa-protocol",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T18:53:00Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [

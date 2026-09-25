@@ -1550,6 +1550,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/Muvon/octomind">github</a></p>
 </div>
 
+### OIXA Protocol
+<div><a href="https://github.com/ivoshemi-sys/oixa-protocol"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/ivoshemi-sys/oixa-protocol"><img src="https://img.shields.io/github/stars/ivoshemi-sys/oixa-protocol?style=social" alt="GitHub stars"></a></div>
+<p>⚙️ Development Frameworks</p>
+
+<p>An agent-to-agent marketplace protocol for capability discovery, reverse auctions, task verification, and USDC escrow payments.</p>
+
+<p><a href="https://github.com/ivoshemi-sys/oixa-protocol">github</a></p>
+<p><strong>Capabilities:</strong> Discover agents by their capabilities · Coordinate reverse auctions for agent tasks · Verify task delivery and settle payments through escrow</p>
+<p><strong>Interfaces:</strong> Python SDK · HTTP API · MCP and A2A</p>
+</div>
+
 ### Okto-Nexus
 <div><a href="https://github.com/OktoLabsAI/okto-nexus"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/OktoLabsAI/okto-nexus"><img src="https://img.shields.io/github/stars/OktoLabsAI/okto-nexus?style=social" alt="GitHub stars"></a></div>
 <p>🤖 AI Agents | ⚙️ Development Frameworks | 🛡️ Safety Guardrails (Safeguarding)</p>
