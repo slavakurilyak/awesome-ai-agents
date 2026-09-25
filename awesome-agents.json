@@ -2942,6 +2942,33 @@
           "stars_last_updated": null
         }
       ]
+    },
+    {
+      "project": "UIZZE",
+      "project_description": "UIZZE provides design skills and a free GitHub Action for coding agents: its skills guide product-specific interface design, and the PR check flags common UI issues in changed source. An optional paid MCP server provides web and iOS design references.",
+      "project_is_open_source": true,
+      "categories": [
+        "UI Development"
+      ],
+      "capabilities": [
+        "Agent-guided interface design",
+        "Pull request UI checks",
+        "Web and iOS design reference search"
+      ],
+      "interfaces": [
+        "Agent Skills",
+        "GitHub Action",
+        "MCP"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/uizze/uizze",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T15:14:32Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
