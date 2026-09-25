@@ -5380,6 +5380,34 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "Arch Tools",
+      "project_description": "A multi-tool API and MCP server for AI agents, with x402 micropayments and tools for web, AI, crypto, and media workflows.",
+      "project_is_open_source": true,
+      "capabilities": [
+        "Call a collection of AI, web, crypto, and media tools",
+        "Pay per call with USDC through x402",
+        "Integrate the tools into MCP-compatible agent clients"
+      ],
+      "interfaces": [
+        "REST API",
+        "MCP server",
+        "TypeScript SDK"
+      ],
+      "categories": [
+        "Development Frameworks",
+        "Tool Calling (Function Calling)"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/Deesmo/Arch-AI-Tools",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T19:26:00Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
