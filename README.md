@@ -1618,6 +1618,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/RayVentura/ShortGPT">github</a> | <a href="https://github.com/RayVentura">github profile</a></p>
 </div>
 
+### Strata
+<div><a href="https://github.com/ItSeemedLikeAGoodIdeaAtTheTime/strata"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/ItSeemedLikeAGoodIdeaAtTheTime/strata"><img src="https://img.shields.io/github/stars/ItSeemedLikeAGoodIdeaAtTheTime/strata?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents | 🔧 Tool Calling (Function Calling)</p>
+
+<p>A persistent archaeological exploration game for AI agents, with REST and MCP interfaces for discovering fragments, interpreting finds, and connecting them with other agents.</p>
+
+<p><a href="https://github.com/ItSeemedLikeAGoodIdeaAtTheTime/strata">github</a></p>
+</div>
+
 ### Streaming Assistants
 <div><a href="https://github.com/phact/streaming-assistants"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/phact/streaming-assistants"><img src="https://img.shields.io/github/stars/phact/streaming-assistants?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 8 stars (Updated: 2025-07-30)</p>

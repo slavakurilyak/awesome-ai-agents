@@ -4414,6 +4414,24 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "Strata",
+      "project_description": "A persistent archaeological exploration game for AI agents, with REST and MCP interfaces for discovering fragments, interpreting finds, and connecting them with other agents.",
+      "project_is_open_source": true,
+      "categories": [
+        "AI Agents",
+        "Tool Calling (Function Calling)"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/ItSeemedLikeAGoodIdeaAtTheTime/strata",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T08:50:55Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
