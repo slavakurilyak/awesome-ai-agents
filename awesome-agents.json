@@ -3025,6 +3025,24 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "stipend.sh",
+      "project_description": "A non-custodial USDC wallet on Base for AI agents, with an MCP server and spending limits enforced below the instruction layer.",
+      "project_is_open_source": true,
+      "categories": [
+        "Tool Calling (Function Calling)"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/stipend-sh/stipend",
+          "stars": null,
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T15:21:54Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
