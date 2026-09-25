@@ -1194,6 +1194,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/modelcontextprotocol/modelcontextprotocol">github</a></p>
 </div>
 
+### n3rv (formerly NERV)
+<div><a href="https://github.com/juanmanueldaza/n3rv"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/juanmanueldaza/n3rv"><img src="https://img.shields.io/github/stars/juanmanueldaza/n3rv?style=social" alt="GitHub stars"></a></div>
+<p>⚙️ Development Frameworks</p>
+
+<p>A runtime library and config generator for OpenCode agent workspaces, with provider abstraction, A2A task delegation, persistent memory, and MCP servers.</p>
+
+<p><a href="https://github.com/juanmanueldaza/n3rv">github</a></p>
+<p><strong>Capabilities:</strong> Scaffold and update OpenCode agent workspaces · Route models through provider adapters · Delegate tasks between agents through an A2A hub · Store and retrieve agent memory</p>
+<p><strong>Interfaces:</strong> CLI · Python package · MCP servers · OpenCode integration</p>
+</div>
+
 ### Nanocoder
 <div><a href="https://github.com/Nano-Collective/nanocoder"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Nano-Collective/nanocoder"><img src="https://img.shields.io/github/stars/Nano-Collective/nanocoder?style=social" alt="GitHub stars"></a></div>
 <p>🤖 AI Agents | 💻 Local Inference | 💻 Terminal-Friendly</p>
