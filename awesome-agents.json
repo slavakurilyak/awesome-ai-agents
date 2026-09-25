@@ -4175,6 +4175,34 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "HVTracker",
+      "project_description": "An open-source trust registry that aggregates public evidence about AI agents and MCP servers, with project comparisons, score history, and machine-readable data.",
+      "project_is_open_source": true,
+      "capabilities": [
+        "Browse evidence about AI-agent and MCP-server projects",
+        "Compare project trust signals",
+        "Review score history and evidence coverage",
+        "Consume machine-readable registry data"
+      ],
+      "interfaces": [
+        "Web app",
+        "Public JSON API",
+        "Embeddable badges"
+      ],
+      "categories": [
+        "Safety Guardrails (Safeguarding)"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/YugantM/hvtracker",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T17:27:27Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
