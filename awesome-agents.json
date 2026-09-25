@@ -6175,6 +6175,32 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "Giselle",
+      "project_description": "Giselle is an open-source visual studio for building and running AI agent workflows that combine models, tools, and data sources to deliver products.",
+      "project_is_open_source": true,
+      "categories": [
+        "AI Agents"
+      ],
+      "capabilities": [
+        "visual agent workflow design",
+        "multi-model and data source integration",
+        "workflow deployment"
+      ],
+      "interfaces": [
+        "Web UI"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/giselles-ai/giselle",
+          "stars": null,
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T19:59:00Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [

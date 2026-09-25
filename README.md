@@ -1073,6 +1073,17 @@ Here's an awesome list of AI agents:
 <p><strong>Interfaces:</strong> Go SDK · Rust SDK · TypeScript SDK · Python SDK · Swift SDK · Kotlin SDK</p>
 </div>
 
+### Giselle
+<div><a href="https://github.com/giselles-ai/giselle"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/giselles-ai/giselle"><img src="https://img.shields.io/github/stars/giselles-ai/giselle?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents</p>
+
+<p>Giselle is an open-source visual studio for building and running AI agent workflows that combine models, tools, and data sources to deliver products.</p>
+
+<p><a href="https://github.com/giselles-ai/giselle">github</a></p>
+<p><strong>Capabilities:</strong> visual agent workflow design · multi-model and data source integration · workflow deployment</p>
+<p><strong>Interfaces:</strong> Web UI</p>
+</div>
+
 ### GitHub MCP Server
 <div><a href="https://github.com/github/github-mcp-server"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/github/github-mcp-server"><img src="https://img.shields.io/github/stars/github/github-mcp-server?style=social" alt="GitHub stars"></a></div>
 <p>🔌 MCP Servers | 🔧 Tool Calling (Function Calling)</p>
