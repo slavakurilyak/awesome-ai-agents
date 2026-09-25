@@ -50,19 +50,12 @@ func run() error {
 	}
 	hist := loadHistory(root + "/github-stars-history.json")
 	sections := renderSections(data, emojis, hist)
-	top, names := topProjects(data)
-	rising := risingProjects(data, names, hist)
-	risingContent := renderList(rising)
-	if len(rising) == 0 {
-		if hasGrowthBaseline(data, hist) {
-			risingContent = "<p><em>No positive seven-day star growth found among eligible projects.</em></p>"
-		} else {
-			risingContent = "<p><em>Collecting daily snapshots. Rising projects will appear once seven-day growth can be calculated.</em></p>"
-		}
-	}
+	top, _ := topProjects(data)
 	content := strings.ReplaceAll(string(template), "${SECTIONS}", sections)
-	content = strings.ReplaceAll(content, "${TOP_STARRED_PROJECTS}", renderList(top))
-	content = strings.ReplaceAll(content, "${RISING_PROJECTS}", risingContent)
+	content = strings.ReplaceAll(content, "${TOP_STARRED_PROJECTS}", renderList(top, hist))
+	for _, window := range []int{1, 7, 30} {
+		content = strings.ReplaceAll(content, growthPlaceholder(window), renderGrowthList(data, top, hist, window))
+	}
 	if e = os.WriteFile(root+"/README.md", []byte(content), 0644); e != nil {
 		return e
 	}
@@ -70,9 +63,9 @@ func run() error {
 	return nil
 }
 
-func hasGrowthBaseline(data projectdata.Data, history map[string][]projectdata.HistoryRow) bool {
+func hasGrowthBaseline(data projectdata.Data, history map[string][]projectdata.HistoryRow, days int) bool {
 	for _, project := range data.Agents {
-		if projectGrowth(project, history, 7) != nil {
+		if projectGrowth(project, history, days) != nil {
 			return true
 		}
 	}
@@ -179,7 +172,11 @@ func projectGrowth(p projectdata.Project, h map[string][]projectdata.HistoryRow,
 		return nil
 	}
 	elapsed := int(latest.Sub(prev).Hours() / 24)
-	if elapsed > days+2 {
+	maxElapsed := days + 2
+	if days == 1 {
+		maxElapsed = 1
+	}
+	if elapsed > maxElapsed {
 		return nil
 	}
 	delta := *rows[len(rows)-1].Stars - *rows[base].Stars
@@ -206,43 +203,30 @@ func topProjects(d projectdata.Data) ([]item, map[string]bool) {
 	}
 	return all, exclude
 }
-func risingProjects(d projectdata.Data, exclude map[string]bool, h map[string][]projectdata.HistoryRow) []item {
+func risingProjects(d projectdata.Data, exclude map[string]bool, h map[string][]projectdata.HistoryRow, days int) []item {
 	all := []item{}
 	for _, p := range d.Agents {
-		if exclude[p.Project] || stars(p) < 100 {
+		if exclude[strings.ToLower(p.Project)] || stars(p) < 100 {
 			continue
 		}
-		g := projectGrowth(p, h, 7)
+		g := projectGrowth(p, h, days)
 		if g != nil && g.Delta > 0 {
 			all = append(all, item{p, g})
 		}
 	}
 	sort.SliceStable(all, func(i, j int) bool {
 		a, b := all[i].Growth, all[j].Growth
-		if a.Relative != b.Relative {
-			return a.Relative > b.Relative
+		if a.Delta != b.Delta {
+			return a.Delta > b.Delta
 		}
-		return a.Delta > b.Delta
+		return a.Relative > b.Relative
 	})
 	if len(all) > 10 {
 		all = all[:10]
 	}
 	return all
 }
-func dateText(s *string) string {
-	if s == nil {
-		return ""
-	}
-	v := *s
-	if t, e := time.Parse(time.RFC3339, v); e == nil {
-		return t.Format("2006-01-02")
-	}
-	if len(v) >= 10 {
-		return v[:10]
-	}
-	return v
-}
-func renderList(items []item) string {
+func renderList(items []item, history map[string][]projectdata.HistoryRow) string {
 	if len(items) == 0 {
 		return "<p><em>No projects to display.</em></p>"
 	}
@@ -257,12 +241,19 @@ func renderList(items []item) string {
 		display := ""
 		if src.Stars != nil {
 			display = fmt.Sprintf(" - %s stars", comma(*src.Stars))
-			if d := dateText(src.StarsLastUpdated); d != "" {
-				display += " (Updated: " + d + ")"
-			}
 		}
 		if x.Growth != nil {
-			display += fmt.Sprintf(" · %s stars / %dd (%+.1f%%)", signedComma(x.Growth.Delta), x.Growth.Days, x.Growth.Relative)
+			display += " · " + growthText(x.Growth)
+		} else {
+			metrics := []string{}
+			for _, days := range []int{1, 7, 30} {
+				if g := projectGrowth(p, history, days); g != nil {
+					metrics = append(metrics, growthText(g))
+				}
+			}
+			if len(metrics) > 0 {
+				display += " · " + strings.Join(metrics, " · ")
+			}
 		}
 		desc := ""
 		if p.ProjectDescription != nil {
@@ -273,6 +264,34 @@ func renderList(items []item) string {
 	b.WriteString("</ol>")
 	return b.String()
 }
+
+func growthText(g *growth) string {
+	period := fmt.Sprintf("%dd", g.Days)
+	if g.Days == 1 {
+		period = "today"
+	}
+	return fmt.Sprintf("%s %s stars (%+.1f%%)", period, signedComma(g.Delta), g.Relative)
+}
+
+func growthPlaceholder(days int) string {
+	return fmt.Sprintf("${RISING_%dD}", days)
+}
+
+func renderGrowthList(data projectdata.Data, top []item, history map[string][]projectdata.HistoryRow, days int) string {
+	excluded := make(map[string]bool, len(top))
+	for _, project := range top {
+		excluded[strings.ToLower(project.Project.Project)] = true
+	}
+	items := risingProjects(data, excluded, history, days)
+	if len(items) > 0 {
+		return renderList(items, history)
+	}
+	if !hasGrowthBaseline(data, history, days) {
+		return "<p><em>Collecting daily snapshots; this window will appear when enough history is available.</em></p>"
+	}
+	return "<p><em>No positive star growth found for this window among eligible projects.</em></p>"
+}
+
 func renderSections(d projectdata.Data, em map[string]string, h map[string][]projectdata.HistoryRow) string {
 	type agg struct {
 		p    projectdata.Project
@@ -313,17 +332,13 @@ func renderSections(d projectdata.Data, em map[string]string, h map[string][]pro
 		}
 		fmt.Fprintf(&out, "### %s\n<div><a href=\"%s\"><img src=\"https://img.shields.io/badge/Repository-%s-%s\" alt=\"Repository verification\"></a> %s</div>\n", p.Project, badge, yn, color, starBadge)
 		if s := github(p); s != nil && s.Stars != nil {
-			date := dateText(s.StarsLastUpdated)
 			growthLabels := []string{}
-			for _, window := range []int{7, 30} {
+			for _, window := range []int{1, 7, 30} {
 				if g := projectGrowth(p, h, window); g != nil {
-					growthLabels = append(growthLabels, fmt.Sprintf("%dd %s (%+.1f%%)", window, signedComma(g.Delta), g.Relative))
+					growthLabels = append(growthLabels, growthText(g))
 				}
 			}
 			fmt.Fprintf(&out, "<p>⭐ %s stars", comma(*s.Stars))
-			if date != "" {
-				fmt.Fprintf(&out, " (Updated: %s)", date)
-			}
 			if len(growthLabels) > 0 {
 				fmt.Fprintf(&out, " · Growth: %s", strings.Join(growthLabels, " · "))
 			}

@@ -27,15 +27,25 @@ According to [Andrew Ng (@andrewyng)](https://github.com/andrewyng):
 
 > "GPT-3.5 with an agentic workflow actually outperforms GPT-4"
 
+## 📈 Star Growth
+
+Projects are ranked by stars gained in each window; the percentage shows growth relative to the starting star count. “Today” compares consecutive daily snapshots; 7d and 30d use rolling windows. These rankings exclude the top 10 projects by total stars and projects with fewer than 100 stars. Results appear as the daily history fills in.
+
+### Today
+
+${RISING_1D}
+
+### This Week (7 days)
+
+${RISING_7D}
+
+### This Month (30 days)
+
+${RISING_30D}
+
 ## 🏆 Top 10 Projects by Total Stars
 
 ${TOP_STARRED_PROJECTS}
-
-## 📈 Fastest Relative 7-Day Star Growth (Excluding Top 10; 100+ stars)
-
-Growth compares daily GitHub star snapshots with the latest snapshot at least seven days earlier. Relative growth is ranked first; absolute star change breaks ties. Growth appears after enough history has accumulated.
-
-${RISING_PROJECTS}
 
 ## ✍️ All Projects
 
