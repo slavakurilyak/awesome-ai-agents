@@ -4362,6 +4362,23 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "BuyWhere MCP Server",
+      "project_description": "An open-source MCP client that connects AI agents to BuyWhere’s hosted product-data API for product search, price comparison, and deal discovery.",
+      "project_is_open_source": true,
+      "categories": [
+        "Tool Calling (Function Calling)"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/BuyWhere/buywhere-mcp",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T08:44:28Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
