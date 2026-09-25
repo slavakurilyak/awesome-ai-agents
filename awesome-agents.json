@@ -5242,6 +5242,34 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "TeamHero",
+      "project_description": "A self-hosted workspace for coordinating AI agent teams with structured tasks, persistent memory, and file-conflict controls.",
+      "project_is_open_source": true,
+      "capabilities": [
+        "Plan, assign, review, and track agent tasks and deliverables",
+        "Maintain persistent memory and a shared knowledge base for agent teams",
+        "Coordinate file ownership to prevent conflicting edits"
+      ],
+      "interfaces": [
+        "Web dashboard",
+        "Integrated terminal",
+        "Claude Code"
+      ],
+      "categories": [
+        "Development Frameworks",
+        "Long-Term Memory"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/sagiyaacoby/TeamHero",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T19:15:00Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
