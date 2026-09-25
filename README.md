@@ -632,6 +632,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/stanfordnlp/dspy">github</a></p>
 </div>
 
+### Due Diligence Agents
+<div><a href="https://github.com/zoharbabin/due-diligence-agents"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/zoharbabin/due-diligence-agents"><img src="https://img.shields.io/github/stars/zoharbabin/due-diligence-agents?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents</p>
+
+<p>A local forensic M&A due-diligence application that coordinates specialist agents across nine domains and traces findings to source pages and quotations.</p>
+
+<p><a href="https://github.com/zoharbabin/due-diligence-agents">github</a></p>
+<p><strong>Capabilities:</strong> Analyze data-room documents across specialist domains · Cross-reference findings across legal, finance, commercial, and technical topics · Generate cited HTML and Excel reports</p>
+<p><strong>Interfaces:</strong> CLI · Python package · Docker</p>
+</div>
+
 ### E2B
 <div><a href="https://github.com/e2b-dev/E2B"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/e2b-dev/E2B"><img src="https://img.shields.io/github/stars/e2b-dev/E2B?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 9,112 stars (Updated: 2025-07-30)</p>
