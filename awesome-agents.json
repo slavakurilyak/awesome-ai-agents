@@ -109,63 +109,6 @@
       ]
     },
     {
-      "project": "Devika",
-      "project_description": "Devika is an open-source AI software engineer designed to understand and execute high-level coding tasks by researching, planning, and writing code, aiming to be a competitive alternative to Cognition AI's Devin",
-      "project_is_open_source": true,
-      "categories": [
-        "AI Agents"
-      ],
-      "sources": [
-        {
-          "source": "github",
-          "source_url": "https://github.com/stitionai/devika",
-          "stars": 19431,
-          "stars_last_updated": "2025-07-30T17:24:09.752904",
-          "repository_checked_at": "2026-09-24T12:52:02Z",
-          "repository_status": "active"
-        },
-        {
-          "source": "demo",
-          "source_url": "https://github.com/stitionai/devika?tab=readme-ov-file#demos",
-          "stars_last_updated": null,
-          "repository_checked_at": "2026-09-24T12:50:51Z",
-          "repository_status": "check_failed",
-          "repository_status_detail": "unsupported forge \"github.com\"",
-          "stars": null
-        },
-        {
-          "source": "discord",
-          "source_url": "https://discord.com/invite/8eYNbPuB",
-          "stars_last_updated": null,
-          "stars": null
-        }
-      ]
-    },
-    {
-      "project": "Codel",
-      "project_description": "Autonomous AI agent, inspired by Devin, designed for complex task execution with features like a secure sandboxed Docker environment, integrated browser for real-time web information, text editor, and PostgreSQL database for history tracking, highlighting its relevance to agentic AI through its ability to autonomously navigate and perform actions across terminal, browser, and editor interfaces",
-      "project_is_open_source": true,
-      "categories": [
-        "AI Agents"
-      ],
-      "sources": [
-        {
-          "source": "github",
-          "source_url": "https://github.com/semanser/codel",
-          "stars": 2372,
-          "stars_last_updated": "2025-07-30T17:24:10.239443",
-          "repository_checked_at": "2026-09-24T12:52:02Z",
-          "repository_status": "active"
-        },
-        {
-          "source": "announcement",
-          "source_url": "https://news.ycombinator.com/item?id=39799296",
-          "stars_last_updated": null,
-          "stars": null
-        }
-      ]
-    },
-    {
       "project": "GPT Pilot",
       "project_description": "GPT Pilot is an open-source AI developer tool that aims to provide a comprehensive development companion, capable of writing features, debugging, and interacting with users, presenting itself as an alternative to Devin, the world's first AI software engineer developed by Cognition Labs",
       "project_is_open_source": true,
@@ -190,24 +133,6 @@
       ]
     },
     {
-      "project": "Devon (previously Gilfoyle)",
-      "project_description": "Devon, not Devin, aims to perfect code correction for fill-in-the-middle, bug spotting, and completion tasks, using JSON for metadata in edits, and incorporates looping until user termination in function updates",
-      "project_is_open_source": true,
-      "categories": [
-        "AI Agents"
-      ],
-      "sources": [
-        {
-          "source": "github",
-          "source_url": "https://github.com/entropy-research/Devon",
-          "stars": 3443,
-          "stars_last_updated": "2025-07-30T17:24:11.319246",
-          "repository_checked_at": "2026-09-24T12:52:03Z",
-          "repository_status": "active"
-        }
-      ]
-    },
-    {
       "project": "AutoDev",
       "project_description": "AutoDev is an AI-powered coding assistant offering multilingual support, automatic code generation, and debugging assistance, featuring customizable prompts and specialized tools for development, testing, documentation, and the integration of custom AI agents, with a focus on experimenting and building AI agents using its UI framework",
       "project_is_open_source": true,
@@ -226,111 +151,6 @@
         {
           "source": "docs",
           "source_url": "https://ide.unitmesh.cc",
-          "stars_last_updated": null,
-          "stars": null
-        }
-      ]
-    },
-    {
-      "project": "vimGPT",
-      "project_description": "vimGPT is a project that integrates GPT-4V's vision capabilities with the Vimium extension to enable web browsing and interaction through keyboard navigation and voice commands, offering innovative solutions and improvements for accessibility and efficiency",
-      "project_is_open_source": true,
-      "categories": [
-        "AI Agents"
-      ],
-      "sources": [
-        {
-          "source": "github",
-          "source_url": "https://github.com/ishan0102/vimGPT",
-          "stars": 2669,
-          "stars_last_updated": "2025-07-30T17:24:12.411138",
-          "repository_checked_at": "2026-09-24T12:52:04Z",
-          "repository_status": "active"
-        },
-        {
-          "source": "demo",
-          "source_url": "https://github.com/ishan0102/vimGPT/tree/main?tab=readme-ov-file#vimgpt",
-          "stars_last_updated": null,
-          "repository_checked_at": "2026-09-24T12:50:51Z",
-          "repository_status": "check_failed",
-          "repository_status_detail": "unsupported forge \"github.com\"",
-          "stars": null
-        },
-        {
-          "source": "hackernews",
-          "source_url": "https://news.ycombinator.com/item?id=38200308",
-          "stars_last_updated": null,
-          "stars": null
-        }
-      ]
-    },
-    {
-      "project": "Data Questionnaire Agent",
-      "project_description": "A chatbot designed to query users on data integration practices, offering advice based on responses, utilizing a modified Chainlit library for operation",
-      "project_is_open_source": true,
-      "categories": [
-        "AI Agents"
-      ],
-      "sources": [
-        {
-          "source": "github",
-          "source_url": "https://github.com/onepointconsulting/data-questionnaire-agent",
-          "stars": 67,
-          "stars_last_updated": "2025-07-30T17:24:12.912333",
-          "repository_checked_at": "2026-09-24T12:52:04Z",
-          "repository_status": "active"
-        }
-      ]
-    },
-    {
-      "project": "FinGen",
-      "project_description": "FinGen is a financial analysis agent using RSC, LangChain, and Polygon finance API, emphasizing it's not financial advice and requires API keys for use",
-      "project_is_open_source": true,
-      "categories": [
-        "AI Agents"
-      ],
-      "sources": [
-        {
-          "source": "announcement",
-          "source_url": "https://twitter.com/SullyOmarr/status/1772282548841791730",
-          "stars_last_updated": null,
-          "stars": null
-        },
-        {
-          "source": "github",
-          "source_url": "https://github.com/sullyo/fingen",
-          "stars": 100,
-          "stars_last_updated": "2025-07-30T17:24:13.418391",
-          "repository_checked_at": "2026-09-24T12:52:05Z",
-          "repository_status": "active"
-        }
-      ]
-    },
-    {
-      "project": "Self Operating Computer by Otherside",
-      "project_description": "SOC is a framework enabling multimodal models to operate a computer using human-like inputs and outputs, with compatibility for various models such as GPT-4v, Gemini Pro Vision, and LLaVA, offering future support for additional models and featuring various modes including voice and optical character recognition",
-      "project_is_open_source": true,
-      "categories": [
-        "AI Agents"
-      ],
-      "sources": [
-        {
-          "source": "github",
-          "source_url": "https://github.com/OthersideAI/self-operating-computer",
-          "stars": 9808,
-          "stars_last_updated": "2025-07-30T17:24:16.308172",
-          "repository_checked_at": "2026-09-24T12:52:05Z",
-          "repository_status": "active"
-        },
-        {
-          "source": "github profile",
-          "source_url": "https://github.com/OthersideAI",
-          "stars_last_updated": null,
-          "stars": null
-        },
-        {
-          "source": "landing page",
-          "source_url": "https://www.hyperwriteai.com/self-operating-computer",
           "stars_last_updated": null,
           "stars": null
         }
@@ -559,84 +379,6 @@
       ]
     },
     {
-      "project": "ShortGPT by RayVentura",
-      "project_description": "ShortGPT is an AI-powered framework for automating content creation, including video editing, voiceover synthesis, caption generation, and asset sourcing, with support for multiple languages and seamless integration with Google Colab and Docker for easy deployment",
-      "project_is_open_source": true,
-      "categories": [
-        "AI Agents"
-      ],
-      "sources": [
-        {
-          "source": "github",
-          "source_url": "https://github.com/RayVentura/ShortGPT",
-          "stars": 6679,
-          "stars_last_updated": "2025-07-30T17:24:15.074336",
-          "repository_checked_at": "2026-09-24T12:52:06Z",
-          "repository_status": "active"
-        },
-        {
-          "source": "github profile",
-          "source_url": "https://github.com/RayVentura",
-          "stars_last_updated": null,
-          "stars": null
-        }
-      ]
-    },
-    {
-      "project": "GPT Engineer",
-      "project_description": "GPT-Engineer is an AI-powered tool allowing users to specify software in natural language, automatically generating and executing code, with options for improvement suggestions, and fostering collaboration within the open-source community",
-      "project_is_open_source": true,
-      "categories": [
-        "AI Agents"
-      ],
-      "sources": [
-        {
-          "source": "github",
-          "source_url": "https://github.com/gpt-engineer-org/gpt-engineer",
-          "stars": 54614,
-          "stars_last_updated": "2025-07-30T17:24:15.806563",
-          "repository_checked_at": "2026-09-24T12:52:06Z",
-          "repository_status": "archived"
-        },
-        {
-          "source": "github profile",
-          "source_url": "https://github.com/gpt-engineer-org",
-          "stars_last_updated": null,
-          "stars": null
-        },
-        {
-          "source": "website",
-          "source_url": "https://gptengineer.app",
-          "stars_last_updated": null,
-          "stars": null
-        }
-      ]
-    },
-    {
-      "project": "Self Operating Computer by Otherside",
-      "project_description": "SOC is a framework enabling multimodal models to operate a computer using human-like inputs and outputs, with compatibility for various models such as GPT-4v, Gemini Pro Vision, and LLaVA, offering future support for additional models and featuring various modes including voice and optical character recognition",
-      "project_is_open_source": true,
-      "categories": [
-        "AI Agents"
-      ],
-      "sources": [
-        {
-          "source": "github",
-          "source_url": "https://github.com/OthersideAI/self-operating-computer",
-          "stars": 9808,
-          "stars_last_updated": "2025-07-30T17:24:16.308172",
-          "repository_checked_at": "2026-09-24T12:52:07Z",
-          "repository_status": "active"
-        },
-        {
-          "source": "github profile",
-          "source_url": "https://github.com/OthersideAI",
-          "stars_last_updated": null,
-          "stars": null
-        }
-      ]
-    },
-    {
       "project": "AutoGPT",
       "project_description": "AutoGPT provides accessible AI tools for building and using AI agents, offering a comprehensive framework including Forge for agent creation, agbenchmark for performance evaluation, a leaderboard for competition, a user-friendly UI, and CLI for seamless integration and management",
       "project_is_open_source": true,
@@ -655,30 +397,6 @@
         {
           "source": "github profile",
           "source_url": "https://github.com/Significant-Gravitas",
-          "stars_last_updated": null,
-          "stars": null
-        }
-      ]
-    },
-    {
-      "project": "BabyAGI",
-      "project_description": "BabyAGI exemplifies an AI-powered task management system utilizing OpenAI and vector databases like Chroma or Weaviate, creating, prioritizing, and executing tasks based on previous outcomes and predefined objectives, with the main function involving an infinite loop where tasks are processed, enriched, and stored using OpenAI's NLP capabilities and Chroma/Weaviate, inspired by the Task-Driven Autonomous Agent concept",
-      "project_is_open_source": true,
-      "categories": [
-        "AI Agents"
-      ],
-      "sources": [
-        {
-          "source": "github",
-          "source_url": "https://github.com/yoheinakajima/babyagi",
-          "stars": 21686,
-          "stars_last_updated": "2025-07-30T17:24:17.446519",
-          "repository_checked_at": "2026-09-24T12:52:08Z",
-          "repository_status": "active"
-        },
-        {
-          "source": "github profile",
-          "source_url": "https://github.com/yoheinakajima",
           "stars_last_updated": null,
           "stars": null
         }
@@ -709,54 +427,6 @@
       ]
     },
     {
-      "project": "GPT Newspaper by Tavily",
-      "project_description": "GPT Newspaper is an autonomous agent project using AI to create personalized newspapers based on user preferences, featuring six specialized sub-agents for searching, curating, writing, designing, editing, and publishing content tailored to individual interests",
-      "project_is_open_source": true,
-      "categories": [
-        "AI Agents"
-      ],
-      "sources": [
-        {
-          "source": "github",
-          "source_url": "https://github.com/rotemweiss57/gpt-newspaper",
-          "stars": 1345,
-          "stars_last_updated": "2025-07-30T17:24:18.407518",
-          "repository_checked_at": "2026-09-24T12:52:09Z",
-          "repository_status": "active"
-        },
-        {
-          "source": "github profile",
-          "source_url": "https://github.com/rotemweiss57",
-          "stars_last_updated": null,
-          "stars": null
-        }
-      ]
-    },
-    {
-      "project": "BrowserGPT",
-      "project_description": "BrowserGPT is a project that combines OpenAI's GPT-4 and the Playwright library to control browsers via natural language, enabling code snippet generation for browser tasks",
-      "project_is_open_source": true,
-      "categories": [
-        "AI Agents"
-      ],
-      "sources": [
-        {
-          "source": "github",
-          "source_url": "https://github.com/mayt/BrowserGPT",
-          "stars": 419,
-          "stars_last_updated": "2025-07-30T17:24:18.906250",
-          "repository_checked_at": "2026-09-24T12:52:09Z",
-          "repository_status": "active"
-        },
-        {
-          "source": "github profile",
-          "source_url": "https://github.com/mayt",
-          "stars_last_updated": null,
-          "stars": null
-        }
-      ]
-    },
-    {
       "project": "Cal.ai",
       "project_description": "Cal.ai is an open-source AI scheduling assistant that manages email communications for booking, rearranging, and inquiring about meetings, leveraging a LangChain Agent Executor and MailParser for efficient scheduling without API key exposure",
       "project_is_open_source": true,
@@ -777,24 +447,6 @@
           "stars_last_updated": "2025-07-30T17:24:19.472244",
           "repository_checked_at": "2026-09-24T12:52:09Z",
           "repository_status": "active"
-        }
-      ]
-    },
-    {
-      "project": "Bloop",
-      "project_description": "Bloop is a GPT-4-based coding assistant that boosts engineer productivity by allowing natural language interactions with codebases for explanations, feature writing, error troubleshooting, and more, featuring a code-centric AI playground, fast regex search, and comprehensive code navigation tools",
-      "project_is_open_source": true,
-      "categories": [
-        "AI Agents"
-      ],
-      "sources": [
-        {
-          "source": "github",
-          "source_url": "https://github.com/BloopAI/bloop",
-          "stars": 9480,
-          "stars_last_updated": "2025-07-30T17:24:20.064002",
-          "repository_checked_at": "2026-09-24T12:52:10Z",
-          "repository_status": "archived"
         }
       ]
     },
@@ -853,54 +505,6 @@
       ]
     },
     {
-      "project": "Cursor",
-      "project_description": "Cursor is an AI-enhanced programming editor focusing on code discussion, editing, and debugging, with plans for advanced features like repository healing and AI-generated documentation",
-      "project_is_open_source": true,
-      "categories": [
-        "AI Agents"
-      ],
-      "sources": [
-        {
-          "source": "github",
-          "source_url": "https://github.com/getcursor/cursor/issues",
-          "stars": null,
-          "stars_last_updated": null,
-          "repository_checked_at": "2026-09-24T12:52:11Z",
-          "repository_status": "active"
-        },
-        {
-          "source": "website",
-          "source_url": "https://cursor.sh/",
-          "stars_last_updated": null,
-          "stars": null
-        }
-      ]
-    },
-    {
-      "project": "Sweep",
-      "project_description": "Sweep is an AI tool that automates the transformation of GitHub issues into pull requests, streamlining code improvements and bug fixes, supported by a suite of features like codebase understanding, test running, and a developer-friendly interface for installation and usage",
-      "project_is_open_source": true,
-      "categories": [
-        "AI Agents"
-      ],
-      "sources": [
-        {
-          "source": "github",
-          "source_url": "https://github.com/sweepai/sweep",
-          "stars": 7577,
-          "stars_last_updated": "2025-07-30T17:24:22.279896",
-          "repository_checked_at": "2026-09-24T12:52:12Z",
-          "repository_status": "active"
-        },
-        {
-          "source": "website",
-          "source_url": "https://sweep.dev/",
-          "stars_last_updated": null,
-          "stars": null
-        }
-      ]
-    },
-    {
       "project": "Aider",
       "project_description": "Aider is a command-line tool for AI-assisted pair programming, allowing code editing in local git repositories with GPT-3.5/GPT-4, featuring direct file edits, automatic git commits, and support for most popular programming languages",
       "project_is_open_source": true,
@@ -913,24 +517,6 @@
           "source_url": "https://github.com/paul-gauthier/aider",
           "stars": 36185,
           "stars_last_updated": "2025-07-30T17:24:23.066600",
-          "repository_checked_at": "2026-09-24T12:52:13Z",
-          "repository_status": "active"
-        }
-      ]
-    },
-    {
-      "project": "VacAIgent",
-      "project_description": "VacAIgent is a Streamlit-integrated, CrewAI framework-based AI application (Trip Planner Agent) that automates and enhances trip planning through a user-friendly interface, demonstrating collaborative AI agent task execution and offering an interactive web app experience for tailoring travel plans",
-      "project_is_open_source": true,
-      "categories": [
-        "AI Agents"
-      ],
-      "sources": [
-        {
-          "source": "github",
-          "source_url": "https://github.com/tonykipkemboi/trip_planner_agent",
-          "stars": 133,
-          "stars_last_updated": "2025-07-30T17:24:23.593639",
           "repository_checked_at": "2026-09-24T12:52:13Z",
           "repository_status": "active"
         }
@@ -967,66 +553,6 @@
         {
           "source": "blog",
           "source_url": "https://blog.x-agent.net/blog/xagent/",
-          "stars_last_updated": null,
-          "stars": null
-        }
-      ]
-    },
-    {
-      "project": "AI Researcher",
-      "project_description": "The AI Researcher is an AI agent leveraging Claude 3 and SERPAPI for in-depth topic research, refining subtopic analyses into a comprehensive report, customizable and requiring API keys for functionality",
-      "project_is_open_source": true,
-      "categories": [
-        "AI Agents"
-      ],
-      "sources": [
-        {
-          "source": "github",
-          "source_url": "https://github.com/mshumer/ai-researcher",
-          "stars": 932,
-          "stars_last_updated": "2025-07-30T17:24:24.634259",
-          "repository_checked_at": "2026-09-24T12:52:14Z",
-          "repository_status": "active"
-        },
-        {
-          "source": "announcement",
-          "source_url": "https://twitter.com/i/web/status/1776341679617745126",
-          "stars_last_updated": null,
-          "stars": null
-        },
-        {
-          "source": "website",
-          "source_url": "https://app.hyperwriteai.com/personalassistant/tool/b40d5925-4780-4eed-9f69-a03ae931de37",
-          "stars_last_updated": null,
-          "stars": null
-        }
-      ]
-    },
-    {
-      "project": "CLIN",
-      "project_description": "CLIN by Allen Institute for AI is an interactive continual learning agent that adapts rapidly to tasks, using a setup process involving Java, Python, and the ScienceWorld environment, supported by models like GPT-3.5-turbo and GPT-4",
-      "project_is_open_source": true,
-      "categories": [
-        "AI Agents"
-      ],
-      "sources": [
-        {
-          "source": "website",
-          "source_url": "https://allenai.github.io/clin/",
-          "stars_last_updated": null,
-          "stars": null
-        },
-        {
-          "source": "github",
-          "source_url": "https://github.com/allenai/clin",
-          "stars": 83,
-          "stars_last_updated": "2025-07-30T17:24:25.280267",
-          "repository_checked_at": "2026-09-24T12:52:15Z",
-          "repository_status": "active"
-        },
-        {
-          "source": "research paper",
-          "source_url": "https://arxiv.org/pdf/2310.10134.pdf",
           "stars_last_updated": null,
           "stars": null
         }
@@ -1183,72 +709,6 @@
       ]
     },
     {
-      "project": "Enact",
-      "project_description": "Enact is a Python framework for building generative software that integrates machine learning models or APIs, offering features like tracking and replaying executions, asynchronous flows, and higher-order generative processes",
-      "project_is_open_source": true,
-      "categories": [
-        "Development Frameworks"
-      ],
-      "sources": [
-        {
-          "source": "github",
-          "source_url": "https://github.com/agentic-ai/enact",
-          "stars": 113,
-          "stars_last_updated": "2025-07-30T17:24:28.323492",
-          "repository_checked_at": "2026-09-24T12:52:17Z",
-          "repository_status": "active"
-        }
-      ]
-    },
-    {
-      "project": "Lumos",
-      "project_description": "Lumos introduces a modular, open-source language agent framework with unified data formats that competes with or outperforms GPT-series and larger agents across various complex interactive tasks",
-      "project_is_open_source": true,
-      "categories": [
-        "Development Frameworks"
-      ],
-      "sources": [
-        {
-          "source": "github",
-          "source_url": "https://github.com/allenai/lumos",
-          "stars": 467,
-          "stars_last_updated": "2025-07-30T17:24:28.875021",
-          "repository_checked_at": "2026-09-24T12:52:17Z",
-          "repository_status": "active"
-        },
-        {
-          "source": "website",
-          "source_url": "https://allenai.github.io/lumos/",
-          "stars_last_updated": null,
-          "stars": null
-        }
-      ]
-    },
-    {
-      "project": "TaskingAI",
-      "project_description": "TaskingAI is a platform enhancing AI-native app development with Firebase-like simplicity, offering an all-in-one LLM platform with intuitive project management, BaaS-inspired workflow, and customizable integration for developing GPTs-like multi-tenant applications",
-      "project_is_open_source": true,
-      "categories": [
-        "Development Frameworks"
-      ],
-      "sources": [
-        {
-          "source": "github",
-          "source_url": "https://github.com/TaskingAI/TaskingAI",
-          "stars": 5274,
-          "stars_last_updated": "2025-07-30T17:24:29.411643",
-          "repository_checked_at": "2026-09-24T12:52:18Z",
-          "repository_status": "active"
-        },
-        {
-          "source": "website",
-          "source_url": "https://www.tasking.ai/",
-          "stars_last_updated": null,
-          "stars": null
-        }
-      ]
-    },
-    {
       "project": "AgentOS",
       "project_description": "The Agent OS is an experimental platform for creating self-evolving, autonomous AI agents capable of writing and executing their own code, designed to be a long-term environment for such agents and supports various programming languages",
       "project_is_open_source": true,
@@ -1263,30 +723,6 @@
           "stars_last_updated": "2025-07-30T17:24:29.893282",
           "repository_checked_at": "2026-09-24T12:52:18Z",
           "repository_status": "active"
-        }
-      ]
-    },
-    {
-      "project": "AutoAct",
-      "project_description": "AutoAct is an automatic agent learning framework that synthesizes planning trajectories without large-scale data or closed-source models, using a division-of-labor strategy for task completion, demonstrating superior or comparable performance in experiments",
-      "project_is_open_source": true,
-      "categories": [
-        "Development Frameworks"
-      ],
-      "sources": [
-        {
-          "source": "github",
-          "source_url": "https://github.com/zjunlp/AutoAct",
-          "stars": 229,
-          "stars_last_updated": "2025-07-30T17:24:30.425920",
-          "repository_checked_at": "2026-09-24T12:52:19Z",
-          "repository_status": "active"
-        },
-        {
-          "source": "website",
-          "source_url": "https://www.zjukg.org/project/AutoAct/",
-          "stars_last_updated": null,
-          "stars": null
         }
       ]
     },
@@ -1311,30 +747,6 @@
           "source_url": "https://swe-agent.com/",
           "stars_last_updated": null,
           "stars": null
-        }
-      ]
-    },
-    {
-      "project": "Axflow",
-      "project_description": "Axflow is a TypeScript framework designed for AI development, offering a modular collection of tools for building natural language applications, and it emphasizes a code-first approach to simplify the integration of LLMs into scalable solutions",
-      "project_is_open_source": true,
-      "categories": [
-        "Development Frameworks"
-      ],
-      "sources": [
-        {
-          "source": "website",
-          "source_url": "https://axflow.dev/",
-          "stars_last_updated": null,
-          "stars": null
-        },
-        {
-          "source": "github",
-          "source_url": "https://github.com/axflow/axflow",
-          "stars": 1122,
-          "stars_last_updated": "2025-07-30T17:24:31.818495",
-          "repository_checked_at": "2026-09-24T12:52:20Z",
-          "repository_status": "active"
         }
       ]
     },
@@ -1377,102 +789,6 @@
           "stars_last_updated": "2025-07-30T17:24:32.934961",
           "repository_checked_at": "2026-09-24T12:52:21Z",
           "repository_status": "active"
-        }
-      ]
-    },
-    {
-      "project": "Adala",
-      "project_description": "Adala is a framework for autonomous data labeling agents, supporting Python 3.8 to 3.11, with features for customizable, intelligent data processing and integration into Python Notebooks",
-      "project_is_open_source": true,
-      "categories": [
-        "Development Frameworks"
-      ],
-      "sources": [
-        {
-          "source": "github",
-          "source_url": "https://github.com/HumanSignal/Adala",
-          "stars": 1228,
-          "stars_last_updated": "2025-07-30T17:24:33.478814",
-          "repository_checked_at": "2026-09-24T12:52:21Z",
-          "repository_status": "active"
-        }
-      ]
-    },
-    {
-      "project": "Tarsier by Reworkd",
-      "project_description": "Tarsier is an open-source utility library by Reworkd, aimed at enhancing web interaction for AI agents by visually tagging interactable elements, facilitating actions based on text or screenshots for GPT-4(V) and providing OCR utilities",
-      "project_is_open_source": true,
-      "categories": [
-        "Development Frameworks"
-      ],
-      "sources": [
-        {
-          "source": "github",
-          "source_url": "https://github.com/reworkd/tarsier",
-          "stars": 1713,
-          "stars_last_updated": "2025-07-30T17:24:34.023649",
-          "repository_checked_at": "2026-09-24T12:52:21Z",
-          "repository_status": "active"
-        },
-        {
-          "source": "website",
-          "source_url": "https://reworkd.ai/",
-          "stars_last_updated": null,
-          "stars": null
-        }
-      ]
-    },
-    {
-      "project": "AgentGPT by Reworkd",
-      "project_description": "AgentGPT allows users to configure and deploy autonomous AI agents, enabling them to name their own custom AI and guide it towards any desired goal through task execution and learning",
-      "project_is_open_source": true,
-      "categories": [
-        "Development Frameworks"
-      ],
-      "sources": [
-        {
-          "source": "github",
-          "source_url": "https://github.com/reworkd/AgentGPT",
-          "stars": 34613,
-          "stars_last_updated": "2025-07-30T17:24:34.670109",
-          "repository_checked_at": "2026-09-24T12:52:22Z",
-          "repository_status": "archived"
-        },
-        {
-          "source": "github profile",
-          "source_url": "https://github.com/reworkd",
-          "stars_last_updated": null,
-          "stars": null
-        }
-      ]
-    },
-    {
-      "project": "AgentLabs",
-      "project_description": "AgentLabs is an open-source, universal frontend solution for AI agents, offering an authentication portal, chat interface, analytics, and payment features to streamline the deployment of AI agents to public users",
-      "project_is_open_source": true,
-      "categories": [
-        "Development Frameworks"
-      ],
-      "sources": [
-        {
-          "source": "github",
-          "source_url": "https://github.com/agentlabs-inc/agentlabs",
-          "stars": 498,
-          "stars_last_updated": "2025-07-30T17:24:35.446142",
-          "repository_checked_at": "2026-09-24T12:52:22Z",
-          "repository_status": "active"
-        },
-        {
-          "source": "website",
-          "source_url": "https://www.agentlabs.dev/",
-          "stars_last_updated": null,
-          "stars": null
-        },
-        {
-          "source": "docs",
-          "source_url": "https://docs.agentlabs.dev/",
-          "stars_last_updated": null,
-          "stars": null
         }
       ]
     },
@@ -1567,24 +883,6 @@
       ]
     },
     {
-      "project": "OpenGPTs",
-      "project_description": "OpenGPTs is an open-source project providing customizable GPT-based experiences, offering control over language models, prompts, tools, vector databases, retrieval algorithms, and chat history databases, featuring three cognitive architectures: Assistant, RAG, and Chatbot, with support for various language models and deployment options including Docker, Cloud Run, and Kubernetes",
-      "project_is_open_source": true,
-      "categories": [
-        "Development Frameworks"
-      ],
-      "sources": [
-        {
-          "source": "github",
-          "source_url": "https://github.com/langchain-ai/opengpts",
-          "stars": 6673,
-          "stars_last_updated": "2025-07-30T17:24:38.871032",
-          "repository_checked_at": "2026-09-24T12:52:25Z",
-          "repository_status": "archived"
-        }
-      ]
-    },
-    {
       "project": "LangServe",
       "project_description": "LangServe facilitates the deployment of LangChain runnables and chains as a REST API, providing features like automatic schema inference, efficient endpoints, and a playground page, with plans for a hosted version for one-click deployments",
       "project_is_open_source": true,
@@ -1663,48 +961,6 @@
       ]
     },
     {
-      "project": "JARVIS by Microsoft",
-      "project_description": "JARVIS aims to advance artificial general intelligence (AGI) through cutting-edge research and facilitate broader community engagement",
-      "project_is_open_source": true,
-      "categories": [
-        "Development Frameworks"
-      ],
-      "sources": [
-        {
-          "source": "github",
-          "source_url": "https://github.com/microsoft/JARVIS",
-          "stars": 24248,
-          "stars_last_updated": "2025-07-30T17:24:41.649978",
-          "repository_checked_at": "2026-09-24T12:52:26Z",
-          "repository_status": "active"
-        }
-      ]
-    },
-    {
-      "project": "SuperAGI",
-      "project_description": "SuperAGI is an open-source framework facilitating the development, management, and operation of useful Autonomous AI Agents with a variety of features and toolkits available, including a graphical user interface, action console, and multiple vector databases",
-      "project_is_open_source": true,
-      "categories": [
-        "Development Frameworks"
-      ],
-      "sources": [
-        {
-          "source": "github",
-          "source_url": "https://github.com/TransformerOptimus/SuperAGI",
-          "stars": 16585,
-          "stars_last_updated": "2025-07-30T17:24:42.783653",
-          "repository_checked_at": "2026-09-24T12:52:27Z",
-          "repository_status": "active"
-        },
-        {
-          "source": "github profile",
-          "source_url": "https://github.com/TransformerOptimus",
-          "stars_last_updated": null,
-          "stars": null
-        }
-      ]
-    },
-    {
       "project": "ChatDev",
       "project_description": "ChatDev is a virtual software company utilizing intelligent agents to revolutionize the digital world through programming, offering a highly customizable framework and integrating innovative approaches like Experiential Co-Learning, Docker support, Git management, and Human-Agent Interaction",
       "project_is_open_source": true,
@@ -1723,30 +979,6 @@
         {
           "source": "github profile",
           "source_url": "https://github.com/OpenBMB",
-          "stars_last_updated": null,
-          "stars": null
-        }
-      ]
-    },
-    {
-      "project": "MetaGPT",
-      "project_description": "MetaGPT is a multi-agent framework enabling GPT to collaborate within a software company, facilitating complex tasks by assigning different roles to GPTs",
-      "project_is_open_source": true,
-      "categories": [
-        "Development Frameworks"
-      ],
-      "sources": [
-        {
-          "source": "github",
-          "source_url": "https://github.com/geekan/MetaGPT",
-          "stars": 57568,
-          "stars_last_updated": "2025-07-30T17:24:44.151871",
-          "repository_checked_at": "2026-09-24T12:52:28Z",
-          "repository_status": "active"
-        },
-        {
-          "source": "github profile",
-          "source_url": "https://github.com/geekan",
           "stars_last_updated": null,
           "stars": null
         }
@@ -1873,30 +1105,6 @@
       ]
     },
     {
-      "project": "Agents by AI Waves",
-      "project_description": "Agents is an open-source framework for building autonomous language agents with features including long-short term memory, tool usage, web navigation, multi-agent communication, human-agent interaction, and symbolic control, allowing customization through natural language config files and deployment in various interfaces",
-      "project_is_open_source": true,
-      "categories": [
-        "Development Frameworks"
-      ],
-      "sources": [
-        {
-          "source": "github",
-          "source_url": "https://github.com/aiwaves-cn/agents",
-          "stars": 5666,
-          "stars_last_updated": "2025-07-30T17:24:47.812263",
-          "repository_checked_at": "2026-09-24T12:52:31Z",
-          "repository_status": "active"
-        },
-        {
-          "source": "github profile",
-          "source_url": "https://github.com/aiwaves-cn",
-          "stars_last_updated": null,
-          "stars": null
-        }
-      ]
-    },
-    {
       "project": "CAMEL",
       "project_description": "CAMEL (Communicative Agents for Mind Exploration of Large Language Model Society) is an open-source library designed for studying autonomous and communicative agents, facilitating research in understanding their behaviors, capabilities, and potential risks through scalable techniques and cooperative frameworks, including role-playing, with extensive documentation, examples, and datasets, while also supporting integration with open-source models as backends for diverse applications",
       "project_is_open_source": true,
@@ -1939,102 +1147,6 @@
         {
           "source": "github profile",
           "source_url": "https://github.com/superagent-ai",
-          "stars_last_updated": null,
-          "stars": null
-        }
-      ]
-    },
-    {
-      "project": "AgentVerse",
-      "project_description": "AgentVerse is an Apache2-licensed Python framework for deploying multiple LLM-based agents in various applications, offering task-solving and simulation frameworks for collaborative task accomplishment and behavior observation among agents",
-      "project_is_open_source": true,
-      "categories": [
-        "Development Frameworks"
-      ],
-      "sources": [
-        {
-          "source": "github",
-          "source_url": "https://github.com/OpenBMB/AgentVerse",
-          "stars": 4680,
-          "stars_last_updated": "2025-07-30T17:24:49.425824",
-          "repository_checked_at": "2026-09-24T12:52:32Z",
-          "repository_status": "active"
-        },
-        {
-          "source": "github profile",
-          "source_url": "https://github.com/OpenBMB",
-          "stars_last_updated": null,
-          "stars": null
-        }
-      ]
-    },
-    {
-      "project": "GPTeam",
-      "project_description": "GPTeam is a collaborative AI project utilizing GPT-4 to create multi-agent systems aimed at enhancing productivity and communication, with features including agent memory and interaction, alongside instructions for setup and integration with third-party services",
-      "project_is_open_source": true,
-      "categories": [
-        "Development Frameworks"
-      ],
-      "sources": [
-        {
-          "source": "github",
-          "source_url": "https://github.com/101dotxyz/GPTeam",
-          "stars": 1696,
-          "stars_last_updated": "2025-07-30T17:24:49.971840",
-          "repository_checked_at": "2026-09-24T12:52:32Z",
-          "repository_status": "active"
-        },
-        {
-          "source": "github profile",
-          "source_url": "https://github.com/101dotxyz",
-          "stars_last_updated": null,
-          "stars": null
-        }
-      ]
-    },
-    {
-      "project": "Streamlit Agent by Langchain",
-      "project_description": "This repository showcases various LangChain agents as Streamlit apps, including a basic streaming app, a memory-based conversation app, a demo replicating MRKL functionality, a minimal agent with search capability, chatbots with feedback options, document querying, database communication, and pandas DataFrame interaction, featuring LangChain and Streamlit integrations",
-      "project_is_open_source": true,
-      "categories": [
-        "Development Frameworks"
-      ],
-      "sources": [
-        {
-          "source": "github",
-          "source_url": "https://github.com/langchain-ai/streamlit-agent",
-          "stars": 1520,
-          "stars_last_updated": "2025-07-30T17:24:50.525470",
-          "repository_checked_at": "2026-09-24T12:52:32Z",
-          "repository_status": "archived"
-        },
-        {
-          "source": "github profile",
-          "source_url": "https://github.com/langchain-ai",
-          "stars_last_updated": null,
-          "stars": null
-        }
-      ]
-    },
-    {
-      "project": "OpenAGI",
-      "project_description": "OpenAGI by AGI Research is an open-source platform integrating Large Language Models (LLMs) with domain-specific expert models for complex task-solving, fostering a paradigm where LLMs operate various external models, accompanied by a Reinforcement Learning from Task Feedback (RLTF) mechanism for self-improvement",
-      "project_is_open_source": true,
-      "categories": [
-        "Development Frameworks"
-      ],
-      "sources": [
-        {
-          "source": "github",
-          "source_url": "https://github.com/agiresearch/OpenAGI",
-          "stars": 2175,
-          "stars_last_updated": "2025-07-30T17:24:51.051064",
-          "repository_checked_at": "2026-09-24T12:52:33Z",
-          "repository_status": "active"
-        },
-        {
-          "source": "github profile",
-          "source_url": "https://github.com/agiresearch",
           "stars_last_updated": null,
           "stars": null
         }
@@ -2173,24 +1285,6 @@
       ]
     },
     {
-      "project": "CodeActAgent",
-      "project_description": "CodeActAgent, trained on CodeActInstruct, showcases superior performance in both in-domain and out-of-domain tasks, enabling dynamic code execution and multi-turn interactions for more effective LLM agents",
-      "project_is_open_source": true,
-      "categories": [
-        "Development Frameworks"
-      ],
-      "sources": [
-        {
-          "source": "github",
-          "source_url": "https://github.com/xingyaoww/code-act",
-          "stars": 1312,
-          "stars_last_updated": "2025-07-30T17:24:54.454303",
-          "repository_checked_at": "2026-09-24T12:52:36Z",
-          "repository_status": "active"
-        }
-      ]
-    },
-    {
       "project": "Bazed",
       "project_description": "Bazed Agent Framework, aimed at empowering developers to build autonomous agent swarms without requiring deep Python ML knowledge, is facilitating the creation of sophisticated systems through TypeScript for enhanced autonomy and reliability",
       "project_is_open_source": true,
@@ -2215,66 +1309,6 @@
         {
           "source": "discord",
           "source_url": "https://discord.gg/VmEEUrc7dg",
-          "stars_last_updated": null,
-          "stars": null
-        }
-      ]
-    },
-    {
-      "project": "databerry",
-      "project_description": "Chaindesk is a no-code platform for building custom LLM Agents, enabling users to quickly set up a semantic search system over personal data without technical knowledge",
-      "project_is_open_source": true,
-      "categories": [
-        "Development Frameworks"
-      ],
-      "sources": [
-        {
-          "source": "github",
-          "source_url": "https://github.com/gmpetrov/databerry/",
-          "stars": 2935,
-          "stars_last_updated": "2025-07-30T17:24:55.706448",
-          "repository_checked_at": "2026-09-24T12:52:37Z",
-          "repository_status": "active"
-        }
-      ]
-    },
-    {
-      "project": "Streamship",
-      "project_description": "A development platform for AI Agents offering Python SDK, cloud deployment, serverless hosting, vector search, webhooks, and media generation, with a focus on simplicity, scalability, and integration with popular models and services",
-      "project_is_open_source": true,
-      "categories": [
-        "Development Frameworks"
-      ],
-      "sources": [
-        {
-          "source": "github",
-          "source_url": "https://github.com/steamship-core/python-client",
-          "stars": 324,
-          "stars_last_updated": "2025-07-30T17:24:56.302022",
-          "repository_checked_at": "2026-09-24T12:52:37Z",
-          "repository_status": "active"
-        },
-        {
-          "source": "website",
-          "source_url": "https://www.steamship.com/",
-          "stars_last_updated": null,
-          "stars": null
-        },
-        {
-          "source": "twitter",
-          "source_url": "https://www.twitter.com/GetSteamship",
-          "stars_last_updated": null,
-          "stars": null
-        },
-        {
-          "source": "discord",
-          "source_url": "https://steamship.com/discord",
-          "stars_last_updated": null,
-          "stars": null
-        },
-        {
-          "source": "github profile",
-          "source_url": "https://www.github.com/steamship-core",
           "stars_last_updated": null,
           "stars": null
         }
@@ -2389,48 +1423,6 @@
       ]
     },
     {
-      "project": "Bananalyzer by Reworkd",
-      "project_description": "Bananalyzer is a framework for evaluating AI agents on web tasks, utilizing Playwright for creating diverse datasets of website snapshots for reliable and varied web task assessments",
-      "project_is_open_source": true,
-      "categories": [
-        "Evaluation Frameworks"
-      ],
-      "sources": [
-        {
-          "source": "website",
-          "source_url": "https://reworkd.ai",
-          "stars_last_updated": null,
-          "stars": null
-        },
-        {
-          "source": "github",
-          "source_url": "https://github.com/reworkd/bananalyzer",
-          "stars": 304,
-          "stars_last_updated": "2025-07-30T17:24:58.566503",
-          "repository_checked_at": "2026-09-24T12:52:39Z",
-          "repository_status": "active"
-        }
-      ]
-    },
-    {
-      "project": "AgentBench",
-      "project_description": "AgentBench v0.2 is a benchmark designed to evaluate Large Language Models as agents across a diverse set of environments, enhancing framework usability and extending model evaluations",
-      "project_is_open_source": true,
-      "categories": [
-        "Evaluation Frameworks"
-      ],
-      "sources": [
-        {
-          "source": "github",
-          "source_url": "https://github.com/THUDM/AgentBench",
-          "stars": 2711,
-          "stars_last_updated": "2025-07-30T17:24:59.147641",
-          "repository_checked_at": "2026-09-24T12:52:40Z",
-          "repository_status": "active"
-        }
-      ]
-    },
-    {
       "project": "LangSmith by LangChain",
       "project_description": "LangSmith provides tools for debugging, testing, evaluating, and monitoring LLM applications, integrating seamlessly with LangChain for comprehensive AI agent observability",
       "project_is_open_source": true,
@@ -2485,108 +1477,6 @@
       ]
     },
     {
-      "project": "NavAIGuide",
-      "project_description": "NavAIGuide is an extensible, mobile-friendly, multi-modal agentic framework designed to integrate with mobile and desktop apps, featuring visual task detection, advanced code selectors, action-oriented execution, and resilient error handling",
-      "project_is_open_source": true,
-      "categories": [
-        "Mobile-Friendly Frameworks"
-      ],
-      "sources": [
-        {
-          "source": "github",
-          "source_url": "https://github.com/francedot/NavAIGuide-TS",
-          "stars": 114,
-          "stars_last_updated": "2025-07-30T17:25:00.970921",
-          "repository_checked_at": "2026-09-24T12:52:41Z",
-          "repository_status": "active"
-        }
-      ]
-    },
-    {
-      "project": "AppAgent",
-      "project_description": "AppAgent is a mobile-friendly LLM-based multimodal agent framework developed to operate smartphone apps, enabling human-like interactions for a wide range of applications without system back-end access",
-      "project_is_open_source": true,
-      "categories": [
-        "Mobile-Friendly Frameworks"
-      ],
-      "sources": [
-        {
-          "source": "github",
-          "source_url": "https://github.com/mnotgod96/AppAgent",
-          "stars": 6049,
-          "stars_last_updated": "2025-07-30T17:25:01.732582",
-          "repository_checked_at": "2026-09-24T12:52:42Z",
-          "repository_status": "active"
-        },
-        {
-          "source": "github profile",
-          "source_url": "https://github.com/mnotgod96",
-          "stars_last_updated": null,
-          "stars": null
-        }
-      ]
-    },
-    {
-      "project": "tortoise-tts",
-      "project_description": "A multi-voice TTS system trained with an emphasis on quality",
-      "project_is_open_source": true,
-      "categories": [
-        "Voice Providers (TTS Models)"
-      ],
-      "sources": [
-        {
-          "source": "github",
-          "source_url": "https://github.com/neonbjb/tortoise-tts",
-          "stars": 14463,
-          "stars_last_updated": "2025-07-30T17:25:02.248097",
-          "repository_checked_at": "2026-09-24T12:52:43Z",
-          "repository_status": "active"
-        },
-        {
-          "source": "research paper",
-          "source_url": "https://arxiv.org/abs/2305.07243",
-          "stars_last_updated": null,
-          "stars": null
-        },
-        {
-          "source": "demo",
-          "source_url": "https://huggingface.co/spaces/Manmay/tortoise-tts",
-          "stars_last_updated": null,
-          "stars": null
-        }
-      ]
-    },
-    {
-      "project": "Pinokio",
-      "project_description": "Pinokio is a browser that enables the installation, running, and programmable control of any application with one click, supporting any open-source repo locally, including LLM or AI agent-based projects",
-      "project_is_open_source": true,
-      "categories": [
-        "Local Inference"
-      ],
-      "sources": [
-        {
-          "source": "website",
-          "source_url": "https://pinokio.computer/",
-          "stars_last_updated": null,
-          "stars": null
-        },
-        {
-          "source": "github",
-          "source_url": "https://github.com/pinokiocomputer/pinokio",
-          "stars": 5349,
-          "stars_last_updated": "2025-07-30T17:25:02.819368",
-          "repository_checked_at": "2026-09-24T12:52:43Z",
-          "repository_status": "active"
-        },
-        {
-          "source": "github profile",
-          "source_url": "https://github.com/pinokiocomputer",
-          "stars_last_updated": null,
-          "stars": null
-        }
-      ]
-    },
-    {
       "project": "Ollama",
       "project_description": "Ollama is a tool for running large language models locally, offering easy setup for macOS, Windows, Linux, and Docker, along with a library of models and quickstart guides for customization and integration",
       "project_is_open_source": true,
@@ -2629,42 +1519,6 @@
         {
           "source": "github profile",
           "source_url": "https://github.com/janhq",
-          "stars_last_updated": null,
-          "stars": null
-        }
-      ]
-    },
-    {
-      "project": "FastChat",
-      "project_description": "FastChat is a platform for training, serving, and evaluating large language model chatbots, featuring an open-source distributed multi-model system, API compatibility, and a dataset for LLM conversations",
-      "project_is_open_source": true,
-      "categories": [
-        "Local Inference"
-      ],
-      "sources": [
-        {
-          "source": "github",
-          "source_url": "https://github.com/lm-sys/FastChat",
-          "stars": 38916,
-          "stars_last_updated": "2025-07-30T17:25:04.749968",
-          "repository_checked_at": "2026-09-24T12:52:44Z",
-          "repository_status": "active"
-        },
-        {
-          "source": "demo",
-          "source_url": "https://chat.lmsys.org/",
-          "stars_last_updated": null,
-          "stars": null
-        },
-        {
-          "source": "discord",
-          "source_url": "https://discord.gg/HSWAKCrnFx",
-          "stars_last_updated": null,
-          "stars": null
-        },
-        {
-          "source": "twitter",
-          "source_url": "https://x.com/lmsysorg",
           "stars_last_updated": null,
           "stars": null
         }
@@ -2737,240 +1591,6 @@
       ]
     },
     {
-      "project": "LlamaGym",
-      "project_description": "LlamaGym simplifies the fine-tuning of LLM agents with online reinforcement learning, providing a framework to iterate and experiment across Gym environments for efficient agent prompting and hyperparameter tuning",
-      "project_is_open_source": true,
-      "categories": [
-        "Reinforcement Learning"
-      ],
-      "sources": [
-        {
-          "source": "github",
-          "source_url": "https://github.com/KhoomeiK/LlamaGym",
-          "stars": 1208,
-          "stars_last_updated": "2025-07-30T17:25:06.274152",
-          "repository_checked_at": "2026-09-24T12:52:46Z",
-          "repository_status": "active"
-        },
-        {
-          "source": "github profile",
-          "source_url": "https://github.com/KhoomeiK",
-          "stars_last_updated": null,
-          "stars": null
-        }
-      ]
-    },
-    {
-      "project": "Agent Protocol",
-      "project_description": "The Agent Protocol establishes a unified API standard for seamless interaction and integration across diverse AI agents, promoting ecosystem growth and simplification of agent development and benchmarking",
-      "project_is_open_source": true,
-      "categories": [
-        "Standardization"
-      ],
-      "sources": [
-        {
-          "source": "website",
-          "source_url": "https://www.aie.foundation/",
-          "stars_last_updated": null,
-          "stars": null
-        },
-        {
-          "source": "website",
-          "source_url": "https://www.aie.foundation/",
-          "stars_last_updated": null,
-          "stars": null
-        },
-        {
-          "source": "github",
-          "source_url": "https://github.com/AI-Engineer-Foundation/agent-protocol",
-          "stars": 1427,
-          "stars_last_updated": "2025-07-30T17:25:07.052532",
-          "repository_checked_at": "2026-09-24T12:52:47Z",
-          "repository_status": "active"
-        },
-        {
-          "source": "github profile",
-          "source_url": "https://github.com/AI-Engineer-Foundation",
-          "stars_last_updated": null,
-          "stars": null
-        }
-      ]
-    },
-    {
-      "project": "LangChainBitcoin",
-      "project_description": "LangChainBitcoin is a toolset for enabling LangChain agents to interact with Bitcoin, the Lightning Network, and APIs requiring L402-based authentication, including features for Bitcoin transactions and API traversal with automated Lightning payments",
-      "project_is_open_source": true,
-      "categories": [
-        "Bitcoin"
-      ],
-      "sources": [
-        {
-          "source": "announcement",
-          "source_url": "https://lightning.engineering/posts/2023-07-05-l402-langchain/",
-          "stars_last_updated": null,
-          "stars": null
-        },
-        {
-          "source": "github",
-          "source_url": "https://github.com/lightninglabs/LangChainBitcoin",
-          "stars": 141,
-          "stars_last_updated": "2025-07-30T17:25:07.650886",
-          "repository_checked_at": "2026-09-24T12:52:47Z",
-          "repository_status": "active"
-        }
-      ]
-    },
-    {
-      "project": "Agent Tools",
-      "project_description": "Typescript tools for Bitcoin/Stacks blockchain interaction, utilizing Bun.js and Stacks.js, with a focus on AI integration",
-      "project_is_open_source": true,
-      "categories": [
-        "Bitcoin"
-      ],
-      "sources": [
-        {
-          "source": "github",
-          "source_url": "https://github.com/aibtcdev/agent-tools-ts",
-          "stars": 16,
-          "stars_last_updated": "2025-07-30T17:25:08.235718",
-          "repository_checked_at": "2026-09-24T12:52:48Z",
-          "repository_status": "archived"
-        },
-        {
-          "source": "github profile",
-          "source_url": "https://github.com/aibtcdev",
-          "stars_last_updated": null,
-          "stars": null
-        },
-        {
-          "source": "website",
-          "source_url": "https://aibtc.dev/",
-          "stars_last_updated": null,
-          "stars": null
-        },
-        {
-          "source": "discord",
-          "source_url": "https://discord.gg/5DJaBrf",
-          "stars_last_updated": null,
-          "stars": null
-        }
-      ]
-    },
-    {
-      "project": "AI Agent Crew",
-      "project_description": "Langchain and CrewAI have launched AI agents equipped with Bitcoin wallets, facilitating automated operations within a blockchain environment",
-      "project_is_open_source": true,
-      "categories": [
-        "Bitcoin"
-      ],
-      "sources": [
-        {
-          "source": "github",
-          "source_url": "https://github.com/aibtcdev/ai-agent-crew",
-          "stars": 46,
-          "stars_last_updated": "2025-07-30T17:25:08.767224",
-          "repository_checked_at": "2026-09-24T12:52:48Z",
-          "repository_status": "archived"
-        },
-        {
-          "source": "github profile",
-          "source_url": "https://github.com/aibtcdev",
-          "stars_last_updated": null,
-          "stars": null
-        },
-        {
-          "source": "website",
-          "source_url": "https://aibtc.dev/",
-          "stars_last_updated": null,
-          "stars": null
-        },
-        {
-          "source": "discord",
-          "source_url": "https://discord.gg/5DJaBrf",
-          "stars_last_updated": null,
-          "stars": null
-        }
-      ]
-    },
-    {
-      "project": "Gated 402 API",
-      "project_description": "An API using a Stacks smart contract to control access, issuing a 200 status for access approval and a 402 with payment instructions for denial",
-      "project_is_open_source": true,
-      "categories": [
-        "Bitcoin"
-      ],
-      "sources": [
-        {
-          "source": "github",
-          "source_url": "https://github.com/aibtcdev/gated-402-api",
-          "stars": 1,
-          "stars_last_updated": "2025-07-30T17:25:09.334070",
-          "repository_checked_at": "2026-09-24T12:52:49Z",
-          "repository_status": "archived"
-        },
-        {
-          "source": "github profile",
-          "source_url": "https://github.com/aibtcdev",
-          "stars_last_updated": null,
-          "stars": null
-        },
-        {
-          "source": "website",
-          "source_url": "https://aibtc.dev/",
-          "stars_last_updated": null,
-          "stars": null
-        },
-        {
-          "source": "discord",
-          "source_url": "https://discord.gg/5DJaBrf",
-          "stars_last_updated": null,
-          "stars": null
-        }
-      ]
-    },
-    {
-      "project": "01",
-      "project_description": "The '01 Project' by Open Interpreter is an open-source initiative focused on creating an ecosystem for AI devices, aiming to become the GNU/Linux in this domain, with details on its experimental status, software, hardware, and a speech-to-speech interface based on a code-interpreting language model for dynamic interactions",
-      "project_is_open_source": true,
-      "categories": [
-        "Hardware (Wearables)"
-      ],
-      "sources": [
-        {
-          "source": "announcement",
-          "source_url": "https://changes.openinterpreter.com/log/introducing-the-01-developer-preview",
-          "stars_last_updated": null,
-          "stars": null
-        },
-        {
-          "source": "demo",
-          "source_url": "https://twitter.com/OpenInterpreter/status/1770821439458840846",
-          "stars_last_updated": null,
-          "stars": null
-        },
-        {
-          "source": "github",
-          "source_url": "https://github.com/OpenInterpreter/01",
-          "stars": 5080,
-          "stars_last_updated": "2025-07-30T17:25:09.932420",
-          "repository_checked_at": "2026-09-24T12:52:49Z",
-          "repository_status": "active"
-        },
-        {
-          "source": "website",
-          "source_url": "http://openinterpreter.com/01",
-          "stars_last_updated": null,
-          "stars": null
-        },
-        {
-          "source": "docs",
-          "source_url": "https://01.openinterpreter.com/",
-          "stars_last_updated": null,
-          "stars": null
-        }
-      ]
-    },
-    {
       "project": "Open Interpreter",
       "project_description": "Open Interpreter is a coding agent enabling language models to execute code locally, facilitating natural-language interaction with your computer's capabilities, overcoming limitations of hosted solutions like internet access and package restrictions. It features interactive and programmatic chats, system message customization, and can control your computer's keyboard and mouse, allowing for enhanced control and flexibility in development environments",
       "project_is_open_source": true,
@@ -2985,36 +1605,6 @@
           "stars_last_updated": "2025-07-30T17:25:10.523074",
           "repository_checked_at": "2026-09-24T12:52:49Z",
           "repository_status": "active"
-        }
-      ]
-    },
-    {
-      "project": "Self Operating Computer",
-      "project_description": "Self Operating Computer (SOC) enables multimodal models to autonomously interact with a computer using human-like inputs and outputs, including controlling the keyboard and mouse. It is compatible with various models and under ongoing development for more accurate functionalities",
-      "project_is_open_source": true,
-      "categories": [
-        "Operating System (OS)"
-      ],
-      "sources": [
-        {
-          "source": "landing page",
-          "source_url": "https://www.hyperwriteai.com/self-operating-computer",
-          "stars_last_updated": null,
-          "stars": null
-        },
-        {
-          "source": "github",
-          "source_url": "https://github.com/OthersideAI/self-operating-computer",
-          "stars": 9808,
-          "stars_last_updated": "2025-07-30T17:25:11.097640",
-          "repository_checked_at": "2026-09-24T12:52:50Z",
-          "repository_status": "active"
-        },
-        {
-          "source": "github profile",
-          "source_url": "https://github.com/OthersideAI",
-          "stars_last_updated": null,
-          "stars": null
         }
       ]
     },
@@ -3079,36 +1669,6 @@
       ]
     },
     {
-      "project": "IvyCheck",
-      "project_description": "IvyCheck offers an API for real-time AI application safety checks, preventing prompt injection attacks, PII data leakage, and hallucinations in agentic AI development",
-      "project_is_open_source": true,
-      "categories": [
-        "Safety Guardrails (Safeguarding)"
-      ],
-      "sources": [
-        {
-          "source": "github",
-          "source_url": "https://github.com/ivycheck/ivycheck-python-sdk",
-          "stars": 2,
-          "stars_last_updated": "2025-07-30T17:25:12.939745",
-          "repository_checked_at": "2026-09-24T12:52:51Z",
-          "repository_status": "active"
-        },
-        {
-          "source": "announcement",
-          "source_url": "https://www.ycombinator.com/launches/KkA-ivycheck-guard-against-ai-risks-with-real-time-checks",
-          "stars_last_updated": null,
-          "stars": null
-        },
-        {
-          "source": "website",
-          "source_url": "https://ivycheck.com",
-          "stars_last_updated": null,
-          "stars": null
-        }
-      ]
-    },
-    {
       "project": "Guardrails",
       "project_description": "Guardrails is a Python framework for building reliable AI applications, offering Input/Output Guards to detect and mitigate risks, along with structured data generation from large language models (LLMs)",
       "project_is_open_source": true,
@@ -3157,30 +1717,6 @@
       ]
     },
     {
-      "project": "FuzzTypes",
-      "project_description": "FuzzTypes is a Pydantic extension library providing autocorrecting annotation types, enhancing Pydantic's data conversions for AI agents by enabling powerful normalization capabilities like named entity linking to ensure structured data consists of 'smart things' instead of 'dumb strings'",
-      "project_is_open_source": true,
-      "categories": [
-        "Structured Outputs"
-      ],
-      "sources": [
-        {
-          "source": "github",
-          "source_url": "https://github.com/genomoncology/FuzzTypes",
-          "stars": 222,
-          "stars_last_updated": "2025-07-30T17:25:14.533293",
-          "repository_checked_at": "2026-09-24T12:52:53Z",
-          "repository_status": "archived"
-        },
-        {
-          "source": "website",
-          "source_url": "https://www.genomoncology.com/",
-          "stars_last_updated": null,
-          "stars": null
-        }
-      ]
-    },
-    {
       "project": "Instructor",
       "project_description": "Instructor, a Python library, facilitates working with structured outputs from large language models (LLMs), offering features like response model specification, retry management, validation, and streaming support, primarily aimed at enhancing workflows of AI agents utilizing LLMs",
       "project_is_open_source": true,
@@ -3199,30 +1735,6 @@
         {
           "source": "website",
           "source_url": "https://python.useinstructor.com/",
-          "stars_last_updated": null,
-          "stars": null
-        }
-      ]
-    },
-    {
-      "project": "Instructor Cloud",
-      "project_description": "Instructor Cloud offers a platform for extracting models from text rapidly, with real-time streaming and the potential to utilize GPT-4*, encouraging engagement through contributions and adaptation of its FastAPI-based service",
-      "project_is_open_source": true,
-      "categories": [
-        "Structured Outputs"
-      ],
-      "sources": [
-        {
-          "source": "github",
-          "source_url": "https://github.com/instructor-ai/cloud",
-          "stars": 36,
-          "stars_last_updated": "2025-07-30T17:25:15.876682",
-          "repository_checked_at": "2026-09-24T12:52:54Z",
-          "repository_status": "active"
-        },
-        {
-          "source": "announcement",
-          "source_url": "https://twitter.com/jxnlco/status/1774822440922763707",
           "stars_last_updated": null,
           "stars": null
         }
@@ -3331,72 +1843,6 @@
       ]
     },
     {
-      "project": "Jaiqu",
-      "project_description": "Jaiqu is an AI-powered tool for automatically transforming any JSON schema using GPT-4, featuring schema validation, fuzzy term matching, and repeatable jq query generation",
-      "project_is_open_source": true,
-      "categories": [
-        "Structured Outputs"
-      ],
-      "sources": [
-        {
-          "source": "github",
-          "source_url": "https://github.com/AgentOps-AI/Jaiqu",
-          "stars": 333,
-          "stars_last_updated": "2025-07-30T17:25:19.381837",
-          "repository_checked_at": "2026-09-24T12:52:57Z",
-          "repository_status": "active"
-        },
-        {
-          "source": "demo",
-          "source_url": "https://x.com/AlexReibman/status/1774314258379190770",
-          "stars_last_updated": null,
-          "stars": null
-        },
-        {
-          "source": "website",
-          "source_url": "https://jaiqu-agent.streamlit.app/",
-          "stars_last_updated": null,
-          "stars": null
-        },
-        {
-          "source": "twitter",
-          "source_url": "https://twitter.com/agentopsai/",
-          "stars_last_updated": null,
-          "stars": null
-        },
-        {
-          "source": "discord",
-          "source_url": "https://discord.gg/JHPt4C7r",
-          "stars_last_updated": null,
-          "stars": null
-        }
-      ]
-    },
-    {
-      "project": "Evolutionary Model Merge",
-      "project_description": "Sakana AI's evolutionary model merge (EMM) combines 500,000 open-source models using evolutionary techniques to create new foundation models, achieving groundbreaking results without being explicitly optimized for specific benchmarks, marking a significant step toward AGI by empowering AI with combined knowledge akin to Retrieval Augmented Generation",
-      "project_is_open_source": true,
-      "categories": [
-        "Model Merges"
-      ],
-      "sources": [
-        {
-          "source": "announcement",
-          "source_url": "https://twitter.com/AlphaSignalAI/status/1771201081734811797",
-          "stars_last_updated": null,
-          "stars": null
-        },
-        {
-          "source": "github",
-          "source_url": "https://github.com/SakanaAI/evolutionary-model-merge/",
-          "stars": 1353,
-          "stars_last_updated": "2025-07-30T17:25:19.971654",
-          "repository_checked_at": "2026-09-24T12:52:57Z",
-          "repository_status": "active"
-        }
-      ]
-    },
-    {
       "project": "EVO-AI",
       "project_description": "EVO-AI is a distributed language-model project that evolves model weights across volunteer nodes and exposes generation through HTTP and A2A JSON-RPC interfaces.",
       "project_is_open_source": true,
@@ -3429,24 +1875,6 @@
           "stars_last_updated": "2025-07-30T17:25:20.529181",
           "repository_checked_at": "2026-09-24T12:52:57Z",
           "repository_status": "active"
-        }
-      ]
-    },
-    {
-      "project": "crewAI Tools",
-      "project_description": "crewAI Tools is a library that provides a framework for developing sophisticated tools to enhance crewAI agents, with methods for subclassing BaseTool, utilizing the tool decorator, and guidelines for contributing to the ecosystem",
-      "project_is_open_source": true,
-      "categories": [
-        "Function Calling"
-      ],
-      "sources": [
-        {
-          "source": "github",
-          "source_url": "https://github.com/joaomdmoura/crewai-tools",
-          "stars": 1176,
-          "stars_last_updated": "2025-07-30T17:25:21.310956",
-          "repository_checked_at": "2026-09-24T12:52:58Z",
-          "repository_status": "archived"
         }
       ]
     },
@@ -3529,24 +1957,6 @@
       ]
     },
     {
-      "project": "aifs",
-      "project_description": "AIFS offers a simple and efficient local semantic search capability for folders, leveraging Unstructured.IO for advanced data processing and ChromaDB for fast, similarity-based searching of embeddings",
-      "project_is_open_source": true,
-      "categories": [
-        "Function Calling"
-      ],
-      "sources": [
-        {
-          "source": "github",
-          "source_url": "https://github.com/OpenInterpreter/aifs",
-          "stars": 433,
-          "stars_last_updated": "2025-07-30T17:25:23.474889",
-          "repository_checked_at": "2026-09-24T12:53:00Z",
-          "repository_status": "active"
-        }
-      ]
-    },
-    {
       "project": "TypeChat",
       "project_description": "TypeChat is a library that facilitates building natural language interfaces by using schema engineering as an alternative to traditional function calling in LLMs, avoiding JSON schema-based constraints",
       "project_is_open_source": true,
@@ -3561,42 +1971,6 @@
           "stars_last_updated": "2025-07-30T17:25:24.204702",
           "repository_checked_at": "2026-09-24T12:53:00Z",
           "repository_status": "active"
-        }
-      ]
-    },
-    {
-      "project": "NPI",
-      "project_description": "NPi is an open-source platform providing tool-use APIs for AI agents, with installation and setup instructions available",
-      "project_is_open_source": true,
-      "categories": [
-        "Function Calling"
-      ],
-      "sources": [
-        {
-          "source": "github",
-          "source_url": "https://github.com/npi-ai/npi",
-          "stars": 222,
-          "stars_last_updated": "2025-07-30T17:25:25.006776",
-          "repository_checked_at": "2026-09-24T12:53:01Z",
-          "repository_status": "active"
-        },
-        {
-          "source": "website",
-          "source_url": "https://www.npi.ai/",
-          "stars_last_updated": null,
-          "stars": null
-        },
-        {
-          "source": "docs",
-          "source_url": "https://www.npi.ai/docs",
-          "stars_last_updated": null,
-          "stars": null
-        },
-        {
-          "source": "blog",
-          "source_url": "https://www.npi.ai/blog",
-          "stars_last_updated": null,
-          "stars": null
         }
       ]
     },
@@ -3640,72 +2014,6 @@
       ]
     },
     {
-      "project": "Prompt2UI by sullyo",
-      "project_description": "An open-source project that converts prompts to user interfaces, demonstrated by creating a basic Google Calendar clone using Claude in about 2 hours, inspired by Claude Artifacts",
-      "project_is_open_source": true,
-      "categories": [
-        "UI Development"
-      ],
-      "sources": [
-        {
-          "source": "github",
-          "source_url": "https://github.com/sullyo/prompt2ui",
-          "stars": 232,
-          "stars_last_updated": "2025-07-30T17:25:26.131650",
-          "repository_checked_at": "2026-09-24T12:53:02Z",
-          "repository_status": "active"
-        },
-        {
-          "source": "twitter announcement",
-          "source_url": "https://x.com/SullyOmarr/status/1804997474761003327",
-          "stars_last_updated": null,
-          "stars": null
-        }
-      ]
-    },
-    {
-      "project": "Priompt",
-      "project_description": "Priompt is a JSX-based library for designing prompts with priorities, aiming to optimize inclusion of content within token limits, inspired by React and detailed with installation instructions, examples, principles, and future considerations",
-      "project_is_open_source": true,
-      "categories": [
-        "Prompt Engineering"
-      ],
-      "sources": [
-        {
-          "source": "github",
-          "source_url": "https://github.com/anysphere/priompt",
-          "stars": 2651,
-          "stars_last_updated": "2025-07-30T17:25:27.480435",
-          "repository_checked_at": "2026-09-24T12:53:02Z",
-          "repository_status": "active"
-        }
-      ]
-    },
-    {
-      "project": "LMQL",
-      "project_description": "LMQL is a Python-based programming language for large language models, allowing seamless integration of LLMs into code with advanced features like conditional logic, constraints, and multi-model support",
-      "project_is_open_source": true,
-      "categories": [
-        "LLM-Friendly Languages"
-      ],
-      "sources": [
-        {
-          "source": "github",
-          "source_url": "https://github.com/eth-sri/lmql",
-          "stars": 4017,
-          "stars_last_updated": "2025-07-30T17:25:28.042945",
-          "repository_checked_at": "2026-09-24T12:53:03Z",
-          "repository_status": "active"
-        },
-        {
-          "source": "website",
-          "source_url": "https://lmql.ai/",
-          "stars_last_updated": null,
-          "stars": null
-        }
-      ]
-    },
-    {
       "project": "DSPY",
       "project_description": "A cutting-edge framework that compiles declarative language model calls into self-improving pipelines, enabling the systematic and efficient optimization of LM prompts and weights within complex systems",
       "project_is_open_source": true,
@@ -3719,78 +2027,6 @@
           "stars": 26786,
           "stars_last_updated": "2025-07-30T17:25:29.544873",
           "repository_checked_at": "2026-09-24T12:53:03Z",
-          "repository_status": "active"
-        }
-      ]
-    },
-    {
-      "project": "elia",
-      "project_description": "Keyboard-centric terminal user interface for interacting with large language models (LLMs) like ChatGPT, Claude, Llama 3, Phi 3, Mistral, and Gemma, offering benefits such as efficient, terminal-based interaction, easy switching between multiple models, local model support, and the ability to store conversations in a local SQLite database",
-      "project_is_open_source": true,
-      "categories": [
-        "Terminal-Friendly"
-      ],
-      "sources": [
-        {
-          "source": "github",
-          "source_url": "https://github.com/darrenburns/elia",
-          "stars": 2238,
-          "stars_last_updated": "2025-07-30T17:25:30.063885",
-          "repository_checked_at": "2026-09-24T12:53:04Z",
-          "repository_status": "active"
-        }
-      ]
-    },
-    {
-      "project": "Astra Assistants API",
-      "project_description": "The `astra-assistants-api` provides a backend implementation of the OpenAI Assistants API with support for various features like persistent threads, files, assistants, streaming, function calling, and more, utilizing AstraDB powered by Apache Cassandra and jvector, and is compatible with existing OpenAI apps by changing a single line of code",
-      "project_is_open_source": true,
-      "categories": [
-        "Assistants API"
-      ],
-      "sources": [
-        {
-          "source": "github",
-          "source_url": "https://github.com/datastax/astra-assistants-api",
-          "stars": 203,
-          "stars_last_updated": "2025-07-30T17:25:30.605049",
-          "repository_checked_at": "2026-09-24T12:53:04Z",
-          "repository_status": "active"
-        }
-      ]
-    },
-    {
-      "project": "Streaming Assistants",
-      "project_description": "The `streaming-assistants` library on GitHub enables streaming for OpenAI Assistants API using Astra Assistants, providing a workaround for the lack of streaming support in the official OpenAI Assistants API",
-      "project_is_open_source": true,
-      "categories": [
-        "Assistants API"
-      ],
-      "sources": [
-        {
-          "source": "github",
-          "source_url": "https://github.com/phact/streaming-assistants",
-          "stars": 8,
-          "stars_last_updated": "2025-07-30T17:25:31.149254",
-          "repository_checked_at": "2026-09-24T12:53:04Z",
-          "repository_status": "active"
-        }
-      ]
-    },
-    {
-      "project": "Open Assistant API",
-      "project_description": "The Open Assistant API is a self-hosted, open-source framework that enables the creation of customized AI assistants, supporting integration with OpenAI's LLM and LangChain SDK, and is compatible with OpenAI's Assistants API, allowing for seamless orchestration and extension capabilities",
-      "project_is_open_source": true,
-      "categories": [
-        "Assistants API"
-      ],
-      "sources": [
-        {
-          "source": "github",
-          "source_url": "https://github.com/MLT-OSS/open-assistant-api",
-          "stars": 347,
-          "stars_last_updated": "2025-07-30T17:25:31.701456",
-          "repository_checked_at": "2026-09-24T12:53:05Z",
           "repository_status": "active"
         }
       ]
@@ -3814,36 +2050,6 @@
       ]
     },
     {
-      "project": "OpenRecall",
-      "project_description": "OpenRecall is an open-source, privacy-focused digital memory tool capturing and indexing screenshots to enhance productivity without compromising privacy, usable across Windows, macOS, and Linux, and compatible with AI agents for personal assistance",
-      "project_is_open_source": true,
-      "categories": [
-        "Personal Assistants"
-      ],
-      "sources": [
-        {
-          "source": "github",
-          "source_url": "https://github.com/openrecall/openrecall",
-          "stars": null,
-          "stars_last_updated": null,
-          "repository_checked_at": "2026-09-24T12:53:06Z",
-          "repository_status": "active"
-        },
-        {
-          "source": "Discord",
-          "source_url": "https://discord.gg/RzvCYRgUkx",
-          "stars_last_updated": null,
-          "stars": null
-        },
-        {
-          "source": "Telegram",
-          "source_url": "https://t.me/+5DULWTesqUYwYjY0",
-          "stars_last_updated": null,
-          "stars": null
-        }
-      ]
-    },
-    {
       "project": "LiveRecall",
       "project_description": "LiveRecall, an open-source alternative to Microsoft's Recall, utilizes semantic search and encryption to capture and retrieve screen snapshots, enabling AI agents to assist creators in researching and augmenting tasks like journaling or blog post creation based on indexed personal activities",
       "project_is_open_source": true,
@@ -3857,96 +2063,6 @@
           "stars": null,
           "stars_last_updated": null,
           "repository_checked_at": "2026-09-24T12:53:06Z",
-          "repository_status": "active"
-        }
-      ]
-    },
-    {
-      "project": "chatgpt-artifacts",
-      "project_description": "Bring Claude's Artifacts feature to ChatGPT which allows you to execute Node.js commands on your ChatGPT Artifacts projects, inspired by Claude's Artifacts",
-      "project_is_open_source": true,
-      "categories": [
-        "UI Development"
-      ],
-      "sources": [
-        {
-          "source": "github",
-          "source_url": "https://github.com/ozgrozer/chatgpt-artifacts",
-          "stars": 508,
-          "stars_last_updated": "2025-07-30T17:25:32.770078",
-          "repository_checked_at": "2026-09-24T12:53:07Z",
-          "repository_status": "active"
-        },
-        {
-          "source": "twitter announcement",
-          "source_url": "https://x.com/ozgrozer/status/1808677091996541251",
-          "stars_last_updated": null,
-          "stars": null
-        }
-      ]
-    },
-    {
-      "project": "claude-artifacts-react",
-      "project_description": "This project provides a streamlined solution for deploying and testing React code generated by Claude Artifacts, offering one-click deployment options to Vercel or Cloudflare Pages and easy code editing through a central ArtifactCode.jsx file",
-      "project_is_open_source": true,
-      "categories": [
-        "UI Development"
-      ],
-      "sources": [
-        {
-          "source": "github",
-          "source_url": "https://github.com/risonsimon/claude-artifacts-react",
-          "stars": 50,
-          "stars_last_updated": "2025-07-30T17:25:33.282743",
-          "repository_checked_at": "2026-09-24T12:53:07Z",
-          "repository_status": "active"
-        },
-        {
-          "source": "reddit announcement",
-          "source_url": "https://www.reddit.com/r/ClaudeAI/comments/1dtquuh/i_made_an_opensource_template_for_sharing_claudes/",
-          "stars_last_updated": null,
-          "stars": null
-        }
-      ]
-    },
-    {
-      "project": "Claude-React-Jumpstart",
-      "project_description": "This project offers a tutorial for beginners to set up and run React code generated by Claude's Artifacts feature locally, providing step-by-step instructions for creating a React app with Vite, installing necessary dependencies, and integrating Claude-generated code",
-      "project_is_open_source": true,
-      "categories": [
-        "UI Development"
-      ],
-      "sources": [
-        {
-          "source": "github",
-          "source_url": "https://github.com/Bklieger/Claude-React-Jumpstart",
-          "stars": 115,
-          "stars_last_updated": "2025-07-30T17:25:33.766125",
-          "repository_checked_at": "2026-09-24T12:53:07Z",
-          "repository_status": "active"
-        },
-        {
-          "source": "twitter announcement",
-          "source_url": "https://x.com/BenjaminKlieger/status/1804264035464155220",
-          "stars_last_updated": null,
-          "stars": null
-        }
-      ]
-    },
-    {
-      "project": "ChatGPT-code-preview",
-      "project_description": "Artifacts-like chrome extension for ChatGPT, inspired by Claude 3.5 Sonnet, which requires CSP unblocker for JS to function",
-      "project_is_open_source": true,
-      "categories": [
-        "UI Development"
-      ],
-      "sources": [
-        {
-          "source": "github",
-          "source_url": "https://github.com/ykyritsis/ChatGPT-code-preview",
-          "stars": 117,
-          "stars_last_updated": "2025-07-30T17:25:34.288527",
-          "repository_checked_at": "2026-09-24T12:53:08Z",
           "repository_status": "active"
         }
       ]
@@ -4071,34 +2187,6 @@
           "stars_last_updated": null,
           "repository_checked_at": "2026-09-25T07:26:50Z",
           "repository_status": "active"
-        }
-      ]
-    },
-    {
-      "project": "AgentFlow",
-      "project_description": "Trainable, tool-integrated multi-agent framework with planner, executor, verifier, and generator modules; supports multi-turn inference and Flow-GRPO training.",
-      "project_is_open_source": true,
-      "categories": [
-        "AI Agents",
-        "Development Frameworks"
-      ],
-      "sources": [
-        {
-          "source": "github",
-          "source_url": "https://github.com/lupantech/AgentFlow",
-          "stars_last_updated": null,
-          "repository_checked_at": "2026-09-24T17:55:30Z",
-          "repository_status": "active"
-        },
-        {
-          "source": "website",
-          "source_url": "https://agentflow.stanford.edu/",
-          "stars_last_updated": null
-        },
-        {
-          "source": "research paper",
-          "source_url": "https://huggingface.co/papers/2510.05592",
-          "stars_last_updated": null
         }
       ]
     },
