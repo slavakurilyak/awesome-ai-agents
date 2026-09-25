@@ -1806,6 +1806,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/oraios/serena">github</a></p>
 </div>
 
+### SidClaw
+<div><a href="https://github.com/sidclawhq/platform"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/sidclawhq/platform"><img src="https://img.shields.io/github/stars/sidclawhq/platform?style=social" alt="GitHub stars"></a></div>
+<p>🛡️ Safety Guardrails (Safeguarding)</p>
+
+<p>An agent governance platform that intercepts tool calls for policy checks, human approval, and auditable traces.</p>
+
+<p><a href="https://github.com/sidclawhq/platform">github</a></p>
+<p><strong>Capabilities:</strong> Enforce policies on agent tool calls · Route risky actions for human approval · Record auditable traces of agent actions</p>
+<p><strong>Interfaces:</strong> Web dashboard · SDK · MCP integrations</p>
+</div>
+
 ### Smartipedia
 <div><a href="https://github.com/sksareen/smartipedia"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/sksareen/smartipedia"><img src="https://img.shields.io/github/stars/sksareen/smartipedia?style=social" alt="GitHub stars"></a></div>
 <p>🤖 AI Agents</p>
