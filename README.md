@@ -301,6 +301,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/jmagly/aiwg">github</a></p>
 </div>
 
+### Arachne
+<div><a href="https://github.com/Strategic-Automation/arachne"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Strategic-Automation/arachne"><img src="https://img.shields.io/github/stars/Strategic-Automation/arachne?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents | ⚙️ Development Frameworks</p>
+
+<p>A DSPy-native runtime that turns natural-language goals into inspectable agent graphs, executes independent steps in parallel, evaluates results, and can repair failed runs.</p>
+
+<p><a href="https://github.com/Strategic-Automation/arachne">github</a></p>
+<p><strong>Capabilities:</strong> Weave goals into typed agent execution graphs · Execute independent graph nodes concurrently with durable sessions · Evaluate results and retry, reroute, or reweave failed runs</p>
+<p><strong>Interfaces:</strong> Python library · CLI · MCP integrations</p>
+</div>
+
 ### Aster
 <div><a href="https://github.com/Zfinix/aster"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Zfinix/aster"><img src="https://img.shields.io/github/stars/Zfinix/aster?style=social" alt="GitHub stars"></a></div>
 <p>🤖 AI Agents</p>
