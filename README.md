@@ -1015,6 +1015,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/instructor-ai/cloud">github</a> | <a href="https://twitter.com/jxnlco/status/1774822440922763707">announcement</a></p>
 </div>
 
+### InsumerAPI Agent Tools
+<div><a href="https://github.com/douglasborthwick-crypto/mcp-server-insumer"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/douglasborthwick-crypto/mcp-server-insumer"><img src="https://img.shields.io/github/stars/douglasborthwick-crypto/mcp-server-insumer?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents</p>
+
+<p>Open-source MCP and LangChain integrations for calling Insumer’s hosted service to verify on-chain wallet conditions and return signed attestations.</p>
+
+<p><a href="https://github.com/douglasborthwick-crypto/mcp-server-insumer">github</a> | <a href="https://github.com/douglasborthwick-crypto/langchain-insumer">github</a></p>
+<p><strong>Capabilities:</strong> On-chain wallet condition verification · Cryptographically signed attestations · Privacy-preserving balance checks</p>
+<p><strong>Interfaces:</strong> MCP server · LangChain toolkit</p>
+</div>
+
 ### IvyCheck
 <div><a href="https://github.com/ivycheck/ivycheck-python-sdk"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/ivycheck/ivycheck-python-sdk"><img src="https://img.shields.io/github/stars/ivycheck/ivycheck-python-sdk?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 2 stars (Updated: 2025-07-30)</p>
