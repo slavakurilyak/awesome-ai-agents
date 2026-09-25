@@ -1844,6 +1844,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/OpenHands/OpenHands">github</a></p>
 </div>
 
+### OpenPaw
+<div><a href="https://github.com/daxaur/openpaw"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/daxaur/openpaw"><img src="https://img.shields.io/github/stars/daxaur/openpaw?style=social" alt="GitHub stars"></a></div>
+<p>👤 Personal Assistants</p>
+
+<p>OpenPaw turns Claude Code into a personal assistant by installing skills and tools for email, calendars, smart home, and other services, with persistent memory, Telegram access, scheduling, and a local task dashboard.</p>
+
+<p><a href="https://github.com/daxaur/openpaw">github</a></p>
+<p><strong>Capabilities:</strong> personal assistant skills · persistent memory · task scheduling and dashboard</p>
+<p><strong>Interfaces:</strong> CLI · Telegram</p>
+</div>
+
 ### OpenTwins
 <div><a href="https://github.com/Open-Twin/opentwins"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Open-Twin/opentwins"><img src="https://img.shields.io/github/stars/Open-Twin/opentwins?style=social" alt="GitHub stars"></a></div>
 <p>🤖 AI Agents | 👤 Personal Assistants</p>

@@ -5789,6 +5789,33 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "OpenPaw",
+      "project_description": "OpenPaw turns Claude Code into a personal assistant by installing skills and tools for email, calendars, smart home, and other services, with persistent memory, Telegram access, scheduling, and a local task dashboard.",
+      "project_is_open_source": true,
+      "categories": [
+        "Personal Assistants"
+      ],
+      "capabilities": [
+        "personal assistant skills",
+        "persistent memory",
+        "task scheduling and dashboard"
+      ],
+      "interfaces": [
+        "CLI",
+        "Telegram"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/daxaur/openpaw",
+          "stars": null,
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T19:48:00Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
