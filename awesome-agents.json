@@ -4616,6 +4616,26 @@
         "repository_status": "active"
       }]
     }
+ ,
+    {
+      "project": "AGX",
+      "project_description": "A local workspace for coordinating AI coding agents across tickets, repositories, and pull requests, with project tracking, retained context, and human approval gates.",
+      "project_is_open_source": true,
+      "categories": ["AI Agents", "Development Frameworks"],
+      "capabilities": [
+        "Coordinate coding-agent work across tickets, repositories, and pull requests",
+        "Track project workspaces, branches, and changes while retaining task context",
+        "Require human approval before irreversible actions"
+      ],
+      "interfaces": ["CLI", "Local web dashboard", "macOS desktop app", "npm package"],
+      "sources": [{
+        "source": "github",
+        "source_url": "https://github.com/ramarlina/agx",
+        "stars_last_updated": null,
+        "repository_checked_at": "2026-09-25T18:13:47Z",
+        "repository_status": "active"
+      }]
+    }
   ],
   "categories": [
     {

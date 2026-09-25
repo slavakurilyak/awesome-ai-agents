@@ -235,6 +235,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/agno-agi/agno">github</a></p>
 </div>
 
+### AGX
+<div><a href="https://github.com/ramarlina/agx"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/ramarlina/agx"><img src="https://img.shields.io/github/stars/ramarlina/agx?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents | ⚙️ Development Frameworks</p>
+
+<p>A local workspace for coordinating AI coding agents across tickets, repositories, and pull requests, with project tracking, retained context, and human approval gates.</p>
+
+<p><a href="https://github.com/ramarlina/agx">github</a></p>
+<p><strong>Capabilities:</strong> Coordinate coding-agent work across tickets, repositories, and pull requests · Track project workspaces, branches, and changes while retaining task context · Require human approval before irreversible actions</p>
+<p><strong>Interfaces:</strong> CLI · Local web dashboard · macOS desktop app · npm package</p>
+</div>
+
 ### AI for Database MCP Server
 <div><a href="https://github.com/dann26parr69/aifordatabase-mcp"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/dann26parr69/aifordatabase-mcp"><img src="https://img.shields.io/github/stars/dann26parr69/aifordatabase-mcp?style=social" alt="GitHub stars"></a></div>
 <p>🔌 MCP Servers | 🔧 Tool Calling (Function Calling)</p>
