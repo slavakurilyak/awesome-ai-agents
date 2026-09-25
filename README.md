@@ -1636,6 +1636,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/RayVentura/ShortGPT">github</a> | <a href="https://github.com/RayVentura">github profile</a></p>
 </div>
 
+### StoryRoute
+<div><a href="https://github.com/samirasadov28-code/storyroute"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/samirasadov28-code/storyroute"><img src="https://img.shields.io/github/stars/samirasadov28-code/storyroute?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents</p>
+
+<p>A GPS-aware mobile web app that discovers nearby landmarks, generates location-based stories with an LLM, and narrates them as users walk.</p>
+
+<p><a href="https://github.com/samirasadov28-code/storyroute">github</a></p>
+<p><strong>Capabilities:</strong> GPS-aware landmark discovery · LLM-generated audio stories · Text-to-speech narration</p>
+<p><strong>Interfaces:</strong> Progressive web app</p>
+</div>
+
 ### Strata
 <div><a href="https://github.com/ItSeemedLikeAGoodIdeaAtTheTime/strata"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/ItSeemedLikeAGoodIdeaAtTheTime/strata"><img src="https://img.shields.io/github/stars/ItSeemedLikeAGoodIdeaAtTheTime/strata?style=social" alt="GitHub stars"></a></div>
 <p>🤖 AI Agents | 🔧 Tool Calling (Function Calling)</p>

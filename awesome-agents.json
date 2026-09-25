@@ -4493,6 +4493,31 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "StoryRoute",
+      "project_description": "A GPS-aware mobile web app that discovers nearby landmarks, generates location-based stories with an LLM, and narrates them as users walk.",
+      "project_is_open_source": true,
+      "categories": [
+        "AI Agents"
+      ],
+      "capabilities": [
+        "GPS-aware landmark discovery",
+        "LLM-generated audio stories",
+        "Text-to-speech narration"
+      ],
+      "interfaces": [
+        "Progressive web app"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/samirasadov28-code/storyroute",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T12:17:59Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
