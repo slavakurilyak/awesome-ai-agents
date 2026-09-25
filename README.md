@@ -1060,6 +1060,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/github/github-mcp-server">github</a></p>
 </div>
 
+### GolemCore Bot
+<div><a href="https://github.com/alexk-dev/golemcore-bot"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/alexk-dev/golemcore-bot"><img src="https://img.shields.io/github/stars/alexk-dev/golemcore-bot?style=social" alt="GitHub stars"></a></div>
+<p>⚙️ Development Frameworks</p>
+
+<p>GolemCore Bot is an agent platform for AI-native teams, with channel-connected agents, skills, plugins, MCP servers, memory, and execution tracing.</p>
+
+<p><a href="https://github.com/alexk-dev/golemcore-bot">github</a></p>
+<p><strong>Capabilities:</strong> channel-connected agent runtime · skills, plugins, and MCP integration · persistent memory and execution tracing</p>
+<p><strong>Interfaces:</strong> Web UI · Telegram · Webhooks</p>
+</div>
+
 ### Google ADK
 <div><a href="https://github.com/google/adk-python"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/google/adk-python"><img src="https://img.shields.io/github/stars/google/adk-python?style=social" alt="GitHub stars"></a></div>
 <p>⚙️ Development Frameworks</p>
