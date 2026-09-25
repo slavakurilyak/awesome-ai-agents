@@ -2911,6 +2911,37 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "Zapier SDK",
+      "project_description": "The Zapier SDK is a TypeScript SDK and CLI for building agent tools and integrations against Zapier’s connection layer, giving coding agents programmatic access to Zapier’s app catalog and action library.",
+      "project_is_open_source": true,
+      "categories": [
+        "Development Frameworks"
+      ],
+      "capabilities": [
+        "Build agent tools and integrations",
+        "Discover connected apps and actions",
+        "Run actions through Zapier connections"
+      ],
+      "interfaces": [
+        "TypeScript SDK",
+        "CLI"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/zapier/sdk",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T15:12:02Z",
+          "repository_status": "active"
+        },
+        {
+          "source": "docs",
+          "source_url": "https://docs.zapier.com/sdk",
+          "stars_last_updated": null
+        }
+      ]
     }
   ],
   "categories": [

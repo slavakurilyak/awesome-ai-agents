@@ -1238,6 +1238,17 @@ Here's an awesome list of AI agents:
 <p><strong>Interfaces:</strong> Agent Skills</p>
 </div>
 
+### Zapier SDK
+<div><a href="https://github.com/zapier/sdk"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/zapier/sdk"><img src="https://img.shields.io/github/stars/zapier/sdk?style=social" alt="GitHub stars"></a></div>
+<p>⚙️ Development Frameworks</p>
+
+<p>The Zapier SDK is a TypeScript SDK and CLI for building agent tools and integrations against Zapier’s connection layer, giving coding agents programmatic access to Zapier’s app catalog and action library.</p>
+
+<p><a href="https://github.com/zapier/sdk">github</a> | <a href="https://docs.zapier.com/sdk">docs</a></p>
+<p><strong>Capabilities:</strong> Build agent tools and integrations · Discover connected apps and actions · Run actions through Zapier connections</p>
+<p><strong>Interfaces:</strong> TypeScript SDK · CLI</p>
+</div>
+
 ### Zep
 <div><a href="https://github.com/getzep/zep/"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/getzep/zep/"><img src="https://img.shields.io/github/stars/getzep/zep?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 3,447 stars (Updated: 2025-07-30)</p>
