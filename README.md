@@ -1815,6 +1815,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/the-open-agent/openagent">github</a></p>
 </div>
 
+### OpenAgents
+<div><a href="https://github.com/openagents-org/openagents"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/openagents-org/openagents"><img src="https://img.shields.io/github/stars/openagents-org/openagents?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents | ⚙️ Development Frameworks</p>
+
+<p>OpenAgents is an open-source workspace where AI agents connect and collaborate, with an agent launcher, shared workspace, and support for agent protocols and SDKs.</p>
+
+<p><a href="https://github.com/openagents-org/openagents">github</a></p>
+<p><strong>Capabilities:</strong> multi-agent collaboration · agent workspace management · agent protocol integrations</p>
+<p><strong>Interfaces:</strong> Web UI · SDK</p>
+</div>
+
 ### OpenAI Agents SDK
 <div><a href="https://github.com/openai/openai-agents-python"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/openai/openai-agents-python"><img src="https://img.shields.io/github/stars/openai/openai-agents-python?style=social" alt="GitHub stars"></a></div>
 <p>⚙️ Development Frameworks</p>

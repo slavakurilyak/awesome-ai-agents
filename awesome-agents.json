@@ -5842,6 +5842,34 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "OpenAgents",
+      "project_description": "OpenAgents is an open-source workspace where AI agents connect and collaborate, with an agent launcher, shared workspace, and support for agent protocols and SDKs.",
+      "project_is_open_source": true,
+      "categories": [
+        "AI Agents",
+        "Development Frameworks"
+      ],
+      "capabilities": [
+        "multi-agent collaboration",
+        "agent workspace management",
+        "agent protocol integrations"
+      ],
+      "interfaces": [
+        "Web UI",
+        "SDK"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/openagents-org/openagents",
+          "stars": null,
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T19:50:00Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
