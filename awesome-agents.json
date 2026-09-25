@@ -4676,6 +4676,26 @@
         "repository_status": "active"
       }]
     }
+ ,
+    {
+      "project": "CryptoGuard",
+      "project_description": "A pre-transaction safety hook for AI agents that assesses crypto contract and token risks using security-oracle data and bytecode analysis.",
+      "project_is_open_source": true,
+      "categories": ["AI Agents", "Safety Guardrails (Safeguarding)"],
+      "capabilities": [
+        "Check smart contracts for honeypot, blacklist, and rug-pull indicators",
+        "Aggregate risk signals from multiple security data sources",
+        "Add a review gate before agent-initiated crypto transactions"
+      ],
+      "interfaces": ["Python package", "Claude Code hook", "Agent skill"],
+      "sources": [{
+        "source": "github",
+        "source_url": "https://github.com/momenbasel/CryptoGuard",
+        "stars_last_updated": null,
+        "repository_checked_at": "2026-09-25T18:20:46Z",
+        "repository_status": "active"
+      }]
+    }
   ],
   "categories": [
     {
