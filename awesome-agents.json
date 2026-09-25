@@ -4221,6 +4221,23 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "agentfix-mini-scanner",
+      "project_description": "A zero-dependency Node.js CLI that scans websites for AI-agent discovery and interoperability signals, reports a grade, and suggests fixes.",
+      "project_is_open_source": true,
+      "categories": [
+        "Evaluation Frameworks"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/Virt92/agentfix-oss-scanner",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T08:26:37Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [

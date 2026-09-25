@@ -133,6 +133,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/THUDM/AgentBench">github</a></p>
 </div>
 
+### agentfix-mini-scanner
+<div><a href="https://github.com/Virt92/agentfix-oss-scanner"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Virt92/agentfix-oss-scanner"><img src="https://img.shields.io/github/stars/Virt92/agentfix-oss-scanner?style=social" alt="GitHub stars"></a></div>
+<p>📊 Evaluation Frameworks</p>
+
+<p>A zero-dependency Node.js CLI that scans websites for AI-agent discovery and interoperability signals, reports a grade, and suggests fixes.</p>
+
+<p><a href="https://github.com/Virt92/agentfix-oss-scanner">github</a></p>
+</div>
+
 ### AgentFlow
 <div><a href="https://github.com/lupantech/AgentFlow"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/lupantech/AgentFlow"><img src="https://img.shields.io/github/stars/lupantech/AgentFlow?style=social" alt="GitHub stars"></a></div>
 <p>🤖 AI Agents | ⚙️ Development Frameworks</p>
