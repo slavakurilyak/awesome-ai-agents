@@ -4204,6 +4204,23 @@
           "stars_last_updated": null
         }
       ]
+    },
+    {
+      "project": "Nobulex",
+      "project_description": "An open-source gateway for AI agents acting on financial data: verifies supporting evidence, evaluates a bounded policy, returns PERMIT, BLOCK, or ESCALATE, and emits a hash-chained receipt.",
+      "project_is_open_source": true,
+      "categories": [
+        "Safety Guardrails (Safeguarding)"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/arian-gogani/nobulex-registry",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T08:22:56Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [

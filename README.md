@@ -1303,6 +1303,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/parkain707/nexus-agent">github</a></p>
 </div>
 
+### Nobulex
+<div><a href="https://github.com/arian-gogani/nobulex-registry"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/arian-gogani/nobulex-registry"><img src="https://img.shields.io/github/stars/arian-gogani/nobulex-registry?style=social" alt="GitHub stars"></a></div>
+<p>🛡️ Safety Guardrails (Safeguarding)</p>
+
+<p>An open-source gateway for AI agents acting on financial data: verifies supporting evidence, evaluates a bounded policy, returns PERMIT, BLOCK, or ESCALATE, and emits a hash-chained receipt.</p>
+
+<p><a href="https://github.com/arian-gogani/nobulex-registry">github</a></p>
+</div>
+
 ### NPI
 <div><a href="https://github.com/npi-ai/npi"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/npi-ai/npi"><img src="https://img.shields.io/github/stars/npi-ai/npi?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 222 stars (Updated: 2025-07-30)</p>
