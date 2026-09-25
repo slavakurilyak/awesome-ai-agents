@@ -494,6 +494,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/venkat22022202/black-vault">github</a> | <a href="https://black-vault-murex.vercel.app">demo</a></p>
 </div>
 
+### Blave Agent
+<div><a href="https://github.com/Blave-TW/blave-agent"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Blave-TW/blave-agent"><img src="https://img.shields.io/github/stars/Blave-TW/blave-agent?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents</p>
+
+<p>Blave Agent is a macOS quant research workspace that connects coding agents such as Claude Code or Codex to help develop and backtest trading strategies, including Monte Carlo permutation tests, parameter scans, and walk-forward analysis. Live trading runs through a separate deterministic process with position reconciliation and a kill switch.</p>
+
+<p><a href="https://github.com/Blave-TW/blave-agent">github</a></p>
+<p><strong>Capabilities:</strong> Agent-assisted strategy development · Backtesting and robustness analysis · Deterministic trading automation</p>
+<p><strong>Interfaces:</strong> macOS desktop app · Claude Code and Codex integration</p>
+</div>
+
 ### Bloop
 <div><a href="https://github.com/BloopAI/bloop"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/BloopAI/bloop"><img src="https://img.shields.io/github/stars/BloopAI/bloop?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 9,480 stars (Updated: 2025-07-30)</p>
