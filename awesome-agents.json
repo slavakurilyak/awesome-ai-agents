@@ -3816,6 +3816,36 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "ax",
+      "project_description": "A local agent-experience graph for coding agents that captures sessions, recalls project context, and turns recurring workflow friction into reviewable improvements.",
+      "project_is_open_source": true,
+      "capabilities": [
+        "Capture coding-agent session telemetry",
+        "Recall project-specific session context",
+        "Track costs and workflow outcomes",
+        "Propose reviewable workflow improvements"
+      ],
+      "interfaces": [
+        "CLI",
+        "Local Studio UI",
+        "Claude Code integration",
+        "Codex integration"
+      ],
+      "categories": [
+        "Observability Frameworks",
+        "Terminal-Friendly"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/Necmttn/ax",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T16:56:07Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
