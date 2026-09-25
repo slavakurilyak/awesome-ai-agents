@@ -482,6 +482,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/Significant-Gravitas/AutoGPT">github</a> | <a href="https://github.com/Significant-Gravitas">github profile</a></p>
 </div>
 
+### Autohand Code CLI
+<div><a href="https://github.com/autohandai/code-cli"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/autohandai/code-cli"><img src="https://img.shields.io/github/stars/autohandai/code-cli?style=social" alt="GitHub stars"></a></div>
+<p>⚙️ Development Frameworks</p>
+
+<p>Autohand Code CLI is a terminal-native AI coding agent that plans and edits code, runs tools, and supports testing, memory, skills, and permission controls.</p>
+
+<p><a href="https://github.com/autohandai/code-cli">github</a></p>
+<p><strong>Capabilities:</strong> code planning and editing · tool execution and testing · project memory and skills</p>
+<p><strong>Interfaces:</strong> CLI</p>
+</div>
+
 ### Awesome Embodied AI Safety
 <div><a href="https://github.com/x-zheng16/Awesome-Embodied-AI-Safety"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/x-zheng16/Awesome-Embodied-AI-Safety"><img src="https://img.shields.io/github/stars/x-zheng16/Awesome-Embodied-AI-Safety?style=social" alt="GitHub stars"></a></div>
 <p>🤖 AI Agents</p>
