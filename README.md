@@ -1645,6 +1645,17 @@ Here's an awesome list of AI agents:
 <p><strong>Interfaces:</strong> Python SDK · TypeScript SDK · Elixir SDK · C SDK · WebAssembly</p>
 </div>
 
+### Mysti
+<div><a href="https://github.com/DeepMyst/Mysti"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/DeepMyst/Mysti"><img src="https://img.shields.io/github/stars/DeepMyst/Mysti?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents</p>
+
+<p>Mysti is a VS Code AI coding team that connects multiple agent backends and supports collaborative brainstorming, red-teaming, and persistent coding conversations.</p>
+
+<p><a href="https://github.com/DeepMyst/Mysti">github</a></p>
+<p><strong>Capabilities:</strong> multi-agent brainstorming and collaboration · red-team analysis · persistent coding conversations</p>
+<p><strong>Interfaces:</strong> VS Code extension</p>
+</div>
+
 ### n3rv (formerly NERV)
 <div><a href="https://github.com/juanmanueldaza/n3rv"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/juanmanueldaza/n3rv"><img src="https://img.shields.io/github/stars/juanmanueldaza/n3rv?style=social" alt="GitHub stars"></a></div>
 <p>⚙️ Development Frameworks</p>

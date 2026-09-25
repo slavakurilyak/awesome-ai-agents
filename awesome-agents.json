@@ -5898,6 +5898,32 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "Mysti",
+      "project_description": "Mysti is a VS Code AI coding team that connects multiple agent backends and supports collaborative brainstorming, red-teaming, and persistent coding conversations.",
+      "project_is_open_source": true,
+      "categories": [
+        "AI Agents"
+      ],
+      "capabilities": [
+        "multi-agent brainstorming and collaboration",
+        "red-team analysis",
+        "persistent coding conversations"
+      ],
+      "interfaces": [
+        "VS Code extension"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/DeepMyst/Mysti",
+          "stars": null,
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T19:52:00Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
