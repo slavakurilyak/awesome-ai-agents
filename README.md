@@ -697,6 +697,17 @@ Here's an awesome list of AI agents:
 <p><strong>Interfaces:</strong> OpenClaw · Docker · Slack · Agent skills</p>
 </div>
 
+### Cortex
+<div><a href="https://github.com/agentweave/cortex"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/agentweave/cortex"><img src="https://img.shields.io/github/stars/agentweave/cortex?style=social" alt="GitHub stars"></a></div>
+<p>⚙️ Development Frameworks</p>
+
+<p>An open protocol for coordinating AI agent teams through shared Markdown task files and a chief-of-staff workflow.</p>
+
+<p><a href="https://github.com/agentweave/cortex">github</a></p>
+<p><strong>Capabilities:</strong> Coordinate chief-of-staff and worker agents through shared task files · Track team tasks and agent status across projects · Integrate with multiple coding-agent runtimes</p>
+<p><strong>Interfaces:</strong> Markdown protocol · Claude Code plugin · Runtime adapters</p>
+</div>
+
 ### CorvinOS
 <div><a href="https://github.com/CorvinLabs/CorvinOS"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/CorvinLabs/CorvinOS"><img src="https://img.shields.io/github/stars/CorvinLabs/CorvinOS?style=social" alt="GitHub stars"></a></div>
 <p>🤖 AI Agents | 💻 Local Inference | 💻 Operating System (OS)</p>
