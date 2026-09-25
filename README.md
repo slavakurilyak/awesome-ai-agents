@@ -291,6 +291,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/mnotgod96/AppAgent">github</a> | <a href="https://github.com/mnotgod96">github profile</a></p>
 </div>
 
+### Aster
+<div><a href="https://github.com/Zfinix/aster"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Zfinix/aster"><img src="https://img.shields.io/github/stars/Zfinix/aster?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents</p>
+
+<p>Aster is a local-first software-engineering agent that uses shared tools, permissions, memory, skills, and retrieval for chat, code review, and fixes.</p>
+
+<p><a href="https://github.com/Zfinix/aster">github</a></p>
+</div>
+
 ### Astra Assistants API
 <div><a href="https://github.com/datastax/astra-assistants-api"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/datastax/astra-assistants-api"><img src="https://img.shields.io/github/stars/datastax/astra-assistants-api?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 203 stars (Updated: 2025-07-30)</p>
