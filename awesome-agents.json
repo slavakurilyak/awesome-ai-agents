@@ -3756,6 +3756,34 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "LoopTroop",
+      "project_description": "LoopTroop is a local AI coding orchestrator that plans work with an LLM council, runs tasks in isolated Git worktrees, and retries failures with fresh context.",
+      "project_is_open_source": true,
+      "capabilities": [
+        "Ticket-to-PR coding workflow",
+        "Multi-model planning",
+        "Isolated worktree execution",
+        "Verification and review"
+      ],
+      "interfaces": [
+        "Desktop UI",
+        "CLI",
+        "OpenCode integration"
+      ],
+      "categories": [
+        "AI Agents"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/looptroop-ai/LoopTroop",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T16:41:57Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
