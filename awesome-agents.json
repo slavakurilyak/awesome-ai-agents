@@ -2826,6 +2826,34 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "SandBase Harness",
+      "project_description": "SandBase Harness is a self-hosted AI agent runtime and MCP bridge for persistent sessions, sandboxed tool execution, credentials, audit logs, and replay. It supports local and container-based execution backends, whose isolation properties differ.",
+      "project_is_open_source": true,
+      "categories": [
+        "AI Agents",
+        "Development Frameworks"
+      ],
+      "capabilities": [
+        "Persistent agent sessions",
+        "Sandboxed tool execution",
+        "Audit and replay"
+      ],
+      "interfaces": [
+        "CLI",
+        "MCP",
+        "Local web console"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/sandbaseai/sandbase-harness",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T15:04:05Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [

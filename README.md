@@ -1024,6 +1024,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/yanghao1143/rust-norion">github</a></p>
 </div>
 
+### SandBase Harness
+<div><a href="https://github.com/sandbaseai/sandbase-harness"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/sandbaseai/sandbase-harness"><img src="https://img.shields.io/github/stars/sandbaseai/sandbase-harness?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents | ⚙️ Development Frameworks</p>
+
+<p>SandBase Harness is a self-hosted AI agent runtime and MCP bridge for persistent sessions, sandboxed tool execution, credentials, audit logs, and replay. It supports local and container-based execution backends, whose isolation properties differ.</p>
+
+<p><a href="https://github.com/sandbaseai/sandbase-harness">github</a></p>
+<p><strong>Capabilities:</strong> Persistent agent sessions · Sandboxed tool execution · Audit and replay</p>
+<p><strong>Interfaces:</strong> CLI · MCP · Local web console</p>
+</div>
+
 ### Self Auditing Agent
 <div><a href="https://github.com/simin-yuan/self-auditing-agent"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/simin-yuan/self-auditing-agent"><img src="https://img.shields.io/github/stars/simin-yuan/self-auditing-agent?style=social" alt="GitHub stars"></a></div>
 <p>📊 Evaluation Frameworks</p>
