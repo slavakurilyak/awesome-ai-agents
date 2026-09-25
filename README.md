@@ -514,6 +514,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/continuedev/continue">github</a> | <a href="https://continue.dev">website</a></p>
 </div>
 
+### CorvinOS
+<div><a href="https://github.com/CorvinLabs/CorvinOS"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/CorvinLabs/CorvinOS"><img src="https://img.shields.io/github/stars/CorvinLabs/CorvinOS?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents | 💻 Local Inference | 💻 Operating System (OS)</p>
+
+<p>CorvinOS is a self-hosted agentic OS that connects local and cloud models to messaging platforms including Discord, Telegram, WhatsApp, Slack, and email.</p>
+
+<p><a href="https://github.com/CorvinLabs/CorvinOS">github</a></p>
+</div>
+
 ### Crawl4AI
 <div><a href="https://github.com/unclecode/crawl4ai"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/unclecode/crawl4ai"><img src="https://img.shields.io/github/stars/unclecode/crawl4ai?style=social" alt="GitHub stars"></a></div>
 <p>🌐 Web Browsing Frameworks</p>
