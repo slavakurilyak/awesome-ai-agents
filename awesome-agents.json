@@ -5022,6 +5022,35 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "AKF",
+      "project_description": "An AI-native file format and toolchain for carrying provenance, evidence, and verification metadata with files.",
+      "project_is_open_source": true,
+      "capabilities": [
+        "Attach provenance and trust metadata to files",
+        "Inspect and verify claims and evidence",
+        "Replay checks against recorded evidence"
+      ],
+      "interfaces": [
+        "CLI",
+        "Python package",
+        "TypeScript package",
+        "MCP server"
+      ],
+      "categories": [
+        "Standardization",
+        "Safety Guardrails (Safeguarding)"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/HMAKT99/AKF",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T18:55:00Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
