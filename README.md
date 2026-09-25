@@ -942,6 +942,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/ollama/ollama">github</a> | <a href="https://github.com/ollama">github profile</a></p>
 </div>
 
+### Open Index
+<div><a href="https://github.com/DrDroidLab/open-index"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/DrDroidLab/open-index"><img src="https://img.shields.io/github/stars/DrDroidLab/open-index?style=social" alt="GitHub stars"></a></div>
+<p>🧠 Long-Term Memory</p>
+
+<p>Open Index is a self-hosted context layer for domain-specialized AI agents, building searchable knowledge graphs with structured schemas, semantic search, and MCP read/write access.</p>
+
+<p><a href="https://github.com/DrDroidLab/open-index">github</a></p>
+</div>
+
 ### Open Interpreter
 <div><a href="https://github.com/OpenInterpreter/open-interpreter"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/OpenInterpreter/open-interpreter"><img src="https://img.shields.io/github/stars/OpenInterpreter/open-interpreter?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 60,095 stars (Updated: 2025-07-30)</p>
