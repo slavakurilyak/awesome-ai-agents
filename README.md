@@ -1268,6 +1268,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/OktoLabsAI/okto-nexus">github</a></p>
 </div>
 
+### Okto-Pulse
+<div><a href="https://github.com/OktoLabsAI/okto-pulse"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/OktoLabsAI/okto-pulse"><img src="https://img.shields.io/github/stars/OktoLabsAI/okto-pulse?style=social" alt="GitHub stars"></a></div>
+<p>⚙️ Development Frameworks | 🛡️ Safety Guardrails (Safeguarding)</p>
+
+<p>Okto-Pulse is a local-first SDLC workbench for AI coding teams, with structured project artifacts, governance gates, validation rules, and MCP tools.</p>
+
+<p><a href="https://github.com/OktoLabsAI/okto-pulse">github</a></p>
+</div>
+
 ### Ollama
 <div><a href="https://github.com/ollama/ollama"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/ollama/ollama"><img src="https://img.shields.io/github/stars/ollama/ollama?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 147,994 stars (Updated: 2025-07-30)</p>
