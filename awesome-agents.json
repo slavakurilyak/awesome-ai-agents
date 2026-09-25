@@ -4343,6 +4343,25 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "OpenAgent",
+      "project_description": "A self-hostable personal AI assistant with autonomous browser, search, shell, office, and MCP tools, plus document RAG and a visual workflow builder.",
+      "project_is_open_source": true,
+      "categories": [
+        "AI Agents",
+        "Personal Assistants",
+        "Tool Calling (Function Calling)"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/the-open-agent/openagent",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T08:41:57Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [

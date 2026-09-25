@@ -1397,6 +1397,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/OpenInterpreter/open-interpreter">github</a></p>
 </div>
 
+### OpenAgent
+<div><a href="https://github.com/the-open-agent/openagent"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/the-open-agent/openagent"><img src="https://img.shields.io/github/stars/the-open-agent/openagent?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents | 👤 Personal Assistants | 🔧 Tool Calling (Function Calling)</p>
+
+<p>A self-hostable personal AI assistant with autonomous browser, search, shell, office, and MCP tools, plus document RAG and a visual workflow builder.</p>
+
+<p><a href="https://github.com/the-open-agent/openagent">github</a></p>
+</div>
+
 ### OpenAGI
 <div><a href="https://github.com/agiresearch/OpenAGI"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/agiresearch/OpenAGI"><img src="https://img.shields.io/github/stars/agiresearch/OpenAGI?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 2,175 stars (Updated: 2025-07-30)</p>
