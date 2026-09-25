@@ -6063,6 +6063,34 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "Quorum",
+      "project_description": "Quorum lets multiple AI models and agent CLIs conduct structured debates using formal methods, critique, and synthesis, through a terminal UI, MCP, and a web version.",
+      "project_is_open_source": true,
+      "categories": [
+        "AI Agents"
+      ],
+      "capabilities": [
+        "structured multi-agent debate",
+        "critique and consensus synthesis",
+        "local and hosted model participation"
+      ],
+      "interfaces": [
+        "CLI",
+        "MCP",
+        "Web UI"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/Detrol/quorum-cli",
+          "stars": null,
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T19:56:00Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
