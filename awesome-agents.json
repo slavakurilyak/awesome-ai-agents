@@ -6201,6 +6201,33 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "Julep",
+      "project_description": "Julep builds durable, composable AI agents as workflows that can resume after failures, retry safely, and expose step-by-step execution.",
+      "project_is_open_source": true,
+      "categories": [
+        "Development Frameworks"
+      ],
+      "capabilities": [
+        "durable agent workflows",
+        "safe retries and failure recovery",
+        "step-level execution tracing"
+      ],
+      "interfaces": [
+        "Python SDK",
+        "API"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/julep-ai/julep",
+          "stars": null,
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T20:33:57Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [

@@ -1349,6 +1349,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/danielyedaniel/jevme">github</a></p>
 </div>
 
+### Julep
+<div><a href="https://github.com/julep-ai/julep"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/julep-ai/julep"><img src="https://img.shields.io/github/stars/julep-ai/julep?style=social" alt="GitHub stars"></a></div>
+<p>⚙️ Development Frameworks</p>
+
+<p>Julep builds durable, composable AI agents as workflows that can resume after failures, retry safely, and expose step-by-step execution.</p>
+
+<p><a href="https://github.com/julep-ai/julep">github</a></p>
+<p><strong>Capabilities:</strong> durable agent workflows · safe retries and failure recovery · step-level execution tracing</p>
+<p><strong>Interfaces:</strong> Python SDK · API</p>
+</div>
+
 ### k8s4claw
 <div><a href="https://github.com/Prismer-AI/k8s4claw"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Prismer-AI/k8s4claw"><img src="https://img.shields.io/github/stars/Prismer-AI/k8s4claw?style=social" alt="GitHub stars"></a></div>
 <p>🤖 AI Agents | ⚙️ Development Frameworks | 🛡️ Safety Guardrails (Safeguarding)</p>
