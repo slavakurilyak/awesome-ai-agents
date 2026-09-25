@@ -419,6 +419,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/camel-ai/camel">github</a> | <a href="https://github.com/camel-ai">github profile</a></p>
 </div>
 
+### Ceki MCP Server
+<div><a href="https://github.com/Ceki-me/mcp-server"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Ceki-me/mcp-server"><img src="https://img.shields.io/github/stars/Ceki-me/mcp-server?style=social" alt="GitHub stars"></a></div>
+<p>🔌 MCP Servers</p>
+
+<p>Ceki's open-source MCP server connects agents to a hosted marketplace for real-browser sessions and human services, with companion Python and JavaScript SDKs.</p>
+
+<p><a href="https://github.com/Ceki-me/mcp-server">github</a> | <a href="https://github.com/Ceki-me/python-sdk">github</a> | <a href="https://github.com/Ceki-me/js-sdk">github</a></p>
+</div>
+
 ### ChatDev
 <div><a href="https://github.com/OpenBMB/ChatDev"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/OpenBMB/ChatDev"><img src="https://img.shields.io/github/stars/OpenBMB/ChatDev?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 27,226 stars (Updated: 2025-07-30)</p>

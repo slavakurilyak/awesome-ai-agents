@@ -3556,6 +3556,41 @@
         }
       ]
     }
+,
+    {
+      "project": "Ceki MCP Server",
+      "project_description": "Ceki's open-source MCP server connects agents to a hosted marketplace for real-browser sessions and human services, with companion Python and JavaScript SDKs.",
+      "project_is_open_source": true,
+      "categories": [
+        "MCP Servers"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/Ceki-me/mcp-server",
+          "stars": null,
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T16:10:13Z",
+          "repository_status": "active"
+        },
+        {
+          "source": "github",
+          "source_url": "https://github.com/Ceki-me/python-sdk",
+          "stars": null,
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T16:10:13Z",
+          "repository_status": "active"
+        },
+        {
+          "source": "github",
+          "source_url": "https://github.com/Ceki-me/js-sdk",
+          "stars": null,
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T16:10:13Z",
+          "repository_status": "active"
+        }
+      ]
+    }
   ],
   "categories": [
     {
