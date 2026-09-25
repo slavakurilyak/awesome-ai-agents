@@ -1076,6 +1076,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/lucinate-ai/lucinate">github</a></p>
 </div>
 
+### Maestro
+<div><a href="https://github.com/RunMaestro/Maestro"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/RunMaestro/Maestro"><img src="https://img.shields.io/github/stars/RunMaestro/Maestro?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents | 🔄 Flow Engineering (Platform Engineering)</p>
+
+<p>A desktop command center for running multiple AI coding agents in parallel, automating sessions with event cues and playbooks, and coordinating local and remote agents.</p>
+
+<p><a href="https://github.com/RunMaestro/Maestro">github</a></p>
+<p><strong>Capabilities:</strong> Run multiple coding agents in parallel · Automate agent workflows with event cues and playbooks · Coordinate conversations across local and remote agents · Let agents manage runs through a CLI</p>
+<p><strong>Interfaces:</strong> Desktop UI · CLI · Claude Code · Codex · Gemini CLI · OpenCode</p>
+</div>
+
 ### Marvin
 <div><a href="https://github.com/PrefectHQ/marvin/"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/PrefectHQ/marvin/"><img src="https://img.shields.io/github/stars/PrefectHQ/marvin?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 5,830 stars (Updated: 2025-07-30)</p>
