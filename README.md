@@ -1212,6 +1212,17 @@ Here's an awesome list of AI agents:
 <p><strong>Interfaces:</strong> Web UI · API</p>
 </div>
 
+### Hivemoot
+<div><a href="https://github.com/hivemoot/hivemoot"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/hivemoot/hivemoot"><img src="https://img.shields.io/github/stars/hivemoot/hivemoot?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents</p>
+
+<p>Hivemoot runs a team of AI agents on GitHub repositories, where agents propose work, debate in issues, implement changes, review pull requests, and vote on decisions.</p>
+
+<p><a href="https://github.com/hivemoot/hivemoot">github</a></p>
+<p><strong>Capabilities:</strong> autonomous software development team · issue and pull request collaboration · agent governance and voting</p>
+<p><strong>Interfaces:</strong> GitHub App · CLI · Web UI</p>
+</div>
+
 ### HOL Standards SDK
 <div><a href="https://github.com/hashgraph-online/standards-sdk"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/hashgraph-online/standards-sdk"><img src="https://img.shields.io/github/stars/hashgraph-online/standards-sdk?style=social" alt="GitHub stars"></a></div>
 <p>⚙️ Development Frameworks | 📏 Standardization</p>
