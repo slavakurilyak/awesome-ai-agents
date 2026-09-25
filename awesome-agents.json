@@ -5490,6 +5490,33 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "Hive",
+      "project_description": "A model-agnostic runtime for production AI agent teams, with dynamic worker colonies, shared task state, and human oversight.",
+      "project_is_open_source": true,
+      "capabilities": [
+        "Grow specialized agent teams to carry out long-running processes",
+        "Coordinate workers through a shared ledger and persistent task plans",
+        "Recover from failures and manage cost, observability, and human review"
+      ],
+      "interfaces": [
+        "Python runtime",
+        "CLI",
+        "MCP tools"
+      ],
+      "categories": [
+        "Development Frameworks"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/aden-hive/hive",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T19:34:00Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
