@@ -2142,6 +2142,17 @@ Here's an awesome list of AI agents:
 <p><strong>Interfaces:</strong> TypeScript package on npm · Python package on PyPI · MCP servers · Docker sidecar</p>
 </div>
 
+### TeamHero
+<div><a href="https://github.com/sagiyaacoby/TeamHero"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/sagiyaacoby/TeamHero"><img src="https://img.shields.io/github/stars/sagiyaacoby/TeamHero?style=social" alt="GitHub stars"></a></div>
+<p>⚙️ Development Frameworks | 🧠 Long-Term Memory</p>
+
+<p>A self-hosted workspace for coordinating AI agent teams with structured tasks, persistent memory, and file-conflict controls.</p>
+
+<p><a href="https://github.com/sagiyaacoby/TeamHero">github</a></p>
+<p><strong>Capabilities:</strong> Plan, assign, review, and track agent tasks and deliverables · Maintain persistent memory and a shared knowledge base for agent teams · Coordinate file ownership to prevent conflicting edits</p>
+<p><strong>Interfaces:</strong> Web dashboard · Integrated terminal · Claude Code</p>
+</div>
+
 ### The Agentic Leaderboard
 <div><a href="https://github.com/ifyoubuildit/the-agentic-leaderboard-data"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/ifyoubuildit/the-agentic-leaderboard-data"><img src="https://img.shields.io/github/stars/ifyoubuildit/the-agentic-leaderboard-data?style=social" alt="GitHub stars"></a></div>
 <p>📊 Evaluation Frameworks</p>
