@@ -4518,6 +4518,33 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "AgentWatch",
+      "project_description": "A TypeScript library for monitoring agent heartbeats, correlating cross-agent traces, detecting cascade failures, and replaying failure chains.",
+      "project_is_open_source": true,
+      "categories": [
+        "Observability Frameworks"
+      ],
+      "capabilities": [
+        "Agent heartbeat monitoring",
+        "Cross-agent trace correlation",
+        "Cascade failure detection and replay"
+      ],
+      "interfaces": [
+        "TypeScript library",
+        "CLI",
+        "MCP server"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/nicofains1/agentwatch",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T12:22:14Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [

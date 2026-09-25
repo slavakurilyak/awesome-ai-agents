@@ -220,6 +220,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/OpenBMB/AgentVerse">github</a> | <a href="https://github.com/OpenBMB">github profile</a></p>
 </div>
 
+### AgentWatch
+<div><a href="https://github.com/nicofains1/agentwatch"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/nicofains1/agentwatch"><img src="https://img.shields.io/github/stars/nicofains1/agentwatch?style=social" alt="GitHub stars"></a></div>
+<p>👁️ Observability Frameworks</p>
+
+<p>A TypeScript library for monitoring agent heartbeats, correlating cross-agent traces, detecting cascade failures, and replaying failure chains.</p>
+
+<p><a href="https://github.com/nicofains1/agentwatch">github</a></p>
+<p><strong>Capabilities:</strong> Agent heartbeat monitoring · Cross-agent trace correlation · Cascade failure detection and replay</p>
+<p><strong>Interfaces:</strong> TypeScript library · CLI · MCP server</p>
+</div>
+
 ### AGiXT
 <div><a href="https://github.com/Josh-XT/AGiXT"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Josh-XT/AGiXT"><img src="https://img.shields.io/github/stars/Josh-XT/AGiXT?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 3,052 stars (Updated: 2025-07-30)</p>
