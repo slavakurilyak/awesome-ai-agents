@@ -3845,6 +3845,24 @@
       ]
     },
     {
+      "project": "Self Auditing Agent",
+      "project_description": "Self Auditing Agent pairs audit claims with rerunnable commands and includes gatecheck, a mutation tester for quality gates available as a GitHub Action and pre-commit hook.",
+      "project_is_open_source": true,
+      "categories": [
+        "Evaluation Frameworks"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/simin-yuan/self-auditing-agent",
+          "stars": null,
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T07:14:44Z",
+          "repository_status": "active"
+        }
+      ]
+    },
+    {
       "project": "BlackVault",
       "project_description": "Self-hostable API key proxy for AI agents with per-token access controls, budget limits, and an OpenAI-compatible gateway for multiple model providers.",
       "project_is_open_source": true,
