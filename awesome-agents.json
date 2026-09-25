@@ -2995,6 +2995,36 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "Atomic Agent",
+      "project_description": "Atomic Agent is a local-first terminal coding assistant that runs open-weight models through llama.cpp and keeps its control loop and state on the user’s machine. It can browse, work with files and Git, retain memory across sessions, and connect external tools over MCP.",
+      "project_is_open_source": true,
+      "categories": [
+        "AI Agents",
+        "Local Inference",
+        "Terminal-Friendly"
+      ],
+      "capabilities": [
+        "Local model inference",
+        "Browser, file, and Git tools",
+        "Persistent memory and MCP tool connections"
+      ],
+      "interfaces": [
+        "CLI",
+        "TUI",
+        "HTTP API",
+        "MCP"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/AtomicBot-ai/atomic-agent",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T15:18:21Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
