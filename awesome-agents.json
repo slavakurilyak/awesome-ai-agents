@@ -5816,6 +5816,32 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "Agent Reach",
+      "project_description": "Agent Reach installs and checks internet access tools for AI agents, routing search and platform access through supported CLIs and services.",
+      "project_is_open_source": true,
+      "categories": [
+        "Development Frameworks"
+      ],
+      "capabilities": [
+        "internet search and platform access",
+        "tool installation and diagnostics",
+        "multi-platform integration"
+      ],
+      "interfaces": [
+        "CLI"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/Panniantong/Agent-Reach",
+          "stars": null,
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T19:49:00Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [

@@ -105,6 +105,17 @@ Here's an awesome list of AI agents:
 <p><strong>Interfaces:</strong> Web dashboard · CLI · MCP server · Coding-agent skills</p>
 </div>
 
+### Agent Reach
+<div><a href="https://github.com/Panniantong/Agent-Reach"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Panniantong/Agent-Reach"><img src="https://img.shields.io/github/stars/Panniantong/Agent-Reach?style=social" alt="GitHub stars"></a></div>
+<p>⚙️ Development Frameworks</p>
+
+<p>Agent Reach installs and checks internet access tools for AI agents, routing search and platform access through supported CLIs and services.</p>
+
+<p><a href="https://github.com/Panniantong/Agent-Reach">github</a></p>
+<p><strong>Capabilities:</strong> internet search and platform access · tool installation and diagnostics · multi-platform integration</p>
+<p><strong>Interfaces:</strong> CLI</p>
+</div>
+
 ### Agent Skills Runtime (ORCA)
 <div><a href="https://github.com/gfernandf/agent-skills"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/gfernandf/agent-skills"><img src="https://img.shields.io/github/stars/gfernandf/agent-skills?style=social" alt="GitHub stars"></a></div>
 <p>⚙️ Development Frameworks</p>
