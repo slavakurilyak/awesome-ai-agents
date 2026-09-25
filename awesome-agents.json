@@ -3781,6 +3781,24 @@
       ]
     },
     {
+      "project": "Mnemoverse",
+      "project_description": "Mnemoverse is an open-source MCP server for persistent AI-agent memory, with feedback tools that adjust how memories are ranked.",
+      "project_is_open_source": true,
+      "categories": [
+        "Long-Term Memory"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/mnemoverse/mcp-memory-server",
+          "stars": null,
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T07:12:40Z",
+          "repository_status": "active"
+        }
+      ]
+    },
+    {
       "project": "AgentFlow",
       "project_description": "Trainable, tool-integrated multi-agent framework with planner, executor, verifier, and generator modules; supports multi-turn inference and Flow-GRPO training.",
       "project_is_open_source": true,

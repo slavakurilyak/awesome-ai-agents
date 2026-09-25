@@ -1184,6 +1184,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/geekan/MetaGPT">github</a> | <a href="https://github.com/geekan">github profile</a></p>
 </div>
 
+### Mnemoverse
+<div><a href="https://github.com/mnemoverse/mcp-memory-server"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/mnemoverse/mcp-memory-server"><img src="https://img.shields.io/github/stars/mnemoverse/mcp-memory-server?style=social" alt="GitHub stars"></a></div>
+<p>🧠 Long-Term Memory</p>
+
+<p>Mnemoverse is an open-source MCP server for persistent AI-agent memory, with feedback tools that adjust how memories are ranked.</p>
+
+<p><a href="https://github.com/mnemoverse/mcp-memory-server">github</a></p>
+</div>
+
 ### NavAIGuide
 <div><a href="https://github.com/francedot/NavAIGuide-TS"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/francedot/NavAIGuide-TS"><img src="https://img.shields.io/github/stars/francedot/NavAIGuide-TS?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 114 stars (Updated: 2025-07-30)</p>
