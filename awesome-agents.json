@@ -6504,6 +6504,33 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "Agent 007",
+      "project_description": "A self-hosted job board that runs coding agents in isolated Git worktrees, queues jobs, and returns pull requests or summaries for review.",
+      "project_is_open_source": true,
+      "categories": [
+        "AI Agents"
+      ],
+      "capabilities": [
+        "Run terminal coding agents in isolated Git worktrees",
+        "Queue jobs and review resulting pull requests or summaries",
+        "Coordinate workers through MCP"
+      ],
+      "interfaces": [
+        "Web UI",
+        "CLI",
+        "MCP"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/bill10/agent-007",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T21:29:10Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
