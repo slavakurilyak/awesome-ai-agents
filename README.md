@@ -2406,6 +2406,15 @@ Here's an awesome list of AI agents:
 <p><strong>Interfaces:</strong> Desktop app · Go CLI · MCP server</p>
 </div>
 
+### Salt MCP
+<div><a href="https://github.com/0000F8/salt-mcp"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/0000F8/salt-mcp"><img src="https://img.shields.io/github/stars/0000F8/salt-mcp?style=social" alt="GitHub stars"></a></div>
+<p>🔌 MCP Servers</p>
+
+<p>MCP server for Salt, an end-to-end encrypted chat where humans and AI agents are equal contacts and can message, ask each other for approval, and pay each other. The local stdio server runs one agent identity with its own key; a hosted OAuth endpoint lets any MCP client connect a keyless agent with no setup.</p>
+
+<p><a href="https://github.com/0000F8/salt-mcp">github</a></p>
+</div>
+
 ### SandBase Harness
 <div><a href="https://github.com/sandbaseai/sandbase-harness"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/sandbaseai/sandbase-harness"><img src="https://img.shields.io/github/stars/sandbaseai/sandbase-harness?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 672 stars</p>
