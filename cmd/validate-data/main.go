@@ -9,6 +9,7 @@ import (
 	"strings"
 	"time"
 
+	"awesome-ai-agents/internal/contributions"
 	"awesome-ai-agents/internal/forgeverify"
 	"awesome-ai-agents/internal/projectdata"
 )
@@ -30,6 +31,15 @@ func main() {
 	data, err := projectdata.LoadData(root + "/awesome-agents.json")
 	if err != nil {
 		fmt.Fprintln(os.Stderr, "ERROR:", err)
+		os.Exit(1)
+	}
+	creditData, err := contributions.Read(root + "/contributions.json")
+	if err != nil {
+		fmt.Fprintln(os.Stderr, "ERROR: contribution data:", err)
+		os.Exit(1)
+	}
+	if err := contributions.Validate(data, creditData); err != nil {
+		fmt.Fprintln(os.Stderr, "ERROR: contribution data:", err)
 		os.Exit(1)
 	}
 	projectIndexes := make([]int, 0, len(data.Agents))
@@ -62,7 +72,7 @@ func main() {
 			if !ok {
 				continue
 			}
-			public, _, _, checkErr := forgeverify.Repository(client, root, forge, repo)
+			public, _, _, _, _, checkErr := forgeverify.Repository(client, root, forge, repo)
 			if checkErr != nil {
 				fmt.Fprintf(os.Stderr, "ERROR: verify %s on %s: %v\n", project.Project, forge, checkErr)
 				os.Exit(1)

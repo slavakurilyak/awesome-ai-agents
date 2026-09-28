@@ -20,3 +20,13 @@ For project submissions, link the project's direct public repository on GitHub, 
 ## Skill changes (if applicable)
 
 If this PR intentionally changes the public skill, explain why and summarize the change. Leave this section blank otherwise.
+
+## Contribution credit (optional for project submissions)
+
+- Original submission issue or pull request:
+- Submitted by (GitHub username, if different from this PR author):
+- Founder or team member (self-reported): yes / no
+- Current maintainer(s):
+- Public evidence for current maintainer(s):
+
+The maintainer verifies accepted submissions before adding public credit. Founder/team relationships without separate evidence are labeled self-reported.

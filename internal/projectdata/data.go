@@ -2,6 +2,8 @@ package projectdata
 
 import (
 	"bufio"
+	"crypto/sha256"
+	"encoding/hex"
 	"encoding/json"
 	"fmt"
 	"net/url"
@@ -10,6 +12,7 @@ import (
 	"runtime"
 	"strings"
 	"time"
+	"unicode"
 
 	"gopkg.in/yaml.v3"
 )
@@ -17,6 +20,8 @@ import (
 type Source struct {
 	Source                 string  `json:"source" yaml:"source"`
 	SourceURL              string  `json:"source_url" yaml:"source_url"`
+	RepositoryOwner        string  `json:"repository_owner,omitempty" yaml:"repository_owner,omitempty"`
+	RepositoryOwnerURL     string  `json:"repository_owner_url,omitempty" yaml:"repository_owner_url,omitempty"`
 	Stars                  *int    `json:"stars,omitempty" yaml:"stars,omitempty"`
 	StarsLastUpdated       *string `json:"stars_last_updated" yaml:"stars_last_updated"`
 	Badge                  string  `json:"badge,omitempty" yaml:"badge,omitempty"`
@@ -25,6 +30,7 @@ type Source struct {
 	RepositoryStatusDetail string  `json:"repository_status_detail,omitempty"`
 }
 type Project struct {
+	ID                  string   `json:"id" yaml:"id"`
 	Project             string   `json:"project" yaml:"project"`
 	ProjectDescription  *string  `json:"project_description,omitempty" yaml:"project_description"`
 	ProjectIsOpenSource bool     `json:"project_is_open_source" yaml:"project_is_open_source"`
@@ -33,6 +39,43 @@ type Project struct {
 	Interfaces          []string `json:"interfaces,omitempty" yaml:"interfaces,omitempty"`
 	Sources             []Source `json:"sources" yaml:"sources"`
 }
+
+// NewProjectID creates a stable opaque key from the initial project name and
+// primary repository. Store it in the catalog once and preserve it on renames
+// and repository transfers.
+func NewProjectID(p Project) string {
+	var slug strings.Builder
+	separator := false
+	for _, r := range strings.ToLower(strings.TrimSpace(p.Project)) {
+		if unicode.IsLetter(r) && r <= unicode.MaxASCII || r >= '0' && r <= '9' {
+			slug.WriteRune(r)
+			separator = false
+		} else if slug.Len() > 0 && !separator {
+			slug.WriteByte('-')
+			separator = true
+		}
+	}
+	key := strings.Trim(slug.String(), "-")
+	if key == "" {
+		key = "project"
+	}
+	primary := ""
+	if len(p.Sources) > 0 {
+		_, _, primary, _ = ForgeRepository(p.Sources[0].SourceURL)
+	}
+	seed := strings.ToLower(strings.TrimSpace(p.Project)) + "\x00" + strings.ToLower(primary)
+	sum := sha256.Sum256([]byte(seed))
+	return key + "-" + hex.EncodeToString(sum[:4])
+}
+
+func EnsureProjectID(p *Project) bool {
+	if p.ID != "" {
+		return false
+	}
+	p.ID = NewProjectID(*p)
+	return true
+}
+
 type Category struct {
 	Category            string `json:"category" yaml:"category"`
 	CategoryDescription string `json:"category_description" yaml:"category_description"`
@@ -127,7 +170,23 @@ func Validate(d Data) error {
 	if len(d.Agents) == 0 {
 		return fmt.Errorf("agents must contain at least one project")
 	}
+	ids := make(map[string]string, len(d.Agents))
 	for i, p := range d.Agents {
+		if strings.TrimSpace(p.ID) == "" {
+			return fmt.Errorf("agents[%d] (%s).id is required", i, p.Project)
+		}
+		if strings.ContainsAny(p.ID, " /\\?#") {
+			return fmt.Errorf("agents[%d] (%s).id must be a stable URL-safe identifier", i, p.Project)
+		}
+		identity := strings.ToLower(strings.TrimSpace(p.Project))
+		if len(p.Sources) > 0 {
+			_, _, canonical, _ := ForgeRepository(p.Sources[0].SourceURL)
+			identity += "\x00" + strings.ToLower(canonical)
+		}
+		if old, exists := ids[strings.ToLower(p.ID)]; exists && old != identity {
+			return fmt.Errorf("agents[%d] (%s).id %q conflicts with another project", i, p.Project, p.ID)
+		}
+		ids[strings.ToLower(p.ID)] = identity
 		if strings.TrimSpace(p.Project) == "" {
 			return fmt.Errorf("agents[%d].project is required", i)
 		}

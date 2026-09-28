@@ -1,0 +1,421 @@
+{
+  "projects": [
+    {
+      "project_id": "agent-007-30aa7b68",
+      "submitted_by": [
+        {
+          "github_id": 4839264,
+          "login": "bill10",
+          "evidence_url": "https://github.com/slavakurilyak/awesome-ai-agents/issues/527",
+          "acceptance_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/620",
+          "at": "2026-09-25T17:08:36Z",
+          "status": "accepted_submission",
+          "founder_team_claim": true
+        }
+      ]
+    },
+    {
+      "project_id": "agentfix-mini-scanner-e7bd2491",
+      "submitted_by": [
+        {
+          "github_id": 1082040,
+          "login": "Virt92",
+          "evidence_url": "https://github.com/slavakurilyak/awesome-ai-agents/issues/323",
+          "acceptance_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/462",
+          "at": "2026-06-27T19:50:26Z",
+          "status": "accepted_submission"
+        }
+      ]
+    },
+    {
+      "project_id": "agentleak-e9d43163",
+      "submitted_by": [
+        {
+          "github_id": 220980,
+          "login": "yagobski",
+          "evidence_url": "https://github.com/slavakurilyak/awesome-ai-agents/issues/410",
+          "acceptance_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/458",
+          "at": "2026-09-07T07:37:01Z",
+          "status": "accepted_submission"
+        }
+      ],
+      "maintained_by": [
+        {
+          "github_id": 220980,
+          "login": "yagobski",
+          "evidence_url": "https://github.com/slavakurilyak/awesome-ai-agents/issues/410",
+          "at": "2026-09-07T07:37:01Z",
+          "status": "self_reported"
+        }
+      ]
+    },
+    {
+      "project_id": "agentwatch-b652004b",
+      "submitted_by": [
+        {
+          "github_id": 72775588,
+          "login": "nicofains1",
+          "evidence_url": "https://github.com/slavakurilyak/awesome-ai-agents/issues/119",
+          "acceptance_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/479",
+          "at": "2026-03-13T23:10:58Z",
+          "status": "accepted_submission"
+        }
+      ]
+    },
+    {
+      "project_id": "aigen-protocol-0f26fefb",
+      "submitted_by": [
+        {
+          "github_id": 83247083,
+          "login": "Aigen-Protocol",
+          "evidence_url": "https://github.com/slavakurilyak/awesome-ai-agents/issues/194",
+          "acceptance_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/474",
+          "at": "2026-04-05T03:52:09Z",
+          "status": "accepted_submission"
+        }
+      ]
+    },
+    {
+      "project_id": "awesome-embodied-ai-safety-2a81af89",
+      "submitted_by": [
+        {
+          "github_id": 15337517,
+          "login": "x-zheng16",
+          "evidence_url": "https://github.com/slavakurilyak/awesome-ai-agents/issues/176",
+          "acceptance_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/475",
+          "at": "2026-03-29T15:03:50Z",
+          "status": "accepted_submission"
+        }
+      ]
+    },
+    {
+      "project_id": "baizhi-agent-toolkit-38ef4cd4",
+      "submitted_by": [
+        {
+          "github_id": 151006958,
+          "login": "ct-jaryn",
+          "evidence_url": "https://github.com/slavakurilyak/awesome-ai-agents/issues/428",
+          "acceptance_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/457",
+          "at": "2026-09-22T06:25:35Z",
+          "status": "accepted_submission"
+        }
+      ]
+    },
+    {
+      "project_id": "basedagents-a4d5edce",
+      "submitted_by": [
+        {
+          "github_id": 7283357,
+          "login": "maxfain",
+          "evidence_url": "https://github.com/slavakurilyak/awesome-ai-agents/issues/434",
+          "acceptance_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/437",
+          "at": "2026-09-24T18:19:38Z",
+          "status": "accepted_submission",
+          "founder_team_claim": true
+        }
+      ]
+    },
+    {
+      "project_id": "blackvault-a88fc265",
+      "submitted_by": [
+        {
+          "github_id": 114849299,
+          "login": "venkat22022202",
+          "evidence_url": "https://github.com/slavakurilyak/awesome-ai-agents/issues/53",
+          "acceptance_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/435",
+          "at": "2026-02-13T19:00:29Z",
+          "status": "accepted_submission"
+        }
+      ]
+    },
+    {
+      "project_id": "blave-agent-c06c8db9",
+      "submitted_by": [
+        {
+          "github_id": 158068248,
+          "login": "Blave-Wei",
+          "evidence_url": "https://github.com/slavakurilyak/awesome-ai-agents/issues/476",
+          "acceptance_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/485",
+          "at": "2026-09-25T11:57:09Z",
+          "status": "accepted_submission",
+          "founder_team_claim": true
+        }
+      ]
+    },
+    {
+      "project_id": "bulkpublish-e655efd5",
+      "submitted_by": [
+        {
+          "github_id": 7401298,
+          "login": "azeemkafridi",
+          "evidence_url": "https://github.com/slavakurilyak/awesome-ai-agents/issues/404",
+          "acceptance_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/459",
+          "at": "2026-09-02T18:58:24Z",
+          "status": "accepted_submission"
+        }
+      ]
+    },
+    {
+      "project_id": "buywhere-mcp-server-f3094b11",
+      "submitted_by": [
+        {
+          "github_id": 276059411,
+          "login": "BuyWhere",
+          "evidence_url": "https://github.com/slavakurilyak/awesome-ai-agents/issues/237",
+          "acceptance_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/470",
+          "at": "2026-04-25T16:35:39Z",
+          "status": "accepted_submission"
+        }
+      ]
+    },
+    {
+      "project_id": "edgrapi-abb250f1",
+      "submitted_by": [
+        {
+          "github_id": 283759512,
+          "login": "paperandbeyond23-gif",
+          "evidence_url": "https://github.com/slavakurilyak/awesome-ai-agents/issues/322",
+          "acceptance_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/463",
+          "at": "2026-06-27T19:08:19Z",
+          "status": "accepted_submission"
+        }
+      ]
+    },
+    {
+      "project_id": "frontman-85fe9e64",
+      "submitted_by": [
+        {
+          "github_id": 231539,
+          "login": "BlueHotDog",
+          "evidence_url": "https://github.com/slavakurilyak/awesome-ai-agents/issues/270",
+          "acceptance_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/467",
+          "at": "2026-05-19T08:32:52Z",
+          "status": "accepted_submission"
+        }
+      ]
+    },
+    {
+      "project_id": "insumerapi-agent-tools-0399ee21",
+      "submitted_by": [
+        {
+          "github_id": 256362537,
+          "login": "douglasborthwick-crypto",
+          "evidence_url": "https://github.com/slavakurilyak/awesome-ai-agents/issues/70",
+          "acceptance_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/482",
+          "at": "2026-02-24T13:53:52Z",
+          "status": "accepted_submission"
+        }
+      ]
+    },
+    {
+      "project_id": "jev-social-c8e38cd7",
+      "submitted_by": [
+        {
+          "github_id": 47499836,
+          "login": "IRONICBo",
+          "evidence_url": "https://github.com/slavakurilyak/awesome-ai-agents/issues/439",
+          "acceptance_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/456",
+          "at": "2026-09-24T20:27:52Z",
+          "status": "accepted_submission",
+          "founder_team_claim": true
+        }
+      ],
+      "maintained_by": [
+        {
+          "github_id": 47499836,
+          "login": "IRONICBo",
+          "evidence_url": "https://github.com/slavakurilyak/awesome-ai-agents/issues/439",
+          "at": "2026-09-24T20:27:52Z",
+          "status": "self_reported"
+        }
+      ]
+    },
+    {
+      "project_id": "jevme-8d91cf07",
+      "submitted_by": [
+        {
+          "github_id": 86787503,
+          "login": "danielyedaniel",
+          "evidence_url": "https://github.com/slavakurilyak/awesome-ai-agents/issues/431",
+          "additional_evidence_urls": [
+            "https://github.com/slavakurilyak/awesome-ai-agents/pull/429"
+          ],
+          "acceptance_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/442",
+          "at": "2026-09-24T17:30:58Z",
+          "status": "accepted_submission"
+        }
+      ]
+    },
+    {
+      "project_id": "octomind-874fd462",
+      "submitted_by": [
+        {
+          "github_id": 59067742,
+          "login": "donhardman",
+          "evidence_url": "https://github.com/slavakurilyak/awesome-ai-agents/issues/234",
+          "acceptance_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/471",
+          "at": "2026-04-22T12:44:53Z",
+          "status": "accepted_submission"
+        }
+      ]
+    },
+    {
+      "project_id": "openagent-01756aa9",
+      "submitted_by": [
+        {
+          "github_id": 248806197,
+          "login": "JasonBuildAI",
+          "evidence_url": "https://github.com/slavakurilyak/awesome-ai-agents/issues/247",
+          "acceptance_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/469",
+          "at": "2026-05-03T20:12:31Z",
+          "status": "accepted_submission"
+        }
+      ]
+    },
+    {
+      "project_id": "prismfy-wizard-f83b7379",
+      "submitted_by": [
+        {
+          "github_id": 283017151,
+          "login": "Prismfy",
+          "evidence_url": "https://github.com/slavakurilyak/awesome-ai-agents/issues/254",
+          "acceptance_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/468",
+          "at": "2026-05-08T22:52:34Z",
+          "status": "accepted_submission"
+        }
+      ]
+    },
+    {
+      "project_id": "reel-agent-11459e9d",
+      "submitted_by": [
+        {
+          "github_id": 177744583,
+          "login": "HNF-FRN",
+          "evidence_url": "https://github.com/slavakurilyak/awesome-ai-agents/issues/438",
+          "acceptance_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/455",
+          "at": "2026-09-24T19:20:03Z",
+          "status": "accepted_submission",
+          "founder_team_claim": true
+        }
+      ]
+    },
+    {
+      "project_id": "rust-norion-1b3a87fe",
+      "submitted_by": [
+        {
+          "github_id": 59933056,
+          "login": "yanghao1143",
+          "evidence_url": "https://github.com/slavakurilyak/awesome-ai-agents/issues/319",
+          "acceptance_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/464",
+          "at": "2026-06-25T11:16:09Z",
+          "status": "accepted_submission"
+        }
+      ]
+    },
+    {
+      "project_id": "smartipedia-291e033e",
+      "submitted_by": [
+        {
+          "github_id": 17649258,
+          "login": "sksareen",
+          "evidence_url": "https://github.com/slavakurilyak/awesome-ai-agents/issues/100",
+          "acceptance_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/481",
+          "at": "2026-03-08T18:39:44Z",
+          "status": "accepted_submission"
+        }
+      ]
+    },
+    {
+      "project_id": "strata-e385de7c",
+      "submitted_by": [
+        {
+          "github_id": 142136508,
+          "login": "ItSeemedLikeAGoodIdeaAtTheTime",
+          "evidence_url": "https://github.com/slavakurilyak/awesome-ai-agents/issues/210",
+          "acceptance_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/473",
+          "at": "2026-04-11T20:00:06Z",
+          "status": "accepted_submission"
+        }
+      ]
+    },
+    {
+      "project_id": "synapse-messenger-f6430181",
+      "submitted_by": [
+        {
+          "github_id": 95105076,
+          "login": "baronmuh",
+          "evidence_url": "https://github.com/slavakurilyak/awesome-ai-agents/issues/381",
+          "acceptance_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/460",
+          "at": "2026-08-09T14:28:07Z",
+          "status": "accepted_submission"
+        }
+      ]
+    },
+    {
+      "project_id": "taskade-4c2c8d04",
+      "submitted_by": [
+        {
+          "github_id": 792088,
+          "login": "johnxie",
+          "evidence_url": "https://github.com/slavakurilyak/awesome-ai-agents/issues/62",
+          "acceptance_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/483",
+          "at": "2026-02-19T04:35:50Z",
+          "status": "accepted_submission"
+        }
+      ]
+    },
+    {
+      "project_id": "the-genesis-accord-4a1e1d22",
+      "submitted_by": [
+        {
+          "github_id": 292540691,
+          "login": "Bengtsson78",
+          "evidence_url": "https://github.com/slavakurilyak/awesome-ai-agents/issues/318",
+          "acceptance_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/465",
+          "at": "2026-06-25T05:52:06Z",
+          "status": "accepted_submission"
+        }
+      ]
+    },
+    {
+      "project_id": "thursday-e07c7dda",
+      "submitted_by": [
+        {
+          "github_id": 86150470,
+          "login": "cgoinglove",
+          "evidence_url": "https://github.com/slavakurilyak/awesome-ai-agents/issues/480",
+          "acceptance_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/484",
+          "at": "2026-09-25T12:54:55Z",
+          "status": "accepted_submission",
+          "founder_team_claim": true
+        }
+      ]
+    },
+    {
+      "project_id": "youtube-skills-for-ai-agents-4c99b1e9",
+      "submitted_by": [
+        {
+          "github_id": 249610798,
+          "login": "nikhonit",
+          "evidence_url": "https://github.com/slavakurilyak/awesome-ai-agents/issues/155",
+          "acceptance_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/477",
+          "at": "2026-03-23T09:52:33Z",
+          "status": "accepted_submission"
+        }
+      ]
+    },
+    {
+      "project_id": "unified-ai-system-8e1a4389",
+      "submitted_by": [
+        {
+          "github_id": 210128019,
+          "login": "happy520ai",
+          "evidence_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/583",
+          "acceptance_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/621",
+          "at": "2026-09-25T19:08:20Z",
+          "status": "accepted_submission"
+        }
+      ]
+    }
+  ]
+}

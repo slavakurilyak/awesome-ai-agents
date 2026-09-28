@@ -65,3 +65,18 @@ body:
       options:
         - label: I am a founder or team member submitting this project.
           required: false
+  - type: checkboxes
+    id: maintainer
+    attributes:
+      label: Current project maintainer
+      options:
+        - label: I currently maintain this project.
+          required: false
+  - type: input
+    id: maintainer_evidence
+    attributes:
+      label: Public evidence for current maintainers
+      description: Optional. Link to project documentation or another public source that identifies current maintainer(s). Claims without independent project evidence are marked self-reported.
+      placeholder: https://github.com/owner/project/blob/main/MAINTAINERS.md
+    validations:
+      required: false
