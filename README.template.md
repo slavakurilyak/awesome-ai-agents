@@ -11,6 +11,8 @@
 
 This project tracks useful agentic AI projects, curated by Slava Kurilyak
 
+Each listing shows the original submitter and current maintainers when they are supported by evidence. “Not yet recovered” or “not yet verified” means the role has not been established from the records reviewed so far; repository ownership is shown separately and does not imply maintainership.
+
 Listings require a public project repository on GitHub, GitLab.com, or Codeberg. No specific license is required. Hosted products without their own qualifying repository are not listed.
 
 ### Safety when reviewing submissions

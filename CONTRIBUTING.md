@@ -54,7 +54,7 @@ Maintainers make the final inclusion and categorization decision after reviewing
 
 ## Contribution credit
 
-Accepted project listings may show **Submitted by** and **Maintained by** links, plus the current repository owner. The original accepted issue/PR author is the submitter, even when a maintainer authors the catalog PR. Founder/team relationships reported by the submitter are labeled self-reported. Maintainer credit requires an explicit claim and linked evidence; self-reported claims are labeled. Repository ownership is read from verified forge metadata when available and does not establish maintainer status. Keep project IDs unchanged when project names or repository owners change. Historical candidates come from `go run ./cmd/contributions backfill`; review them before editing `contributions.json`.
+Every listing shows **Submitted by** and **Maintained by**. Where a role has not yet been established, the README says so explicitly; that does not mean the project has no submitter or maintainer. The original accepted issue/PR author is the submitter, even when a maintainer authors the catalog PR. Founder/team relationships reported by the submitter are labeled self-reported. Maintainer credit needs an explicit claim in a public project source, such as a maintainer roster or direct maintainer statement; claims without independent project evidence are labeled self-reported. Repository ownership is read from verified forge metadata when available and does not establish maintainer status. Keep project IDs unchanged when project names or repository owners change. Historical candidates come from `go run ./cmd/contributions backfill`; review them before editing `contributions.json`.
 
 ## Maintainer review
 

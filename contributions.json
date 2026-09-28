@@ -169,6 +169,18 @@
       ]
     },
     {
+      "project_id": "cycles-4b687a48",
+      "maintained_by": [
+        {
+          "github_id": 6786184,
+          "login": "amavashev",
+          "evidence_url": "https://github.com/runcycles/cycles-server/blob/main/MAINTAINERS.md",
+          "at": "2026-09-28T18:14:33Z",
+          "status": "source_confirmed"
+        }
+      ]
+    },
+    {
       "project_id": "edgrapi-abb250f1",
       "submitted_by": [
         {
@@ -182,6 +194,18 @@
       ]
     },
     {
+      "project_id": "flow-weaver-acf6af92",
+      "maintained_by": [
+        {
+          "github_id": 12514975,
+          "login": "moraispgsi",
+          "evidence_url": "https://github.com/synergenius-fw/flow-weaver/blob/main/README.md",
+          "at": "2026-09-28T18:17:18Z",
+          "status": "source_confirmed"
+        }
+      ]
+    },
+    {
       "project_id": "frontman-85fe9e64",
       "submitted_by": [
         {
@@ -191,6 +215,58 @@
           "acceptance_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/467",
           "at": "2026-05-19T08:32:52Z",
           "status": "accepted_submission"
+        }
+      ]
+    },
+    {
+      "project_id": "guidance-94407df6",
+      "maintained_by": [
+        {
+          "github_id": 5302119,
+          "login": "Harsha-Nori",
+          "evidence_url": "https://github.com/guidance-ai/guidance/blob/main/MAINTAINERS.md",
+          "at": "2026-09-28T18:14:33Z",
+          "status": "source_confirmed"
+        },
+        {
+          "github_id": 698010,
+          "login": "marcotcr",
+          "evidence_url": "https://github.com/guidance-ai/guidance/blob/main/MAINTAINERS.md",
+          "at": "2026-09-28T18:14:33Z",
+          "status": "source_confirmed"
+        },
+        {
+          "github_id": 3740613,
+          "login": "slundberg",
+          "evidence_url": "https://github.com/guidance-ai/guidance/blob/main/MAINTAINERS.md",
+          "at": "2026-09-28T18:14:33Z",
+          "status": "source_confirmed"
+        }
+      ]
+    },
+    {
+      "project_id": "hol-standards-sdk-86755d5f",
+      "maintained_by": [
+        {
+          "github_id": 91838723,
+          "login": "HGraphPunks",
+          "evidence_url": "https://github.com/hashgraph-online/standards-sdk/blob/main/MAINTAINERS.md",
+          "at": "2026-09-28T18:14:33Z",
+          "status": "source_confirmed"
+        },
+        {
+          "github_id": 6068672,
+          "login": "kantorcodes",
+          "evidence_url": "https://github.com/hashgraph-online/standards-sdk/blob/main/MAINTAINERS.md",
+          "at": "2026-09-28T18:14:33Z",
+          "status": "source_confirmed"
+        },
+        {
+          "github_id": 13735941,
+          "login": "rocketmay",
+          "evidence_url": "https://github.com/hashgraph-online/standards-sdk/blob/main/MAINTAINERS.md",
+          "at": "2026-09-28T18:14:33Z",
+          "status": "source_confirmed"
         }
       ]
     },
@@ -243,6 +319,178 @@
           "acceptance_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/442",
           "at": "2026-09-24T17:30:58Z",
           "status": "accepted_submission"
+        }
+      ]
+    },
+    {
+      "project_id": "kubestellar-console-47599080",
+      "maintained_by": [
+        {
+          "github_id": 407614,
+          "login": "clubanderson",
+          "evidence_url": "https://github.com/kubestellar/console/blob/main/MAINTAINERS.md",
+          "at": "2026-09-28T18:14:33Z",
+          "status": "source_confirmed"
+        },
+        {
+          "github_id": 100678386,
+          "login": "eeshaanSA",
+          "evidence_url": "https://github.com/kubestellar/console/blob/main/MAINTAINERS.md",
+          "at": "2026-09-28T18:14:33Z",
+          "status": "source_confirmed"
+        },
+        {
+          "github_id": 14296719,
+          "login": "MikeSpreitzer",
+          "evidence_url": "https://github.com/kubestellar/console/blob/main/MAINTAINERS.md",
+          "at": "2026-09-28T18:14:33Z",
+          "status": "source_confirmed"
+        },
+        {
+          "github_id": 133567254,
+          "login": "Nupurshivani",
+          "evidence_url": "https://github.com/kubestellar/console/blob/main/MAINTAINERS.md",
+          "at": "2026-09-28T18:14:33Z",
+          "status": "source_confirmed"
+        }
+      ]
+    },
+    {
+      "project_id": "lobe-chat-122f7633",
+      "maintained_by": [
+        {
+          "github_id": 28616219,
+          "login": "arvinxx",
+          "evidence_url": "https://github.com/lobehub/lobehub/blob/canary/README.md",
+          "at": "2026-09-28T18:17:18Z",
+          "status": "source_confirmed"
+        },
+        {
+          "github_id": 17870709,
+          "login": "canisminor1990",
+          "evidence_url": "https://github.com/lobehub/lobehub/blob/canary/README.md",
+          "at": "2026-09-28T18:17:18Z",
+          "status": "source_confirmed"
+        }
+      ]
+    },
+    {
+      "project_id": "model-context-protocol-ca32fc41",
+      "maintained_by": [
+        {
+          "github_id": 3310141,
+          "login": "CaitieM20",
+          "evidence_url": "https://github.com/modelcontextprotocol/modelcontextprotocol/blob/main/MAINTAINERS.md",
+          "at": "2026-09-28T18:14:33Z",
+          "status": "source_confirmed"
+        },
+        {
+          "github_id": 484245,
+          "login": "clareliguori",
+          "evidence_url": "https://github.com/modelcontextprotocol/modelcontextprotocol/blob/main/MAINTAINERS.md",
+          "at": "2026-09-28T18:14:33Z",
+          "status": "source_confirmed"
+        },
+        {
+          "github_id": 167242713,
+          "login": "dsp-ant",
+          "evidence_url": "https://github.com/modelcontextprotocol/modelcontextprotocol/blob/main/MAINTAINERS.md",
+          "at": "2026-09-28T18:14:33Z",
+          "status": "source_confirmed"
+        },
+        {
+          "github_id": 31518063,
+          "login": "kurtisvg",
+          "evidence_url": "https://github.com/modelcontextprotocol/modelcontextprotocol/blob/main/MAINTAINERS.md",
+          "at": "2026-09-28T18:14:33Z",
+          "status": "source_confirmed"
+        },
+        {
+          "github_id": 53200638,
+          "login": "localden",
+          "evidence_url": "https://github.com/modelcontextprotocol/modelcontextprotocol/blob/main/MAINTAINERS.md",
+          "at": "2026-09-28T18:14:33Z",
+          "status": "source_confirmed"
+        },
+        {
+          "github_id": 142361983,
+          "login": "nickcoai",
+          "evidence_url": "https://github.com/modelcontextprotocol/modelcontextprotocol/blob/main/MAINTAINERS.md",
+          "at": "2026-09-28T18:14:33Z",
+          "status": "source_confirmed"
+        },
+        {
+          "github_id": 704663,
+          "login": "pcarleton",
+          "evidence_url": "https://github.com/modelcontextprotocol/modelcontextprotocol/blob/main/MAINTAINERS.md",
+          "at": "2026-09-28T18:14:33Z",
+          "status": "source_confirmed"
+        },
+        {
+          "github_id": 227474472,
+          "login": "pja-ant",
+          "evidence_url": "https://github.com/modelcontextprotocol/modelcontextprotocol/blob/main/MAINTAINERS.md",
+          "at": "2026-09-28T18:14:33Z",
+          "status": "source_confirmed"
+        }
+      ]
+    },
+    {
+      "project_id": "n3rv-formerly-nerv-25079ba6",
+      "maintained_by": [
+        {
+          "github_id": 61162223,
+          "login": "juanmanueldaza",
+          "evidence_url": "https://github.com/juanmanueldaza/n3rv/blob/main/README.md",
+          "at": "2026-09-28T18:17:18Z",
+          "status": "source_confirmed"
+        }
+      ]
+    },
+    {
+      "project_id": "narranexus-f15a7ddf",
+      "maintained_by": [
+        {
+          "github_id": 87623951,
+          "login": "Aoshine-T",
+          "evidence_url": "https://github.com/NetMindAI-Open/NarraNexus/blob/main/MAINTAINERS.md",
+          "at": "2026-09-28T18:14:33Z",
+          "status": "source_confirmed"
+        },
+        {
+          "github_id": 92085318,
+          "login": "BinLiang2021",
+          "evidence_url": "https://github.com/NetMindAI-Open/NarraNexus/blob/main/MAINTAINERS.md",
+          "at": "2026-09-28T18:14:33Z",
+          "status": "source_confirmed"
+        },
+        {
+          "github_id": 113628995,
+          "login": "ghydsgaaa",
+          "evidence_url": "https://github.com/NetMindAI-Open/NarraNexus/blob/main/MAINTAINERS.md",
+          "at": "2026-09-28T18:14:33Z",
+          "status": "source_confirmed"
+        },
+        {
+          "github_id": 12380880,
+          "login": "johnsonice",
+          "evidence_url": "https://github.com/NetMindAI-Open/NarraNexus/blob/main/MAINTAINERS.md",
+          "at": "2026-09-28T18:14:33Z",
+          "status": "source_confirmed"
+        },
+        {
+          "github_id": 199633231,
+          "login": "netmindCjx",
+          "evidence_url": "https://github.com/NetMindAI-Open/NarraNexus/blob/main/MAINTAINERS.md",
+          "at": "2026-09-28T18:14:33Z",
+          "status": "source_confirmed"
+        },
+        {
+          "github_id": 149455951,
+          "login": "zzfana407",
+          "evidence_url": "https://github.com/NetMindAI-Open/NarraNexus/blob/main/MAINTAINERS.md",
+          "at": "2026-09-28T18:14:33Z",
+          "status": "source_confirmed"
         }
       ]
     },
@@ -392,19 +640,6 @@
       ]
     },
     {
-      "project_id": "youtube-skills-for-ai-agents-4c99b1e9",
-      "submitted_by": [
-        {
-          "github_id": 249610798,
-          "login": "nikhonit",
-          "evidence_url": "https://github.com/slavakurilyak/awesome-ai-agents/issues/155",
-          "acceptance_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/477",
-          "at": "2026-03-23T09:52:33Z",
-          "status": "accepted_submission"
-        }
-      ]
-    },
-    {
       "project_id": "unified-ai-system-8e1a4389",
       "submitted_by": [
         {
@@ -413,6 +648,19 @@
           "evidence_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/583",
           "acceptance_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/621",
           "at": "2026-09-25T19:08:20Z",
+          "status": "accepted_submission"
+        }
+      ]
+    },
+    {
+      "project_id": "youtube-skills-for-ai-agents-4c99b1e9",
+      "submitted_by": [
+        {
+          "github_id": 249610798,
+          "login": "nikhonit",
+          "evidence_url": "https://github.com/slavakurilyak/awesome-ai-agents/issues/155",
+          "acceptance_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/477",
+          "at": "2026-03-23T09:52:33Z",
           "status": "accepted_submission"
         }
       ]

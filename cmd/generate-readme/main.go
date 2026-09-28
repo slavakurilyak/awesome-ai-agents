@@ -399,6 +399,8 @@ func renderProvenance(p projectdata.Project, credit contributions.Project) strin
 			people = append(people, label)
 		}
 		parts = append(parts, "<strong>Submitted by:</strong> "+strings.Join(people, ", "))
+	} else {
+		parts = append(parts, "<strong>Submitted by:</strong> <em>not yet recovered from repository history</em>")
 	}
 	if len(credit.MaintainedBy) > 0 {
 		people := make([]string, 0, len(credit.MaintainedBy))
@@ -411,6 +413,8 @@ func renderProvenance(p projectdata.Project, credit contributions.Project) strin
 			people = append(people, label)
 		}
 		parts = append(parts, "<strong>Maintained by:</strong> "+strings.Join(people, ", "))
+	} else {
+		parts = append(parts, "<strong>Maintained by:</strong> <em>not yet verified</em>")
 	}
 	if owner, ownerURL := repositoryOwner(p); owner != "" {
 		parts = append(parts, fmt.Sprintf("<strong>Repository owner:</strong> <a href=\"%s\">@%s</a>", html.EscapeString(ownerURL), html.EscapeString(owner)))
