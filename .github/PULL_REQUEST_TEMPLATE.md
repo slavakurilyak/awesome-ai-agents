@@ -1,7 +1,7 @@
 ## Contribution checklist
 
 - [ ] I reviewed the [contribution guide](https://github.com/slavakurilyak/awesome-ai-agents/blob/main/CONTRIBUTING.md).
-- [ ] For each new project, I ran `go run ./cmd/verify-forge-repositories --project "Project name"`, `go run ./cmd/validate-data --project "Project name"`, and `go run ./cmd/generate-readme`.
+- [ ] For each new project, I assigned its stable ID and ran `go run ./cmd/verify-forge-repositories --project "Project name"`, `go run ./cmd/validate-data --project "Project name"`, `go run ./cmd/contributions validate`, and `go run ./cmd/generate-readme`.
 - [ ] Every third-party project added has a direct public repository on GitHub, GitLab.com, or Codeberg; no particular license is required.
 - [ ] Every third-party project added has at least one substantive, non-automated commit to its default branch within the six months before review.
 - [ ] I used the optional [Awesome AI Agents Curation skill](https://github.com/slavakurilyak/awesome-ai-agents/tree/main/skills/awesome-ai-agents-curation) to prepare or review this contribution.
@@ -23,10 +23,10 @@ If this PR intentionally changes the public skill, explain why and summarize the
 
 ## Contribution credit (optional for project submissions)
 
-- Original submission issue or pull request:
-- Submitted by (GitHub username, if different from this PR author):
-- Founder or team member (self-reported): yes / no
-- Current maintainer(s):
-- Public evidence for current maintainer(s):
+- Original submission issue or pull request (if different from this PR):
+- Submitted by (GitHub username, if different from the original submission author):
+- Founder or team member (self-reported): yes / no / not stated
+- Current maintainer(s), if known:
+- Public evidence identifying current maintainer(s), if available:
 
-The maintainer verifies accepted submissions before adding public credit. Founder/team relationships without separate evidence are labeled self-reported.
+Credit is recorded after the project is accepted. For historical submissions, link the original issue or PR and the accepting PR. Do not infer submitter from the catalog-edit PR author or maintainer from repository ownership. Founder/team claims without independent evidence are labeled self-reported; maintainer claims without independent evidence are labeled self-reported too.
