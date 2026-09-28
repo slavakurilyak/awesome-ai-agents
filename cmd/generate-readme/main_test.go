@@ -1,0 +1,46 @@
+package main
+
+import (
+	"strings"
+	"testing"
+
+	"awesome-ai-agents/internal/contributions"
+	"awesome-ai-agents/internal/projectdata"
+)
+
+func TestRenderProvenanceShowsRolesOwnerAndEscapedEvidence(t *testing.T) {
+	project := projectdata.Project{
+		ID: "example-agent-12345678",
+		Sources: []projectdata.Source{{
+			SourceURL: "https://github.com/old-owner/example-agent",
+			RepositoryOwner: "CurrentOrg", RepositoryOwnerURL: "https://github.com/CurrentOrg",
+		}},
+	}
+	credit := contributions.Project{
+		ProjectID: project.ID,
+		SubmittedBy: []contributions.Credit{{
+			Login: "founder", EvidenceURL: "https://github.com/slavakurilyak/awesome-ai-agents/issues/10?x=1&y=2",
+			AcceptanceURL: "https://github.com/slavakurilyak/awesome-ai-agents/pull/11", FounderTeamClaim: true,
+		}},
+		MaintainedBy: []contributions.Credit{{
+			Login: "maintainer", EvidenceURL: "https://github.com/example/example-agent/blob/main/MAINTAINERS.md", Status: "self_reported",
+		}},
+	}
+	got := renderProvenance(project, credit)
+	for _, want := range []string{"Submitted by:", "@founder", "self-reported founder/team", "Maintained by:", "@maintainer", "Repository owner:", "@CurrentOrg", "accepted PR", "&amp;y=2"} {
+		if !strings.Contains(got, want) {
+			t.Errorf("renderProvenance() missing %q in %s", want, got)
+		}
+	}
+	if strings.Contains(got, "@old-owner") || strings.Contains(strings.ToLower(got), "catalogued by") {
+		t.Fatalf("renderProvenance() used stale owner or added cataloguer credit: %s", got)
+	}
+}
+
+func TestRenderProvenanceShowsOwnerWithoutInferringMaintainer(t *testing.T) {
+	project := projectdata.Project{Sources: []projectdata.Source{{SourceURL: "https://github.com/Founder/project"}}}
+	got := renderProvenance(project, contributions.Project{})
+	if !strings.Contains(got, "Repository owner:") || strings.Contains(got, "Maintained by:") || strings.Contains(got, "Submitted by:") {
+		t.Fatalf("renderProvenance() inferred a contributor role: %s", got)
+	}
+}

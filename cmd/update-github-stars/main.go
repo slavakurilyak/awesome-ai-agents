@@ -79,8 +79,13 @@ func run() error {
 		checked := time.Now().UTC().Format("2006-01-02T15:04:05Z")
 		if resp.StatusCode == 200 {
 			var gh struct {
-				Stars    int  `json:"stargazers_count"`
-				Archived bool `json:"archived"`
+				Stars    int    `json:"stargazers_count"`
+				Archived bool   `json:"archived"`
+				FullName string `json:"full_name"`
+				Owner    struct {
+					Login   string `json:"login"`
+					HTMLURL string `json:"html_url"`
+				} `json:"owner"`
 			}
 			e = json.NewDecoder(resp.Body).Decode(&gh)
 			resp.Body.Close()
@@ -98,6 +103,13 @@ func run() error {
 				s.RepositoryCheckedAt = checked
 				s.RepositoryStatus = status
 				s.RepositoryStatusDetail = ""
+				if gh.Owner.Login != "" {
+					s.RepositoryOwner = gh.Owner.Login
+					s.RepositoryOwnerURL = gh.Owner.HTMLURL
+				} else if gh.FullName != "" {
+					s.RepositoryOwner = strings.SplitN(gh.FullName, "/", 2)[0]
+					s.RepositoryOwnerURL = "https://github.com/" + s.RepositoryOwner
+				}
 			}
 			n := gh.Stars
 			upsertSnapshot(&history, projectdata.HistoryRow{Repository: key, Date: today, Stars: &n, Status: status})

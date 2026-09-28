@@ -21,6 +21,7 @@ Pull requests are welcome for direct edits. `awesome-agents.json` is the canonic
 
 ```json
 {
+  "id": "project-name-a1b2c3d4",
   "project": "Project name",
   "project_description": "A concise, evidence-backed description of the agent and its useful behavior.",
   "project_is_open_source": true,
@@ -40,14 +41,20 @@ Pull requests are welcome for direct edits. `awesome-agents.json` is the canonic
 Use an existing category from `awesome-categories.yaml`. Describe observable capabilities accurately; do not infer features from marketing claims alone. The `project_is_open_source` value is derived from a successful forge metadata check, not from the contributor's assertion. For a single-project change, run these targeted commands from the repository root before opening a pull request, replacing the placeholder with the exact `project` value:
 
 ```sh
+go run ./cmd/contributions assign-ids
 go run ./cmd/verify-forge-repositories --project "Project name"
 go run ./cmd/validate-data --project "Project name"
+go run ./cmd/contributions validate
 go run ./cmd/generate-readme
 ```
 
 Only the named project's forge metadata is checked live; the validator also checks the catalog's local structure. These commands do not make live forge requests for unrelated projects. Only public repositories qualify, and no license field or license allowlist is used. GitHub, GitLab.com, and Codeberg are supported. A check failure or inaccessible repository is unverified and does not qualify. Keep star counts and repository health metadata to the existing automated workflow. To run a full-catalog audit, explicitly pass `--all` to either forge command; full-catalog live checks are not part of routine per-PR validation.
 
 Maintainers make the final inclusion and categorization decision after reviewing fit, evidence, duplicates, and presentation. A submission or skill recommendation is not a promise of acceptance, placement, audience reach, or project growth.
+
+## Contribution credit
+
+Accepted project listings may show **Submitted by** and **Maintained by** links, plus the current repository owner. The original accepted issue/PR author is the submitter, even when a maintainer authors the catalog PR. Founder/team relationships reported by the submitter are labeled self-reported. Maintainer credit requires an explicit claim and linked evidence; self-reported claims are labeled. Repository ownership is read from verified forge metadata when available and does not establish maintainer status. Keep project IDs unchanged when project names or repository owners change. Historical candidates come from `go run ./cmd/contributions backfill`; review them before editing `contributions.json`.
 
 ## Maintainer review
 

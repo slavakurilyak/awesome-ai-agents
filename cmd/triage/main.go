@@ -27,6 +27,7 @@ type candidate struct {
 	URL       string   `json:"url"`
 	UpdatedAt string   `json:"updated_at"`
 	Author    string   `json:"author"`
+	AuthorID  int64    `json:"author_id"`
 	Labels    []string `json:"labels"`
 	Body      string   `json:"body"`
 }
@@ -108,6 +109,7 @@ func fetch(root string) error {
 			Body      string `json:"body"`
 			Pull      *any   `json:"pull_request"`
 			User      struct {
+				ID    int64  `json:"id"`
 				Login string `json:"login"`
 			} `json:"user"`
 			Labels []struct {
@@ -134,7 +136,7 @@ func fetch(root string) error {
 			for _, label := range item.Labels {
 				labels = append(labels, label.Name)
 			}
-			items = append(items, candidate{kind, item.Number, item.Title, item.HTMLURL, item.UpdatedAt, item.User.Login, labels, item.Body})
+			items = append(items, candidate{Kind: kind, Number: item.Number, Title: item.Title, URL: item.HTMLURL, UpdatedAt: item.UpdatedAt, Author: item.User.Login, AuthorID: item.User.ID, Labels: labels, Body: item.Body})
 		}
 		if len(pageItems) < 100 {
 			break

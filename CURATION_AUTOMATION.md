@@ -2,6 +2,8 @@
 
 This repository uses two independent daily Codex automations. The deterministic workflow uses the Go commands in `cmd/update-github-stars` and `cmd/generate-readme`; the agent workflow uses `cmd/triage`. `awesome-agents.json` is the canonical project dataset; `awesome-categories.yaml` contains category descriptions and emojis.
 
+Project contribution credit is stored in `contributions.json`, keyed by the stable project `id` in `awesome-agents.json`. Use `go run ./cmd/contributions backfill` to generate read-only historical candidates; it scans closed issues and pull requests, matches exact supported-forge repository URLs, and marks an issue candidate accepted only when a merged catalog-changing PR links to it. Review every candidate before adding credit. The command never writes the ledger or contacts issue authors. Founder/team claims are self-reported; maintainer claims retain their evidence status. Repository owner comes from verified forge metadata when available and otherwise from the catalog source URL. A successful repository refresh updates the owner after a transfer without changing the stable project ID or original submitter.
+
 ## 1. Deterministic GitHub data
 
 Run:
@@ -37,6 +39,8 @@ For each project suggestion, return:
 Judge fit by useful, demonstrable agent behavior and inspectable interaction: what it can do, how it observes results, and how a user can verify or correct its work. Star count is a discovery signal, never sufficient evidence of quality or inclusion. Preserve established categories; capability and interface facets supplement them. If a submission has no verifiable public repository on GitHub, GitLab.com, or Codeberg, or lacks a substantive, non-automated default-branch commit in the prior six months, it does not meet the hard inclusion rules and may be closed. No specific license is required.
 
 When a high-confidence classification is approved into the list, store its facets as optional `capabilities` and `interfaces` string arrays on the project entry. These render as separate labels alongside existing categories. For each accepted new project, verify only that project's forge metadata and recent activity; do not recheck the full catalog. Keep uncertain proposals in the triage report instead of writing them into project data. Founders may submit zero-star projects; review evidence and fit without a star threshold.
+
+For an accepted project, ensure it has a stable `id` (`go run ./cmd/contributions assign-ids` fills missing IDs), record the original accepted issue/PR author in `contributions.json`, and capture founder/team or maintainer claims with their source URL and evidence status. Do not infer submitter or maintainer roles from catalog PR authorship or repository ownership. Run `go run ./cmd/contributions validate` before regenerating the README. Do not credit a proposal unless its reviewed acceptance path links it to the listed project.
 
 For reports about a broken, moved, archived, or inaccessible repository, compare against the deterministic status in `awesome-agents.json`, identify the affected project and source URL, and recommend the smallest fix. Do not silently remove or replace an entry.
 

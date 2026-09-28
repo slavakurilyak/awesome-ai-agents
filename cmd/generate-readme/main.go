@@ -3,6 +3,8 @@ package main
 import (
 	"encoding/json"
 	"fmt"
+	"html"
+	"net/url"
 	"os"
 	"regexp"
 	"sort"
@@ -10,6 +12,7 @@ import (
 	"strings"
 	"time"
 
+	"awesome-ai-agents/internal/contributions"
 	"awesome-ai-agents/internal/projectdata"
 	"gopkg.in/yaml.v3"
 )
@@ -40,6 +43,13 @@ func run() error {
 	if e != nil {
 		return e
 	}
+	credits, e := contributions.Read(root + "/contributions.json")
+	if e != nil {
+		return e
+	}
+	if e = contributions.Validate(data, credits); e != nil {
+		return e
+	}
 	emojis, e := loadEmojis(root + "/awesome-categories.yaml")
 	if e != nil {
 		fmt.Fprintln(os.Stderr, "WARN:", e)
@@ -49,7 +59,7 @@ func run() error {
 		return e
 	}
 	hist := loadHistory(root + "/github-stars-history.json")
-	sections := renderSections(data, emojis, hist)
+	sections := renderSections(data, emojis, hist, credits)
 	top, _ := topProjects(data)
 	content := strings.ReplaceAll(string(template), "${SECTIONS}", sections)
 	content = strings.ReplaceAll(content, "${TOP_STARRED_PROJECTS}", renderList(top, hist))
@@ -292,12 +302,16 @@ func renderGrowthList(data projectdata.Data, top []item, history map[string][]pr
 	return "<p><em>No positive star growth found for this window among eligible projects.</em></p>"
 }
 
-func renderSections(d projectdata.Data, em map[string]string, h map[string][]projectdata.HistoryRow) string {
+func renderSections(d projectdata.Data, em map[string]string, h map[string][]projectdata.HistoryRow, credits contributions.Data) string {
 	type agg struct {
 		p    projectdata.Project
 		cats map[string]bool
 	}
 	m := map[string]*agg{}
+	creditByID := make(map[string]contributions.Project, len(credits.Projects))
+	for _, credit := range credits.Projects {
+		creditByID[credit.ProjectID] = credit
+	}
 	for _, p := range d.Agents {
 		k := strings.ToLower(p.Project)
 		if m[k] == nil {
@@ -331,6 +345,9 @@ func renderSections(d projectdata.Data, em map[string]string, h map[string][]pro
 			}
 		}
 		fmt.Fprintf(&out, "### %s\n<div><a href=\"%s\"><img src=\"https://img.shields.io/badge/Repository-%s-%s\" alt=\"Repository verification\"></a> %s</div>\n", p.Project, badge, yn, color, starBadge)
+		if provenance := renderProvenance(p, creditByID[p.ID]); provenance != "" {
+			fmt.Fprintf(&out, "<p class=\"project-provenance\">%s</p>\n", provenance)
+		}
 		if s := github(p); s != nil && s.Stars != nil {
 			growthLabels := []string{}
 			for _, window := range []int{1, 7, 30} {
@@ -363,6 +380,93 @@ func renderSections(d projectdata.Data, em map[string]string, h map[string][]pro
 		out.WriteString("</div>\n\n")
 	}
 	return strings.TrimSuffix(out.String(), "\n\n")
+}
+
+func renderProvenance(p projectdata.Project, credit contributions.Project) string {
+	parts := make([]string, 0, 3)
+	if len(credit.SubmittedBy) > 0 {
+		people := make([]string, 0, len(credit.SubmittedBy))
+		for _, person := range credit.SubmittedBy {
+			label := fmt.Sprintf("<a href=\"https://github.com/%s\">@%s</a>", html.EscapeString(person.Login), html.EscapeString(person.Login))
+			if person.FounderTeamClaim {
+				label += " <small>(self-reported founder/team)</small>"
+			}
+			label += fmt.Sprintf(" <a href=\"%s\">submission</a>", html.EscapeString(person.EvidenceURL))
+			for _, evidenceURL := range person.AdditionalEvidenceURLs {
+				label += fmt.Sprintf(" <a href=\"%s\">related submission</a>", html.EscapeString(evidenceURL))
+			}
+			label += fmt.Sprintf(" <a href=\"%s\">accepted PR</a>", html.EscapeString(person.AcceptanceURL))
+			people = append(people, label)
+		}
+		parts = append(parts, "<strong>Submitted by:</strong> "+strings.Join(people, ", "))
+	}
+	if len(credit.MaintainedBy) > 0 {
+		people := make([]string, 0, len(credit.MaintainedBy))
+		for _, person := range credit.MaintainedBy {
+			label := fmt.Sprintf("<a href=\"https://github.com/%s\">@%s</a>", html.EscapeString(person.Login), html.EscapeString(person.Login))
+			if person.Status == "self_reported" {
+				label += " <small>(self-reported)</small>"
+			}
+			label += fmt.Sprintf(" <a href=\"%s\">evidence</a>", html.EscapeString(person.EvidenceURL))
+			people = append(people, label)
+		}
+		parts = append(parts, "<strong>Maintained by:</strong> "+strings.Join(people, ", "))
+	}
+	if owner, ownerURL := repositoryOwner(p); owner != "" {
+		parts = append(parts, fmt.Sprintf("<strong>Repository owner:</strong> <a href=\"%s\">@%s</a>", html.EscapeString(ownerURL), html.EscapeString(owner)))
+	}
+	if len(parts) == 0 {
+		return ""
+	}
+	return strings.Join(parts, " · ")
+}
+
+func repositoryOwner(p projectdata.Project) (string, string) {
+	for _, source := range p.Sources {
+		forge, path, canonical, ok := projectdata.ForgeRepository(source.SourceURL)
+		if !ok {
+			continue
+		}
+		owner, ownerURL := source.RepositoryOwner, source.RepositoryOwnerURL
+		if owner == "" || ownerURL == "" {
+			parts := strings.Split(path, "/")
+			if len(parts) < 2 {
+				continue
+			}
+			parsed, err := url.Parse(canonical)
+			if err != nil {
+				continue
+			}
+			derivedOwner := strings.Join(parts[:len(parts)-1], "/")
+			if owner == "" {
+				owner = derivedOwner
+			}
+			if ownerURL == "" {
+				ownerURL = "https://" + parsed.Host + "/" + derivedOwner
+			}
+		}
+		if owner != "" && validOwnerURL(ownerURL, forge) {
+			return owner, ownerURL
+		}
+	}
+	return "", ""
+}
+
+func validOwnerURL(raw, forge string) bool {
+	u, err := url.Parse(raw)
+	if err != nil || u.Scheme != "https" || u.User != nil {
+		return false
+	}
+	switch forge {
+	case "github":
+		return strings.EqualFold(u.Hostname(), "github.com")
+	case "gitlab":
+		return strings.EqualFold(u.Hostname(), "gitlab.com")
+	case "codeberg":
+		return strings.EqualFold(u.Hostname(), "codeberg.org")
+	default:
+		return false
+	}
 }
 func formatSources(s []projectdata.Source) string {
 	v := []string{}

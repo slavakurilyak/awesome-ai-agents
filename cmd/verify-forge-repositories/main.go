@@ -62,6 +62,7 @@ func run(projectName string, fullAudit bool) error {
 	failures, checked, ineligible := 0, 0, 0
 	for _, i := range projectIndexes {
 		project := &data.Agents[i]
+		projectdata.EnsureProjectID(project)
 		found := false
 		for j := range project.Sources {
 			source := &project.Sources[j]
@@ -71,7 +72,7 @@ func run(projectName string, fullAudit bool) error {
 			}
 			checked++
 			at := time.Now().UTC().Format(time.RFC3339)
-			public, _, status, err := forgeverify.Repository(client, root, forge, repo)
+			public, _, status, owner, ownerURL, err := forgeverify.Repository(client, root, forge, repo)
 			source.RepositoryCheckedAt = at
 			if err != nil {
 				failures++
@@ -91,6 +92,10 @@ func run(projectName string, fullAudit bool) error {
 				source.RepositoryStatus = "archived"
 			}
 			project.ProjectIsOpenSource = true
+			if owner != "" {
+				source.RepositoryOwner = owner
+				source.RepositoryOwnerURL = ownerURL
+			}
 			found = true
 			break
 		}
