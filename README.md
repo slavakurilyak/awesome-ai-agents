@@ -1345,7 +1345,7 @@ Here's an awesome list of AI agents:
 
 ### Busabase
 <div><a href="https://github.com/busabase/busabase"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/busabase/busabase"><img src="https://img.shields.io/github/stars/busabase/busabase?style=social" alt="GitHub stars"></a></div>
-<p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/busabase">@busabase</a></p>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/ranglang">@ranglang</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/632">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/663">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/busabase">@busabase</a></p>
 <p>🔌 MCP Servers</p>
 
 <p>Busabase is an open-source local first database and workspace that exposes structured records, documents, skills and workspace operations to external AI agents through MCP, OpenAPI and a CLI, with every write carried as a reviewable change request.</p>
