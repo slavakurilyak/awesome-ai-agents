@@ -2448,6 +2448,18 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/developersdigest/llm-answer-engine">github</a> | <a href="https://github.com/developersdigest">github profile</a></p>
 </div>
 
+### PersonalJarvis
+<div><a href="https://github.com/PersonalJarvis/PersonalJarvis"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/PersonalJarvis/PersonalJarvis"><img src="https://img.shields.io/github/stars/PersonalJarvis/PersonalJarvis?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/PersonalJarvis">@PersonalJarvis</a></p>
+<p>👤 Personal Assistants</p>
+
+<p>PersonalJarvis is an open-source desktop AI assistant with a custom wake phrase and local speech to text that runs background agents, uses the browser and desktop, and supervises coding agents such as Claude Code and Codex in an Agentic IDE.</p>
+
+<p><a href="https://github.com/PersonalJarvis/PersonalJarvis">github</a></p>
+<p><strong>Capabilities:</strong> Answer to a custom wake phrase by voice or chat, with local speech to text · Run background agents, use the browser and desktop apps, connect MCP servers, keep memory and run scheduled routines · Run CLI coding agents side by side in terminal panes with Git worktrees, including on remote machines over SSH</p>
+<p><strong>Interfaces:</strong> Desktop app · Voice · CLI · MCP</p>
+</div>
+
 ### Pilot Protocol
 <div><a href="https://github.com/pilot-protocol/pilotprotocol"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/pilot-protocol/pilotprotocol"><img src="https://img.shields.io/github/stars/pilot-protocol/pilotprotocol?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/pilot-protocol">@pilot-protocol</a></p>

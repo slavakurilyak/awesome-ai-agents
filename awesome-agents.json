@@ -7049,6 +7049,37 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "id": "personaljarvis-d9380299",
+      "project": "PersonalJarvis",
+      "project_description": "PersonalJarvis is an open-source desktop AI assistant with a custom wake phrase and local speech to text that runs background agents, uses the browser and desktop, and supervises coding agents such as Claude Code and Codex in an Agentic IDE.",
+      "has_public_repository": true,
+      "categories": [
+        "Personal Assistants"
+      ],
+      "capabilities": [
+        "Answer to a custom wake phrase by voice or chat, with local speech to text",
+        "Run background agents, use the browser and desktop apps, connect MCP servers, keep memory and run scheduled routines",
+        "Run CLI coding agents side by side in terminal panes with Git worktrees, including on remote machines over SSH"
+      ],
+      "interfaces": [
+        "Desktop app",
+        "Voice",
+        "CLI",
+        "MCP"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/PersonalJarvis/PersonalJarvis",
+          "repository_owner": "PersonalJarvis",
+          "repository_owner_url": "https://github.com/PersonalJarvis",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-29T20:03:44Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
