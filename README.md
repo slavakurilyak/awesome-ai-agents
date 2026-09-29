@@ -2389,6 +2389,18 @@ Here's an awesome list of AI agents:
 <p><strong>Interfaces:</strong> Web UI · API · SDK</p>
 </div>
 
+### Opus Manager
+<div><a href="https://github.com/yanauto/opus-manager"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/yanauto/opus-manager"><img src="https://img.shields.io/github/stars/yanauto/opus-manager?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/yanauto">@yanauto</a> <small>(self-reported founder/team)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/641">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/654">accepted PR</a> · <strong>Maintained by:</strong> <a href="https://github.com/yanauto">@yanauto</a> <small>(self-reported)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/641">evidence</a> · <strong>Repository owner:</strong> <a href="https://github.com/yanauto">@yanauto</a></p>
+<p>🤖 AI Agents | 💻 Terminal-Friendly</p>
+
+<p>Opus Manager is a Claude Code skill that makes Claude the manager of a coding project: it writes tickets, dispatches them to cheaper coding agent CLIs on your machine, reruns the acceptance checks itself, and has a model from another vendor review the change.</p>
+
+<p><a href="https://github.com/yanauto/opus-manager">github</a></p>
+<p><strong>Capabilities:</strong> Write each task as a ticket file and dispatch it to a worker CLI such as pi, cursor-agent or codex · Rerun the ticket acceptance commands itself and check each review finding against the code before accepting it · Keep tickets, receipts and reviews as plain Markdown in the repository</p>
+<p><strong>Interfaces:</strong> Claude Code skill · CLI</p>
+</div>
+
 ### OrcaReplay
 <div><a href="https://github.com/Continuum-AI-Corp/OrcaReplay"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Continuum-AI-Corp/OrcaReplay"><img src="https://img.shields.io/github/stars/Continuum-AI-Corp/OrcaReplay?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/xizhuomengcontin">@xizhuomengcontin</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/625">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/648">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/Continuum-AI-Corp">@Continuum-AI-Corp</a></p>

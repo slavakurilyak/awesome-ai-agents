@@ -770,6 +770,29 @@
           "founder_team_claim": true
         }
       ]
+    },
+    {
+      "project_id": "opus-manager-96a85980",
+      "submitted_by": [
+        {
+          "github_id": 169384462,
+          "login": "yanauto",
+          "evidence_url": "https://github.com/slavakurilyak/awesome-ai-agents/issues/641",
+          "acceptance_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/654",
+          "at": "2026-09-29T04:16:44Z",
+          "status": "accepted_submission",
+          "founder_team_claim": true
+        }
+      ],
+      "maintained_by": [
+        {
+          "github_id": 169384462,
+          "login": "yanauto",
+          "evidence_url": "https://github.com/slavakurilyak/awesome-ai-agents/issues/641",
+          "at": "2026-09-29T04:16:44Z",
+          "status": "self_reported"
+        }
+      ]
     }
   ]
 }
