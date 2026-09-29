@@ -94,6 +94,33 @@ func Validate(catalog projectdata.Data, data Data) error {
 	return nil
 }
 
+// RequireSubmitter fails unless the named catalog project has a submitted_by
+// record. Every project added from an issue, a contributor pull request, or a
+// maintainer's own request needs one, so a new entry is never left showing
+// "not yet recovered" as its submitter.
+func RequireSubmitter(catalog projectdata.Data, data Data, name string) error {
+	credited := make(map[string]bool, len(data.Projects))
+	for _, project := range data.Projects {
+		if len(project.SubmittedBy) > 0 {
+			credited[project.ProjectID] = true
+		}
+	}
+	found := false
+	for _, p := range catalog.Agents {
+		if !strings.EqualFold(p.Project, name) {
+			continue
+		}
+		found = true
+		if !credited[p.ID] {
+			return fmt.Errorf("project %q has no submitted_by record in contributions.json: credit the issue or pull request author, or the maintainer who asked for the addition, using the addition pull request as evidence", p.Project)
+		}
+	}
+	if !found {
+		return fmt.Errorf("project %q not found", name)
+	}
+	return nil
+}
+
 func validateCredit(c Credit) error {
 	if c.GitHubID <= 0 {
 		return fmt.Errorf("github_id must be positive")

@@ -922,6 +922,59 @@
           "status": "accepted_submission"
         }
       ]
+    },
+    {
+      "project_id": "svrf-5f4cb8c4",
+      "submitted_by": [
+        {
+          "github_id": 76703223,
+          "login": "nybarius",
+          "evidence_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/622",
+          "acceptance_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/622",
+          "at": "2026-09-25T22:21:43Z",
+          "status": "accepted_submission"
+        }
+      ]
+    },
+    {
+      "project_id": "salt-mcp-d57199ed",
+      "submitted_by": [
+        {
+          "github_id": 117044941,
+          "login": "0000F8",
+          "evidence_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/631",
+          "acceptance_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/631",
+          "at": "2026-09-27T20:43:28Z",
+          "status": "accepted_submission"
+        }
+      ]
+    },
+    {
+      "project_id": "raven-b33fe15d",
+      "submitted_by": [
+        {
+          "github_id": 48319803,
+          "login": "LivXue",
+          "evidence_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/635",
+          "acceptance_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/635",
+          "at": "2026-09-28T17:06:45Z",
+          "status": "accepted_submission",
+          "founder_team_claim": true
+        }
+      ]
+    },
+    {
+      "project_id": "hermes-agent-437289de",
+      "submitted_by": [
+        {
+          "github_id": 6625584,
+          "login": "slavakurilyak",
+          "evidence_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/665",
+          "acceptance_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/665",
+          "at": "2026-09-29T20:23:34Z",
+          "status": "accepted_submission"
+        }
+      ]
     }
   ]
 }

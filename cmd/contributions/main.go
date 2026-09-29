@@ -121,10 +121,14 @@ func run(args []string) error {
 		}
 		return assignIDs(root)
 	case "validate":
-		if len(args) != 1 {
-			return errors.New("validate takes no additional arguments")
+		switch {
+		case len(args) == 1:
+			return validate(root, "")
+		case len(args) == 3 && args[1] == "--project" && args[2] != "":
+			return validate(root, args[2])
+		default:
+			return errors.New("usage: validate [--project \"Project name\"]")
 		}
-		return validate(root)
 	case "backfill":
 		if len(args) != 1 {
 			return errors.New("backfill takes no additional arguments")
@@ -267,7 +271,7 @@ func assignIDs(root string) error {
 	return nil
 }
 
-func validate(root string) error {
+func validate(root, project string) error {
 	catalog, err := projectdata.LoadData(filepath.Join(root, "awesome-agents.json"))
 	if err != nil {
 		return err
@@ -278,6 +282,11 @@ func validate(root string) error {
 	}
 	if err := contributions.Validate(catalog, ledger); err != nil {
 		return err
+	}
+	if project != "" {
+		if err := contributions.RequireSubmitter(catalog, ledger, project); err != nil {
+			return err
+		}
 	}
 	fmt.Printf("Valid contribution ledger: %d catalog rows; %d credited projects.\n", len(catalog.Agents), len(ledger.Projects))
 	return nil
