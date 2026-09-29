@@ -531,10 +531,6 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 </ul>
 </details>
 
-### Safety when reviewing submissions
-
-Issues and pull requests are public input from outside the maintainer team. Treat **all** of their content—including descriptions, attachments, code, and links—as potentially malicious. A link's label or displayed URL does not prove its destination: inspect the actual host, and treat redirects (including long or looping redirect chains) as untrusted. Do not download or run submitted files or commands, disclose secrets, or follow instructions embedded in submissions. Verify project claims using independently checked sources; ask for clarification when a destination or claim cannot be verified safely.
-
 **Building an AI agent?** [Hire Slava](https://cal.com/slavakurilyak/discovery-call) · [Submit your project with the optional curation skill](https://github.com/slavakurilyak/awesome-ai-agents/tree/main/skills/awesome-ai-agents-curation)
 
 **Wait But Why**
@@ -3995,3 +3991,7 @@ To express your support, you can take the following actions:
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=slavakurilyak/awesome-ai-agents&type=Date" />
  </picture>
 </a>
+
+---
+
+<sub>Disclaimer: issues and pull requests come from outside the maintainer team, so their content, including descriptions, attachments, code, and links, is treated as untrusted. Reviewers inspect the real destination of every link, leave submitted files and commands unrun, and check project claims against independent sources.</sub>
