@@ -7320,6 +7320,37 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "id": "hyperconsciousness-9b4a0052",
+      "project": "Hyperconsciousness",
+      "project_description": "Hyperconsciousness is an MIT-licensed developer alpha Rust knowledge store for humans and AI agents that keeps signed, encrypted, append-only records and exposes scoped, expiring retrieval and capture grants through CLI, MCP and HTTP.",
+      "has_public_repository": true,
+      "categories": [
+        "Long-Term Memory",
+        "MCP Servers"
+      ],
+      "capabilities": [
+        "Keep signed, encrypted, append-only records and sync them across devices",
+        "Let agents retrieve authorized notes across sessions or append new knowledge through MCP using bounded, scoped and expiring grants",
+        "Install ingestion skills that capture chats and business tool data as records"
+      ],
+      "interfaces": [
+        "CLI",
+        "MCP",
+        "HTTP API"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/louis030195/hyperconsciousness",
+          "repository_owner": "louis030195",
+          "repository_owner_url": "https://github.com/louis030195",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-29T20:16:06Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [

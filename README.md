@@ -120,11 +120,12 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 </details>
 
 <details>
-<summary>🧠 Long-Term Memory (19)</summary>
+<summary>🧠 Long-Term Memory (20)</summary>
 <ul>
 <li><a href="#contextstream">ContextStream</a></li>
 <li><a href="#corellis">Corellis</a></li>
 <li><a href="#cortex-memory">Cortex Memory</a></li>
+<li><a href="#hyperconsciousness">Hyperconsciousness</a></li>
 <li><a href="#mem0">mem0</a></li>
 <li><a href="#memclaw">MemClaw</a></li>
 <li><a href="#memgpt">MemGPT</a></li>
@@ -498,7 +499,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 </details>
 
 <details>
-<summary>🔌 MCP Servers (15)</summary>
+<summary>🔌 MCP Servers (16)</summary>
 <ul>
 <li><a href="#agentservices">AgentServices</a></li>
 <li><a href="#ai-for-database-mcp-server">AI for Database MCP Server</a></li>
@@ -507,6 +508,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 <li><a href="#github-mcp-server">GitHub MCP Server</a></li>
 <li><a href="#hermes-plant">Hermes Plant</a></li>
 <li><a href="#human-pages-mcp-server">Human Pages MCP Server</a></li>
+<li><a href="#hyperconsciousness">Hyperconsciousness</a></li>
 <li><a href="#metorial">Metorial</a></li>
 <li><a href="#playwright-mcp">Playwright MCP</a></li>
 <li><a href="#salt-mcp">Salt MCP</a></li>
@@ -2110,6 +2112,18 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/YugantM/hvtracker">github</a></p>
 <p><strong>Capabilities:</strong> Browse evidence about AI-agent and MCP-server projects · Compare project trust signals · Review score history and evidence coverage · Consume machine-readable registry data</p>
 <p><strong>Interfaces:</strong> Web app · Public JSON API · Embeddable badges</p>
+</div>
+
+### Hyperconsciousness
+<div><a href="https://github.com/louis030195/hyperconsciousness"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/louis030195/hyperconsciousness"><img src="https://img.shields.io/github/stars/louis030195/hyperconsciousness?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/louis030195">@louis030195</a></p>
+<p>🧠 Long-Term Memory | 🔌 MCP Servers</p>
+
+<p>Hyperconsciousness is an MIT-licensed developer alpha Rust knowledge store for humans and AI agents that keeps signed, encrypted, append-only records and exposes scoped, expiring retrieval and capture grants through CLI, MCP and HTTP.</p>
+
+<p><a href="https://github.com/louis030195/hyperconsciousness">github</a></p>
+<p><strong>Capabilities:</strong> Keep signed, encrypted, append-only records and sync them across devices · Let agents retrieve authorized notes across sessions or append new knowledge through MCP using bounded, scoped and expiring grants · Install ingestion skills that capture chats and business tool data as records</p>
+<p><strong>Interfaces:</strong> CLI · MCP · HTTP API</p>
 </div>
 
 ### Instructor
