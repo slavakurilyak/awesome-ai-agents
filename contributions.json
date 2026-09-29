@@ -691,6 +691,20 @@
           "status": "accepted_submission"
         }
       ]
+    },
+    {
+      "project_id": "coven-e47ed384",
+      "submitted_by": [
+        {
+          "github_id": 68980965,
+          "login": "BunsDev",
+          "evidence_url": "https://github.com/slavakurilyak/awesome-ai-agents/issues/628",
+          "acceptance_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/649",
+          "at": "2026-09-27T05:34:29Z",
+          "status": "accepted_submission",
+          "founder_team_claim": true
+        }
+      ]
     }
   ]
 }

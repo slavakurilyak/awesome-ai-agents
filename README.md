@@ -1026,7 +1026,7 @@ Here's an awesome list of AI agents:
 
 ### Coven
 <div><a href="https://github.com/OpenCoven/coven"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/OpenCoven/coven"><img src="https://img.shields.io/github/stars/OpenCoven/coven?style=social" alt="GitHub stars"></a></div>
-<p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/OpenCoven">@OpenCoven</a></p>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/BunsDev">@BunsDev</a> <small>(self-reported founder/team)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/628">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/649">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/OpenCoven">@OpenCoven</a></p>
 <p>💻 Terminal-Friendly</p>
 
 <p>Coven is an open-source Rust daemon and CLI that runs Codex, Claude Code and other coding agent harnesses as PTY sessions inside explicit project root boundaries, with session history kept in SQLite.</p>
