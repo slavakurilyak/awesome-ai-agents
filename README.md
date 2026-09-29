@@ -2882,6 +2882,7 @@ Here's an awesome list of AI agents:
 
 ### SVRF
 <div><a href="https://github.com/nybarius/SVRF"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/nybarius/SVRF"><img src="https://img.shields.io/github/stars/nybarius/SVRF?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/nybarius">@nybarius</a></p>
 <p>🔌 MCP Servers</p>
 
 <p>SVRF is a merge train that batches, gates and lands pull requests for repositories where coding agents open pull requests faster than CI can gate them one by one; it ships an MCP server (svrf mcp) so an agent whose pull request is held can query why and fix it itself.</p>
