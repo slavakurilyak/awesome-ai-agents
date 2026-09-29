@@ -849,7 +849,7 @@ Here's an awesome list of AI agents:
 
 ### CerebrumKit
 <div><a href="https://github.com/islomkhon/CerebrumKit"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/islomkhon/CerebrumKit"><img src="https://img.shields.io/github/stars/islomkhon/CerebrumKit?style=social" alt="GitHub stars"></a></div>
-<p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/islomkhon">@islomkhon</a></p>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/islomkhon">@islomkhon</a> <small>(self-reported founder/team)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/633">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/657">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/islomkhon">@islomkhon</a></p>
 <p>🤖 AI Agents</p>
 
 <p>CerebrumKit is a self-hosted starting point for agentic projects where agents are assembled in an admin panel from skills and tools stored as database rows, with a workflow canvas and a client chat panel.</p>
