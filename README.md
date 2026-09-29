@@ -2745,7 +2745,7 @@ Here's an awesome list of AI agents:
 
 ### since-cutoff
 <div><a href="https://github.com/MohammadHijjawi97/since-cutoff"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/MohammadHijjawi97/since-cutoff"><img src="https://img.shields.io/github/stars/MohammadHijjawi97/since-cutoff?style=social" alt="GitHub stars"></a></div>
-<p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/MohammadHijjawi97">@MohammadHijjawi97</a></p>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/MohammadHijjawi97">@MohammadHijjawi97</a> <small>(self-reported founder/team)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/634">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/651">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/MohammadHijjawi97">@MohammadHijjawi97</a></p>
 <p>🔌 MCP Servers | 💻 Terminal-Friendly</p>
 
 <p>since-cutoff is an open-source Python tool that shows a coding agent which public APIs of a project's pinned dependencies changed after its model's training cutoff and writes short notes into AGENTS.md or CLAUDE.md.</p>
