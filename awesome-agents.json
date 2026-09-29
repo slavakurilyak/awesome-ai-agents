@@ -7255,6 +7255,38 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "id": "agent-manager-ada1f469",
+      "project": "agent-manager",
+      "project_description": "agent-manager is an open-source terminal UI that runs coding agent CLIs such as Claude Code, Codex, OpenCode and Gemini CLI unmodified, each in its own persistent tmux session, with a git worktree per session and diff review comments sent back to the agent.",
+      "has_public_repository": true,
+      "categories": [
+        "AI Agents",
+        "Terminal-Friendly"
+      ],
+      "capabilities": [
+        "Run the user's own installed coding agent CLIs unmodified, each in a persistent tmux session, so their login, config and MCP servers carry over",
+        "Show the live status of every session in one list, with an optional git worktree per session",
+        "Show a full file diff whose line comments go back to the agent as one review prompt",
+        "Let an agent spawn another session, message it and wait until it finishes through a built in MCP server"
+      ],
+      "interfaces": [
+        "Terminal UI",
+        "CLI",
+        "MCP"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/YoanWai/agent-manager",
+          "repository_owner": "YoanWai",
+          "repository_owner_url": "https://github.com/YoanWai",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-29T20:12:20Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [

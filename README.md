@@ -20,7 +20,7 @@ Listings require a public project repository on GitHub, GitLab.com, or Codeberg.
 Pick a category, open it, and choose a project to jump straight to its listing. A project with more than one category appears under each of them.
 
 <details>
-<summary>🤖 AI Agents (90)</summary>
+<summary>🤖 AI Agents (94)</summary>
 <ul>
 <li><a href="#agent-007">Agent 007</a></li>
 <li><a href="#agent-by-stately-ai">Agent by Stately AI</a></li>
@@ -30,6 +30,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 <li><a href="#agent-teams">Agent Teams</a></li>
 <li><a href="#agent-trust-stack-mcp-server">Agent Trust Stack MCP Server</a></li>
 <li><a href="#agent-kit">agent-kit</a></li>
+<li><a href="#agent-manager">agent-manager</a></li>
 <li><a href="#agentbox">AgentBox</a></li>
 <li><a href="#agentfield">AgentField</a></li>
 <li><a href="#agx">AGX</a></li>
@@ -48,6 +49,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 <li><a href="#blave-agent">Blave Agent</a></li>
 <li><a href="#browsingagent-by-agency-swarm">BrowsingAgent by Agency Swarm</a></li>
 <li><a href="#calai">Cal.ai</a></li>
+<li><a href="#cerebrumkit">CerebrumKit</a></li>
 <li><a href="#cline">Cline</a></li>
 <li><a href="#continue">Continue</a></li>
 <li><a href="#corellis">Corellis</a></li>
@@ -102,6 +104,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 <li><a href="#sandbase-harness">SandBase Harness</a></li>
 <li><a href="#screenpipe">Screenpipe</a></li>
 <li><a href="#smartipedia">Smartipedia</a></li>
+<li><a href="#solveathome">solveathome</a></li>
 <li><a href="#storyroute">StoryRoute</a></li>
 <li><a href="#strata">Strata</a></li>
 <li><a href="#synapse-messenger">Synapse Messenger</a></li>
@@ -112,6 +115,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 <li><a href="#xagent">XAgent</a></li>
 <li><a href="#xmacna-funcionario-digital-agentget-pack">XMACNA Funcionario Digital AgentGet Pack</a></li>
 <li><a href="#youtube-skills-for-ai-agents">YouTube Skills for AI Agents</a></li>
+<li><a href="#zaru">Zaru</a></li>
 </ul>
 </details>
 
@@ -233,13 +237,14 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 </details>
 
 <details>
-<summary>📊 Evaluation Frameworks (11)</summary>
+<summary>📊 Evaluation Frameworks (12)</summary>
 <ul>
 <li><a href="#agentfix-mini-scanner">agentfix-mini-scanner</a></li>
 <li><a href="#agentleak">AgentLeak</a></li>
 <li><a href="#agentops">AgentOps</a></li>
 <li><a href="#browserbash">BrowserBash</a></li>
 <li><a href="#clawbench">ClawBench</a></li>
+<li><a href="#house-party-protocol">House Party Protocol</a></li>
 <li><a href="#kitaru">Kitaru</a></li>
 <li><a href="#langfuse">LangFuse</a></li>
 <li><a href="#opik">Opik</a></li>
@@ -448,8 +453,9 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 </details>
 
 <details>
-<summary>💻 Terminal-Friendly (11)</summary>
+<summary>💻 Terminal-Friendly (13)</summary>
 <ul>
+<li><a href="#agent-manager">agent-manager</a></li>
 <li><a href="#agenttrace">AgentTrace</a></li>
 <li><a href="#atomic-agent">Atomic Agent</a></li>
 <li><a href="#ax">ax</a></li>
@@ -461,6 +467,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 <li><a href="#since-cutoff">since-cutoff</a></li>
 <li><a href="#smolagents">smolagents</a></li>
 <li><a href="#winkterm">WinkTerm</a></li>
+<li><a href="#zaru">Zaru</a></li>
 </ul>
 </details>
 
@@ -726,6 +733,18 @@ Here's an awesome list of AI agents:
 <p>agent-kit is a TypeScript toolkit for deploying multi-tenant AI agents with sandboxed execution, curated memory, and human-approved learning.</p>
 
 <p><a href="https://github.com/socialrobot-io/agent-kit">github</a></p>
+</div>
+
+### agent-manager
+<div><a href="https://github.com/YoanWai/agent-manager"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/YoanWai/agent-manager"><img src="https://img.shields.io/github/stars/YoanWai/agent-manager?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/YoanWai">@YoanWai</a> <small>(self-reported founder/team)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/647">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/660">accepted PR</a> · <strong>Maintained by:</strong> <a href="https://github.com/YoanWai">@YoanWai</a> <small>(self-reported)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/647">evidence</a> · <strong>Repository owner:</strong> <a href="https://github.com/YoanWai">@YoanWai</a></p>
+<p>🤖 AI Agents | 💻 Terminal-Friendly</p>
+
+<p>agent-manager is an open-source terminal UI that runs coding agent CLIs such as Claude Code, Codex, OpenCode and Gemini CLI unmodified, each in its own persistent tmux session, with a git worktree per session and diff review comments sent back to the agent.</p>
+
+<p><a href="https://github.com/YoanWai/agent-manager">github</a></p>
+<p><strong>Capabilities:</strong> Run the user's own installed coding agent CLIs unmodified, each in a persistent tmux session, so their login, config and MCP servers carry over · Show the live status of every session in one list, with an optional git worktree per session · Show a full file diff whose line comments go back to the agent as one review prompt · Let an agent spawn another session, message it and wait until it finishes through a built in MCP server</p>
+<p><strong>Interfaces:</strong> Terminal UI · CLI · MCP</p>
 </div>
 
 ### AgentBox
