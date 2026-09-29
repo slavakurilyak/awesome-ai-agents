@@ -737,7 +737,7 @@ Here's an awesome list of AI agents:
 
 ### agent-manager
 <div><a href="https://github.com/YoanWai/agent-manager"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/YoanWai/agent-manager"><img src="https://img.shields.io/github/stars/YoanWai/agent-manager?style=social" alt="GitHub stars"></a></div>
-<p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/YoanWai">@YoanWai</a></p>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/YoanWai">@YoanWai</a> <small>(self-reported founder/team)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/647">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/660">accepted PR</a> · <strong>Maintained by:</strong> <a href="https://github.com/YoanWai">@YoanWai</a> <small>(self-reported)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/647">evidence</a> · <strong>Repository owner:</strong> <a href="https://github.com/YoanWai">@YoanWai</a></p>
 <p>🤖 AI Agents | 💻 Terminal-Friendly</p>
 
 <p>agent-manager is an open-source terminal UI that runs coding agent CLIs such as Claude Code, Codex, OpenCode and Gemini CLI unmodified, each in its own persistent tmux session, with a git worktree per session and diff review comments sent back to the agent.</p>

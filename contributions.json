@@ -858,6 +858,29 @@
           "status": "self_reported"
         }
       ]
+    },
+    {
+      "project_id": "agent-manager-ada1f469",
+      "submitted_by": [
+        {
+          "github_id": 106609173,
+          "login": "YoanWai",
+          "evidence_url": "https://github.com/slavakurilyak/awesome-ai-agents/issues/647",
+          "acceptance_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/660",
+          "at": "2026-09-29T19:59:35Z",
+          "status": "accepted_submission",
+          "founder_team_claim": true
+        }
+      ],
+      "maintained_by": [
+        {
+          "github_id": 106609173,
+          "login": "YoanWai",
+          "evidence_url": "https://github.com/slavakurilyak/awesome-ai-agents/issues/647",
+          "at": "2026-09-29T19:59:35Z",
+          "status": "self_reported"
+        }
+      ]
     }
   ]
 }
