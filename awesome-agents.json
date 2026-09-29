@@ -4,7 +4,7 @@
       "id": "aster-712d33a8",
       "project": "Aster",
       "project_description": "Aster is a local-first software-engineering agent that uses shared tools, permissions, memory, skills, and retrieval for chat, code review, and fixes.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents"
       ],
@@ -23,7 +23,7 @@
       "id": "aiwg-85befb23",
       "project": "AIWG",
       "project_description": "AIWG deploys specialized agents, skills, context, rules, and governed workflows into native project paths across multiple AI coding platforms.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Development Frameworks"
       ],
@@ -42,7 +42,7 @@
       "id": "devid-by-agency-swarm-dd69538c",
       "project": "Devid by Agency Swarm",
       "project_description": "Devid Agent, a new AI software development tool, has been integrated into the Agency Swarm framework to enhance automated AI agency operations, alternative to Cognition AI's Devin",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents"
       ],
@@ -66,7 +66,7 @@
       "id": "browsingagent-by-agency-swarm-6a4c6704",
       "project": "BrowsingAgent by Agency Swarm",
       "project_description": "BrowsingAgent, an AI web navigation tool, has been integrated into the Agency Swarm framework to enable human-like browsing capabilities for automated AI operations",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents"
       ],
@@ -90,7 +90,7 @@
       "id": "openhands-formerly-opendevin-84fe3a04",
       "project": "OpenHands (formerly OpenDevin)",
       "project_description": "OpenHands is an open-source software development agent platform that can edit code, run commands, and interact with tools.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents"
       ],
@@ -109,7 +109,7 @@
       "id": "gpt-pilot-250e862e",
       "project": "GPT Pilot",
       "project_description": "GPT Pilot is an open-source AI developer tool that aims to provide a comprehensive development companion, capable of writing features, debugging, and interacting with users, presenting itself as an alternative to Devin, the world's first AI software engineer developed by Cognition Labs",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents"
       ],
@@ -133,7 +133,7 @@
       "id": "autodev-a700c690",
       "project": "AutoDev",
       "project_description": "AutoDev is an AI-powered coding assistant offering multilingual support, automatic code generation, and debugging assistance, featuring customizable prompts and specialized tools for development, testing, documentation, and the integration of custom AI agents, with a focus on experimenting and building AI agents using its UI framework",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents"
       ],
@@ -157,7 +157,7 @@
       "id": "moching-11f51aa1",
       "project": "Moching",
       "project_description": "Moching is a desktop AI agent for controlling a PC, with screen perception, browser and Office automation, and native tools.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Operating System (OS)"
       ],
@@ -176,7 +176,7 @@
       "id": "vetto-877ec6bb",
       "project": "Vetto",
       "project_description": "Vetto is a daemon-less, rootless sandbox that applies kernel-enforced security policies to AI coding agents, with agent command shims and MCP tool isolation.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Development Frameworks",
         "Safety Guardrails (Safeguarding)"
@@ -196,7 +196,7 @@
       "id": "nexus-agent-28b2b6af",
       "project": "Nexus-Agent",
       "project_description": "Nexus-Agent is an autonomous software-engineering agent with a self-healing execution loop, AST pre-validation, persistent rollback, and terminal and web interfaces.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents",
         "Development Frameworks",
@@ -217,7 +217,7 @@
       "id": "synapse-messenger-f6430181",
       "project": "Synapse Messenger",
       "project_description": "A local-first, self-hosted agent-to-agent communication platform with natural-language messaging, human-approved tasks, groups, delegation, a CLI, Python client, web UI, and encrypted backups.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents"
       ],
@@ -236,7 +236,7 @@
       "id": "bulkpublish-e655efd5",
       "project": "BulkPublish",
       "project_description": "Open-source Python and Node.js SDKs and an MCP server that connect agents to BulkPublish's hosted social publishing API, with tools for drafting, scheduling, publishing, approvals, and analytics.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Tool Calling (Function Calling)"
       ],
@@ -255,7 +255,7 @@
       "id": "agentleak-e9d43163",
       "project": "AgentLeak",
       "project_description": "An open-source privacy evaluation toolkit that analyzes agent traces across tool calls, shared memory, inter-agent messages, and logs, producing redacted reports and CI gates.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Evaluation Frameworks"
       ],
@@ -274,7 +274,7 @@
       "id": "baizhi-agent-toolkit-38ef4cd4",
       "project": "Baizhi Agent Toolkit",
       "project_description": "The official open-source client integration for Baizhi Cloud's hosted MCP service, with a Gemini CLI extension, registry manifest, and setup guides for web search, webpage retrieval, and structured extraction. The backend remains hosted and requires an API key.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Tool Calling (Function Calling)"
       ],
@@ -293,7 +293,7 @@
       "id": "okto-nexus-1e21ce1b",
       "project": "Okto-Nexus",
       "project_description": "Okto-Nexus is a local-first MCP coordination hub for multi-agent teams, with durable messaging, atomic handoffs, governance controls, and human approval.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents",
         "Development Frameworks",
@@ -314,7 +314,7 @@
       "id": "okto-pulse-9f82068a",
       "project": "Okto-Pulse",
       "project_description": "Okto-Pulse is a local-first SDLC workbench for AI coding teams, with structured project artifacts, governance gates, validation rules, and MCP tools.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Development Frameworks",
         "Safety Guardrails (Safeguarding)"
@@ -334,7 +334,7 @@
       "id": "jev-social-c8e38cd7",
       "project": "Jev Social",
       "project_description": "A browser-grounded social research agent that lets Jev select bounded operations, uses the socai CLI in the user's Chrome session, and generates source-linked reports.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents"
       ],
@@ -353,7 +353,7 @@
       "id": "reel-agent-11459e9d",
       "project": "Reel Agent",
       "project_description": "A self-hosted Telegram agent that analyzes social-media videos, returns source-linked breakdowns, and can plan or build related projects on the user's PC with command approvals.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents"
       ],
@@ -372,7 +372,7 @@
       "id": "open-interpreter-e4e017f4",
       "project": "Open Interpreter",
       "project_description": "Open Interpreter is a coding agent enabling language models to execute code locally, facilitating natural-language interaction with your computer's capabilities, overcoming limitations of hosted solutions like internet access and package restrictions. It features interactive and programmatic chats, system message customization, and can control your computer's keyboard and mouse, allowing for enhanced control and flexibility in development environments",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Operating System (OS)"
       ],
@@ -391,7 +391,7 @@
       "id": "autogpt-8b2b6adf",
       "project": "AutoGPT",
       "project_description": "AutoGPT provides accessible AI tools for building and using AI agents, offering a comprehensive framework including Forge for agent creation, agbenchmark for performance evaluation, a leaderboard for competition, a user-friendly UI, and CLI for seamless integration and management",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents"
       ],
@@ -415,7 +415,7 @@
       "id": "gpt-researcher-by-tavily-3d1673ce",
       "project": "GPT Researcher by Tavily",
       "project_description": "GPT Researcher is an AI-powered autonomous agent designed for efficient and unbiased online research, generating detailed reports by leveraging recent advancements in AI and web scraping, with a focus on speed, reliability, and cost-effectiveness",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents"
       ],
@@ -439,7 +439,7 @@
       "id": "cal-ai-9068fda9",
       "project": "Cal.ai",
       "project_description": "Cal.ai is an open-source AI scheduling assistant that manages email communications for booking, rearranging, and inquiring about meetings, leveraging a LangChain Agent Executor and MailParser for efficient scheduling without API key exposure",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents"
       ],
@@ -463,7 +463,7 @@
       "id": "tabby-5a836f68",
       "project": "Tabby",
       "project_description": "Tabby is a self-hosted, open-source AI coding assistant similar to GitHub Copilot, featuring a self-contained setup with no DBMS/cloud dependency, OpenAPI for easy integration, consumer-grade GPU support, and a full-feature admin UI in its latest release",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents"
       ],
@@ -492,7 +492,7 @@
       "id": "continue-343afdd8",
       "project": "Continue",
       "project_description": "Continue is an open-source autopilot plugin for VS Code and JetBrains, enhancing coding with LLMs through features like task and tab autocomplete, natural language edits, file generation, and customization options, available under the Apache 2.0 license",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents"
       ],
@@ -516,7 +516,7 @@
       "id": "aider-69151cb7",
       "project": "Aider",
       "project_description": "Aider is a command-line tool for AI-assisted pair programming, allowing code editing in local git repositories with GPT-3.5/GPT-4, featuring direct file edits, automatic git commits, and support for most popular programming languages",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents"
       ],
@@ -535,7 +535,7 @@
       "id": "xagent-49be785a",
       "project": "XAgent",
       "project_description": "XAgent is an open-source, experimental Large Language Model-driven autonomous agent designed to autonomously solve a wide range of tasks with features like autonomy, safety, extensibility, a GUI for easy interaction, and the ability to cooperate with humans",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents"
       ],
@@ -569,7 +569,7 @@
       "id": "agent-by-stately-ai-8715b84b",
       "project": "Agent by Stately AI",
       "project_description": "Stately Agent is a software for building intelligent agents that interact via chat and events, with examples including joke generation, tic-tac-toe, and weather querying, requiring installation and an OpenAI API key",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents"
       ],
@@ -608,7 +608,7 @@
       "id": "memgpt-6618374f",
       "project": "MemGPT",
       "project_description": "MemGPT introduces a customizable AI chatbot framework with self-editing memory and access to unlimited data, promoting perpetual, context-rich conversations",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Long-Term Memory"
       ],
@@ -632,7 +632,7 @@
       "id": "zep-24cbbd76",
       "project": "Zep",
       "project_description": "Zep is a long-term memory service for AI assistants that enhances recall, understanding, and data extraction from chat histories to power personalized AI experiences",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Long-Term Memory"
       ],
@@ -656,7 +656,7 @@
       "id": "bindai-f042cc28",
       "project": "BindAI",
       "project_description": "BindAI is a modular Python framework for building AI applications with reusable components for agents, tools, workflows, memory, knowledge retrieval, model providers, and integrations.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Development Frameworks"
       ],
@@ -685,7 +685,7 @@
       "id": "swarms-5408185f",
       "project": "Swarms",
       "project_description": "Swarms orchestrates multi-agent collaboration for production-grade applications, solving issues like short memory and high costs, with customizable tools for specific needs, currently used by RBC, John Deere, and AI startups",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Development Frameworks"
       ],
@@ -714,7 +714,7 @@
       "id": "agentos-cacfdb0c",
       "project": "AgentOS",
       "project_description": "The Agent OS is an experimental platform for creating self-evolving, autonomous AI agents capable of writing and executing their own code, designed to be a long-term environment for such agents and supports various programming languages",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Development Frameworks"
       ],
@@ -733,7 +733,7 @@
       "id": "swe-agent-1288539c",
       "project": "SWE-agent",
       "project_description": "This open source project introduces SWE-agent, a software engineering agent for LMs like GPT-4, enhancing bug and issue resolution in GitHub repositories with state-of-the-art performance, facilitated by a well-designed Agent-Computer Interface (ACI) and support for OpenAI and Anthropic Claude models",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Development Frameworks"
       ],
@@ -757,7 +757,7 @@
       "id": "agixt-6509893f",
       "project": "AGiXT",
       "project_description": "AGiXT is an advanced AI Automation Platform designed to enhance AI instruction management and task execution across various providers, incorporating features like adaptive memory, smart instruct, and a versatile plugin system to push the boundaries of AI technology towards achieving Artificial General Intelligence (AGI)",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Development Frameworks"
       ],
@@ -781,7 +781,7 @@
       "id": "cognee-1d73ba6d",
       "project": "Cognee",
       "project_description": "Cognee is an open-source framework aimed at simplifying data processing for large language models (LLMs) by creating knowledge graphs and data models, offering tools for information addition, knowledge creation, and similarity-based search",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Development Frameworks"
       ],
@@ -800,7 +800,7 @@
       "id": "agency-swarm-by-vrsen-e5daaf13",
       "project": "Agency Swarm by VRSEN",
       "project_description": "Agency Swarm is a framework designed to automate AI agencies by creating a swarm of collaborative agents with customizable roles and functionalities, aiming to simplify the agent creation process and make automation more intuitive",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Development Frameworks"
       ],
@@ -819,7 +819,7 @@
       "id": "langchain-73dda814",
       "project": "LangChain",
       "project_description": "LangChain is a framework enabling context-aware reasoning applications with integrated libraries, templates, and developer tools",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Development Frameworks"
       ],
@@ -838,7 +838,7 @@
       "id": "langchain-js-7c9a07aa",
       "project": "LangChain JS",
       "project_description": "LangChain JS is a framework for developing applications powered by language models, enabling context-aware and reasoning-based applications through composable tools and off-the-shelf chains, with seamless integration with the LangChain Python package",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Development Frameworks"
       ],
@@ -857,7 +857,7 @@
       "id": "langgraph-d5044897",
       "project": "LangGraph",
       "project_description": "LangGraph is a Python library facilitating the construction of stateful, multi-actor applications with LLMs, enabling cyclic coordination across multiple computation steps, particularly suited for agent-like behaviors, while also providing streaming support, and various guides and examples for implementation and usage",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Development Frameworks"
       ],
@@ -876,7 +876,7 @@
       "id": "langgraph-js-0d15c2ba",
       "project": "LangGraph.js",
       "project_description": "LangGraph.js is a TypeScript and JavaScript library enabling the development of stateful, multi-actor applications with LLMs, featuring capabilities to construct cyclic coordination across multiple computation steps for complex agent-like behaviors, with support for conditional edges and cycles, not limited to DAGs, and extensive documentation with examples on implementation",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Development Frameworks"
       ],
@@ -895,7 +895,7 @@
       "id": "langserve-1238a1be",
       "project": "LangServe",
       "project_description": "LangServe facilitates the deployment of LangChain runnables and chains as a REST API, providing features like automatic schema inference, efficient endpoints, and a playground page, with plans for a hosted version for one-click deployments",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Development Frameworks"
       ],
@@ -914,7 +914,7 @@
       "id": "autogen-by-microsoft-afa2ef03",
       "project": "AutoGen by Microsoft",
       "project_description": "AutoGen is a multi-agent conversation framework facilitating the development of next-gen LLM applications, highlighted by various accomplishments and offering enhanced LLM inferences, customizable agents, and comprehensive documentation",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Development Frameworks"
       ],
@@ -938,7 +938,7 @@
       "id": "autogen-studio-by-microsoft-7ce80c8d",
       "project": "AutoGen Studio by Microsoft",
       "project_description": "AutoGen Studio 2.0 is Microsoft's advanced AI development tool, offering a user-friendly interface, powerful Python API, and comprehensive features for creating and controlling AI agents and workflows",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Development Frameworks"
       ],
@@ -972,7 +972,7 @@
       "id": "chatdev-bb006374",
       "project": "ChatDev",
       "project_description": "ChatDev is a virtual software company utilizing intelligent agents to revolutionize the digital world through programming, offering a highly customizable framework and integrating innovative approaches like Experiential Co-Learning, Docker support, Git management, and Human-Agent Interaction",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Development Frameworks"
       ],
@@ -996,7 +996,7 @@
       "id": "haystack-ba4b85cb",
       "project": "Haystack",
       "project_description": "Haystack is an end-to-end LLM framework facilitating the construction of applications powered by LLMs, Transformer models, vector search, and more, offering flexibility, transparency, and extensibility, with features including retrieval-augmented generation, document search, question answering, and semantic search, along with a diverse user base including companies like Airbus, Apple, and Netflix",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Development Frameworks"
       ],
@@ -1020,7 +1020,7 @@
       "id": "crewai-by-jo-o-moura-22152a10",
       "project": "crewAI by João Moura",
       "project_description": "crewAI is a cutting-edge AI framework designed for orchestrating role-playing, autonomous AI agents, enabling seamless collaboration and complex task handling",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Development Frameworks"
       ],
@@ -1044,7 +1044,7 @@
       "id": "db-gpt-f878b1af",
       "project": "DB-GPT",
       "project_description": "DB-GPT revolutionizes database interactions using private LLM technology, enabling streamlined AI-native data app development with multi-model management, Text2SQL optimization, and fine-tuning, facilitating enterprises and developers to create bespoke applications in the Data 3.0 era",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Development Frameworks"
       ],
@@ -1068,7 +1068,7 @@
       "id": "devopsgpt-b8381112",
       "project": "DevOpsGPT",
       "project_description": "DevOpsGPT is an AI-driven software development automation solution that combines large language models with DevOps tools to convert natural language requirements into working software, enhancing development efficiency, shortening cycles, and reducing communication costs",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Development Frameworks"
       ],
@@ -1092,7 +1092,7 @@
       "id": "e2b-eaf8115a",
       "project": "E2B",
       "project_description": "E2B Sandbox offers secure cloud environments tailored for AI agents and apps, facilitating long-running sessions with various tools and can be integrated with any large language model",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Development Frameworks"
       ],
@@ -1116,7 +1116,7 @@
       "id": "camel-2ae76385",
       "project": "CAMEL",
       "project_description": "CAMEL (Communicative Agents for Mind Exploration of Large Language Model Society) is an open-source library designed for studying autonomous and communicative agents, facilitating research in understanding their behaviors, capabilities, and potential risks through scalable techniques and cooperative frameworks, including role-playing, with extensive documentation, examples, and datasets, while also supporting integration with open-source models as backends for diverse applications",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Development Frameworks"
       ],
@@ -1140,7 +1140,7 @@
       "id": "superagent-65cd30f4",
       "project": "Superagent",
       "project_description": "Superagent is an open-source AI assistant framework backed by Y Combinator, facilitating the integration of large language models (LLM) and generative AI into applications, supporting various use cases such as question answering, chatbots, and content generation",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Development Frameworks"
       ],
@@ -1164,7 +1164,7 @@
       "id": "aios-cda3ad67",
       "project": "AIOS",
       "project_description": "AIOS by AGI Research is an LLM Agent Operating System which enables an operating system 'with soul' -- an important step towards AGI",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Development Frameworks"
       ],
@@ -1188,7 +1188,7 @@
       "id": "loopgpt-343a6ac4",
       "project": "LoopGPT",
       "project_description": "LoopGPT is a modular auto-GPT framework with features such as a 'Plug N Play' API, GPT 3.5 compatibility, minimal prompt overhead, human-in-the-loop capability, and full state serialization, facilitating easy installation and usage through Python code, CLI, or Docker, with the ability to add custom tools and course correction, along with saving and loading agent state, requiring Python 3.8+ and an OpenAI API Key, and optional setup for Google search support",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Development Frameworks"
       ],
@@ -1212,7 +1212,7 @@
       "id": "uagents-by-fetch-ai-b6e03371",
       "project": "uAgents by Fetch AI",
       "project_description": "uAgents is a Python library by Fetch AI for creating autonomous AI agents with features like easy creation, blockchain network connectivity, and cryptographic security",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Development Frameworks"
       ],
@@ -1236,7 +1236,7 @@
       "id": "flowise-82c3a176",
       "project": "Flowise",
       "project_description": "Flowise simplifies the creation of applications leveraging large language models (LLMs) by providing a drag-and-drop interface for customizing AI workflows, offering easy installation, Docker support, development tools, and documentation for integrating various functionalities such as authentication, streaming, and custom tools to enhance AI agents' capabilities",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Development Frameworks"
       ],
@@ -1270,7 +1270,7 @@
       "id": "lobe-chat-122f7633",
       "project": "Lobe Chat",
       "project_description": "Lobe Chat is an open-source UI framework for building ChatGPT/LLM-based chat applications, featuring modern design, speech synthesis, multi-modal support, extensible plugins, and free one-click deployment for various AI agents",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Development Frameworks"
       ],
@@ -1294,7 +1294,7 @@
       "id": "bazed-eabd96f8",
       "project": "Bazed",
       "project_description": "Bazed Agent Framework, aimed at empowering developers to build autonomous agent swarms without requiring deep Python ML knowledge, is facilitating the creation of sophisticated systems through TypeScript for enhanced autonomy and reliability",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Development Frameworks"
       ],
@@ -1323,7 +1323,7 @@
       "id": "praisonai-c4ebe5b7",
       "project": "PraisonAI",
       "project_description": "Praison AI is a low-code, centralized framework leveraging AutoGen and CrewAI to simplify creating and orchestrating multi-agent systems for LLM applications, emphasizing customization and ease of human-agent interaction",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Development Frameworks"
       ],
@@ -1352,7 +1352,7 @@
       "id": "langfuse-5606fb54",
       "project": "LangFuse",
       "project_description": "Langfuse, an open-source LLM engineering platform, offers debugging, prompt management, metrics for LLM apps improvement, and won the #1 Golden Kitty in the AI Infra Category from Product Hunt",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Evaluation Frameworks"
       ],
@@ -1386,7 +1386,7 @@
       "id": "agentops-e5c2d0d7",
       "project": "AgentOps",
       "project_description": "AgentOps aims to improve AI agent development with tools for observability, evaluations, and replay analytics, offering a streamlined process for testing and debugging compliant AI agents through a user-friendly interface and comprehensive documentation",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Evaluation Frameworks"
       ],
@@ -1425,7 +1425,7 @@
       "id": "langsmith-by-langchain-e806e472",
       "project": "LangSmith by LangChain",
       "project_description": "LangSmith provides tools for debugging, testing, evaluating, and monitoring LLM applications, integrating seamlessly with LangChain for comprehensive AI agent observability",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Observability Frameworks"
       ],
@@ -1454,7 +1454,7 @@
       "id": "helicone-d8678b05",
       "project": "Helicone",
       "project_description": "Helicone is an open-source observability platform for Language Learning Models (LLMs), providing features like request logging, caching, rate limiting, cost and latency tracking, UI-based prompt iteration, and collaboration tools",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Observability Frameworks"
       ],
@@ -1478,7 +1478,7 @@
       "id": "ollama-b12fe2ce",
       "project": "Ollama",
       "project_description": "Ollama is a tool for running large language models locally, offering easy setup for macOS, Windows, Linux, and Docker, along with a library of models and quickstart guides for customization and integration",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Local Inference"
       ],
@@ -1502,7 +1502,7 @@
       "id": "jan-9d636d6b",
       "project": "Jan",
       "project_description": "Jan is an open-source, development-stage ChatGPT alternative that operates fully offline on diverse hardware platforms, supporting universal architectures from PCs to multi-GPU clusters",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Local Inference"
       ],
@@ -1526,7 +1526,7 @@
       "id": "privategpt-9c0575a5",
       "project": "PrivateGPT",
       "project_description": "PrivateGPT is a secure, offline-capable AI tool for querying documents with Large Language Models, offering high-level and low-level APIs for privacy-conscious, context-aware application development",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Local Inference"
       ],
@@ -1545,7 +1545,7 @@
       "id": "localgpt-126662f0",
       "project": "LocalGPT",
       "project_description": "LocalGPT is an open-source project for secure, private interactions with documents locally, featuring comprehensive model support, embeddings, API for RAG applications, and GUI options, with a focus on privacy and local data processing",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Local Inference"
       ],
@@ -1564,7 +1564,7 @@
       "id": "livekit-agents-ee3cffb5",
       "project": "LiveKit Agents",
       "project_description": "An open-source framework for building real-time, programmable participants that run on servers, enabling easy integration with LiveKit WebRTC sessions for processing or generating audio, video, and data streams",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Real-Time"
       ],
@@ -1593,7 +1593,7 @@
       "id": "open-interpreter-e4e017f4",
       "project": "Open Interpreter",
       "project_description": "Open Interpreter is a coding agent enabling language models to execute code locally, facilitating natural-language interaction with your computer's capabilities, overcoming limitations of hosted solutions like internet access and package restrictions. It features interactive and programmatic chats, system message customization, and can control your computer's keyboard and mouse, allowing for enhanced control and flexibility in development environments",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Operating System (OS)"
       ],
@@ -1612,7 +1612,7 @@
       "id": "upsonic-c7254e4f",
       "project": "Upsonic",
       "project_description": "Upsonic is a Python framework for building autonomous AI agents, with tools for workflows, MCP, and agent evaluation.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Development Frameworks"
       ],
@@ -1640,7 +1640,7 @@
       "id": "jevme-8d91cf07",
       "project": "jevme",
       "project_description": "jevme is a voice-controlled macOS agent that uses accessibility controls to operate apps, executes commands as the user speaks, and learns reusable tasks from demonstrations.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Operating System (OS)"
       ],
@@ -1659,7 +1659,7 @@
       "id": "guidance-94407df6",
       "project": "Guidance",
       "project_description": "The text describes 'guidance,' a programming paradigm that enhances control and efficiency in model generation by allowing for constraints like regex and CFGs, integrating stateful control, and offering a simplified interface for complex generation scenarios",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Safety Guardrails (Safeguarding)"
       ],
@@ -1683,7 +1683,7 @@
       "id": "guardrails-f52d8665",
       "project": "Guardrails",
       "project_description": "Guardrails is a Python framework for building reliable AI applications, offering Input/Output Guards to detect and mitigate risks, along with structured data generation from large language models (LLMs)",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Safety Guardrails (Safeguarding)"
       ],
@@ -1707,7 +1707,7 @@
       "id": "nemo-guardrails-46f9fdb1",
       "project": "NeMo Guardrails",
       "project_description": "NeMo Guardrails is an open-source toolkit facilitating the integration of programmable guardrails, essential for steering and safeguarding AI agents' conversational outputs, into large language model-based applications",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Safety Guardrails (Safeguarding)"
       ],
@@ -1731,7 +1731,7 @@
       "id": "instructor-111b5cc8",
       "project": "Instructor",
       "project_description": "Instructor, a Python library, facilitates working with structured outputs from large language models (LLMs), offering features like response model specification, retry management, validation, and streaming support, primarily aimed at enhancing workflows of AI agents utilizing LLMs",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Structured Outputs"
       ],
@@ -1755,7 +1755,7 @@
       "id": "pydantic-01942037",
       "project": "Pydantic",
       "project_description": "Pydantic is a Python library facilitating data validation through type hints, particularly useful for AI agents, offering fast validation capabilities and compatibility with various development tools",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Structured Outputs"
       ],
@@ -1779,7 +1779,7 @@
       "id": "outlines-fcdd7079",
       "project": "Outlines",
       "project_description": "Outlines is a robust text generation library designed for agentic AI developers, featuring support for multiple model integrations, advanced prompting with Jinja, efficient structured generation through regex, JSON schema, context-free grammars, and more, enabling the creation of predictable and structured AI agent outputs",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Structured Outputs"
       ],
@@ -1808,7 +1808,7 @@
       "id": "marvin-f61590d0",
       "project": "Marvin",
       "project_description": "Marvin is an open-source AI toolkit designed for developers focused on enhancing AI agent capabilities, offering tools for natural language interfaces, image and audio generation, and entity extraction, scalable and easy to integrate into existing projects",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Structured Outputs"
       ],
@@ -1832,7 +1832,7 @@
       "id": "perplexity-inspired-llm-answer-engine-6113745d",
       "project": "Perplexity-Inspired LLM Answer Engine",
       "project_description": "A versatile answer engine leveraging Groq, Mistral AI, Langchain.JS, Brave Search, Serper API, and OpenAI to deliver efficient and sophisticated responses with reduced hallucination through RAG for citation-backed search queries",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Structured Outputs"
       ],
@@ -1856,7 +1856,7 @@
       "id": "evo-ai-ed18ac31",
       "project": "EVO-AI",
       "project_description": "EVO-AI is a distributed language-model project that evolves model weights across volunteer nodes and exposes generation through HTTP and A2A JSON-RPC interfaces.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents"
       ],
@@ -1875,7 +1875,7 @@
       "id": "mergekit-4d5b949c",
       "project": "MergeKit",
       "project_description": "Arcee AI's MergeKit offers tools for merging pre-trained large language models, enabling the creation of more versatile AI agents by combining knowledge from different sources, akin to Retrieval Augmented Generation (RAG)",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Model Merges"
       ],
@@ -1894,7 +1894,7 @@
       "id": "langchain-tools-9e3fe326",
       "project": "LangChain Tools",
       "project_description": "Langchain integrates various providers like Anthropic, AWS, and OpenAI, and offers tools for components such as LLMs, chat models, and data analysis, supporting functionalities from Alpha Vantage to YouTube",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Function Calling"
       ],
@@ -1918,7 +1918,7 @@
       "id": "langchain-js-tools-832512e6",
       "project": "LangChain JS Tools",
       "project_description": "Langchain features VectorDBQAChain, which integrates LLMs and vector databases into agent tools for enhanced question-answering capabilities by leveraging data ingested into vector stores",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Function Calling"
       ],
@@ -1942,7 +1942,7 @@
       "id": "llamaindex-tools-e8b0f1d5",
       "project": "LlamaIndex Tools",
       "project_description": "LlamaIndex offers a variety of tools for building data agents, with top downloads including IonicShoppingToolSpec, OpenAPIToolSpec, WikipediaToolSpec, GmailToolSpec, and GoogleCalendarToolSpec, enabling seamless integration with user-defined functions, query engines, and third-party services",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Function Calling"
       ],
@@ -1971,7 +1971,7 @@
       "id": "typechat-3d4a1220",
       "project": "TypeChat",
       "project_description": "TypeChat is a library that facilitates building natural language interfaces by using schema engineering as an alternative to traditional function calling in LLMs, avoiding JSON schema-based constraints",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Function Calling"
       ],
@@ -1990,7 +1990,7 @@
       "id": "ai-sdk-by-vercel-a1588874",
       "project": "AI SDK by Vercel",
       "project_description": "The Vercel AI SDK is an open-source library for creating AI-powered conversational interfaces, supporting multiple frameworks and languages, with built-in adapters for major AI services",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "UI Development"
       ],
@@ -2027,7 +2027,7 @@
       "id": "dspy-3c5a3aa7",
       "project": "DSPY",
       "project_description": "A cutting-edge framework that compiles declarative language model calls into self-improving pipelines, enabling the systematic and efficient optimization of LM prompts and weights within complex systems",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Flow Engineering (Platform Engineering)"
       ],
@@ -2046,7 +2046,7 @@
       "id": "litellm-55ba6b8f",
       "project": "LiteLLM",
       "project_description": "LiteLLM has added support for the OpenAI Assistants API, enabling seamless integration of stateful operations and automatic RAG pipelines into existing chatbots",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Assistants API"
       ],
@@ -2065,7 +2065,7 @@
       "id": "liverecall-84be50be",
       "project": "LiveRecall",
       "project_description": "LiveRecall, an open-source alternative to Microsoft's Recall, utilizes semantic search and encryption to capture and retrieve screen snapshots, enabling AI agents to assist creators in researching and augmenting tasks like journaling or blog post creation based on indexed personal activities",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Personal Assistants"
       ],
@@ -2084,7 +2084,7 @@
       "id": "ai-artifacts-582a7d0b",
       "project": "ai-artifacts",
       "project_description": "This project implements Anthropic's Artifacts UI, using E2B's Code Interpreter SDK for secure AI code execution and Claude Sonnet 3.5 for code generation",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "UI Development"
       ],
@@ -2116,7 +2116,7 @@
       "id": "mem0-2f72a0a2",
       "project": "mem0",
       "project_description": "Mem0 is an intelligent memory layer for Large Language Models that enhances personalized AI experiences by retaining and utilizing contextual information across various applications.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Long-Term Memory"
       ],
@@ -2165,7 +2165,7 @@
       "id": "mnemoverse-16728744",
       "project": "Mnemoverse",
       "project_description": "Mnemoverse is an open-source MCP server for persistent AI-agent memory, with feedback tools that adjust how memories are ranked.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Long-Term Memory"
       ],
@@ -2184,7 +2184,7 @@
       "id": "contextstream-4d14ff45",
       "project": "ContextStream",
       "project_description": "ContextStream is an MCP server for shared project context and persistent agent memory, with semantic search, traceable sources, and scoped access.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Long-Term Memory"
       ],
@@ -2203,7 +2203,7 @@
       "id": "self-auditing-agent-347551a3",
       "project": "Self Auditing Agent",
       "project_description": "Self Auditing Agent pairs audit claims with rerunnable commands and includes gatecheck, a mutation tester for quality gates available as a GitHub Action and pre-commit hook.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Evaluation Frameworks"
       ],
@@ -2222,7 +2222,7 @@
       "id": "blackvault-a88fc265",
       "project": "BlackVault",
       "project_description": "Self-hostable API key proxy for AI agents with per-token access controls, budget limits, and an OpenAI-compatible gateway for multiple model providers.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents"
       ],
@@ -2246,7 +2246,7 @@
       "id": "basedagents-a4d5edce",
       "project": "BasedAgents",
       "project_description": "Open task marketplace for AI agents to discover, claim, and deliver work using signed receipts and optional USDC bounties.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents"
       ],
@@ -2278,7 +2278,7 @@
       "id": "agent-qa-79b34ac2",
       "project": "Agent QA",
       "project_description": "Agent QA is a self-improving QA harness with memory for natural-language web and mobile tests; it adapts to UI changes and provides a dashboard, CLI, MCP server, and coding-agent skills.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents"
       ],
@@ -2313,7 +2313,7 @@
       "id": "nobulex-bbf3e6f8",
       "project": "Nobulex",
       "project_description": "An open-source gateway for AI agents acting on financial data: verifies supporting evidence, evaluates a bounded policy, returns PERMIT, BLOCK, or ESCALATE, and emits a hash-chained receipt.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Safety Guardrails (Safeguarding)"
       ],
@@ -2332,7 +2332,7 @@
       "id": "agentfix-mini-scanner-e7bd2491",
       "project": "agentfix-mini-scanner",
       "project_description": "A zero-dependency Node.js CLI that scans websites for AI-agent discovery and interoperability signals, reports a grade, and suggests fixes.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Evaluation Frameworks"
       ],
@@ -2351,7 +2351,7 @@
       "id": "edgrapi-abb250f1",
       "project": "Edgrapi",
       "project_description": "Open-source agent skills and a lightweight MCP stdio bridge for Edgrapi’s hosted API, which returns normalized SEC and US government data as JSON.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Tool Calling (Function Calling)"
       ],
@@ -2370,7 +2370,7 @@
       "id": "rust-norion-1b3a87fe",
       "project": "rust-norion",
       "project_description": "A Rust research prototype for LLM runtime and agent control, with routing, memory, runtime adapters, rollback, tracing, and gated self-evolution.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents",
         "Development Frameworks"
@@ -2390,7 +2390,7 @@
       "id": "the-genesis-accord-4a1e1d22",
       "project": "The Genesis Accord",
       "project_description": "An open standard that defines eight evidence-based dimensions for AI agents assessing human–AI operator interactions and issuing credentials.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Standardization"
       ],
@@ -2409,7 +2409,7 @@
       "id": "zillapi-b07beb08",
       "project": "Zillapi",
       "project_description": "MIT-0 agent skills for querying Zillow property data through Zillapi’s hosted API; the repository contains client skills, while the MCP server is hosted.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Tool Calling (Function Calling)"
       ],
@@ -2428,7 +2428,7 @@
       "id": "frontman-85fe9e64",
       "project": "Frontman",
       "project_description": "A browser-based AI coding agent that uses live application context to edit frontend source files with hot reload through Next.js, Astro, and Vite integrations.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents",
         "UI Development"
@@ -2448,7 +2448,7 @@
       "id": "prismfy-wizard-f83b7379",
       "project": "Prismfy Wizard",
       "project_description": "A CLI that installs the Prismfy live-search command and managed search-policy blocks into local AI-agent instruction files, with selectable verification modes and dry-run support.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Tool Calling (Function Calling)",
         "Prompt Engineering"
@@ -2468,7 +2468,7 @@
       "id": "openagent-01756aa9",
       "project": "OpenAgent",
       "project_description": "A self-hostable personal AI assistant with autonomous browser, search, shell, office, and MCP tools, plus document RAG and a visual workflow builder.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents",
         "Personal Assistants",
@@ -2489,7 +2489,7 @@
       "id": "buywhere-mcp-server-f3094b11",
       "project": "BuyWhere MCP Server",
       "project_description": "An open-source MCP client that connects AI agents to BuyWhere’s hosted product-data API for product search, price comparison, and deal discovery.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Tool Calling (Function Calling)"
       ],
@@ -2508,7 +2508,7 @@
       "id": "octomind-874fd462",
       "project": "Octomind",
       "project_description": "A Rust CLI-first AI agent runtime that uses model providers and MCP tools to work with files, code, and shell, with interactive, piped, daemon, WebSocket, and ACP modes.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents",
         "Development Frameworks"
@@ -2528,7 +2528,7 @@
       "id": "polymind-fe9643d4",
       "project": "PolyMind",
       "project_description": "A web app that monitors Polymarket and Kalshi markets, detects configured price, volume, and wallet signals, and provides LLM analysis of alerts.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents"
       ],
@@ -2547,7 +2547,7 @@
       "id": "strata-e385de7c",
       "project": "Strata",
       "project_description": "A persistent archaeological exploration game for AI agents, with REST and MCP interfaces for discovering fragments, interpreting finds, and connecting them with other agents.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents",
         "Tool Calling (Function Calling)"
@@ -2567,7 +2567,7 @@
       "id": "aigen-protocol-0f26fefb",
       "project": "AIGEN Protocol",
       "project_description": "A reference implementation of an open bounty protocol that lets AI agents post and claim missions through API and MCP tools, with verification and on-chain payouts.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Standardization",
         "Tool Calling (Function Calling)"
@@ -2587,7 +2587,7 @@
       "id": "awesome-embodied-ai-safety-2a81af89",
       "project": "Awesome Embodied AI Safety",
       "project_description": "An open survey of embodied AI safety research, organizing papers on perception, cognition, planning, interaction, and agentic-system risks.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents"
       ],
@@ -2606,7 +2606,7 @@
       "id": "youtube-skills-for-ai-agents-4c99b1e9",
       "project": "YouTube Skills for AI Agents",
       "project_description": "A collection of agent skills for retrieving YouTube transcripts, searching videos, browsing channels, and extracting playlists through TranscriptAPI.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents"
       ],
@@ -2634,7 +2634,7 @@
       "id": "storyroute-3d5b1953",
       "project": "StoryRoute",
       "project_description": "A GPS-aware mobile web app that discovers nearby landmarks, generates location-based stories with an LLM, and narrates them as users walk.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents"
       ],
@@ -2661,7 +2661,7 @@
       "id": "agentwatch-b652004b",
       "project": "AgentWatch",
       "project_description": "A TypeScript library for monitoring agent heartbeats, correlating cross-agent traces, detecting cascade failures, and replaying failure chains.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Observability Frameworks"
       ],
@@ -2690,7 +2690,7 @@
       "id": "smartipedia-291e033e",
       "project": "Smartipedia",
       "project_description": "An open-source encyclopedia where agents generate, revise, and review knowledge articles, then explore connected topics through a knowledge graph.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents"
       ],
@@ -2719,7 +2719,7 @@
       "id": "insumerapi-agent-tools-0399ee21",
       "project": "InsumerAPI Agent Tools",
       "project_description": "Open-source MCP and LangChain integrations for calling Insumer’s hosted service to verify on-chain wallet conditions and return signed attestations.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents"
       ],
@@ -2755,7 +2755,7 @@
       "id": "taskade-4c2c8d04",
       "project": "Taskade",
       "project_description": "An AI-native workspace with custom agents, workflow automation, and prompt-built apps; its official public repository contains product documentation and clone-ready App Kits.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents"
       ],
@@ -2784,7 +2784,7 @@
       "id": "thursday-e07c7dda",
       "project": "Thursday",
       "project_description": "Thursday is an open-source personal voice assistant that runs on your computer and delegates longer tasks to background AI agents using a real browser, shell, files, Agent Skills, and MCP servers. It keeps the live call available while work runs and returns results as local files; it uses hosted model providers rather than local inference.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Personal Assistants"
       ],
@@ -2813,7 +2813,7 @@
       "id": "blave-agent-c06c8db9",
       "project": "Blave Agent",
       "project_description": "Blave Agent is a macOS quant research workspace that connects coding agents such as Claude Code or Codex to help develop and backtest trading strategies, including Monte Carlo permutation tests, parameter scans, and walk-forward analysis. Live trading runs through a separate deterministic process with position reconciliation and a kill switch.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents"
       ],
@@ -2841,7 +2841,7 @@
       "id": "superagent-for-mac-3384651f",
       "project": "Superagent for Mac",
       "project_description": "Superagent for Mac is an open-source macOS workspace for Claude Code and Codex, combining persistent coding-agent chats with an agent-controlled browser, iOS Simulator, and companion iPhone app for monitoring conversations and responding to agent requests. It runs locally and uses the user’s existing agent subscription.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Operating System (OS)"
       ],
@@ -2870,7 +2870,7 @@
       "id": "clawmetry-6fc4598d",
       "project": "ClawMetry",
       "project_description": "ClawMetry is an open-source, local-first dashboard that reads existing session files from OpenClaw, NVIDIA NemoClaw, Goose, and Qwen Code. It provides agent session replay, tool-call timelines, and token and cost reporting where runtimes expose that data.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Observability Frameworks"
       ],
@@ -2898,7 +2898,7 @@
       "id": "sandbase-harness-97179299",
       "project": "SandBase Harness",
       "project_description": "SandBase Harness is a self-hosted AI agent runtime and MCP bridge for persistent sessions, sandboxed tool execution, credentials, audit logs, and replay. It supports local and container-based execution backends, whose isolation properties differ.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents",
         "Development Frameworks"
@@ -2928,7 +2928,7 @@
       "id": "screenpipe-ef3ef026",
       "project": "Screenpipe",
       "project_description": "Screenpipe captures screen and audio locally, then exposes searchable work history and agent context through an MCP server. It supports scheduled agent workflows and per-pipe access policies, with processing options that include local and configured remote models.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents",
         "Long-Term Memory",
@@ -2960,7 +2960,7 @@
       "id": "observatory-by-the-context-company-00bb7826",
       "project": "Observatory by The Context Company",
       "project_description": "Observatory provides TypeScript and Python OpenTelemetry packages for instrumenting LLM and agent frameworks, plus a local widget for viewing traces. Integrations include Vercel AI SDK, Claude Agent SDK, LangChain, Mastra, OpenClaw, CrewAI, Agno, and LiteLLM.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Observability Frameworks"
       ],
@@ -2989,7 +2989,7 @@
       "id": "zapier-sdk-2e49de78",
       "project": "Zapier SDK",
       "project_description": "The Zapier SDK is a TypeScript SDK and CLI for building agent tools and integrations against Zapier’s connection layer, giving coding agents programmatic access to Zapier’s app catalog and action library.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Development Frameworks"
       ],
@@ -3022,7 +3022,7 @@
       "id": "uizze-d4976237",
       "project": "UIZZE",
       "project_description": "UIZZE provides design skills and a free GitHub Action for coding agents: its skills guide product-specific interface design, and the PR check flags common UI issues in changed source. An optional paid MCP server provides web and iOS design references.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "UI Development"
       ],
@@ -3051,7 +3051,7 @@
       "id": "dsh-studio-702e9f8b",
       "project": "DSH Studio",
       "project_description": "DSH Studio is a cross-platform desktop interface for supervising and managing the local DeepSeek Harness service. It monitors and restarts the service, manages plugin installation, and offers optional paired-phone access through a separate local-network gateway.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "UI Development"
       ],
@@ -3079,7 +3079,7 @@
       "id": "atomic-agent-dcdc8ba9",
       "project": "Atomic Agent",
       "project_description": "Atomic Agent is a local-first terminal coding assistant that runs open-weight models through llama.cpp and keeps its control loop and state on the user’s machine. It can browse, work with files and Git, retain memory across sessions, and connect external tools over MCP.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents",
         "Local Inference",
@@ -3111,7 +3111,7 @@
       "id": "stipend-sh-f3a09445",
       "project": "stipend.sh",
       "project_description": "A non-custodial USDC wallet on Base for AI agents, with an MCP server and spending limits enforced below the instruction layer.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Tool Calling (Function Calling)"
       ],
@@ -3130,7 +3130,7 @@
       "id": "open-index-61a7a51c",
       "project": "Open Index",
       "project_description": "Open Index is a self-hosted context layer for domain-specialized AI agents, building searchable knowledge graphs with structured schemas, semantic search, and MCP read/write access.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Long-Term Memory"
       ],
@@ -3149,7 +3149,7 @@
       "id": "aiactguard-c01fc250",
       "project": "AIActGuard",
       "project_description": "AIActGuard provides EU AI Act compliance middleware for agentic AI, with audit trails, risk classification, and human-approval gates integrated into existing agent frameworks, plus tools for drafting supporting documentation.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Safety Guardrails (Safeguarding)"
       ],
@@ -3168,7 +3168,7 @@
       "id": "orkas-2f0402e0",
       "project": "Orkas",
       "project_description": "Orkas is a local-first desktop AI team where a commander coordinates specialist agents and local coding-agent runtimes, with support for user-provided model providers.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents",
         "Operating System (OS)"
@@ -3188,7 +3188,7 @@
       "id": "agent-kit-2a9a2020",
       "project": "agent-kit",
       "project_description": "agent-kit is a TypeScript toolkit for deploying multi-tenant AI agents with sandboxed execution, curated memory, and human-approved learning.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents"
       ],
@@ -3207,7 +3207,7 @@
       "id": "rote-a59c8bb2",
       "project": "rote",
       "project_description": "rote compiles proven agent skills into typed, deterministic Python or TypeScript pipelines, with tests for fixed steps and typed LLM-judge signatures for work requiring judgment.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Flow Engineering (Platform Engineering)"
       ],
@@ -3226,7 +3226,7 @@
       "id": "clawbench-f9d21885",
       "project": "ClawBench",
       "project_description": "ClawBench is an open-source benchmark for browser agents, with everyday tasks across live websites, execution traces, and request-level outcome evaluation.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Evaluation Frameworks"
       ],
@@ -3245,7 +3245,7 @@
       "id": "github-mcp-server-12135521",
       "project": "GitHub MCP Server",
       "project_description": "GitHub's official MCP server lets AI agents work with repositories, issues, pull requests, Actions, and code security through the Model Context Protocol.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "MCP Servers",
         "Tool Calling (Function Calling)"
@@ -3265,7 +3265,7 @@
       "id": "playwright-mcp-dc329fe7",
       "project": "Playwright MCP",
       "project_description": "Microsoft's Playwright MCP server gives agents structured, accessibility-tree-based control of a real browser.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "MCP Servers",
         "Web Browsing Frameworks"
@@ -3285,7 +3285,7 @@
       "id": "context7-a2ab3dbc",
       "project": "Context7",
       "project_description": "Context7 provides version-specific library documentation and code examples to agents through an MCP server.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "MCP Servers"
       ],
@@ -3304,7 +3304,7 @@
       "id": "serena-2dd22787",
       "project": "Serena",
       "project_description": "Serena is a coding-agent toolkit exposed as an MCP server, providing semantic code retrieval and editing through language-server-powered tools.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "MCP Servers"
       ],
@@ -3323,7 +3323,7 @@
       "id": "claude-agent-sdk-4c437a27",
       "project": "Claude Agent SDK",
       "project_description": "Anthropic's Python SDK for building agents with Claude using the Claude Code harness.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Development Frameworks"
       ],
@@ -3342,7 +3342,7 @@
       "id": "openai-agents-sdk-4f5a86ed",
       "project": "OpenAI Agents SDK",
       "project_description": "OpenAI's framework for building agent workflows with tools, handoffs, guardrails, sessions, and tracing.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Development Frameworks"
       ],
@@ -3361,7 +3361,7 @@
       "id": "google-adk-5acebe94",
       "project": "Google ADK",
       "project_description": "Google's open-source Agent Development Kit for building, evaluating, and deploying multi-agent systems.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Development Frameworks"
       ],
@@ -3380,7 +3380,7 @@
       "id": "smolagents-11d540d8",
       "project": "smolagents",
       "project_description": "Hugging Face's lightweight agent framework, including code agents that write and execute Python actions.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Development Frameworks",
         "Terminal-Friendly"
@@ -3400,7 +3400,7 @@
       "id": "agno-94fedef6",
       "project": "Agno",
       "project_description": "Agno is a model-agnostic framework for building multi-agent systems with memory, knowledge, and reasoning.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Development Frameworks"
       ],
@@ -3419,7 +3419,7 @@
       "id": "strands-agents-d92a6fa8",
       "project": "Strands Agents",
       "project_description": "AWS's model-driven SDK for building agents that use tools through a model-directed loop.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Development Frameworks"
       ],
@@ -3438,7 +3438,7 @@
       "id": "microsoft-agent-framework-fe4c45e8",
       "project": "Microsoft Agent Framework",
       "project_description": "Microsoft's framework for building AI agents and workflows, combining capabilities from AutoGen and Semantic Kernel.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Development Frameworks"
       ],
@@ -3457,7 +3457,7 @@
       "id": "mastra-70e3d593",
       "project": "Mastra",
       "project_description": "Mastra is a TypeScript framework for building AI agents, workflows, RAG applications, and evaluations.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Development Frameworks"
       ],
@@ -3476,7 +3476,7 @@
       "id": "model-context-protocol-ca32fc41",
       "project": "Model Context Protocol",
       "project_description": "An open protocol standard for connecting AI applications to tools and data sources through a client-server interface.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Standardization",
         "Tool Calling (Function Calling)"
@@ -3496,7 +3496,7 @@
       "id": "browser-use-508fcbb9",
       "project": "browser-use",
       "project_description": "browser-use lets AI agents interact with websites through a browser using page structure and vision.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Web Browsing Frameworks"
       ],
@@ -3515,7 +3515,7 @@
       "id": "crawl4ai-01313c1a",
       "project": "Crawl4AI",
       "project_description": "Crawl4AI is an open-source web crawler that produces Markdown and structured data for AI applications.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Web Browsing Frameworks"
       ],
@@ -3534,7 +3534,7 @@
       "id": "firecrawl-1e6cdc56",
       "project": "Firecrawl",
       "project_description": "Firecrawl turns websites into Markdown and structured data through crawl, scrape, and extract APIs.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Web Browsing Frameworks"
       ],
@@ -3553,7 +3553,7 @@
       "id": "stagehand-113e5977",
       "project": "Stagehand",
       "project_description": "Stagehand adds natural-language act, extract, and observe APIs to Playwright for browser automation.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Web Browsing Frameworks"
       ],
@@ -3572,7 +3572,7 @@
       "id": "baml-e51e82d7",
       "project": "BAML",
       "project_description": "BAML is a domain-specific language for building typed LLM functions with structured outputs and streaming.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Structured Outputs"
       ],
@@ -3591,7 +3591,7 @@
       "id": "the-agentic-leaderboard-af046ae4",
       "project": "The Agentic Leaderboard",
       "project_description": "The Agentic Leaderboard publishes weekly rankings of open-source AI agents across reliability, tool selection, autonomous iteration, and community signals, with public data and methodology.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Evaluation Frameworks"
       ],
@@ -3610,7 +3610,7 @@
       "id": "halo-record-1d1dc3fd",
       "project": "halo-record",
       "project_description": "halo-record creates tamper-evident, hash-chained records of AI agent tool calls, model calls, and data access, with verifiable reports and policy checks.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Observability Frameworks"
       ],
@@ -3629,7 +3629,7 @@
       "id": "lucinate-c564a7c3",
       "project": "lucinate",
       "project_description": "lucinate is a terminal-native AI chat client for OpenClaw, Hermes Agent, Ollama, and OpenAI-compatible backends, with routines and local skill management.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Terminal-Friendly"
       ],
@@ -3648,7 +3648,7 @@
       "id": "the-forge-7a4092fb",
       "project": "The Forge",
       "project_description": "The Forge coordinates LLMs to generate code candidates, compiles and benchmarks them, then evolves top candidates through mutation and selection.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Development Frameworks"
       ],
@@ -3667,7 +3667,7 @@
       "id": "ceki-mcp-server-36cf1cb6",
       "project": "Ceki MCP Server",
       "project_description": "Ceki's open-source MCP server connects agents to a hosted marketplace for real-browser sessions and human services, with companion Python and JavaScript SDKs.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "MCP Servers"
       ],
@@ -3702,7 +3702,7 @@
       "id": "zooid-0746bf43",
       "project": "Zooid",
       "project_description": "Zooid is a self-hostable team-chat surface built on Matrix where people supervise AI agents running as teammates with approval cards, tool calls, and live plans.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "UI Development"
       ],
@@ -3721,7 +3721,7 @@
       "id": "browserbash-4f17c8a1",
       "project": "BrowserBash",
       "project_description": "BrowserBash is a CLI and MCP server for running plain-English browser tests in Chrome and returning deterministic assertions and exit codes for agent-driven UI validation.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Evaluation Frameworks"
       ],
@@ -3740,7 +3740,7 @@
       "id": "tree-ring-memory-framework-fea481f7",
       "project": "Tree Ring Memory Framework",
       "project_description": "Tree Ring Memory is a framework-agnostic, local-first memory lifecycle for AI agents, with SQLite search, deliberate forgetting, audit logs, consolidation, and runtime adapters.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Long-Term Memory"
       ],
@@ -3759,7 +3759,7 @@
       "id": "corvinos-faf70d7a",
       "project": "CorvinOS",
       "project_description": "CorvinOS is a self-hosted agentic OS that connects local and cloud models to messaging platforms including Discord, Telegram, WhatsApp, Slack, and email.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents",
         "Local Inference",
@@ -3780,7 +3780,7 @@
       "id": "agentservices-eeab079a",
       "project": "AgentServices",
       "project_description": "AgentServices exposes crypto market and DeFi data to AI agents through a REST API and MCP server, with x402 micropayments for paid requests.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "MCP Servers"
       ],
@@ -3799,7 +3799,7 @@
       "id": "project-telos-d91fa2f3",
       "project": "Project Telos",
       "project_description": "Project Telos is a local-first MCP and CLI workbench for inspectable agent workflows, with provenance, routing ledgers, action receipts, context packs, diagnostics, and replayable verification packets.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Observability Frameworks",
         "Evaluation Frameworks"
@@ -3819,7 +3819,7 @@
       "id": "pilot-protocol-a6f802e0",
       "project": "Pilot Protocol",
       "project_description": "Pilot Protocol is an overlay network for AI agents, with permanent virtual addresses, encrypted UDP tunnels, NAT traversal, and per-peer trust controls.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Standardization"
       ],
@@ -3838,7 +3838,7 @@
       "id": "hermes-plant-101b966a",
       "project": "Hermes Plant",
       "project_description": "The open-source Hermes Plant MCP server connects agents to action safety and commerce assurance services for shell, Git, SQL, deployment, and x402 workflows.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Safety Guardrails (Safeguarding)",
         "MCP Servers"
@@ -3858,7 +3858,7 @@
       "id": "cogito-studio-4e924caa",
       "project": "Cogito Studio",
       "project_description": "Cogito Studio is a cross-platform desktop AI workspace built with Tauri, React, and Rust, offering multi-provider model access, MCP integration, workspace management, and local SQLite storage.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Personal Assistants",
         "UI Development"
@@ -3878,7 +3878,7 @@
       "id": "looptroop-ae527319",
       "project": "LoopTroop",
       "project_description": "LoopTroop is a local AI coding orchestrator that plans work with an LLM council, runs tasks in isolated Git worktrees, and retries failures with fresh context.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents"
       ],
@@ -3908,7 +3908,7 @@
       "id": "melaya-sdks-dd287ef0",
       "project": "Melaya SDKs",
       "project_description": "Nine official open-source SDKs for integrating applications with Melaya's APIs, covering authentication, agents, pipelines, device control, evaluations, and other public platform surfaces.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Development Frameworks"
       ],
@@ -3942,7 +3942,7 @@
       "id": "ax-dff5916a",
       "project": "ax",
       "project_description": "A local agent-experience graph for coding agents that captures sessions, recalls project context, and turns recurring workflow friction into reviewable improvements.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Observability Frameworks",
         "Terminal-Friendly"
@@ -3974,7 +3974,7 @@
       "id": "notfair-be12e26b",
       "project": "NotFair",
       "project_description": "Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads, with integrations that read live account and analytics data.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents"
       ],
@@ -4006,7 +4006,7 @@
       "id": "gcf-graph-compact-format-03bce462",
       "project": "GCF (Graph Compact Format)",
       "project_description": "An AI-native structured-data wire format with implementations in six languages and a proxy for adopting compact agent tool responses.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Standardization",
         "Tool Calling (Function Calling)"
@@ -4039,7 +4039,7 @@
       "id": "narranexus-f15a7ddf",
       "project": "NarraNexus",
       "project_description": "An open-source AI team workspace for persistent agent identity and memory, multi-agent collaboration, and long-running work across connected channels.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents",
         "Long-Term Memory"
@@ -4070,7 +4070,7 @@
       "id": "nanocoder-ae83de57",
       "project": "Nanocoder",
       "project_description": "A local-first terminal coding agent that connects to user-selected models and supports tool calling, MCP, and custom commands.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents",
         "Terminal-Friendly",
@@ -4104,7 +4104,7 @@
       "id": "hagicode-desktop-f7fdd18b",
       "project": "HagiCode Desktop",
       "project_description": "An Electron desktop app for installing, running, monitoring, and updating HagiCode Server, with local resource monitoring and agent executor selection.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Development Frameworks",
         "UI Development"
@@ -4135,7 +4135,7 @@
       "id": "ai-for-database-mcp-server-3dc1f30f",
       "project": "AI for Database MCP Server",
       "project_description": "An open-source MCP server connecting agents to AI for Database's hosted API for scoped database queries, schema inspection, scheduled workflows, and dashboards.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "MCP Servers",
         "Tool Calling (Function Calling)"
@@ -4168,7 +4168,7 @@
       "id": "due-diligence-agents-91c1d2ef",
       "project": "Due Diligence Agents",
       "project_description": "A local forensic M\u0026A due-diligence application that coordinates specialist agents across nine domains and traces findings to source pages and quotations.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents"
       ],
@@ -4197,7 +4197,7 @@
       "id": "agentbox-d0042763",
       "project": "AgentBox",
       "project_description": "Run multiple coding agents in parallel inside isolated local Docker containers or cloud virtual machines, with per-box browser and VS Code access.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents",
         "Development Frameworks"
@@ -4230,7 +4230,7 @@
       "id": "xmacna-funcionario-digital-agentget-pack-9d12bb04",
       "project": "XMACNA Funcionario Digital AgentGet Pack",
       "project_description": "An installable AgentGet knowledge pack and Claude Code agent for designing AI sales workflows, including WhatsApp lead qualification, CRM hygiene, and supervised business automation.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents"
       ],
@@ -4259,7 +4259,7 @@
       "id": "agent-teams-e69b7b99",
       "project": "Agent Teams",
       "project_description": "A desktop app for directing autonomous coding-agent teams through Kanban tasks, shared messaging, code review, and approvals.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents"
       ],
@@ -4291,7 +4291,7 @@
       "id": "maestro-b4cb1f75",
       "project": "Maestro",
       "project_description": "A desktop command center for running multiple AI coding agents in parallel, automating sessions with event cues and playbooks, and coordinating local and remote agents.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents",
         "Flow Engineering (Platform Engineering)"
@@ -4325,7 +4325,7 @@
       "id": "hvtracker-6ecfca86",
       "project": "HVTracker",
       "project_description": "An open-source trust registry that aggregates public evidence about AI agents and MCP servers, with project comparisons, score history, and machine-readable data.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Safety Guardrails (Safeguarding)"
       ],
@@ -4355,7 +4355,7 @@
       "id": "winkterm-097f18c8",
       "project": "WinkTerm",
       "project_description": "A self-hosted AI terminal that shares the user's PTY, drafts commands in the terminal input for review, and supports SSH and agent integrations.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents",
         "Terminal-Friendly"
@@ -4388,7 +4388,7 @@
       "id": "n3rv-formerly-nerv-25079ba6",
       "project": "n3rv (formerly NERV)",
       "project_description": "A runtime library and config generator for OpenCode agent workspaces, with provider abstraction, A2A task delegation, persistent memory, and MCP servers.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Development Frameworks"
       ],
@@ -4419,7 +4419,7 @@
       "id": "hermes-agent-chinese-pack-001658cb",
       "project": "Hermes Agent Chinese Pack",
       "project_description": "A Chinese language and workflow enhancement pack for Hermes Agent desktop, TUI, and CLI, with localized prompts, gateway guidance, pairing approvals, and installation tools.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Personal Assistants"
       ],
@@ -4450,7 +4450,7 @@
       "id": "routeweiler-7018e996",
       "project": "Routeweiler",
       "project_description": "An async HTTP client for autonomous agents that handles HTTP 402 payments across multiple payment rails, enforces spend policies, recovers credentials, and emits audit traces.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents",
         "Tool Calling (Function Calling)"
@@ -4479,7 +4479,7 @@
       "id": "authsome-a341d484",
       "project": "Authsome",
       "project_description": "A local credential broker for AI agents that stores credentials in an encrypted vault and injects them through a local HTTPS proxy, keeping raw secrets away from agent processes.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents",
         "Safety Guardrails (Safeguarding)"
@@ -4509,7 +4509,7 @@
       "id": "the-polyglot-protocol-d29f469c",
       "project": "The Polyglot Protocol",
       "project_description": "A portable set of standards for AI coding agents covering repository discovery, language selection, development workflows, and post-generation audits.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Standardization"
       ],
@@ -4539,7 +4539,7 @@
       "id": "agent-platform-b2f241e7",
       "project": "Agent Platform",
       "project_description": "A lightweight, stateless platform for discovering and routing requests between AI agents through an HTTP and JSON API.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents"
       ],
@@ -4568,7 +4568,7 @@
       "id": "sparkbtcbot-skill-2c47c77b",
       "project": "sparkbtcbot-skill",
       "project_description": "A self-custodial Spark Bitcoin wallet skill for AI agents, supporting BTC transfers, Lightning invoices, L402 payments, token operations, and merchant purchases with payment guardrails.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Bitcoin"
       ],
@@ -4597,7 +4597,7 @@
       "id": "agent-stack-183ef41a",
       "project": "Agent Stack",
       "project_description": "A set of small, single-purpose libraries that improve reliability in production LLM agents through tool validation, network controls, trace tests, context fitting, structured output checks, and usage budgets.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents",
         "Safety Guardrails (Safeguarding)"
@@ -4627,7 +4627,7 @@
       "id": "tealtiger-685d4fcd",
       "project": "TealTiger",
       "project_description": "An open-source security and governance SDK for AI applications, providing deterministic policy enforcement, guardrails, cost tracking, and audit evidence.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Safety Guardrails (Safeguarding)"
       ],
@@ -4657,7 +4657,7 @@
       "id": "openclaw-monitor-b5ef5695",
       "project": "OpenClaw Monitor",
       "project_description": "An offline web dashboard for OpenClaw that monitors agent sessions, scheduled tasks, token usage, message trends, and local system metrics.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents"
       ],
@@ -4686,7 +4686,7 @@
       "id": "agenttrace-674d764f",
       "project": "AgentTrace",
       "project_description": "A local-first terminal interface and report generator for reviewing AI coding-agent sessions, usage costs, latency, failures, and run health.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Observability Frameworks",
         "Terminal-Friendly"
@@ -4717,7 +4717,7 @@
       "id": "cycles-4b687a48",
       "project": "Cycles",
       "project_description": "A self-hosted runtime authority for AI agents that enforces budgets, risk limits, and tool-action policies before execution through a concurrency-safe reservation lifecycle.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents",
         "Safety Guardrails (Safeguarding)",
@@ -4749,7 +4749,7 @@
       "id": "arachne-29477634",
       "project": "Arachne",
       "project_description": "A DSPy-native runtime that turns natural-language goals into inspectable agent graphs, executes independent steps in parallel, evaluates results, and can repair failed runs.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents",
         "Development Frameworks"
@@ -4779,7 +4779,7 @@
       "id": "kubestellar-console-47599080",
       "project": "KubeStellar Console",
       "project_description": "A self-hosted multi-cluster Kubernetes dashboard with an AI operations agent that connects language models to live clusters through MCP.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents",
         "Tool Calling (Function Calling)"
@@ -4810,7 +4810,7 @@
       "id": "promptise-foundry-4633ed4b",
       "project": "Promptise Foundry",
       "project_description": "A Python framework for building and running AI agents with integrated tools, controllable reasoning, memory, security, governance, and observability.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents",
         "Development Frameworks"
@@ -4840,7 +4840,7 @@
       "id": "k8s4claw-04b930dd",
       "project": "k8s4claw",
       "project_description": "A Kubernetes operator for deploying and managing AI agent runtimes, with bounded self-healing that keeps LLMs out of the cluster's workload write path.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents",
         "Development Frameworks",
@@ -4872,7 +4872,7 @@
       "id": "agent-express-9c07f8a8",
       "project": "Agent Express",
       "project_description": "A minimalist TypeScript middleware framework for building AI agents with composable guards, model routing, memory, testing, and observability.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Development Frameworks",
         "Safety Guardrails (Safeguarding)",
@@ -4903,7 +4903,7 @@
       "id": "opentwins-58131b19",
       "project": "OpenTwins",
       "project_description": "A local-first CLI and dashboard for running autonomous digital-twin agents across social platforms, with content workflows, scheduling, and browser automation.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents",
         "Personal Assistants"
@@ -4933,7 +4933,7 @@
       "id": "corellis-0f33a0f4",
       "project": "Corellis",
       "project_description": "An OpenClaw-based multi-agent workforce framework with shared team memory, goal decomposition, fleet learning, task management, and approval workflows.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents",
         "Long-Term Memory",
@@ -4965,7 +4965,7 @@
       "id": "agx-c035de3b",
       "project": "AGX",
       "project_description": "A local workspace for coordinating AI coding agents across tickets, repositories, and pull requests, with project tracking, retained context, and human approval gates.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents",
         "Development Frameworks"
@@ -4996,7 +4996,7 @@
       "id": "operant-mcp-6bc74d23",
       "project": "Operant MCP",
       "project_description": "An open-source MCP server that gives AI agents a toolkit for security testing, network forensics, and vulnerability assessment.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Tool Calling (Function Calling)"
       ],
@@ -5024,7 +5024,7 @@
       "id": "memclaw-cbf3659a",
       "project": "MemClaw",
       "project_description": "A persistent memory tool for AI coding agents that isolates workspaces by project and provides a dashboard for reviewing and managing stored context.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Long-Term Memory"
       ],
@@ -5053,7 +5053,7 @@
       "id": "cryptoguard-389d21ed",
       "project": "CryptoGuard",
       "project_description": "A pre-transaction safety hook for AI agents that assesses crypto contract and token risks using security-oracle data and bytecode analysis.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents",
         "Safety Guardrails (Safeguarding)"
@@ -5083,7 +5083,7 @@
       "id": "gptme-72c59893",
       "project": "gptme",
       "project_description": "A provider-agnostic personal AI agent that runs in terminals from laptops and remote servers, with local tools for coding and general knowledge work.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents",
         "Development Frameworks",
@@ -5115,7 +5115,7 @@
       "id": "sonzai-go-sdk-85cbff33",
       "project": "Sonzai Go SDK",
       "project_description": "An open-source Go client for the hosted Sonzai Mind Layer API, providing agent runtimes with memory context, turn persistence, and voice services.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Long-Term Memory",
         "Development Frameworks"
@@ -5144,7 +5144,7 @@
       "id": "agentfield-10bcc388",
       "project": "AgentField",
       "project_description": "An open-source control plane for building and operating AI agents as callable services, with routing, coordination, asynchronous execution, memory, and observability.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents",
         "Development Frameworks",
@@ -5177,7 +5177,7 @@
       "id": "agent-trust-stack-mcp-server-eb5b37a1",
       "project": "Agent Trust Stack MCP Server",
       "project_description": "An MCP server for AI agents providing cryptographic activity provenance, chain integrity checks, agent identity verification, and reputation tools.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents",
         "Safety Guardrails (Safeguarding)",
@@ -5207,7 +5207,7 @@
       "id": "flow-weaver-acf6af92",
       "project": "Flow Weaver",
       "project_description": "A deterministic TypeScript workflow compiler that turns JSDoc-annotated functions into standalone workflow code you can inspect, test, and own.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents",
         "Development Frameworks"
@@ -5238,7 +5238,7 @@
       "id": "kitaru-ef03593d",
       "project": "Kitaru",
       "project_description": "An open-source replay-based evaluation toolkit for AI agents that records or imports production traces as sessions and reruns them against model, prompt, or code changes.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Evaluation Frameworks",
         "Observability Frameworks"
@@ -5269,7 +5269,7 @@
       "id": "moss-2c68906a",
       "project": "Moss",
       "project_description": "An open-source semantic search runtime for conversational AI agents, combining vector and keyword retrieval, built-in embeddings, metadata filters, and browser WebAssembly support.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Long-Term Memory"
       ],
@@ -5300,7 +5300,7 @@
       "id": "sidclaw-791d4357",
       "project": "SidClaw",
       "project_description": "An agent governance platform that intercepts tool calls for policy checks, human approval, and auditable traces.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Safety Guardrails (Safeguarding)"
       ],
@@ -5329,7 +5329,7 @@
       "id": "overloop-cli-9d2edea8",
       "project": "Overloop CLI",
       "project_description": "A command-line client for managing prospects, sourcing, campaigns, and sales outreach through the Overloop API.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents"
       ],
@@ -5357,7 +5357,7 @@
       "id": "max-cli-03109231",
       "project": "Max CLI",
       "project_description": "A lead-intelligence CLI for discovering prospects and managing lead-generation subscriptions and workflows.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents"
       ],
@@ -5385,7 +5385,7 @@
       "id": "agent-skills-runtime-orca-8a1e0517",
       "project": "Agent Skills Runtime (ORCA)",
       "project_description": "A runtime for executing reusable agent skills with backend-agnostic capability contracts, policy and safety controls, and traceability.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Development Frameworks"
       ],
@@ -5414,7 +5414,7 @@
       "id": "cortex-ce64191e",
       "project": "Cortex",
       "project_description": "An open protocol for coordinating AI agent teams through shared Markdown task files and a chief-of-staff workflow.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Development Frameworks"
       ],
@@ -5443,7 +5443,7 @@
       "id": "hol-standards-sdk-86755d5f",
       "project": "HOL Standards SDK",
       "project_description": "A TypeScript SDK implementing Hashgraph Online Consensus Standards, with Registry Broker clients for agent discovery and chat.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Development Frameworks",
         "Standardization"
@@ -5472,7 +5472,7 @@
       "id": "oixa-protocol-89c5e494",
       "project": "OIXA Protocol",
       "project_description": "An agent-to-agent marketplace protocol for capability discovery, reverse auctions, task verification, and USDC escrow payments.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Development Frameworks"
       ],
@@ -5501,7 +5501,7 @@
       "id": "akf-3271836f",
       "project": "AKF",
       "project_description": "An AI-native file format and toolchain for carrying provenance, evidence, and verification metadata with files.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Standardization",
         "Safety Guardrails (Safeguarding)"
@@ -5532,7 +5532,7 @@
       "id": "skillflow-mcp-server-45af1af3",
       "project": "SkillFlow MCP Server",
       "project_description": "An MCP server that lets AI coding agents search, discover, and evaluate skills from the SkillFlow marketplace.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Development Frameworks"
       ],
@@ -5559,7 +5559,7 @@
       "id": "cortex-memory-aa6cd054",
       "project": "Cortex Memory",
       "project_description": "A local-first memory tool for AI coding assistants that captures project context and carries it across sessions.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Long-Term Memory"
       ],
@@ -5588,7 +5588,7 @@
       "id": "b2b-sdr-agent-template-0cc5b99a",
       "project": "B2B SDR Agent Template",
       "project_description": "An OpenClaw-based AI sales development representative template for managing B2B export leads across a multi-stage sales pipeline.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents"
       ],
@@ -5618,7 +5618,7 @@
       "id": "profitplay-starter-882a70a9",
       "project": "ProfitPlay Starter",
       "project_description": "An open prediction-market benchmark and starter template for building autonomous AI trading agents.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents"
       ],
@@ -5648,7 +5648,7 @@
       "id": "coworker-protocol-8916a1b6",
       "project": "CoWorker Protocol",
       "project_description": "A peer-to-peer protocol for serving and invoking agent skills over XMTP with encrypted communication and revocable trust.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Development Frameworks",
         "Standardization"
@@ -5678,7 +5678,7 @@
       "id": "awesome-openclaw-agents-4a0d5ca9",
       "project": "Awesome OpenClaw Agents",
       "project_description": "A community-maintained collection of OpenClaw agent templates with personas, tool bindings, memory rules, and operating schedules.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents"
       ],
@@ -5706,7 +5706,7 @@
       "id": "agentstamp-b04286fa",
       "project": "AgentStamp",
       "project_description": "An agent identity and trust platform providing signed credentials, registry discovery, reputation scoring, and verification tools.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Safety Guardrails (Safeguarding)",
         "Standardization"
@@ -5737,7 +5737,7 @@
       "id": "teamhero-970f58a2",
       "project": "TeamHero",
       "project_description": "A self-hosted workspace for coordinating AI agent teams with structured tasks, persistent memory, and file-conflict controls.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Development Frameworks",
         "Long-Term Memory"
@@ -5767,7 +5767,7 @@
       "id": "connectonion-4e4b8df7",
       "project": "ConnectOnion",
       "project_description": "A Python CLI harness that lets coding agents access local tools such as Gmail, a browser, and files from their shell.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Development Frameworks",
         "Tool Calling (Function Calling)"
@@ -5797,7 +5797,7 @@
       "id": "fazm-31fc75e0",
       "project": "Fazm",
       "project_description": "A local macOS AI computer agent that uses voice and visual context to operate apps, browsers, documents, and workflows.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents",
         "Operating System (OS)"
@@ -5827,7 +5827,7 @@
       "id": "orch-a4e30813",
       "project": "ORCH",
       "project_description": "A CLI runtime for running and coordinating teams of AI agents on parallel tasks with shared state and review workflows.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Development Frameworks"
       ],
@@ -5856,7 +5856,7 @@
       "id": "kodo-e5c8c87b",
       "project": "Kodo",
       "project_description": "An autonomous multi-agent coding orchestrator that runs coding agents through work cycles with independent verification.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Development Frameworks"
       ],
@@ -5885,7 +5885,7 @@
       "id": "arch-tools-c13612a4",
       "project": "Arch Tools",
       "project_description": "A multi-tool API and MCP server for AI agents, with x402 micropayments and tools for web, AI, crypto, and media workflows.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Development Frameworks",
         "Tool Calling (Function Calling)"
@@ -5915,7 +5915,7 @@
       "id": "titan-d29491d6",
       "project": "TITAN",
       "project_description": "A local-first AI agent framework for running specialist agents with shared memory, tools, approvals, and mission control.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents",
         "Development Frameworks"
@@ -5946,7 +5946,7 @@
       "id": "omega-memory-19a6554f",
       "project": "OMEGA Memory",
       "project_description": "A local-first, cross-model memory system that helps AI agents retain context, coordinate, and learn between sessions.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Long-Term Memory"
       ],
@@ -5975,7 +5975,7 @@
       "id": "writbase-f322a12b",
       "project": "WritBase",
       "project_description": "An MCP-native task control plane for AI agent teams, with persistent tasks, scoped permissions, delegation, and provenance.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Development Frameworks"
       ],
@@ -6003,7 +6003,7 @@
       "id": "hive-244fd49d",
       "project": "Hive",
       "project_description": "A model-agnostic runtime for production AI agent teams, with dynamic worker colonies, shared task state, and human oversight.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Development Frameworks"
       ],
@@ -6032,7 +6032,7 @@
       "id": "sage-1c03b58f",
       "project": "SAGE",
       "project_description": "Persistent, consensus-validated memory infrastructure for AI agents, with confidence scoring and natural memory decay.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Long-Term Memory",
         "Safety Guardrails (Safeguarding)"
@@ -6062,7 +6062,7 @@
       "id": "stoneforge-0bbc804b",
       "project": "Stoneforge",
       "project_description": "A web dashboard and local runtime for orchestrating parallel AI coding agents, with task dispatch and isolated workspaces.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Development Frameworks"
       ],
@@ -6091,7 +6091,7 @@
       "id": "steel-browser-70821bcd",
       "project": "Steel Browser",
       "project_description": "An open-source browser API and sandbox that provides managed browser sessions for AI agents and web automation.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Web Browsing Frameworks"
       ],
@@ -6120,7 +6120,7 @@
       "id": "dorothy-53307232",
       "project": "Dorothy",
       "project_description": "A desktop workspace for orchestrating, monitoring, and automating multiple AI coding agents.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents",
         "Development Frameworks"
@@ -6149,7 +6149,7 @@
       "id": "agents-squads-dc0de383",
       "project": "Agents Squads",
       "project_description": "Agents Squads is a CLI for defining and running autonomous AI squads with persistent memory, shared goals, git-backed state, and verification across engineering, research, product, and operations.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Development Frameworks"
       ],
@@ -6176,7 +6176,7 @@
       "id": "remembra-1c28c092",
       "project": "Remembra",
       "project_description": "Remembra is a self-hosted semantic memory system for AI agents, with persistent memory, retrieval, knowledge graph features, and integrations for agent frameworks and MCP.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Long-Term Memory"
       ],
@@ -6205,7 +6205,7 @@
       "id": "hivekeep-3362a961",
       "project": "Hivekeep",
       "project_description": "Hivekeep is a self-hosted platform of persistent AI agents that remember, collaborate, and respond across connected channels, packaged to run on your own server.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents",
         "Personal Assistants"
@@ -6234,7 +6234,7 @@
       "id": "autohand-code-cli-4245e31b",
       "project": "Autohand Code CLI",
       "project_description": "Autohand Code CLI is a terminal-native AI coding agent that plans and edits code, runs tools, and supports testing, memory, skills, and permission controls.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Development Frameworks"
       ],
@@ -6261,7 +6261,7 @@
       "id": "openclaw-c090c143",
       "project": "OpenClaw",
       "project_description": "OpenClaw is a personal AI assistant that runs on your own devices and connects to messaging channels, tools, skills, scheduled tasks, and memory.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents",
         "Personal Assistants"
@@ -6291,7 +6291,7 @@
       "id": "human-pages-mcp-server-8dd5829b",
       "project": "Human Pages MCP Server",
       "project_description": "Human Pages MCP Server lets AI agents find, hire, and coordinate people for tasks that require real-world human work, including testing, localization, and community operations.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "MCP Servers"
       ],
@@ -6318,7 +6318,7 @@
       "id": "openpaw-73479b0f",
       "project": "OpenPaw",
       "project_description": "OpenPaw turns Claude Code into a personal assistant by installing skills and tools for email, calendars, smart home, and other services, with persistent memory, Telegram access, scheduling, and a local task dashboard.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Personal Assistants"
       ],
@@ -6346,7 +6346,7 @@
       "id": "agent-reach-5f98c79f",
       "project": "Agent Reach",
       "project_description": "Agent Reach installs and checks internet access tools for AI agents, routing search and platform access through supported CLIs and services.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Development Frameworks"
       ],
@@ -6373,7 +6373,7 @@
       "id": "openagents-00adb163",
       "project": "OpenAgents",
       "project_description": "OpenAgents is an open-source workspace where AI agents connect and collaborate, with an agent launcher, shared workspace, and support for agent protocols and SDKs.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents",
         "Development Frameworks"
@@ -6402,7 +6402,7 @@
       "id": "snaprender-1243aefe",
       "project": "SnapRender",
       "project_description": "SnapRender is a screenshot API for agent workflows, with a remote MCP server and SDK integrations for capturing websites as images or PDFs.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "MCP Servers"
       ],
@@ -6431,7 +6431,7 @@
       "id": "mysti-b1ef9ba2",
       "project": "Mysti",
       "project_description": "Mysti is a VS Code AI coding team that connects multiple agent backends and supports collaborative brainstorming, red-teaming, and persistent coding conversations.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents"
       ],
@@ -6458,7 +6458,7 @@
       "id": "aport-agent-guardrails-f5cb2fcf",
       "project": "APort Agent Guardrails",
       "project_description": "APort Agent Guardrails evaluates tool actions before execution and applies configurable authorization policies for agent frameworks, including OpenClaw.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Safety Guardrails (Safeguarding)"
       ],
@@ -6486,7 +6486,7 @@
       "id": "hivemoot-e5563a20",
       "project": "Hivemoot",
       "project_description": "Hivemoot runs a team of AI agents on GitHub repositories, where agents propose work, debate in issues, implement changes, review pull requests, and vote on decisions.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents"
       ],
@@ -6515,7 +6515,7 @@
       "id": "opik-09b2c58d",
       "project": "Opik",
       "project_description": "Opik is an open-source platform for LLM and agent observability, tracing, evaluation, prompt management, and production monitoring.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Evaluation Frameworks"
       ],
@@ -6544,7 +6544,7 @@
       "id": "golemcore-bot-baeecb81",
       "project": "GolemCore Bot",
       "project_description": "GolemCore Bot is an agent platform for AI-native teams, with channel-connected agents, skills, plugins, MCP servers, memory, and execution tracing.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Development Frameworks"
       ],
@@ -6573,7 +6573,7 @@
       "id": "cuga-bab22d4c",
       "project": "CUGA",
       "project_description": "CUGA is an enterprise agent harness for configuring and deploying generalist agents across API and web workflows, with tool orchestration, safety policies, and evaluation.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Development Frameworks"
       ],
@@ -6602,7 +6602,7 @@
       "id": "quorum-1bf8f788",
       "project": "Quorum",
       "project_description": "Quorum lets multiple AI models and agent CLIs conduct structured debates using formal methods, critique, and synthesis, through a terminal UI, MCP, and a web version.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents"
       ],
@@ -6631,7 +6631,7 @@
       "id": "sayna-39b4fcb4",
       "project": "Sayna",
       "project_description": "Sayna is a self-hosted real-time voice server that provides speech-to-text and text-to-speech through WebSocket and REST APIs, with provider integrations, LiveKit streaming, and SIP telephony.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Real-Time",
         "Development Frameworks"
@@ -6660,7 +6660,7 @@
       "id": "cline-3a82ca4f",
       "project": "Cline",
       "project_description": "Cline is an open-source coding agent available in IDEs, terminals, and desktop, where it can plan and carry out software development tasks with user control.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents"
       ],
@@ -6689,7 +6689,7 @@
       "id": "metorial-08c154bf",
       "project": "Metorial",
       "project_description": "Metorial is an open-source control plane for agent access to external systems, standardizing integrations with shared authentication, permissions, and observability.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "MCP Servers"
       ],
@@ -6718,7 +6718,7 @@
       "id": "giselle-1427cc25",
       "project": "Giselle",
       "project_description": "Giselle is an open-source visual studio for building and running AI agent workflows that combine models, tools, and data sources to deliver products.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents"
       ],
@@ -6745,7 +6745,7 @@
       "id": "julep-d03c5d19",
       "project": "Julep",
       "project_description": "Julep builds durable, composable AI agents as workflows that can resume after failures, retry safely, and expose step-by-step execution.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Development Frameworks"
       ],
@@ -6773,7 +6773,7 @@
       "id": "agent-007-30aa7b68",
       "project": "Agent 007",
       "project_description": "A self-hosted job board that runs coding agents in isolated Git worktrees, queues jobs, and returns pull requests or summaries for review.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents"
       ],
@@ -6801,7 +6801,7 @@
       "id": "unified-ai-system-8e1a4389",
       "project": "Unified AI System",
       "project_description": "A self-hosted AI gateway and control plane that exposes governed MCP tools, converts OpenAPI services to MCP, and proxies compatible model APIs with virtual-key budgets, caching, and audit.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "Development Frameworks",
         "Tool Calling (Function Calling)"
@@ -6829,10 +6829,46 @@
       ]
     },
     {
+      "id": "svrf-5f4cb8c4",
+      "project": "SVRF",
+      "project_description": "SVRF is a merge train that batches, gates and lands pull requests for repositories where coding agents open pull requests faster than CI can gate them one by one; it ships an MCP server (svrf mcp) so an agent whose pull request is held can query why and fix it itself.",
+      "has_public_repository": true,
+      "categories": [
+        "MCP Servers"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/nybarius/SVRF",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-25T22:20:53Z",
+          "repository_status": "active"
+        }
+      ]
+    },
+    {
+      "id": "salt-mcp-d57199ed",
+      "project": "Salt MCP",
+      "project_description": "MCP server for Salt, an end-to-end encrypted chat where humans and AI agents are equal contacts and can message, ask each other for approval, and pay each other. The local stdio server runs one agent identity with its own key; a hosted OAuth endpoint lets any MCP client connect a keyless agent with no setup.",
+      "has_public_repository": true,
+      "categories": [
+        "MCP Servers"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/0000F8/salt-mcp",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-27T20:42:58Z",
+          "repository_status": "active"
+        }
+      ]
+    },
+    {
       "id": "raven-b33fe15d",
       "project": "Raven",
       "project_description": "Raven is an open-source host agent that plans complex tasks as DAGs and orchestrates built-in research, coding, design, and on-call agents plus third-party agents such as Claude Code, Codex, OpenClaw, and Hermes Agent over ACP, CLI, or OpenAI-compatible APIs.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "AI Agents"
       ],
@@ -6855,7 +6891,7 @@
           "repository_owner": "EverMind-AI",
           "repository_owner_url": "https://github.com/EverMind-AI",
           "stars_last_updated": null,
-          "repository_checked_at": "2026-09-29T00:29:17Z",
+          "repository_checked_at": "2026-09-29T19:49:15Z",
           "repository_status": "active"
         }
       ]

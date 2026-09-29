@@ -2635,6 +2635,16 @@ Here's an awesome list of AI agents:
 <p><strong>Interfaces:</strong> Desktop app · Go CLI · MCP server</p>
 </div>
 
+### Salt MCP
+<div><a href="https://github.com/0000F8/salt-mcp"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/0000F8/salt-mcp"><img src="https://img.shields.io/github/stars/0000F8/salt-mcp?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/0000F8">@0000F8</a></p>
+<p>🔌 MCP Servers</p>
+
+<p>MCP server for Salt, an end-to-end encrypted chat where humans and AI agents are equal contacts and can message, ask each other for approval, and pay each other. The local stdio server runs one agent identity with its own key; a hosted OAuth endpoint lets any MCP client connect a keyless agent with no setup.</p>
+
+<p><a href="https://github.com/0000F8/salt-mcp">github</a></p>
+</div>
+
 ### SandBase Harness
 <div><a href="https://github.com/sandbaseai/sandbase-harness"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/sandbaseai/sandbase-harness"><img src="https://img.shields.io/github/stars/sandbaseai/sandbase-harness?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/sandbaseai">@sandbaseai</a></p>
@@ -2890,6 +2900,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/pungme/superagent-desktop">github</a></p>
 <p><strong>Capabilities:</strong> Browser automation · iOS Simulator interaction · Remote agent supervision</p>
 <p><strong>Interfaces:</strong> macOS desktop app · iOS companion app · Claude Code and Codex</p>
+</div>
+
+### SVRF
+<div><a href="https://github.com/nybarius/SVRF"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/nybarius/SVRF"><img src="https://img.shields.io/github/stars/nybarius/SVRF?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/nybarius">@nybarius</a></p>
+<p>🔌 MCP Servers</p>
+
+<p>SVRF is a merge train that batches, gates and lands pull requests for repositories where coding agents open pull requests faster than CI can gate them one by one; it ships an MCP server (svrf mcp) so an agent whose pull request is held can query why and fix it itself.</p>
+
+<p><a href="https://github.com/nybarius/SVRF">github</a></p>
 </div>
 
 ### Swarms

@@ -24,7 +24,7 @@ Pull requests are welcome for direct edits. `awesome-agents.json` is the canonic
   "id": "project-name-a1b2c3d4",
   "project": "Project name",
   "project_description": "A concise, evidence-backed description of the agent and its useful behavior.",
-  "project_is_open_source": true,
+  "has_public_repository": true,
   "categories": ["AI Agents"],
   "sources": [
     {
@@ -38,7 +38,7 @@ Pull requests are welcome for direct edits. `awesome-agents.json` is the canonic
 }
 ```
 
-Use an existing category from `awesome-categories.yaml`. Describe observable capabilities accurately; do not infer features from marketing claims alone. The `project_is_open_source` value is derived from a successful forge metadata check, not from the contributor's assertion. For a single-project change, run these targeted commands from the repository root before opening a pull request, replacing the placeholder with the exact `project` value:
+Use an existing category from `awesome-categories.yaml`. Describe observable capabilities accurately; do not infer features from marketing claims alone. The `has_public_repository` value is derived from a successful forge metadata check, not from the contributor's assertion. For a single-project change, run these targeted commands from the repository root before opening a pull request, replacing the placeholder with the exact `project` value:
 
 ```sh
 go run ./cmd/contributions assign-ids
