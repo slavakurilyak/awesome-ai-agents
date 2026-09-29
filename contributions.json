@@ -909,6 +909,19 @@
           "founder_team_claim": true
         }
       ]
+    },
+    {
+      "project_id": "busabase-3f0a0822",
+      "submitted_by": [
+        {
+          "github_id": 12862508,
+          "login": "ranglang",
+          "evidence_url": "https://github.com/slavakurilyak/awesome-ai-agents/issues/632",
+          "acceptance_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/663",
+          "at": "2026-09-28T02:15:22Z",
+          "status": "accepted_submission"
+        }
+      ]
     }
   ]
 }
