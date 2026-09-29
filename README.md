@@ -2288,6 +2288,18 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/openai/openai-agents-python">github</a></p>
 </div>
 
+### OpenBot
+<div><a href="https://github.com/regnull/openbot"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/regnull/openbot"><img src="https://img.shields.io/github/stars/regnull/openbot?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/regnull">@regnull</a> <small>(self-reported founder/team)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/640">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/653">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/regnull">@regnull</a></p>
+<p>🤖 AI Agents | 🧠 Long-Term Memory</p>
+
+<p>OpenBot is an open-source self-hosted platform for running a team of persistent AI bots that wake on incoming messages, use shell, HTTP, custom Python and MCP tools, keep long term memory, and pause for human approval.</p>
+
+<p><a href="https://github.com/regnull/openbot">github</a></p>
+<p><strong>Capabilities:</strong> Run named bots with their own instructions, tools and long term memory that wake when mail arrives · Hand a thread from one bot to another with an @mention, with a hop limit that stops runaway loops · Pause and ask a human before a sensitive action</p>
+<p><strong>Interfaces:</strong> Web UI · HTTP API · MCP</p>
+</div>
+
 ### OpenClaw
 <div><a href="https://github.com/openclaw/openclaw"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/openclaw/openclaw"><img src="https://img.shields.io/github/stars/openclaw/openclaw?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/openclaw">@openclaw</a></p>
@@ -2446,6 +2458,18 @@ Here's an awesome list of AI agents:
 <p>A versatile answer engine leveraging Groq, Mistral AI, Langchain.JS, Brave Search, Serper API, and OpenAI to deliver efficient and sophisticated responses with reduced hallucination through RAG for citation-backed search queries</p>
 
 <p><a href="https://github.com/developersdigest/llm-answer-engine">github</a> | <a href="https://github.com/developersdigest">github profile</a></p>
+</div>
+
+### PersonalJarvis
+<div><a href="https://github.com/PersonalJarvis/PersonalJarvis"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/PersonalJarvis/PersonalJarvis"><img src="https://img.shields.io/github/stars/PersonalJarvis/PersonalJarvis?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/rubenluetke10-beep">@rubenluetke10-beep</a> <small>(self-reported founder/team)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/637">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/652">accepted PR</a> · <strong>Maintained by:</strong> <a href="https://github.com/rubenluetke10-beep">@rubenluetke10-beep</a> <small>(self-reported)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/637">evidence</a> · <strong>Repository owner:</strong> <a href="https://github.com/PersonalJarvis">@PersonalJarvis</a></p>
+<p>👤 Personal Assistants</p>
+
+<p>PersonalJarvis is an open-source desktop AI assistant with a custom wake phrase and local speech to text that runs background agents, uses the browser and desktop, and supervises coding agents such as Claude Code and Codex in an Agentic IDE.</p>
+
+<p><a href="https://github.com/PersonalJarvis/PersonalJarvis">github</a></p>
+<p><strong>Capabilities:</strong> Answer to a custom wake phrase by voice or chat, with local speech to text · Run background agents, use the browser and desktop apps, connect MCP servers, keep memory and run scheduled routines · Run CLI coding agents side by side in terminal panes with Git worktrees, including on remote machines over SSH</p>
+<p><strong>Interfaces:</strong> Desktop app · Voice · CLI · MCP</p>
 </div>
 
 ### Pilot Protocol
