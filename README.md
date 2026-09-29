@@ -20,7 +20,7 @@ Listings require a public project repository on GitHub, GitLab.com, or Codeberg.
 Pick a category, open it, and choose a project to jump straight to its listing. A project with more than one category appears under each of them.
 
 <details>
-<summary>🤖 AI Agents (94)</summary>
+<summary>🤖 AI Agents (95)</summary>
 <ul>
 <li><a href="#agent-007">Agent 007</a></li>
 <li><a href="#agent-by-stately-ai">Agent by Stately AI</a></li>
@@ -67,6 +67,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 <li><a href="#gpt-pilot">GPT Pilot</a></li>
 <li><a href="#gpt-researcher-by-tavily">GPT Researcher by Tavily</a></li>
 <li><a href="#gptme">gptme</a></li>
+<li><a href="#hermes-agent">Hermes Agent</a></li>
 <li><a href="#hivekeep">Hivekeep</a></li>
 <li><a href="#hivemoot">Hivemoot</a></li>
 <li><a href="#insumerapi-agent-tools">InsumerAPI Agent Tools</a></li>
@@ -120,11 +121,12 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 </details>
 
 <details>
-<summary>🧠 Long-Term Memory (20)</summary>
+<summary>🧠 Long-Term Memory (21)</summary>
 <ul>
 <li><a href="#contextstream">ContextStream</a></li>
 <li><a href="#corellis">Corellis</a></li>
 <li><a href="#cortex-memory">Cortex Memory</a></li>
+<li><a href="#hermes-agent">Hermes Agent</a></li>
 <li><a href="#hyperconsciousness">Hyperconsciousness</a></li>
 <li><a href="#mem0">mem0</a></li>
 <li><a href="#memclaw">MemClaw</a></li>
@@ -456,7 +458,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 </details>
 
 <details>
-<summary>💻 Terminal-Friendly (13)</summary>
+<summary>💻 Terminal-Friendly (14)</summary>
 <ul>
 <li><a href="#agent-manager">agent-manager</a></li>
 <li><a href="#agenttrace">AgentTrace</a></li>
@@ -464,6 +466,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 <li><a href="#ax">ax</a></li>
 <li><a href="#coven">Coven</a></li>
 <li><a href="#gptme">gptme</a></li>
+<li><a href="#hermes-agent">Hermes Agent</a></li>
 <li><a href="#lucinate">lucinate</a></li>
 <li><a href="#nanocoder">Nanocoder</a></li>
 <li><a href="#opus-manager">Opus Manager</a></li>
@@ -2007,6 +2010,18 @@ Here's an awesome list of AI agents:
 <p>Helicone is an open-source observability platform for Language Learning Models (LLMs), providing features like request logging, caching, rate limiting, cost and latency tracking, UI-based prompt iteration, and collaboration tools</p>
 
 <p><a href="https://www.helicone.ai/">website</a> | <a href="https://github.com/Helicone/helicone">github</a></p>
+</div>
+
+### Hermes Agent
+<div><a href="https://github.com/NousResearch/hermes-agent"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/NousResearch/hermes-agent"><img src="https://img.shields.io/github/stars/NousResearch/hermes-agent?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/NousResearch">@NousResearch</a></p>
+<p>🤖 AI Agents | 🧠 Long-Term Memory | 💻 Terminal-Friendly</p>
+
+<p>Hermes Agent is an open-source agent from Nous Research that runs in a terminal and through messaging platforms, keeps memory and creates skills from experience, and works with the model provider of your choice.</p>
+
+<p><a href="https://github.com/NousResearch/hermes-agent">github</a></p>
+<p><strong>Capabilities:</strong> Run tasks from a terminal interface with slash commands, conversation history and streaming tool output · Serve one agent through Telegram, Discord, Slack, WhatsApp, Signal and the CLI from a single gateway process · Keep agent curated memory, create skills after complex tasks, and search past sessions · Run scheduled automations and spawn isolated subagents for parallel work · Execute on local, Docker, SSH, Singularity, Modal, Daytona or Vercel Sandbox backends</p>
+<p><strong>Interfaces:</strong> Terminal UI · CLI · Messaging gateway · Desktop app</p>
 </div>
 
 ### Hermes Agent Chinese Pack

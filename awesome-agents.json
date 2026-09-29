@@ -7381,6 +7381,41 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "id": "hermes-agent-437289de",
+      "project": "Hermes Agent",
+      "project_description": "Hermes Agent is an open-source agent from Nous Research that runs in a terminal and through messaging platforms, keeps memory and creates skills from experience, and works with the model provider of your choice.",
+      "has_public_repository": true,
+      "categories": [
+        "AI Agents",
+        "Long-Term Memory",
+        "Terminal-Friendly"
+      ],
+      "capabilities": [
+        "Run tasks from a terminal interface with slash commands, conversation history and streaming tool output",
+        "Serve one agent through Telegram, Discord, Slack, WhatsApp, Signal and the CLI from a single gateway process",
+        "Keep agent curated memory, create skills after complex tasks, and search past sessions",
+        "Run scheduled automations and spawn isolated subagents for parallel work",
+        "Execute on local, Docker, SSH, Singularity, Modal, Daytona or Vercel Sandbox backends"
+      ],
+      "interfaces": [
+        "Terminal UI",
+        "CLI",
+        "Messaging gateway",
+        "Desktop app"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/NousResearch/hermes-agent",
+          "repository_owner": "NousResearch",
+          "repository_owner_url": "https://github.com/NousResearch",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-29T20:23:28Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
