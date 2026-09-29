@@ -1024,6 +1024,18 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/CorvinLabs/CorvinOS">github</a></p>
 </div>
 
+### Coven
+<div><a href="https://github.com/OpenCoven/coven"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/OpenCoven/coven"><img src="https://img.shields.io/github/stars/OpenCoven/coven?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/BunsDev">@BunsDev</a> <small>(self-reported founder/team)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/628">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/649">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/OpenCoven">@OpenCoven</a></p>
+<p>💻 Terminal-Friendly</p>
+
+<p>Coven is an open-source Rust daemon and CLI that runs Codex, Claude Code and other coding agent harnesses as PTY sessions inside explicit project root boundaries, with session history kept in SQLite.</p>
+
+<p><a href="https://github.com/OpenCoven/coven">github</a></p>
+<p><strong>Capabilities:</strong> Run coding agent sessions inside explicit project root boundaries and reject working directories that escape them · Persist session history and events in SQLite after a session ends · Attach to and coordinate sessions from the CLI or other clients over a versioned local socket API</p>
+<p><strong>Interfaces:</strong> CLI · Local socket API</p>
+</div>
+
 ### CoWorker Protocol
 <div><a href="https://github.com/ZiwayZhao/agent-coworker"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/ZiwayZhao/agent-coworker"><img src="https://img.shields.io/github/stars/ZiwayZhao/agent-coworker?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/ZiwayZhao">@ZiwayZhao</a></p>
@@ -2363,6 +2375,18 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/comet-ml/opik">github</a></p>
 <p><strong>Capabilities:</strong> LLM and agent tracing · evaluation and experiment comparison · prompt management and monitoring</p>
 <p><strong>Interfaces:</strong> Web UI · API · SDK</p>
+</div>
+
+### OrcaReplay
+<div><a href="https://github.com/Continuum-AI-Corp/OrcaReplay"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Continuum-AI-Corp/OrcaReplay"><img src="https://img.shields.io/github/stars/Continuum-AI-Corp/OrcaReplay?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/xizhuomengcontin">@xizhuomengcontin</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/625">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/648">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/Continuum-AI-Corp">@Continuum-AI-Corp</a></p>
+<p>👁️ Observability Frameworks</p>
+
+<p>OrcaReplay records a coding agent run from outside the process, replays it offline against the recorded bytes with no model called, and forks a checkpoint onto other models graded by a verify command.</p>
+
+<p><a href="https://github.com/Continuum-AI-Corp/OrcaReplay">github</a></p>
+<p><strong>Capabilities:</strong> Record a coding agent run at the process and socket boundary without modifying the agent, with model traffic, shell exit codes, per turn file changes and MCP JSON-RPC on one timeline · Replay a recorded session offline with no provider called and nothing spent · Fork one checkpoint onto several models and grade them by a verify command exit code</p>
+<p><strong>Interfaces:</strong> CLI · Web UI</p>
 </div>
 
 ### ORCH
