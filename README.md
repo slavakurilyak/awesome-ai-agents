@@ -847,6 +847,18 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/Ceki-me/mcp-server">github</a> | <a href="https://github.com/Ceki-me/python-sdk">github</a> | <a href="https://github.com/Ceki-me/js-sdk">github</a></p>
 </div>
 
+### CerebrumKit
+<div><a href="https://github.com/islomkhon/CerebrumKit"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/islomkhon/CerebrumKit"><img src="https://img.shields.io/github/stars/islomkhon/CerebrumKit?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/islomkhon">@islomkhon</a> <small>(self-reported founder/team)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/633">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/657">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/islomkhon">@islomkhon</a></p>
+<p>🤖 AI Agents</p>
+
+<p>CerebrumKit is a self-hosted starting point for agentic projects where agents are assembled in an admin panel from skills and tools stored as database rows, with a workflow canvas and a client chat panel.</p>
+
+<p><a href="https://github.com/islomkhon/CerebrumKit">github</a></p>
+<p><strong>Capabilities:</strong> Assemble agents from skills and Python tools with OpenAI function specs, editable without a restart · Route work through a start, group and stop workflow canvas, with a second group reviewing the first and one agent delegating to another · Point agents at any OpenAI compatible endpoint including DeepSeek, OpenAI, OpenRouter, Groq, vLLM and Ollama</p>
+<p><strong>Interfaces:</strong> Web UI</p>
+</div>
+
 ### ChatDev
 <div><a href="https://github.com/OpenBMB/ChatDev"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/OpenBMB/ChatDev"><img src="https://img.shields.io/github/stars/OpenBMB/ChatDev?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/OpenBMB">@OpenBMB</a></p>

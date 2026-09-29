@@ -821,6 +821,20 @@
           "founder_team_claim": true
         }
       ]
+    },
+    {
+      "project_id": "cerebrumkit-338ce9e6",
+      "submitted_by": [
+        {
+          "github_id": 60643095,
+          "login": "islomkhon",
+          "evidence_url": "https://github.com/slavakurilyak/awesome-ai-agents/issues/633",
+          "acceptance_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/657",
+          "at": "2026-09-28T07:49:33Z",
+          "status": "accepted_submission",
+          "founder_team_claim": true
+        }
+      ]
     }
   ]
 }
