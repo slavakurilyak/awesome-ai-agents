@@ -6863,6 +6863,38 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "id": "raven-b33fe15d",
+      "project": "Raven",
+      "project_description": "Raven is an open-source host agent that plans complex tasks as DAGs and orchestrates built-in research, coding, design, and on-call agents plus third-party agents such as Claude Code, Codex, OpenClaw, and Hermes Agent over ACP, CLI, or OpenAI-compatible APIs.",
+      "has_public_repository": true,
+      "categories": [
+        "AI Agents"
+      ],
+      "capabilities": [
+        "Plan complex tasks as DAGs and coordinate agents with task dependencies and parallel execution",
+        "Run built-in agents for deep research, software development, design, and unattended workflow automation",
+        "Connect third-party agents over ACP, CLI, or OpenAI-compatible APIs, with presets for 13 agents"
+      ],
+      "interfaces": [
+        "Web UI",
+        "Terminal UI",
+        "ACP",
+        "A2A",
+        "Docker"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/EverMind-AI/Raven",
+          "repository_owner": "EverMind-AI",
+          "repository_owner_url": "https://github.com/EverMind-AI",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-29T19:49:15Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
