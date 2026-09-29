@@ -835,6 +835,29 @@
           "founder_team_claim": true
         }
       ]
+    },
+    {
+      "project_id": "house-party-protocol-c2f41e40",
+      "submitted_by": [
+        {
+          "github_id": 325975192,
+          "login": "rushar-labs",
+          "evidence_url": "https://github.com/slavakurilyak/awesome-ai-agents/issues/639",
+          "acceptance_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/658",
+          "at": "2026-09-28T23:18:50Z",
+          "status": "accepted_submission",
+          "founder_team_claim": true
+        }
+      ],
+      "maintained_by": [
+        {
+          "github_id": 325975192,
+          "login": "rushar-labs",
+          "evidence_url": "https://github.com/slavakurilyak/awesome-ai-agents/issues/639",
+          "at": "2026-09-28T23:18:50Z",
+          "status": "self_reported"
+        }
+      ]
     }
   ]
 }

@@ -1539,7 +1539,7 @@ Here's an awesome list of AI agents:
 
 ### House Party Protocol
 <div><a href="https://github.com/rusharlabs/house-party-protocol"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/rusharlabs/house-party-protocol"><img src="https://img.shields.io/github/stars/rusharlabs/house-party-protocol?style=social" alt="GitHub stars"></a></div>
-<p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/rusharlabs">@rusharlabs</a></p>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/rushar-labs">@rushar-labs</a> <small>(self-reported founder/team)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/639">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/658">accepted PR</a> · <strong>Maintained by:</strong> <a href="https://github.com/rushar-labs">@rushar-labs</a> <small>(self-reported)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/639">evidence</a> · <strong>Repository owner:</strong> <a href="https://github.com/rusharlabs">@rusharlabs</a></p>
 <p>📊 Evaluation Frameworks</p>
 
 <p>House Party Protocol is a local first Python harness for Claude Code and Codex CLI teams that records criterion command results outside the model, refuses verdicts from the builder's own lane, and binds approvals to a spec hash.</p>
