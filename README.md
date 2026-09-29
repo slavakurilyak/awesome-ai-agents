@@ -2743,6 +2743,18 @@ Here's an awesome list of AI agents:
 <p><strong>Interfaces:</strong> Web dashboard · SDK · MCP integrations</p>
 </div>
 
+### since-cutoff
+<div><a href="https://github.com/MohammadHijjawi97/since-cutoff"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/MohammadHijjawi97/since-cutoff"><img src="https://img.shields.io/github/stars/MohammadHijjawi97/since-cutoff?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/MohammadHijjawi97">@MohammadHijjawi97</a></p>
+<p>🔌 MCP Servers | 💻 Terminal-Friendly</p>
+
+<p>since-cutoff is an open-source Python tool that shows a coding agent which public APIs of a project's pinned dependencies changed after its model's training cutoff and writes short notes into AGENTS.md or CLAUDE.md.</p>
+
+<p><a href="https://github.com/MohammadHijjawi97/since-cutoff">github</a></p>
+<p><strong>Capabilities:</strong> Compare each pinned dependency's public API against its latest release before the model's training cutoff, statically with no model call · Show where the project code uses APIs that changed · Write and keep AGENTS.md and CLAUDE.md notes in step with the lockfile</p>
+<p><strong>Interfaces:</strong> CLI · MCP · Claude Code plugin · Gemini CLI extension · GitHub Action</p>
+</div>
+
 ### SkillFlow MCP Server
 <div><a href="https://github.com/rafsilva85/skillflow-mcp-server"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/rafsilva85/skillflow-mcp-server"><img src="https://img.shields.io/github/stars/rafsilva85/skillflow-mcp-server?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/rafsilva85">@rafsilva85</a></p>

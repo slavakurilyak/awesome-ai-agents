@@ -7016,6 +7016,39 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "id": "since-cutoff-bee823f6",
+      "project": "since-cutoff",
+      "project_description": "since-cutoff is an open-source Python tool that shows a coding agent which public APIs of a project's pinned dependencies changed after its model's training cutoff and writes short notes into AGENTS.md or CLAUDE.md.",
+      "has_public_repository": true,
+      "categories": [
+        "MCP Servers",
+        "Terminal-Friendly"
+      ],
+      "capabilities": [
+        "Compare each pinned dependency's public API against its latest release before the model's training cutoff, statically with no model call",
+        "Show where the project code uses APIs that changed",
+        "Write and keep AGENTS.md and CLAUDE.md notes in step with the lockfile"
+      ],
+      "interfaces": [
+        "CLI",
+        "MCP",
+        "Claude Code plugin",
+        "Gemini CLI extension",
+        "GitHub Action"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/MohammadHijjawi97/since-cutoff",
+          "repository_owner": "MohammadHijjawi97",
+          "repository_owner_url": "https://github.com/MohammadHijjawi97",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-29T20:03:34Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
