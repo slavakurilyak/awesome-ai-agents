@@ -2551,6 +2551,18 @@ Here's an awesome list of AI agents:
 <p><strong>Interfaces:</strong> CLI · MCP · Web UI</p>
 </div>
 
+### Raven
+<div><a href="https://github.com/EverMind-AI/Raven"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/EverMind-AI/Raven"><img src="https://img.shields.io/github/stars/EverMind-AI/Raven?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/EverMind-AI">@EverMind-AI</a></p>
+<p>🤖 AI Agents</p>
+
+<p>Raven is an open-source host agent that plans complex tasks as DAGs and orchestrates built-in research, coding, design, and on-call agents plus third-party agents such as Claude Code, Codex, OpenClaw, and Hermes Agent over ACP, CLI, or OpenAI-compatible APIs.</p>
+
+<p><a href="https://github.com/EverMind-AI/Raven">github</a></p>
+<p><strong>Capabilities:</strong> Plan complex tasks as DAGs and coordinate agents with task dependencies and parallel execution · Run built-in agents for deep research, software development, design, and unattended workflow automation · Connect third-party agents over ACP, CLI, or OpenAI-compatible APIs, with presets for 13 agents</p>
+<p><strong>Interfaces:</strong> Web UI · Terminal UI · ACP · A2A · Docker</p>
+</div>
+
 ### Reel Agent
 <div><a href="https://github.com/HNF-FRN/Reel-watcher-telegram-Agent"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/HNF-FRN/Reel-watcher-telegram-Agent"><img src="https://img.shields.io/github/stars/HNF-FRN/Reel-watcher-telegram-Agent?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/HNF-FRN">@HNF-FRN</a> <small>(self-reported founder/team)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/438">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/455">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/HNF-FRN">@HNF-FRN</a></p>
