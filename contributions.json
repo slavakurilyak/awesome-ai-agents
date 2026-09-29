@@ -678,6 +678,19 @@
           "founder_team_claim": true
         }
       ]
+    },
+    {
+      "project_id": "orcareplay-c2a25818",
+      "submitted_by": [
+        {
+          "github_id": 319346922,
+          "login": "xizhuomengcontin",
+          "evidence_url": "https://github.com/slavakurilyak/awesome-ai-agents/issues/625",
+          "acceptance_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/648",
+          "at": "2026-09-26T15:51:28Z",
+          "status": "accepted_submission"
+        }
+      ]
     }
   ]
 }

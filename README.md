@@ -2367,7 +2367,7 @@ Here's an awesome list of AI agents:
 
 ### OrcaReplay
 <div><a href="https://github.com/Continuum-AI-Corp/OrcaReplay"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Continuum-AI-Corp/OrcaReplay"><img src="https://img.shields.io/github/stars/Continuum-AI-Corp/OrcaReplay?style=social" alt="GitHub stars"></a></div>
-<p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/Continuum-AI-Corp">@Continuum-AI-Corp</a></p>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/xizhuomengcontin">@xizhuomengcontin</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/625">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/648">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/Continuum-AI-Corp">@Continuum-AI-Corp</a></p>
 <p>👁️ Observability Frameworks</p>
 
 <p>OrcaReplay records a coding agent run from outside the process, replays it offline against the recorded bytes with no model called, and forks a checkpoint onto other models graded by a verify command.</p>
