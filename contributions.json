@@ -733,6 +733,29 @@
           "founder_team_claim": true
         }
       ]
+    },
+    {
+      "project_id": "personaljarvis-d9380299",
+      "submitted_by": [
+        {
+          "github_id": 226271791,
+          "login": "rubenluetke10-beep",
+          "evidence_url": "https://github.com/slavakurilyak/awesome-ai-agents/issues/637",
+          "acceptance_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/652",
+          "at": "2026-09-28T18:15:38Z",
+          "status": "accepted_submission",
+          "founder_team_claim": true
+        }
+      ],
+      "maintained_by": [
+        {
+          "github_id": 226271791,
+          "login": "rubenluetke10-beep",
+          "evidence_url": "https://github.com/slavakurilyak/awesome-ai-agents/issues/637",
+          "at": "2026-09-28T18:15:38Z",
+          "status": "self_reported"
+        }
+      ]
     }
   ]
 }
