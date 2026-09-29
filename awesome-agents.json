@@ -7080,6 +7080,37 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "id": "openbot-349a2ca7",
+      "project": "OpenBot",
+      "project_description": "OpenBot is an open-source self-hosted platform for running a team of persistent AI bots that wake on incoming messages, use shell, HTTP, custom Python and MCP tools, keep long term memory, and pause for human approval.",
+      "has_public_repository": true,
+      "categories": [
+        "AI Agents",
+        "Long-Term Memory"
+      ],
+      "capabilities": [
+        "Run named bots with their own instructions, tools and long term memory that wake when mail arrives",
+        "Hand a thread from one bot to another with an @mention, with a hop limit that stops runaway loops",
+        "Pause and ask a human before a sensitive action"
+      ],
+      "interfaces": [
+        "Web UI",
+        "HTTP API",
+        "MCP"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/regnull/openbot",
+          "repository_owner": "regnull",
+          "repository_owner_url": "https://github.com/regnull",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-29T20:03:56Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [

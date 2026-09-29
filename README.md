@@ -2288,6 +2288,18 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/openai/openai-agents-python">github</a></p>
 </div>
 
+### OpenBot
+<div><a href="https://github.com/regnull/openbot"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/regnull/openbot"><img src="https://img.shields.io/github/stars/regnull/openbot?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/regnull">@regnull</a></p>
+<p>🤖 AI Agents | 🧠 Long-Term Memory</p>
+
+<p>OpenBot is an open-source self-hosted platform for running a team of persistent AI bots that wake on incoming messages, use shell, HTTP, custom Python and MCP tools, keep long term memory, and pause for human approval.</p>
+
+<p><a href="https://github.com/regnull/openbot">github</a></p>
+<p><strong>Capabilities:</strong> Run named bots with their own instructions, tools and long term memory that wake when mail arrives · Hand a thread from one bot to another with an @mention, with a hop limit that stops runaway loops · Pause and ask a human before a sensitive action</p>
+<p><strong>Interfaces:</strong> Web UI · HTTP API · MCP</p>
+</div>
+
 ### OpenClaw
 <div><a href="https://github.com/openclaw/openclaw"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/openclaw/openclaw"><img src="https://img.shields.io/github/stars/openclaw/openclaw?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/openclaw">@openclaw</a></p>
