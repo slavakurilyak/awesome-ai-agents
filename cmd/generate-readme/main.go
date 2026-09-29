@@ -335,7 +335,7 @@ func renderSections(d projectdata.Data, em map[string]string, h map[string][]pro
 			badge = s.SourceURL
 		}
 		yn, color := "Unverified", "red"
-		if p.ProjectIsOpenSource {
+		if p.HasPublicRepository {
 			yn, color = "Public", "green"
 		}
 		starBadge := ""

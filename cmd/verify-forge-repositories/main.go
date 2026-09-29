@@ -91,7 +91,7 @@ func run(projectName string, fullAudit bool) error {
 			if status == "archived" {
 				source.RepositoryStatus = "archived"
 			}
-			project.ProjectIsOpenSource = true
+			project.HasPublicRepository = true
 			if owner != "" {
 				source.RepositoryOwner = owner
 				source.RepositoryOwnerURL = ownerURL
@@ -100,7 +100,7 @@ func run(projectName string, fullAudit bool) error {
 			break
 		}
 		if !found {
-			project.ProjectIsOpenSource = false
+			project.HasPublicRepository = false
 			ineligible++
 		}
 	}

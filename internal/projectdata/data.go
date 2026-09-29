@@ -33,11 +33,26 @@ type Project struct {
 	ID                  string   `json:"id" yaml:"id"`
 	Project             string   `json:"project" yaml:"project"`
 	ProjectDescription  *string  `json:"project_description,omitempty" yaml:"project_description"`
-	ProjectIsOpenSource bool     `json:"project_is_open_source" yaml:"project_is_open_source"`
+	HasPublicRepository bool     `json:"has_public_repository" yaml:"has_public_repository"`
 	Categories          []string `json:"categories" yaml:"categories"`
 	Capabilities        []string `json:"capabilities,omitempty" yaml:"capabilities,omitempty"`
 	Interfaces          []string `json:"interfaces,omitempty" yaml:"interfaces,omitempty"`
 	Sources             []Source `json:"sources" yaml:"sources"`
+}
+
+// UnmarshalJSON accepts the retired project_is_open_source key so submissions
+// prepared before the rename to has_public_repository still validate.
+func (p *Project) UnmarshalJSON(b []byte) error {
+	type plain Project
+	aux := struct {
+		*plain
+		LegacyIsOpenSource bool `json:"project_is_open_source"`
+	}{plain: (*plain)(p)}
+	if err := json.Unmarshal(b, &aux); err != nil {
+		return err
+	}
+	p.HasPublicRepository = p.HasPublicRepository || aux.LegacyIsOpenSource
+	return nil
 }
 
 // NewProjectID creates a stable opaque key from the initial project name and
@@ -199,7 +214,7 @@ func Validate(d Data) error {
 		if len(p.Sources) == 0 {
 			return fmt.Errorf("agents[%d] (%s).sources must contain at least one verifiable URL", i, p.Project)
 		}
-		if !p.ProjectIsOpenSource {
+		if !p.HasPublicRepository {
 			return fmt.Errorf("agents[%d] (%s) is not eligible: every listed project must have a public GitHub, GitLab, or Codeberg repository", i, p.Project)
 		}
 		verified := false
