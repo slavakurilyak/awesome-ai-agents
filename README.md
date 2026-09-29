@@ -3335,7 +3335,7 @@ Here's an awesome list of AI agents:
 
 ### Zaru
 <div><a href="https://github.com/100monkeys-ai/zaru-cli"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/100monkeys-ai/zaru-cli"><img src="https://img.shields.io/github/stars/100monkeys-ai/zaru-cli?style=social" alt="GitHub stars"></a></div>
-<p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/100monkeys-ai">@100monkeys-ai</a></p>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/Theaxiom">@Theaxiom</a> <small>(self-reported founder/team)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/626">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/656">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/100monkeys-ai">@100monkeys-ai</a></p>
 <p>🤖 AI Agents | 💻 Terminal-Friendly</p>
 
 <p>Zaru is a pre-alpha open-source Rust terminal harness for LLM agents that runs the tools a model asks for under a permission model and records every step in a transcript.</p>

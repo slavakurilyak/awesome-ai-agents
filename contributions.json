@@ -807,6 +807,20 @@
           "founder_team_claim": true
         }
       ]
+    },
+    {
+      "project_id": "zaru-78392600",
+      "submitted_by": [
+        {
+          "github_id": 57013,
+          "login": "Theaxiom",
+          "evidence_url": "https://github.com/slavakurilyak/awesome-ai-agents/issues/626",
+          "acceptance_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/656",
+          "at": "2026-09-26T21:46:04Z",
+          "status": "accepted_submission",
+          "founder_team_claim": true
+        }
+      ]
     }
   ]
 }
