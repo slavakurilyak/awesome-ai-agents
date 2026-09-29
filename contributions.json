@@ -705,6 +705,20 @@
           "founder_team_claim": true
         }
       ]
+    },
+    {
+      "project_id": "upload-post-mcp-d1a54949",
+      "submitted_by": [
+        {
+          "github_id": 33009505,
+          "login": "victorcavero14",
+          "evidence_url": "https://github.com/slavakurilyak/awesome-ai-agents/issues/630",
+          "acceptance_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/650",
+          "at": "2026-09-27T16:12:27Z",
+          "status": "accepted_submission",
+          "founder_team_claim": true
+        }
+      ]
     }
   ]
 }

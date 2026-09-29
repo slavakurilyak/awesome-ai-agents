@@ -3163,7 +3163,7 @@ Here's an awesome list of AI agents:
 
 ### Upload-Post MCP
 <div><a href="https://github.com/Upload-Post/upload-post-mcp"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Upload-Post/upload-post-mcp"><img src="https://img.shields.io/github/stars/Upload-Post/upload-post-mcp?style=social" alt="GitHub stars"></a></div>
-<p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/Upload-Post">@Upload-Post</a></p>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/victorcavero14">@victorcavero14</a> <small>(self-reported founder/team)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/630">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/650">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/Upload-Post">@Upload-Post</a></p>
 <p>🔌 MCP Servers</p>
 
 <p>Upload-Post MCP is an open-source TypeScript MCP server that lets AI agents publish, schedule and manage social media posts, analytics, comments and messages across many platforms through the Upload-Post API.</p>
