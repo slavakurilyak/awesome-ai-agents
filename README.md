@@ -15,6 +15,510 @@ Each listing shows the original submitter and current maintainers when they are 
 
 Listings require a public project repository on GitHub, GitLab.com, or Codeberg. No specific license is required. Hosted products without their own qualifying repository are not listed.
 
+## 🧭 Browse by Category
+
+Pick a category, open it, and choose a project to jump straight to its listing. A project with more than one category appears under each of them.
+
+<details>
+<summary>🤖 AI Agents (90)</summary>
+<ul>
+<li><a href="#agent-007">Agent 007</a></li>
+<li><a href="#agent-by-stately-ai">Agent by Stately AI</a></li>
+<li><a href="#agent-platform">Agent Platform</a></li>
+<li><a href="#agent-qa">Agent QA</a></li>
+<li><a href="#agent-stack">Agent Stack</a></li>
+<li><a href="#agent-teams">Agent Teams</a></li>
+<li><a href="#agent-trust-stack-mcp-server">Agent Trust Stack MCP Server</a></li>
+<li><a href="#agent-kit">agent-kit</a></li>
+<li><a href="#agentbox">AgentBox</a></li>
+<li><a href="#agentfield">AgentField</a></li>
+<li><a href="#agx">AGX</a></li>
+<li><a href="#aider">Aider</a></li>
+<li><a href="#arachne">Arachne</a></li>
+<li><a href="#aster">Aster</a></li>
+<li><a href="#atomic-agent">Atomic Agent</a></li>
+<li><a href="#authsome">Authsome</a></li>
+<li><a href="#autodev">AutoDev</a></li>
+<li><a href="#autogpt">AutoGPT</a></li>
+<li><a href="#awesome-embodied-ai-safety">Awesome Embodied AI Safety</a></li>
+<li><a href="#awesome-openclaw-agents">Awesome OpenClaw Agents</a></li>
+<li><a href="#b2b-sdr-agent-template">B2B SDR Agent Template</a></li>
+<li><a href="#basedagents">BasedAgents</a></li>
+<li><a href="#blackvault">BlackVault</a></li>
+<li><a href="#blave-agent">Blave Agent</a></li>
+<li><a href="#browsingagent-by-agency-swarm">BrowsingAgent by Agency Swarm</a></li>
+<li><a href="#calai">Cal.ai</a></li>
+<li><a href="#cline">Cline</a></li>
+<li><a href="#continue">Continue</a></li>
+<li><a href="#corellis">Corellis</a></li>
+<li><a href="#corvinos">CorvinOS</a></li>
+<li><a href="#cryptoguard">CryptoGuard</a></li>
+<li><a href="#cycles">Cycles</a></li>
+<li><a href="#devid-by-agency-swarm">Devid by Agency Swarm</a></li>
+<li><a href="#dorothy">Dorothy</a></li>
+<li><a href="#due-diligence-agents">Due Diligence Agents</a></li>
+<li><a href="#evo-ai">EVO-AI</a></li>
+<li><a href="#fazm">Fazm</a></li>
+<li><a href="#flow-weaver">Flow Weaver</a></li>
+<li><a href="#frontman">Frontman</a></li>
+<li><a href="#giselle">Giselle</a></li>
+<li><a href="#gpt-pilot">GPT Pilot</a></li>
+<li><a href="#gpt-researcher-by-tavily">GPT Researcher by Tavily</a></li>
+<li><a href="#gptme">gptme</a></li>
+<li><a href="#hivekeep">Hivekeep</a></li>
+<li><a href="#hivemoot">Hivemoot</a></li>
+<li><a href="#insumerapi-agent-tools">InsumerAPI Agent Tools</a></li>
+<li><a href="#jev-social">Jev Social</a></li>
+<li><a href="#k8s4claw">k8s4claw</a></li>
+<li><a href="#kubestellar-console">KubeStellar Console</a></li>
+<li><a href="#looptroop">LoopTroop</a></li>
+<li><a href="#maestro">Maestro</a></li>
+<li><a href="#max-cli">Max CLI</a></li>
+<li><a href="#mysti">Mysti</a></li>
+<li><a href="#nanocoder">Nanocoder</a></li>
+<li><a href="#narranexus">NarraNexus</a></li>
+<li><a href="#nexus-agent">Nexus-Agent</a></li>
+<li><a href="#notfair">NotFair</a></li>
+<li><a href="#octomind">Octomind</a></li>
+<li><a href="#okto-nexus">Okto-Nexus</a></li>
+<li><a href="#openagent">OpenAgent</a></li>
+<li><a href="#openagents">OpenAgents</a></li>
+<li><a href="#openbot">OpenBot</a></li>
+<li><a href="#openclaw">OpenClaw</a></li>
+<li><a href="#openclaw-monitor">OpenClaw Monitor</a></li>
+<li><a href="#openhands-formerly-opendevin">OpenHands (formerly OpenDevin)</a></li>
+<li><a href="#opentwins">OpenTwins</a></li>
+<li><a href="#opus-manager">Opus Manager</a></li>
+<li><a href="#orkas">Orkas</a></li>
+<li><a href="#overloop-cli">Overloop CLI</a></li>
+<li><a href="#polymind">PolyMind</a></li>
+<li><a href="#profitplay-starter">ProfitPlay Starter</a></li>
+<li><a href="#promptise-foundry">Promptise Foundry</a></li>
+<li><a href="#quorum">Quorum</a></li>
+<li><a href="#raven">Raven</a></li>
+<li><a href="#reel-agent">Reel Agent</a></li>
+<li><a href="#routeweiler">Routeweiler</a></li>
+<li><a href="#rust-norion">rust-norion</a></li>
+<li><a href="#sandbase-harness">SandBase Harness</a></li>
+<li><a href="#screenpipe">Screenpipe</a></li>
+<li><a href="#smartipedia">Smartipedia</a></li>
+<li><a href="#storyroute">StoryRoute</a></li>
+<li><a href="#strata">Strata</a></li>
+<li><a href="#synapse-messenger">Synapse Messenger</a></li>
+<li><a href="#tabby">Tabby</a></li>
+<li><a href="#taskade">Taskade</a></li>
+<li><a href="#titan">TITAN</a></li>
+<li><a href="#winkterm">WinkTerm</a></li>
+<li><a href="#xagent">XAgent</a></li>
+<li><a href="#xmacna-funcionario-digital-agentget-pack">XMACNA Funcionario Digital AgentGet Pack</a></li>
+<li><a href="#youtube-skills-for-ai-agents">YouTube Skills for AI Agents</a></li>
+</ul>
+</details>
+
+<details>
+<summary>🧠 Long-Term Memory (19)</summary>
+<ul>
+<li><a href="#contextstream">ContextStream</a></li>
+<li><a href="#corellis">Corellis</a></li>
+<li><a href="#cortex-memory">Cortex Memory</a></li>
+<li><a href="#mem0">mem0</a></li>
+<li><a href="#memclaw">MemClaw</a></li>
+<li><a href="#memgpt">MemGPT</a></li>
+<li><a href="#mnemoverse">Mnemoverse</a></li>
+<li><a href="#moss">Moss</a></li>
+<li><a href="#narranexus">NarraNexus</a></li>
+<li><a href="#omega-memory">OMEGA Memory</a></li>
+<li><a href="#open-index">Open Index</a></li>
+<li><a href="#openbot">OpenBot</a></li>
+<li><a href="#remembra">Remembra</a></li>
+<li><a href="#sage">SAGE</a></li>
+<li><a href="#screenpipe">Screenpipe</a></li>
+<li><a href="#sonzai-go-sdk">Sonzai Go SDK</a></li>
+<li><a href="#teamhero">TeamHero</a></li>
+<li><a href="#tree-ring-memory-framework">Tree Ring Memory Framework</a></li>
+<li><a href="#zep">Zep</a></li>
+</ul>
+</details>
+
+<details>
+<summary>⚙️ Development Frameworks (86)</summary>
+<ul>
+<li><a href="#agency-swarm-by-vrsen">Agency Swarm by VRSEN</a></li>
+<li><a href="#agent-express">Agent Express</a></li>
+<li><a href="#agent-reach">Agent Reach</a></li>
+<li><a href="#agent-skills-runtime-orca">Agent Skills Runtime (ORCA)</a></li>
+<li><a href="#agentbox">AgentBox</a></li>
+<li><a href="#agentfield">AgentField</a></li>
+<li><a href="#agentos">AgentOS</a></li>
+<li><a href="#agents-squads">Agents Squads</a></li>
+<li><a href="#agixt">AGiXT</a></li>
+<li><a href="#agno">Agno</a></li>
+<li><a href="#agx">AGX</a></li>
+<li><a href="#aios">AIOS</a></li>
+<li><a href="#aiwg">AIWG</a></li>
+<li><a href="#arachne">Arachne</a></li>
+<li><a href="#arch-tools">Arch Tools</a></li>
+<li><a href="#autogen-by-microsoft">AutoGen by Microsoft</a></li>
+<li><a href="#autogen-studio-by-microsoft">AutoGen Studio by Microsoft</a></li>
+<li><a href="#autohand-code-cli">Autohand Code CLI</a></li>
+<li><a href="#bazed">Bazed</a></li>
+<li><a href="#bindai">BindAI</a></li>
+<li><a href="#camel">CAMEL</a></li>
+<li><a href="#chatdev">ChatDev</a></li>
+<li><a href="#claude-agent-sdk">Claude Agent SDK</a></li>
+<li><a href="#cognee">Cognee</a></li>
+<li><a href="#connectonion">ConnectOnion</a></li>
+<li><a href="#cortex">Cortex</a></li>
+<li><a href="#coworker-protocol">CoWorker Protocol</a></li>
+<li><a href="#crewai-by-joão-moura">crewAI by João Moura</a></li>
+<li><a href="#cuga">CUGA</a></li>
+<li><a href="#db-gpt">DB-GPT</a></li>
+<li><a href="#devopsgpt">DevOpsGPT</a></li>
+<li><a href="#dorothy">Dorothy</a></li>
+<li><a href="#e2b">E2B</a></li>
+<li><a href="#flow-weaver">Flow Weaver</a></li>
+<li><a href="#flowise">Flowise</a></li>
+<li><a href="#golemcore-bot">GolemCore Bot</a></li>
+<li><a href="#google-adk">Google ADK</a></li>
+<li><a href="#gptme">gptme</a></li>
+<li><a href="#hagicode-desktop">HagiCode Desktop</a></li>
+<li><a href="#haystack">Haystack</a></li>
+<li><a href="#hive">Hive</a></li>
+<li><a href="#hol-standards-sdk">HOL Standards SDK</a></li>
+<li><a href="#julep">Julep</a></li>
+<li><a href="#k8s4claw">k8s4claw</a></li>
+<li><a href="#kodo">Kodo</a></li>
+<li><a href="#langchain">LangChain</a></li>
+<li><a href="#langchain-js">LangChain JS</a></li>
+<li><a href="#langgraph">LangGraph</a></li>
+<li><a href="#langgraphjs">LangGraph.js</a></li>
+<li><a href="#langserve">LangServe</a></li>
+<li><a href="#lobe-chat">Lobe Chat</a></li>
+<li><a href="#loopgpt">LoopGPT</a></li>
+<li><a href="#mastra">Mastra</a></li>
+<li><a href="#melaya-sdks">Melaya SDKs</a></li>
+<li><a href="#microsoft-agent-framework">Microsoft Agent Framework</a></li>
+<li><a href="#n3rv-formerly-nerv">n3rv (formerly NERV)</a></li>
+<li><a href="#nexus-agent">Nexus-Agent</a></li>
+<li><a href="#octomind">Octomind</a></li>
+<li><a href="#oixa-protocol">OIXA Protocol</a></li>
+<li><a href="#okto-nexus">Okto-Nexus</a></li>
+<li><a href="#okto-pulse">Okto-Pulse</a></li>
+<li><a href="#openagents">OpenAgents</a></li>
+<li><a href="#openai-agents-sdk">OpenAI Agents SDK</a></li>
+<li><a href="#orch">ORCH</a></li>
+<li><a href="#praisonai">PraisonAI</a></li>
+<li><a href="#promptise-foundry">Promptise Foundry</a></li>
+<li><a href="#rust-norion">rust-norion</a></li>
+<li><a href="#sandbase-harness">SandBase Harness</a></li>
+<li><a href="#sayna">Sayna</a></li>
+<li><a href="#skillflow-mcp-server">SkillFlow MCP Server</a></li>
+<li><a href="#smolagents">smolagents</a></li>
+<li><a href="#sonzai-go-sdk">Sonzai Go SDK</a></li>
+<li><a href="#stoneforge">Stoneforge</a></li>
+<li><a href="#strands-agents">Strands Agents</a></li>
+<li><a href="#superagent">Superagent</a></li>
+<li><a href="#swarms">Swarms</a></li>
+<li><a href="#swe-agent">SWE-agent</a></li>
+<li><a href="#teamhero">TeamHero</a></li>
+<li><a href="#the-forge">The Forge</a></li>
+<li><a href="#titan">TITAN</a></li>
+<li><a href="#uagents-by-fetch-ai">uAgents by Fetch AI</a></li>
+<li><a href="#unified-ai-system">Unified AI System</a></li>
+<li><a href="#upsonic">Upsonic</a></li>
+<li><a href="#vetto">Vetto</a></li>
+<li><a href="#writbase">WritBase</a></li>
+<li><a href="#zapier-sdk">Zapier SDK</a></li>
+</ul>
+</details>
+
+<details>
+<summary>📊 Evaluation Frameworks (11)</summary>
+<ul>
+<li><a href="#agentfix-mini-scanner">agentfix-mini-scanner</a></li>
+<li><a href="#agentleak">AgentLeak</a></li>
+<li><a href="#agentops">AgentOps</a></li>
+<li><a href="#browserbash">BrowserBash</a></li>
+<li><a href="#clawbench">ClawBench</a></li>
+<li><a href="#kitaru">Kitaru</a></li>
+<li><a href="#langfuse">LangFuse</a></li>
+<li><a href="#opik">Opik</a></li>
+<li><a href="#project-telos">Project Telos</a></li>
+<li><a href="#self-auditing-agent">Self Auditing Agent</a></li>
+<li><a href="#the-agentic-leaderboard">The Agentic Leaderboard</a></li>
+</ul>
+</details>
+
+<details>
+<summary>👁️ Observability Frameworks (13)</summary>
+<ul>
+<li><a href="#agent-express">Agent Express</a></li>
+<li><a href="#agentfield">AgentField</a></li>
+<li><a href="#agenttrace">AgentTrace</a></li>
+<li><a href="#agentwatch">AgentWatch</a></li>
+<li><a href="#ax">ax</a></li>
+<li><a href="#clawmetry">ClawMetry</a></li>
+<li><a href="#halo-record">halo-record</a></li>
+<li><a href="#helicone">Helicone</a></li>
+<li><a href="#kitaru">Kitaru</a></li>
+<li><a href="#langsmith-by-langchain">LangSmith by LangChain</a></li>
+<li><a href="#observatory-by-the-context-company">Observatory by The Context Company</a></li>
+<li><a href="#orcareplay">OrcaReplay</a></li>
+<li><a href="#project-telos">Project Telos</a></li>
+</ul>
+</details>
+
+<details>
+<summary>💻 Local Inference (8)</summary>
+<ul>
+<li><a href="#atomic-agent">Atomic Agent</a></li>
+<li><a href="#corvinos">CorvinOS</a></li>
+<li><a href="#jan">Jan</a></li>
+<li><a href="#localgpt">LocalGPT</a></li>
+<li><a href="#nanocoder">Nanocoder</a></li>
+<li><a href="#ollama">Ollama</a></li>
+<li><a href="#privategpt">PrivateGPT</a></li>
+<li><a href="#screenpipe">Screenpipe</a></li>
+</ul>
+</details>
+
+<details>
+<summary>⚡ Real-Time (2)</summary>
+<ul>
+<li><a href="#livekit-agents">LiveKit Agents</a></li>
+<li><a href="#sayna">Sayna</a></li>
+</ul>
+</details>
+
+<details>
+<summary>📏 Standardization (11)</summary>
+<ul>
+<li><a href="#agentstamp">AgentStamp</a></li>
+<li><a href="#aigen-protocol">AIGEN Protocol</a></li>
+<li><a href="#akf">AKF</a></li>
+<li><a href="#coworker-protocol">CoWorker Protocol</a></li>
+<li><a href="#cycles">Cycles</a></li>
+<li><a href="#gcf-graph-compact-format">GCF (Graph Compact Format)</a></li>
+<li><a href="#hol-standards-sdk">HOL Standards SDK</a></li>
+<li><a href="#model-context-protocol">Model Context Protocol</a></li>
+<li><a href="#pilot-protocol">Pilot Protocol</a></li>
+<li><a href="#the-genesis-accord">The Genesis Accord</a></li>
+<li><a href="#the-polyglot-protocol">The Polyglot Protocol</a></li>
+</ul>
+</details>
+
+<details>
+<summary>₿ Bitcoin (1)</summary>
+<ul>
+<li><a href="#sparkbtcbot-skill">sparkbtcbot-skill</a></li>
+</ul>
+</details>
+
+<details>
+<summary>💻 Operating System (OS) (8)</summary>
+<ul>
+<li><a href="#corvinos">CorvinOS</a></li>
+<li><a href="#fazm">Fazm</a></li>
+<li><a href="#jevme">jevme</a></li>
+<li><a href="#moching">Moching</a></li>
+<li><a href="#open-interpreter">Open Interpreter</a></li>
+<li><a href="#orkas">Orkas</a></li>
+<li><a href="#superagent-for-mac">Superagent for Mac</a></li>
+</ul>
+</details>
+
+<details>
+<summary>🛡️ Safety Guardrails (Safeguarding) (26)</summary>
+<ul>
+<li><a href="#agent-express">Agent Express</a></li>
+<li><a href="#agent-stack">Agent Stack</a></li>
+<li><a href="#agent-trust-stack-mcp-server">Agent Trust Stack MCP Server</a></li>
+<li><a href="#agentstamp">AgentStamp</a></li>
+<li><a href="#aiactguard">AIActGuard</a></li>
+<li><a href="#akf">AKF</a></li>
+<li><a href="#aport-agent-guardrails">APort Agent Guardrails</a></li>
+<li><a href="#authsome">Authsome</a></li>
+<li><a href="#corellis">Corellis</a></li>
+<li><a href="#cryptoguard">CryptoGuard</a></li>
+<li><a href="#cycles">Cycles</a></li>
+<li><a href="#guardrails">Guardrails</a></li>
+<li><a href="#guidance">Guidance</a></li>
+<li><a href="#hermes-plant">Hermes Plant</a></li>
+<li><a href="#hvtracker">HVTracker</a></li>
+<li><a href="#k8s4claw">k8s4claw</a></li>
+<li><a href="#nemo-guardrails">NeMo Guardrails</a></li>
+<li><a href="#nexus-agent">Nexus-Agent</a></li>
+<li><a href="#nobulex">Nobulex</a></li>
+<li><a href="#okto-nexus">Okto-Nexus</a></li>
+<li><a href="#okto-pulse">Okto-Pulse</a></li>
+<li><a href="#sage">SAGE</a></li>
+<li><a href="#sidclaw">SidClaw</a></li>
+<li><a href="#sunglasses">SUNGLASSES</a></li>
+<li><a href="#tealtiger">TealTiger</a></li>
+<li><a href="#vetto">Vetto</a></li>
+</ul>
+</details>
+
+<details>
+<summary>🏗️ Structured Outputs (6)</summary>
+<ul>
+<li><a href="#baml">BAML</a></li>
+<li><a href="#instructor">Instructor</a></li>
+<li><a href="#marvin">Marvin</a></li>
+<li><a href="#outlines">Outlines</a></li>
+<li><a href="#perplexity-inspired-llm-answer-engine">Perplexity-Inspired LLM Answer Engine</a></li>
+<li><a href="#pydantic">Pydantic</a></li>
+</ul>
+</details>
+
+<details>
+<summary>🔀 Model Merges (1)</summary>
+<ul>
+<li><a href="#mergekit">MergeKit</a></li>
+</ul>
+</details>
+
+<details>
+<summary>🔧 Tool Calling (Function Calling) (21)</summary>
+<ul>
+<li><a href="#agent-trust-stack-mcp-server">Agent Trust Stack MCP Server</a></li>
+<li><a href="#ai-for-database-mcp-server">AI for Database MCP Server</a></li>
+<li><a href="#aigen-protocol">AIGEN Protocol</a></li>
+<li><a href="#arch-tools">Arch Tools</a></li>
+<li><a href="#baizhi-agent-toolkit">Baizhi Agent Toolkit</a></li>
+<li><a href="#bulkpublish">BulkPublish</a></li>
+<li><a href="#buywhere-mcp-server">BuyWhere MCP Server</a></li>
+<li><a href="#connectonion">ConnectOnion</a></li>
+<li><a href="#edgrapi">Edgrapi</a></li>
+<li><a href="#gcf-graph-compact-format">GCF (Graph Compact Format)</a></li>
+<li><a href="#github-mcp-server">GitHub MCP Server</a></li>
+<li><a href="#kubestellar-console">KubeStellar Console</a></li>
+<li><a href="#model-context-protocol">Model Context Protocol</a></li>
+<li><a href="#openagent">OpenAgent</a></li>
+<li><a href="#operant-mcp">Operant MCP</a></li>
+<li><a href="#prismfy-wizard">Prismfy Wizard</a></li>
+<li><a href="#routeweiler">Routeweiler</a></li>
+<li><a href="#stipendsh">stipend.sh</a></li>
+<li><a href="#strata">Strata</a></li>
+<li><a href="#unified-ai-system">Unified AI System</a></li>
+<li><a href="#zillapi">Zillapi</a></li>
+</ul>
+</details>
+
+<details>
+<summary>🖥️ UI Development (8)</summary>
+<ul>
+<li><a href="#ai-sdk-by-vercel">AI SDK by Vercel</a></li>
+<li><a href="#ai-artifacts">ai-artifacts</a></li>
+<li><a href="#cogito-studio">Cogito Studio</a></li>
+<li><a href="#dsh-studio">DSH Studio</a></li>
+<li><a href="#frontman">Frontman</a></li>
+<li><a href="#hagicode-desktop">HagiCode Desktop</a></li>
+<li><a href="#uizze">UIZZE</a></li>
+<li><a href="#zooid">Zooid</a></li>
+</ul>
+</details>
+
+<details>
+<summary>✍️ Prompt Engineering (1)</summary>
+<ul>
+<li><a href="#prismfy-wizard">Prismfy Wizard</a></li>
+</ul>
+</details>
+
+<details>
+<summary>🌐 Web Browsing Frameworks (6)</summary>
+<ul>
+<li><a href="#browser-use">browser-use</a></li>
+<li><a href="#crawl4ai">Crawl4AI</a></li>
+<li><a href="#firecrawl">Firecrawl</a></li>
+<li><a href="#playwright-mcp">Playwright MCP</a></li>
+<li><a href="#stagehand">Stagehand</a></li>
+<li><a href="#steel-browser">Steel Browser</a></li>
+</ul>
+</details>
+
+<details>
+<summary>🔄 Flow Engineering (Platform Engineering) (3)</summary>
+<ul>
+<li><a href="#dspy">DSPY</a></li>
+<li><a href="#maestro">Maestro</a></li>
+<li><a href="#rote">rote</a></li>
+</ul>
+</details>
+
+<details>
+<summary>💻 Terminal-Friendly (11)</summary>
+<ul>
+<li><a href="#agenttrace">AgentTrace</a></li>
+<li><a href="#atomic-agent">Atomic Agent</a></li>
+<li><a href="#ax">ax</a></li>
+<li><a href="#coven">Coven</a></li>
+<li><a href="#gptme">gptme</a></li>
+<li><a href="#lucinate">lucinate</a></li>
+<li><a href="#nanocoder">Nanocoder</a></li>
+<li><a href="#opus-manager">Opus Manager</a></li>
+<li><a href="#since-cutoff">since-cutoff</a></li>
+<li><a href="#smolagents">smolagents</a></li>
+<li><a href="#winkterm">WinkTerm</a></li>
+</ul>
+</details>
+
+<details>
+<summary>🤖 Assistants API (1)</summary>
+<ul>
+<li><a href="#litellm">LiteLLM</a></li>
+</ul>
+</details>
+
+<details>
+<summary>👤 Personal Assistants (11)</summary>
+<ul>
+<li><a href="#cogito-studio">Cogito Studio</a></li>
+<li><a href="#hermes-agent-chinese-pack">Hermes Agent Chinese Pack</a></li>
+<li><a href="#hivekeep">Hivekeep</a></li>
+<li><a href="#liverecall">LiveRecall</a></li>
+<li><a href="#openagent">OpenAgent</a></li>
+<li><a href="#openclaw">OpenClaw</a></li>
+<li><a href="#openpaw">OpenPaw</a></li>
+<li><a href="#opentwins">OpenTwins</a></li>
+<li><a href="#personaljarvis">PersonalJarvis</a></li>
+<li><a href="#screenpipe">Screenpipe</a></li>
+<li><a href="#thursday">Thursday</a></li>
+</ul>
+</details>
+
+<details>
+<summary>🔌 MCP Servers (15)</summary>
+<ul>
+<li><a href="#agentservices">AgentServices</a></li>
+<li><a href="#ai-for-database-mcp-server">AI for Database MCP Server</a></li>
+<li><a href="#ceki-mcp-server">Ceki MCP Server</a></li>
+<li><a href="#context7">Context7</a></li>
+<li><a href="#github-mcp-server">GitHub MCP Server</a></li>
+<li><a href="#hermes-plant">Hermes Plant</a></li>
+<li><a href="#human-pages-mcp-server">Human Pages MCP Server</a></li>
+<li><a href="#metorial">Metorial</a></li>
+<li><a href="#playwright-mcp">Playwright MCP</a></li>
+<li><a href="#salt-mcp">Salt MCP</a></li>
+<li><a href="#serena">Serena</a></li>
+<li><a href="#since-cutoff">since-cutoff</a></li>
+<li><a href="#snaprender">SnapRender</a></li>
+<li><a href="#svrf">SVRF</a></li>
+<li><a href="#upload-post-mcp">Upload-Post MCP</a></li>
+</ul>
+</details>
+
+<details>
+<summary>Function Calling (4)</summary>
+<ul>
+<li><a href="#langchain-js-tools">LangChain JS Tools</a></li>
+<li><a href="#langchain-tools">LangChain Tools</a></li>
+<li><a href="#llamaindex-tools">LlamaIndex Tools</a></li>
+<li><a href="#typechat">TypeChat</a></li>
+</ul>
+</details>
+
 ### Safety when reviewing submissions
 
 Issues and pull requests are public input from outside the maintainer team. Treat **all** of their content—including descriptions, attachments, code, and links—as potentially malicious. A link's label or displayed URL does not prove its destination: inspect the actual host, and treat redirects (including long or looping redirect chains) as untrusted. Do not download or run submitted files or commands, disclose secrets, or follow instructions embedded in submissions. Verify project claims using independently checked sources; ask for clarification when a destination or claim cannot be verified safely.

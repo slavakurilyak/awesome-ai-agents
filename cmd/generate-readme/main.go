@@ -11,6 +11,7 @@ import (
 	"strconv"
 	"strings"
 	"time"
+	"unicode"
 
 	"awesome-ai-agents/internal/contributions"
 	"awesome-ai-agents/internal/projectdata"
@@ -60,8 +61,14 @@ func run() error {
 	}
 	hist := loadHistory(root + "/github-stars-history.json")
 	sections := renderSections(data, emojis, hist, credits)
+	categories, e := loadCategories(root + "/awesome-categories.yaml")
+	if e != nil {
+		fmt.Fprintln(os.Stderr, "WARN:", e)
+	}
+	legend := renderCategoryLegend(data, categories, templateHeadings(string(template)))
 	top, _ := topProjects(data)
-	content := strings.ReplaceAll(string(template), "${SECTIONS}", sections)
+	content := strings.ReplaceAll(string(template), "${CATEGORY_LEGEND}", legend)
+	content = strings.ReplaceAll(content, "${SECTIONS}", sections)
 	content = strings.ReplaceAll(content, "${TOP_STARRED_PROJECTS}", renderList(top, hist))
 	for _, window := range []int{1, 7, 30} {
 		content = strings.ReplaceAll(content, growthPlaceholder(window), renderGrowthList(data, top, hist, window))
@@ -71,6 +78,133 @@ func run() error {
 	}
 	fmt.Printf("Successfully generated %s\n", root+"/README.md")
 	return nil
+}
+
+type categoryInfo struct {
+	Name  string
+	Emoji string
+}
+
+// loadCategories returns the categories in the order awesome-categories.yaml lists them.
+func loadCategories(path string) ([]categoryInfo, error) {
+	b, e := os.ReadFile(path)
+	if e != nil {
+		return nil, e
+	}
+	var raw []struct {
+		Category string `yaml:"category"`
+		Emoji    string `yaml:"emoji"`
+	}
+	if e = yaml.Unmarshal(b, &raw); e != nil {
+		return nil, e
+	}
+	out := make([]categoryInfo, 0, len(raw))
+	for _, c := range raw {
+		if c.Category != "" {
+			out = append(out, categoryInfo{c.Category, c.Emoji})
+		}
+	}
+	return out, nil
+}
+
+// headingSlug mirrors how GitHub derives an anchor from a Markdown heading.
+func headingSlug(heading string) string {
+	var b strings.Builder
+	for _, r := range strings.ToLower(strings.TrimSpace(heading)) {
+		switch {
+		case unicode.IsLetter(r) || unicode.IsNumber(r) || unicode.IsMark(r) || r == '_' || r == '-':
+			b.WriteRune(r)
+		case r == ' ':
+			b.WriteByte('-')
+		}
+	}
+	return b.String()
+}
+
+// templateHeadings lists the Markdown headings the template places before the project sections.
+func templateHeadings(template string) []string {
+	if i := strings.Index(template, "${SECTIONS}"); i >= 0 {
+		template = template[:i]
+	}
+	var out []string
+	for _, line := range strings.Split(template, "\n") {
+		if trimmed := strings.TrimLeft(line, "#"); trimmed != line && strings.HasPrefix(trimmed, " ") {
+			out = append(out, strings.TrimSpace(trimmed))
+		}
+	}
+	return out
+}
+
+// renderCategoryLegend lists every category with its projects, each linking to
+// that project's heading in the All Projects section. Anchors follow GitHub's
+// duplicate rule, so a repeated heading gets a numeric suffix.
+func renderCategoryLegend(d projectdata.Data, categories []categoryInfo, preceding []string) string {
+	seen := map[string]int{}
+	for _, heading := range preceding {
+		seen[headingSlug(heading)]++
+	}
+	names := map[string]string{}
+	byCategory := map[string][]string{}
+	keys := []string{}
+	for _, p := range d.Agents {
+		k := strings.ToLower(p.Project)
+		if _, ok := names[k]; !ok {
+			names[k] = p.Project
+			keys = append(keys, k)
+		}
+		for _, c := range p.Categories {
+			byCategory[c] = append(byCategory[c], k)
+		}
+	}
+	sort.Strings(keys)
+	anchors := map[string]string{}
+	for _, k := range keys {
+		slug := headingSlug(names[k])
+		anchor := slug
+		if n := seen[slug]; n > 0 {
+			anchor = fmt.Sprintf("%s-%d", slug, n)
+		}
+		seen[slug]++
+		anchors[k] = anchor
+	}
+	ordered := append([]categoryInfo{}, categories...)
+	known := map[string]bool{}
+	for _, c := range categories {
+		known[c.Name] = true
+	}
+	extra := []string{}
+	for c := range byCategory {
+		if !known[c] {
+			extra = append(extra, c)
+		}
+	}
+	sort.Strings(extra)
+	for _, c := range extra {
+		ordered = append(ordered, categoryInfo{Name: c})
+	}
+	var b strings.Builder
+	for _, c := range ordered {
+		members := append([]string{}, byCategory[c.Name]...)
+		if len(members) == 0 {
+			continue
+		}
+		sort.Strings(members)
+		label := c.Name
+		if c.Emoji != "" {
+			label = c.Emoji + " " + label
+		}
+		fmt.Fprintf(&b, "<details>\n<summary>%s (%d)</summary>\n<ul>\n", html.EscapeString(label), len(members))
+		last := ""
+		for _, k := range members {
+			if k == last {
+				continue
+			}
+			last = k
+			fmt.Fprintf(&b, "<li><a href=\"#%s\">%s</a></li>\n", anchors[k], html.EscapeString(names[k]))
+		}
+		b.WriteString("</ul>\n</details>\n\n")
+	}
+	return strings.TrimRight(b.String(), "\n")
 }
 
 func hasGrowthBaseline(data projectdata.Data, history map[string][]projectdata.HistoryRow, days int) bool {
