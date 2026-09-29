@@ -2878,6 +2878,18 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/ItSeemedLikeAGoodIdeaAtTheTime/strata">github</a></p>
 </div>
 
+### SUNGLASSES
+<div><a href="https://github.com/sunglasses-dev/sunglasses"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/sunglasses-dev/sunglasses"><img src="https://img.shields.io/github/stars/sunglasses-dev/sunglasses?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/sunglasses-dev">@sunglasses-dev</a></p>
+<p>🛡️ Safety Guardrails (Safeguarding)</p>
+
+<p>SUNGLASSES is an open-source local input firewall for AI agents that scans text and files for prompt injection, credential leaks and data exfiltration, and reports both what it matched and what it could not read.</p>
+
+<p><a href="https://github.com/sunglasses-dev/sunglasses">github</a></p>
+<p><strong>Capabilities:</strong> Scan text, files, PDFs, images and QR codes locally for prompt injection, credential leaks and data exfiltration patterns · Report findings together with the inputs it could not read, so an agent can decide what to pass onward · Block credential paths and policy violations before a tool runs through a Claude Code hook · Refuse MCP tool calls through a local proxy until a person approves the server at an interactive terminal</p>
+<p><strong>Interfaces:</strong> CLI · Python API · MCP · GitHub Action · Claude Code hook</p>
+</div>
+
 ### Superagent
 <div><a href="https://github.com/superagent-ai/superagent"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/superagent-ai/superagent"><img src="https://img.shields.io/github/stars/superagent-ai/superagent?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/superagent-ai">@superagent-ai</a></p>
