@@ -1061,7 +1061,7 @@ Here's an awesome list of AI agents:
 
 ### Arize Phoenix
 <div><a href="https://github.com/Arize-ai/phoenix"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Arize-ai/phoenix"><img src="https://img.shields.io/github/stars/Arize-ai/phoenix?style=social" alt="GitHub stars"></a></div>
-<p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/Arize-ai">@Arize-ai</a></p>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/lclark0308">@lclark0308</a> <small>(self-reported founder/team)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/627">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/661">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/Arize-ai">@Arize-ai</a></p>
 <p>📊 Evaluation Frameworks | 👁️ Observability Frameworks</p>
 
 <p>Arize Phoenix is a source-available AI observability and evaluation platform, built on OpenTelemetry and OpenInference, for tracing, evaluating and debugging AI applications and agents in your own environment.</p>
