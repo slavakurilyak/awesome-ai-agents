@@ -2116,7 +2116,7 @@ Here's an awesome list of AI agents:
 
 ### Hyperconsciousness
 <div><a href="https://github.com/louis030195/hyperconsciousness"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/louis030195/hyperconsciousness"><img src="https://img.shields.io/github/stars/louis030195/hyperconsciousness?style=social" alt="GitHub stars"></a></div>
-<p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/louis030195">@louis030195</a></p>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/louis030195">@louis030195</a> <small>(self-reported founder/team)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/629">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/662">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/louis030195">@louis030195</a></p>
 <p>🧠 Long-Term Memory | 🔌 MCP Servers</p>
 
 <p>Hyperconsciousness is an MIT-licensed developer alpha Rust knowledge store for humans and AI agents that keeps signed, encrypted, append-only records and exposes scoped, expiring retrieval and capture grants through CLI, MCP and HTTP.</p>
