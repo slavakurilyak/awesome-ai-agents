@@ -499,10 +499,11 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 </details>
 
 <details>
-<summary>🔌 MCP Servers (16)</summary>
+<summary>🔌 MCP Servers (17)</summary>
 <ul>
 <li><a href="#agentservices">AgentServices</a></li>
 <li><a href="#ai-for-database-mcp-server">AI for Database MCP Server</a></li>
+<li><a href="#busabase">Busabase</a></li>
 <li><a href="#ceki-mcp-server">Ceki MCP Server</a></li>
 <li><a href="#context7">Context7</a></li>
 <li><a href="#github-mcp-server">GitHub MCP Server</a></li>
@@ -1340,6 +1341,18 @@ Here's an awesome list of AI agents:
 <p>Open-source Python and Node.js SDKs and an MCP server that connect agents to BulkPublish's hosted social publishing API, with tools for drafting, scheduling, publishing, approvals, and analytics.</p>
 
 <p><a href="https://github.com/azeemkafridi/bulkpublish-api">github</a></p>
+</div>
+
+### Busabase
+<div><a href="https://github.com/busabase/busabase"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/busabase/busabase"><img src="https://img.shields.io/github/stars/busabase/busabase?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/busabase">@busabase</a></p>
+<p>🔌 MCP Servers</p>
+
+<p>Busabase is an open-source local first database and workspace that exposes structured records, documents, skills and workspace operations to external AI agents through MCP, OpenAPI and a CLI, with every write carried as a reviewable change request.</p>
+
+<p><a href="https://github.com/busabase/busabase">github</a></p>
+<p><strong>Capabilities:</strong> Expose structured records, documents, reusable skills and workspace operations to agents · Let agents propose data or document changes as change requests with a diff, author, message and history · Merge changes immediately or hold them for review depending on the credential permission</p>
+<p><strong>Interfaces:</strong> MCP · OpenAPI · CLI</p>
 </div>
 
 ### BuyWhere MCP Server

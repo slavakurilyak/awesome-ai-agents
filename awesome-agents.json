@@ -7351,6 +7351,36 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "id": "busabase-3f0a0822",
+      "project": "Busabase",
+      "project_description": "Busabase is an open-source local first database and workspace that exposes structured records, documents, skills and workspace operations to external AI agents through MCP, OpenAPI and a CLI, with every write carried as a reviewable change request.",
+      "has_public_repository": true,
+      "categories": [
+        "MCP Servers"
+      ],
+      "capabilities": [
+        "Expose structured records, documents, reusable skills and workspace operations to agents",
+        "Let agents propose data or document changes as change requests with a diff, author, message and history",
+        "Merge changes immediately or hold them for review depending on the credential permission"
+      ],
+      "interfaces": [
+        "MCP",
+        "OpenAPI",
+        "CLI"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/busabase/busabase",
+          "repository_owner": "busabase",
+          "repository_owner_url": "https://github.com/busabase",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-29T20:16:16Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
