@@ -7199,6 +7199,34 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "id": "cerebrumkit-338ce9e6",
+      "project": "CerebrumKit",
+      "project_description": "CerebrumKit is a self-hosted starting point for agentic projects where agents are assembled in an admin panel from skills and tools stored as database rows, with a workflow canvas and a client chat panel.",
+      "has_public_repository": true,
+      "categories": [
+        "AI Agents"
+      ],
+      "capabilities": [
+        "Assemble agents from skills and Python tools with OpenAI function specs, editable without a restart",
+        "Route work through a start, group and stop workflow canvas, with a second group reviewing the first and one agent delegating to another",
+        "Point agents at any OpenAI compatible endpoint including DeepSeek, OpenAI, OpenRouter, Groq, vLLM and Ollama"
+      ],
+      "interfaces": [
+        "Web UI"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/islomkhon/CerebrumKit",
+          "repository_owner": "islomkhon",
+          "repository_owner_url": "https://github.com/islomkhon",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-29T20:04:41Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
