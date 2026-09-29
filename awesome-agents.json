@@ -7227,6 +7227,34 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "id": "house-party-protocol-c2f41e40",
+      "project": "House Party Protocol",
+      "project_description": "House Party Protocol is a local first Python harness for Claude Code and Codex CLI teams that records criterion command results outside the model, refuses verdicts from the builder's own lane, and binds approvals to a spec hash.",
+      "has_public_repository": true,
+      "categories": [
+        "Evaluation Frameworks"
+      ],
+      "capabilities": [
+        "Run a criterion command with its exit code recorded outside the model and its artifacts hashed",
+        "Refuse an attestation from the builder own lane or model family and bind approvals to the spec hash, base commit and file snapshot",
+        "Report pass@k and pass^k separately over repeated runs and gate on the result"
+      ],
+      "interfaces": [
+        "CLI"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/rusharlabs/house-party-protocol",
+          "repository_owner": "rusharlabs",
+          "repository_owner_url": "https://github.com/rusharlabs",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-29T20:04:51Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [

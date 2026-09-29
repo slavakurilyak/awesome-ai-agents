@@ -1537,6 +1537,18 @@ Here's an awesome list of AI agents:
 <p><strong>Interfaces:</strong> TypeScript package · Registry Broker API</p>
 </div>
 
+### House Party Protocol
+<div><a href="https://github.com/rusharlabs/house-party-protocol"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/rusharlabs/house-party-protocol"><img src="https://img.shields.io/github/stars/rusharlabs/house-party-protocol?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/rusharlabs">@rusharlabs</a></p>
+<p>📊 Evaluation Frameworks</p>
+
+<p>House Party Protocol is a local first Python harness for Claude Code and Codex CLI teams that records criterion command results outside the model, refuses verdicts from the builder's own lane, and binds approvals to a spec hash.</p>
+
+<p><a href="https://github.com/rusharlabs/house-party-protocol">github</a></p>
+<p><strong>Capabilities:</strong> Run a criterion command with its exit code recorded outside the model and its artifacts hashed · Refuse an attestation from the builder own lane or model family and bind approvals to the spec hash, base commit and file snapshot · Report pass@k and pass^k separately over repeated runs and gate on the result</p>
+<p><strong>Interfaces:</strong> CLI</p>
+</div>
+
 ### Human Pages MCP Server
 <div><a href="https://github.com/human-pages-ai/humanpages"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/human-pages-ai/humanpages"><img src="https://img.shields.io/github/stars/human-pages-ai/humanpages?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/human-pages-ai">@human-pages-ai</a></p>
