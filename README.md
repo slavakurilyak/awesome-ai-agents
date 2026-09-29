@@ -2290,7 +2290,7 @@ Here's an awesome list of AI agents:
 
 ### OpenBot
 <div><a href="https://github.com/regnull/openbot"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/regnull/openbot"><img src="https://img.shields.io/github/stars/regnull/openbot?style=social" alt="GitHub stars"></a></div>
-<p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/regnull">@regnull</a></p>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/regnull">@regnull</a> <small>(self-reported founder/team)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/640">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/653">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/regnull">@regnull</a></p>
 <p>🤖 AI Agents | 🧠 Long-Term Memory</p>
 
 <p>OpenBot is an open-source self-hosted platform for running a team of persistent AI bots that wake on incoming messages, use shell, HTTP, custom Python and MCP tools, keep long term memory, and pause for human approval.</p>
