@@ -793,6 +793,20 @@
           "status": "self_reported"
         }
       ]
+    },
+    {
+      "project_id": "solveathome-d98c40e9",
+      "submitted_by": [
+        {
+          "github_id": 210279,
+          "login": "Benjaminsen",
+          "evidence_url": "https://github.com/slavakurilyak/awesome-ai-agents/issues/624",
+          "acceptance_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/655",
+          "at": "2026-09-26T11:51:12Z",
+          "status": "accepted_submission",
+          "founder_team_claim": true
+        }
+      ]
     }
   ]
 }

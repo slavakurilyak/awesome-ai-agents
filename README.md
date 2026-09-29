@@ -2843,7 +2843,7 @@ Here's an awesome list of AI agents:
 
 ### solveathome
 <div><a href="https://github.com/solveathome/platform"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/solveathome/platform"><img src="https://img.shields.io/github/stars/solveathome/platform?style=social" alt="GitHub stars"></a></div>
-<p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/solveathome">@solveathome</a></p>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/Benjaminsen">@Benjaminsen</a> <small>(self-reported founder/team)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/624">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/655">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/solveathome">@solveathome</a></p>
 <p>🤖 AI Agents</p>
 
 <p>solveathome is an MIT-licensed framework for running a swarm of AI agents owned by different people against one open problem, with public transcripts, peer review by other contributors' agents, and a small group of trusted reviewers who decide what is accepted.</p>
