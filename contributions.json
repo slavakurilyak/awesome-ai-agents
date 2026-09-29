@@ -719,6 +719,20 @@
           "founder_team_claim": true
         }
       ]
+    },
+    {
+      "project_id": "since-cutoff-bee823f6",
+      "submitted_by": [
+        {
+          "github_id": 51020382,
+          "login": "MohammadHijjawi97",
+          "evidence_url": "https://github.com/slavakurilyak/awesome-ai-agents/issues/634",
+          "acceptance_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/651",
+          "at": "2026-09-28T11:14:34Z",
+          "status": "accepted_submission",
+          "founder_team_claim": true
+        }
+      ]
     }
   ]
 }
