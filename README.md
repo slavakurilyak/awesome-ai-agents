@@ -2880,7 +2880,7 @@ Here's an awesome list of AI agents:
 
 ### SUNGLASSES
 <div><a href="https://github.com/sunglasses-dev/sunglasses"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/sunglasses-dev/sunglasses"><img src="https://img.shields.io/github/stars/sunglasses-dev/sunglasses?style=social" alt="GitHub stars"></a></div>
-<p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/sunglasses-dev">@sunglasses-dev</a></p>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/azrollin">@azrollin</a> <small>(self-reported founder/team)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/623">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/646">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/sunglasses-dev">@sunglasses-dev</a></p>
 <p>🛡️ Safety Guardrails (Safeguarding)</p>
 
 <p>SUNGLASSES is an open-source local input firewall for AI agents that scans text and files for prompt injection, credential leaks and data exfiltration, and reports both what it matched and what it could not read.</p>
