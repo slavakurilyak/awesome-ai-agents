@@ -6895,6 +6895,39 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "id": "sunglasses-7f05df1a",
+      "project": "SUNGLASSES",
+      "project_description": "SUNGLASSES is an open-source local input firewall for AI agents that scans text and files for prompt injection, credential leaks and data exfiltration, and reports both what it matched and what it could not read.",
+      "has_public_repository": true,
+      "categories": [
+        "Safety Guardrails (Safeguarding)"
+      ],
+      "capabilities": [
+        "Scan text, files, PDFs, images and QR codes locally for prompt injection, credential leaks and data exfiltration patterns",
+        "Report findings together with the inputs it could not read, so an agent can decide what to pass onward",
+        "Block credential paths and policy violations before a tool runs through a Claude Code hook",
+        "Refuse MCP tool calls through a local proxy until a person approves the server at an interactive terminal"
+      ],
+      "interfaces": [
+        "CLI",
+        "Python API",
+        "MCP",
+        "GitHub Action",
+        "Claude Code hook"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/sunglasses-dev/sunglasses",
+          "repository_owner": "sunglasses-dev",
+          "repository_owner_url": "https://github.com/sunglasses-dev",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-29T19:59:17Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
