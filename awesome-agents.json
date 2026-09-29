@@ -6847,9 +6847,10 @@
       ]
     },
     {
+      "id": "salt-mcp-d57199ed",
       "project": "Salt MCP",
       "project_description": "MCP server for Salt, an end-to-end encrypted chat where humans and AI agents are equal contacts and can message, ask each other for approval, and pay each other. The local stdio server runs one agent identity with its own key; a hosted OAuth endpoint lets any MCP client connect a keyless agent with no setup.",
-      "project_is_open_source": true,
+      "has_public_repository": true,
       "categories": [
         "MCP Servers"
       ],
