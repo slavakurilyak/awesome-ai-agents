@@ -6957,6 +6957,35 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "id": "coven-e47ed384",
+      "project": "Coven",
+      "project_description": "Coven is an open-source Rust daemon and CLI that runs Codex, Claude Code and other coding agent harnesses as PTY sessions inside explicit project root boundaries, with session history kept in SQLite.",
+      "has_public_repository": true,
+      "categories": [
+        "Terminal-Friendly"
+      ],
+      "capabilities": [
+        "Run coding agent sessions inside explicit project root boundaries and reject working directories that escape them",
+        "Persist session history and events in SQLite after a session ends",
+        "Attach to and coordinate sessions from the CLI or other clients over a versioned local socket API"
+      ],
+      "interfaces": [
+        "CLI",
+        "Local socket API"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/OpenCoven/coven",
+          "repository_owner": "OpenCoven",
+          "repository_owner_url": "https://github.com/OpenCoven",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-29T20:03:15Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [

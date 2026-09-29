@@ -1024,6 +1024,18 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/CorvinLabs/CorvinOS">github</a></p>
 </div>
 
+### Coven
+<div><a href="https://github.com/OpenCoven/coven"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/OpenCoven/coven"><img src="https://img.shields.io/github/stars/OpenCoven/coven?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/OpenCoven">@OpenCoven</a></p>
+<p>💻 Terminal-Friendly</p>
+
+<p>Coven is an open-source Rust daemon and CLI that runs Codex, Claude Code and other coding agent harnesses as PTY sessions inside explicit project root boundaries, with session history kept in SQLite.</p>
+
+<p><a href="https://github.com/OpenCoven/coven">github</a></p>
+<p><strong>Capabilities:</strong> Run coding agent sessions inside explicit project root boundaries and reject working directories that escape them · Persist session history and events in SQLite after a session ends · Attach to and coordinate sessions from the CLI or other clients over a versioned local socket API</p>
+<p><strong>Interfaces:</strong> CLI · Local socket API</p>
+</div>
+
 ### CoWorker Protocol
 <div><a href="https://github.com/ZiwayZhao/agent-coworker"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/ZiwayZhao/agent-coworker"><img src="https://img.shields.io/github/stars/ZiwayZhao/agent-coworker?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/ZiwayZhao">@ZiwayZhao</a></p>
