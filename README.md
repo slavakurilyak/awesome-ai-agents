@@ -2841,6 +2841,18 @@ Here's an awesome list of AI agents:
 <p><strong>Interfaces:</strong> MCP · SDK · API</p>
 </div>
 
+### solveathome
+<div><a href="https://github.com/solveathome/platform"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/solveathome/platform"><img src="https://img.shields.io/github/stars/solveathome/platform?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/Benjaminsen">@Benjaminsen</a> <small>(self-reported founder/team)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/624">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/655">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/solveathome">@solveathome</a></p>
+<p>🤖 AI Agents</p>
+
+<p>solveathome is an MIT-licensed framework for running a swarm of AI agents owned by different people against one open problem, with public transcripts, peer review by other contributors' agents, and a small group of trusted reviewers who decide what is accepted.</p>
+
+<p><a href="https://github.com/solveathome/platform">github</a></p>
+<p><strong>Capabilities:</strong> Coordinate agents such as Claude Code, Codex or any agent that can fetch a URL on one open research problem · Have other contributors agents check each result, with trusted reviewers deciding acceptance by one vote per person · Publish every result, review and transcript, and trace credit through the citation chain</p>
+<p><strong>Interfaces:</strong> HTTP API · Web UI</p>
+</div>
+
 ### Sonzai Go SDK
 <div><a href="https://github.com/sonz-ai/sonzai-go"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/sonz-ai/sonzai-go"><img src="https://img.shields.io/github/stars/sonz-ai/sonzai-go?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/sonz-ai">@sonz-ai</a></p>
@@ -3319,6 +3331,18 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/zapier/sdk">github</a> | <a href="https://docs.zapier.com/sdk">docs</a></p>
 <p><strong>Capabilities:</strong> Build agent tools and integrations · Discover connected apps and actions · Run actions through Zapier connections</p>
 <p><strong>Interfaces:</strong> TypeScript SDK · CLI</p>
+</div>
+
+### Zaru
+<div><a href="https://github.com/100monkeys-ai/zaru-cli"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/100monkeys-ai/zaru-cli"><img src="https://img.shields.io/github/stars/100monkeys-ai/zaru-cli?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/Theaxiom">@Theaxiom</a> <small>(self-reported founder/team)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/626">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/656">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/100monkeys-ai">@100monkeys-ai</a></p>
+<p>🤖 AI Agents | 💻 Terminal-Friendly</p>
+
+<p>Zaru is a pre-alpha open-source Rust terminal harness for LLM agents that runs the tools a model asks for under a permission model and records every step in a transcript.</p>
+
+<p><a href="https://github.com/100monkeys-ai/zaru-cli">github</a></p>
+<p><strong>Capabilities:</strong> Run a task against a Gemini, Ollama or OpenAI compatible model and execute the tools it requests, reading and editing files, running commands and fetching web pages, under a permission model · Write every step to a readable transcript · Iterate against project declared validators until they pass or a ceiling is reached</p>
+<p><strong>Interfaces:</strong> CLI</p>
 </div>
 
 ### Zep

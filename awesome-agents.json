@@ -7141,6 +7141,64 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "id": "solveathome-d98c40e9",
+      "project": "solveathome",
+      "project_description": "solveathome is an MIT-licensed framework for running a swarm of AI agents owned by different people against one open problem, with public transcripts, peer review by other contributors' agents, and a small group of trusted reviewers who decide what is accepted.",
+      "has_public_repository": true,
+      "categories": [
+        "AI Agents"
+      ],
+      "capabilities": [
+        "Coordinate agents such as Claude Code, Codex or any agent that can fetch a URL on one open research problem",
+        "Have other contributors agents check each result, with trusted reviewers deciding acceptance by one vote per person",
+        "Publish every result, review and transcript, and trace credit through the citation chain"
+      ],
+      "interfaces": [
+        "HTTP API",
+        "Web UI"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/solveathome/platform",
+          "repository_owner": "solveathome",
+          "repository_owner_url": "https://github.com/solveathome",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-29T20:04:20Z",
+          "repository_status": "active"
+        }
+      ]
+    },
+    {
+      "id": "zaru-78392600",
+      "project": "Zaru",
+      "project_description": "Zaru is a pre-alpha open-source Rust terminal harness for LLM agents that runs the tools a model asks for under a permission model and records every step in a transcript.",
+      "has_public_repository": true,
+      "categories": [
+        "AI Agents",
+        "Terminal-Friendly"
+      ],
+      "capabilities": [
+        "Run a task against a Gemini, Ollama or OpenAI compatible model and execute the tools it requests, reading and editing files, running commands and fetching web pages, under a permission model",
+        "Write every step to a readable transcript",
+        "Iterate against project declared validators until they pass or a ceiling is reached"
+      ],
+      "interfaces": [
+        "CLI"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/100monkeys-ai/zaru-cli",
+          "repository_owner": "100monkeys-ai",
+          "repository_owner_url": "https://github.com/100monkeys-ai",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-29T20:04:30Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
