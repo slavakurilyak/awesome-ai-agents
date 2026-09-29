@@ -7287,6 +7287,39 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "id": "arize-phoenix-aea0984b",
+      "project": "Arize Phoenix",
+      "project_description": "Arize Phoenix is a source-available AI observability and evaluation platform, built on OpenTelemetry and OpenInference, for tracing, evaluating and debugging AI applications and agents in your own environment.",
+      "has_public_repository": true,
+      "categories": [
+        "Observability Frameworks",
+        "Evaluation Frameworks"
+      ],
+      "capabilities": [
+        "Trace agent runs and tool calls using OpenTelemetry and OpenInference standards",
+        "Run LLM-as-a-judge and custom evaluations on traces",
+        "Compare prompts and datasets in experiments and manage prompts",
+        "Self-host in a notebook, Docker or Kubernetes"
+      ],
+      "interfaces": [
+        "Web UI",
+        "Python SDK",
+        "REST API",
+        "MCP"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/Arize-ai/phoenix",
+          "repository_owner": "Arize-ai",
+          "repository_owner_url": "https://github.com/Arize-ai",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-29T20:14:20Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [

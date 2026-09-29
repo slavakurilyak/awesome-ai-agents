@@ -237,11 +237,12 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 </details>
 
 <details>
-<summary>📊 Evaluation Frameworks (12)</summary>
+<summary>📊 Evaluation Frameworks (13)</summary>
 <ul>
 <li><a href="#agentfix-mini-scanner">agentfix-mini-scanner</a></li>
 <li><a href="#agentleak">AgentLeak</a></li>
 <li><a href="#agentops">AgentOps</a></li>
+<li><a href="#arize-phoenix">Arize Phoenix</a></li>
 <li><a href="#browserbash">BrowserBash</a></li>
 <li><a href="#clawbench">ClawBench</a></li>
 <li><a href="#house-party-protocol">House Party Protocol</a></li>
@@ -255,12 +256,13 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 </details>
 
 <details>
-<summary>👁️ Observability Frameworks (13)</summary>
+<summary>👁️ Observability Frameworks (14)</summary>
 <ul>
 <li><a href="#agent-express">Agent Express</a></li>
 <li><a href="#agentfield">AgentField</a></li>
 <li><a href="#agenttrace">AgentTrace</a></li>
 <li><a href="#agentwatch">AgentWatch</a></li>
+<li><a href="#arize-phoenix">Arize Phoenix</a></li>
 <li><a href="#ax">ax</a></li>
 <li><a href="#clawmetry">ClawMetry</a></li>
 <li><a href="#halo-record">halo-record</a></li>
@@ -1055,6 +1057,18 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/Deesmo/Arch-AI-Tools">github</a></p>
 <p><strong>Capabilities:</strong> Call a collection of AI, web, crypto, and media tools · Pay per call with USDC through x402 · Integrate the tools into MCP-compatible agent clients</p>
 <p><strong>Interfaces:</strong> REST API · MCP server · TypeScript SDK</p>
+</div>
+
+### Arize Phoenix
+<div><a href="https://github.com/Arize-ai/phoenix"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Arize-ai/phoenix"><img src="https://img.shields.io/github/stars/Arize-ai/phoenix?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/lclark0308">@lclark0308</a> <small>(self-reported founder/team)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/627">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/661">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/Arize-ai">@Arize-ai</a></p>
+<p>📊 Evaluation Frameworks | 👁️ Observability Frameworks</p>
+
+<p>Arize Phoenix is a source-available AI observability and evaluation platform, built on OpenTelemetry and OpenInference, for tracing, evaluating and debugging AI applications and agents in your own environment.</p>
+
+<p><a href="https://github.com/Arize-ai/phoenix">github</a></p>
+<p><strong>Capabilities:</strong> Trace agent runs and tool calls using OpenTelemetry and OpenInference standards · Run LLM-as-a-judge and custom evaluations on traces · Compare prompts and datasets in experiments and manage prompts · Self-host in a notebook, Docker or Kubernetes</p>
+<p><strong>Interfaces:</strong> Web UI · Python SDK · REST API · MCP</p>
 </div>
 
 ### Aster
