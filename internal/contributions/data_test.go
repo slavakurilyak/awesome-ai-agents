@@ -43,3 +43,20 @@ func TestValidateRejectsUntrustedEvidenceScheme(t *testing.T) {
 		t.Fatal("Validate() accepted a non-HTTPS evidence URL")
 	}
 }
+
+func TestRequireSubmitterRejectsProjectWithoutCredit(t *testing.T) {
+	catalog := projectdata.Data{Agents: []projectdata.Project{
+		{ID: "credited-11111111", Project: "Credited"},
+		{ID: "bare-22222222", Project: "Bare"},
+	}}
+	ledger := Data{Projects: []Project{{ProjectID: "credited-11111111", SubmittedBy: []Credit{{Login: "someone"}}}}}
+	if err := RequireSubmitter(catalog, ledger, "credited"); err != nil {
+		t.Fatalf("RequireSubmitter rejected a credited project: %v", err)
+	}
+	if err := RequireSubmitter(catalog, ledger, "Bare"); err == nil {
+		t.Fatal("RequireSubmitter accepted a project without a submitter record")
+	}
+	if err := RequireSubmitter(catalog, ledger, "Missing"); err == nil {
+		t.Fatal("RequireSubmitter accepted a project that is not in the catalog")
+	}
+}

@@ -2014,7 +2014,7 @@ Here's an awesome list of AI agents:
 
 ### Hermes Agent
 <div><a href="https://github.com/NousResearch/hermes-agent"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/NousResearch/hermes-agent"><img src="https://img.shields.io/github/stars/NousResearch/hermes-agent?style=social" alt="GitHub stars"></a></div>
-<p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/NousResearch">@NousResearch</a></p>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/slavakurilyak">@slavakurilyak</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/665">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/665">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/NousResearch">@NousResearch</a></p>
 <p>🤖 AI Agents | 🧠 Long-Term Memory | 💻 Terminal-Friendly</p>
 
 <p>Hermes Agent is an open-source agent from Nous Research that runs in a terminal and through messaging platforms, keeps memory and creates skills from experience, and works with the model provider of your choice.</p>
@@ -3212,7 +3212,7 @@ Here's an awesome list of AI agents:
 
 ### Raven
 <div><a href="https://github.com/EverMind-AI/Raven"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/EverMind-AI/Raven"><img src="https://img.shields.io/github/stars/EverMind-AI/Raven?style=social" alt="GitHub stars"></a></div>
-<p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/EverMind-AI">@EverMind-AI</a></p>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/LivXue">@LivXue</a> <small>(self-reported founder/team)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/635">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/635">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/EverMind-AI">@EverMind-AI</a></p>
 <p>🤖 AI Agents</p>
 
 <p>Raven is an open-source host agent that plans complex tasks as DAGs and orchestrates built-in research, coding, design, and on-call agents plus third-party agents such as Claude Code, Codex, OpenClaw, and Hermes Agent over ACP, CLI, or OpenAI-compatible APIs.</p>
@@ -3296,7 +3296,7 @@ Here's an awesome list of AI agents:
 
 ### Salt MCP
 <div><a href="https://github.com/0000F8/salt-mcp"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/0000F8/salt-mcp"><img src="https://img.shields.io/github/stars/0000F8/salt-mcp?style=social" alt="GitHub stars"></a></div>
-<p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/0000F8">@0000F8</a></p>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/0000F8">@0000F8</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/631">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/631">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/0000F8">@0000F8</a></p>
 <p>🔌 MCP Servers</p>
 
 <p>MCP server for Salt, an end-to-end encrypted chat where humans and AI agents are equal contacts and can message, ask each other for approval, and pay each other. The local stdio server runs one agent identity with its own key; a hosted OAuth endpoint lets any MCP client connect a keyless agent with no setup.</p>
@@ -3599,7 +3599,7 @@ Here's an awesome list of AI agents:
 
 ### SVRF
 <div><a href="https://github.com/nybarius/SVRF"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/nybarius/SVRF"><img src="https://img.shields.io/github/stars/nybarius/SVRF?style=social" alt="GitHub stars"></a></div>
-<p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/nybarius">@nybarius</a></p>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/nybarius">@nybarius</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/622">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/622">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/nybarius">@nybarius</a></p>
 <p>🔌 MCP Servers</p>
 
 <p>SVRF is a merge train that batches, gates and lands pull requests for repositories where coding agents open pull requests faster than CI can gate them one by one; it ships an MCP server (svrf mcp) so an agent whose pull request is held can query why and fix it itself.</p>
