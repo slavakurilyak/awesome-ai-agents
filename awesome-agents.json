@@ -6928,6 +6928,35 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "id": "orcareplay-c2a25818",
+      "project": "OrcaReplay",
+      "project_description": "OrcaReplay records a coding agent run from outside the process, replays it offline against the recorded bytes with no model called, and forks a checkpoint onto other models graded by a verify command.",
+      "has_public_repository": true,
+      "categories": [
+        "Observability Frameworks"
+      ],
+      "capabilities": [
+        "Record a coding agent run at the process and socket boundary without modifying the agent, with model traffic, shell exit codes, per turn file changes and MCP JSON-RPC on one timeline",
+        "Replay a recorded session offline with no provider called and nothing spent",
+        "Fork one checkpoint onto several models and grade them by a verify command exit code"
+      ],
+      "interfaces": [
+        "CLI",
+        "Web UI"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/Continuum-AI-Corp/OrcaReplay",
+          "repository_owner": "Continuum-AI-Corp",
+          "repository_owner_url": "https://github.com/Continuum-AI-Corp",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-29T20:02:41Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [

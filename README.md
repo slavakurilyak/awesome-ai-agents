@@ -2365,6 +2365,18 @@ Here's an awesome list of AI agents:
 <p><strong>Interfaces:</strong> Web UI · API · SDK</p>
 </div>
 
+### OrcaReplay
+<div><a href="https://github.com/Continuum-AI-Corp/OrcaReplay"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Continuum-AI-Corp/OrcaReplay"><img src="https://img.shields.io/github/stars/Continuum-AI-Corp/OrcaReplay?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/Continuum-AI-Corp">@Continuum-AI-Corp</a></p>
+<p>👁️ Observability Frameworks</p>
+
+<p>OrcaReplay records a coding agent run from outside the process, replays it offline against the recorded bytes with no model called, and forks a checkpoint onto other models graded by a verify command.</p>
+
+<p><a href="https://github.com/Continuum-AI-Corp/OrcaReplay">github</a></p>
+<p><strong>Capabilities:</strong> Record a coding agent run at the process and socket boundary without modifying the agent, with model traffic, shell exit codes, per turn file changes and MCP JSON-RPC on one timeline · Replay a recorded session offline with no provider called and nothing spent · Fork one checkpoint onto several models and grade them by a verify command exit code</p>
+<p><strong>Interfaces:</strong> CLI · Web UI</p>
+</div>
+
 ### ORCH
 <div><a href="https://github.com/oxgeneral/ORCH"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/oxgeneral/ORCH"><img src="https://img.shields.io/github/stars/oxgeneral/ORCH?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/oxgeneral">@oxgeneral</a></p>
