@@ -6986,6 +6986,36 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "id": "upload-post-mcp-d1a54949",
+      "project": "Upload-Post MCP",
+      "project_description": "Upload-Post MCP is an open-source TypeScript MCP server that lets AI agents publish, schedule and manage social media posts, analytics, comments and messages across many platforms through the Upload-Post API.",
+      "has_public_repository": true,
+      "categories": [
+        "MCP Servers"
+      ],
+      "capabilities": [
+        "Upload and schedule videos, photos, text posts and documents to platforms such as TikTok, Instagram, YouTube and LinkedIn",
+        "Poll upload status, read analytics, reply to comments and messages, and manage the posting queue",
+        "Expose 58 tools with read only and destructive annotations so clients can ask for confirmation before destructive actions"
+      ],
+      "interfaces": [
+        "MCP",
+        "stdio",
+        "HTTP"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/Upload-Post/upload-post-mcp",
+          "repository_owner": "Upload-Post",
+          "repository_owner_url": "https://github.com/Upload-Post",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-29T20:03:24Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
