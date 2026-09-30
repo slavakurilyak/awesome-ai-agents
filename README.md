@@ -551,18 +551,7 @@ Projects are ranked by stars gained in each window; the percentage shows growth 
 
 ### Today
 
-<ol>
-<li><a href="https://github.com/BerriAI/litellm"><strong>LiteLLM</strong></a> - 59,628 stars · today +92 stars (+0.2%)<br>LiteLLM has added support for the OpenAI Assistants API, enabling seamless integration of stateful operations and automatic RAG pipelines into existing chatbots</li>
-<li><a href="https://github.com/e2b-dev/E2B"><strong>E2B</strong></a> - 13,970 stars · today +26 stars (+0.2%)<br>E2B Sandbox offers secure cloud environments tailored for AI agents and apps, facilitating long-running sessions with various tools and can be integrated with any large language model</li>
-<li><a href="https://github.com/assafelovic/gpt-researcher"><strong>GPT Researcher by Tavily</strong></a> - 29,623 stars · today +21 stars (+0.1%)<br>GPT Researcher is an AI-powered autonomous agent designed for efficient and unbiased online research, generating detailed reports by leveraging recent advancements in AI and web scraping, with a focus on speed, reliability, and cost-effectiveness</li>
-<li><a href="https://github.com/janhq/jan"><strong>Jan</strong></a> - 44,651 stars · today +18 stars (+0.0%)<br>Jan is an open-source, development-stage ChatGPT alternative that operates fully offline on diverse hardware platforms, supporting universal architectures from PCs to multi-GPU clusters</li>
-<li><a href="https://github.com/continuedev/continue"><strong>Continue</strong></a> - 36,028 stars · today +15 stars (+0.0%)<br>Continue is an open-source autopilot plugin for VS Code and JetBrains, enhancing coding with LLMs through features like task and tab autocomplete, natural language edits, file generation, and customization options, available under the Apache 2.0 license</li>
-<li><a href="https://github.com/deepset-ai/haystack"><strong>Haystack</strong></a> - 26,599 stars · today +13 stars (+0.0%)<br>Haystack is an end-to-end LLM framework facilitating the construction of applications powered by LLMs, Transformer models, vector search, and more, offering flexibility, transparency, and extensibility, with features including retrieval-augmented generation, document search, question answering, and semantic search, along with a diverse user base including companies like Airbus, Apple, and Netflix</li>
-<li><a href="https://github.com/calcom/cal.com/tree/main/apps/ai"><strong>Cal.ai</strong></a> - 48,648 stars · today +13 stars (+0.0%)<br>Cal.ai is an open-source AI scheduling assistant that manages email communications for booking, rearranging, and inquiring about meetings, leveraging a LangChain Agent Executor and MailParser for efficient scheduling without API key exposure</li>
-<li><a href="https://github.com/camel-ai/camel"><strong>CAMEL</strong></a> - 17,774 stars · today +9 stars (+0.1%)<br>CAMEL (Communicative Agents for Mind Exploration of Large Language Model Society) is an open-source library designed for studying autonomous and communicative agents, facilitating research in understanding their behaviors, capabilities, and potential risks through scalable techniques and cooperative frameworks, including role-playing, with extensive documentation, examples, and datasets, while also supporting integration with open-source models as backends for diverse applications</li>
-<li><a href="https://github.com/guardrails-ai/guardrails"><strong>Guardrails</strong></a> - 7,450 stars · today +6 stars (+0.1%)<br>Guardrails is a Python framework for building reliable AI applications, offering Input/Output Guards to detect and mitigate risks, along with structured data generation from large language models (LLMs)</li>
-<li><a href="https://github.com/kyegomez/swarms/"><strong>Swarms</strong></a> - 7,206 stars · today +5 stars (+0.1%)<br>Swarms orchestrates multi-agent collaboration for production-grade applications, solving issues like short memory and high costs, with customizable tools for specific needs, currently used by RBC, John Deere, and AI startups</li>
-</ol>
+<p><em>Collecting daily snapshots; this window will appear when enough history is available.</em></p>
 
 ### This Week (7 days)
 
@@ -575,16 +564,16 @@ Projects are ranked by stars gained in each window; the percentage shows growth 
 ## 🏆 Top 10 Projects by Total Stars
 
 <ol>
-<li><a href="https://github.com/openclaw/openclaw"><strong>OpenClaw</strong></a> - 390,506 stars<br>OpenClaw is a personal AI assistant that runs on your own devices and connects to messaging channels, tools, skills, scheduled tasks, and memory.</li>
-<li><a href="https://github.com/Significant-Gravitas/AutoGPT"><strong>AutoGPT</strong></a> - 187,557 stars<br>AutoGPT provides accessible AI tools for building and using AI agents, offering a comprehensive framework including Forge for agent creation, agbenchmark for performance evaluation, a leaderboard for competition, a user-friendly UI, and CLI for seamless integration and management</li>
-<li><a href="https://github.com/firecrawl/firecrawl"><strong>Firecrawl</strong></a> - 184,683 stars<br>Firecrawl turns websites into Markdown and structured data through crawl, scrape, and extract APIs.</li>
-<li><a href="https://github.com/ollama/ollama"><strong>Ollama</strong></a> - 181,717 stars<br>Ollama is a tool for running large language models locally, offering easy setup for macOS, Windows, Linux, and Docker, along with a library of models and quickstart guides for customization and integration</li>
-<li><a href="https://github.com/langchain-ai/langchain"><strong>LangChain</strong></a> - 147,058 stars<br>LangChain is a framework enabling context-aware reasoning applications with integrated libraries, templates, and developer tools</li>
-<li><a href="https://github.com/langchain-ai/langchain/"><strong>LangChain Tools</strong></a> - 147,058 stars<br>Langchain integrates various providers like Anthropic, AWS, and OpenAI, and offers tools for components such as LLMs, chat models, and data analysis, supporting functionalities from Alpha Vantage to YouTube</li>
-<li><a href="https://github.com/browser-use/browser-use"><strong>browser-use</strong></a> - 116,281 stars<br>browser-use lets AI agents interact with websites through a browser using page structure and vision.</li>
-<li><a href="https://github.com/OpenHands/OpenHands"><strong>OpenHands (formerly OpenDevin)</strong></a> - 89,166 stars<br>OpenHands is an open-source software development agent platform that can edit code, run commands, and interact with tools.</li>
-<li><a href="https://github.com/Panniantong/Agent-Reach"><strong>Agent Reach</strong></a> - 85,442 stars<br>Agent Reach installs and checks internet access tools for AI agents, routing search and platform access through supported CLIs and services.</li>
-<li><a href="https://github.com/unclecode/crawl4ai"><strong>Crawl4AI</strong></a> - 84,265 stars<br>Crawl4AI is an open-source web crawler that produces Markdown and structured data for AI applications.</li>
+<li><a href="https://github.com/openclaw/openclaw"><strong>OpenClaw</strong></a> - 390,816 stars<br>OpenClaw is a personal AI assistant that runs on your own devices and connects to messaging channels, tools, skills, scheduled tasks, and memory.</li>
+<li><a href="https://github.com/NousResearch/hermes-agent"><strong>Hermes Agent</strong></a> - 250,139 stars<br>Hermes Agent is an open-source agent from Nous Research that runs in a terminal and through messaging platforms, keeps memory and creates skills from experience, and works with the model provider of your choice.</li>
+<li><a href="https://github.com/Significant-Gravitas/AutoGPT"><strong>AutoGPT</strong></a> - 187,620 stars<br>AutoGPT provides accessible AI tools for building and using AI agents, offering a comprehensive framework including Forge for agent creation, agbenchmark for performance evaluation, a leaderboard for competition, a user-friendly UI, and CLI for seamless integration and management</li>
+<li><a href="https://github.com/firecrawl/firecrawl"><strong>Firecrawl</strong></a> - 186,772 stars<br>Firecrawl turns websites into Markdown and structured data through crawl, scrape, and extract APIs.</li>
+<li><a href="https://github.com/ollama/ollama"><strong>Ollama</strong></a> - 181,938 stars<br>Ollama is a tool for running large language models locally, offering easy setup for macOS, Windows, Linux, and Docker, along with a library of models and quickstart guides for customization and integration</li>
+<li><a href="https://github.com/langchain-ai/langchain"><strong>LangChain</strong></a> - 147,294 stars<br>LangChain is a framework enabling context-aware reasoning applications with integrated libraries, templates, and developer tools</li>
+<li><a href="https://github.com/langchain-ai/langchain/"><strong>LangChain Tools</strong></a> - 147,294 stars<br>Langchain integrates various providers like Anthropic, AWS, and OpenAI, and offers tools for components such as LLMs, chat models, and data analysis, supporting functionalities from Alpha Vantage to YouTube</li>
+<li><a href="https://github.com/browser-use/browser-use"><strong>browser-use</strong></a> - 116,769 stars<br>browser-use lets AI agents interact with websites through a browser using page structure and vision.</li>
+<li><a href="https://github.com/OpenHands/OpenHands"><strong>OpenHands (formerly OpenDevin)</strong></a> - 89,571 stars<br>OpenHands is an open-source software development agent platform that can edit code, run commands, and interact with tools.</li>
+<li><a href="https://github.com/Panniantong/Agent-Reach"><strong>Agent Reach</strong></a> - 86,233 stars<br>Agent Reach installs and checks internet access tools for AI agents, routing search and platform access through supported CLIs and services.</li>
 </ol>
 
 ## ✍️ All Projects
@@ -594,7 +583,7 @@ Here's an awesome list of AI agents:
 ### Agency Swarm by VRSEN
 <div><a href="https://github.com/VRSEN/agency-swarm"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/VRSEN/agency-swarm"><img src="https://img.shields.io/github/stars/VRSEN/agency-swarm?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/VRSEN">@VRSEN</a></p>
-<p>⭐ 4,580 stars</p>
+<p>⭐ 4,586 stars</p>
 <p>⚙️ Development Frameworks</p>
 
 <p>Agency Swarm is a framework designed to automate AI agencies by creating a swarm of collaborative agents with customizable roles and functionalities, aiming to simplify the agent creation process and make automation more intuitive</p>
@@ -605,6 +594,7 @@ Here's an awesome list of AI agents:
 ### Agent 007
 <div><a href="https://github.com/bill10/agent-007"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/bill10/agent-007"><img src="https://img.shields.io/github/stars/bill10/agent-007?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/bill10">@bill10</a> <small>(self-reported founder/team)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/527">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/620">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/bill10">@bill10</a></p>
+<p>⭐ 0 stars</p>
 <p>🤖 AI Agents</p>
 
 <p>A self-hosted job board that runs coding agents in isolated Git worktrees, queues jobs, and returns pull requests or summaries for review.</p>
@@ -617,7 +607,7 @@ Here's an awesome list of AI agents:
 ### Agent by Stately AI
 <div><a href="https://github.com/statelyai/agent/"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/statelyai/agent/"><img src="https://img.shields.io/github/stars/statelyai/agent?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/statelyai">@statelyai</a></p>
-<p>⭐ 464 stars</p>
+<p>⭐ 469 stars</p>
 <p>🤖 AI Agents</p>
 
 <p>Stately Agent is a software for building intelligent agents that interact via chat and events, with examples including joke generation, tic-tac-toe, and weather querying, requiring installation and an OpenAI API key</p>
@@ -654,7 +644,7 @@ Here's an awesome list of AI agents:
 ### Agent QA
 <div><a href="https://github.com/vostride/agent-qa"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/vostride/agent-qa"><img src="https://img.shields.io/github/stars/vostride/agent-qa?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/vostride">@vostride</a></p>
-<p>⭐ 887 stars</p>
+<p>⭐ 892 stars</p>
 <p>🤖 AI Agents</p>
 
 <p>Agent QA is a self-improving QA harness with memory for natural-language web and mobile tests; it adapts to UI changes and provides a dashboard, CLI, MCP server, and coding-agent skills.</p>
@@ -667,7 +657,7 @@ Here's an awesome list of AI agents:
 ### Agent Reach
 <div><a href="https://github.com/Panniantong/Agent-Reach"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Panniantong/Agent-Reach"><img src="https://img.shields.io/github/stars/Panniantong/Agent-Reach?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/Panniantong">@Panniantong</a></p>
-<p>⭐ 85,442 stars</p>
+<p>⭐ 86,233 stars</p>
 <p>⚙️ Development Frameworks</p>
 
 <p>Agent Reach installs and checks internet access tools for AI agents, routing search and platform access through supported CLIs and services.</p>
@@ -693,7 +683,7 @@ Here's an awesome list of AI agents:
 ### Agent Stack
 <div><a href="https://github.com/MukundaKatta/agent-stack"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/MukundaKatta/agent-stack"><img src="https://img.shields.io/github/stars/MukundaKatta/agent-stack?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/MukundaKatta">@MukundaKatta</a></p>
-<p>⭐ 5 stars</p>
+<p>⭐ 6 stars</p>
 <p>🤖 AI Agents | 🛡️ Safety Guardrails (Safeguarding)</p>
 
 <p>A set of small, single-purpose libraries that improve reliability in production LLM agents through tool validation, network controls, trace tests, context fitting, structured output checks, and usage budgets.</p>
@@ -706,7 +696,7 @@ Here's an awesome list of AI agents:
 ### Agent Teams
 <div><a href="https://github.com/777genius/agent-teams-ai"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/777genius/agent-teams-ai"><img src="https://img.shields.io/github/stars/777genius/agent-teams-ai?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/777genius">@777genius</a></p>
-<p>⭐ 2,167 stars</p>
+<p>⭐ 2,191 stars</p>
 <p>🤖 AI Agents</p>
 
 <p>A desktop app for directing autonomous coding-agent teams through Kanban tasks, shared messaging, code review, and approvals.</p>
@@ -719,7 +709,7 @@ Here's an awesome list of AI agents:
 ### Agent Trust Stack MCP Server
 <div><a href="https://github.com/alexfleetcommander/agent-trust-stack-mcp"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/alexfleetcommander/agent-trust-stack-mcp"><img src="https://img.shields.io/github/stars/alexfleetcommander/agent-trust-stack-mcp?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/alexfleetcommander">@alexfleetcommander</a></p>
-<p>⭐ 1 stars</p>
+<p>⭐ 2 stars</p>
 <p>🤖 AI Agents | 🛡️ Safety Guardrails (Safeguarding) | 🔧 Tool Calling (Function Calling)</p>
 
 <p>An MCP server for AI agents providing cryptographic activity provenance, chain integrity checks, agent identity verification, and reputation tools.</p>
@@ -743,6 +733,7 @@ Here's an awesome list of AI agents:
 ### agent-manager
 <div><a href="https://github.com/YoanWai/agent-manager"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/YoanWai/agent-manager"><img src="https://img.shields.io/github/stars/YoanWai/agent-manager?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/YoanWai">@YoanWai</a> <small>(self-reported founder/team)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/647">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/660">accepted PR</a> · <strong>Maintained by:</strong> <a href="https://github.com/YoanWai">@YoanWai</a> <small>(self-reported)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/647">evidence</a> · <strong>Repository owner:</strong> <a href="https://github.com/YoanWai">@YoanWai</a></p>
+<p>⭐ 545 stars</p>
 <p>🤖 AI Agents | 💻 Terminal-Friendly</p>
 
 <p>agent-manager is an open-source terminal UI that runs coding agent CLIs such as Claude Code, Codex, OpenCode and Gemini CLI unmodified, each in its own persistent tmux session, with a git worktree per session and diff review comments sent back to the agent.</p>
@@ -755,7 +746,7 @@ Here's an awesome list of AI agents:
 ### AgentBox
 <div><a href="https://github.com/madarco/agentbox"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/madarco/agentbox"><img src="https://img.shields.io/github/stars/madarco/agentbox?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/madarco">@madarco</a></p>
-<p>⭐ 489 stars</p>
+<p>⭐ 501 stars</p>
 <p>🤖 AI Agents | ⚙️ Development Frameworks</p>
 
 <p>Run multiple coding agents in parallel inside isolated local Docker containers or cloud virtual machines, with per-box browser and VS Code access.</p>
@@ -768,7 +759,7 @@ Here's an awesome list of AI agents:
 ### AgentField
 <div><a href="https://github.com/Agent-Field/agentfield"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Agent-Field/agentfield"><img src="https://img.shields.io/github/stars/Agent-Field/agentfield?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/Agent-Field">@Agent-Field</a></p>
-<p>⭐ 2,581 stars</p>
+<p>⭐ 2,591 stars</p>
 <p>🤖 AI Agents | ⚙️ Development Frameworks | 👁️ Observability Frameworks</p>
 
 <p>An open-source control plane for building and operating AI agents as callable services, with routing, coordination, asynchronous execution, memory, and observability.</p>
@@ -781,7 +772,7 @@ Here's an awesome list of AI agents:
 ### agentfix-mini-scanner
 <div><a href="https://github.com/Virt92/agentfix-oss-scanner"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Virt92/agentfix-oss-scanner"><img src="https://img.shields.io/github/stars/Virt92/agentfix-oss-scanner?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/Virt92">@Virt92</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/323">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/462">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/Virt92">@Virt92</a></p>
-<p>⭐ 1 stars</p>
+<p>⭐ 2 stars</p>
 <p>📊 Evaluation Frameworks</p>
 
 <p>A zero-dependency Node.js CLI that scans websites for AI-agent discovery and interoperability signals, reports a grade, and suggests fixes.</p>
@@ -803,7 +794,7 @@ Here's an awesome list of AI agents:
 ### AgentOps
 <div><a href="https://github.com/AgentOps-AI/agentops"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/AgentOps-AI/agentops"><img src="https://img.shields.io/github/stars/AgentOps-AI/agentops?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/AgentOps-AI">@AgentOps-AI</a></p>
-<p>⭐ 5,844 stars · Growth: today +4 stars (+0.1%)</p>
+<p>⭐ 5,850 stars</p>
 <p>📊 Evaluation Frameworks</p>
 
 <p>AgentOps aims to improve AI agent development with tools for observability, evaluations, and replay analytics, offering a streamlined process for testing and debugging compliant AI agents through a user-friendly interface and comprehensive documentation</p>
@@ -838,7 +829,7 @@ Here's an awesome list of AI agents:
 ### AgentServices
 <div><a href="https://github.com/vbkotecha/agentservices-api"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/vbkotecha/agentservices-api"><img src="https://img.shields.io/github/stars/vbkotecha/agentservices-api?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/vbkotecha">@vbkotecha</a></p>
-<p>⭐ 1 stars</p>
+<p>⭐ 2 stars</p>
 <p>🔌 MCP Servers</p>
 
 <p>AgentServices exposes crypto market and DeFi data to AI agents through a REST API and MCP server, with x402 micropayments for paid requests.</p>
@@ -849,7 +840,7 @@ Here's an awesome list of AI agents:
 ### AgentStamp
 <div><a href="https://github.com/vinaybhosle/agentstamp"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/vinaybhosle/agentstamp"><img src="https://img.shields.io/github/stars/vinaybhosle/agentstamp?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/vinaybhosle">@vinaybhosle</a></p>
-<p>⭐ 1 stars</p>
+<p>⭐ 2 stars</p>
 <p>🛡️ Safety Guardrails (Safeguarding) | 📏 Standardization</p>
 
 <p>An agent identity and trust platform providing signed credentials, registry discovery, reputation scoring, and verification tools.</p>
@@ -862,7 +853,7 @@ Here's an awesome list of AI agents:
 ### AgentTrace
 <div><a href="https://github.com/luoyuctl/agenttrace"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/luoyuctl/agenttrace"><img src="https://img.shields.io/github/stars/luoyuctl/agenttrace?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/luoyuctl">@luoyuctl</a></p>
-<p>⭐ 135 stars</p>
+<p>⭐ 137 stars</p>
 <p>👁️ Observability Frameworks | 💻 Terminal-Friendly</p>
 
 <p>A local-first terminal interface and report generator for reviewing AI coding-agent sessions, usage costs, latency, failures, and run health.</p>
@@ -888,7 +879,7 @@ Here's an awesome list of AI agents:
 ### AGiXT
 <div><a href="https://github.com/Josh-XT/AGiXT"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Josh-XT/AGiXT"><img src="https://img.shields.io/github/stars/Josh-XT/AGiXT?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/Josh-XT">@Josh-XT</a></p>
-<p>⭐ 3,216 stars · Growth: today -2 stars (-0.1%)</p>
+<p>⭐ 3,218 stars</p>
 <p>⚙️ Development Frameworks</p>
 
 <p>AGiXT is an advanced AI Automation Platform designed to enhance AI instruction management and task execution across various providers, incorporating features like adaptive memory, smart instruct, and a versatile plugin system to push the boundaries of AI technology towards achieving Artificial General Intelligence (AGI)</p>
@@ -899,7 +890,7 @@ Here's an awesome list of AI agents:
 ### Agno
 <div><a href="https://github.com/agno-agi/agno"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/agno-agi/agno"><img src="https://img.shields.io/github/stars/agno-agi/agno?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/agno-agi">@agno-agi</a></p>
-<p>⭐ 42,341 stars</p>
+<p>⭐ 42,391 stars</p>
 <p>⚙️ Development Frameworks</p>
 
 <p>Agno is a model-agnostic framework for building multi-agent systems with memory, knowledge, and reasoning.</p>
@@ -923,7 +914,7 @@ Here's an awesome list of AI agents:
 ### AI for Database MCP Server
 <div><a href="https://github.com/dann26parr69/aifordatabase-mcp"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/dann26parr69/aifordatabase-mcp"><img src="https://img.shields.io/github/stars/dann26parr69/aifordatabase-mcp?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/dann26parr69">@dann26parr69</a></p>
-<p>⭐ 0 stars</p>
+<p>⭐ 1 stars</p>
 <p>🔌 MCP Servers | 🔧 Tool Calling (Function Calling)</p>
 
 <p>An open-source MCP server connecting agents to AI for Database's hosted API for scoped database queries, schema inspection, scheduled workflows, and dashboards.</p>
@@ -936,7 +927,7 @@ Here's an awesome list of AI agents:
 ### AI SDK by Vercel
 <div><a href="https://github.com/vercel/ai"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/vercel/ai"><img src="https://img.shields.io/github/stars/vercel/ai?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/vercel">@vercel</a></p>
-<p>⭐ 26,951 stars</p>
+<p>⭐ 27,047 stars</p>
 <p>🖥️ UI Development</p>
 
 <p>The Vercel AI SDK is an open-source library for creating AI-powered conversational interfaces, supporting multiple frameworks and languages, with built-in adapters for major AI services</p>
@@ -947,7 +938,7 @@ Here's an awesome list of AI agents:
 ### ai-artifacts
 <div><a href="https://github.com/e2b-dev/fragments"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/e2b-dev/fragments"><img src="https://img.shields.io/github/stars/e2b-dev/fragments?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/e2b-dev">@e2b-dev</a></p>
-<p>⭐ 6,377 stars</p>
+<p>⭐ 6,380 stars</p>
 <p>🖥️ UI Development</p>
 
 <p>This project implements Anthropic's Artifacts UI, using E2B's Code Interpreter SDK for secure AI code execution and Claude Sonnet 3.5 for code generation</p>
@@ -958,7 +949,7 @@ Here's an awesome list of AI agents:
 ### AIActGuard
 <div><a href="https://github.com/NavikkumarModi/AIActGuard"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/NavikkumarModi/AIActGuard"><img src="https://img.shields.io/github/stars/NavikkumarModi/AIActGuard?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/NavikkumarModi">@NavikkumarModi</a></p>
-<p>⭐ 0 stars</p>
+<p>⭐ 1 stars</p>
 <p>🛡️ Safety Guardrails (Safeguarding)</p>
 
 <p>AIActGuard provides EU AI Act compliance middleware for agentic AI, with audit trails, risk classification, and human-approval gates integrated into existing agent frameworks, plus tools for drafting supporting documentation.</p>
@@ -969,7 +960,7 @@ Here's an awesome list of AI agents:
 ### Aider
 <div><a href="https://github.com/Aider-AI/aider"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Aider-AI/aider"><img src="https://img.shields.io/github/stars/Aider-AI/aider?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/Aider-AI">@Aider-AI</a></p>
-<p>⭐ 49,187 stars</p>
+<p>⭐ 49,287 stars</p>
 <p>🤖 AI Agents</p>
 
 <p>Aider is a command-line tool for AI-assisted pair programming, allowing code editing in local git repositories with GPT-3.5/GPT-4, featuring direct file edits, automatic git commits, and support for most popular programming languages</p>
@@ -980,7 +971,7 @@ Here's an awesome list of AI agents:
 ### AIGEN Protocol
 <div><a href="https://github.com/Aigen-Protocol/aigen-protocol"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Aigen-Protocol/aigen-protocol"><img src="https://img.shields.io/github/stars/Aigen-Protocol/aigen-protocol?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/Aigen-Protocol">@Aigen-Protocol</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/194">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/474">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/Aigen-Protocol">@Aigen-Protocol</a></p>
-<p>⭐ 4 stars</p>
+<p>⭐ 5 stars</p>
 <p>📏 Standardization | 🔧 Tool Calling (Function Calling)</p>
 
 <p>A reference implementation of an open bounty protocol that lets AI agents post and claim missions through API and MCP tools, with verification and on-chain payouts.</p>
@@ -991,7 +982,7 @@ Here's an awesome list of AI agents:
 ### AIOS
 <div><a href="https://github.com/agiresearch/AIOS"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/agiresearch/AIOS"><img src="https://img.shields.io/github/stars/agiresearch/AIOS?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/agiresearch">@agiresearch</a></p>
-<p>⭐ 6,420 stars · Growth: today +2 stars (+0.0%)</p>
+<p>⭐ 6,435 stars</p>
 <p>⚙️ Development Frameworks</p>
 
 <p>AIOS by AGI Research is an LLM Agent Operating System which enables an operating system 'with soul' -- an important step towards AGI</p>
@@ -1002,7 +993,7 @@ Here's an awesome list of AI agents:
 ### AIWG
 <div><a href="https://github.com/jmagly/aiwg"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/jmagly/aiwg"><img src="https://img.shields.io/github/stars/jmagly/aiwg?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/jmagly">@jmagly</a></p>
-<p>⭐ 211 stars</p>
+<p>⭐ 212 stars</p>
 <p>⚙️ Development Frameworks</p>
 
 <p>AIWG deploys specialized agents, skills, context, rules, and governed workflows into native project paths across multiple AI coding platforms.</p>
@@ -1013,7 +1004,7 @@ Here's an awesome list of AI agents:
 ### AKF
 <div><a href="https://github.com/HMAKT99/AKF"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/HMAKT99/AKF"><img src="https://img.shields.io/github/stars/HMAKT99/AKF?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/HMAKT99">@HMAKT99</a></p>
-<p>⭐ 16 stars</p>
+<p>⭐ 17 stars</p>
 <p>🛡️ Safety Guardrails (Safeguarding) | 📏 Standardization</p>
 
 <p>An AI-native file format and toolchain for carrying provenance, evidence, and verification metadata with files.</p>
@@ -1026,7 +1017,7 @@ Here's an awesome list of AI agents:
 ### APort Agent Guardrails
 <div><a href="https://github.com/aporthq/aport-agent-guardrails"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/aporthq/aport-agent-guardrails"><img src="https://img.shields.io/github/stars/aporthq/aport-agent-guardrails?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/aporthq">@aporthq</a></p>
-<p>⭐ 25 stars</p>
+<p>⭐ 26 stars</p>
 <p>🛡️ Safety Guardrails (Safeguarding)</p>
 
 <p>APort Agent Guardrails evaluates tool actions before execution and applies configurable authorization policies for agent frameworks, including OpenClaw.</p>
@@ -1052,7 +1043,7 @@ Here's an awesome list of AI agents:
 ### Arch Tools
 <div><a href="https://github.com/Deesmo/Arch-AI-Tools"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Deesmo/Arch-AI-Tools"><img src="https://img.shields.io/github/stars/Deesmo/Arch-AI-Tools?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/Deesmo">@Deesmo</a></p>
-<p>⭐ 1 stars</p>
+<p>⭐ 3 stars</p>
 <p>⚙️ Development Frameworks | 🔧 Tool Calling (Function Calling)</p>
 
 <p>A multi-tool API and MCP server for AI agents, with x402 micropayments and tools for web, AI, crypto, and media workflows.</p>
@@ -1065,6 +1056,7 @@ Here's an awesome list of AI agents:
 ### Arize Phoenix
 <div><a href="https://github.com/Arize-ai/phoenix"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Arize-ai/phoenix"><img src="https://img.shields.io/github/stars/Arize-ai/phoenix?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/lclark0308">@lclark0308</a> <small>(self-reported founder/team)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/627">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/661">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/Arize-ai">@Arize-ai</a></p>
+<p>⭐ 11,657 stars</p>
 <p>📊 Evaluation Frameworks | 👁️ Observability Frameworks</p>
 
 <p>Arize Phoenix is a source-available AI observability and evaluation platform, built on OpenTelemetry and OpenInference, for tracing, evaluating and debugging AI applications and agents in your own environment.</p>
@@ -1077,7 +1069,7 @@ Here's an awesome list of AI agents:
 ### Aster
 <div><a href="https://github.com/Zfinix/aster"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Zfinix/aster"><img src="https://img.shields.io/github/stars/Zfinix/aster?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/Zfinix">@Zfinix</a></p>
-<p>⭐ 92 stars</p>
+<p>⭐ 100 stars</p>
 <p>🤖 AI Agents</p>
 
 <p>Aster is a local-first software-engineering agent that uses shared tools, permissions, memory, skills, and retrieval for chat, code review, and fixes.</p>
@@ -1088,7 +1080,7 @@ Here's an awesome list of AI agents:
 ### Atomic Agent
 <div><a href="https://github.com/AtomicBot-ai/atomic-agent"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/AtomicBot-ai/atomic-agent"><img src="https://img.shields.io/github/stars/AtomicBot-ai/atomic-agent?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/AtomicBot-ai">@AtomicBot-ai</a></p>
-<p>⭐ 2,502 stars</p>
+<p>⭐ 2,546 stars</p>
 <p>🤖 AI Agents | 💻 Local Inference | 💻 Terminal-Friendly</p>
 
 <p>Atomic Agent is a local-first terminal coding assistant that runs open-weight models through llama.cpp and keeps its control loop and state on the user’s machine. It can browse, work with files and Git, retain memory across sessions, and connect external tools over MCP.</p>
@@ -1114,7 +1106,7 @@ Here's an awesome list of AI agents:
 ### AutoDev
 <div><a href="https://github.com/phodal/auto-dev"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/phodal/auto-dev"><img src="https://img.shields.io/github/stars/phodal/auto-dev?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/phodal">@phodal</a></p>
-<p>⭐ 4,546 stars</p>
+<p>⭐ 4,547 stars</p>
 <p>🤖 AI Agents</p>
 
 <p>AutoDev is an AI-powered coding assistant offering multilingual support, automatic code generation, and debugging assistance, featuring customizable prompts and specialized tools for development, testing, documentation, and the integration of custom AI agents, with a focus on experimenting and building AI agents using its UI framework</p>
@@ -1125,7 +1117,7 @@ Here's an awesome list of AI agents:
 ### AutoGen by Microsoft
 <div><a href="https://github.com/microsoft/autogen"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/microsoft/autogen"><img src="https://img.shields.io/github/stars/microsoft/autogen?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/microsoft">@microsoft</a></p>
-<p>⭐ 61,164 stars</p>
+<p>⭐ 61,229 stars</p>
 <p>⚙️ Development Frameworks</p>
 
 <p>AutoGen is a multi-agent conversation framework facilitating the development of next-gen LLM applications, highlighted by various accomplishments and offering enhanced LLM inferences, customizable agents, and comprehensive documentation</p>
@@ -1136,7 +1128,7 @@ Here's an awesome list of AI agents:
 ### AutoGen Studio by Microsoft
 <div><a href="https://github.com/microsoft/autogen"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/microsoft/autogen"><img src="https://img.shields.io/github/stars/microsoft/autogen?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/microsoft">@microsoft</a></p>
-<p>⭐ 61,164 stars</p>
+<p>⭐ 61,229 stars</p>
 <p>⚙️ Development Frameworks</p>
 
 <p>AutoGen Studio 2.0 is Microsoft's advanced AI development tool, offering a user-friendly interface, powerful Python API, and comprehensive features for creating and controlling AI agents and workflows</p>
@@ -1147,7 +1139,7 @@ Here's an awesome list of AI agents:
 ### AutoGPT
 <div><a href="https://github.com/Significant-Gravitas/AutoGPT"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Significant-Gravitas/AutoGPT"><img src="https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/Significant-Gravitas">@Significant-Gravitas</a></p>
-<p>⭐ 187,557 stars</p>
+<p>⭐ 187,620 stars</p>
 <p>🤖 AI Agents</p>
 
 <p>AutoGPT provides accessible AI tools for building and using AI agents, offering a comprehensive framework including Forge for agent creation, agbenchmark for performance evaluation, a leaderboard for competition, a user-friendly UI, and CLI for seamless integration and management</p>
@@ -1158,7 +1150,7 @@ Here's an awesome list of AI agents:
 ### Autohand Code CLI
 <div><a href="https://github.com/autohandai/code-cli"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/autohandai/code-cli"><img src="https://img.shields.io/github/stars/autohandai/code-cli?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/autohandai">@autohandai</a></p>
-<p>⭐ 199 stars</p>
+<p>⭐ 200 stars</p>
 <p>⚙️ Development Frameworks</p>
 
 <p>Autohand Code CLI is a terminal-native AI coding agent that plans and edits code, runs tools, and supports testing, memory, skills, and permission controls.</p>
@@ -1171,7 +1163,7 @@ Here's an awesome list of AI agents:
 ### Awesome Embodied AI Safety
 <div><a href="https://github.com/x-zheng16/Awesome-Embodied-AI-Safety"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/x-zheng16/Awesome-Embodied-AI-Safety"><img src="https://img.shields.io/github/stars/x-zheng16/Awesome-Embodied-AI-Safety?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/x-zheng16">@x-zheng16</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/176">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/475">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/x-zheng16">@x-zheng16</a></p>
-<p>⭐ 143 stars</p>
+<p>⭐ 149 stars</p>
 <p>🤖 AI Agents</p>
 
 <p>An open survey of embodied AI safety research, organizing papers on perception, cognition, planning, interaction, and agentic-system risks.</p>
@@ -1182,7 +1174,7 @@ Here's an awesome list of AI agents:
 ### Awesome OpenClaw Agents
 <div><a href="https://github.com/mergisi/awesome-openclaw-agents"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/mergisi/awesome-openclaw-agents"><img src="https://img.shields.io/github/stars/mergisi/awesome-openclaw-agents?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/mergisi">@mergisi</a></p>
-<p>⭐ 3,985 stars</p>
+<p>⭐ 3,993 stars</p>
 <p>🤖 AI Agents</p>
 
 <p>A community-maintained collection of OpenClaw agent templates with personas, tool bindings, memory rules, and operating schedules.</p>
@@ -1195,7 +1187,7 @@ Here's an awesome list of AI agents:
 ### ax
 <div><a href="https://github.com/Necmttn/ax"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Necmttn/ax"><img src="https://img.shields.io/github/stars/Necmttn/ax?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/Necmttn">@Necmttn</a></p>
-<p>⭐ 112 stars</p>
+<p>⭐ 113 stars</p>
 <p>👁️ Observability Frameworks | 💻 Terminal-Friendly</p>
 
 <p>A local agent-experience graph for coding agents that captures sessions, recalls project context, and turns recurring workflow friction into reviewable improvements.</p>
@@ -1208,7 +1200,7 @@ Here's an awesome list of AI agents:
 ### B2B SDR Agent Template
 <div><a href="https://github.com/iPythoning/b2b-sdr-agent-template"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/iPythoning/b2b-sdr-agent-template"><img src="https://img.shields.io/github/stars/iPythoning/b2b-sdr-agent-template?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/iPythoning">@iPythoning</a></p>
-<p>⭐ 188 stars</p>
+<p>⭐ 190 stars</p>
 <p>🤖 AI Agents</p>
 
 <p>An OpenClaw-based AI sales development representative template for managing B2B export leads across a multi-stage sales pipeline.</p>
@@ -1221,7 +1213,7 @@ Here's an awesome list of AI agents:
 ### Baizhi Agent Toolkit
 <div><a href="https://github.com/chaitin/baizhi-agent-toolkit"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/chaitin/baizhi-agent-toolkit"><img src="https://img.shields.io/github/stars/chaitin/baizhi-agent-toolkit?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/ct-jaryn">@ct-jaryn</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/428">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/457">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/chaitin">@chaitin</a></p>
-<p>⭐ 100 stars</p>
+<p>⭐ 101 stars</p>
 <p>🔧 Tool Calling (Function Calling)</p>
 
 <p>The official open-source client integration for Baizhi Cloud's hosted MCP service, with a Gemini CLI extension, registry manifest, and setup guides for web search, webpage retrieval, and structured extraction. The backend remains hosted and requires an API key.</p>
@@ -1232,7 +1224,7 @@ Here's an awesome list of AI agents:
 ### BAML
 <div><a href="https://github.com/BoundaryML/baml"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/BoundaryML/baml"><img src="https://img.shields.io/github/stars/BoundaryML/baml?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/BoundaryML">@BoundaryML</a></p>
-<p>⭐ 9,284 stars</p>
+<p>⭐ 9,358 stars</p>
 <p>🏗️ Structured Outputs</p>
 
 <p>BAML is a domain-specific language for building typed LLM functions with structured outputs and streaming.</p>
@@ -1243,7 +1235,7 @@ Here's an awesome list of AI agents:
 ### BasedAgents
 <div><a href="https://github.com/maxfain/basedagents"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/maxfain/basedagents"><img src="https://img.shields.io/github/stars/maxfain/basedagents?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/maxfain">@maxfain</a> <small>(self-reported founder/team)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/434">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/437">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/maxfain">@maxfain</a></p>
-<p>⭐ 0 stars</p>
+<p>⭐ 2 stars</p>
 <p>🤖 AI Agents</p>
 
 <p>Open task marketplace for AI agents to discover, claim, and deliver work using signed receipts and optional USDC bounties.</p>
@@ -1267,7 +1259,7 @@ Here's an awesome list of AI agents:
 ### BindAI
 <div><a href="https://github.com/BindBrain/BindAI"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/BindBrain/BindAI"><img src="https://img.shields.io/github/stars/BindBrain/BindAI?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/BindBrain">@BindBrain</a></p>
-<p>⭐ 4 stars</p>
+<p>⭐ 6 stars</p>
 <p>⚙️ Development Frameworks</p>
 
 <p>BindAI is a modular Python framework for building AI applications with reusable components for agents, tools, workflows, memory, knowledge retrieval, model providers, and integrations.</p>
@@ -1278,7 +1270,7 @@ Here's an awesome list of AI agents:
 ### BlackVault
 <div><a href="https://github.com/venkat22022202/black-vault"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/venkat22022202/black-vault"><img src="https://img.shields.io/github/stars/venkat22022202/black-vault?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/venkat22022202">@venkat22022202</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/53">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/435">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/venkat22022202">@venkat22022202</a></p>
-<p>⭐ 8 stars</p>
+<p>⭐ 9 stars</p>
 <p>🤖 AI Agents</p>
 
 <p>Self-hostable API key proxy for AI agents with per-token access controls, budget limits, and an OpenAI-compatible gateway for multiple model providers.</p>
@@ -1289,7 +1281,7 @@ Here's an awesome list of AI agents:
 ### Blave Agent
 <div><a href="https://github.com/Blave-TW/blave-agent"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Blave-TW/blave-agent"><img src="https://img.shields.io/github/stars/Blave-TW/blave-agent?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/Blave-Wei">@Blave-Wei</a> <small>(self-reported founder/team)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/476">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/485">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/Blave-TW">@Blave-TW</a></p>
-<p>⭐ 33 stars</p>
+<p>⭐ 86 stars</p>
 <p>🤖 AI Agents</p>
 
 <p>Blave Agent is a macOS quant research workspace that connects coding agents such as Claude Code or Codex to help develop and backtest trading strategies, including Monte Carlo permutation tests, parameter scans, and walk-forward analysis. Live trading runs through a separate deterministic process with position reconciliation and a kill switch.</p>
@@ -1302,7 +1294,7 @@ Here's an awesome list of AI agents:
 ### browser-use
 <div><a href="https://github.com/browser-use/browser-use"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/browser-use/browser-use"><img src="https://img.shields.io/github/stars/browser-use/browser-use?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/browser-use">@browser-use</a></p>
-<p>⭐ 116,281 stars</p>
+<p>⭐ 116,769 stars</p>
 <p>🌐 Web Browsing Frameworks</p>
 
 <p>browser-use lets AI agents interact with websites through a browser using page structure and vision.</p>
@@ -1313,7 +1305,7 @@ Here's an awesome list of AI agents:
 ### BrowserBash
 <div><a href="https://github.com/PramodDutta/browserbash"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/PramodDutta/browserbash"><img src="https://img.shields.io/github/stars/PramodDutta/browserbash?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/PramodDutta">@PramodDutta</a></p>
-<p>⭐ 2 stars</p>
+<p>⭐ 3 stars</p>
 <p>📊 Evaluation Frameworks</p>
 
 <p>BrowserBash is a CLI and MCP server for running plain-English browser tests in Chrome and returning deterministic assertions and exit codes for agent-driven UI validation.</p>
@@ -1324,7 +1316,7 @@ Here's an awesome list of AI agents:
 ### BrowsingAgent by Agency Swarm
 <div><a href="https://github.com/VRSEN/agency-swarm/tree/main/agency_swarm/agents/BrowsingAgent"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/VRSEN/agency-swarm/tree/main/agency_swarm/agents/BrowsingAgent"><img src="https://img.shields.io/github/stars/VRSEN/agency-swarm?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/VRSEN">@VRSEN</a></p>
-<p>⭐ 4,580 stars</p>
+<p>⭐ 4,586 stars</p>
 <p>🤖 AI Agents</p>
 
 <p>BrowsingAgent, an AI web navigation tool, has been integrated into the Agency Swarm framework to enable human-like browsing capabilities for automated AI operations</p>
@@ -1335,7 +1327,7 @@ Here's an awesome list of AI agents:
 ### BulkPublish
 <div><a href="https://github.com/azeemkafridi/bulkpublish-api"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/azeemkafridi/bulkpublish-api"><img src="https://img.shields.io/github/stars/azeemkafridi/bulkpublish-api?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/azeemkafridi">@azeemkafridi</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/404">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/459">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/azeemkafridi">@azeemkafridi</a></p>
-<p>⭐ 1 stars</p>
+<p>⭐ 2 stars</p>
 <p>🔧 Tool Calling (Function Calling)</p>
 
 <p>Open-source Python and Node.js SDKs and an MCP server that connect agents to BulkPublish's hosted social publishing API, with tools for drafting, scheduling, publishing, approvals, and analytics.</p>
@@ -1346,6 +1338,7 @@ Here's an awesome list of AI agents:
 ### Busabase
 <div><a href="https://github.com/busabase/busabase"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/busabase/busabase"><img src="https://img.shields.io/github/stars/busabase/busabase?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/ranglang">@ranglang</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/632">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/663">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/busabase">@busabase</a></p>
+<p>⭐ 274 stars</p>
 <p>🔌 MCP Servers</p>
 
 <p>Busabase is an open-source local first database and workspace that exposes structured records, documents, skills and workspace operations to external AI agents through MCP, OpenAPI and a CLI, with every write carried as a reviewable change request.</p>
@@ -1369,7 +1362,7 @@ Here's an awesome list of AI agents:
 ### Cal.ai
 <div><a href="https://github.com/calcom/cal.com/tree/main/apps/ai"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/calcom/cal.com/tree/main/apps/ai"><img src="https://img.shields.io/github/stars/calcom/cal.com?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/calcom">@calcom</a></p>
-<p>⭐ 48,648 stars · Growth: today +13 stars (+0.0%)</p>
+<p>⭐ 48,757 stars</p>
 <p>🤖 AI Agents</p>
 
 <p>Cal.ai is an open-source AI scheduling assistant that manages email communications for booking, rearranging, and inquiring about meetings, leveraging a LangChain Agent Executor and MailParser for efficient scheduling without API key exposure</p>
@@ -1380,7 +1373,7 @@ Here's an awesome list of AI agents:
 ### CAMEL
 <div><a href="https://github.com/camel-ai/camel"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/camel-ai/camel"><img src="https://img.shields.io/github/stars/camel-ai/camel?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/camel-ai">@camel-ai</a></p>
-<p>⭐ 17,774 stars · Growth: today +9 stars (+0.1%)</p>
+<p>⭐ 17,797 stars</p>
 <p>⚙️ Development Frameworks</p>
 
 <p>CAMEL (Communicative Agents for Mind Exploration of Large Language Model Society) is an open-source library designed for studying autonomous and communicative agents, facilitating research in understanding their behaviors, capabilities, and potential risks through scalable techniques and cooperative frameworks, including role-playing, with extensive documentation, examples, and datasets, while also supporting integration with open-source models as backends for diverse applications</p>
@@ -1391,7 +1384,7 @@ Here's an awesome list of AI agents:
 ### Ceki MCP Server
 <div><a href="https://github.com/Ceki-me/mcp-server"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Ceki-me/mcp-server"><img src="https://img.shields.io/github/stars/Ceki-me/mcp-server?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/Ceki-me">@Ceki-me</a></p>
-<p>⭐ 1 stars</p>
+<p>⭐ 2 stars</p>
 <p>🔌 MCP Servers</p>
 
 <p>Ceki's open-source MCP server connects agents to a hosted marketplace for real-browser sessions and human services, with companion Python and JavaScript SDKs.</p>
@@ -1402,6 +1395,7 @@ Here's an awesome list of AI agents:
 ### CerebrumKit
 <div><a href="https://github.com/islomkhon/CerebrumKit"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/islomkhon/CerebrumKit"><img src="https://img.shields.io/github/stars/islomkhon/CerebrumKit?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/islomkhon">@islomkhon</a> <small>(self-reported founder/team)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/633">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/657">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/islomkhon">@islomkhon</a></p>
+<p>⭐ 3 stars</p>
 <p>🤖 AI Agents</p>
 
 <p>CerebrumKit is a self-hosted starting point for agentic projects where agents are assembled in an admin panel from skills and tools stored as database rows, with a workflow canvas and a client chat panel.</p>
@@ -1414,7 +1408,7 @@ Here's an awesome list of AI agents:
 ### ChatDev
 <div><a href="https://github.com/OpenBMB/ChatDev"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/OpenBMB/ChatDev"><img src="https://img.shields.io/github/stars/OpenBMB/ChatDev?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/OpenBMB">@OpenBMB</a></p>
-<p>⭐ 34,396 stars</p>
+<p>⭐ 34,422 stars</p>
 <p>⚙️ Development Frameworks</p>
 
 <p>ChatDev is a virtual software company utilizing intelligent agents to revolutionize the digital world through programming, offering a highly customizable framework and integrating innovative approaches like Experiential Co-Learning, Docker support, Git management, and Human-Agent Interaction</p>
@@ -1425,7 +1419,7 @@ Here's an awesome list of AI agents:
 ### Claude Agent SDK
 <div><a href="https://github.com/anthropics/claude-agent-sdk-python"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/anthropics/claude-agent-sdk-python"><img src="https://img.shields.io/github/stars/anthropics/claude-agent-sdk-python?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/anthropics">@anthropics</a></p>
-<p>⭐ 8,163 stars</p>
+<p>⭐ 8,193 stars</p>
 <p>⚙️ Development Frameworks</p>
 
 <p>Anthropic's Python SDK for building agents with Claude using the Claude Code harness.</p>
@@ -1436,7 +1430,7 @@ Here's an awesome list of AI agents:
 ### ClawBench
 <div><a href="https://github.com/TIGER-AI-Lab/ClawBench"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/TIGER-AI-Lab/ClawBench"><img src="https://img.shields.io/github/stars/TIGER-AI-Lab/ClawBench?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/TIGER-AI-Lab">@TIGER-AI-Lab</a></p>
-<p>⭐ 849 stars</p>
+<p>⭐ 900 stars</p>
 <p>📊 Evaluation Frameworks</p>
 
 <p>ClawBench is an open-source benchmark for browser agents, with everyday tasks across live websites, execution traces, and request-level outcome evaluation.</p>
@@ -1447,7 +1441,7 @@ Here's an awesome list of AI agents:
 ### ClawMetry
 <div><a href="https://github.com/vivekchand/clawmetry"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/vivekchand/clawmetry"><img src="https://img.shields.io/github/stars/vivekchand/clawmetry?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/vivekchand">@vivekchand</a></p>
-<p>⭐ 420 stars</p>
+<p>⭐ 423 stars</p>
 <p>👁️ Observability Frameworks</p>
 
 <p>ClawMetry is an open-source, local-first dashboard that reads existing session files from OpenClaw, NVIDIA NemoClaw, Goose, and Qwen Code. It provides agent session replay, tool-call timelines, and token and cost reporting where runtimes expose that data.</p>
@@ -1460,7 +1454,7 @@ Here's an awesome list of AI agents:
 ### Cline
 <div><a href="https://github.com/cline/cline"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/cline/cline"><img src="https://img.shields.io/github/stars/cline/cline?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/cline">@cline</a></p>
-<p>⭐ 69,312 stars</p>
+<p>⭐ 69,587 stars</p>
 <p>🤖 AI Agents</p>
 
 <p>Cline is an open-source coding agent available in IDEs, terminals, and desktop, where it can plan and carry out software development tasks with user control.</p>
@@ -1473,7 +1467,7 @@ Here's an awesome list of AI agents:
 ### Cogito Studio
 <div><a href="https://github.com/CogitoForge-AI/cogito-studio"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/CogitoForge-AI/cogito-studio"><img src="https://img.shields.io/github/stars/CogitoForge-AI/cogito-studio?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/CogitoForge-AI">@CogitoForge-AI</a></p>
-<p>⭐ 19 stars</p>
+<p>⭐ 21 stars</p>
 <p>👤 Personal Assistants | 🖥️ UI Development</p>
 
 <p>Cogito Studio is a cross-platform desktop AI workspace built with Tauri, React, and Rust, offering multi-provider model access, MCP integration, workspace management, and local SQLite storage.</p>
@@ -1484,7 +1478,7 @@ Here's an awesome list of AI agents:
 ### Cognee
 <div><a href="https://github.com/topoteretes/cognee"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/topoteretes/cognee"><img src="https://img.shields.io/github/stars/topoteretes/cognee?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/topoteretes">@topoteretes</a></p>
-<p>⭐ 30,985 stars</p>
+<p>⭐ 31,231 stars</p>
 <p>⚙️ Development Frameworks</p>
 
 <p>Cognee is an open-source framework aimed at simplifying data processing for large language models (LLMs) by creating knowledge graphs and data models, offering tools for information addition, knowledge creation, and similarity-based search</p>
@@ -1495,7 +1489,7 @@ Here's an awesome list of AI agents:
 ### ConnectOnion
 <div><a href="https://github.com/openonion/connectonion"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/openonion/connectonion"><img src="https://img.shields.io/github/stars/openonion/connectonion?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/openonion">@openonion</a></p>
-<p>⭐ 1,479 stars</p>
+<p>⭐ 1,484 stars</p>
 <p>⚙️ Development Frameworks | 🔧 Tool Calling (Function Calling)</p>
 
 <p>A Python CLI harness that lets coding agents access local tools such as Gmail, a browser, and files from their shell.</p>
@@ -1508,7 +1502,7 @@ Here's an awesome list of AI agents:
 ### Context7
 <div><a href="https://github.com/upstash/context7"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/upstash/context7"><img src="https://img.shields.io/github/stars/upstash/context7?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/upstash">@upstash</a></p>
-<p>⭐ 62,426 stars</p>
+<p>⭐ 62,542 stars</p>
 <p>🔌 MCP Servers</p>
 
 <p>Context7 provides version-specific library documentation and code examples to agents through an MCP server.</p>
@@ -1519,7 +1513,7 @@ Here's an awesome list of AI agents:
 ### ContextStream
 <div><a href="https://github.com/contextstream/mcp-server"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/contextstream/mcp-server"><img src="https://img.shields.io/github/stars/contextstream/mcp-server?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/contextstream">@contextstream</a></p>
-<p>⭐ 43 stars</p>
+<p>⭐ 44 stars</p>
 <p>🧠 Long-Term Memory</p>
 
 <p>ContextStream is an MCP server for shared project context and persistent agent memory, with semantic search, traceable sources, and scoped access.</p>
@@ -1530,7 +1524,7 @@ Here's an awesome list of AI agents:
 ### Continue
 <div><a href="https://github.com/continuedev/continue"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/continuedev/continue"><img src="https://img.shields.io/github/stars/continuedev/continue?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/continuedev">@continuedev</a></p>
-<p>⭐ 36,028 stars · Growth: today +15 stars (+0.0%)</p>
+<p>⭐ 36,068 stars</p>
 <p>🤖 AI Agents</p>
 
 <p>Continue is an open-source autopilot plugin for VS Code and JetBrains, enhancing coding with LLMs through features like task and tab autocomplete, natural language edits, file generation, and customization options, available under the Apache 2.0 license</p>
@@ -1541,7 +1535,7 @@ Here's an awesome list of AI agents:
 ### Corellis
 <div><a href="https://github.com/CorellisOrg/Corellis"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/CorellisOrg/Corellis"><img src="https://img.shields.io/github/stars/CorellisOrg/Corellis?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/CorellisOrg">@CorellisOrg</a></p>
-<p>⭐ 30 stars</p>
+<p>⭐ 31 stars</p>
 <p>🤖 AI Agents | 🧠 Long-Term Memory | 🛡️ Safety Guardrails (Safeguarding)</p>
 
 <p>An OpenClaw-based multi-agent workforce framework with shared team memory, goal decomposition, fleet learning, task management, and approval workflows.</p>
@@ -1580,7 +1574,7 @@ Here's an awesome list of AI agents:
 ### CorvinOS
 <div><a href="https://github.com/CorvinLabs/CorvinOS"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/CorvinLabs/CorvinOS"><img src="https://img.shields.io/github/stars/CorvinLabs/CorvinOS?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/CorvinLabs">@CorvinLabs</a></p>
-<p>⭐ 11 stars</p>
+<p>⭐ 12 stars</p>
 <p>🤖 AI Agents | 💻 Local Inference | 💻 Operating System (OS)</p>
 
 <p>CorvinOS is a self-hosted agentic OS that connects local and cloud models to messaging platforms including Discord, Telegram, WhatsApp, Slack, and email.</p>
@@ -1603,6 +1597,7 @@ Here's an awesome list of AI agents:
 ### Coven
 <div><a href="https://github.com/OpenCoven/coven"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/OpenCoven/coven"><img src="https://img.shields.io/github/stars/OpenCoven/coven?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/BunsDev">@BunsDev</a> <small>(self-reported founder/team)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/628">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/649">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/OpenCoven">@OpenCoven</a></p>
+<p>⭐ 62 stars</p>
 <p>💻 Terminal-Friendly</p>
 
 <p>Coven is an open-source Rust daemon and CLI that runs Codex, Claude Code and other coding agent harnesses as PTY sessions inside explicit project root boundaries, with session history kept in SQLite.</p>
@@ -1615,7 +1610,7 @@ Here's an awesome list of AI agents:
 ### CoWorker Protocol
 <div><a href="https://github.com/ZiwayZhao/agent-coworker"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/ZiwayZhao/agent-coworker"><img src="https://img.shields.io/github/stars/ZiwayZhao/agent-coworker?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/ZiwayZhao">@ZiwayZhao</a></p>
-<p>⭐ 20 stars</p>
+<p>⭐ 21 stars</p>
 <p>⚙️ Development Frameworks | 📏 Standardization</p>
 
 <p>A peer-to-peer protocol for serving and invoking agent skills over XMTP with encrypted communication and revocable trust.</p>
@@ -1628,7 +1623,7 @@ Here's an awesome list of AI agents:
 ### Crawl4AI
 <div><a href="https://github.com/unclecode/crawl4ai"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/unclecode/crawl4ai"><img src="https://img.shields.io/github/stars/unclecode/crawl4ai?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/unclecode">@unclecode</a></p>
-<p>⭐ 84,265 stars</p>
+<p>⭐ 84,510 stars</p>
 <p>🌐 Web Browsing Frameworks</p>
 
 <p>Crawl4AI is an open-source web crawler that produces Markdown and structured data for AI applications.</p>
@@ -1639,7 +1634,7 @@ Here's an awesome list of AI agents:
 ### crewAI by João Moura
 <div><a href="https://github.com/crewAIInc/crewAI"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/crewAIInc/crewAI"><img src="https://img.shields.io/github/stars/crewAIInc/crewAI?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/crewAIInc">@crewAIInc</a></p>
-<p>⭐ 59,020 stars</p>
+<p>⭐ 59,201 stars</p>
 <p>⚙️ Development Frameworks</p>
 
 <p>crewAI is a cutting-edge AI framework designed for orchestrating role-playing, autonomous AI agents, enabling seamless collaboration and complex task handling</p>
@@ -1650,7 +1645,7 @@ Here's an awesome list of AI agents:
 ### CryptoGuard
 <div><a href="https://github.com/momenbasel/CryptoGuard"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/momenbasel/CryptoGuard"><img src="https://img.shields.io/github/stars/momenbasel/CryptoGuard?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/momenbasel">@momenbasel</a></p>
-<p>⭐ 8 stars</p>
+<p>⭐ 9 stars</p>
 <p>🤖 AI Agents | 🛡️ Safety Guardrails (Safeguarding)</p>
 
 <p>A pre-transaction safety hook for AI agents that assesses crypto contract and token risks using security-oracle data and bytecode analysis.</p>
@@ -1663,7 +1658,7 @@ Here's an awesome list of AI agents:
 ### CUGA
 <div><a href="https://github.com/cuga-project/cuga-agent"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/cuga-project/cuga-agent"><img src="https://img.shields.io/github/stars/cuga-project/cuga-agent?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/cuga-project">@cuga-project</a></p>
-<p>⭐ 880 stars</p>
+<p>⭐ 881 stars</p>
 <p>⚙️ Development Frameworks</p>
 
 <p>CUGA is an enterprise agent harness for configuring and deploying generalist agents across API and web workflows, with tool orchestration, safety policies, and evaluation.</p>
@@ -1676,7 +1671,7 @@ Here's an awesome list of AI agents:
 ### Cycles
 <div><a href="https://github.com/runcycles/cycles-server"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/runcycles/cycles-server"><img src="https://img.shields.io/github/stars/runcycles/cycles-server?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <a href="https://github.com/amavashev">@amavashev</a> <a href="https://github.com/runcycles/cycles-server/blob/main/MAINTAINERS.md">evidence</a> · <strong>Repository owner:</strong> <a href="https://github.com/runcycles">@runcycles</a></p>
-<p>⭐ 4 stars</p>
+<p>⭐ 5 stars</p>
 <p>🤖 AI Agents | 🛡️ Safety Guardrails (Safeguarding) | 📏 Standardization</p>
 
 <p>A self-hosted runtime authority for AI agents that enforces budgets, risk limits, and tool-action policies before execution through a concurrency-safe reservation lifecycle.</p>
@@ -1689,7 +1684,7 @@ Here's an awesome list of AI agents:
 ### DB-GPT
 <div><a href="https://github.com/eosphoros-ai/DB-GPT"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/eosphoros-ai/DB-GPT"><img src="https://img.shields.io/github/stars/eosphoros-ai/DB-GPT?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/eosphoros-ai">@eosphoros-ai</a></p>
-<p>⭐ 20,046 stars · Growth: today 0 stars (+0.0%)</p>
+<p>⭐ 20,068 stars</p>
 <p>⚙️ Development Frameworks</p>
 
 <p>DB-GPT revolutionizes database interactions using private LLM technology, enabling streamlined AI-native data app development with multi-model management, Text2SQL optimization, and fine-tuning, facilitating enterprises and developers to create bespoke applications in the Data 3.0 era</p>
@@ -1700,7 +1695,7 @@ Here's an awesome list of AI agents:
 ### Devid by Agency Swarm
 <div><a href="https://github.com/VRSEN/agency-swarm/tree/main/agency_swarm/agents/Devid"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/VRSEN/agency-swarm/tree/main/agency_swarm/agents/Devid"><img src="https://img.shields.io/github/stars/VRSEN/agency-swarm?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/VRSEN">@VRSEN</a></p>
-<p>⭐ 4,580 stars</p>
+<p>⭐ 4,586 stars</p>
 <p>🤖 AI Agents</p>
 
 <p>Devid Agent, a new AI software development tool, has been integrated into the Agency Swarm framework to enhance automated AI agency operations, alternative to Cognition AI's Devin</p>
@@ -1711,7 +1706,7 @@ Here's an awesome list of AI agents:
 ### DevOpsGPT
 <div><a href="https://github.com/kuafuai/DevOpsGPT"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/kuafuai/DevOpsGPT"><img src="https://img.shields.io/github/stars/kuafuai/DevOpsGPT?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/kuafuai">@kuafuai</a></p>
-<p>⭐ 5,965 stars · Growth: today 0 stars (+0.0%)</p>
+<p>⭐ 5,968 stars</p>
 <p>⚙️ Development Frameworks</p>
 
 <p>DevOpsGPT is an AI-driven software development automation solution that combines large language models with DevOps tools to convert natural language requirements into working software, enhancing development efficiency, shortening cycles, and reducing communication costs</p>
@@ -1722,7 +1717,7 @@ Here's an awesome list of AI agents:
 ### Dorothy
 <div><a href="https://github.com/Charlie85270/Dorothy"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Charlie85270/Dorothy"><img src="https://img.shields.io/github/stars/Charlie85270/Dorothy?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/Charlie85270">@Charlie85270</a></p>
-<p>⭐ 347 stars</p>
+<p>⭐ 350 stars</p>
 <p>🤖 AI Agents | ⚙️ Development Frameworks</p>
 
 <p>A desktop workspace for orchestrating, monitoring, and automating multiple AI coding agents.</p>
@@ -1735,7 +1730,7 @@ Here's an awesome list of AI agents:
 ### DSH Studio
 <div><a href="https://github.com/Moresyl/dsh-studio"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Moresyl/dsh-studio"><img src="https://img.shields.io/github/stars/Moresyl/dsh-studio?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/Moresyl">@Moresyl</a></p>
-<p>⭐ 27 stars</p>
+<p>⭐ 37 stars</p>
 <p>🖥️ UI Development</p>
 
 <p>DSH Studio is a cross-platform desktop interface for supervising and managing the local DeepSeek Harness service. It monitors and restarts the service, manages plugin installation, and offers optional paired-phone access through a separate local-network gateway.</p>
@@ -1748,7 +1743,7 @@ Here's an awesome list of AI agents:
 ### DSPY
 <div><a href="https://github.com/stanfordnlp/dspy"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/stanfordnlp/dspy"><img src="https://img.shields.io/github/stars/stanfordnlp/dspy?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/stanfordnlp">@stanfordnlp</a></p>
-<p>⭐ 38,284 stars</p>
+<p>⭐ 38,432 stars</p>
 <p>🔄 Flow Engineering (Platform Engineering)</p>
 
 <p>A cutting-edge framework that compiles declarative language model calls into self-improving pipelines, enabling the systematic and efficient optimization of LM prompts and weights within complex systems</p>
@@ -1759,7 +1754,7 @@ Here's an awesome list of AI agents:
 ### Due Diligence Agents
 <div><a href="https://github.com/zoharbabin/due-diligence-agents"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/zoharbabin/due-diligence-agents"><img src="https://img.shields.io/github/stars/zoharbabin/due-diligence-agents?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/zoharbabin">@zoharbabin</a></p>
-<p>⭐ 111 stars</p>
+<p>⭐ 112 stars</p>
 <p>🤖 AI Agents</p>
 
 <p>A local forensic M&A due-diligence application that coordinates specialist agents across nine domains and traces findings to source pages and quotations.</p>
@@ -1772,7 +1767,7 @@ Here's an awesome list of AI agents:
 ### E2B
 <div><a href="https://github.com/e2b-dev/E2B"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/e2b-dev/E2B"><img src="https://img.shields.io/github/stars/e2b-dev/E2B?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/e2b-dev">@e2b-dev</a></p>
-<p>⭐ 13,970 stars · Growth: today +26 stars (+0.2%)</p>
+<p>⭐ 14,039 stars</p>
 <p>⚙️ Development Frameworks</p>
 
 <p>E2B Sandbox offers secure cloud environments tailored for AI agents and apps, facilitating long-running sessions with various tools and can be integrated with any large language model</p>
@@ -1783,7 +1778,7 @@ Here's an awesome list of AI agents:
 ### Edgrapi
 <div><a href="https://github.com/paperandbeyond23-gif/edgrapi-skills"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/paperandbeyond23-gif/edgrapi-skills"><img src="https://img.shields.io/github/stars/paperandbeyond23-gif/edgrapi-skills?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/paperandbeyond23-gif">@paperandbeyond23-gif</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/322">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/463">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/paperandbeyond23-gif">@paperandbeyond23-gif</a></p>
-<p>⭐ 0 stars</p>
+<p>⭐ 1 stars</p>
 <p>🔧 Tool Calling (Function Calling)</p>
 
 <p>Open-source agent skills and a lightweight MCP stdio bridge for Edgrapi’s hosted API, which returns normalized SEC and US government data as JSON.</p>
@@ -1794,7 +1789,7 @@ Here's an awesome list of AI agents:
 ### EVO-AI
 <div><a href="https://github.com/Mafengwo292/evo-ai"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Mafengwo292/evo-ai"><img src="https://img.shields.io/github/stars/Mafengwo292/evo-ai?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/Mafengwo292">@Mafengwo292</a></p>
-<p>⭐ 0 stars</p>
+<p>⭐ 1 stars</p>
 <p>🤖 AI Agents</p>
 
 <p>EVO-AI is a distributed language-model project that evolves model weights across volunteer nodes and exposes generation through HTTP and A2A JSON-RPC interfaces.</p>
@@ -1818,7 +1813,7 @@ Here's an awesome list of AI agents:
 ### Firecrawl
 <div><a href="https://github.com/firecrawl/firecrawl"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/firecrawl/firecrawl"><img src="https://img.shields.io/github/stars/firecrawl/firecrawl?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/firecrawl">@firecrawl</a></p>
-<p>⭐ 184,683 stars</p>
+<p>⭐ 186,772 stars</p>
 <p>🌐 Web Browsing Frameworks</p>
 
 <p>Firecrawl turns websites into Markdown and structured data through crawl, scrape, and extract APIs.</p>
@@ -1829,7 +1824,7 @@ Here's an awesome list of AI agents:
 ### Flow Weaver
 <div><a href="https://github.com/synergenius-fw/flow-weaver"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/synergenius-fw/flow-weaver"><img src="https://img.shields.io/github/stars/synergenius-fw/flow-weaver?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <a href="https://github.com/moraispgsi">@moraispgsi</a> <a href="https://github.com/synergenius-fw/flow-weaver/blob/main/README.md">evidence</a> · <strong>Repository owner:</strong> <a href="https://github.com/synergenius-fw">@synergenius-fw</a></p>
-<p>⭐ 0 stars</p>
+<p>⭐ 1 stars</p>
 <p>🤖 AI Agents | ⚙️ Development Frameworks</p>
 
 <p>A deterministic TypeScript workflow compiler that turns JSDoc-annotated functions into standalone workflow code you can inspect, test, and own.</p>
@@ -1842,7 +1837,7 @@ Here's an awesome list of AI agents:
 ### Flowise
 <div><a href="https://github.com/FlowiseAI/Flowise"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/FlowiseAI/Flowise"><img src="https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/FlowiseAI">@FlowiseAI</a></p>
-<p>⭐ 55,484 stars</p>
+<p>⭐ 55,491 stars</p>
 <p>⚙️ Development Frameworks</p>
 
 <p>Flowise simplifies the creation of applications leveraging large language models (LLMs) by providing a drag-and-drop interface for customizing AI workflows, offering easy installation, Docker support, development tools, and documentation for integrating various functionalities such as authentication, streaming, and custom tools to enhance AI agents' capabilities</p>
@@ -1864,7 +1859,7 @@ Here's an awesome list of AI agents:
 ### GCF (Graph Compact Format)
 <div><a href="https://github.com/blackwell-systems/gcf"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/blackwell-systems/gcf"><img src="https://img.shields.io/github/stars/blackwell-systems/gcf?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/blackwell-systems">@blackwell-systems</a></p>
-<p>⭐ 51 stars</p>
+<p>⭐ 55 stars</p>
 <p>📏 Standardization | 🔧 Tool Calling (Function Calling)</p>
 
 <p>An AI-native structured-data wire format with implementations in six languages and a proxy for adopting compact agent tool responses.</p>
@@ -1877,7 +1872,7 @@ Here's an awesome list of AI agents:
 ### Giselle
 <div><a href="https://github.com/giselles-ai/giselle"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/giselles-ai/giselle"><img src="https://img.shields.io/github/stars/giselles-ai/giselle?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/giselles-ai">@giselles-ai</a></p>
-<p>⭐ 554 stars</p>
+<p>⭐ 556 stars</p>
 <p>🤖 AI Agents</p>
 
 <p>Giselle is an open-source visual studio for building and running AI agent workflows that combine models, tools, and data sources to deliver products.</p>
@@ -1890,7 +1885,7 @@ Here's an awesome list of AI agents:
 ### GitHub MCP Server
 <div><a href="https://github.com/github/github-mcp-server"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/github/github-mcp-server"><img src="https://img.shields.io/github/stars/github/github-mcp-server?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/github">@github</a></p>
-<p>⭐ 33,197 stars</p>
+<p>⭐ 33,289 stars</p>
 <p>🔌 MCP Servers | 🔧 Tool Calling (Function Calling)</p>
 
 <p>GitHub's official MCP server lets AI agents work with repositories, issues, pull requests, Actions, and code security through the Model Context Protocol.</p>
@@ -1901,7 +1896,7 @@ Here's an awesome list of AI agents:
 ### GolemCore Bot
 <div><a href="https://github.com/alexk-dev/golemcore-bot"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/alexk-dev/golemcore-bot"><img src="https://img.shields.io/github/stars/alexk-dev/golemcore-bot?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/alexk-dev">@alexk-dev</a></p>
-<p>⭐ 40 stars</p>
+<p>⭐ 41 stars</p>
 <p>⚙️ Development Frameworks</p>
 
 <p>GolemCore Bot is an agent platform for AI-native teams, with channel-connected agents, skills, plugins, MCP servers, memory, and execution tracing.</p>
@@ -1914,7 +1909,7 @@ Here's an awesome list of AI agents:
 ### Google ADK
 <div><a href="https://github.com/google/adk-python"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/google/adk-python"><img src="https://img.shields.io/github/stars/google/adk-python?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/google">@google</a></p>
-<p>⭐ 21,645 stars</p>
+<p>⭐ 21,683 stars</p>
 <p>⚙️ Development Frameworks</p>
 
 <p>Google's open-source Agent Development Kit for building, evaluating, and deploying multi-agent systems.</p>
@@ -1925,7 +1920,7 @@ Here's an awesome list of AI agents:
 ### GPT Pilot
 <div><a href="https://github.com/Pythagora-io/gpt-pilot"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Pythagora-io/gpt-pilot"><img src="https://img.shields.io/github/stars/Pythagora-io/gpt-pilot?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/Pythagora-io">@Pythagora-io</a></p>
-<p>⭐ 33,662 stars</p>
+<p>⭐ 33,658 stars</p>
 <p>🤖 AI Agents</p>
 
 <p>GPT Pilot is an open-source AI developer tool that aims to provide a comprehensive development companion, capable of writing features, debugging, and interacting with users, presenting itself as an alternative to Devin, the world's first AI software engineer developed by Cognition Labs</p>
@@ -1936,7 +1931,7 @@ Here's an awesome list of AI agents:
 ### GPT Researcher by Tavily
 <div><a href="https://github.com/assafelovic/gpt-researcher"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/assafelovic/gpt-researcher"><img src="https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/assafelovic">@assafelovic</a></p>
-<p>⭐ 29,623 stars · Growth: today +21 stars (+0.1%)</p>
+<p>⭐ 29,822 stars</p>
 <p>🤖 AI Agents</p>
 
 <p>GPT Researcher is an AI-powered autonomous agent designed for efficient and unbiased online research, generating detailed reports by leveraging recent advancements in AI and web scraping, with a focus on speed, reliability, and cost-effectiveness</p>
@@ -1947,7 +1942,7 @@ Here's an awesome list of AI agents:
 ### gptme
 <div><a href="https://github.com/gptme/gptme"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/gptme/gptme"><img src="https://img.shields.io/github/stars/gptme/gptme?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/gptme">@gptme</a></p>
-<p>⭐ 4,429 stars</p>
+<p>⭐ 4,439 stars</p>
 <p>🤖 AI Agents | ⚙️ Development Frameworks | 💻 Terminal-Friendly</p>
 
 <p>A provider-agnostic personal AI agent that runs in terminals from laptops and remote servers, with local tools for coding and general knowledge work.</p>
@@ -1960,7 +1955,7 @@ Here's an awesome list of AI agents:
 ### Guardrails
 <div><a href="https://github.com/guardrails-ai/guardrails"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/guardrails-ai/guardrails"><img src="https://img.shields.io/github/stars/guardrails-ai/guardrails?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/guardrails-ai">@guardrails-ai</a></p>
-<p>⭐ 7,450 stars · Growth: today +6 stars (+0.1%)</p>
+<p>⭐ 7,470 stars</p>
 <p>🛡️ Safety Guardrails (Safeguarding)</p>
 
 <p>Guardrails is a Python framework for building reliable AI applications, offering Input/Output Guards to detect and mitigate risks, along with structured data generation from large language models (LLMs)</p>
@@ -1971,7 +1966,7 @@ Here's an awesome list of AI agents:
 ### Guidance
 <div><a href="https://github.com/guidance-ai/guidance"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/guidance-ai/guidance"><img src="https://img.shields.io/github/stars/guidance-ai/guidance?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <a href="https://github.com/Harsha-Nori">@Harsha-Nori</a> <a href="https://github.com/guidance-ai/guidance/blob/main/MAINTAINERS.md">evidence</a>, <a href="https://github.com/marcotcr">@marcotcr</a> <a href="https://github.com/guidance-ai/guidance/blob/main/MAINTAINERS.md">evidence</a>, <a href="https://github.com/slundberg">@slundberg</a> <a href="https://github.com/guidance-ai/guidance/blob/main/MAINTAINERS.md">evidence</a> · <strong>Repository owner:</strong> <a href="https://github.com/guidance-ai">@guidance-ai</a></p>
-<p>⭐ 21,777 stars · Growth: today +1 stars (+0.0%)</p>
+<p>⭐ 21,783 stars</p>
 <p>🛡️ Safety Guardrails (Safeguarding)</p>
 
 <p>The text describes 'guidance,' a programming paradigm that enhances control and efficiency in model generation by allowing for constraints like regex and CFGs, integrating stateful control, and offering a simplified interface for complex generation scenarios</p>
@@ -1982,7 +1977,7 @@ Here's an awesome list of AI agents:
 ### HagiCode Desktop
 <div><a href="https://github.com/HagiCode-org/desktop"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/HagiCode-org/desktop"><img src="https://img.shields.io/github/stars/HagiCode-org/desktop?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/HagiCode-org">@HagiCode-org</a></p>
-<p>⭐ 4 stars</p>
+<p>⭐ 5 stars</p>
 <p>⚙️ Development Frameworks | 🖥️ UI Development</p>
 
 <p>An Electron desktop app for installing, running, monitoring, and updating HagiCode Server, with local resource monitoring and agent executor selection.</p>
@@ -1995,7 +1990,7 @@ Here's an awesome list of AI agents:
 ### halo-record
 <div><a href="https://github.com/bkuan001/halo-record"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/bkuan001/halo-record"><img src="https://img.shields.io/github/stars/bkuan001/halo-record?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/bkuan001">@bkuan001</a></p>
-<p>⭐ 80 stars</p>
+<p>⭐ 81 stars</p>
 <p>👁️ Observability Frameworks</p>
 
 <p>halo-record creates tamper-evident, hash-chained records of AI agent tool calls, model calls, and data access, with verifiable reports and policy checks.</p>
@@ -2006,7 +2001,7 @@ Here's an awesome list of AI agents:
 ### Haystack
 <div><a href="https://github.com/deepset-ai/haystack"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/deepset-ai/haystack"><img src="https://img.shields.io/github/stars/deepset-ai/haystack?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/deepset-ai">@deepset-ai</a></p>
-<p>⭐ 26,599 stars · Growth: today +13 stars (+0.0%)</p>
+<p>⭐ 26,632 stars</p>
 <p>⚙️ Development Frameworks</p>
 
 <p>Haystack is an end-to-end LLM framework facilitating the construction of applications powered by LLMs, Transformer models, vector search, and more, offering flexibility, transparency, and extensibility, with features including retrieval-augmented generation, document search, question answering, and semantic search, along with a diverse user base including companies like Airbus, Apple, and Netflix</p>
@@ -2017,7 +2012,7 @@ Here's an awesome list of AI agents:
 ### Helicone
 <div><a href="https://github.com/Helicone/helicone"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Helicone/helicone"><img src="https://img.shields.io/github/stars/Helicone/helicone?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/Helicone">@Helicone</a></p>
-<p>⭐ 6,175 stars · Growth: today -1 stars (-0.0%)</p>
+<p>⭐ 6,188 stars</p>
 <p>👁️ Observability Frameworks</p>
 
 <p>Helicone is an open-source observability platform for Language Learning Models (LLMs), providing features like request logging, caching, rate limiting, cost and latency tracking, UI-based prompt iteration, and collaboration tools</p>
@@ -2028,6 +2023,7 @@ Here's an awesome list of AI agents:
 ### Hermes Agent
 <div><a href="https://github.com/NousResearch/hermes-agent"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/NousResearch/hermes-agent"><img src="https://img.shields.io/github/stars/NousResearch/hermes-agent?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/slavakurilyak">@slavakurilyak</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/665">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/665">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/NousResearch">@NousResearch</a></p>
+<p>⭐ 250,139 stars</p>
 <p>🤖 AI Agents | 🧠 Long-Term Memory | 💻 Terminal-Friendly</p>
 
 <p>Hermes Agent is an open-source agent from Nous Research that runs in a terminal and through messaging platforms, keeps memory and creates skills from experience, and works with the model provider of your choice.</p>
@@ -2040,7 +2036,7 @@ Here's an awesome list of AI agents:
 ### Hermes Agent Chinese Pack
 <div><a href="https://github.com/fresh-claw/hermes-zh-cn"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/fresh-claw/hermes-zh-cn"><img src="https://img.shields.io/github/stars/fresh-claw/hermes-zh-cn?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/fresh-claw">@fresh-claw</a></p>
-<p>⭐ 16 stars</p>
+<p>⭐ 18 stars</p>
 <p>👤 Personal Assistants</p>
 
 <p>A Chinese language and workflow enhancement pack for Hermes Agent desktop, TUI, and CLI, with localized prompts, gateway guidance, pairing approvals, and installation tools.</p>
@@ -2053,7 +2049,7 @@ Here's an awesome list of AI agents:
 ### Hermes Plant
 <div><a href="https://github.com/JesseGdotIO/hermesplant-mcp-server"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/JesseGdotIO/hermesplant-mcp-server"><img src="https://img.shields.io/github/stars/JesseGdotIO/hermesplant-mcp-server?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/JesseGdotIO">@JesseGdotIO</a></p>
-<p>⭐ 1 stars</p>
+<p>⭐ 2 stars</p>
 <p>🔌 MCP Servers | 🛡️ Safety Guardrails (Safeguarding)</p>
 
 <p>The open-source Hermes Plant MCP server connects agents to action safety and commerce assurance services for shell, Git, SQL, deployment, and x402 workflows.</p>
@@ -2064,7 +2060,7 @@ Here's an awesome list of AI agents:
 ### Hive
 <div><a href="https://github.com/aden-hive/hive"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/aden-hive/hive"><img src="https://img.shields.io/github/stars/aden-hive/hive?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/aden-hive">@aden-hive</a></p>
-<p>⭐ 11,072 stars</p>
+<p>⭐ 11,091 stars</p>
 <p>⚙️ Development Frameworks</p>
 
 <p>A model-agnostic runtime for production AI agent teams, with dynamic worker colonies, shared task state, and human oversight.</p>
@@ -2077,7 +2073,7 @@ Here's an awesome list of AI agents:
 ### Hivekeep
 <div><a href="https://github.com/MarlBurroW/hivekeep"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/MarlBurroW/hivekeep"><img src="https://img.shields.io/github/stars/MarlBurroW/hivekeep?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/MarlBurroW">@MarlBurroW</a></p>
-<p>⭐ 62 stars</p>
+<p>⭐ 65 stars</p>
 <p>🤖 AI Agents | 👤 Personal Assistants</p>
 
 <p>Hivekeep is a self-hosted platform of persistent AI agents that remember, collaborate, and respond across connected channels, packaged to run on your own server.</p>
@@ -2090,7 +2086,7 @@ Here's an awesome list of AI agents:
 ### Hivemoot
 <div><a href="https://github.com/hivemoot/hivemoot"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/hivemoot/hivemoot"><img src="https://img.shields.io/github/stars/hivemoot/hivemoot?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/hivemoot">@hivemoot</a></p>
-<p>⭐ 16 stars</p>
+<p>⭐ 17 stars</p>
 <p>🤖 AI Agents</p>
 
 <p>Hivemoot runs a team of AI agents on GitHub repositories, where agents propose work, debate in issues, implement changes, review pull requests, and vote on decisions.</p>
@@ -2103,7 +2099,7 @@ Here's an awesome list of AI agents:
 ### HOL Standards SDK
 <div><a href="https://github.com/hashgraph-online/standards-sdk"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/hashgraph-online/standards-sdk"><img src="https://img.shields.io/github/stars/hashgraph-online/standards-sdk?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <a href="https://github.com/HGraphPunks">@HGraphPunks</a> <a href="https://github.com/hashgraph-online/standards-sdk/blob/main/MAINTAINERS.md">evidence</a>, <a href="https://github.com/kantorcodes">@kantorcodes</a> <a href="https://github.com/hashgraph-online/standards-sdk/blob/main/MAINTAINERS.md">evidence</a>, <a href="https://github.com/rocketmay">@rocketmay</a> <a href="https://github.com/hashgraph-online/standards-sdk/blob/main/MAINTAINERS.md">evidence</a> · <strong>Repository owner:</strong> <a href="https://github.com/hashgraph-online">@hashgraph-online</a></p>
-<p>⭐ 1,229 stars</p>
+<p>⭐ 1,232 stars</p>
 <p>⚙️ Development Frameworks | 📏 Standardization</p>
 
 <p>A TypeScript SDK implementing Hashgraph Online Consensus Standards, with Registry Broker clients for agent discovery and chat.</p>
@@ -2116,6 +2112,7 @@ Here's an awesome list of AI agents:
 ### House Party Protocol
 <div><a href="https://github.com/rusharlabs/house-party-protocol"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/rusharlabs/house-party-protocol"><img src="https://img.shields.io/github/stars/rusharlabs/house-party-protocol?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/rushar-labs">@rushar-labs</a> <small>(self-reported founder/team)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/639">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/658">accepted PR</a> · <strong>Maintained by:</strong> <a href="https://github.com/rushar-labs">@rushar-labs</a> <small>(self-reported)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/639">evidence</a> · <strong>Repository owner:</strong> <a href="https://github.com/rusharlabs">@rusharlabs</a></p>
+<p>⭐ 2 stars</p>
 <p>📊 Evaluation Frameworks</p>
 
 <p>House Party Protocol is a local first Python harness for Claude Code and Codex CLI teams that records criterion command results outside the model, refuses verdicts from the builder's own lane, and binds approvals to a spec hash.</p>
@@ -2128,7 +2125,7 @@ Here's an awesome list of AI agents:
 ### Human Pages MCP Server
 <div><a href="https://github.com/human-pages-ai/humanpages"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/human-pages-ai/humanpages"><img src="https://img.shields.io/github/stars/human-pages-ai/humanpages?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/human-pages-ai">@human-pages-ai</a></p>
-<p>⭐ 7 stars</p>
+<p>⭐ 8 stars</p>
 <p>🔌 MCP Servers</p>
 
 <p>Human Pages MCP Server lets AI agents find, hire, and coordinate people for tasks that require real-world human work, including testing, localization, and community operations.</p>
@@ -2141,7 +2138,7 @@ Here's an awesome list of AI agents:
 ### HVTracker
 <div><a href="https://github.com/YugantM/hvtracker"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/YugantM/hvtracker"><img src="https://img.shields.io/github/stars/YugantM/hvtracker?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/YugantM">@YugantM</a></p>
-<p>⭐ 5 stars</p>
+<p>⭐ 6 stars</p>
 <p>🛡️ Safety Guardrails (Safeguarding)</p>
 
 <p>An open-source trust registry that aggregates public evidence about AI agents and MCP servers, with project comparisons, score history, and machine-readable data.</p>
@@ -2154,6 +2151,7 @@ Here's an awesome list of AI agents:
 ### Hyperconsciousness
 <div><a href="https://github.com/louis030195/hyperconsciousness"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/louis030195/hyperconsciousness"><img src="https://img.shields.io/github/stars/louis030195/hyperconsciousness?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/louis030195">@louis030195</a> <small>(self-reported founder/team)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/629">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/662">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/louis030195">@louis030195</a></p>
+<p>⭐ 2 stars</p>
 <p>🧠 Long-Term Memory | 🔌 MCP Servers</p>
 
 <p>Hyperconsciousness is an MIT-licensed developer alpha Rust knowledge store for humans and AI agents that keeps signed, encrypted, append-only records and exposes scoped, expiring retrieval and capture grants through CLI, MCP and HTTP.</p>
@@ -2166,7 +2164,7 @@ Here's an awesome list of AI agents:
 ### Instructor
 <div><a href="https://github.com/567-labs/instructor"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/567-labs/instructor"><img src="https://img.shields.io/github/stars/567-labs/instructor?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/567-labs">@567-labs</a></p>
-<p>⭐ 13,942 stars</p>
+<p>⭐ 13,961 stars</p>
 <p>🏗️ Structured Outputs</p>
 
 <p>Instructor, a Python library, facilitates working with structured outputs from large language models (LLMs), offering features like response model specification, retry management, validation, and streaming support, primarily aimed at enhancing workflows of AI agents utilizing LLMs</p>
@@ -2176,8 +2174,8 @@ Here's an awesome list of AI agents:
 
 ### InsumerAPI Agent Tools
 <div><a href="https://github.com/douglasborthwick-crypto/mcp-server-insumer"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/douglasborthwick-crypto/mcp-server-insumer"><img src="https://img.shields.io/github/stars/douglasborthwick-crypto/mcp-server-insumer?style=social" alt="GitHub stars"></a></div>
-<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/douglasborthwick-crypto">@douglasborthwick-crypto</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/70">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/482">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/douglasborthwick-crypto">@douglasborthwick-crypto</a></p>
-<p>⭐ 1 stars</p>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/douglasborthwick-crypto">@douglasborthwick-crypto</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/70">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/482">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/insumerapi">@insumerapi</a></p>
+<p>⭐ 2 stars</p>
 <p>🤖 AI Agents</p>
 
 <p>Open-source MCP and LangChain integrations for calling Insumer’s hosted service to verify on-chain wallet conditions and return signed attestations.</p>
@@ -2190,7 +2188,7 @@ Here's an awesome list of AI agents:
 ### Jan
 <div><a href="https://github.com/janhq/jan"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/janhq/jan"><img src="https://img.shields.io/github/stars/janhq/jan?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/janhq">@janhq</a></p>
-<p>⭐ 44,651 stars · Growth: today +18 stars (+0.0%)</p>
+<p>⭐ 44,717 stars</p>
 <p>💻 Local Inference</p>
 
 <p>Jan is an open-source, development-stage ChatGPT alternative that operates fully offline on diverse hardware platforms, supporting universal architectures from PCs to multi-GPU clusters</p>
@@ -2201,7 +2199,7 @@ Here's an awesome list of AI agents:
 ### Jev Social
 <div><a href="https://github.com/socai-io/jev-social"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/socai-io/jev-social"><img src="https://img.shields.io/github/stars/socai-io/jev-social?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/IRONICBo">@IRONICBo</a> <small>(self-reported founder/team)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/439">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/456">accepted PR</a> · <strong>Maintained by:</strong> <a href="https://github.com/IRONICBo">@IRONICBo</a> <small>(self-reported)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/439">evidence</a> · <strong>Repository owner:</strong> <a href="https://github.com/socai-io">@socai-io</a></p>
-<p>⭐ 82 stars</p>
+<p>⭐ 124 stars</p>
 <p>🤖 AI Agents</p>
 
 <p>A browser-grounded social research agent that lets Jev select bounded operations, uses the socai CLI in the user's Chrome session, and generates source-linked reports.</p>
@@ -2212,7 +2210,7 @@ Here's an awesome list of AI agents:
 ### jevme
 <div><a href="https://github.com/danielyedaniel/jevme"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/danielyedaniel/jevme"><img src="https://img.shields.io/github/stars/danielyedaniel/jevme?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/danielyedaniel">@danielyedaniel</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/431">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/429">related submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/442">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/danielyedaniel">@danielyedaniel</a></p>
-<p>⭐ 3 stars</p>
+<p>⭐ 5 stars</p>
 <p>💻 Operating System (OS)</p>
 
 <p>jevme is a voice-controlled macOS agent that uses accessibility controls to operate apps, executes commands as the user speaks, and learns reusable tasks from demonstrations.</p>
@@ -2223,7 +2221,7 @@ Here's an awesome list of AI agents:
 ### Julep
 <div><a href="https://github.com/julep-ai/julep"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/julep-ai/julep"><img src="https://img.shields.io/github/stars/julep-ai/julep?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/julep-ai">@julep-ai</a></p>
-<p>⭐ 6,580 stars</p>
+<p>⭐ 6,577 stars</p>
 <p>⚙️ Development Frameworks</p>
 
 <p>Julep builds durable, composable AI agents as workflows that can resume after failures, retry safely, and expose step-by-step execution.</p>
@@ -2236,7 +2234,7 @@ Here's an awesome list of AI agents:
 ### k8s4claw
 <div><a href="https://github.com/Prismer-AI/k8s4claw"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Prismer-AI/k8s4claw"><img src="https://img.shields.io/github/stars/Prismer-AI/k8s4claw?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/Prismer-AI">@Prismer-AI</a></p>
-<p>⭐ 9 stars</p>
+<p>⭐ 10 stars</p>
 <p>🤖 AI Agents | ⚙️ Development Frameworks | 🛡️ Safety Guardrails (Safeguarding)</p>
 
 <p>A Kubernetes operator for deploying and managing AI agent runtimes, with bounded self-healing that keeps LLMs out of the cluster's workload write path.</p>
@@ -2249,7 +2247,7 @@ Here's an awesome list of AI agents:
 ### Kitaru
 <div><a href="https://github.com/zenml-io/kitaru"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/zenml-io/kitaru"><img src="https://img.shields.io/github/stars/zenml-io/kitaru?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/zenml-io">@zenml-io</a></p>
-<p>⭐ 295 stars</p>
+<p>⭐ 299 stars</p>
 <p>📊 Evaluation Frameworks | 👁️ Observability Frameworks</p>
 
 <p>An open-source replay-based evaluation toolkit for AI agents that records or imports production traces as sessions and reruns them against model, prompt, or code changes.</p>
@@ -2262,7 +2260,7 @@ Here's an awesome list of AI agents:
 ### Kodo
 <div><a href="https://github.com/ikamensh/kodo"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/ikamensh/kodo"><img src="https://img.shields.io/github/stars/ikamensh/kodo?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/ikamensh">@ikamensh</a></p>
-<p>⭐ 133 stars</p>
+<p>⭐ 135 stars</p>
 <p>⚙️ Development Frameworks</p>
 
 <p>An autonomous multi-agent coding orchestrator that runs coding agents through work cycles with independent verification.</p>
@@ -2275,7 +2273,7 @@ Here's an awesome list of AI agents:
 ### KubeStellar Console
 <div><a href="https://github.com/kubestellar/console"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/kubestellar/console"><img src="https://img.shields.io/github/stars/kubestellar/console?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <a href="https://github.com/clubanderson">@clubanderson</a> <a href="https://github.com/kubestellar/console/blob/main/MAINTAINERS.md">evidence</a>, <a href="https://github.com/eeshaanSA">@eeshaanSA</a> <a href="https://github.com/kubestellar/console/blob/main/MAINTAINERS.md">evidence</a>, <a href="https://github.com/MikeSpreitzer">@MikeSpreitzer</a> <a href="https://github.com/kubestellar/console/blob/main/MAINTAINERS.md">evidence</a>, <a href="https://github.com/Nupurshivani">@Nupurshivani</a> <a href="https://github.com/kubestellar/console/blob/main/MAINTAINERS.md">evidence</a> · <strong>Repository owner:</strong> <a href="https://github.com/kubestellar">@kubestellar</a></p>
-<p>⭐ 139 stars</p>
+<p>⭐ 141 stars</p>
 <p>🤖 AI Agents | 🔧 Tool Calling (Function Calling)</p>
 
 <p>A self-hosted multi-cluster Kubernetes dashboard with an AI operations agent that connects language models to live clusters through MCP.</p>
@@ -2288,7 +2286,7 @@ Here's an awesome list of AI agents:
 ### LangChain
 <div><a href="https://github.com/langchain-ai/langchain"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/langchain-ai/langchain"><img src="https://img.shields.io/github/stars/langchain-ai/langchain?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/langchain-ai">@langchain-ai</a></p>
-<p>⭐ 147,058 stars</p>
+<p>⭐ 147,294 stars</p>
 <p>⚙️ Development Frameworks</p>
 
 <p>LangChain is a framework enabling context-aware reasoning applications with integrated libraries, templates, and developer tools</p>
@@ -2299,7 +2297,7 @@ Here's an awesome list of AI agents:
 ### LangChain JS
 <div><a href="https://github.com/langchain-ai/langchainjs"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/langchain-ai/langchainjs"><img src="https://img.shields.io/github/stars/langchain-ai/langchainjs?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/langchain-ai">@langchain-ai</a></p>
-<p>⭐ 18,227 stars</p>
+<p>⭐ 18,241 stars</p>
 <p>⚙️ Development Frameworks</p>
 
 <p>LangChain JS is a framework for developing applications powered by language models, enabling context-aware and reasoning-based applications through composable tools and off-the-shelf chains, with seamless integration with the LangChain Python package</p>
@@ -2310,7 +2308,7 @@ Here's an awesome list of AI agents:
 ### LangChain JS Tools
 <div><a href="https://github.com/langchain-ai/langchainjs"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/langchain-ai/langchainjs"><img src="https://img.shields.io/github/stars/langchain-ai/langchainjs?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/langchain-ai">@langchain-ai</a></p>
-<p>⭐ 18,227 stars</p>
+<p>⭐ 18,241 stars</p>
 <p> Function Calling</p>
 
 <p>Langchain features VectorDBQAChain, which integrates LLMs and vector databases into agent tools for enhanced question-answering capabilities by leveraging data ingested into vector stores</p>
@@ -2321,7 +2319,7 @@ Here's an awesome list of AI agents:
 ### LangChain Tools
 <div><a href="https://github.com/langchain-ai/langchain/"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/langchain-ai/langchain/"><img src="https://img.shields.io/github/stars/langchain-ai/langchain?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/langchain-ai">@langchain-ai</a></p>
-<p>⭐ 147,058 stars</p>
+<p>⭐ 147,294 stars</p>
 <p> Function Calling</p>
 
 <p>Langchain integrates various providers like Anthropic, AWS, and OpenAI, and offers tools for components such as LLMs, chat models, and data analysis, supporting functionalities from Alpha Vantage to YouTube</p>
@@ -2332,7 +2330,7 @@ Here's an awesome list of AI agents:
 ### LangFuse
 <div><a href="https://github.com/langfuse/langfuse"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/langfuse/langfuse"><img src="https://img.shields.io/github/stars/langfuse/langfuse?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/langfuse">@langfuse</a></p>
-<p>⭐ 35,051 stars</p>
+<p>⭐ 35,216 stars</p>
 <p>📊 Evaluation Frameworks</p>
 
 <p>Langfuse, an open-source LLM engineering platform, offers debugging, prompt management, metrics for LLM apps improvement, and won the #1 Golden Kitty in the AI Infra Category from Product Hunt</p>
@@ -2343,7 +2341,7 @@ Here's an awesome list of AI agents:
 ### LangGraph
 <div><a href="https://github.com/langchain-ai/langgraph"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/langchain-ai/langgraph"><img src="https://img.shields.io/github/stars/langchain-ai/langgraph?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/langchain-ai">@langchain-ai</a></p>
-<p>⭐ 42,288 stars</p>
+<p>⭐ 42,493 stars</p>
 <p>⚙️ Development Frameworks</p>
 
 <p>LangGraph is a Python library facilitating the construction of stateful, multi-actor applications with LLMs, enabling cyclic coordination across multiple computation steps, particularly suited for agent-like behaviors, while also providing streaming support, and various guides and examples for implementation and usage</p>
@@ -2354,7 +2352,7 @@ Here's an awesome list of AI agents:
 ### LangGraph.js
 <div><a href="https://github.com/langchain-ai/langgraphjs"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/langchain-ai/langgraphjs"><img src="https://img.shields.io/github/stars/langchain-ai/langgraphjs?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/langchain-ai">@langchain-ai</a></p>
-<p>⭐ 3,313 stars</p>
+<p>⭐ 3,327 stars</p>
 <p>⚙️ Development Frameworks</p>
 
 <p>LangGraph.js is a TypeScript and JavaScript library enabling the development of stateful, multi-actor applications with LLMs, featuring capabilities to construct cyclic coordination across multiple computation steps for complex agent-like behaviors, with support for conditional edges and cycles, not limited to DAGs, and extensive documentation with examples on implementation</p>
@@ -2365,7 +2363,7 @@ Here's an awesome list of AI agents:
 ### LangServe
 <div><a href="https://github.com/langchain-ai/langserve"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/langchain-ai/langserve"><img src="https://img.shields.io/github/stars/langchain-ai/langserve?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/langchain-ai">@langchain-ai</a></p>
-<p>⭐ 2,328 stars</p>
+<p>⭐ 2,327 stars</p>
 <p>⚙️ Development Frameworks</p>
 
 <p>LangServe facilitates the deployment of LangChain runnables and chains as a REST API, providing features like automatic schema inference, efficient endpoints, and a playground page, with plans for a hosted version for one-click deployments</p>
@@ -2376,7 +2374,7 @@ Here's an awesome list of AI agents:
 ### LangSmith by LangChain
 <div><a href="https://github.com/langchain-ai/langsmith-sdk"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/langchain-ai/langsmith-sdk"><img src="https://img.shields.io/github/stars/langchain-ai/langsmith-sdk?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/langchain-ai">@langchain-ai</a></p>
-<p>⭐ 1,063 stars</p>
+<p>⭐ 1,065 stars</p>
 <p>👁️ Observability Frameworks</p>
 
 <p>LangSmith provides tools for debugging, testing, evaluating, and monitoring LLM applications, integrating seamlessly with LangChain for comprehensive AI agent observability</p>
@@ -2387,7 +2385,7 @@ Here's an awesome list of AI agents:
 ### LiteLLM
 <div><a href="https://github.com/BerriAI/litellm"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/BerriAI/litellm"><img src="https://img.shields.io/github/stars/BerriAI/litellm?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/BerriAI">@BerriAI</a></p>
-<p>⭐ 59,628 stars · Growth: today +92 stars (+0.2%)</p>
+<p>⭐ 59,897 stars</p>
 <p>🤖 Assistants API</p>
 
 <p>LiteLLM has added support for the OpenAI Assistants API, enabling seamless integration of stateful operations and automatic RAG pipelines into existing chatbots</p>
@@ -2398,7 +2396,7 @@ Here's an awesome list of AI agents:
 ### LiveKit Agents
 <div><a href="https://github.com/livekit/agents"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/livekit/agents"><img src="https://img.shields.io/github/stars/livekit/agents?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/livekit">@livekit</a></p>
-<p>⭐ 14,358 stars</p>
+<p>⭐ 14,430 stars</p>
 <p>⚡ Real-Time</p>
 
 <p>An open-source framework for building real-time, programmable participants that run on servers, enabling easy integration with LiveKit WebRTC sessions for processing or generating audio, video, and data streams</p>
@@ -2409,7 +2407,7 @@ Here's an awesome list of AI agents:
 ### LiveRecall
 <div><a href="https://github.com/VedankPurohit/LiveRecall"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/VedankPurohit/LiveRecall"><img src="https://img.shields.io/github/stars/VedankPurohit/LiveRecall?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/VedankPurohit">@VedankPurohit</a></p>
-<p>⭐ 164 stars</p>
+<p>⭐ 166 stars</p>
 <p>👤 Personal Assistants</p>
 
 <p>LiveRecall, an open-source alternative to Microsoft's Recall, utilizes semantic search and encryption to capture and retrieve screen snapshots, enabling AI agents to assist creators in researching and augmenting tasks like journaling or blog post creation based on indexed personal activities</p>
@@ -2420,7 +2418,7 @@ Here's an awesome list of AI agents:
 ### LlamaIndex Tools
 <div><a href="https://github.com/run-llama/llama_index"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/run-llama/llama_index"><img src="https://img.shields.io/github/stars/run-llama/llama_index?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/run-llama">@run-llama</a></p>
-<p>⭐ 52,320 stars</p>
+<p>⭐ 52,367 stars</p>
 <p> Function Calling</p>
 
 <p>LlamaIndex offers a variety of tools for building data agents, with top downloads including IonicShoppingToolSpec, OpenAPIToolSpec, WikipediaToolSpec, GmailToolSpec, and GoogleCalendarToolSpec, enabling seamless integration with user-defined functions, query engines, and third-party services</p>
@@ -2431,7 +2429,7 @@ Here's an awesome list of AI agents:
 ### Lobe Chat
 <div><a href="https://github.com/lobehub/lobehub"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/lobehub/lobehub"><img src="https://img.shields.io/github/stars/lobehub/lobehub?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <a href="https://github.com/arvinxx">@arvinxx</a> <a href="https://github.com/lobehub/lobehub/blob/canary/README.md">evidence</a>, <a href="https://github.com/canisminor1990">@canisminor1990</a> <a href="https://github.com/lobehub/lobehub/blob/canary/README.md">evidence</a> · <strong>Repository owner:</strong> <a href="https://github.com/lobehub">@lobehub</a></p>
-<p>⭐ 82,828 stars</p>
+<p>⭐ 82,911 stars</p>
 <p>⚙️ Development Frameworks</p>
 
 <p>Lobe Chat is an open-source UI framework for building ChatGPT/LLM-based chat applications, featuring modern design, speech synthesis, multi-modal support, extensible plugins, and free one-click deployment for various AI agents</p>
@@ -2452,8 +2450,8 @@ Here's an awesome list of AI agents:
 
 ### LoopGPT
 <div><a href="https://github.com/farizrahman4u/loopgpt"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/farizrahman4u/loopgpt"><img src="https://img.shields.io/github/stars/farizrahman4u/loopgpt?style=social" alt="GitHub stars"></a></div>
-<p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/farizrahman4u">@farizrahman4u</a></p>
-<p>⭐ 1,449 stars · Growth: today 0 stars (+0.0%)</p>
+<p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/vitalops">@vitalops</a></p>
+<p>⭐ 1,450 stars</p>
 <p>⚙️ Development Frameworks</p>
 
 <p>LoopGPT is a modular auto-GPT framework with features such as a 'Plug N Play' API, GPT 3.5 compatibility, minimal prompt overhead, human-in-the-loop capability, and full state serialization, facilitating easy installation and usage through Python code, CLI, or Docker, with the ability to add custom tools and course correction, along with saving and loading agent state, requiring Python 3.8+ and an OpenAI API Key, and optional setup for Google search support</p>
@@ -2464,7 +2462,7 @@ Here's an awesome list of AI agents:
 ### LoopTroop
 <div><a href="https://github.com/looptroop-ai/LoopTroop"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/looptroop-ai/LoopTroop"><img src="https://img.shields.io/github/stars/looptroop-ai/LoopTroop?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/looptroop-ai">@looptroop-ai</a></p>
-<p>⭐ 154 stars</p>
+<p>⭐ 155 stars</p>
 <p>🤖 AI Agents</p>
 
 <p>LoopTroop is a local AI coding orchestrator that plans work with an LLM council, runs tasks in isolated Git worktrees, and retries failures with fresh context.</p>
@@ -2477,7 +2475,7 @@ Here's an awesome list of AI agents:
 ### lucinate
 <div><a href="https://github.com/lucinate-ai/lucinate"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/lucinate-ai/lucinate"><img src="https://img.shields.io/github/stars/lucinate-ai/lucinate?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/lucinate-ai">@lucinate-ai</a></p>
-<p>⭐ 11 stars</p>
+<p>⭐ 12 stars</p>
 <p>💻 Terminal-Friendly</p>
 
 <p>lucinate is a terminal-native AI chat client for OpenClaw, Hermes Agent, Ollama, and OpenAI-compatible backends, with routines and local skill management.</p>
@@ -2488,7 +2486,7 @@ Here's an awesome list of AI agents:
 ### Maestro
 <div><a href="https://github.com/RunMaestro/Maestro"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/RunMaestro/Maestro"><img src="https://img.shields.io/github/stars/RunMaestro/Maestro?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/RunMaestro">@RunMaestro</a></p>
-<p>⭐ 3,358 stars</p>
+<p>⭐ 3,379 stars</p>
 <p>🤖 AI Agents | 🔄 Flow Engineering (Platform Engineering)</p>
 
 <p>A desktop command center for running multiple AI coding agents in parallel, automating sessions with event cues and playbooks, and coordinating local and remote agents.</p>
@@ -2512,7 +2510,7 @@ Here's an awesome list of AI agents:
 ### Mastra
 <div><a href="https://github.com/mastra-ai/mastra"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/mastra-ai/mastra"><img src="https://img.shields.io/github/stars/mastra-ai/mastra?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/mastra-ai">@mastra-ai</a></p>
-<p>⭐ 28,333 stars</p>
+<p>⭐ 28,445 stars</p>
 <p>⚙️ Development Frameworks</p>
 
 <p>Mastra is a TypeScript framework for building AI agents, workflows, RAG applications, and evaluations.</p>
@@ -2523,7 +2521,7 @@ Here's an awesome list of AI agents:
 ### Max CLI
 <div><a href="https://github.com/sortlist/max-cli"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/sortlist/max-cli"><img src="https://img.shields.io/github/stars/sortlist/max-cli?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/sortlist">@sortlist</a></p>
-<p>⭐ 1 stars</p>
+<p>⭐ 2 stars</p>
 <p>🤖 AI Agents</p>
 
 <p>A lead-intelligence CLI for discovering prospects and managing lead-generation subscriptions and workflows.</p>
@@ -2536,7 +2534,7 @@ Here's an awesome list of AI agents:
 ### Melaya SDKs
 <div><a href="https://github.com/melaya-labs/melaya"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/melaya-labs/melaya"><img src="https://img.shields.io/github/stars/melaya-labs/melaya?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/melaya-labs">@melaya-labs</a></p>
-<p>⭐ 5 stars</p>
+<p>⭐ 6 stars</p>
 <p>⚙️ Development Frameworks</p>
 
 <p>Nine official open-source SDKs for integrating applications with Melaya's APIs, covering authentication, agents, pipelines, device control, evaluations, and other public platform surfaces.</p>
@@ -2549,7 +2547,7 @@ Here's an awesome list of AI agents:
 ### mem0
 <div><a href="https://github.com/mem0ai/mem0"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/mem0ai/mem0"><img src="https://img.shields.io/github/stars/mem0ai/mem0?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/mem0ai">@mem0ai</a></p>
-<p>⭐ 66,011 stars</p>
+<p>⭐ 66,339 stars</p>
 <p>🧠 Long-Term Memory</p>
 
 <p>Mem0 is an intelligent memory layer for Large Language Models that enhances personalized AI experiences by retaining and utilizing contextual information across various applications.</p>
@@ -2560,7 +2558,7 @@ Here's an awesome list of AI agents:
 ### MemClaw
 <div><a href="https://github.com/Felo-Inc/memclaw"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Felo-Inc/memclaw"><img src="https://img.shields.io/github/stars/Felo-Inc/memclaw?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/Felo-Inc">@Felo-Inc</a></p>
-<p>⭐ 40 stars</p>
+<p>⭐ 41 stars</p>
 <p>🧠 Long-Term Memory</p>
 
 <p>A persistent memory tool for AI coding agents that isolates workspaces by project and provides a dashboard for reviewing and managing stored context.</p>
@@ -2573,7 +2571,7 @@ Here's an awesome list of AI agents:
 ### MemGPT
 <div><a href="https://github.com/letta-ai/letta/"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/letta-ai/letta/"><img src="https://img.shields.io/github/stars/letta-ai/letta?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/letta-ai">@letta-ai</a></p>
-<p>⭐ 24,884 stars</p>
+<p>⭐ 24,980 stars</p>
 <p>🧠 Long-Term Memory</p>
 
 <p>MemGPT introduces a customizable AI chatbot framework with self-editing memory and access to unlimited data, promoting perpetual, context-rich conversations</p>
@@ -2584,7 +2582,7 @@ Here's an awesome list of AI agents:
 ### MergeKit
 <div><a href="https://github.com/arcee-ai/mergekit"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/arcee-ai/mergekit"><img src="https://img.shields.io/github/stars/arcee-ai/mergekit?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/arcee-ai">@arcee-ai</a></p>
-<p>⭐ 7,372 stars · Growth: today +2 stars (+0.0%)</p>
+<p>⭐ 7,382 stars</p>
 <p>🔀 Model Merges</p>
 
 <p>Arcee AI's MergeKit offers tools for merging pre-trained large language models, enabling the creation of more versatile AI agents by combining knowledge from different sources, akin to Retrieval Augmented Generation (RAG)</p>
@@ -2595,7 +2593,7 @@ Here's an awesome list of AI agents:
 ### Metorial
 <div><a href="https://github.com/metorial/metorial"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/metorial/metorial"><img src="https://img.shields.io/github/stars/metorial/metorial?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/metorial">@metorial</a></p>
-<p>⭐ 3,358 stars</p>
+<p>⭐ 3,363 stars</p>
 <p>🔌 MCP Servers</p>
 
 <p>Metorial is an open-source control plane for agent access to external systems, standardizing integrations with shared authentication, permissions, and observability.</p>
@@ -2608,7 +2606,7 @@ Here's an awesome list of AI agents:
 ### Microsoft Agent Framework
 <div><a href="https://github.com/microsoft/agent-framework"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/microsoft/agent-framework"><img src="https://img.shields.io/github/stars/microsoft/agent-framework?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/microsoft">@microsoft</a></p>
-<p>⭐ 13,797 stars</p>
+<p>⭐ 13,873 stars</p>
 <p>⚙️ Development Frameworks</p>
 
 <p>Microsoft's framework for building AI agents and workflows, combining capabilities from AutoGen and Semantic Kernel.</p>
@@ -2619,7 +2617,7 @@ Here's an awesome list of AI agents:
 ### Mnemoverse
 <div><a href="https://github.com/mnemoverse/mcp-memory-server"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/mnemoverse/mcp-memory-server"><img src="https://img.shields.io/github/stars/mnemoverse/mcp-memory-server?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/mnemoverse">@mnemoverse</a></p>
-<p>⭐ 25 stars</p>
+<p>⭐ 26 stars</p>
 <p>🧠 Long-Term Memory</p>
 
 <p>Mnemoverse is an open-source MCP server for persistent AI-agent memory, with feedback tools that adjust how memories are ranked.</p>
@@ -2630,7 +2628,7 @@ Here's an awesome list of AI agents:
 ### Moching
 <div><a href="https://github.com/moching-ai-dev/moching"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/moching-ai-dev/moching"><img src="https://img.shields.io/github/stars/moching-ai-dev/moching?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/moching-ai-dev">@moching-ai-dev</a></p>
-<p>⭐ 5 stars</p>
+<p>⭐ 8 stars</p>
 <p>💻 Operating System (OS)</p>
 
 <p>Moching is a desktop AI agent for controlling a PC, with screen perception, browser and Office automation, and native tools.</p>
@@ -2641,7 +2639,7 @@ Here's an awesome list of AI agents:
 ### Model Context Protocol
 <div><a href="https://github.com/modelcontextprotocol/modelcontextprotocol"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/modelcontextprotocol/modelcontextprotocol"><img src="https://img.shields.io/github/stars/modelcontextprotocol/modelcontextprotocol?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <a href="https://github.com/CaitieM20">@CaitieM20</a> <a href="https://github.com/modelcontextprotocol/modelcontextprotocol/blob/main/MAINTAINERS.md">evidence</a>, <a href="https://github.com/clareliguori">@clareliguori</a> <a href="https://github.com/modelcontextprotocol/modelcontextprotocol/blob/main/MAINTAINERS.md">evidence</a>, <a href="https://github.com/dsp-ant">@dsp-ant</a> <a href="https://github.com/modelcontextprotocol/modelcontextprotocol/blob/main/MAINTAINERS.md">evidence</a>, <a href="https://github.com/kurtisvg">@kurtisvg</a> <a href="https://github.com/modelcontextprotocol/modelcontextprotocol/blob/main/MAINTAINERS.md">evidence</a>, <a href="https://github.com/localden">@localden</a> <a href="https://github.com/modelcontextprotocol/modelcontextprotocol/blob/main/MAINTAINERS.md">evidence</a>, <a href="https://github.com/nickcoai">@nickcoai</a> <a href="https://github.com/modelcontextprotocol/modelcontextprotocol/blob/main/MAINTAINERS.md">evidence</a>, <a href="https://github.com/pcarleton">@pcarleton</a> <a href="https://github.com/modelcontextprotocol/modelcontextprotocol/blob/main/MAINTAINERS.md">evidence</a>, <a href="https://github.com/pja-ant">@pja-ant</a> <a href="https://github.com/modelcontextprotocol/modelcontextprotocol/blob/main/MAINTAINERS.md">evidence</a> · <strong>Repository owner:</strong> <a href="https://github.com/modelcontextprotocol">@modelcontextprotocol</a></p>
-<p>⭐ 9,306 stars</p>
+<p>⭐ 9,340 stars</p>
 <p>📏 Standardization | 🔧 Tool Calling (Function Calling)</p>
 
 <p>An open protocol standard for connecting AI applications to tools and data sources through a client-server interface.</p>
@@ -2652,7 +2650,7 @@ Here's an awesome list of AI agents:
 ### Moss
 <div><a href="https://github.com/usemoss/moss"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/usemoss/moss"><img src="https://img.shields.io/github/stars/usemoss/moss?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/usemoss">@usemoss</a></p>
-<p>⭐ 681 stars</p>
+<p>⭐ 790 stars</p>
 <p>🧠 Long-Term Memory</p>
 
 <p>An open-source semantic search runtime for conversational AI agents, combining vector and keyword retrieval, built-in embeddings, metadata filters, and browser WebAssembly support.</p>
@@ -2665,7 +2663,7 @@ Here's an awesome list of AI agents:
 ### Mysti
 <div><a href="https://github.com/DeepMyst/Mysti"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/DeepMyst/Mysti"><img src="https://img.shields.io/github/stars/DeepMyst/Mysti?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/DeepMyst">@DeepMyst</a></p>
-<p>⭐ 1,138 stars</p>
+<p>⭐ 1,141 stars</p>
 <p>🤖 AI Agents</p>
 
 <p>Mysti is a VS Code AI coding team that connects multiple agent backends and supports collaborative brainstorming, red-teaming, and persistent coding conversations.</p>
@@ -2678,7 +2676,7 @@ Here's an awesome list of AI agents:
 ### n3rv (formerly NERV)
 <div><a href="https://github.com/juanmanueldaza/n3rv"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/juanmanueldaza/n3rv"><img src="https://img.shields.io/github/stars/juanmanueldaza/n3rv?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <a href="https://github.com/juanmanueldaza">@juanmanueldaza</a> <a href="https://github.com/juanmanueldaza/n3rv/blob/main/README.md">evidence</a> · <strong>Repository owner:</strong> <a href="https://github.com/juanmanueldaza">@juanmanueldaza</a></p>
-<p>⭐ 10 stars</p>
+<p>⭐ 11 stars</p>
 <p>⚙️ Development Frameworks</p>
 
 <p>A runtime library and config generator for OpenCode agent workspaces, with provider abstraction, A2A task delegation, persistent memory, and MCP servers.</p>
@@ -2691,7 +2689,7 @@ Here's an awesome list of AI agents:
 ### Nanocoder
 <div><a href="https://github.com/Nano-Collective/nanocoder"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Nano-Collective/nanocoder"><img src="https://img.shields.io/github/stars/Nano-Collective/nanocoder?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/Nano-Collective">@Nano-Collective</a></p>
-<p>⭐ 2,492 stars</p>
+<p>⭐ 2,493 stars</p>
 <p>🤖 AI Agents | 💻 Local Inference | 💻 Terminal-Friendly</p>
 
 <p>A local-first terminal coding agent that connects to user-selected models and supports tool calling, MCP, and custom commands.</p>
@@ -2704,7 +2702,7 @@ Here's an awesome list of AI agents:
 ### NarraNexus
 <div><a href="https://github.com/NetMindAI-Open/NarraNexus"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/NetMindAI-Open/NarraNexus"><img src="https://img.shields.io/github/stars/NetMindAI-Open/NarraNexus?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <a href="https://github.com/Aoshine-T">@Aoshine-T</a> <a href="https://github.com/NetMindAI-Open/NarraNexus/blob/main/MAINTAINERS.md">evidence</a>, <a href="https://github.com/BinLiang2021">@BinLiang2021</a> <a href="https://github.com/NetMindAI-Open/NarraNexus/blob/main/MAINTAINERS.md">evidence</a>, <a href="https://github.com/ghydsgaaa">@ghydsgaaa</a> <a href="https://github.com/NetMindAI-Open/NarraNexus/blob/main/MAINTAINERS.md">evidence</a>, <a href="https://github.com/johnsonice">@johnsonice</a> <a href="https://github.com/NetMindAI-Open/NarraNexus/blob/main/MAINTAINERS.md">evidence</a>, <a href="https://github.com/netmindCjx">@netmindCjx</a> <a href="https://github.com/NetMindAI-Open/NarraNexus/blob/main/MAINTAINERS.md">evidence</a>, <a href="https://github.com/zzfana407">@zzfana407</a> <a href="https://github.com/NetMindAI-Open/NarraNexus/blob/main/MAINTAINERS.md">evidence</a> · <strong>Repository owner:</strong> <a href="https://github.com/NetMindAI-Open">@NetMindAI-Open</a></p>
-<p>⭐ 85 stars</p>
+<p>⭐ 87 stars</p>
 <p>🤖 AI Agents | 🧠 Long-Term Memory</p>
 
 <p>An open-source AI team workspace for persistent agent identity and memory, multi-agent collaboration, and long-running work across connected channels.</p>
@@ -2717,7 +2715,7 @@ Here's an awesome list of AI agents:
 ### NeMo Guardrails
 <div><a href="https://github.com/NVIDIA-NeMo/Guardrails"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/NVIDIA-NeMo/Guardrails"><img src="https://img.shields.io/github/stars/NVIDIA-NeMo/Guardrails?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/NVIDIA-NeMo">@NVIDIA-NeMo</a></p>
-<p>⭐ 7,196 stars</p>
+<p>⭐ 7,220 stars</p>
 <p>🛡️ Safety Guardrails (Safeguarding)</p>
 
 <p>NeMo Guardrails is an open-source toolkit facilitating the integration of programmable guardrails, essential for steering and safeguarding AI agents' conversational outputs, into large language model-based applications</p>
@@ -2728,7 +2726,7 @@ Here's an awesome list of AI agents:
 ### Nexus-Agent
 <div><a href="https://github.com/parkain707/nexus-agent"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/parkain707/nexus-agent"><img src="https://img.shields.io/github/stars/parkain707/nexus-agent?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/parkain707">@parkain707</a></p>
-<p>⭐ 1 stars</p>
+<p>⭐ 2 stars</p>
 <p>🤖 AI Agents | ⚙️ Development Frameworks | 🛡️ Safety Guardrails (Safeguarding)</p>
 
 <p>Nexus-Agent is an autonomous software-engineering agent with a self-healing execution loop, AST pre-validation, persistent rollback, and terminal and web interfaces.</p>
@@ -2739,7 +2737,7 @@ Here's an awesome list of AI agents:
 ### Nobulex
 <div><a href="https://github.com/arian-gogani/nobulex-registry"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/arian-gogani/nobulex-registry"><img src="https://img.shields.io/github/stars/arian-gogani/nobulex-registry?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/arian-gogani">@arian-gogani</a></p>
-<p>⭐ 1 stars</p>
+<p>⭐ 2 stars</p>
 <p>🛡️ Safety Guardrails (Safeguarding)</p>
 
 <p>An open-source gateway for AI agents acting on financial data: verifies supporting evidence, evaluates a bounded policy, returns PERMIT, BLOCK, or ESCALATE, and emits a hash-chained receipt.</p>
@@ -2750,7 +2748,7 @@ Here's an awesome list of AI agents:
 ### NotFair
 <div><a href="https://github.com/nowork-studio/notfair-plugin"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/nowork-studio/notfair-plugin"><img src="https://img.shields.io/github/stars/nowork-studio/notfair-plugin?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/nowork-studio">@nowork-studio</a></p>
-<p>⭐ 3,860 stars</p>
+<p>⭐ 3,883 stars</p>
 <p>🤖 AI Agents</p>
 
 <p>Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads, with integrations that read live account and analytics data.</p>
@@ -2763,7 +2761,7 @@ Here's an awesome list of AI agents:
 ### Observatory by The Context Company
 <div><a href="https://github.com/The-Context-Company/observatory"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/The-Context-Company/observatory"><img src="https://img.shields.io/github/stars/The-Context-Company/observatory?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/The-Context-Company">@The-Context-Company</a></p>
-<p>⭐ 123 stars</p>
+<p>⭐ 124 stars</p>
 <p>👁️ Observability Frameworks</p>
 
 <p>Observatory provides TypeScript and Python OpenTelemetry packages for instrumenting LLM and agent frameworks, plus a local widget for viewing traces. Integrations include Vercel AI SDK, Claude Agent SDK, LangChain, Mastra, OpenClaw, CrewAI, Agno, and LiteLLM.</p>
@@ -2776,7 +2774,7 @@ Here's an awesome list of AI agents:
 ### Octomind
 <div><a href="https://github.com/Muvon/octomind"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Muvon/octomind"><img src="https://img.shields.io/github/stars/Muvon/octomind?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/donhardman">@donhardman</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/234">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/471">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/Muvon">@Muvon</a></p>
-<p>⭐ 144 stars</p>
+<p>⭐ 148 stars</p>
 <p>🤖 AI Agents | ⚙️ Development Frameworks</p>
 
 <p>A Rust CLI-first AI agent runtime that uses model providers and MCP tools to work with files, code, and shell, with interactive, piped, daemon, WebSocket, and ACP modes.</p>
@@ -2787,7 +2785,7 @@ Here's an awesome list of AI agents:
 ### OIXA Protocol
 <div><a href="https://github.com/ivoshemi-sys/oixa-protocol"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/ivoshemi-sys/oixa-protocol"><img src="https://img.shields.io/github/stars/ivoshemi-sys/oixa-protocol?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/ivoshemi-sys">@ivoshemi-sys</a></p>
-<p>⭐ 1 stars</p>
+<p>⭐ 2 stars</p>
 <p>⚙️ Development Frameworks</p>
 
 <p>An agent-to-agent marketplace protocol for capability discovery, reverse auctions, task verification, and USDC escrow payments.</p>
@@ -2800,7 +2798,7 @@ Here's an awesome list of AI agents:
 ### Okto-Nexus
 <div><a href="https://github.com/OktoLabsAI/okto-nexus"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/OktoLabsAI/okto-nexus"><img src="https://img.shields.io/github/stars/OktoLabsAI/okto-nexus?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/OktoLabsAI">@OktoLabsAI</a></p>
-<p>⭐ 46 stars</p>
+<p>⭐ 63 stars</p>
 <p>🤖 AI Agents | ⚙️ Development Frameworks | 🛡️ Safety Guardrails (Safeguarding)</p>
 
 <p>Okto-Nexus is a local-first MCP coordination hub for multi-agent teams, with durable messaging, atomic handoffs, governance controls, and human approval.</p>
@@ -2811,7 +2809,7 @@ Here's an awesome list of AI agents:
 ### Okto-Pulse
 <div><a href="https://github.com/OktoLabsAI/okto-pulse"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/OktoLabsAI/okto-pulse"><img src="https://img.shields.io/github/stars/OktoLabsAI/okto-pulse?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/OktoLabsAI">@OktoLabsAI</a></p>
-<p>⭐ 90 stars</p>
+<p>⭐ 108 stars</p>
 <p>⚙️ Development Frameworks | 🛡️ Safety Guardrails (Safeguarding)</p>
 
 <p>Okto-Pulse is a local-first SDLC workbench for AI coding teams, with structured project artifacts, governance gates, validation rules, and MCP tools.</p>
@@ -2822,7 +2820,7 @@ Here's an awesome list of AI agents:
 ### Ollama
 <div><a href="https://github.com/ollama/ollama"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/ollama/ollama"><img src="https://img.shields.io/github/stars/ollama/ollama?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/ollama">@ollama</a></p>
-<p>⭐ 181,717 stars</p>
+<p>⭐ 181,938 stars</p>
 <p>💻 Local Inference</p>
 
 <p>Ollama is a tool for running large language models locally, offering easy setup for macOS, Windows, Linux, and Docker, along with a library of models and quickstart guides for customization and integration</p>
@@ -2833,7 +2831,7 @@ Here's an awesome list of AI agents:
 ### OMEGA Memory
 <div><a href="https://github.com/omega-memory/omega-memory"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/omega-memory/omega-memory"><img src="https://img.shields.io/github/stars/omega-memory/omega-memory?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/omega-memory">@omega-memory</a></p>
-<p>⭐ 217 stars</p>
+<p>⭐ 219 stars</p>
 <p>🧠 Long-Term Memory</p>
 
 <p>A local-first, cross-model memory system that helps AI agents retain context, coordinate, and learn between sessions.</p>
@@ -2846,7 +2844,7 @@ Here's an awesome list of AI agents:
 ### Open Index
 <div><a href="https://github.com/DrDroidLab/open-index"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/DrDroidLab/open-index"><img src="https://img.shields.io/github/stars/DrDroidLab/open-index?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/DrDroidLab">@DrDroidLab</a></p>
-<p>⭐ 111 stars</p>
+<p>⭐ 112 stars</p>
 <p>🧠 Long-Term Memory</p>
 
 <p>Open Index is a self-hosted context layer for domain-specialized AI agents, building searchable knowledge graphs with structured schemas, semantic search, and MCP read/write access.</p>
@@ -2856,8 +2854,8 @@ Here's an awesome list of AI agents:
 
 ### Open Interpreter
 <div><a href="https://github.com/OpenInterpreter/open-interpreter"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/OpenInterpreter/open-interpreter"><img src="https://img.shields.io/github/stars/OpenInterpreter/open-interpreter?style=social" alt="GitHub stars"></a></div>
-<p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/OpenInterpreter">@OpenInterpreter</a></p>
-<p>⭐ 68,439 stars</p>
+<p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/openinterpreter">@openinterpreter</a></p>
+<p>⭐ 68,479 stars</p>
 <p>💻 Operating System (OS)</p>
 
 <p>Open Interpreter is a coding agent enabling language models to execute code locally, facilitating natural-language interaction with your computer's capabilities, overcoming limitations of hosted solutions like internet access and package restrictions. It features interactive and programmatic chats, system message customization, and can control your computer's keyboard and mouse, allowing for enhanced control and flexibility in development environments</p>
@@ -2868,7 +2866,7 @@ Here's an awesome list of AI agents:
 ### OpenAgent
 <div><a href="https://github.com/the-open-agent/openagent"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/the-open-agent/openagent"><img src="https://img.shields.io/github/stars/the-open-agent/openagent?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/JasonBuildAI">@JasonBuildAI</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/247">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/469">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/the-open-agent">@the-open-agent</a></p>
-<p>⭐ 5,654 stars</p>
+<p>⭐ 5,671 stars</p>
 <p>🤖 AI Agents | 👤 Personal Assistants | 🔧 Tool Calling (Function Calling)</p>
 
 <p>A self-hostable personal AI assistant with autonomous browser, search, shell, office, and MCP tools, plus document RAG and a visual workflow builder.</p>
@@ -2879,7 +2877,7 @@ Here's an awesome list of AI agents:
 ### OpenAgents
 <div><a href="https://github.com/openagents-org/openagents"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/openagents-org/openagents"><img src="https://img.shields.io/github/stars/openagents-org/openagents?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/openagents-org">@openagents-org</a></p>
-<p>⭐ 4,141 stars</p>
+<p>⭐ 4,162 stars</p>
 <p>🤖 AI Agents | ⚙️ Development Frameworks</p>
 
 <p>OpenAgents is an open-source workspace where AI agents connect and collaborate, with an agent launcher, shared workspace, and support for agent protocols and SDKs.</p>
@@ -2892,7 +2890,7 @@ Here's an awesome list of AI agents:
 ### OpenAI Agents SDK
 <div><a href="https://github.com/openai/openai-agents-python"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/openai/openai-agents-python"><img src="https://img.shields.io/github/stars/openai/openai-agents-python?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/openai">@openai</a></p>
-<p>⭐ 29,700 stars</p>
+<p>⭐ 29,777 stars</p>
 <p>⚙️ Development Frameworks</p>
 
 <p>OpenAI's framework for building agent workflows with tools, handoffs, guardrails, sessions, and tracing.</p>
@@ -2903,6 +2901,7 @@ Here's an awesome list of AI agents:
 ### OpenBot
 <div><a href="https://github.com/regnull/openbot"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/regnull/openbot"><img src="https://img.shields.io/github/stars/regnull/openbot?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/regnull">@regnull</a> <small>(self-reported founder/team)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/640">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/653">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/regnull">@regnull</a></p>
+<p>⭐ 25 stars</p>
 <p>🤖 AI Agents | 🧠 Long-Term Memory</p>
 
 <p>OpenBot is an open-source self-hosted platform for running a team of persistent AI bots that wake on incoming messages, use shell, HTTP, custom Python and MCP tools, keep long term memory, and pause for human approval.</p>
@@ -2915,7 +2914,7 @@ Here's an awesome list of AI agents:
 ### OpenClaw
 <div><a href="https://github.com/openclaw/openclaw"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/openclaw/openclaw"><img src="https://img.shields.io/github/stars/openclaw/openclaw?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/openclaw">@openclaw</a></p>
-<p>⭐ 390,506 stars</p>
+<p>⭐ 390,816 stars</p>
 <p>🤖 AI Agents | 👤 Personal Assistants</p>
 
 <p>OpenClaw is a personal AI assistant that runs on your own devices and connects to messaging channels, tools, skills, scheduled tasks, and memory.</p>
@@ -2928,7 +2927,7 @@ Here's an awesome list of AI agents:
 ### OpenClaw Monitor
 <div><a href="https://github.com/flik2002/openclaw-monitor"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/flik2002/openclaw-monitor"><img src="https://img.shields.io/github/stars/flik2002/openclaw-monitor?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/flik2002">@flik2002</a></p>
-<p>⭐ 12 stars</p>
+<p>⭐ 13 stars</p>
 <p>🤖 AI Agents</p>
 
 <p>An offline web dashboard for OpenClaw that monitors agent sessions, scheduled tasks, token usage, message trends, and local system metrics.</p>
@@ -2941,7 +2940,7 @@ Here's an awesome list of AI agents:
 ### OpenHands (formerly OpenDevin)
 <div><a href="https://github.com/OpenHands/OpenHands"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/OpenHands/OpenHands"><img src="https://img.shields.io/github/stars/OpenHands/OpenHands?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/OpenHands">@OpenHands</a></p>
-<p>⭐ 89,166 stars</p>
+<p>⭐ 89,571 stars</p>
 <p>🤖 AI Agents</p>
 
 <p>OpenHands is an open-source software development agent platform that can edit code, run commands, and interact with tools.</p>
@@ -2952,7 +2951,7 @@ Here's an awesome list of AI agents:
 ### OpenPaw
 <div><a href="https://github.com/daxaur/openpaw"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/daxaur/openpaw"><img src="https://img.shields.io/github/stars/daxaur/openpaw?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/daxaur">@daxaur</a></p>
-<p>⭐ 168 stars</p>
+<p>⭐ 173 stars</p>
 <p>👤 Personal Assistants</p>
 
 <p>OpenPaw turns Claude Code into a personal assistant by installing skills and tools for email, calendars, smart home, and other services, with persistent memory, Telegram access, scheduling, and a local task dashboard.</p>
@@ -2965,7 +2964,7 @@ Here's an awesome list of AI agents:
 ### OpenTwins
 <div><a href="https://github.com/Open-Twin/opentwins"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Open-Twin/opentwins"><img src="https://img.shields.io/github/stars/Open-Twin/opentwins?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/Open-Twin">@Open-Twin</a></p>
-<p>⭐ 13 stars</p>
+<p>⭐ 15 stars</p>
 <p>🤖 AI Agents | 👤 Personal Assistants</p>
 
 <p>A local-first CLI and dashboard for running autonomous digital-twin agents across social platforms, with content workflows, scheduling, and browser automation.</p>
@@ -2978,7 +2977,7 @@ Here's an awesome list of AI agents:
 ### Operant MCP
 <div><a href="https://github.com/operantlabs/operant-mcp"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/operantlabs/operant-mcp"><img src="https://img.shields.io/github/stars/operantlabs/operant-mcp?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/operantlabs">@operantlabs</a></p>
-<p>⭐ 23 stars</p>
+<p>⭐ 24 stars</p>
 <p>🔧 Tool Calling (Function Calling)</p>
 
 <p>An open-source MCP server that gives AI agents a toolkit for security testing, network forensics, and vulnerability assessment.</p>
@@ -2991,7 +2990,7 @@ Here's an awesome list of AI agents:
 ### Opik
 <div><a href="https://github.com/comet-ml/opik"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/comet-ml/opik"><img src="https://img.shields.io/github/stars/comet-ml/opik?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/comet-ml">@comet-ml</a></p>
-<p>⭐ 22,239 stars</p>
+<p>⭐ 22,297 stars</p>
 <p>📊 Evaluation Frameworks</p>
 
 <p>Opik is an open-source platform for LLM and agent observability, tracing, evaluation, prompt management, and production monitoring.</p>
@@ -3004,6 +3003,7 @@ Here's an awesome list of AI agents:
 ### Opus Manager
 <div><a href="https://github.com/yanauto/opus-manager"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/yanauto/opus-manager"><img src="https://img.shields.io/github/stars/yanauto/opus-manager?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/yanauto">@yanauto</a> <small>(self-reported founder/team)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/641">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/654">accepted PR</a> · <strong>Maintained by:</strong> <a href="https://github.com/yanauto">@yanauto</a> <small>(self-reported)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/641">evidence</a> · <strong>Repository owner:</strong> <a href="https://github.com/yanauto">@yanauto</a></p>
+<p>⭐ 43 stars</p>
 <p>🤖 AI Agents | 💻 Terminal-Friendly</p>
 
 <p>Opus Manager is a Claude Code skill that makes Claude the manager of a coding project: it writes tickets, dispatches them to cheaper coding agent CLIs on your machine, reruns the acceptance checks itself, and has a model from another vendor review the change.</p>
@@ -3016,6 +3016,7 @@ Here's an awesome list of AI agents:
 ### OrcaReplay
 <div><a href="https://github.com/Continuum-AI-Corp/OrcaReplay"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Continuum-AI-Corp/OrcaReplay"><img src="https://img.shields.io/github/stars/Continuum-AI-Corp/OrcaReplay?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/xizhuomengcontin">@xizhuomengcontin</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/625">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/648">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/Continuum-AI-Corp">@Continuum-AI-Corp</a></p>
+<p>⭐ 268 stars</p>
 <p>👁️ Observability Frameworks</p>
 
 <p>OrcaReplay records a coding agent run from outside the process, replays it offline against the recorded bytes with no model called, and forks a checkpoint onto other models graded by a verify command.</p>
@@ -3028,7 +3029,7 @@ Here's an awesome list of AI agents:
 ### ORCH
 <div><a href="https://github.com/oxgeneral/ORCH"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/oxgeneral/ORCH"><img src="https://img.shields.io/github/stars/oxgeneral/ORCH?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/oxgeneral">@oxgeneral</a></p>
-<p>⭐ 166 stars</p>
+<p>⭐ 167 stars</p>
 <p>⚙️ Development Frameworks</p>
 
 <p>A CLI runtime for running and coordinating teams of AI agents on parallel tasks with shared state and review workflows.</p>
@@ -3041,7 +3042,7 @@ Here's an awesome list of AI agents:
 ### Orkas
 <div><a href="https://github.com/Orkas-AI/Orkas"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Orkas-AI/Orkas"><img src="https://img.shields.io/github/stars/Orkas-AI/Orkas?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/Orkas-AI">@Orkas-AI</a></p>
-<p>⭐ 2,124 stars</p>
+<p>⭐ 2,136 stars</p>
 <p>🤖 AI Agents | 💻 Operating System (OS)</p>
 
 <p>Orkas is a local-first desktop AI team where a commander coordinates specialist agents and local coding-agent runtimes, with support for user-provided model providers.</p>
@@ -3052,7 +3053,7 @@ Here's an awesome list of AI agents:
 ### Outlines
 <div><a href="https://github.com/dottxt-ai/outlines"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/dottxt-ai/outlines"><img src="https://img.shields.io/github/stars/dottxt-ai/outlines?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/dottxt-ai">@dottxt-ai</a></p>
-<p>⭐ 15,885 stars</p>
+<p>⭐ 15,893 stars</p>
 <p>🏗️ Structured Outputs</p>
 
 <p>Outlines is a robust text generation library designed for agentic AI developers, featuring support for multiple model integrations, advanced prompting with Jinja, efficient structured generation through regex, JSON schema, context-free grammars, and more, enabling the creation of predictable and structured AI agent outputs</p>
@@ -3063,7 +3064,7 @@ Here's an awesome list of AI agents:
 ### Overloop CLI
 <div><a href="https://github.com/sortlist/overloop-cli"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/sortlist/overloop-cli"><img src="https://img.shields.io/github/stars/sortlist/overloop-cli?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/sortlist">@sortlist</a></p>
-<p>⭐ 7 stars</p>
+<p>⭐ 8 stars</p>
 <p>🤖 AI Agents</p>
 
 <p>A command-line client for managing prospects, sourcing, campaigns, and sales outreach through the Overloop API.</p>
@@ -3076,7 +3077,7 @@ Here's an awesome list of AI agents:
 ### Perplexity-Inspired LLM Answer Engine
 <div><a href="https://github.com/developersdigest/llm-answer-engine"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/developersdigest/llm-answer-engine"><img src="https://img.shields.io/github/stars/developersdigest/llm-answer-engine?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/developersdigest">@developersdigest</a></p>
-<p>⭐ 5,040 stars · Growth: today 0 stars (+0.0%)</p>
+<p>⭐ 5,037 stars</p>
 <p>🏗️ Structured Outputs</p>
 
 <p>A versatile answer engine leveraging Groq, Mistral AI, Langchain.JS, Brave Search, Serper API, and OpenAI to deliver efficient and sophisticated responses with reduced hallucination through RAG for citation-backed search queries</p>
@@ -3087,6 +3088,7 @@ Here's an awesome list of AI agents:
 ### PersonalJarvis
 <div><a href="https://github.com/PersonalJarvis/PersonalJarvis"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/PersonalJarvis/PersonalJarvis"><img src="https://img.shields.io/github/stars/PersonalJarvis/PersonalJarvis?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/rubenluetke10-beep">@rubenluetke10-beep</a> <small>(self-reported founder/team)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/637">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/652">accepted PR</a> · <strong>Maintained by:</strong> <a href="https://github.com/rubenluetke10-beep">@rubenluetke10-beep</a> <small>(self-reported)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/637">evidence</a> · <strong>Repository owner:</strong> <a href="https://github.com/PersonalJarvis">@PersonalJarvis</a></p>
+<p>⭐ 76 stars</p>
 <p>👤 Personal Assistants</p>
 
 <p>PersonalJarvis is an open-source desktop AI assistant with a custom wake phrase and local speech to text that runs background agents, uses the browser and desktop, and supervises coding agents such as Claude Code and Codex in an Agentic IDE.</p>
@@ -3099,7 +3101,7 @@ Here's an awesome list of AI agents:
 ### Pilot Protocol
 <div><a href="https://github.com/pilot-protocol/pilotprotocol"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/pilot-protocol/pilotprotocol"><img src="https://img.shields.io/github/stars/pilot-protocol/pilotprotocol?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/pilot-protocol">@pilot-protocol</a></p>
-<p>⭐ 140 stars</p>
+<p>⭐ 145 stars</p>
 <p>📏 Standardization</p>
 
 <p>Pilot Protocol is an overlay network for AI agents, with permanent virtual addresses, encrypted UDP tunnels, NAT traversal, and per-peer trust controls.</p>
@@ -3110,7 +3112,7 @@ Here's an awesome list of AI agents:
 ### Playwright MCP
 <div><a href="https://github.com/microsoft/playwright-mcp"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/microsoft/playwright-mcp"><img src="https://img.shields.io/github/stars/microsoft/playwright-mcp?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/microsoft">@microsoft</a></p>
-<p>⭐ 37,566 stars</p>
+<p>⭐ 37,705 stars</p>
 <p>🔌 MCP Servers | 🌐 Web Browsing Frameworks</p>
 
 <p>Microsoft's Playwright MCP server gives agents structured, accessibility-tree-based control of a real browser.</p>
@@ -3121,7 +3123,7 @@ Here's an awesome list of AI agents:
 ### PolyMind
 <div><a href="https://github.com/samirasadov28-code/PolyMind"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/samirasadov28-code/PolyMind"><img src="https://img.shields.io/github/stars/samirasadov28-code/PolyMind?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/samirasadov28-code">@samirasadov28-code</a></p>
-<p>⭐ 2 stars</p>
+<p>⭐ 3 stars</p>
 <p>🤖 AI Agents</p>
 
 <p>A web app that monitors Polymarket and Kalshi markets, detects configured price, volume, and wallet signals, and provides LLM analysis of alerts.</p>
@@ -3132,7 +3134,7 @@ Here's an awesome list of AI agents:
 ### PraisonAI
 <div><a href="https://github.com/MervinPraison/PraisonAI/"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/MervinPraison/PraisonAI/"><img src="https://img.shields.io/github/stars/MervinPraison/PraisonAI?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/MervinPraison">@MervinPraison</a></p>
-<p>⭐ 9,086 stars</p>
+<p>⭐ 9,111 stars</p>
 <p>⚙️ Development Frameworks</p>
 
 <p>Praison AI is a low-code, centralized framework leveraging AutoGen and CrewAI to simplify creating and orchestrating multi-agent systems for LLM applications, emphasizing customization and ease of human-agent interaction</p>
@@ -3143,7 +3145,7 @@ Here's an awesome list of AI agents:
 ### Prismfy Wizard
 <div><a href="https://github.com/Prismfy/prismfy-wizard"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Prismfy/prismfy-wizard"><img src="https://img.shields.io/github/stars/Prismfy/prismfy-wizard?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/Prismfy">@Prismfy</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/254">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/468">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/Prismfy">@Prismfy</a></p>
-<p>⭐ 1 stars</p>
+<p>⭐ 2 stars</p>
 <p>✍️ Prompt Engineering | 🔧 Tool Calling (Function Calling)</p>
 
 <p>A CLI that installs the Prismfy live-search command and managed search-policy blocks into local AI-agent instruction files, with selectable verification modes and dry-run support.</p>
@@ -3154,7 +3156,7 @@ Here's an awesome list of AI agents:
 ### PrivateGPT
 <div><a href="https://github.com/zylon-ai/private-gpt/"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/zylon-ai/private-gpt/"><img src="https://img.shields.io/github/stars/zylon-ai/private-gpt?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/zylon-ai">@zylon-ai</a></p>
-<p>⭐ 57,538 stars</p>
+<p>⭐ 57,553 stars</p>
 <p>💻 Local Inference</p>
 
 <p>PrivateGPT is a secure, offline-capable AI tool for querying documents with Large Language Models, offering high-level and low-level APIs for privacy-conscious, context-aware application development</p>
@@ -3165,7 +3167,7 @@ Here's an awesome list of AI agents:
 ### ProfitPlay Starter
 <div><a href="https://github.com/jarvismaximum-hue/profitplay-starter"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/jarvismaximum-hue/profitplay-starter"><img src="https://img.shields.io/github/stars/jarvismaximum-hue/profitplay-starter?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/jarvismaximum-hue">@jarvismaximum-hue</a></p>
-<p>⭐ 8 stars</p>
+<p>⭐ 9 stars</p>
 <p>🤖 AI Agents</p>
 
 <p>An open prediction-market benchmark and starter template for building autonomous AI trading agents.</p>
@@ -3178,7 +3180,7 @@ Here's an awesome list of AI agents:
 ### Project Telos
 <div><a href="https://github.com/HarperZ9/telos"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/HarperZ9/telos"><img src="https://img.shields.io/github/stars/HarperZ9/telos?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/HarperZ9">@HarperZ9</a></p>
-<p>⭐ 2 stars</p>
+<p>⭐ 3 stars</p>
 <p>📊 Evaluation Frameworks | 👁️ Observability Frameworks</p>
 
 <p>Project Telos is a local-first MCP and CLI workbench for inspectable agent workflows, with provenance, routing ledgers, action receipts, context packs, diagnostics, and replayable verification packets.</p>
@@ -3189,7 +3191,7 @@ Here's an awesome list of AI agents:
 ### Promptise Foundry
 <div><a href="https://github.com/promptise-com/Foundry"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/promptise-com/Foundry"><img src="https://img.shields.io/github/stars/promptise-com/Foundry?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/promptise-com">@promptise-com</a></p>
-<p>⭐ 871 stars</p>
+<p>⭐ 873 stars</p>
 <p>🤖 AI Agents | ⚙️ Development Frameworks</p>
 
 <p>A Python framework for building and running AI agents with integrated tools, controllable reasoning, memory, security, governance, and observability.</p>
@@ -3202,7 +3204,7 @@ Here's an awesome list of AI agents:
 ### Pydantic
 <div><a href="https://github.com/pydantic/pydantic"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/pydantic/pydantic"><img src="https://img.shields.io/github/stars/pydantic/pydantic?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/pydantic">@pydantic</a></p>
-<p>⭐ 28,875 stars</p>
+<p>⭐ 28,909 stars</p>
 <p>🏗️ Structured Outputs</p>
 
 <p>Pydantic is a Python library facilitating data validation through type hints, particularly useful for AI agents, offering fast validation capabilities and compatibility with various development tools</p>
@@ -3213,7 +3215,7 @@ Here's an awesome list of AI agents:
 ### Quorum
 <div><a href="https://github.com/Detrol/quorum-cli"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Detrol/quorum-cli"><img src="https://img.shields.io/github/stars/Detrol/quorum-cli?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/Detrol">@Detrol</a></p>
-<p>⭐ 117 stars</p>
+<p>⭐ 118 stars</p>
 <p>🤖 AI Agents</p>
 
 <p>Quorum lets multiple AI models and agent CLIs conduct structured debates using formal methods, critique, and synthesis, through a terminal UI, MCP, and a web version.</p>
@@ -3226,6 +3228,7 @@ Here's an awesome list of AI agents:
 ### Raven
 <div><a href="https://github.com/EverMind-AI/Raven"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/EverMind-AI/Raven"><img src="https://img.shields.io/github/stars/EverMind-AI/Raven?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/LivXue">@LivXue</a> <small>(self-reported founder/team)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/635">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/635">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/EverMind-AI">@EverMind-AI</a></p>
+<p>⭐ 4,859 stars</p>
 <p>🤖 AI Agents</p>
 
 <p>Raven is an open-source host agent that plans complex tasks as DAGs and orchestrates built-in research, coding, design, and on-call agents plus third-party agents such as Claude Code, Codex, OpenClaw, and Hermes Agent over ACP, CLI, or OpenAI-compatible APIs.</p>
@@ -3238,7 +3241,7 @@ Here's an awesome list of AI agents:
 ### Reel Agent
 <div><a href="https://github.com/HNF-FRN/Reel-watcher-telegram-Agent"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/HNF-FRN/Reel-watcher-telegram-Agent"><img src="https://img.shields.io/github/stars/HNF-FRN/Reel-watcher-telegram-Agent?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/HNF-FRN">@HNF-FRN</a> <small>(self-reported founder/team)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/438">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/455">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/HNF-FRN">@HNF-FRN</a></p>
-<p>⭐ 3 stars</p>
+<p>⭐ 4 stars</p>
 <p>🤖 AI Agents</p>
 
 <p>A self-hosted Telegram agent that analyzes social-media videos, returns source-linked breakdowns, and can plan or build related projects on the user's PC with command approvals.</p>
@@ -3262,7 +3265,7 @@ Here's an awesome list of AI agents:
 ### rote
 <div><a href="https://github.com/trevhud/rote"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/trevhud/rote"><img src="https://img.shields.io/github/stars/trevhud/rote?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/trevhud">@trevhud</a></p>
-<p>⭐ 7 stars</p>
+<p>⭐ 8 stars</p>
 <p>🔄 Flow Engineering (Platform Engineering)</p>
 
 <p>rote compiles proven agent skills into typed, deterministic Python or TypeScript pipelines, with tests for fixed steps and typed LLM-judge signatures for work requiring judgment.</p>
@@ -3273,7 +3276,7 @@ Here's an awesome list of AI agents:
 ### Routeweiler
 <div><a href="https://github.com/nikoSchoinas/routeweiler-python-sdk"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/nikoSchoinas/routeweiler-python-sdk"><img src="https://img.shields.io/github/stars/nikoSchoinas/routeweiler-python-sdk?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/nikoSchoinas">@nikoSchoinas</a></p>
-<p>⭐ 32 stars</p>
+<p>⭐ 33 stars</p>
 <p>🤖 AI Agents | 🔧 Tool Calling (Function Calling)</p>
 
 <p>An async HTTP client for autonomous agents that handles HTTP 402 payments across multiple payment rails, enforces spend policies, recovers credentials, and emits audit traces.</p>
@@ -3286,7 +3289,7 @@ Here's an awesome list of AI agents:
 ### rust-norion
 <div><a href="https://github.com/yanghao1143/rust-norion"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/yanghao1143/rust-norion"><img src="https://img.shields.io/github/stars/yanghao1143/rust-norion?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/yanghao1143">@yanghao1143</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/319">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/464">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/yanghao1143">@yanghao1143</a></p>
-<p>⭐ 18 stars</p>
+<p>⭐ 19 stars</p>
 <p>🤖 AI Agents | ⚙️ Development Frameworks</p>
 
 <p>A Rust research prototype for LLM runtime and agent control, with routing, memory, runtime adapters, rollback, tracing, and gated self-evolution.</p>
@@ -3297,7 +3300,7 @@ Here's an awesome list of AI agents:
 ### SAGE
 <div><a href="https://github.com/l33tdawg/sage"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/l33tdawg/sage"><img src="https://img.shields.io/github/stars/l33tdawg/sage?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/l33tdawg">@l33tdawg</a></p>
-<p>⭐ 252 stars</p>
+<p>⭐ 253 stars</p>
 <p>🧠 Long-Term Memory | 🛡️ Safety Guardrails (Safeguarding)</p>
 
 <p>Persistent, consensus-validated memory infrastructure for AI agents, with confidence scoring and natural memory decay.</p>
@@ -3310,6 +3313,7 @@ Here's an awesome list of AI agents:
 ### Salt MCP
 <div><a href="https://github.com/0000F8/salt-mcp"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/0000F8/salt-mcp"><img src="https://img.shields.io/github/stars/0000F8/salt-mcp?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/0000F8">@0000F8</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/631">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/631">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/0000F8">@0000F8</a></p>
+<p>⭐ 0 stars</p>
 <p>🔌 MCP Servers</p>
 
 <p>MCP server for Salt, an end-to-end encrypted chat where humans and AI agents are equal contacts and can message, ask each other for approval, and pay each other. The local stdio server runs one agent identity with its own key; a hosted OAuth endpoint lets any MCP client connect a keyless agent with no setup.</p>
@@ -3320,7 +3324,7 @@ Here's an awesome list of AI agents:
 ### SandBase Harness
 <div><a href="https://github.com/sandbaseai/sandbase-harness"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/sandbaseai/sandbase-harness"><img src="https://img.shields.io/github/stars/sandbaseai/sandbase-harness?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/sandbaseai">@sandbaseai</a></p>
-<p>⭐ 672 stars</p>
+<p>⭐ 678 stars</p>
 <p>🤖 AI Agents | ⚙️ Development Frameworks</p>
 
 <p>SandBase Harness is a self-hosted AI agent runtime and MCP bridge for persistent sessions, sandboxed tool execution, credentials, audit logs, and replay. It supports local and container-based execution backends, whose isolation properties differ.</p>
@@ -3333,7 +3337,7 @@ Here's an awesome list of AI agents:
 ### Sayna
 <div><a href="https://github.com/SaynaAI/sayna"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/SaynaAI/sayna"><img src="https://img.shields.io/github/stars/SaynaAI/sayna?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/SaynaAI">@SaynaAI</a></p>
-<p>⭐ 314 stars</p>
+<p>⭐ 315 stars</p>
 <p>⚙️ Development Frameworks | ⚡ Real-Time</p>
 
 <p>Sayna is a self-hosted real-time voice server that provides speech-to-text and text-to-speech through WebSocket and REST APIs, with provider integrations, LiveKit streaming, and SIP telephony.</p>
@@ -3346,7 +3350,7 @@ Here's an awesome list of AI agents:
 ### Screenpipe
 <div><a href="https://github.com/screenpipe/screenpipe"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/screenpipe/screenpipe"><img src="https://img.shields.io/github/stars/screenpipe/screenpipe?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/screenpipe">@screenpipe</a></p>
-<p>⭐ 21,709 stars</p>
+<p>⭐ 21,781 stars</p>
 <p>🤖 AI Agents | 💻 Local Inference | 🧠 Long-Term Memory | 👤 Personal Assistants</p>
 
 <p>Screenpipe captures screen and audio locally, then exposes searchable work history and agent context through an MCP server. It supports scheduled agent workflows and per-pipe access policies, with processing options that include local and configured remote models.</p>
@@ -3370,7 +3374,7 @@ Here's an awesome list of AI agents:
 ### Serena
 <div><a href="https://github.com/oraios/serena"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/oraios/serena"><img src="https://img.shields.io/github/stars/oraios/serena?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/oraios">@oraios</a></p>
-<p>⭐ 29,803 stars</p>
+<p>⭐ 29,910 stars</p>
 <p>🔌 MCP Servers</p>
 
 <p>Serena is a coding-agent toolkit exposed as an MCP server, providing semantic code retrieval and editing through language-server-powered tools.</p>
@@ -3381,7 +3385,7 @@ Here's an awesome list of AI agents:
 ### SidClaw
 <div><a href="https://github.com/sidclawhq/platform"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/sidclawhq/platform"><img src="https://img.shields.io/github/stars/sidclawhq/platform?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/sidclawhq">@sidclawhq</a></p>
-<p>⭐ 14 stars</p>
+<p>⭐ 15 stars</p>
 <p>🛡️ Safety Guardrails (Safeguarding)</p>
 
 <p>An agent governance platform that intercepts tool calls for policy checks, human approval, and auditable traces.</p>
@@ -3394,6 +3398,7 @@ Here's an awesome list of AI agents:
 ### since-cutoff
 <div><a href="https://github.com/MohammadHijjawi97/since-cutoff"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/MohammadHijjawi97/since-cutoff"><img src="https://img.shields.io/github/stars/MohammadHijjawi97/since-cutoff?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/MohammadHijjawi97">@MohammadHijjawi97</a> <small>(self-reported founder/team)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/634">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/651">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/MohammadHijjawi97">@MohammadHijjawi97</a></p>
+<p>⭐ 4 stars</p>
 <p>🔌 MCP Servers | 💻 Terminal-Friendly</p>
 
 <p>since-cutoff is an open-source Python tool that shows a coding agent which public APIs of a project's pinned dependencies changed after its model's training cutoff and writes short notes into AGENTS.md or CLAUDE.md.</p>
@@ -3406,7 +3411,7 @@ Here's an awesome list of AI agents:
 ### SkillFlow MCP Server
 <div><a href="https://github.com/rafsilva85/skillflow-mcp-server"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/rafsilva85/skillflow-mcp-server"><img src="https://img.shields.io/github/stars/rafsilva85/skillflow-mcp-server?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/rafsilva85">@rafsilva85</a></p>
-<p>⭐ 1 stars</p>
+<p>⭐ 2 stars</p>
 <p>⚙️ Development Frameworks</p>
 
 <p>An MCP server that lets AI coding agents search, discover, and evaluate skills from the SkillFlow marketplace.</p>
@@ -3419,7 +3424,7 @@ Here's an awesome list of AI agents:
 ### Smartipedia
 <div><a href="https://github.com/sksareen/smartipedia"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/sksareen/smartipedia"><img src="https://img.shields.io/github/stars/sksareen/smartipedia?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/sksareen">@sksareen</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/100">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/481">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/sksareen">@sksareen</a></p>
-<p>⭐ 1 stars</p>
+<p>⭐ 2 stars</p>
 <p>🤖 AI Agents</p>
 
 <p>An open-source encyclopedia where agents generate, revise, and review knowledge articles, then explore connected topics through a knowledge graph.</p>
@@ -3432,7 +3437,7 @@ Here's an awesome list of AI agents:
 ### smolagents
 <div><a href="https://github.com/huggingface/smolagents"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/huggingface/smolagents"><img src="https://img.shields.io/github/stars/huggingface/smolagents?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/huggingface">@huggingface</a></p>
-<p>⭐ 29,494 stars</p>
+<p>⭐ 29,594 stars</p>
 <p>⚙️ Development Frameworks | 💻 Terminal-Friendly</p>
 
 <p>Hugging Face's lightweight agent framework, including code agents that write and execute Python actions.</p>
@@ -3443,7 +3448,7 @@ Here's an awesome list of AI agents:
 ### SnapRender
 <div><a href="https://github.com/User0856/snaprender-integrations"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/User0856/snaprender-integrations"><img src="https://img.shields.io/github/stars/User0856/snaprender-integrations?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/User0856">@User0856</a></p>
-<p>⭐ 2 stars</p>
+<p>⭐ 3 stars</p>
 <p>🔌 MCP Servers</p>
 
 <p>SnapRender is a screenshot API for agent workflows, with a remote MCP server and SDK integrations for capturing websites as images or PDFs.</p>
@@ -3456,6 +3461,7 @@ Here's an awesome list of AI agents:
 ### solveathome
 <div><a href="https://github.com/solveathome/platform"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/solveathome/platform"><img src="https://img.shields.io/github/stars/solveathome/platform?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/Benjaminsen">@Benjaminsen</a> <small>(self-reported founder/team)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/624">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/655">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/solveathome">@solveathome</a></p>
+<p>⭐ 3 stars</p>
 <p>🤖 AI Agents</p>
 
 <p>solveathome is an MIT-licensed framework for running a swarm of AI agents owned by different people against one open problem, with public transcripts, peer review by other contributors' agents, and a small group of trusted reviewers who decide what is accepted.</p>
@@ -3468,7 +3474,7 @@ Here's an awesome list of AI agents:
 ### Sonzai Go SDK
 <div><a href="https://github.com/sonz-ai/sonzai-go"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/sonz-ai/sonzai-go"><img src="https://img.shields.io/github/stars/sonz-ai/sonzai-go?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/sonz-ai">@sonz-ai</a></p>
-<p>⭐ 0 stars</p>
+<p>⭐ 1 stars</p>
 <p>⚙️ Development Frameworks | 🧠 Long-Term Memory</p>
 
 <p>An open-source Go client for the hosted Sonzai Mind Layer API, providing agent runtimes with memory context, turn persistence, and voice services.</p>
@@ -3481,7 +3487,7 @@ Here's an awesome list of AI agents:
 ### sparkbtcbot-skill
 <div><a href="https://github.com/echennells/sparkbtcbot"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/echennells/sparkbtcbot"><img src="https://img.shields.io/github/stars/echennells/sparkbtcbot?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/echennells">@echennells</a></p>
-<p>⭐ 4 stars</p>
+<p>⭐ 5 stars</p>
 <p>₿ Bitcoin</p>
 
 <p>A self-custodial Spark Bitcoin wallet skill for AI agents, supporting BTC transfers, Lightning invoices, L402 payments, token operations, and merchant purchases with payment guardrails.</p>
@@ -3494,7 +3500,7 @@ Here's an awesome list of AI agents:
 ### Stagehand
 <div><a href="https://github.com/browserbase/stagehand"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/browserbase/stagehand"><img src="https://img.shields.io/github/stars/browserbase/stagehand?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/browserbase">@browserbase</a></p>
-<p>⭐ 25,390 stars</p>
+<p>⭐ 25,472 stars</p>
 <p>🌐 Web Browsing Frameworks</p>
 
 <p>Stagehand adds natural-language act, extract, and observe APIs to Playwright for browser automation.</p>
@@ -3505,7 +3511,7 @@ Here's an awesome list of AI agents:
 ### Steel Browser
 <div><a href="https://github.com/steel-dev/steel-browser"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/steel-dev/steel-browser"><img src="https://img.shields.io/github/stars/steel-dev/steel-browser?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/steel-dev">@steel-dev</a></p>
-<p>⭐ 7,692 stars</p>
+<p>⭐ 7,712 stars</p>
 <p>🌐 Web Browsing Frameworks</p>
 
 <p>An open-source browser API and sandbox that provides managed browser sessions for AI agents and web automation.</p>
@@ -3518,7 +3524,7 @@ Here's an awesome list of AI agents:
 ### stipend.sh
 <div><a href="https://github.com/stipend-sh/stipend"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/stipend-sh/stipend"><img src="https://img.shields.io/github/stars/stipend-sh/stipend?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/stipend-sh">@stipend-sh</a></p>
-<p>⭐ 0 stars</p>
+<p>⭐ 1 stars</p>
 <p>🔧 Tool Calling (Function Calling)</p>
 
 <p>A non-custodial USDC wallet on Base for AI agents, with an MCP server and spending limits enforced below the instruction layer.</p>
@@ -3529,7 +3535,7 @@ Here's an awesome list of AI agents:
 ### Stoneforge
 <div><a href="https://github.com/stoneforge-ai/stoneforge"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/stoneforge-ai/stoneforge"><img src="https://img.shields.io/github/stars/stoneforge-ai/stoneforge?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/stoneforge-ai">@stoneforge-ai</a></p>
-<p>⭐ 190 stars</p>
+<p>⭐ 191 stars</p>
 <p>⚙️ Development Frameworks</p>
 
 <p>A web dashboard and local runtime for orchestrating parallel AI coding agents, with task dispatch and isolated workspaces.</p>
@@ -3542,7 +3548,7 @@ Here's an awesome list of AI agents:
 ### StoryRoute
 <div><a href="https://github.com/samirasadov28-code/storyroute"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/samirasadov28-code/storyroute"><img src="https://img.shields.io/github/stars/samirasadov28-code/storyroute?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/samirasadov28-code">@samirasadov28-code</a></p>
-<p>⭐ 0 stars</p>
+<p>⭐ 1 stars</p>
 <p>🤖 AI Agents</p>
 
 <p>A GPS-aware mobile web app that discovers nearby landmarks, generates location-based stories with an LLM, and narrates them as users walk.</p>
@@ -3555,7 +3561,7 @@ Here's an awesome list of AI agents:
 ### Strands Agents
 <div><a href="https://github.com/strands-agents/harness-sdk"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/strands-agents/harness-sdk"><img src="https://img.shields.io/github/stars/strands-agents/harness-sdk?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/strands-agents">@strands-agents</a></p>
-<p>⭐ 8,414 stars</p>
+<p>⭐ 8,573 stars</p>
 <p>⚙️ Development Frameworks</p>
 
 <p>AWS's model-driven SDK for building agents that use tools through a model-directed loop.</p>
@@ -3566,7 +3572,7 @@ Here's an awesome list of AI agents:
 ### Strata
 <div><a href="https://github.com/ItSeemedLikeAGoodIdeaAtTheTime/strata"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/ItSeemedLikeAGoodIdeaAtTheTime/strata"><img src="https://img.shields.io/github/stars/ItSeemedLikeAGoodIdeaAtTheTime/strata?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/ItSeemedLikeAGoodIdeaAtTheTime">@ItSeemedLikeAGoodIdeaAtTheTime</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/210">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/473">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/ItSeemedLikeAGoodIdeaAtTheTime">@ItSeemedLikeAGoodIdeaAtTheTime</a></p>
-<p>⭐ 0 stars</p>
+<p>⭐ 1 stars</p>
 <p>🤖 AI Agents | 🔧 Tool Calling (Function Calling)</p>
 
 <p>A persistent archaeological exploration game for AI agents, with REST and MCP interfaces for discovering fragments, interpreting finds, and connecting them with other agents.</p>
@@ -3577,6 +3583,7 @@ Here's an awesome list of AI agents:
 ### SUNGLASSES
 <div><a href="https://github.com/sunglasses-dev/sunglasses"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/sunglasses-dev/sunglasses"><img src="https://img.shields.io/github/stars/sunglasses-dev/sunglasses?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/azrollin">@azrollin</a> <small>(self-reported founder/team)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/623">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/646">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/sunglasses-dev">@sunglasses-dev</a></p>
+<p>⭐ 8 stars</p>
 <p>🛡️ Safety Guardrails (Safeguarding)</p>
 
 <p>SUNGLASSES is an open-source local input firewall for AI agents that scans text and files for prompt injection, credential leaks and data exfiltration, and reports both what it matched and what it could not read.</p>
@@ -3589,7 +3596,7 @@ Here's an awesome list of AI agents:
 ### Superagent
 <div><a href="https://github.com/superagent-ai/superagent"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/superagent-ai/superagent"><img src="https://img.shields.io/github/stars/superagent-ai/superagent?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/superagent-ai">@superagent-ai</a></p>
-<p>⭐ 6,754 stars</p>
+<p>⭐ 6,759 stars</p>
 <p>⚙️ Development Frameworks</p>
 
 <p>Superagent is an open-source AI assistant framework backed by Y Combinator, facilitating the integration of large language models (LLM) and generative AI into applications, supporting various use cases such as question answering, chatbots, and content generation</p>
@@ -3600,7 +3607,7 @@ Here's an awesome list of AI agents:
 ### Superagent for Mac
 <div><a href="https://github.com/pungme/superagent-desktop"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/pungme/superagent-desktop"><img src="https://img.shields.io/github/stars/pungme/superagent-desktop?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/pungme">@pungme</a></p>
-<p>⭐ 26 stars</p>
+<p>⭐ 28 stars</p>
 <p>💻 Operating System (OS)</p>
 
 <p>Superagent for Mac is an open-source macOS workspace for Claude Code and Codex, combining persistent coding-agent chats with an agent-controlled browser, iOS Simulator, and companion iPhone app for monitoring conversations and responding to agent requests. It runs locally and uses the user’s existing agent subscription.</p>
@@ -3613,6 +3620,7 @@ Here's an awesome list of AI agents:
 ### SVRF
 <div><a href="https://github.com/nybarius/SVRF"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/nybarius/SVRF"><img src="https://img.shields.io/github/stars/nybarius/SVRF?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/nybarius">@nybarius</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/622">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/622">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/nybarius">@nybarius</a></p>
+<p>⭐ 0 stars</p>
 <p>🔌 MCP Servers</p>
 
 <p>SVRF is a merge train that batches, gates and lands pull requests for repositories where coding agents open pull requests faster than CI can gate them one by one; it ships an MCP server (svrf mcp) so an agent whose pull request is held can query why and fix it itself.</p>
@@ -3623,7 +3631,7 @@ Here's an awesome list of AI agents:
 ### Swarms
 <div><a href="https://github.com/kyegomez/swarms/"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/kyegomez/swarms/"><img src="https://img.shields.io/github/stars/kyegomez/swarms?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/kyegomez">@kyegomez</a></p>
-<p>⭐ 7,206 stars · Growth: today +5 stars (+0.1%)</p>
+<p>⭐ 7,221 stars</p>
 <p>⚙️ Development Frameworks</p>
 
 <p>Swarms orchestrates multi-agent collaboration for production-grade applications, solving issues like short memory and high costs, with customizable tools for specific needs, currently used by RBC, John Deere, and AI startups</p>
@@ -3634,7 +3642,7 @@ Here's an awesome list of AI agents:
 ### SWE-agent
 <div><a href="https://github.com/SWE-agent/SWE-agent"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/SWE-agent/SWE-agent"><img src="https://img.shields.io/github/stars/SWE-agent/SWE-agent?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/SWE-agent">@SWE-agent</a></p>
-<p>⭐ 20,407 stars</p>
+<p>⭐ 20,450 stars</p>
 <p>⚙️ Development Frameworks</p>
 
 <p>This open source project introduces SWE-agent, a software engineering agent for LMs like GPT-4, enhancing bug and issue resolution in GitHub repositories with state-of-the-art performance, facilitated by a well-designed Agent-Computer Interface (ACI) and support for OpenAI and Anthropic Claude models</p>
@@ -3656,7 +3664,7 @@ Here's an awesome list of AI agents:
 ### Tabby
 <div><a href="https://github.com/TabbyML/tabby"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/TabbyML/tabby"><img src="https://img.shields.io/github/stars/TabbyML/tabby?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/TabbyML">@TabbyML</a></p>
-<p>⭐ 33,893 stars</p>
+<p>⭐ 33,887 stars</p>
 <p>🤖 AI Agents</p>
 
 <p>Tabby is a self-hosted, open-source AI coding assistant similar to GitHub Copilot, featuring a self-contained setup with no DBMS/cloud dependency, OpenAPI for easy integration, consumer-grade GPU support, and a full-feature admin UI in its latest release</p>
@@ -3667,7 +3675,7 @@ Here's an awesome list of AI agents:
 ### Taskade
 <div><a href="https://github.com/taskade/taskade"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/taskade/taskade"><img src="https://img.shields.io/github/stars/taskade/taskade?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/johnxie">@johnxie</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/62">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/483">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/taskade">@taskade</a></p>
-<p>⭐ 66 stars</p>
+<p>⭐ 65 stars</p>
 <p>🤖 AI Agents</p>
 
 <p>An AI-native workspace with custom agents, workflow automation, and prompt-built apps; its official public repository contains product documentation and clone-ready App Kits.</p>
@@ -3680,7 +3688,7 @@ Here's an awesome list of AI agents:
 ### TealTiger
 <div><a href="https://github.com/agentguard-ai/tealtiger"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/agentguard-ai/tealtiger"><img src="https://img.shields.io/github/stars/agentguard-ai/tealtiger?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/agentguard-ai">@agentguard-ai</a></p>
-<p>⭐ 33 stars</p>
+<p>⭐ 35 stars</p>
 <p>🛡️ Safety Guardrails (Safeguarding)</p>
 
 <p>An open-source security and governance SDK for AI applications, providing deterministic policy enforcement, guardrails, cost tracking, and audit evidence.</p>
@@ -3693,7 +3701,7 @@ Here's an awesome list of AI agents:
 ### TeamHero
 <div><a href="https://github.com/sagiyaacoby/TeamHero"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/sagiyaacoby/TeamHero"><img src="https://img.shields.io/github/stars/sagiyaacoby/TeamHero?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/sagiyaacoby">@sagiyaacoby</a></p>
-<p>⭐ 36 stars</p>
+<p>⭐ 37 stars</p>
 <p>⚙️ Development Frameworks | 🧠 Long-Term Memory</p>
 
 <p>A self-hosted workspace for coordinating AI agent teams with structured tasks, persistent memory, and file-conflict controls.</p>
@@ -3706,7 +3714,7 @@ Here's an awesome list of AI agents:
 ### The Agentic Leaderboard
 <div><a href="https://github.com/ifyoubuildit/the-agentic-leaderboard-data"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/ifyoubuildit/the-agentic-leaderboard-data"><img src="https://img.shields.io/github/stars/ifyoubuildit/the-agentic-leaderboard-data?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/ifyoubuildit">@ifyoubuildit</a></p>
-<p>⭐ 0 stars</p>
+<p>⭐ 1 stars</p>
 <p>📊 Evaluation Frameworks</p>
 
 <p>The Agentic Leaderboard publishes weekly rankings of open-source AI agents across reliability, tool selection, autonomous iteration, and community signals, with public data and methodology.</p>
@@ -3728,7 +3736,7 @@ Here's an awesome list of AI agents:
 ### The Genesis Accord
 <div><a href="https://github.com/Bengtsson78/genesis-accord-standard"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Bengtsson78/genesis-accord-standard"><img src="https://img.shields.io/github/stars/Bengtsson78/genesis-accord-standard?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/Bengtsson78">@Bengtsson78</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/318">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/465">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/Bengtsson78">@Bengtsson78</a></p>
-<p>⭐ 0 stars</p>
+<p>⭐ 1 stars</p>
 <p>📏 Standardization</p>
 
 <p>An open standard that defines eight evidence-based dimensions for AI agents assessing human–AI operator interactions and issuing credentials.</p>
@@ -3752,7 +3760,7 @@ Here's an awesome list of AI agents:
 ### Thursday
 <div><a href="https://github.com/cgoinglove/thursday"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/cgoinglove/thursday"><img src="https://img.shields.io/github/stars/cgoinglove/thursday?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/cgoinglove">@cgoinglove</a> <small>(self-reported founder/team)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/480">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/484">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/cgoinglove">@cgoinglove</a></p>
-<p>⭐ 8 stars</p>
+<p>⭐ 19 stars</p>
 <p>👤 Personal Assistants</p>
 
 <p>Thursday is an open-source personal voice assistant that runs on your computer and delegates longer tasks to background AI agents using a real browser, shell, files, Agent Skills, and MCP servers. It keeps the live call available while work runs and returns results as local files; it uses hosted model providers rather than local inference.</p>
@@ -3789,7 +3797,7 @@ Here's an awesome list of AI agents:
 ### TypeChat
 <div><a href="https://github.com/microsoft/TypeChat"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/microsoft/TypeChat"><img src="https://img.shields.io/github/stars/microsoft/TypeChat?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/microsoft">@microsoft</a></p>
-<p>⭐ 8,687 stars</p>
+<p>⭐ 8,688 stars</p>
 <p> Function Calling</p>
 
 <p>TypeChat is a library that facilitates building natural language interfaces by using schema engineering as an alternative to traditional function calling in LLMs, avoiding JSON schema-based constraints</p>
@@ -3800,7 +3808,7 @@ Here's an awesome list of AI agents:
 ### uAgents by Fetch AI
 <div><a href="https://github.com/fetchai/uAgents"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/fetchai/uAgents"><img src="https://img.shields.io/github/stars/fetchai/uAgents?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/fetchai">@fetchai</a></p>
-<p>⭐ 1,638 stars · Growth: today -2 stars (-0.1%)</p>
+<p>⭐ 1,638 stars</p>
 <p>⚙️ Development Frameworks</p>
 
 <p>uAgents is a Python library by Fetch AI for creating autonomous AI agents with features like easy creation, blockchain network connectivity, and cryptographic security</p>
@@ -3811,7 +3819,7 @@ Here's an awesome list of AI agents:
 ### UIZZE
 <div><a href="https://github.com/uizze/uizze"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/uizze/uizze"><img src="https://img.shields.io/github/stars/uizze/uizze?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/uizze">@uizze</a></p>
-<p>⭐ 26 stars</p>
+<p>⭐ 32 stars</p>
 <p>🖥️ UI Development</p>
 
 <p>UIZZE provides design skills and a free GitHub Action for coding agents: its skills guide product-specific interface design, and the PR check flags common UI issues in changed source. An optional paid MCP server provides web and iOS design references.</p>
@@ -3824,6 +3832,7 @@ Here's an awesome list of AI agents:
 ### Unified AI System
 <div><a href="https://github.com/happy520ai/unified-ai-system"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/happy520ai/unified-ai-system"><img src="https://img.shields.io/github/stars/happy520ai/unified-ai-system?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/happy520ai">@happy520ai</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/583">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/621">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/happy520ai">@happy520ai</a></p>
+<p>⭐ 8 stars</p>
 <p>⚙️ Development Frameworks | 🔧 Tool Calling (Function Calling)</p>
 
 <p>A self-hosted AI gateway and control plane that exposes governed MCP tools, converts OpenAPI services to MCP, and proxies compatible model APIs with virtual-key budgets, caching, and audit.</p>
@@ -3836,6 +3845,7 @@ Here's an awesome list of AI agents:
 ### Upload-Post MCP
 <div><a href="https://github.com/Upload-Post/upload-post-mcp"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Upload-Post/upload-post-mcp"><img src="https://img.shields.io/github/stars/Upload-Post/upload-post-mcp?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/victorcavero14">@victorcavero14</a> <small>(self-reported founder/team)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/630">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/650">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/Upload-Post">@Upload-Post</a></p>
+<p>⭐ 8 stars</p>
 <p>🔌 MCP Servers</p>
 
 <p>Upload-Post MCP is an open-source TypeScript MCP server that lets AI agents publish, schedule and manage social media posts, analytics, comments and messages across many platforms through the Upload-Post API.</p>
@@ -3861,7 +3871,7 @@ Here's an awesome list of AI agents:
 ### Vetto
 <div><a href="https://github.com/shleder/vetto"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/shleder/vetto"><img src="https://img.shields.io/github/stars/shleder/vetto?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/shleder">@shleder</a></p>
-<p>⭐ 30 stars</p>
+<p>⭐ 41 stars</p>
 <p>⚙️ Development Frameworks | 🛡️ Safety Guardrails (Safeguarding)</p>
 
 <p>Vetto is a daemon-less, rootless sandbox that applies kernel-enforced security policies to AI coding agents, with agent command shims and MCP tool isolation.</p>
@@ -3872,7 +3882,7 @@ Here's an awesome list of AI agents:
 ### WinkTerm
 <div><a href="https://github.com/Cznorth/winkterm"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Cznorth/winkterm"><img src="https://img.shields.io/github/stars/Cznorth/winkterm?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/Cznorth">@Cznorth</a></p>
-<p>⭐ 22 stars</p>
+<p>⭐ 23 stars</p>
 <p>🤖 AI Agents | 💻 Terminal-Friendly</p>
 
 <p>A self-hosted AI terminal that shares the user's PTY, drafts commands in the terminal input for review, and supports SSH and agent integrations.</p>
@@ -3885,7 +3895,7 @@ Here's an awesome list of AI agents:
 ### WritBase
 <div><a href="https://github.com/Writbase/writbase"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Writbase/writbase"><img src="https://img.shields.io/github/stars/Writbase/writbase?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/Writbase">@Writbase</a></p>
-<p>⭐ 10 stars</p>
+<p>⭐ 11 stars</p>
 <p>⚙️ Development Frameworks</p>
 
 <p>An MCP-native task control plane for AI agent teams, with persistent tasks, scoped permissions, delegation, and provenance.</p>
@@ -3909,7 +3919,7 @@ Here's an awesome list of AI agents:
 ### XMACNA Funcionario Digital AgentGet Pack
 <div><a href="https://github.com/xmacna/funcionario-digital-agentget"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/xmacna/funcionario-digital-agentget"><img src="https://img.shields.io/github/stars/xmacna/funcionario-digital-agentget?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/xmacna">@xmacna</a></p>
-<p>⭐ 0 stars</p>
+<p>⭐ 1 stars</p>
 <p>🤖 AI Agents</p>
 
 <p>An installable AgentGet knowledge pack and Claude Code agent for designing AI sales workflows, including WhatsApp lead qualification, CRM hygiene, and supervised business automation.</p>
@@ -3922,7 +3932,7 @@ Here's an awesome list of AI agents:
 ### YouTube Skills for AI Agents
 <div><a href="https://github.com/ZeroPointRepo/youtube-skills"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/ZeroPointRepo/youtube-skills"><img src="https://img.shields.io/github/stars/ZeroPointRepo/youtube-skills?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/nikhonit">@nikhonit</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/155">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/477">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/ZeroPointRepo">@ZeroPointRepo</a></p>
-<p>⭐ 961 stars</p>
+<p>⭐ 985 stars</p>
 <p>🤖 AI Agents</p>
 
 <p>A collection of agent skills for retrieving YouTube transcripts, searching videos, browsing channels, and extracting playlists through TranscriptAPI.</p>
@@ -3935,7 +3945,7 @@ Here's an awesome list of AI agents:
 ### Zapier SDK
 <div><a href="https://github.com/zapier/sdk"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/zapier/sdk"><img src="https://img.shields.io/github/stars/zapier/sdk?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/zapier">@zapier</a></p>
-<p>⭐ 255 stars</p>
+<p>⭐ 258 stars</p>
 <p>⚙️ Development Frameworks</p>
 
 <p>The Zapier SDK is a TypeScript SDK and CLI for building agent tools and integrations against Zapier’s connection layer, giving coding agents programmatic access to Zapier’s app catalog and action library.</p>
@@ -3948,6 +3958,7 @@ Here's an awesome list of AI agents:
 ### Zaru
 <div><a href="https://github.com/100monkeys-ai/zaru-cli"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/100monkeys-ai/zaru-cli"><img src="https://img.shields.io/github/stars/100monkeys-ai/zaru-cli?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/Theaxiom">@Theaxiom</a> <small>(self-reported founder/team)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/626">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/656">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/100monkeys-ai">@100monkeys-ai</a></p>
+<p>⭐ 1 stars</p>
 <p>🤖 AI Agents | 💻 Terminal-Friendly</p>
 
 <p>Zaru is a pre-alpha open-source Rust terminal harness for LLM agents that runs the tools a model asks for under a permission model and records every step in a transcript.</p>
@@ -3960,7 +3971,7 @@ Here's an awesome list of AI agents:
 ### Zep
 <div><a href="https://github.com/getzep/zep/"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/getzep/zep/"><img src="https://img.shields.io/github/stars/getzep/zep?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/getzep">@getzep</a></p>
-<p>⭐ 4,932 stars · Growth: today +2 stars (+0.0%)</p>
+<p>⭐ 4,941 stars</p>
 <p>🧠 Long-Term Memory</p>
 
 <p>Zep is a long-term memory service for AI assistants that enhances recall, understanding, and data extraction from chat histories to power personalized AI experiences</p>
@@ -3971,7 +3982,7 @@ Here's an awesome list of AI agents:
 ### Zillapi
 <div><a href="https://github.com/ZeroPointRepo/zillow-skills"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/ZeroPointRepo/zillow-skills"><img src="https://img.shields.io/github/stars/ZeroPointRepo/zillow-skills?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/ZeroPointRepo">@ZeroPointRepo</a></p>
-<p>⭐ 6 stars</p>
+<p>⭐ 7 stars</p>
 <p>🔧 Tool Calling (Function Calling)</p>
 
 <p>MIT-0 agent skills for querying Zillow property data through Zillapi’s hosted API; the repository contains client skills, while the MCP server is hosted.</p>
@@ -3982,7 +3993,7 @@ Here's an awesome list of AI agents:
 ### Zooid
 <div><a href="https://github.com/zooid-ai/zooid"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/zooid-ai/zooid"><img src="https://img.shields.io/github/stars/zooid-ai/zooid?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/zooid-ai">@zooid-ai</a></p>
-<p>⭐ 58 stars</p>
+<p>⭐ 61 stars</p>
 <p>🖥️ UI Development</p>
 
 <p>Zooid is a self-hostable team-chat surface built on Matrix where people supervise AI agents running as teammates with approval cards, tool calls, and live plans.</p>
