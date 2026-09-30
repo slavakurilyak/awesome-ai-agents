@@ -7445,6 +7445,37 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "id": "anus-08571b9e",
+      "project": "ANUS",
+      "project_description": "ANUS is an open-source coding agent for the terminal that reads code, edits files and runs commands, sends each request to the smartest free model that is currently answering (OpenRouter, Google Gemini, Groq, Cerebras, Mistral), and moves the same request to the next model when one hits its limit.",
+      "has_public_repository": true,
+      "categories": [
+        "AI Agents",
+        "Terminal-Friendly"
+      ],
+      "capabilities": [
+        "Read code, edit files and run shell commands from an interactive terminal session or a one-shot prompt",
+        "Rank free models and route each request to the best one that is awake and has a key",
+        "Retry the same request on the next model when a model hits a rate limit or daily cap",
+        "Show which free models are awake, resting or missing a key with the /free command"
+      ],
+      "interfaces": [
+        "Terminal UI",
+        "CLI"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/anus-dev/anus",
+          "repository_owner": "anus-dev",
+          "repository_owner_url": "https://github.com/anus-dev",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-30T09:46:34Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [

@@ -20,7 +20,7 @@ Listings require a public project repository on GitHub, GitLab.com, or Codeberg.
 Pick a category, open it, and choose a project to jump straight to its listing. A project with more than one category appears under each of them.
 
 <details>
-<summary>🤖 AI Agents (95)</summary>
+<summary>🤖 AI Agents (96)</summary>
 <ul>
 <li><a href="#agent-007">Agent 007</a></li>
 <li><a href="#agent-by-stately-ai">Agent by Stately AI</a></li>
@@ -35,6 +35,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 <li><a href="#agentfield">AgentField</a></li>
 <li><a href="#agx">AGX</a></li>
 <li><a href="#aider">Aider</a></li>
+<li><a href="#anus">ANUS</a></li>
 <li><a href="#arachne">Arachne</a></li>
 <li><a href="#aster">Aster</a></li>
 <li><a href="#atomic-agent">Atomic Agent</a></li>
@@ -458,10 +459,11 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 </details>
 
 <details>
-<summary>💻 Terminal-Friendly (14)</summary>
+<summary>💻 Terminal-Friendly (15)</summary>
 <ul>
 <li><a href="#agent-manager">agent-manager</a></li>
 <li><a href="#agenttrace">AgentTrace</a></li>
+<li><a href="#anus">ANUS</a></li>
 <li><a href="#atomic-agent">Atomic Agent</a></li>
 <li><a href="#ax">ax</a></li>
 <li><a href="#coven">Coven</a></li>
@@ -1021,6 +1023,18 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/HMAKT99/AKF">github</a></p>
 <p><strong>Capabilities:</strong> Attach provenance and trust metadata to files · Inspect and verify claims and evidence · Replay checks against recorded evidence</p>
 <p><strong>Interfaces:</strong> CLI · Python package · TypeScript package · MCP server</p>
+</div>
+
+### ANUS
+<div><a href="https://github.com/anus-dev/anus"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/anus-dev/anus"><img src="https://img.shields.io/github/stars/anus-dev/anus?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/anus-dev">@anus-dev</a></p>
+<p>🤖 AI Agents | 💻 Terminal-Friendly</p>
+
+<p>ANUS is an open-source coding agent for the terminal that reads code, edits files and runs commands, sends each request to the smartest free model that is currently answering (OpenRouter, Google Gemini, Groq, Cerebras, Mistral), and moves the same request to the next model when one hits its limit.</p>
+
+<p><a href="https://github.com/anus-dev/anus">github</a></p>
+<p><strong>Capabilities:</strong> Read code, edit files and run shell commands from an interactive terminal session or a one-shot prompt · Rank free models and route each request to the best one that is awake and has a key · Retry the same request on the next model when a model hits a rate limit or daily cap · Show which free models are awake, resting or missing a key with the /free command</p>
+<p><strong>Interfaces:</strong> Terminal UI · CLI</p>
 </div>
 
 ### APort Agent Guardrails
