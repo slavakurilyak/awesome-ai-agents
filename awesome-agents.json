@@ -7416,6 +7416,35 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "id": "court-rules-135414f1",
+      "project": "Court Rules",
+      "project_description": "A hosted MCP server that answers U.S. federal and local court filing-rule questions from cited source documents, checks judge-specific filing requirements, and looks up court holidays and deadlines.",
+      "has_public_repository": true,
+      "categories": [
+        "MCP Servers"
+      ],
+      "capabilities": [
+        "Search filing rules and judge standing orders with source citations",
+        "Check briefs against judge-specific filing requirements",
+        "Look up court holidays and court deadlines"
+      ],
+      "interfaces": [
+        "MCP",
+        "Streamable HTTP"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/foklepoint/court-rules-mcp",
+          "repository_owner": "foklepoint",
+          "repository_owner_url": "https://github.com/foklepoint",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-09-30T09:26:18Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [

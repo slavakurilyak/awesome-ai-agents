@@ -502,13 +502,14 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 </details>
 
 <details>
-<summary>🔌 MCP Servers (17)</summary>
+<summary>🔌 MCP Servers (18)</summary>
 <ul>
 <li><a href="#agentservices">AgentServices</a></li>
 <li><a href="#ai-for-database-mcp-server">AI for Database MCP Server</a></li>
 <li><a href="#busabase">Busabase</a></li>
 <li><a href="#ceki-mcp-server">Ceki MCP Server</a></li>
 <li><a href="#context7">Context7</a></li>
+<li><a href="#court-rules">Court Rules</a></li>
 <li><a href="#github-mcp-server">GitHub MCP Server</a></li>
 <li><a href="#hermes-plant">Hermes Plant</a></li>
 <li><a href="#human-pages-mcp-server">Human Pages MCP Server</a></li>
@@ -1585,6 +1586,18 @@ Here's an awesome list of AI agents:
 <p>CorvinOS is a self-hosted agentic OS that connects local and cloud models to messaging platforms including Discord, Telegram, WhatsApp, Slack, and email.</p>
 
 <p><a href="https://github.com/CorvinLabs/CorvinOS">github</a></p>
+</div>
+
+### Court Rules
+<div><a href="https://github.com/foklepoint/court-rules-mcp"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/foklepoint/court-rules-mcp"><img src="https://img.shields.io/github/stars/foklepoint/court-rules-mcp?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/foklepoint">@foklepoint</a> <small>(self-reported founder/team)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/667">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/671">accepted PR</a> · <strong>Maintained by:</strong> <a href="https://github.com/foklepoint">@foklepoint</a> <small>(self-reported)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/667">evidence</a> · <strong>Repository owner:</strong> <a href="https://github.com/foklepoint">@foklepoint</a></p>
+<p>🔌 MCP Servers</p>
+
+<p>A hosted MCP server that answers U.S. federal and local court filing-rule questions from cited source documents, checks judge-specific filing requirements, and looks up court holidays and deadlines.</p>
+
+<p><a href="https://github.com/foklepoint/court-rules-mcp">github</a></p>
+<p><strong>Capabilities:</strong> Search filing rules and judge standing orders with source citations · Check briefs against judge-specific filing requirements · Look up court holidays and court deadlines</p>
+<p><strong>Interfaces:</strong> MCP · Streamable HTTP</p>
 </div>
 
 ### Coven
