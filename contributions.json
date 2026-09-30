@@ -975,6 +975,29 @@
           "status": "accepted_submission"
         }
       ]
+    },
+    {
+      "project_id": "court-rules-135414f1",
+      "submitted_by": [
+        {
+          "github_id": 1740410,
+          "login": "foklepoint",
+          "evidence_url": "https://github.com/slavakurilyak/awesome-ai-agents/issues/667",
+          "acceptance_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/671",
+          "at": "2026-09-30T09:28:34Z",
+          "status": "accepted_submission",
+          "founder_team_claim": true
+        }
+      ],
+      "maintained_by": [
+        {
+          "github_id": 1740410,
+          "login": "foklepoint",
+          "evidence_url": "https://github.com/slavakurilyak/awesome-ai-agents/issues/667",
+          "at": "2026-09-30T09:28:34Z",
+          "status": "self_reported"
+        }
+      ]
     }
   ]
 }
