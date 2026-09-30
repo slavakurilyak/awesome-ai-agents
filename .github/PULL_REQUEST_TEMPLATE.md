@@ -24,9 +24,9 @@ If this PR intentionally changes the public skill, explain why and summarize the
 ## Contribution credit (optional for project submissions)
 
 - Original submission issue or pull request (if different from this PR):
-- Submitted by (GitHub username, if different from the original submission author):
+- Submitted by (GitHub username; for a direct addition PR, this is the PR author):
 - Founder or team member (self-reported): yes / no / not stated
 - Current maintainer(s), if known:
 - Public evidence identifying current maintainer(s), if available:
 
-Credit is recorded after the project is accepted. For historical submissions, link the original issue or PR and the accepting PR. Do not infer submitter from the catalog-edit PR author or maintainer from repository ownership. Founder/team claims without independent evidence are labeled self-reported; maintainer claims without independent evidence are labeled self-reported too.
+Credit is recorded after the project is accepted. For a direct addition PR, the PR author is the submitter and the PR is both the submission and acceptance evidence. For an issue or earlier-PR submission, credit that original author and link the original submission and accepting catalog PR. Do not infer submitter from a follow-up catalog-edit PR's author or maintainer from repository ownership. Founder/team claims without independent evidence are labeled self-reported; maintainer claims without independent evidence are labeled self-reported too.
