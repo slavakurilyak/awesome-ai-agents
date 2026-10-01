@@ -279,6 +279,13 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 </details>
 
 <details>
+<summary>📞 Phone Calling (1)</summary>
+<ul>
+<li><a href="#call4me">call4me</a></li>
+</ul>
+</details>
+
+<details>
 <summary>💻 Local Inference (8)</summary>
 <ul>
 <li><a href="#atomic-agent">Atomic Agent</a></li>
@@ -1368,6 +1375,16 @@ Here's an awesome list of AI agents:
 <p>Cal.ai is an open-source AI scheduling assistant that manages email communications for booking, rearranging, and inquiring about meetings, leveraging a LangChain Agent Executor and MailParser for efficient scheduling without API key exposure</p>
 
 <p><a href="https://cal.com/ai">website</a> | <a href="https://github.com/calcom/cal.com/tree/main/apps/ai">github</a></p>
+</div>
+
+### call4me
+<div><a href="https://github.com/skeptrunedev/call4me"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/skeptrunedev/call4me"><img src="https://img.shields.io/github/stars/skeptrunedev/call4me?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/skeptrunedev">@skeptrunedev</a></p>
+<p>📞 Phone Calling</p>
+
+<p>call4me is a voice agent that places phone calls to businesses for the user from Claude Code, Codex, Claude Desktop or ChatGPT through a remote MCP server, navigating phone menus and returning the transcript and outcome.</p>
+
+<p><a href="https://github.com/skeptrunedev/call4me">github</a></p>
 </div>
 
 ### CAMEL

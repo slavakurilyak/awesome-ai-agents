@@ -8009,6 +8009,26 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "id": "call4me-37795fdc",
+      "project": "call4me",
+      "project_description": "call4me is a voice agent that places phone calls to businesses for the user from Claude Code, Codex, Claude Desktop or ChatGPT through a remote MCP server, navigating phone menus and returning the transcript and outcome.",
+      "has_public_repository": true,
+      "categories": [
+        "Phone Calling"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/skeptrunedev/call4me",
+          "repository_owner": "skeptrunedev",
+          "repository_owner_url": "https://github.com/skeptrunedev",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-10-01T16:40:46Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
