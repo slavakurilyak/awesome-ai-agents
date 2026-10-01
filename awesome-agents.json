@@ -1,5 +1,5 @@
 {
-  "agents": [
+  "agents": [    { "id": "aifetchly-8d3f2a1b", "project": "aiFetchly", "project_description": "Open-source desktop AI agent for business automation — lead generation, knowledge library RAG, outreach, and scheduled workflows. Runs on Windows, macOS, Linux.", "has_public_repository": true, "categories": [ "AI Agents" ], "capabilities": [ "Lead generation and contact extraction", "Local knowledge library RAG", "Outreach automation", "Scheduled workflows" ], "interfaces": [ "Desktop app" ], "sources": [ { "source": "github", "source_url": "https://github.com/robertzengcn/aiFetchly", "repository_status": "active", "repository_checked_at": "<set by forge verifier>", "stars_last_updated": null }, { "source": "website", "source_url": "https://www.aifetchly.com", "stars_last_updated": null } ] },
     {
       "id": "aster-712d33a8",
       "project": "Aster",
