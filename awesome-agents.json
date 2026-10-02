@@ -8009,6 +8009,37 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "id": "agent001-c2d1c3b8",
+      "project": "agent001",
+      "project_description": "An open-source agent with its own wallet on Robinhood Chain: it joins the Priors credit pool, borrows and repays USDG before each due date on its own, sells a paid API over x402, and talks from a CLI or Telegram with Claude or any OpenAI-compatible model.",
+      "has_public_repository": true,
+      "categories": [
+        "AI Agents"
+      ],
+      "capabilities": [
+        "Repay every loan before its due date (autopilot)",
+        "Sell a paid API over x402 and receive USDG",
+        "Check a counterparty's on-chain repayment record before dealing with it",
+        "Run the whole loop on a local fork with play money"
+      ],
+      "interfaces": [
+        "CLI",
+        "Telegram",
+        "MCP"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/priors-agents/agent001",
+          "repository_owner": "priors-agents",
+          "repository_owner_url": "https://github.com/priors-agents",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-10-02T14:28:14Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [

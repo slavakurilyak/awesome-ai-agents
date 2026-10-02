@@ -20,7 +20,7 @@ Listings require a public project repository on GitHub, GitLab.com, or Codeberg.
 Pick a category, open it, and choose a project to jump straight to its listing. A project with more than one category appears under each of them.
 
 <details>
-<summary>🤖 AI Agents (95)</summary>
+<summary>🤖 AI Agents (96)</summary>
 <ul>
 <li><a href="#agent-007">Agent 007</a></li>
 <li><a href="#agent-by-stately-ai">Agent by Stately AI</a></li>
@@ -31,6 +31,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 <li><a href="#agent-trust-stack-mcp-server">Agent Trust Stack MCP Server</a></li>
 <li><a href="#agent-kit">agent-kit</a></li>
 <li><a href="#agent-manager">agent-manager</a></li>
+<li><a href="#agent001">agent001</a></li>
 <li><a href="#agentbox">AgentBox</a></li>
 <li><a href="#agentfield">AgentField</a></li>
 <li><a href="#agx">AGX</a></li>
@@ -741,6 +742,18 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/YoanWai/agent-manager">github</a></p>
 <p><strong>Capabilities:</strong> Run the user's own installed coding agent CLIs unmodified, each in a persistent tmux session, so their login, config and MCP servers carry over · Show the live status of every session in one list, with an optional git worktree per session · Show a full file diff whose line comments go back to the agent as one review prompt · Let an agent spawn another session, message it and wait until it finishes through a built in MCP server</p>
 <p><strong>Interfaces:</strong> Terminal UI · CLI · MCP</p>
+</div>
+
+### agent001
+<div><a href="https://github.com/priors-agents/agent001"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/priors-agents/agent001"><img src="https://img.shields.io/github/stars/priors-agents/agent001?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/priors-agents">@priors-agents</a></p>
+<p>🤖 AI Agents</p>
+
+<p>An open-source agent with its own wallet on Robinhood Chain: it joins the Priors credit pool, borrows and repays USDG before each due date on its own, sells a paid API over x402, and talks from a CLI or Telegram with Claude or any OpenAI-compatible model.</p>
+
+<p><a href="https://github.com/priors-agents/agent001">github</a></p>
+<p><strong>Capabilities:</strong> Repay every loan before its due date (autopilot) · Sell a paid API over x402 and receive USDG · Check a counterparty's on-chain repayment record before dealing with it · Run the whole loop on a local fork with play money</p>
+<p><strong>Interfaces:</strong> CLI · Telegram · MCP</p>
 </div>
 
 ### AgentBox
