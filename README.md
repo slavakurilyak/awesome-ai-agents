@@ -20,9 +20,10 @@ Listings require a public project repository on GitHub, GitLab.com, or Codeberg.
 Pick a category, open it, and choose a project to jump straight to its listing. A project with more than one category appears under each of them.
 
 <details>
-<summary>🤖 AI Agents (95)</summary>
+<summary>🤖 AI Agents (99)</summary>
 <ul>
 <li><a href="#agent-007">Agent 007</a></li>
+<li><a href="#agent-argue">Agent Argue</a></li>
 <li><a href="#agent-by-stately-ai">Agent by Stately AI</a></li>
 <li><a href="#agent-platform">Agent Platform</a></li>
 <li><a href="#agent-qa">Agent QA</a></li>
@@ -31,10 +32,12 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 <li><a href="#agent-trust-stack-mcp-server">Agent Trust Stack MCP Server</a></li>
 <li><a href="#agent-kit">agent-kit</a></li>
 <li><a href="#agent-manager">agent-manager</a></li>
+<li><a href="#agent001">agent001</a></li>
 <li><a href="#agentbox">AgentBox</a></li>
 <li><a href="#agentfield">AgentField</a></li>
 <li><a href="#agx">AGX</a></li>
 <li><a href="#aider">Aider</a></li>
+<li><a href="#anus">ANUS</a></li>
 <li><a href="#arachne">Arachne</a></li>
 <li><a href="#aster">Aster</a></li>
 <li><a href="#atomic-agent">Atomic Agent</a></li>
@@ -110,6 +113,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 <li><a href="#strata">Strata</a></li>
 <li><a href="#synapse-messenger">Synapse Messenger</a></li>
 <li><a href="#tabby">Tabby</a></li>
+<li><a href="#tale">Tale</a></li>
 <li><a href="#taskade">Taskade</a></li>
 <li><a href="#titan">TITAN</a></li>
 <li><a href="#winkterm">WinkTerm</a></li>
@@ -121,13 +125,14 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 </details>
 
 <details>
-<summary>🧠 Long-Term Memory (21)</summary>
+<summary>🧠 Long-Term Memory (22)</summary>
 <ul>
 <li><a href="#contextstream">ContextStream</a></li>
 <li><a href="#corellis">Corellis</a></li>
 <li><a href="#cortex-memory">Cortex Memory</a></li>
 <li><a href="#hermes-agent">Hermes Agent</a></li>
 <li><a href="#hyperconsciousness">Hyperconsciousness</a></li>
+<li><a href="#kith">kith</a></li>
 <li><a href="#mem0">mem0</a></li>
 <li><a href="#memclaw">MemClaw</a></li>
 <li><a href="#memgpt">MemGPT</a></li>
@@ -279,7 +284,14 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 </details>
 
 <details>
-<summary>💻 Local Inference (8)</summary>
+<summary>📞 Phone Calling (1)</summary>
+<ul>
+<li><a href="#call4me">call4me</a></li>
+</ul>
+</details>
+
+<details>
+<summary>💻 Local Inference (9)</summary>
 <ul>
 <li><a href="#atomic-agent">Atomic Agent</a></li>
 <li><a href="#corvinos">CorvinOS</a></li>
@@ -287,6 +299,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 <li><a href="#localgpt">LocalGPT</a></li>
 <li><a href="#nanocoder">Nanocoder</a></li>
 <li><a href="#ollama">Ollama</a></li>
+<li><a href="#pok-agent">POK-Agent</a></li>
 <li><a href="#privategpt">PrivateGPT</a></li>
 <li><a href="#screenpipe">Screenpipe</a></li>
 </ul>
@@ -325,7 +338,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 </details>
 
 <details>
-<summary>💻 Operating System (OS) (8)</summary>
+<summary>💻 Operating System (OS) (9)</summary>
 <ul>
 <li><a href="#corvinos">CorvinOS</a></li>
 <li><a href="#fazm">Fazm</a></li>
@@ -333,12 +346,13 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 <li><a href="#moching">Moching</a></li>
 <li><a href="#open-interpreter">Open Interpreter</a></li>
 <li><a href="#orkas">Orkas</a></li>
+<li><a href="#pok-agent">POK-Agent</a></li>
 <li><a href="#superagent-for-mac">Superagent for Mac</a></li>
 </ul>
 </details>
 
 <details>
-<summary>🛡️ Safety Guardrails (Safeguarding) (26)</summary>
+<summary>🛡️ Safety Guardrails (Safeguarding) (27)</summary>
 <ul>
 <li><a href="#agent-express">Agent Express</a></li>
 <li><a href="#agent-stack">Agent Stack</a></li>
@@ -355,6 +369,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 <li><a href="#guidance">Guidance</a></li>
 <li><a href="#hermes-plant">Hermes Plant</a></li>
 <li><a href="#hvtracker">HVTracker</a></li>
+<li><a href="#jes">jes</a></li>
 <li><a href="#k8s4claw">k8s4claw</a></li>
 <li><a href="#nemo-guardrails">NeMo Guardrails</a></li>
 <li><a href="#nexus-agent">Nexus-Agent</a></li>
@@ -416,10 +431,11 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 </details>
 
 <details>
-<summary>🖥️ UI Development (8)</summary>
+<summary>🖥️ UI Development (9)</summary>
 <ul>
 <li><a href="#ai-sdk-by-vercel">AI SDK by Vercel</a></li>
 <li><a href="#ai-artifacts">ai-artifacts</a></li>
+<li><a href="#bestax-mcp">bestax-mcp</a></li>
 <li><a href="#cogito-studio">Cogito Studio</a></li>
 <li><a href="#dsh-studio">DSH Studio</a></li>
 <li><a href="#frontman">Frontman</a></li>
@@ -437,31 +453,34 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 </details>
 
 <details>
-<summary>🌐 Web Browsing Frameworks (6)</summary>
+<summary>🌐 Web Browsing Frameworks (7)</summary>
 <ul>
 <li><a href="#browser-use">browser-use</a></li>
 <li><a href="#crawl4ai">Crawl4AI</a></li>
 <li><a href="#firecrawl">Firecrawl</a></li>
 <li><a href="#playwright-mcp">Playwright MCP</a></li>
+<li><a href="#skyvern">Skyvern</a></li>
 <li><a href="#stagehand">Stagehand</a></li>
 <li><a href="#steel-browser">Steel Browser</a></li>
 </ul>
 </details>
 
 <details>
-<summary>🔄 Flow Engineering (Platform Engineering) (3)</summary>
+<summary>🔄 Flow Engineering (Platform Engineering) (4)</summary>
 <ul>
 <li><a href="#dspy">DSPY</a></li>
 <li><a href="#maestro">Maestro</a></li>
 <li><a href="#rote">rote</a></li>
+<li><a href="#tale">Tale</a></li>
 </ul>
 </details>
 
 <details>
-<summary>💻 Terminal-Friendly (14)</summary>
+<summary>💻 Terminal-Friendly (15)</summary>
 <ul>
 <li><a href="#agent-manager">agent-manager</a></li>
 <li><a href="#agenttrace">AgentTrace</a></li>
+<li><a href="#anus">ANUS</a></li>
 <li><a href="#atomic-agent">Atomic Agent</a></li>
 <li><a href="#ax">ax</a></li>
 <li><a href="#coven">Coven</a></li>
@@ -502,10 +521,11 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 </details>
 
 <details>
-<summary>🔌 MCP Servers (18)</summary>
+<summary>🔌 MCP Servers (20)</summary>
 <ul>
 <li><a href="#agentservices">AgentServices</a></li>
 <li><a href="#ai-for-database-mcp-server">AI for Database MCP Server</a></li>
+<li><a href="#bestax-mcp">bestax-mcp</a></li>
 <li><a href="#busabase">Busabase</a></li>
 <li><a href="#ceki-mcp-server">Ceki MCP Server</a></li>
 <li><a href="#context7">Context7</a></li>
@@ -516,6 +536,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 <li><a href="#hyperconsciousness">Hyperconsciousness</a></li>
 <li><a href="#metorial">Metorial</a></li>
 <li><a href="#playwright-mcp">Playwright MCP</a></li>
+<li><a href="#posteverywhere">PostEverywhere</a></li>
 <li><a href="#salt-mcp">Salt MCP</a></li>
 <li><a href="#serena">Serena</a></li>
 <li><a href="#since-cutoff">since-cutoff</a></li>
@@ -602,6 +623,18 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/bill10/agent-007">github</a></p>
 <p><strong>Capabilities:</strong> Run terminal coding agents in isolated Git worktrees · Queue jobs and review resulting pull requests or summaries · Coordinate workers through MCP</p>
 <p><strong>Interfaces:</strong> Web UI · CLI · MCP</p>
+</div>
+
+### Agent Argue
+<div><a href="https://github.com/empac666/agent-argue-cards"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/empac666/agent-argue-cards"><img src="https://img.shields.io/github/stars/empac666/agent-argue-cards?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/empac666">@empac666</a> <small>(self-reported founder/team)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/689">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/695">accepted PR</a> · <strong>Maintained by:</strong> <a href="https://github.com/empac666">@empac666</a> <small>(self-reported)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/689">evidence</a> · <strong>Repository owner:</strong> <a href="https://github.com/empac666">@empac666</a></p>
+<p>🤖 AI Agents</p>
+
+<p>Agent Argue stages structured debates between language-model agents and turns them into balanced cards; code checks quoted concessions against the transcript before publication.</p>
+
+<p><a href="https://github.com/empac666/agent-argue-cards">github</a></p>
+<p><strong>Capabilities:</strong> Generate fixed-beat debates between two agents · Create a summary card with positions, concessions, and unresolved points · Check quote provenance against speaker and transcript records</p>
+<p><strong>Interfaces:</strong> Web app · CLI demo</p>
 </div>
 
 ### Agent by Stately AI
@@ -741,6 +774,18 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/YoanWai/agent-manager">github</a></p>
 <p><strong>Capabilities:</strong> Run the user's own installed coding agent CLIs unmodified, each in a persistent tmux session, so their login, config and MCP servers carry over · Show the live status of every session in one list, with an optional git worktree per session · Show a full file diff whose line comments go back to the agent as one review prompt · Let an agent spawn another session, message it and wait until it finishes through a built in MCP server</p>
 <p><strong>Interfaces:</strong> Terminal UI · CLI · MCP</p>
+</div>
+
+### agent001
+<div><a href="https://github.com/priors-agents/agent001"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/priors-agents/agent001"><img src="https://img.shields.io/github/stars/priors-agents/agent001?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/priors-agents">@priors-agents</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/687">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/695">accepted PR</a> · <strong>Maintained by:</strong> <a href="https://github.com/priors-agents">@priors-agents</a> <small>(self-reported)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/687">evidence</a> · <strong>Repository owner:</strong> <a href="https://github.com/priors-agents">@priors-agents</a></p>
+<p>🤖 AI Agents</p>
+
+<p>agent001 is an open-source agent that uses its own wallet and credit line to borrow and repay USDG, sell an x402 API, and interact through CLI or Telegram.</p>
+
+<p><a href="https://github.com/priors-agents/agent001">github</a></p>
+<p><strong>Capabilities:</strong> Borrow and repay USDG through a credit line · Sell an x402 API and receive payments · Check counterparty repayment records · Run workflows against a local fork</p>
+<p><strong>Interfaces:</strong> CLI · Telegram · MCP</p>
 </div>
 
 ### AgentBox
@@ -1014,6 +1059,18 @@ Here's an awesome list of AI agents:
 <p><strong>Interfaces:</strong> CLI · Python package · TypeScript package · MCP server</p>
 </div>
 
+### ANUS
+<div><a href="https://github.com/anus-dev/anus"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/anus-dev/anus"><img src="https://img.shields.io/github/stars/anus-dev/anus?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/eugeneshilow">@eugeneshilow</a> <small>(self-reported founder/team)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/672">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/695">accepted PR</a> · <strong>Maintained by:</strong> <a href="https://github.com/eugeneshilow">@eugeneshilow</a> <small>(self-reported)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/672">evidence</a> · <strong>Repository owner:</strong> <a href="https://github.com/anus-dev">@anus-dev</a></p>
+<p>🤖 AI Agents | 💻 Terminal-Friendly</p>
+
+<p>ANUS is an open-source terminal coding agent that reads code, edits files, runs commands, routes requests to available free models, and retries when a provider is rate-limited.</p>
+
+<p><a href="https://github.com/anus-dev/anus">github</a></p>
+<p><strong>Capabilities:</strong> Read code, edit files, and run shell commands · Route requests to available free models · Retry on provider rate limits and show model availability</p>
+<p><strong>Interfaces:</strong> Terminal UI · CLI</p>
+</div>
+
 ### APort Agent Guardrails
 <div><a href="https://github.com/aporthq/aport-agent-guardrails"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/aporthq/aport-agent-guardrails"><img src="https://img.shields.io/github/stars/aporthq/aport-agent-guardrails?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/aporthq">@aporthq</a></p>
@@ -1256,6 +1313,18 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/sagentic-ai/sagentic-af">github</a> | <a href="https://bazed.ai/">website</a> | <a href="https://discord.gg/VmEEUrc7dg">discord</a></p>
 </div>
 
+### bestax-mcp
+<div><a href="https://github.com/allxsmith/bestax"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/allxsmith/bestax"><img src="https://img.shields.io/github/stars/allxsmith/bestax?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/allxsmith">@allxsmith</a> <small>(self-reported founder/team)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/688">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/695">accepted PR</a> · <strong>Maintained by:</strong> <a href="https://github.com/allxsmith">@allxsmith</a> <small>(self-reported)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/688">evidence</a> · <strong>Repository owner:</strong> <a href="https://github.com/allxsmith">@allxsmith</a></p>
+<p>🔌 MCP Servers | 🖥️ UI Development</p>
+
+<p>bestax-mcp is an offline MCP server that provides coding agents with Bestax React component APIs, examples, CSS variables, helper props, and task-specific skills.</p>
+
+<p><a href="https://github.com/allxsmith/bestax">github</a></p>
+<p><strong>Capabilities:</strong> Look up component props, examples, and CSS variables · Serve seven UI-development skills and their references offline</p>
+<p><strong>Interfaces:</strong> MCP server</p>
+</div>
+
 ### BindAI
 <div><a href="https://github.com/BindBrain/BindAI"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/BindBrain/BindAI"><img src="https://img.shields.io/github/stars/BindBrain/BindAI?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/BindBrain">@BindBrain</a></p>
@@ -1368,6 +1437,18 @@ Here's an awesome list of AI agents:
 <p>Cal.ai is an open-source AI scheduling assistant that manages email communications for booking, rearranging, and inquiring about meetings, leveraging a LangChain Agent Executor and MailParser for efficient scheduling without API key exposure</p>
 
 <p><a href="https://cal.com/ai">website</a> | <a href="https://github.com/calcom/cal.com/tree/main/apps/ai">github</a></p>
+</div>
+
+### call4me
+<div><a href="https://github.com/skeptrunedev/call4me"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/skeptrunedev/call4me"><img src="https://img.shields.io/github/stars/skeptrunedev/call4me?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/skeptrunedev">@skeptrunedev</a> <small>(self-reported founder/team)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/683">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/695">accepted PR</a> · <strong>Maintained by:</strong> <a href="https://github.com/skeptrunedev">@skeptrunedev</a> <small>(self-reported)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/683">evidence</a> · <strong>Repository owner:</strong> <a href="https://github.com/skeptrunedev">@skeptrunedev</a></p>
+<p>📞 Phone Calling</p>
+
+<p>call4me is a voice agent that places user-requested phone calls to businesses through an MCP server, navigates phone menus, and returns the call outcome and transcript.</p>
+
+<p><a href="https://github.com/skeptrunedev/call4me">github</a></p>
+<p><strong>Capabilities:</strong> Place and schedule calls to businesses · Navigate phone menus and return transcripts and outcomes</p>
+<p><strong>Interfaces:</strong> MCP server · Coding-agent integration</p>
 </div>
 
 ### CAMEL
@@ -2196,6 +2277,18 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/janhq/jan">github</a> | <a href="https://github.com/janhq">github profile</a></p>
 </div>
 
+### jes
+<div><a href="https://github.com/everafterlabs/jes"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/everafterlabs/jes"><img src="https://img.shields.io/github/stars/everafterlabs/jes?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/emarco177">@emarco177</a> <small>(self-reported founder/team)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/685">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/695">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/everafterlabs">@everafterlabs</a></p>
+<p>🛡️ Safety Guardrails (Safeguarding)</p>
+
+<p>jes is an open-source guardrails library for checking agent inputs, retrieved content, tool calls, tool results, and responses for prompt injection, jailbreaks, and sensitive-data leaks.</p>
+
+<p><a href="https://github.com/everafterlabs/jes">github</a></p>
+<p><strong>Capabilities:</strong> Check content at agent trust boundaries · Redact configured secrets and personal data locally · Block risky prompts and tool calls through coding-agent hooks</p>
+<p><strong>Interfaces:</strong> Python library · Coding-agent hooks</p>
+</div>
+
 ### Jev Social
 <div><a href="https://github.com/socai-io/jev-social"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/socai-io/jev-social"><img src="https://img.shields.io/github/stars/socai-io/jev-social?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/IRONICBo">@IRONICBo</a> <small>(self-reported founder/team)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/439">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/456">accepted PR</a> · <strong>Maintained by:</strong> <a href="https://github.com/IRONICBo">@IRONICBo</a> <small>(self-reported)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/439">evidence</a> · <strong>Repository owner:</strong> <a href="https://github.com/socai-io">@socai-io</a></p>
@@ -2255,6 +2348,18 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/zenml-io/kitaru">github</a></p>
 <p><strong>Capabilities:</strong> Record agent runs or import traces from supported observability tools · Replay sessions with recorded tool responses to compare agent changes · Evaluate cohorts and review results against trace evidence</p>
 <p><strong>Interfaces:</strong> Python package · TypeScript package · CLI · MCP server</p>
+</div>
+
+### kith
+<div><a href="https://github.com/theNamek/kith"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/theNamek/kith"><img src="https://img.shields.io/github/stars/theNamek/kith?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/theNamek">@theNamek</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/682">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/695">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/theNamek">@theNamek</a></p>
+<p>🧠 Long-Term Memory</p>
+
+<p>kith gives multi-agent systems relationship memory: agents record scoped observations and derive trust, reliability, sentiment, and capability views with provenance.</p>
+
+<p><a href="https://github.com/theNamek/kith">github</a></p>
+<p><strong>Capabilities:</strong> Record append-only observations about other principals · Derive trust, reliability, sentiment, and capability views · Enforce visibility scope across reads and derived views</p>
+<p><strong>Interfaces:</strong> Python library · LangGraph adapter · MemoryProvider plugin · A2A integration</p>
 </div>
 
 ### Kodo
@@ -3120,6 +3225,18 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/microsoft/playwright-mcp">github</a></p>
 </div>
 
+### POK-Agent
+<div><a href="https://github.com/Acekorneya/POK-Agent"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Acekorneya/POK-Agent"><img src="https://img.shields.io/github/stars/Acekorneya/POK-Agent?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/Acekorneya">@Acekorneya</a> <small>(self-reported founder/team)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/679">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/695">accepted PR</a> · <strong>Maintained by:</strong> <a href="https://github.com/Acekorneya">@Acekorneya</a> <small>(self-reported)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/679">evidence</a> · <strong>Repository owner:</strong> <a href="https://github.com/Acekorneya">@Acekorneya</a></p>
+<p>💻 Local Inference | 💻 Operating System (OS)</p>
+
+<p>POK-Agent is a Windows computer-use and coding agent that combines a planner with a fast screen-action model, verifies step outcomes, and can record and replay successful task sequences.</p>
+
+<p><a href="https://github.com/Acekorneya/POK-Agent">github</a></p>
+<p><strong>Capabilities:</strong> Plan and execute computer-use tasks · Verify step outcomes and branch based on the screen · Record and replay successful motor programs</p>
+<p><strong>Interfaces:</strong> Desktop app · Local model</p>
+</div>
+
 ### PolyMind
 <div><a href="https://github.com/samirasadov28-code/PolyMind"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/samirasadov28-code/PolyMind"><img src="https://img.shields.io/github/stars/samirasadov28-code/PolyMind?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/samirasadov28-code">@samirasadov28-code</a></p>
@@ -3129,6 +3246,18 @@ Here's an awesome list of AI agents:
 <p>A web app that monitors Polymarket and Kalshi markets, detects configured price, volume, and wallet signals, and provides LLM analysis of alerts.</p>
 
 <p><a href="https://github.com/samirasadov28-code/PolyMind">github</a></p>
+</div>
+
+### PostEverywhere
+<div><a href="https://github.com/posteverywhere/mcp"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/posteverywhere/mcp"><img src="https://img.shields.io/github/stars/posteverywhere/mcp?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/Partridge12">@Partridge12</a> <small>(self-reported founder/team)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/677">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/695">accepted PR</a> · <strong>Maintained by:</strong> <a href="https://github.com/Partridge12">@Partridge12</a> <small>(self-reported)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/677">evidence</a> · <strong>Repository owner:</strong> <a href="https://github.com/posteverywhere">@posteverywhere</a></p>
+<p>🔌 MCP Servers</p>
+
+<p>PostEverywhere’s open-source MCP server connects AI agents to social accounts to create and schedule posts, manage queues, review publishing status, and retry failed posts.</p>
+
+<p><a href="https://github.com/posteverywhere/mcp">github</a></p>
+<p><strong>Capabilities:</strong> Manage connected social accounts and posting queues · Create, schedule, and publish posts to supported social networks · Inspect publishing results and retry failures</p>
+<p><strong>Interfaces:</strong> MCP server</p>
 </div>
 
 ### PraisonAI
@@ -3421,6 +3550,18 @@ Here's an awesome list of AI agents:
 <p><strong>Interfaces:</strong> MCP server over stdio · Streamable HTTP</p>
 </div>
 
+### Skyvern
+<div><a href="https://github.com/Skyvern-AI/skyvern"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Skyvern-AI/skyvern"><img src="https://img.shields.io/github/stars/Skyvern-AI/skyvern?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/suchintan">@suchintan</a> <small>(self-reported founder/team)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/681">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/695">accepted PR</a> · <strong>Maintained by:</strong> <a href="https://github.com/suchintan">@suchintan</a> <small>(self-reported)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/681">evidence</a> · <strong>Repository owner:</strong> <a href="https://github.com/Skyvern-AI">@Skyvern-AI</a></p>
+<p>🌐 Web Browsing Frameworks</p>
+
+<p>Skyvern automates browser workflows with language models and computer vision, including logging into portals, filling forms, downloading user-requested files, and extracting structured data.</p>
+
+<p><a href="https://github.com/Skyvern-AI/skyvern">github</a></p>
+<p><strong>Capabilities:</strong> Automate browser workflows across websites without dedicated APIs · Fill forms, interact with portals, and extract structured data</p>
+<p><strong>Interfaces:</strong> Web app · REST API · Python SDK · TypeScript SDK · CLI · MCP server</p>
+</div>
+
 ### Smartipedia
 <div><a href="https://github.com/sksareen/smartipedia"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/sksareen/smartipedia"><img src="https://img.shields.io/github/stars/sksareen/smartipedia?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/sksareen">@sksareen</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/100">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/481">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/sksareen">@sksareen</a></p>
@@ -3670,6 +3811,18 @@ Here's an awesome list of AI agents:
 <p>Tabby is a self-hosted, open-source AI coding assistant similar to GitHub Copilot, featuring a self-contained setup with no DBMS/cloud dependency, OpenAPI for easy integration, consumer-grade GPU support, and a full-feature admin UI in its latest release</p>
 
 <p><a href="https://github.com/TabbyML/tabby">github</a> | <a href="https://tabby.tabbyml.com/">website</a> | <a href="https://tabby.tabbyml.com/docs">docs</a></p>
+</div>
+
+### Tale
+<div><a href="https://github.com/tale-project/tale"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/tale-project/tale"><img src="https://img.shields.io/github/stars/tale-project/tale?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/yannickmonney">@yannickmonney</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/691">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/695">accepted PR</a> · <strong>Maintained by:</strong> <a href="https://github.com/yannickmonney">@yannickmonney</a> <small>(self-reported)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/691">evidence</a> · <strong>Repository owner:</strong> <a href="https://github.com/tale-project">@tale-project</a></p>
+<p>🤖 AI Agents | 🔄 Flow Engineering (Platform Engineering)</p>
+
+<p>Tale is a collaborative workspace where teams turn work into tasks, delegate tasks to configured agents in persistent sandbox workspaces, and review their reports and deliverables.</p>
+
+<p><a href="https://github.com/tale-project/tale">github</a></p>
+<p><strong>Capabilities:</strong> Organize projects, tasks, acceptance criteria, and shared context · Delegate tasks to configured agent runtimes in sandbox workspaces · Review agent reports and deliverables collaboratively</p>
+<p><strong>Interfaces:</strong> Web app · REST API · MCP endpoint</p>
 </div>
 
 ### Taskade

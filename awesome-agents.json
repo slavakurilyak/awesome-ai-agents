@@ -8009,6 +8009,333 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "id": "posteverywhere-7eab3607",
+      "project": "PostEverywhere",
+      "project_description": "PostEverywhere’s open-source MCP server connects AI agents to social accounts to create and schedule posts, manage queues, review publishing status, and retry failed posts.",
+      "has_public_repository": true,
+      "categories": [
+        "MCP Servers"
+      ],
+      "capabilities": [
+        "Manage connected social accounts and posting queues",
+        "Create, schedule, and publish posts to supported social networks",
+        "Inspect publishing results and retry failures"
+      ],
+      "interfaces": [
+        "MCP server"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/posteverywhere/mcp",
+          "repository_owner": "posteverywhere",
+          "repository_owner_url": "https://github.com/posteverywhere",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-10-03T20:25:34Z",
+          "repository_status": "active"
+        }
+      ]
+    },
+    {
+      "id": "pok-agent-760464e2",
+      "project": "POK-Agent",
+      "project_description": "POK-Agent is a Windows computer-use and coding agent that combines a planner with a fast screen-action model, verifies step outcomes, and can record and replay successful task sequences.",
+      "has_public_repository": true,
+      "categories": [
+        "Operating System (OS)",
+        "Local Inference"
+      ],
+      "capabilities": [
+        "Plan and execute computer-use tasks",
+        "Verify step outcomes and branch based on the screen",
+        "Record and replay successful motor programs"
+      ],
+      "interfaces": [
+        "Desktop app",
+        "Local model"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/Acekorneya/POK-Agent",
+          "repository_owner": "Acekorneya",
+          "repository_owner_url": "https://github.com/Acekorneya",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-10-03T20:25:35Z",
+          "repository_status": "active"
+        }
+      ]
+    },
+    {
+      "id": "skyvern-adcf28f6",
+      "project": "Skyvern",
+      "project_description": "Skyvern automates browser workflows with language models and computer vision, including logging into portals, filling forms, downloading user-requested files, and extracting structured data.",
+      "has_public_repository": true,
+      "categories": [
+        "Web Browsing Frameworks"
+      ],
+      "capabilities": [
+        "Automate browser workflows across websites without dedicated APIs",
+        "Fill forms, interact with portals, and extract structured data"
+      ],
+      "interfaces": [
+        "Web app",
+        "REST API",
+        "Python SDK",
+        "TypeScript SDK",
+        "CLI",
+        "MCP server"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/Skyvern-AI/skyvern",
+          "repository_owner": "Skyvern-AI",
+          "repository_owner_url": "https://github.com/Skyvern-AI",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-10-03T20:25:35Z",
+          "repository_status": "active"
+        }
+      ]
+    },
+    {
+      "id": "kith-14a88fd8",
+      "project": "kith",
+      "project_description": "kith gives multi-agent systems relationship memory: agents record scoped observations and derive trust, reliability, sentiment, and capability views with provenance.",
+      "has_public_repository": true,
+      "categories": [
+        "Long-Term Memory"
+      ],
+      "capabilities": [
+        "Record append-only observations about other principals",
+        "Derive trust, reliability, sentiment, and capability views",
+        "Enforce visibility scope across reads and derived views"
+      ],
+      "interfaces": [
+        "Python library",
+        "LangGraph adapter",
+        "MemoryProvider plugin",
+        "A2A integration"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/theNamek/kith",
+          "repository_owner": "theNamek",
+          "repository_owner_url": "https://github.com/theNamek",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-10-03T20:25:36Z",
+          "repository_status": "active"
+        }
+      ]
+    },
+    {
+      "id": "jes-022b49d2",
+      "project": "jes",
+      "project_description": "jes is an open-source guardrails library for checking agent inputs, retrieved content, tool calls, tool results, and responses for prompt injection, jailbreaks, and sensitive-data leaks.",
+      "has_public_repository": true,
+      "categories": [
+        "Safety Guardrails (Safeguarding)"
+      ],
+      "capabilities": [
+        "Check content at agent trust boundaries",
+        "Redact configured secrets and personal data locally",
+        "Block risky prompts and tool calls through coding-agent hooks"
+      ],
+      "interfaces": [
+        "Python library",
+        "Coding-agent hooks"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/everafterlabs/jes",
+          "repository_owner": "everafterlabs",
+          "repository_owner_url": "https://github.com/everafterlabs",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-10-03T20:25:37Z",
+          "repository_status": "active"
+        }
+      ]
+    },
+    {
+      "id": "bestax-mcp-286548a0",
+      "project": "bestax-mcp",
+      "project_description": "bestax-mcp is an offline MCP server that provides coding agents with Bestax React component APIs, examples, CSS variables, helper props, and task-specific skills.",
+      "has_public_repository": true,
+      "categories": [
+        "MCP Servers",
+        "UI Development"
+      ],
+      "capabilities": [
+        "Look up component props, examples, and CSS variables",
+        "Serve seven UI-development skills and their references offline"
+      ],
+      "interfaces": [
+        "MCP server"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/allxsmith/bestax",
+          "repository_owner": "allxsmith",
+          "repository_owner_url": "https://github.com/allxsmith",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-10-03T20:25:37Z",
+          "repository_status": "active"
+        }
+      ]
+    },
+    {
+      "id": "agent-argue-161b4ee6",
+      "project": "Agent Argue",
+      "project_description": "Agent Argue stages structured debates between language-model agents and turns them into balanced cards; code checks quoted concessions against the transcript before publication.",
+      "has_public_repository": true,
+      "categories": [
+        "AI Agents"
+      ],
+      "capabilities": [
+        "Generate fixed-beat debates between two agents",
+        "Create a summary card with positions, concessions, and unresolved points",
+        "Check quote provenance against speaker and transcript records"
+      ],
+      "interfaces": [
+        "Web app",
+        "CLI demo"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/empac666/agent-argue-cards",
+          "repository_owner": "empac666",
+          "repository_owner_url": "https://github.com/empac666",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-10-03T20:25:38Z",
+          "repository_status": "active"
+        }
+      ]
+    },
+    {
+      "id": "tale-6ea81dfa",
+      "project": "Tale",
+      "project_description": "Tale is a collaborative workspace where teams turn work into tasks, delegate tasks to configured agents in persistent sandbox workspaces, and review their reports and deliverables.",
+      "has_public_repository": true,
+      "categories": [
+        "AI Agents",
+        "Flow Engineering (Platform Engineering)"
+      ],
+      "capabilities": [
+        "Organize projects, tasks, acceptance criteria, and shared context",
+        "Delegate tasks to configured agent runtimes in sandbox workspaces",
+        "Review agent reports and deliverables collaboratively"
+      ],
+      "interfaces": [
+        "Web app",
+        "REST API",
+        "MCP endpoint"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/tale-project/tale",
+          "repository_owner": "tale-project",
+          "repository_owner_url": "https://github.com/tale-project",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-10-03T20:25:38Z",
+          "repository_status": "active"
+        }
+      ]
+    },
+    {
+      "id": "anus-08571b9e",
+      "project": "ANUS",
+      "project_description": "ANUS is an open-source terminal coding agent that reads code, edits files, runs commands, routes requests to available free models, and retries when a provider is rate-limited.",
+      "has_public_repository": true,
+      "categories": [
+        "AI Agents",
+        "Terminal-Friendly"
+      ],
+      "capabilities": [
+        "Read code, edit files, and run shell commands",
+        "Route requests to available free models",
+        "Retry on provider rate limits and show model availability"
+      ],
+      "interfaces": [
+        "Terminal UI",
+        "CLI"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/anus-dev/anus",
+          "repository_owner": "anus-dev",
+          "repository_owner_url": "https://github.com/anus-dev",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-10-03T20:25:39Z",
+          "repository_status": "active"
+        }
+      ]
+    },
+    {
+      "id": "call4me-37795fdc",
+      "project": "call4me",
+      "project_description": "call4me is a voice agent that places user-requested phone calls to businesses through an MCP server, navigates phone menus, and returns the call outcome and transcript.",
+      "has_public_repository": true,
+      "categories": [
+        "Phone Calling"
+      ],
+      "capabilities": [
+        "Place and schedule calls to businesses",
+        "Navigate phone menus and return transcripts and outcomes"
+      ],
+      "interfaces": [
+        "MCP server",
+        "Coding-agent integration"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/skeptrunedev/call4me",
+          "repository_owner": "skeptrunedev",
+          "repository_owner_url": "https://github.com/skeptrunedev",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-10-03T20:25:40Z",
+          "repository_status": "active"
+        }
+      ]
+    },
+    {
+      "id": "agent001-c2d1c3b8",
+      "project": "agent001",
+      "project_description": "agent001 is an open-source agent that uses its own wallet and credit line to borrow and repay USDG, sell an x402 API, and interact through CLI or Telegram.",
+      "has_public_repository": true,
+      "categories": [
+        "AI Agents"
+      ],
+      "capabilities": [
+        "Borrow and repay USDG through a credit line",
+        "Sell an x402 API and receive payments",
+        "Check counterparty repayment records",
+        "Run workflows against a local fork"
+      ],
+      "interfaces": [
+        "CLI",
+        "Telegram",
+        "MCP"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/priors-agents/agent001",
+          "repository_owner": "priors-agents",
+          "repository_owner_url": "https://github.com/priors-agents",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-10-03T20:25:40Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
