@@ -8123,7 +8123,11 @@
         {
           "source": "github",
           "source_url": "https://github.com/theNamek/kith",
-          "stars_last_updated": null
+          "repository_owner": "theNamek",
+          "repository_owner_url": "https://github.com/theNamek",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-10-03T20:25:36Z",
+          "repository_status": "active"
         }
       ]
     },
