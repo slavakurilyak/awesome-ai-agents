@@ -8180,7 +8180,11 @@
         {
           "source": "github",
           "source_url": "https://github.com/allxsmith/bestax",
-          "stars_last_updated": null
+          "repository_owner": "allxsmith",
+          "repository_owner_url": "https://github.com/allxsmith",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-10-03T20:25:37Z",
+          "repository_status": "active"
         }
       ]
     },
