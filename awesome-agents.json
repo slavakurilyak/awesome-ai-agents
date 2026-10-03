@@ -8030,7 +8030,11 @@
         {
           "source": "github",
           "source_url": "https://github.com/posteverywhere/mcp",
-          "stars_last_updated": null
+          "repository_owner": "posteverywhere",
+          "repository_owner_url": "https://github.com/posteverywhere",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-10-03T20:25:34Z",
+          "repository_status": "active"
         }
       ]
     },
