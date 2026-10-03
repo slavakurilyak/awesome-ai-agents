@@ -8152,7 +8152,11 @@
         {
           "source": "github",
           "source_url": "https://github.com/everafterlabs/jes",
-          "stars_last_updated": null
+          "repository_owner": "everafterlabs",
+          "repository_owner_url": "https://github.com/everafterlabs",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-10-03T20:25:37Z",
+          "repository_status": "active"
         }
       ]
     },
