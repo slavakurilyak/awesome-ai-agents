@@ -8298,7 +8298,11 @@
         {
           "source": "github",
           "source_url": "https://github.com/skeptrunedev/call4me",
-          "stars_last_updated": null
+          "repository_owner": "skeptrunedev",
+          "repository_owner_url": "https://github.com/skeptrunedev",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-10-03T20:25:40Z",
+          "repository_status": "active"
         }
       ]
     },
