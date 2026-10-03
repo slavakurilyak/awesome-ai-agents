@@ -33,7 +33,7 @@ According to [Andrew Ng (@andrewyng)](https://github.com/andrewyng):
 
 ## 📈 Star Growth
 
-Projects are ranked by stars gained in each window; the percentage shows growth relative to the starting star count. “Today” compares consecutive daily snapshots; 7d and 30d use rolling windows. These rankings exclude the top 10 projects by total stars and projects with fewer than 100 stars. Results appear as the daily history fills in.
+Projects are ranked by stars gained in each window; the percentage shows growth relative to the starting star count. “Today” ranks gains since the previous saved update; each entry labels the actual comparison interval when updates are more than a day apart. If no positive gains can be measured, it lists the current top projects by stars. Growth rankings exclude the top 10 projects by total stars and projects with fewer than 100 stars. The 7d and 30d rankings use rolling windows; unavailable windows show the recorded snapshot dates and the baseline needed for comparison.
 
 ### Today
 

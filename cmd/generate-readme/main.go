@@ -26,6 +26,9 @@ type growth struct {
 	Delta, Days int
 	Relative    float64
 }
+
+const latestGrowthWindow = 0
+
 type emojiFile struct {
 	CategoryEmojis map[string]string `yaml:"category_emojis"`
 }
@@ -300,7 +303,11 @@ func projectGrowth(p projectdata.Project, h map[string][]projectdata.HistoryRow,
 	if e != nil {
 		return nil
 	}
-	target := latest.AddDate(0, 0, -days)
+	lookback := days
+	if days == latestGrowthWindow {
+		lookback = 1
+	}
+	target := latest.AddDate(0, 0, -lookback)
 	base := -1
 	for i := 0; i < len(rows)-1; i++ {
 		d, e := time.Parse("2006-01-02", rows[i].Date)
@@ -316,11 +323,17 @@ func projectGrowth(p projectdata.Project, h map[string][]projectdata.HistoryRow,
 		return nil
 	}
 	elapsed := int(latest.Sub(prev).Hours() / 24)
+	// The latest-update ranking allows gaps and labels the actual elapsed days.
 	maxElapsed := days + 2
 	if days == 1 {
 		maxElapsed = 1
 	}
-	if elapsed > maxElapsed {
+	if days != latestGrowthWindow {
+		if elapsed > maxElapsed {
+			return nil
+		}
+	}
+	if elapsed < 1 {
 		return nil
 	}
 	delta := *rows[len(rows)-1].Stars - *rows[base].Stars
@@ -353,7 +366,11 @@ func risingProjects(d projectdata.Data, exclude map[string]bool, h map[string][]
 		if exclude[strings.ToLower(p.Project)] || stars(p) < 100 {
 			continue
 		}
-		g := projectGrowth(p, h, days)
+		window := days
+		if days == 1 {
+			window = latestGrowthWindow
+		}
+		g := projectGrowth(p, h, window)
 		if g != nil && g.Delta > 0 {
 			all = append(all, item{p, g})
 		}
@@ -430,10 +447,50 @@ func renderGrowthList(data projectdata.Data, top []item, history map[string][]pr
 	if len(items) > 0 {
 		return renderList(items, history)
 	}
+	if days == 1 {
+		if len(top) == 0 {
+			top, _ = topProjects(data)
+		}
+		return "<p><em>Top projects by current stars in the latest update:</em></p>\n" + renderList(top, history)
+	}
 	if !hasGrowthBaseline(data, history, days) {
-		return "<p><em>Collecting daily snapshots; this window will appear when enough history is available.</em></p>"
+		return renderMissingGrowthBaseline(data, history, days)
 	}
 	return "<p><em>No positive star growth found for this window among eligible projects.</em></p>"
+}
+
+func renderMissingGrowthBaseline(data projectdata.Data, history map[string][]projectdata.HistoryRow, days int) string {
+	var earliest, latest time.Time
+	for _, project := range data.Agents {
+		source := github(project)
+		if source == nil {
+			continue
+		}
+		for _, row := range history[repoKey(source.SourceURL)] {
+			date, err := time.Parse("2006-01-02", row.Date)
+			if err != nil {
+				continue
+			}
+			if earliest.IsZero() {
+				earliest = date
+			} else if date.Before(earliest) {
+				earliest = date
+			}
+			if date.After(latest) {
+				latest = date
+			}
+		}
+	}
+	if latest.IsZero() {
+		return fmt.Sprintf("<p><em>No %d-day comparison is available: no usable star snapshots have been recorded.</em></p>", days)
+	}
+	target := latest.AddDate(0, 0, -days)
+	baseline := "on " + target.Format("2006-01-02")
+	if days > 1 {
+		baseline = "between " + target.AddDate(0, 0, -2).Format("2006-01-02") + " and " + target.Format("2006-01-02")
+	}
+	return fmt.Sprintf("<p><em>No %d-day comparison is available. Recorded snapshots span %s to %s; a comparison ending %s needs a baseline snapshot %s.</em></p>",
+		days, earliest.Format("2006-01-02"), latest.Format("2006-01-02"), latest.Format("2006-01-02"), baseline)
 }
 
 func renderSections(d projectdata.Data, em map[string]string, h map[string][]projectdata.HistoryRow, credits contributions.Data) string {
