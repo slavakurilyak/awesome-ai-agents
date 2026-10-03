@@ -44,6 +44,8 @@ Use an existing category from `awesome-categories.yaml`. Describe observable cap
 go run ./cmd/contributions assign-ids
 go run ./cmd/verify-forge-repositories --project "Project name"
 go run ./cmd/validate-data --project "Project name"
+go run ./cmd/contributions record-direct-pr --project "Project name" --pr <pull-request-number>
+go run ./cmd/contributions validate --project "Project name"
 go run ./cmd/contributions validate
 go run ./cmd/generate-readme
 ```
@@ -54,7 +56,9 @@ Maintainers make the final inclusion and categorization decision after reviewing
 
 ## Contribution credit
 
-Every listing shows **Submitted by** and **Maintained by**. Where a role has not yet been established, the README says so explicitly; that does not mean the project has no submitter or maintainer. For a direct addition PR with no earlier issue or PR submission, the PR author is the submitter. When a maintainer authors a follow-up catalog PR for an earlier submission, credit the original issue/PR author instead. Founder/team relationships reported by the submitter are labeled self-reported. Maintainer credit needs an explicit claim in a public project source, such as a maintainer roster or direct maintainer statement; claims without independent project evidence are labeled self-reported. Repository ownership is read from verified forge metadata when available and does not establish maintainer status. Keep project IDs unchanged when project names or repository owners change. Historical candidates come from `go run ./cmd/contributions backfill`; review them before editing `contributions.json`.
+Every new listing needs a `submitted_by` record in `contributions.json` before merge. For a direct-addition PR with no earlier issue or PR submission, the PR author is the submitter. The maintainer records that credit from GitHub's PR author metadata; contributors do not need to type or guess their own GitHub username or numeric account ID. From a checkout containing the project, run `go run ./cmd/contributions record-direct-pr --project "Project name" --pr <pull-request-number>`; this fetches the open PR's author and account ID and records the PR as both submission and acceptance evidence. Then run `go run ./cmd/contributions validate --project "Project name"`. Do not use this command for a follow-up catalog PR when an earlier issue or PR is the original submission: credit that original submitter instead, using the reviewed backfill/import workflow. A direct addition PR must not be merged while its submitter is missing.
+
+Every listing shows **Submitted by** and **Maintained by**. Where a role has not yet been established, the README says so explicitly; that does not mean the project has no submitter or maintainer. Founder/team relationships reported by the submitter are labeled self-reported. Maintainer credit needs an explicit claim in a public project source, such as a maintainer roster or direct maintainer statement; claims without independent evidence are labeled self-reported. Repository ownership is read from verified forge metadata when available and does not establish maintainer status. Keep project IDs unchanged when project names or repository owners change. Historical candidates come from `go run ./cmd/contributions backfill`; review them before editing `contributions.json`.
 
 ## Maintainer review
 

@@ -1,7 +1,7 @@
 ## Contribution checklist
 
 - [ ] I reviewed the [contribution guide](https://github.com/slavakurilyak/awesome-ai-agents/blob/main/CONTRIBUTING.md).
-- [ ] For each new project, I assigned its stable ID and ran `go run ./cmd/verify-forge-repositories --project "Project name"`, `go run ./cmd/validate-data --project "Project name"`, `go run ./cmd/contributions validate`, and `go run ./cmd/generate-readme`.
+- [ ] For each new project, I assigned its stable ID and ran `go run ./cmd/verify-forge-repositories --project "Project name"`, `go run ./cmd/validate-data --project "Project name"`, `go run ./cmd/contributions validate --project "Project name"`, `go run ./cmd/contributions validate`, and `go run ./cmd/generate-readme`. The maintainer records and verifies the submitter from GitHub PR metadata before merge.
 - [ ] Every third-party project added has a direct public repository on GitHub, GitLab.com, or Codeberg; no particular license is required.
 - [ ] Every third-party project added has at least one substantive, non-automated commit to its default branch within the six months before review.
 - [ ] I used the optional [Awesome AI Agents Curation skill](https://github.com/slavakurilyak/awesome-ai-agents/tree/main/skills/awesome-ai-agents-curation) to prepare or review this contribution.
@@ -21,12 +21,12 @@ For project submissions, link the project's direct public repository on GitHub, 
 
 If this PR intentionally changes the public skill, explain why and summarize the change. Leave this section blank otherwise.
 
-## Contribution credit (optional for project submissions)
+## Contribution credit (required for project submissions)
 
-- Original submission issue or pull request (if different from this PR):
-- Submitted by (GitHub username; for a direct addition PR, this is the PR author):
+- Original submission issue or pull request (if different from this PR; link the source):
+- Submitted by: automatic from this PR's GitHub author for a direct addition; otherwise link the original submission:
 - Founder or team member (self-reported): yes / no / not stated
 - Current maintainer(s), if known:
 - Public evidence identifying current maintainer(s), if available:
 
-Credit is recorded after the project is accepted. For a direct addition PR, the PR author is the submitter and the PR is both the submission and acceptance evidence. For an issue or earlier-PR submission, credit that original author and link the original submission and accepting catalog PR. Do not infer submitter from a follow-up catalog-edit PR's author or maintainer from repository ownership. Founder/team claims without independent evidence are labeled self-reported; maintainer claims without independent evidence are labeled self-reported too.
+Every new project needs a `submitted_by` record before merge. For direct additions, the maintainer runs `go run ./cmd/contributions record-direct-pr --project "Project name" --pr <pull-request-number>` to copy the author and numeric account ID from GitHub PR metadata; contributors do not need to enter those values. For an issue or earlier-PR submission, credit that original author instead. Do not infer submitter from a follow-up catalog-edit PR's author or maintainer from repository ownership. Founder/team claims without independent evidence are labeled self-reported; maintainer claims without independent evidence are labeled self-reported too.
