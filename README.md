@@ -20,7 +20,7 @@ Listings require a public project repository on GitHub, GitLab.com, or Codeberg.
 Pick a category, open it, and choose a project to jump straight to its listing. A project with more than one category appears under each of them.
 
 <details>
-<summary>🤖 AI Agents (99)</summary>
+<summary>🤖 AI Agents (103)</summary>
 <ul>
 <li><a href="#agent-007">Agent 007</a></li>
 <li><a href="#agent-argue">Agent Argue</a></li>
@@ -57,11 +57,13 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 <li><a href="#continue">Continue</a></li>
 <li><a href="#corellis">Corellis</a></li>
 <li><a href="#corvinos">CorvinOS</a></li>
+<li><a href="#covey">covey</a></li>
 <li><a href="#cryptoguard">CryptoGuard</a></li>
 <li><a href="#cycles">Cycles</a></li>
 <li><a href="#devid-by-agency-swarm">Devid by Agency Swarm</a></li>
 <li><a href="#dorothy">Dorothy</a></li>
 <li><a href="#due-diligence-agents">Due Diligence Agents</a></li>
+<li><a href="#eliaagent">EliaAgent</a></li>
 <li><a href="#evo-ai">EVO-AI</a></li>
 <li><a href="#fazm">Fazm</a></li>
 <li><a href="#flow-weaver">Flow Weaver</a></li>
@@ -95,6 +97,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 <li><a href="#openhands-formerly-opendevin">OpenHands (formerly OpenDevin)</a></li>
 <li><a href="#opentwins">OpenTwins</a></li>
 <li><a href="#opus-manager">Opus Manager</a></li>
+<li><a href="#orbi">Orbi</a></li>
 <li><a href="#orkas">Orkas</a></li>
 <li><a href="#overloop-cli">Overloop CLI</a></li>
 <li><a href="#polymind">PolyMind</a></li>
@@ -109,6 +112,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 <li><a href="#screenpipe">Screenpipe</a></li>
 <li><a href="#smartipedia">Smartipedia</a></li>
 <li><a href="#solveathome">solveathome</a></li>
+<li><a href="#somora">somora</a></li>
 <li><a href="#storyroute">StoryRoute</a></li>
 <li><a href="#strata">Strata</a></li>
 <li><a href="#synapse-messenger">Synapse Messenger</a></li>
@@ -125,11 +129,13 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 </details>
 
 <details>
-<summary>🧠 Long-Term Memory (22)</summary>
+<summary>🧠 Long-Term Memory (25)</summary>
 <ul>
+<li><a href="#agent-body">Agent-Body</a></li>
 <li><a href="#contextstream">ContextStream</a></li>
 <li><a href="#corellis">Corellis</a></li>
 <li><a href="#cortex-memory">Cortex Memory</a></li>
+<li><a href="#eliaagent">EliaAgent</a></li>
 <li><a href="#hermes-agent">Hermes Agent</a></li>
 <li><a href="#hyperconsciousness">Hyperconsciousness</a></li>
 <li><a href="#kith">kith</a></li>
@@ -145,6 +151,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 <li><a href="#remembra">Remembra</a></li>
 <li><a href="#sage">SAGE</a></li>
 <li><a href="#screenpipe">Screenpipe</a></li>
+<li><a href="#somora">somora</a></li>
 <li><a href="#sonzai-go-sdk">Sonzai Go SDK</a></li>
 <li><a href="#teamhero">TeamHero</a></li>
 <li><a href="#tree-ring-memory-framework">Tree Ring Memory Framework</a></li>
@@ -153,12 +160,13 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 </details>
 
 <details>
-<summary>⚙️ Development Frameworks (86)</summary>
+<summary>⚙️ Development Frameworks (89)</summary>
 <ul>
 <li><a href="#agency-swarm-by-vrsen">Agency Swarm by VRSEN</a></li>
 <li><a href="#agent-express">Agent Express</a></li>
 <li><a href="#agent-reach">Agent Reach</a></li>
 <li><a href="#agent-skills-runtime-orca">Agent Skills Runtime (ORCA)</a></li>
+<li><a href="#agent-body">Agent-Body</a></li>
 <li><a href="#agentbox">AgentBox</a></li>
 <li><a href="#agentfield">AgentField</a></li>
 <li><a href="#agentos">AgentOS</a></li>
@@ -210,6 +218,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 <li><a href="#mastra">Mastra</a></li>
 <li><a href="#melaya-sdks">Melaya SDKs</a></li>
 <li><a href="#microsoft-agent-framework">Microsoft Agent Framework</a></li>
+<li><a href="#myspec-claude-code-plugins">MySpec Claude Code Plugins</a></li>
 <li><a href="#n3rv-formerly-nerv">n3rv (formerly NERV)</a></li>
 <li><a href="#nexus-agent">Nexus-Agent</a></li>
 <li><a href="#octomind">Octomind</a></li>
@@ -218,6 +227,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 <li><a href="#okto-pulse">Okto-Pulse</a></li>
 <li><a href="#openagents">OpenAgents</a></li>
 <li><a href="#openai-agents-sdk">OpenAI Agents SDK</a></li>
+<li><a href="#orbi">Orbi</a></li>
 <li><a href="#orch">ORCH</a></li>
 <li><a href="#praisonai">PraisonAI</a></li>
 <li><a href="#promptise-foundry">Promptise Foundry</a></li>
@@ -291,7 +301,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 </details>
 
 <details>
-<summary>💻 Local Inference (9)</summary>
+<summary>💻 Local Inference (10)</summary>
 <ul>
 <li><a href="#atomic-agent">Atomic Agent</a></li>
 <li><a href="#corvinos">CorvinOS</a></li>
@@ -302,6 +312,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 <li><a href="#pok-agent">POK-Agent</a></li>
 <li><a href="#privategpt">PrivateGPT</a></li>
 <li><a href="#screenpipe">Screenpipe</a></li>
+<li><a href="#somora">somora</a></li>
 </ul>
 </details>
 
@@ -404,9 +415,10 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 </details>
 
 <details>
-<summary>🔧 Tool Calling (Function Calling) (21)</summary>
+<summary>🔧 Tool Calling (Function Calling) (24)</summary>
 <ul>
 <li><a href="#agent-trust-stack-mcp-server">Agent Trust Stack MCP Server</a></li>
+<li><a href="#agent-body">Agent-Body</a></li>
 <li><a href="#ai-for-database-mcp-server">AI for Database MCP Server</a></li>
 <li><a href="#aigen-protocol">AIGEN Protocol</a></li>
 <li><a href="#arch-tools">Arch Tools</a></li>
@@ -419,10 +431,12 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 <li><a href="#github-mcp-server">GitHub MCP Server</a></li>
 <li><a href="#kubestellar-console">KubeStellar Console</a></li>
 <li><a href="#model-context-protocol">Model Context Protocol</a></li>
+<li><a href="#myspec-claude-code-plugins">MySpec Claude Code Plugins</a></li>
 <li><a href="#openagent">OpenAgent</a></li>
 <li><a href="#operant-mcp">Operant MCP</a></li>
 <li><a href="#prismfy-wizard">Prismfy Wizard</a></li>
 <li><a href="#routeweiler">Routeweiler</a></li>
+<li><a href="#sato-hub">Sato Hub</a></li>
 <li><a href="#stipendsh">stipend.sh</a></li>
 <li><a href="#strata">Strata</a></li>
 <li><a href="#unified-ai-system">Unified AI System</a></li>
@@ -466,8 +480,9 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 </details>
 
 <details>
-<summary>🔄 Flow Engineering (Platform Engineering) (4)</summary>
+<summary>🔄 Flow Engineering (Platform Engineering) (5)</summary>
 <ul>
+<li><a href="#covey">covey</a></li>
 <li><a href="#dspy">DSPY</a></li>
 <li><a href="#maestro">Maestro</a></li>
 <li><a href="#rote">rote</a></li>
@@ -504,7 +519,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 </details>
 
 <details>
-<summary>👤 Personal Assistants (11)</summary>
+<summary>👤 Personal Assistants (12)</summary>
 <ul>
 <li><a href="#cogito-studio">Cogito Studio</a></li>
 <li><a href="#hermes-agent-chinese-pack">Hermes Agent Chinese Pack</a></li>
@@ -516,12 +531,13 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 <li><a href="#opentwins">OpenTwins</a></li>
 <li><a href="#personaljarvis">PersonalJarvis</a></li>
 <li><a href="#screenpipe">Screenpipe</a></li>
+<li><a href="#somora">somora</a></li>
 <li><a href="#thursday">Thursday</a></li>
 </ul>
 </details>
 
 <details>
-<summary>🔌 MCP Servers (20)</summary>
+<summary>🔌 MCP Servers (21)</summary>
 <ul>
 <li><a href="#agentservices">AgentServices</a></li>
 <li><a href="#ai-for-database-mcp-server">AI for Database MCP Server</a></li>
@@ -538,6 +554,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 <li><a href="#playwright-mcp">Playwright MCP</a></li>
 <li><a href="#posteverywhere">PostEverywhere</a></li>
 <li><a href="#salt-mcp">Salt MCP</a></li>
+<li><a href="#sato-hub">Sato Hub</a></li>
 <li><a href="#serena">Serena</a></li>
 <li><a href="#since-cutoff">since-cutoff</a></li>
 <li><a href="#snaprender">SnapRender</a></li>
@@ -568,19 +585,30 @@ According to [Andrew Ng (@andrewyng)](https://github.com/andrewyng):
 
 ## 📈 Star Growth
 
-Projects are ranked by stars gained in each window; the percentage shows growth relative to the starting star count. “Today” compares consecutive daily snapshots; 7d and 30d use rolling windows. These rankings exclude the top 10 projects by total stars and projects with fewer than 100 stars. Results appear as the daily history fills in.
+Projects are ranked by stars gained in each window; the percentage shows growth relative to the starting star count. “Today” ranks gains since the previous saved update; each entry labels the actual comparison interval when updates are more than a day apart. If no positive gains can be measured, it lists the current top projects by stars. Growth rankings exclude the top 10 projects by total stars and projects with fewer than 100 stars. The 7d and 30d rankings use rolling windows; unavailable windows show the recorded snapshot dates and the baseline needed for comparison.
 
 ### Today
 
-<p><em>Collecting daily snapshots; this window will appear when enough history is available.</em></p>
+<ol>
+<li><a href="https://github.com/mem0ai/mem0"><strong>mem0</strong></a> - 66,339 stars · 5d +328 stars (+0.5%)<br>Mem0 is an intelligent memory layer for Large Language Models that enhances personalized AI experiences by retaining and utilizing contextual information across various applications.</li>
+<li><a href="https://github.com/cline/cline"><strong>Cline</strong></a> - 69,587 stars · 5d +275 stars (+0.4%)<br>Cline is an open-source coding agent available in IDEs, terminals, and desktop, where it can plan and carry out software development tasks with user control.</li>
+<li><a href="https://github.com/BerriAI/litellm"><strong>LiteLLM</strong></a> - 59,897 stars · 5d +269 stars (+0.5%)<br>LiteLLM has added support for the OpenAI Assistants API, enabling seamless integration of stateful operations and automatic RAG pipelines into existing chatbots</li>
+<li><a href="https://github.com/topoteretes/cognee"><strong>Cognee</strong></a> - 31,231 stars · 5d +246 stars (+0.8%)<br>Cognee is an open-source framework aimed at simplifying data processing for large language models (LLMs) by creating knowledge graphs and data models, offering tools for information addition, knowledge creation, and similarity-based search</li>
+<li><a href="https://github.com/unclecode/crawl4ai"><strong>Crawl4AI</strong></a> - 84,510 stars · 5d +245 stars (+0.3%)<br>Crawl4AI is an open-source web crawler that produces Markdown and structured data for AI applications.</li>
+<li><a href="https://github.com/langchain-ai/langgraph"><strong>LangGraph</strong></a> - 42,493 stars · 5d +205 stars (+0.5%)<br>LangGraph is a Python library facilitating the construction of stateful, multi-actor applications with LLMs, enabling cyclic coordination across multiple computation steps, particularly suited for agent-like behaviors, while also providing streaming support, and various guides and examples for implementation and usage</li>
+<li><a href="https://github.com/assafelovic/gpt-researcher"><strong>GPT Researcher by Tavily</strong></a> - 29,822 stars · 5d +199 stars (+0.7%)<br>GPT Researcher is an AI-powered autonomous agent designed for efficient and unbiased online research, generating detailed reports by leveraging recent advancements in AI and web scraping, with a focus on speed, reliability, and cost-effectiveness</li>
+<li><a href="https://github.com/crewAIInc/crewAI"><strong>crewAI by João Moura</strong></a> - 59,201 stars · 5d +181 stars (+0.3%)<br>crewAI is a cutting-edge AI framework designed for orchestrating role-playing, autonomous AI agents, enabling seamless collaboration and complex task handling</li>
+<li><a href="https://github.com/langfuse/langfuse"><strong>LangFuse</strong></a> - 35,216 stars · 5d +165 stars (+0.5%)<br>Langfuse, an open-source LLM engineering platform, offers debugging, prompt management, metrics for LLM apps improvement, and won the #1 Golden Kitty in the AI Infra Category from Product Hunt</li>
+<li><a href="https://github.com/strands-agents/harness-sdk"><strong>Strands Agents</strong></a> - 8,573 stars · 5d +159 stars (+1.9%)<br>AWS's model-driven SDK for building agents that use tools through a model-directed loop.</li>
+</ol>
 
 ### This Week (7 days)
 
-<p><em>Collecting daily snapshots; this window will appear when enough history is available.</em></p>
+<p><em>No 7-day comparison is available. Recorded snapshots span 2026-09-24 to 2026-09-30; a comparison ending 2026-09-30 needs a baseline snapshot between 2026-09-21 and 2026-09-23.</em></p>
 
 ### This Month (30 days)
 
-<p><em>Collecting daily snapshots; this window will appear when enough history is available.</em></p>
+<p><em>No 30-day comparison is available. Recorded snapshots span 2026-09-24 to 2026-09-30; a comparison ending 2026-09-30 needs a baseline snapshot between 2026-08-29 and 2026-08-31.</em></p>
 
 ## 🏆 Top 10 Projects by Total Stars
 
@@ -750,6 +778,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/alexfleetcommander/agent-trust-stack-mcp">github</a></p>
 <p><strong>Capabilities:</strong> Record agent activity in verifiable hash chains · Anchor chain hashes for external timestamping and verify chain integrity · Check agent identity and submit or retrieve reputation ratings</p>
 <p><strong>Interfaces:</strong> MCP server · Python package</p>
+</div>
+
+### Agent-Body
+<div><a href="https://github.com/1420079678-ctrl/agent-body"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/1420079678-ctrl/agent-body"><img src="https://img.shields.io/github/stars/1420079678-ctrl/agent-body?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/1420079678-ctrl">@1420079678-ctrl</a> <small>(self-reported founder/team)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/668">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/696">accepted PR</a> · <strong>Maintained by:</strong> <a href="https://github.com/1420079678-ctrl">@1420079678-ctrl</a> <small>(self-reported)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/668">evidence</a> · <strong>Repository owner:</strong> <a href="https://github.com/1420079678-ctrl">@1420079678-ctrl</a></p>
+<p>⚙️ Development Frameworks | 🧠 Long-Term Memory | 🔧 Tool Calling (Function Calling)</p>
+
+<p>A plugin layer for DeepSeek Harness that routes intent to tools, gates unused tool schemas, and adds persistent memory, event-triggered reflexes, and recovery behavior.</p>
+
+<p><a href="https://github.com/1420079678-ctrl/agent-body">github</a></p>
 </div>
 
 ### agent-kit
@@ -1688,6 +1726,16 @@ Here's an awesome list of AI agents:
 <p><strong>Interfaces:</strong> CLI · Local socket API</p>
 </div>
 
+### covey
+<div><a href="https://github.com/benjaminLedel/covey"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/benjaminLedel/covey"><img src="https://img.shields.io/github/stars/benjaminLedel/covey?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/benjaminLedel">@benjaminLedel</a> <small>(self-reported founder/team)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/670">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/696">accepted PR</a> · <strong>Maintained by:</strong> <a href="https://github.com/benjaminLedel">@benjaminLedel</a> <small>(self-reported)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/670">evidence</a> · <strong>Repository owner:</strong> <a href="https://github.com/benjaminLedel">@benjaminLedel</a></p>
+<p>🤖 AI Agents | 🔄 Flow Engineering (Platform Engineering)</p>
+
+<p>A self-hosted platform for organizational AI agents with isolated sandboxes, per-agent credentials, backlogs and wake sources, human approvals, run logs, and cost tracking.</p>
+
+<p><a href="https://github.com/benjaminLedel/covey">github</a></p>
+</div>
+
 ### CoWorker Protocol
 <div><a href="https://github.com/ZiwayZhao/agent-coworker"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/ZiwayZhao/agent-coworker"><img src="https://img.shields.io/github/stars/ZiwayZhao/agent-coworker?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/ZiwayZhao">@ZiwayZhao</a></p>
@@ -1865,6 +1913,16 @@ Here's an awesome list of AI agents:
 <p>Open-source agent skills and a lightweight MCP stdio bridge for Edgrapi’s hosted API, which returns normalized SEC and US government data as JSON.</p>
 
 <p><a href="https://github.com/paperandbeyond23-gif/edgrapi-skills">github</a></p>
+</div>
+
+### EliaAgent
+<div><a href="https://github.com/vakandi/EliaAgent"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/vakandi/EliaAgent"><img src="https://img.shields.io/github/stars/vakandi/EliaAgent?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/vakandi">@vakandi</a> <small>(self-reported founder/team)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/678">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/696">accepted PR</a> · <strong>Maintained by:</strong> <a href="https://github.com/vakandi">@vakandi</a> <small>(self-reported)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/678">evidence</a> · <strong>Repository owner:</strong> <a href="https://github.com/vakandi">@vakandi</a></p>
+<p>🤖 AI Agents | 🧠 Long-Term Memory</p>
+
+<p>An OpenCode-based runtime for scheduled, persistent subagents, each with an isolated workspace, plus fleet status, streaming logs, retries, and restart handling.</p>
+
+<p><a href="https://github.com/vakandi/EliaAgent">github</a></p>
 </div>
 
 ### EVO-AI
@@ -2765,6 +2823,16 @@ Here's an awesome list of AI agents:
 <p><strong>Interfaces:</strong> Python SDK · TypeScript SDK · Elixir SDK · C SDK · WebAssembly</p>
 </div>
 
+### MySpec Claude Code Plugins
+<div><a href="https://github.com/myspecs/claude-plugins"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/myspecs/claude-plugins"><img src="https://img.shields.io/github/stars/myspecs/claude-plugins?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/myspec-dev1">@myspec-dev1</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/692">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/696">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/myspecs">@myspecs</a></p>
+<p>⚙️ Development Frameworks | 🔧 Tool Calling (Function Calling)</p>
+
+<p>MySpec ships Claude Code plugins that connect an MCP server to spec-driven development and a manager plugin that plans task waves, dispatches worker sessions, verifies their pull requests, and gates merges.</p>
+
+<p><a href="https://github.com/myspecs/claude-plugins">github</a></p>
+</div>
+
 ### Mysti
 <div><a href="https://github.com/DeepMyst/Mysti"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/DeepMyst/Mysti"><img src="https://img.shields.io/github/stars/DeepMyst/Mysti?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/DeepMyst">@DeepMyst</a></p>
@@ -3118,6 +3186,16 @@ Here's an awesome list of AI agents:
 <p><strong>Interfaces:</strong> Claude Code skill · CLI</p>
 </div>
 
+### Orbi
+<div><a href="https://github.com/orbi-build/orbi"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/orbi-build/orbi"><img src="https://img.shields.io/github/stars/orbi-build/orbi?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/xqliu">@xqliu</a> <small>(self-reported founder/team)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/684">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/696">accepted PR</a> · <strong>Maintained by:</strong> <a href="https://github.com/xqliu">@xqliu</a> <small>(self-reported)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/684">evidence</a> · <strong>Repository owner:</strong> <a href="https://github.com/orbi-build">@orbi-build</a></p>
+<p>🤖 AI Agents | ⚙️ Development Frameworks</p>
+
+<p>A self-hosted coding agent that takes labeled GitHub issues through planning and implementation, opens pull requests, checks changes against acceptance criteria, and merges when configured gates pass.</p>
+
+<p><a href="https://github.com/orbi-build/orbi">github</a></p>
+</div>
+
 ### OrcaReplay
 <div><a href="https://github.com/Continuum-AI-Corp/OrcaReplay"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Continuum-AI-Corp/OrcaReplay"><img src="https://img.shields.io/github/stars/Continuum-AI-Corp/OrcaReplay?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/xizhuomengcontin">@xizhuomengcontin</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/625">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/648">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/Continuum-AI-Corp">@Continuum-AI-Corp</a></p>
@@ -3463,6 +3541,16 @@ Here's an awesome list of AI agents:
 <p><strong>Interfaces:</strong> CLI · MCP · Local web console</p>
 </div>
 
+### Sato Hub
+<div><a href="https://github.com/satohubai/sato-hub-skill"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/satohubai/sato-hub-skill"><img src="https://img.shields.io/github/stars/satohubai/sato-hub-skill?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/satohubai">@satohubai</a> <small>(self-reported founder/team)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/669">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/696">accepted PR</a> · <strong>Maintained by:</strong> <a href="https://github.com/satohubai">@satohubai</a> <small>(self-reported)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/669">evidence</a> · <strong>Repository owner:</strong> <a href="https://github.com/satohubai">@satohubai</a></p>
+<p>🔌 MCP Servers | 🔧 Tool Calling (Function Calling)</p>
+
+<p>A hosted MCP server and agent skill for searching an index of onchain-agent tooling and checking package reports about key access, key egress, and fund actions before installation. Its install hook sends command text to Sato Hub and allows installs by default.</p>
+
+<p><a href="https://github.com/satohubai/sato-hub-skill">github</a></p>
+</div>
+
 ### Sayna
 <div><a href="https://github.com/SaynaAI/sayna"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/SaynaAI/sayna"><img src="https://img.shields.io/github/stars/SaynaAI/sayna?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/SaynaAI">@SaynaAI</a></p>
@@ -3610,6 +3698,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/solveathome/platform">github</a></p>
 <p><strong>Capabilities:</strong> Coordinate agents such as Claude Code, Codex or any agent that can fetch a URL on one open research problem · Have other contributors agents check each result, with trusted reviewers deciding acceptance by one vote per person · Publish every result, review and transcript, and trace credit through the citation chain</p>
 <p><strong>Interfaces:</strong> HTTP API · Web UI</p>
+</div>
+
+### somora
+<div><a href="https://github.com/thenaxon/somora_agent"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/thenaxon/somora_agent"><img src="https://img.shields.io/github/stars/thenaxon/somora_agent?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/thenaxon">@thenaxon</a> <small>(self-reported founder/team)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/690">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/696">accepted PR</a> · <strong>Maintained by:</strong> <a href="https://github.com/thenaxon">@thenaxon</a> <small>(self-reported)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/issues/690">evidence</a> · <strong>Repository owner:</strong> <a href="https://github.com/thenaxon">@thenaxon</a></p>
+<p>🤖 AI Agents | 💻 Local Inference | 🧠 Long-Term Memory | 👤 Personal Assistants</p>
+
+<p>A self-hosted server for personal AI agents with persistent private memory, shared wiki, delegated agents, scheduled work, and web, shell, and browser tools across terminal, browser, and mobile clients.</p>
+
+<p><a href="https://github.com/thenaxon/somora_agent">github</a></p>
 </div>
 
 ### Sonzai Go SDK
