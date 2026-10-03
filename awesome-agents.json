@@ -8336,6 +8336,156 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "id": "myspec-claude-code-plugins-e96f13bb",
+      "project": "MySpec Claude Code Plugins",
+      "project_description": "MySpec ships Claude Code plugins that connect an MCP server to spec-driven development and a manager plugin that plans task waves, dispatches worker sessions, verifies their pull requests, and gates merges.",
+      "has_public_repository": true,
+      "categories": [
+        "Development Frameworks",
+        "Tool Calling (Function Calling)"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/myspecs/claude-plugins",
+          "repository_owner": "myspecs",
+          "repository_owner_url": "https://github.com/myspecs",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-10-03T20:52:18Z",
+          "repository_status": "active"
+        }
+      ]
+    },
+    {
+      "id": "somora-18b232c8",
+      "project": "somora",
+      "project_description": "A self-hosted server for personal AI agents with persistent private memory, shared wiki, delegated agents, scheduled work, and web, shell, and browser tools across terminal, browser, and mobile clients.",
+      "has_public_repository": true,
+      "categories": [
+        "AI Agents",
+        "Long-Term Memory",
+        "Local Inference",
+        "Personal Assistants"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/thenaxon/somora_agent",
+          "repository_owner": "thenaxon",
+          "repository_owner_url": "https://github.com/thenaxon",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-10-03T20:52:19Z",
+          "repository_status": "active"
+        }
+      ]
+    },
+    {
+      "id": "orbi-92c91332",
+      "project": "Orbi",
+      "project_description": "A self-hosted coding agent that takes labeled GitHub issues through planning and implementation, opens pull requests, checks changes against acceptance criteria, and merges when configured gates pass.",
+      "has_public_repository": true,
+      "categories": [
+        "AI Agents",
+        "Development Frameworks"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/orbi-build/orbi",
+          "repository_owner": "orbi-build",
+          "repository_owner_url": "https://github.com/orbi-build",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-10-03T20:52:20Z",
+          "repository_status": "active"
+        }
+      ]
+    },
+    {
+      "id": "eliaagent-3e490784",
+      "project": "EliaAgent",
+      "project_description": "An OpenCode-based runtime for scheduled, persistent subagents, each with an isolated workspace, plus fleet status, streaming logs, retries, and restart handling.",
+      "has_public_repository": true,
+      "categories": [
+        "AI Agents",
+        "Long-Term Memory"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/vakandi/EliaAgent",
+          "repository_owner": "vakandi",
+          "repository_owner_url": "https://github.com/vakandi",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-10-03T20:52:20Z",
+          "repository_status": "active"
+        }
+      ]
+    },
+    {
+      "id": "covey-bdc50ac4",
+      "project": "covey",
+      "project_description": "A self-hosted platform for organizational AI agents with isolated sandboxes, per-agent credentials, backlogs and wake sources, human approvals, run logs, and cost tracking.",
+      "has_public_repository": true,
+      "categories": [
+        "AI Agents",
+        "Flow Engineering (Platform Engineering)"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/benjaminLedel/covey",
+          "repository_owner": "benjaminLedel",
+          "repository_owner_url": "https://github.com/benjaminLedel",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-10-03T20:52:21Z",
+          "repository_status": "active"
+        }
+      ]
+    },
+    {
+      "id": "sato-hub-23e85c1d",
+      "project": "Sato Hub",
+      "project_description": "A hosted MCP server and agent skill for searching an index of onchain-agent tooling and checking package reports about key access, key egress, and fund actions before installation. Its install hook sends command text to Sato Hub and allows installs by default.",
+      "has_public_repository": true,
+      "categories": [
+        "MCP Servers",
+        "Tool Calling (Function Calling)"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/satohubai/sato-hub-skill",
+          "repository_owner": "satohubai",
+          "repository_owner_url": "https://github.com/satohubai",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-10-03T20:52:21Z",
+          "repository_status": "active"
+        }
+      ]
+    },
+    {
+      "id": "agent-body-3c95ef05",
+      "project": "Agent-Body",
+      "project_description": "A plugin layer for DeepSeek Harness that routes intent to tools, gates unused tool schemas, and adds persistent memory, event-triggered reflexes, and recovery behavior.",
+      "has_public_repository": true,
+      "categories": [
+        "Development Frameworks",
+        "Tool Calling (Function Calling)",
+        "Long-Term Memory"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/1420079678-ctrl/agent-body",
+          "repository_owner": "1420079678-ctrl",
+          "repository_owner_url": "https://github.com/1420079678-ctrl",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-10-03T20:52:22Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
