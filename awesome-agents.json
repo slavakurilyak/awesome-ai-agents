@@ -8240,7 +8240,11 @@
         {
           "source": "github",
           "source_url": "https://github.com/tale-project/tale",
-          "stars_last_updated": null
+          "repository_owner": "tale-project",
+          "repository_owner_url": "https://github.com/tale-project",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-10-03T20:25:38Z",
+          "repository_status": "active"
         }
       ]
     },
