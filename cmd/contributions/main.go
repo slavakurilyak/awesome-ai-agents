@@ -50,6 +50,7 @@ type pull struct {
 	ClosedAt  string  `json:"closed_at"`
 	HTMLURL   string  `json:"html_url"`
 	MergedAt  *string `json:"merged_at"`
+	State     string  `json:"state"`
 	User      actor   `json:"user"`
 }
 
@@ -112,7 +113,7 @@ func main() {
 func run(args []string) error {
 	root := projectdata.Root()
 	if len(args) == 0 {
-		return errors.New("usage: go run ./cmd/contributions {assign-ids|validate|backfill|import-reviewed}")
+		return errors.New("usage: go run ./cmd/contributions {assign-ids|validate|record-direct-pr|backfill|import-reviewed}")
 	}
 	switch args[0] {
 	case "assign-ids":
@@ -129,6 +130,15 @@ func run(args []string) error {
 		default:
 			return errors.New("usage: validate [--project \"Project name\"]")
 		}
+	case "record-direct-pr":
+		if len(args) != 5 || args[1] != "--project" || args[2] == "" || args[3] != "--pr" {
+			return errors.New("usage: go run ./cmd/contributions record-direct-pr --project \"Project name\" --pr <number>")
+		}
+		number, err := strconv.Atoi(args[4])
+		if err != nil || number <= 0 {
+			return fmt.Errorf("invalid pull request number %q", args[4])
+		}
+		return recordDirectPR(root, args[2], number)
 	case "backfill":
 		if len(args) != 1 {
 			return errors.New("backfill takes no additional arguments")
@@ -137,8 +147,107 @@ func run(args []string) error {
 	case "import-reviewed":
 		return importReviewed(root, args[1:])
 	default:
-		return fmt.Errorf("unknown command %q; expected assign-ids, validate, backfill, or import-reviewed", args[0])
+		return fmt.Errorf("unknown command %q; expected assign-ids, validate, record-direct-pr, backfill, or import-reviewed", args[0])
 	}
+}
+
+// recordDirectPR reads the author and GitHub account ID from public pull-request
+// metadata, so a direct-addition submitter does not have to copy their username
+// into the contribution ledger by hand.
+func recordDirectPR(root, projectName string, number int) error {
+	requestURL := fmt.Sprintf("https://api.github.com/repos/%s/pulls/%d", defaultRepository, number)
+	request, err := http.NewRequest(http.MethodGet, requestURL, nil)
+	if err != nil {
+		return err
+	}
+	request.Header.Set("Accept", "application/vnd.github+json")
+	request.Header.Set("X-GitHub-Api-Version", "2022-11-28")
+	request.Header.Set("User-Agent", "awesome-ai-agents-contribution-ledger")
+	client := &http.Client{Timeout: 30 * time.Second}
+	response, err := client.Do(request)
+	if err != nil {
+		return fmt.Errorf("fetch pull request #%d: %w", number, err)
+	}
+	defer response.Body.Close()
+	if response.StatusCode != http.StatusOK {
+		body, _ := io.ReadAll(io.LimitReader(response.Body, 4096))
+		return fmt.Errorf("fetch pull request #%d: GitHub returned %s: %s", number, response.Status, strings.TrimSpace(string(body)))
+	}
+	var pr pull
+	if err := json.NewDecoder(response.Body).Decode(&pr); err != nil {
+		return fmt.Errorf("decode pull request #%d: %w", number, err)
+	}
+	if pr.Number != number || pr.State != "open" || pr.MergedAt != nil {
+		return fmt.Errorf("pull request #%d must be open and unmerged before recording its submitter", number)
+	}
+	expectedURL := fmt.Sprintf("https://github.com/%s/pull/%d", defaultRepository, number)
+	if pr.HTMLURL != expectedURL || pr.User.ID <= 0 || pr.User.Login == "" {
+		return fmt.Errorf("pull request #%d has incomplete or unexpected author metadata", number)
+	}
+	if _, err := time.Parse(time.RFC3339, pr.CreatedAt); err != nil {
+		return fmt.Errorf("pull request #%d has an invalid creation timestamp: %w", number, err)
+	}
+
+	catalogPath := filepath.Join(root, "awesome-agents.json")
+	catalog, err := projectdata.LoadData(catalogPath)
+	if err != nil {
+		return err
+	}
+	var projectID string
+	for _, project := range catalog.Agents {
+		if strings.EqualFold(project.Project, projectName) {
+			projectID = project.ID
+			break
+		}
+	}
+	if projectID == "" {
+		return fmt.Errorf("project %q not found or has no stable ID in awesome-agents.json", projectName)
+	}
+
+	ledgerPath := filepath.Join(root, "contributions.json")
+	ledger, err := contributions.Read(ledgerPath)
+	if err != nil {
+		return err
+	}
+	for i := range ledger.Projects {
+		if ledger.Projects[i].ProjectID != projectID {
+			continue
+		}
+		for _, existing := range ledger.Projects[i].SubmittedBy {
+			if existing.EvidenceURL == expectedURL && existing.GitHubID == pr.User.ID && strings.EqualFold(existing.Login, pr.User.Login) {
+				fmt.Printf("Direct PR submitter @%s is already recorded for %s.\n", pr.User.Login, projectName)
+				return nil
+			}
+		}
+		if len(ledger.Projects[i].SubmittedBy) > 0 {
+			return fmt.Errorf("project %q already has a submitter record; preserve its original submission credit", projectName)
+		}
+	}
+
+	credit := contributions.Credit{
+		GitHubID: pr.User.ID, Login: pr.User.Login, EvidenceURL: expectedURL, AcceptanceURL: expectedURL,
+		At: pr.CreatedAt, Status: "accepted_submission",
+	}
+	projectFound := false
+	for i := range ledger.Projects {
+		if ledger.Projects[i].ProjectID == projectID {
+			ledger.Projects[i].SubmittedBy = append(ledger.Projects[i].SubmittedBy, credit)
+			projectFound = true
+			break
+		}
+	}
+	if !projectFound {
+		ledger.Projects = append(ledger.Projects, contributions.Project{ProjectID: projectID, SubmittedBy: []contributions.Credit{credit}})
+	}
+	sort.Slice(ledger.Projects, func(i, j int) bool { return ledger.Projects[i].ProjectID < ledger.Projects[j].ProjectID })
+	if err := contributions.Validate(catalog, ledger); err != nil {
+		return err
+	}
+	if err := contributions.Write(ledgerPath, ledger); err != nil {
+		return err
+	}
+	fmt.Printf("Recorded direct PR author @%s (%d) as submitter of %s.\n", pr.User.Login, pr.User.ID, projectName)
+	return nil
 }
 
 func importReviewed(root string, args []string) error {
