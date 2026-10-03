@@ -8270,7 +8270,11 @@
         {
           "source": "github",
           "source_url": "https://github.com/anus-dev/anus",
-          "stars_last_updated": null
+          "repository_owner": "anus-dev",
+          "repository_owner_url": "https://github.com/anus-dev",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-10-03T20:25:39Z",
+          "repository_status": "active"
         }
       ]
     },
