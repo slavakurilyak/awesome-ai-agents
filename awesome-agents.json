@@ -8060,7 +8060,11 @@
         {
           "source": "github",
           "source_url": "https://github.com/Acekorneya/POK-Agent",
-          "stars_last_updated": null
+          "repository_owner": "Acekorneya",
+          "repository_owner_url": "https://github.com/Acekorneya",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-10-03T20:25:35Z",
+          "repository_status": "active"
         }
       ]
     },
