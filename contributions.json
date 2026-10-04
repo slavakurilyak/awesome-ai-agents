@@ -1,6 +1,19 @@
 {
   "projects": [
     {
+      "project_id": "axonx-5c0f9cf4",
+      "submitted_by": [
+        {
+          "github_id": 6469360,
+          "login": "jinliyl",
+          "evidence_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/699",
+          "acceptance_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/699",
+          "at": "2026-10-04T09:28:27Z",
+          "status": "accepted_submission"
+        }
+      ]
+    },
+    {
       "project_id": "agent-007-30aa7b68",
       "submitted_by": [
         {

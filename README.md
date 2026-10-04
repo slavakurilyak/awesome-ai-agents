@@ -160,7 +160,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 </details>
 
 <details>
-<summary>⚙️ Development Frameworks (89)</summary>
+<summary>⚙️ Development Frameworks (90)</summary>
 <ul>
 <li><a href="#agency-swarm-by-vrsen">Agency Swarm by VRSEN</a></li>
 <li><a href="#agent-express">Agent Express</a></li>
@@ -181,6 +181,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 <li><a href="#autogen-by-microsoft">AutoGen by Microsoft</a></li>
 <li><a href="#autogen-studio-by-microsoft">AutoGen Studio by Microsoft</a></li>
 <li><a href="#autohand-code-cli">Autohand Code CLI</a></li>
+<li><a href="#axonx">AxonX</a></li>
 <li><a href="#bazed">Bazed</a></li>
 <li><a href="#bindai">BindAI</a></li>
 <li><a href="#camel">CAMEL</a></li>
@@ -537,10 +538,11 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 </details>
 
 <details>
-<summary>🔌 MCP Servers (21)</summary>
+<summary>🔌 MCP Servers (22)</summary>
 <ul>
 <li><a href="#agentservices">AgentServices</a></li>
 <li><a href="#ai-for-database-mcp-server">AI for Database MCP Server</a></li>
+<li><a href="#axonx">AxonX</a></li>
 <li><a href="#bestax-mcp">bestax-mcp</a></li>
 <li><a href="#busabase">Busabase</a></li>
 <li><a href="#ceki-mcp-server">Ceki MCP Server</a></li>
@@ -1305,6 +1307,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/Necmttn/ax">github</a></p>
 <p><strong>Capabilities:</strong> Capture coding-agent session telemetry · Recall project-specific session context · Track costs and workflow outcomes · Propose reviewable workflow improvements</p>
 <p><strong>Interfaces:</strong> CLI · Local Studio UI · Claude Code integration · Codex integration</p>
+</div>
+
+### AxonX
+<div><a href="https://github.com/FlowLLM-AI/AxonX"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/FlowLLM-AI/AxonX"><img src="https://img.shields.io/github/stars/FlowLLM-AI/AxonX?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/jinliyl">@jinliyl</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/699">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/699">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/FlowLLM-AI">@FlowLLM-AI</a></p>
+<p>⚙️ Development Frameworks | 🔌 MCP Servers</p>
+
+<p>AxonX is a quantitative research harness that lets AI agents submit plugin-based data processing, factor analysis, model training, prediction, and backtesting tasks through CLI and MCP, then inspect execution status, logs, artifacts, and task lineage.</p>
+
+<p><a href="https://github.com/FlowLLM-AI/AxonX">github</a></p>
 </div>
 
 ### B2B SDR Agent Template

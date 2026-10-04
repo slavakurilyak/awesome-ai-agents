@@ -8505,6 +8505,27 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "id": "axonx-5c0f9cf4",
+      "project": "AxonX",
+      "project_description": "AxonX is a quantitative research harness that lets AI agents submit plugin-based data processing, factor analysis, model training, prediction, and backtesting tasks through CLI and MCP, then inspect execution status, logs, artifacts, and task lineage.",
+      "has_public_repository": true,
+      "categories": [
+        "Development Frameworks",
+        "MCP Servers"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/FlowLLM-AI/AxonX",
+          "repository_owner": "FlowLLM-AI",
+          "repository_owner_url": "https://github.com/FlowLLM-AI",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-10-04T09:26:21Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
