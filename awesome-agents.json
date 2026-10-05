@@ -1,6 +1,51 @@
 {
   "agents": [
     {
+      "id": "heym-3e7af146",
+      "project": "Heym",
+      "project_description": "Heym is a self-hosted runtime for building and orchestrating AI agents and deterministic workflows, with MCP tools, human approval checkpoints, execution tracing, evaluations, and model cost tracking. Source-available under MIT with the Commons Clause.",
+      "has_public_repository": true,
+      "categories": [
+        "AI Agents",
+        "Development Frameworks",
+        "Observability Frameworks",
+        "MCP Servers"
+      ],
+      "capabilities": [
+        "Orchestrate tool-using agents, sub-agents, and deterministic workflow steps",
+        "Pause agent runs at human review checkpoints and resume from saved state",
+        "Inspect execution history, model costs, and traces, and compare prompt evaluation results",
+        "Connect external MCP tools and publish workflows as MCP tools"
+      ],
+      "interfaces": [
+        "Web UI",
+        "REST API",
+        "MCP",
+        "Docker"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/heymrun/heym",
+          "repository_owner": "heymrun",
+          "repository_owner_url": "https://github.com/heymrun",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-10-05T17:27:40Z",
+          "repository_status": "active"
+        },
+        {
+          "source": "website",
+          "source_url": "https://heym.run",
+          "stars_last_updated": null
+        },
+        {
+          "source": "docs",
+          "source_url": "https://github.com/heymrun/heym/blob/main/README.md",
+          "stars_last_updated": null
+        }
+      ]
+    },
+    {
       "id": "aster-712d33a8",
       "project": "Aster",
       "project_description": "Aster is a local-first software-engineering agent that uses shared tools, permissions, memory, skills, and retrieval for chat, code review, and fixes.",

@@ -20,7 +20,7 @@ Listings require a public project repository on GitHub, GitLab.com, or Codeberg.
 Pick a category, open it, and choose a project to jump straight to its listing. A project with more than one category appears under each of them.
 
 <details>
-<summary>🤖 AI Agents (103)</summary>
+<summary>🤖 AI Agents (104)</summary>
 <ul>
 <li><a href="#agent-007">Agent 007</a></li>
 <li><a href="#agent-argue">Agent Argue</a></li>
@@ -73,6 +73,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 <li><a href="#gpt-researcher-by-tavily">GPT Researcher by Tavily</a></li>
 <li><a href="#gptme">gptme</a></li>
 <li><a href="#hermes-agent">Hermes Agent</a></li>
+<li><a href="#heym">Heym</a></li>
 <li><a href="#hivekeep">Hivekeep</a></li>
 <li><a href="#hivemoot">Hivemoot</a></li>
 <li><a href="#insumerapi-agent-tools">InsumerAPI Agent Tools</a></li>
@@ -160,7 +161,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 </details>
 
 <details>
-<summary>⚙️ Development Frameworks (89)</summary>
+<summary>⚙️ Development Frameworks (90)</summary>
 <ul>
 <li><a href="#agency-swarm-by-vrsen">Agency Swarm by VRSEN</a></li>
 <li><a href="#agent-express">Agent Express</a></li>
@@ -203,6 +204,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 <li><a href="#gptme">gptme</a></li>
 <li><a href="#hagicode-desktop">HagiCode Desktop</a></li>
 <li><a href="#haystack">Haystack</a></li>
+<li><a href="#heym">Heym</a></li>
 <li><a href="#hive">Hive</a></li>
 <li><a href="#hol-standards-sdk">HOL Standards SDK</a></li>
 <li><a href="#julep">Julep</a></li>
@@ -274,7 +276,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 </details>
 
 <details>
-<summary>👁️ Observability Frameworks (14)</summary>
+<summary>👁️ Observability Frameworks (15)</summary>
 <ul>
 <li><a href="#agent-express">Agent Express</a></li>
 <li><a href="#agentfield">AgentField</a></li>
@@ -285,6 +287,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 <li><a href="#clawmetry">ClawMetry</a></li>
 <li><a href="#halo-record">halo-record</a></li>
 <li><a href="#helicone">Helicone</a></li>
+<li><a href="#heym">Heym</a></li>
 <li><a href="#kitaru">Kitaru</a></li>
 <li><a href="#langsmith-by-langchain">LangSmith by LangChain</a></li>
 <li><a href="#observatory-by-the-context-company">Observatory by The Context Company</a></li>
@@ -537,7 +540,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 </details>
 
 <details>
-<summary>🔌 MCP Servers (21)</summary>
+<summary>🔌 MCP Servers (22)</summary>
 <ul>
 <li><a href="#agentservices">AgentServices</a></li>
 <li><a href="#ai-for-database-mcp-server">AI for Database MCP Server</a></li>
@@ -548,6 +551,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 <li><a href="#court-rules">Court Rules</a></li>
 <li><a href="#github-mcp-server">GitHub MCP Server</a></li>
 <li><a href="#hermes-plant">Hermes Plant</a></li>
+<li><a href="#heym">Heym</a></li>
 <li><a href="#human-pages-mcp-server">Human Pages MCP Server</a></li>
 <li><a href="#hyperconsciousness">Hyperconsciousness</a></li>
 <li><a href="#metorial">Metorial</a></li>
@@ -2214,6 +2218,18 @@ Here's an awesome list of AI agents:
 <p>The open-source Hermes Plant MCP server connects agents to action safety and commerce assurance services for shell, Git, SQL, deployment, and x402 workflows.</p>
 
 <p><a href="https://github.com/JesseGdotIO/hermesplant-mcp-server">github</a></p>
+</div>
+
+### Heym
+<div><a href="https://github.com/heymrun/heym"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/heymrun/heym"><img src="https://img.shields.io/github/stars/heymrun/heym?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/mbakgun">@mbakgun</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/704">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/704">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/heymrun">@heymrun</a></p>
+<p>🤖 AI Agents | ⚙️ Development Frameworks | 🔌 MCP Servers | 👁️ Observability Frameworks</p>
+
+<p>Heym is a self-hosted runtime for building and orchestrating AI agents and deterministic workflows, with MCP tools, human approval checkpoints, execution tracing, evaluations, and model cost tracking. Source-available under MIT with the Commons Clause.</p>
+
+<p><a href="https://github.com/heymrun/heym">github</a> | <a href="https://heym.run">website</a> | <a href="https://github.com/heymrun/heym/blob/main/README.md">docs</a></p>
+<p><strong>Capabilities:</strong> Orchestrate tool-using agents, sub-agents, and deterministic workflow steps · Pause agent runs at human review checkpoints and resume from saved state · Inspect execution history, model costs, and traces, and compare prompt evaluation results · Connect external MCP tools and publish workflows as MCP tools</p>
+<p><strong>Interfaces:</strong> Web UI · REST API · MCP · Docker</p>
 </div>
 
 ### Hive

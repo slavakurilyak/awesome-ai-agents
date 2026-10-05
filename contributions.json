@@ -1381,6 +1381,19 @@
           "status": "self_reported"
         }
       ]
+    },
+    {
+      "project_id": "heym-3e7af146",
+      "submitted_by": [
+        {
+          "github_id": 8726393,
+          "login": "mbakgun",
+          "evidence_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/704",
+          "acceptance_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/704",
+          "at": "2026-10-05T17:29:47Z",
+          "status": "accepted_submission"
+        }
+      ]
     }
   ]
 }
