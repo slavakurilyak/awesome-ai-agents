@@ -8505,6 +8505,26 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "id": "agenticos-770df29a",
+      "project": "AgenticOS",
+      "project_description": "AgenticOS is a self-hosted, Apache-2.0 platform where a company builds, shares and governs AI agents in the browser, with skills, document search, MCP tools, schedules, per-agent budgets, approvals for sensitive tools and an audit log of runs; agents run on Pydantic AI with hosted or local models.",
+      "has_public_repository": true,
+      "categories": [
+        "Development Frameworks"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/vstorm-co/agenticos",
+          "repository_owner": "vstorm-co",
+          "repository_owner_url": "https://github.com/vstorm-co",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-10-05T23:51:30Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
