@@ -160,7 +160,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 </details>
 
 <details>
-<summary>⚙️ Development Frameworks (89)</summary>
+<summary>⚙️ Development Frameworks (90)</summary>
 <ul>
 <li><a href="#agency-swarm-by-vrsen">Agency Swarm by VRSEN</a></li>
 <li><a href="#agent-express">Agent Express</a></li>
@@ -169,6 +169,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 <li><a href="#agent-body">Agent-Body</a></li>
 <li><a href="#agentbox">AgentBox</a></li>
 <li><a href="#agentfield">AgentField</a></li>
+<li><a href="#agenticos">AgenticOS</a></li>
 <li><a href="#agentos">AgentOS</a></li>
 <li><a href="#agents-squads">Agents Squads</a></li>
 <li><a href="#agixt">AGiXT</a></li>
@@ -875,6 +876,16 @@ Here's an awesome list of AI agents:
 <p>A zero-dependency Node.js CLI that scans websites for AI-agent discovery and interoperability signals, reports a grade, and suggests fixes.</p>
 
 <p><a href="https://github.com/Virt92/agentfix-oss-scanner">github</a></p>
+</div>
+
+### AgenticOS
+<div><a href="https://github.com/vstorm-co/agenticos"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/vstorm-co/agenticos"><img src="https://img.shields.io/github/stars/vstorm-co/agenticos?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/DEENUU1">@DEENUU1</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/708">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/708">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/vstorm-co">@vstorm-co</a></p>
+<p>⚙️ Development Frameworks</p>
+
+<p>AgenticOS is a self-hosted, Apache-2.0 platform where a company builds, shares and governs AI agents in the browser, with skills, document search, MCP tools, schedules, per-agent budgets, approvals for sensitive tools and an audit log of runs; agents run on Pydantic AI with hosted or local models.</p>
+
+<p><a href="https://github.com/vstorm-co/agenticos">github</a></p>
 </div>
 
 ### AgentLeak

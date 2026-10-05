@@ -1381,6 +1381,19 @@
           "status": "self_reported"
         }
       ]
+    },
+    {
+      "project_id": "agenticos-770df29a",
+      "submitted_by": [
+        {
+          "github_id": 111304236,
+          "login": "DEENUU1",
+          "evidence_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/708",
+          "acceptance_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/708",
+          "at": "2026-10-05T23:51:54Z",
+          "status": "accepted_submission"
+        }
+      ]
     }
   ]
 }
