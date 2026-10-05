@@ -640,6 +640,15 @@ Projects are ranked by stars gained in each window; the percentage shows growth 
 
 Here's an awesome list of AI agents:
 
+### AAA AGI
+<div><a href="https://github.com/pokidov/aaaagi"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/pokidov/aaaagi"><img src="https://img.shields.io/github/stars/pokidov/aaaagi?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/pokidov">@pokidov</a> · <strong>Maintained by:</strong> <a href="https://github.com/pokidov">@pokidov</a> · <strong>Repository owner:</strong> <a href="https://github.com/pokidov">@pokidov</a></p>
+<p>⚙️ Development Frameworks & Autonomous Squads</p>
+
+<p>AAA AGI (https://aaaai.me/) is an open platform for orchestrating autonomous AI agent squads across macOS, iOS, Android, Linux, and Windows with local LLMs (Ollama, llama.cpp, MLX), MCP server tools, and real-time meeting notes.</p>
+
+<p><a href="https://aaaai.me/">website</a> · <a href="https://github.com/pokidov/aaaagi">github</a></p>
+
 ### Agency Swarm by VRSEN
 <div><a href="https://github.com/VRSEN/agency-swarm"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/VRSEN/agency-swarm"><img src="https://img.shields.io/github/stars/VRSEN/agency-swarm?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/VRSEN">@VRSEN</a></p>
