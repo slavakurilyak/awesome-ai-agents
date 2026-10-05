@@ -880,7 +880,7 @@ Here's an awesome list of AI agents:
 
 ### AgenticOS
 <div><a href="https://github.com/vstorm-co/agenticos"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/vstorm-co/agenticos"><img src="https://img.shields.io/github/stars/vstorm-co/agenticos?style=social" alt="GitHub stars"></a></div>
-<p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/vstorm-co">@vstorm-co</a></p>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/DEENUU1">@DEENUU1</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/708">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/708">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/vstorm-co">@vstorm-co</a></p>
 <p>⚙️ Development Frameworks</p>
 
 <p>AgenticOS is a self-hosted, Apache-2.0 platform where a company builds, shares and governs AI agents in the browser, with skills, document search, MCP tools, schedules, per-agent budgets, approvals for sensitive tools and an audit log of runs; agents run on Pydantic AI with hosted or local models.</p>
