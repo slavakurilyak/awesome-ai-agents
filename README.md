@@ -255,7 +255,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 </details>
 
 <details>
-<summary>📊 Evaluation Frameworks (13)</summary>
+<summary>📊 Evaluation Frameworks (14)</summary>
 <ul>
 <li><a href="#agentfix-mini-scanner">agentfix-mini-scanner</a></li>
 <li><a href="#agentleak">AgentLeak</a></li>
@@ -263,6 +263,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 <li><a href="#arize-phoenix">Arize Phoenix</a></li>
 <li><a href="#browserbash">BrowserBash</a></li>
 <li><a href="#clawbench">ClawBench</a></li>
+<li><a href="#closebench">CloseBench</a></li>
 <li><a href="#house-party-protocol">House Party Protocol</a></li>
 <li><a href="#kitaru">Kitaru</a></li>
 <li><a href="#langfuse">LangFuse</a></li>
@@ -1598,6 +1599,18 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/cline/cline">github</a></p>
 <p><strong>Capabilities:</strong> code planning and editing · tool use across development workflows · MCP integrations</p>
 <p><strong>Interfaces:</strong> IDE extension · CLI · Desktop app</p>
+</div>
+
+### CloseBench
+<div><a href="https://github.com/AndreuwMetal/closebench"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/AndreuwMetal/closebench"><img src="https://img.shields.io/github/stars/AndreuwMetal/closebench?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/AndreuwMetal">@AndreuwMetal</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/709">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/709">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/AndreuwMetal">@AndreuwMetal</a></p>
+<p>📊 Evaluation Frameworks</p>
+
+<p>CloseBench is an open-source benchmark for AI sales agents that runs a complete agent (system prompt, tools, guardrails, and state) through simulated WhatsApp sales conversations against an LLM-simulated buyer with a hidden budget, and fails any scenario where the agent lies, invents a price, or ignores an opt-out.</p>
+
+<p><a href="https://github.com/AndreuwMetal/closebench">github</a> | <a href="https://huggingface.co/datasets/AndreuwMetal/closebench">dataset</a></p>
+<p><strong>Capabilities:</strong> Run a complete sales agent through scripted scenarios against an LLM-simulated buyer with a hidden budget · Fail a scenario on any policy violation, such as a lie, an invented price, or an ignored opt-out · Anchor the LLM judge on objective facts read from mocked Stripe, WhatsApp, and SQLite state · Report pass^k reliability, per-difficulty-tier scores, and cost per conversation</p>
+<p><strong>Interfaces:</strong> CLI · HTTP API · Docker</p>
 </div>
 
 ### Cogito Studio

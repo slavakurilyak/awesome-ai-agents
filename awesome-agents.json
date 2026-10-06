@@ -1,6 +1,42 @@
 {
   "agents": [
     {
+      "id": "closebench-017ba1dc",
+      "project": "CloseBench",
+      "project_description": "CloseBench is an open-source benchmark for AI sales agents that runs a complete agent (system prompt, tools, guardrails, and state) through simulated WhatsApp sales conversations against an LLM-simulated buyer with a hidden budget, and fails any scenario where the agent lies, invents a price, or ignores an opt-out.",
+      "has_public_repository": true,
+      "categories": [
+        "Evaluation Frameworks"
+      ],
+      "capabilities": [
+        "Run a complete sales agent through scripted scenarios against an LLM-simulated buyer with a hidden budget",
+        "Fail a scenario on any policy violation, such as a lie, an invented price, or an ignored opt-out",
+        "Anchor the LLM judge on objective facts read from mocked Stripe, WhatsApp, and SQLite state",
+        "Report pass^k reliability, per-difficulty-tier scores, and cost per conversation"
+      ],
+      "interfaces": [
+        "CLI",
+        "HTTP API",
+        "Docker"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/AndreuwMetal/closebench",
+          "repository_owner": "AndreuwMetal",
+          "repository_owner_url": "https://github.com/AndreuwMetal",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-10-06T09:22:34Z",
+          "repository_status": "active"
+        },
+        {
+          "source": "dataset",
+          "source_url": "https://huggingface.co/datasets/AndreuwMetal/closebench",
+          "stars_last_updated": null
+        }
+      ]
+    },
+    {
       "id": "aster-712d33a8",
       "project": "Aster",
       "project_description": "Aster is a local-first software-engineering agent that uses shared tools, permissions, memory, skills, and retrieval for chat, code review, and fixes.",
