@@ -491,7 +491,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 </details>
 
 <details>
-<summary>💻 Terminal-Friendly (15)</summary>
+<summary>💻 Terminal-Friendly (16)</summary>
 <ul>
 <li><a href="#agent-manager">agent-manager</a></li>
 <li><a href="#agenttrace">AgentTrace</a></li>
@@ -504,6 +504,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 <li><a href="#lucinate">lucinate</a></li>
 <li><a href="#nanocoder">Nanocoder</a></li>
 <li><a href="#opus-manager">Opus Manager</a></li>
+<li><a href="#shumi">Shumi</a></li>
 <li><a href="#since-cutoff">since-cutoff</a></li>
 <li><a href="#smolagents">smolagents</a></li>
 <li><a href="#winkterm">WinkTerm</a></li>
@@ -537,7 +538,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 </details>
 
 <details>
-<summary>🔌 MCP Servers (21)</summary>
+<summary>🔌 MCP Servers (22)</summary>
 <ul>
 <li><a href="#agentservices">AgentServices</a></li>
 <li><a href="#ai-for-database-mcp-server">AI for Database MCP Server</a></li>
@@ -556,6 +557,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 <li><a href="#salt-mcp">Salt MCP</a></li>
 <li><a href="#sato-hub">Sato Hub</a></li>
 <li><a href="#serena">Serena</a></li>
+<li><a href="#shumi">Shumi</a></li>
 <li><a href="#since-cutoff">since-cutoff</a></li>
 <li><a href="#snaprender">SnapRender</a></li>
 <li><a href="#svrf">SVRF</a></li>
@@ -3624,6 +3626,16 @@ Here's an awesome list of AI agents:
 <p>Serena is a coding-agent toolkit exposed as an MCP server, providing semantic code retrieval and editing through language-server-powered tools.</p>
 
 <p><a href="https://github.com/oraios/serena">github</a></p>
+</div>
+
+### Shumi
+<div><a href="https://github.com/shumi-ai/shumi-mcp"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/shumi-ai/shumi-mcp"><img src="https://img.shields.io/github/stars/shumi-ai/shumi-mcp?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/mayrsascha">@mayrsascha</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/713">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/713">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/shumi-ai">@shumi-ai</a></p>
+<p>🔌 MCP Servers | 💻 Terminal-Friendly</p>
+
+<p>Crypto market data for AI agents: a CLI with JSON output and an MCP server exposing prices, trends, funding rates, sentiment, narratives, market regime and pair / delta-neutral ideas. Requires a Shumi API key.</p>
+
+<p><a href="https://github.com/shumi-ai/shumi-mcp">github</a> | <a href="https://github.com/shumi-ai/shumi-cli">github</a></p>
 </div>
 
 ### SidClaw

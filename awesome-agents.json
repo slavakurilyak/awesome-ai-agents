@@ -4527,7 +4527,7 @@
     {
       "id": "due-diligence-agents-91c1d2ef",
       "project": "Due Diligence Agents",
-      "project_description": "A local forensic M\u0026A due-diligence application that coordinates specialist agents across nine domains and traces findings to source pages and quotations.",
+      "project_description": "A local forensic M&A due-diligence application that coordinates specialist agents across nine domains and traces findings to source pages and quotations.",
       "has_public_repository": true,
       "categories": [
         "AI Agents"
@@ -8502,6 +8502,36 @@
           "stars": 15,
           "stars_last_updated": "2026-10-04T07:11:53Z",
           "repository_checked_at": "2026-10-04T07:11:53Z",
+          "repository_status": "active"
+        }
+      ]
+    },
+    {
+      "id": "shumi-25f2443e",
+      "project": "Shumi",
+      "project_description": "Crypto market data for AI agents: a CLI with JSON output and an MCP server exposing prices, trends, funding rates, sentiment, narratives, market regime and pair / delta-neutral ideas. Requires a Shumi API key.",
+      "has_public_repository": true,
+      "categories": [
+        "MCP Servers",
+        "Terminal-Friendly"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/shumi-ai/shumi-mcp",
+          "repository_owner": "shumi-ai",
+          "repository_owner_url": "https://github.com/shumi-ai",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-10-06T23:54:04Z",
+          "repository_status": "active"
+        },
+        {
+          "source": "github",
+          "source_url": "https://github.com/shumi-ai/shumi-cli",
+          "repository_owner": "shumi-ai",
+          "repository_owner_url": "https://github.com/shumi-ai",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-10-06T23:54:04Z",
           "repository_status": "active"
         }
       ]
