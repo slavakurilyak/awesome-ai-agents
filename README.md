@@ -20,7 +20,7 @@ Listings require a public project repository on GitHub, GitLab.com, or Codeberg.
 Pick a category, open it, and choose a project to jump straight to its listing. A project with more than one category appears under each of them.
 
 <details>
-<summary>🤖 AI Agents (103)</summary>
+<summary>🤖 AI Agents (104)</summary>
 <ul>
 <li><a href="#agent-007">Agent 007</a></li>
 <li><a href="#agent-argue">Agent Argue</a></li>
@@ -48,6 +48,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 <li><a href="#awesome-openclaw-agents">Awesome OpenClaw Agents</a></li>
 <li><a href="#b2b-sdr-agent-template">B2B SDR Agent Template</a></li>
 <li><a href="#basedagents">BasedAgents</a></li>
+<li><a href="#bees">Bees</a></li>
 <li><a href="#blackvault">BlackVault</a></li>
 <li><a href="#blave-agent">Blave Agent</a></li>
 <li><a href="#browsingagent-by-agency-swarm">BrowsingAgent by Agency Swarm</a></li>
@@ -301,9 +302,10 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 </details>
 
 <details>
-<summary>💻 Local Inference (10)</summary>
+<summary>💻 Local Inference (11)</summary>
 <ul>
 <li><a href="#atomic-agent">Atomic Agent</a></li>
+<li><a href="#bees">Bees</a></li>
 <li><a href="#corvinos">CorvinOS</a></li>
 <li><a href="#jan">Jan</a></li>
 <li><a href="#localgpt">LocalGPT</a></li>
@@ -1364,6 +1366,18 @@ Here's an awesome list of AI agents:
 <p>Bazed Agent Framework, aimed at empowering developers to build autonomous agent swarms without requiring deep Python ML knowledge, is facilitating the creation of sophisticated systems through TypeScript for enhanced autonomy and reliability</p>
 
 <p><a href="https://github.com/sagentic-ai/sagentic-af">github</a> | <a href="https://bazed.ai/">website</a> | <a href="https://discord.gg/VmEEUrc7dg">discord</a></p>
+</div>
+
+### Bees
+<div><a href="https://github.com/Bees-bot/bees-desktop"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Bees-bot/bees-desktop"><img src="https://img.shields.io/github/stars/Bees-bot/bees-desktop?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/Bees-bot">@Bees-bot</a></p>
+<p>🤖 AI Agents | 💻 Local Inference</p>
+
+<p>Free, open source desktop app that runs a team of AI agents on your own computer. A goal becomes stages on a shared board, each stage has its own agent, and a separate reviewer checks the work and can only pass it or send it back.</p>
+
+<p><a href="https://github.com/Bees-bot/bees-desktop">github</a> | <a href="https://bees.bot">website</a></p>
+<p><strong>Capabilities:</strong> Turn a goal into stages on a shared board · Separate reviewer pass or send back per stage · Per-agent MCP servers · Local models through bundled llama.cpp or your own OpenAI, Anthropic, OpenRouter or Google keys</p>
+<p><strong>Interfaces:</strong> Desktop app</p>
 </div>
 
 ### bestax-mcp

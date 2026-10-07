@@ -8505,6 +8505,41 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "id": "bees-ab7cf8b0",
+      "project": "Bees",
+      "project_description": "Free, open source desktop app that runs a team of AI agents on your own computer. A goal becomes stages on a shared board, each stage has its own agent, and a separate reviewer checks the work and can only pass it or send it back.",
+      "has_public_repository": true,
+      "categories": [
+        "AI Agents",
+        "Local Inference"
+      ],
+      "capabilities": [
+        "Turn a goal into stages on a shared board",
+        "Separate reviewer pass or send back per stage",
+        "Per-agent MCP servers",
+        "Local models through bundled llama.cpp or your own OpenAI, Anthropic, OpenRouter or Google keys"
+      ],
+      "interfaces": [
+        "Desktop app"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/Bees-bot/bees-desktop",
+          "repository_owner": "Bees-bot",
+          "repository_owner_url": "https://github.com/Bees-bot",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-10-07T12:55:48Z",
+          "repository_status": "active"
+        },
+        {
+          "source": "website",
+          "source_url": "https://bees.bot",
+          "stars_last_updated": null
+        }
+      ]
     }
   ],
   "categories": [
