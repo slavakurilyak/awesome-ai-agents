@@ -20,7 +20,7 @@ Listings require a public project repository on GitHub, GitLab.com, or Codeberg.
 Pick a category, open it, and choose a project to jump straight to its listing. A project with more than one category appears under each of them.
 
 <details>
-<summary>🤖 AI Agents (103)</summary>
+<summary>🤖 AI Agents (104)</summary>
 <ul>
 <li><a href="#agent-007">Agent 007</a></li>
 <li><a href="#agent-argue">Agent Argue</a></li>
@@ -106,6 +106,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 <li><a href="#quorum">Quorum</a></li>
 <li><a href="#raven">Raven</a></li>
 <li><a href="#reel-agent">Reel Agent</a></li>
+<li><a href="#reevesagents">reevesagents</a></li>
 <li><a href="#routeweiler">Routeweiler</a></li>
 <li><a href="#rust-norion">rust-norion</a></li>
 <li><a href="#sandbase-harness">SandBase Harness</a></li>
@@ -491,7 +492,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 </details>
 
 <details>
-<summary>💻 Terminal-Friendly (15)</summary>
+<summary>💻 Terminal-Friendly (16)</summary>
 <ul>
 <li><a href="#agent-manager">agent-manager</a></li>
 <li><a href="#agenttrace">AgentTrace</a></li>
@@ -504,6 +505,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 <li><a href="#lucinate">lucinate</a></li>
 <li><a href="#nanocoder">Nanocoder</a></li>
 <li><a href="#opus-manager">Opus Manager</a></li>
+<li><a href="#reevesagents">reevesagents</a></li>
 <li><a href="#since-cutoff">since-cutoff</a></li>
 <li><a href="#smolagents">smolagents</a></li>
 <li><a href="#winkterm">WinkTerm</a></li>
@@ -3480,6 +3482,18 @@ Here's an awesome list of AI agents:
 <p>A self-hosted Telegram agent that analyzes social-media videos, returns source-linked breakdowns, and can plan or build related projects on the user's PC with command approvals.</p>
 
 <p><a href="https://github.com/HNF-FRN/Reel-watcher-telegram-Agent">github</a></p>
+</div>
+
+### reevesagents
+<div><a href="https://github.com/mertkayacs/reevesagents"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/mertkayacs/reevesagents"><img src="https://img.shields.io/github/stars/mertkayacs/reevesagents?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/mertkayacs">@mertkayacs</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/729">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/729">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/mertkayacs">@mertkayacs</a></p>
+<p>🤖 AI Agents | 💻 Terminal-Friendly</p>
+
+<p>reevesagents is an open-source workspace that runs AI coding CLIs such as Claude Code, Codex, Kimi, OpenCode, Qwen and Hermes side by side, each in its own tmux window, controlled from a terminal UI, a local web UI, a command line or an MCP server.</p>
+
+<p><a href="https://github.com/mertkayacs/reevesagents">github</a></p>
+<p><strong>Capabilities:</strong> Start a run of several coding agent CLIs with one task each, every agent in its own tmux window so it keeps running when the interface closes · Read each agent's output and send it text, keys or an interrupt from the terminal UI, a loopback-only web UI or the command line · Let one trusted host CLI start, read, steer and stop the other agents through an opt-in stdio MCP server, with approval requests for sensitive actions · Save a run as a preset and start it again later, with run state stored as JSON on the user's machine</p>
+<p><strong>Interfaces:</strong> Terminal UI · Web UI · CLI · MCP</p>
 </div>
 
 ### Remembra

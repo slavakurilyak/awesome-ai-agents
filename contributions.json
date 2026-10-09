@@ -1381,6 +1381,19 @@
           "status": "self_reported"
         }
       ]
+    },
+    {
+      "project_id": "reevesagents-195011f9",
+      "submitted_by": [
+        {
+          "github_id": 47145541,
+          "login": "mertkayacs",
+          "evidence_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/729",
+          "acceptance_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/729",
+          "at": "2026-10-09T12:58:58Z",
+          "status": "accepted_submission"
+        }
+      ]
     }
   ]
 }
