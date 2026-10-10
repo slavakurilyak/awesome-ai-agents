@@ -8505,6 +8505,26 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "id": "agentdecisionharness-aba16972",
+      "project": "AgentDecisionHarness",
+      "project_description": "Configurable financial forecast authority for LLM agents: qualification-gated specialist routing, conditional majority-conflict resolution, and complete-record finalization with six record audits. Includes a technical report and frozen replay examples.",
+      "has_public_repository": true,
+      "categories": [
+        "Evaluation Frameworks"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/garroshub/AgentDecisionHarness",
+          "repository_owner": "garroshub",
+          "repository_owner_url": "https://github.com/garroshub",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-10-10T13:15:33Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [

@@ -255,8 +255,9 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 </details>
 
 <details>
-<summary>📊 Evaluation Frameworks (13)</summary>
+<summary>📊 Evaluation Frameworks (14)</summary>
 <ul>
+<li><a href="#agentdecisionharness">AgentDecisionHarness</a></li>
 <li><a href="#agentfix-mini-scanner">agentfix-mini-scanner</a></li>
 <li><a href="#agentleak">AgentLeak</a></li>
 <li><a href="#agentops">AgentOps</a></li>
@@ -851,6 +852,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/madarco/agentbox">github</a></p>
 <p><strong>Capabilities:</strong> Run coding agents in isolated environments · Checkpoint and restore agent work · Provide per-environment browser and VS Code access</p>
 <p><strong>Interfaces:</strong> CLI · Docker · Cloud virtual machines · Claude Code · Codex · OpenCode</p>
+</div>
+
+### AgentDecisionHarness
+<div><a href="https://github.com/garroshub/AgentDecisionHarness"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/garroshub/AgentDecisionHarness"><img src="https://img.shields.io/github/stars/garroshub/AgentDecisionHarness?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/garroshub">@garroshub</a></p>
+<p>📊 Evaluation Frameworks</p>
+
+<p>Configurable financial forecast authority for LLM agents: qualification-gated specialist routing, conditional majority-conflict resolution, and complete-record finalization with six record audits. Includes a technical report and frozen replay examples.</p>
+
+<p><a href="https://github.com/garroshub/AgentDecisionHarness">github</a></p>
 </div>
 
 ### AgentField
