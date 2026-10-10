@@ -20,7 +20,7 @@ Listings require a public project repository on GitHub, GitLab.com, or Codeberg.
 Pick a category, open it, and choose a project to jump straight to its listing. A project with more than one category appears under each of them.
 
 <details>
-<summary>🤖 AI Agents (103)</summary>
+<summary>🤖 AI Agents (104)</summary>
 <ul>
 <li><a href="#agent-007">Agent 007</a></li>
 <li><a href="#agent-argue">Agent Argue</a></li>
@@ -119,6 +119,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 <li><a href="#tabby">Tabby</a></li>
 <li><a href="#tale">Tale</a></li>
 <li><a href="#taskade">Taskade</a></li>
+<li><a href="#threews">three.ws</a></li>
 <li><a href="#titan">TITAN</a></li>
 <li><a href="#winkterm">WinkTerm</a></li>
 <li><a href="#xagent">XAgent</a></li>
@@ -445,7 +446,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 </details>
 
 <details>
-<summary>🖥️ UI Development (9)</summary>
+<summary>🖥️ UI Development (10)</summary>
 <ul>
 <li><a href="#ai-sdk-by-vercel">AI SDK by Vercel</a></li>
 <li><a href="#ai-artifacts">ai-artifacts</a></li>
@@ -454,6 +455,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 <li><a href="#dsh-studio">DSH Studio</a></li>
 <li><a href="#frontman">Frontman</a></li>
 <li><a href="#hagicode-desktop">HagiCode Desktop</a></li>
+<li><a href="#threews">three.ws</a></li>
 <li><a href="#uizze">UIZZE</a></li>
 <li><a href="#zooid">Zooid</a></li>
 </ul>
@@ -537,7 +539,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 </details>
 
 <details>
-<summary>🔌 MCP Servers (21)</summary>
+<summary>🔌 MCP Servers (22)</summary>
 <ul>
 <li><a href="#agentservices">AgentServices</a></li>
 <li><a href="#ai-for-database-mcp-server">AI for Database MCP Server</a></li>
@@ -559,6 +561,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 <li><a href="#since-cutoff">since-cutoff</a></li>
 <li><a href="#snaprender">SnapRender</a></li>
 <li><a href="#svrf">SVRF</a></li>
+<li><a href="#threews">three.ws</a></li>
 <li><a href="#upload-post-mcp">Upload-Post MCP</a></li>
 </ul>
 </details>
@@ -4036,6 +4039,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/sabir-gbs/the-polyglot-protocol">github</a></p>
 <p><strong>Capabilities:</strong> Guide repository discovery and technology selection · Provide language-specific development and validation practices · Define post-code-generation audit and scoring workflows</p>
 <p><strong>Interfaces:</strong> Codex skill · Claude Code · OpenCode · Documentation</p>
+</div>
+
+### three.ws
+<div><a href="https://github.com/nirholas/three.ws"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/nirholas/three.ws"><img src="https://img.shields.io/github/stars/nirholas/three.ws?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/nirholas">@nirholas</a></p>
+<p>🤖 AI Agents | 🔌 MCP Servers | 🖥️ UI Development</p>
+
+<p>Open-source platform for 3D AI agents: rigged, animated GLB avatars with an LLM brain, memory and a Solana wallet, embeddable via an <agent-3d> web component, with a remote MCP server.</p>
+
+<p><a href="https://github.com/nirholas/three.ws">github</a></p>
 </div>
 
 ### Thursday

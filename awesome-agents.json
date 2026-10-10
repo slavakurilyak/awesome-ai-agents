@@ -8505,6 +8505,28 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "id": "three-ws-91f00179",
+      "project": "three.ws",
+      "project_description": "Open-source platform for 3D AI agents: rigged, animated GLB avatars with an LLM brain, memory and a Solana wallet, embeddable via an \u003cagent-3d\u003e web component, with a remote MCP server.",
+      "has_public_repository": true,
+      "categories": [
+        "AI Agents",
+        "UI Development",
+        "MCP Servers"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/nirholas/three.ws",
+          "repository_owner": "nirholas",
+          "repository_owner_url": "https://github.com/nirholas",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-10-10T23:34:24Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
