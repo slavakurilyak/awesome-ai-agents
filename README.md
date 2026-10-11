@@ -255,8 +255,9 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 </details>
 
 <details>
-<summary>📊 Evaluation Frameworks (13)</summary>
+<summary>📊 Evaluation Frameworks (14)</summary>
 <ul>
+<li><a href="#agent-budget-simulator">Agent Budget Simulator</a></li>
 <li><a href="#agentfix-mini-scanner">agentfix-mini-scanner</a></li>
 <li><a href="#agentleak">AgentLeak</a></li>
 <li><a href="#agentops">AgentOps</a></li>
@@ -675,6 +676,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/empac666/agent-argue-cards">github</a></p>
 <p><strong>Capabilities:</strong> Generate fixed-beat debates between two agents · Create a summary card with positions, concessions, and unresolved points · Check quote provenance against speaker and transcript records</p>
 <p><strong>Interfaces:</strong> Web app · CLI demo</p>
+</div>
+
+### Agent Budget Simulator
+<div><a href="https://github.com/Retsumdk/agent-budget-simulator"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Retsumdk/agent-budget-simulator"><img src="https://img.shields.io/github/stars/Retsumdk/agent-budget-simulator?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/Retsumdk">@Retsumdk</a></p>
+<p>📊 Evaluation Frameworks</p>
+
+<p>A deterministic TypeScript scenario simulator for agent-fleet resource planning: it tracks budgets across tokens, API calls, and dollars, applies agent priority tiers and fairness policies (fifo, strict_priority, weighted_fair, deadline_aware), and runs packaged baseline, stress, starvation, deadline, and token-bucket scenarios to surface starvation and budget-exhaustion failures before production, with evaluateScenario/formatResult/summarizeByResource reporting helpers.</p>
+
+<p><a href="https://github.com/Retsumdk/agent-budget-simulator">github</a></p>
 </div>
 
 ### Agent by Stately AI
