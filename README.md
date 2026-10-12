@@ -537,7 +537,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 </details>
 
 <details>
-<summary>🔌 MCP Servers (21)</summary>
+<summary>🔌 MCP Servers (22)</summary>
 <ul>
 <li><a href="#agentservices">AgentServices</a></li>
 <li><a href="#ai-for-database-mcp-server">AI for Database MCP Server</a></li>
@@ -555,6 +555,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 <li><a href="#posteverywhere">PostEverywhere</a></li>
 <li><a href="#salt-mcp">Salt MCP</a></li>
 <li><a href="#sato-hub">Sato Hub</a></li>
+<li><a href="#scalekit-mcp-server">Scalekit MCP Server</a></li>
 <li><a href="#serena">Serena</a></li>
 <li><a href="#since-cutoff">since-cutoff</a></li>
 <li><a href="#snaprender">SnapRender</a></li>
@@ -3589,6 +3590,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/SaynaAI/sayna">github</a></p>
 <p><strong>Capabilities:</strong> speech-to-text and text-to-speech · real-time audio streaming · SIP telephony integration</p>
 <p><strong>Interfaces:</strong> WebSocket API · REST API</p>
+</div>
+
+### Scalekit MCP Server
+<div><a href="https://github.com/scalekit-inc/scalekit-mcp-server"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/scalekit-inc/scalekit-mcp-server"><img src="https://img.shields.io/github/stars/scalekit-inc/scalekit-mcp-server?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/scalekit-inc">@scalekit-inc</a></p>
+<p>🔌 MCP Servers</p>
+
+<p>Scalekit's official MCP server that lets AI agents and MCP clients manage Scalekit auth environments, organizations, users, OIDC connections, roles and scopes, and MCP server registrations; it runs hosted at mcp.scalekit.com with OAuth sign-in or locally over stdio.</p>
+
+<p><a href="https://github.com/scalekit-inc/scalekit-mcp-server">github</a></p>
 </div>
 
 ### Screenpipe

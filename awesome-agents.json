@@ -8505,6 +8505,26 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "id": "scalekit-mcp-server-35edb591",
+      "project": "Scalekit MCP Server",
+      "project_description": "Scalekit's official MCP server that lets AI agents and MCP clients manage Scalekit auth environments, organizations, users, OIDC connections, roles and scopes, and MCP server registrations; it runs hosted at mcp.scalekit.com with OAuth sign-in or locally over stdio.",
+      "has_public_repository": true,
+      "categories": [
+        "MCP Servers"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/scalekit-inc/scalekit-mcp-server",
+          "repository_owner": "scalekit-inc",
+          "repository_owner_url": "https://github.com/scalekit-inc",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-10-12T10:49:15Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
