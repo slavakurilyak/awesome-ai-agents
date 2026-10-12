@@ -20,7 +20,7 @@ Listings require a public project repository on GitHub, GitLab.com, or Codeberg.
 Pick a category, open it, and choose a project to jump straight to its listing. A project with more than one category appears under each of them.
 
 <details>
-<summary>🤖 AI Agents (103)</summary>
+<summary>🤖 AI Agents (104)</summary>
 <ul>
 <li><a href="#agent-007">Agent 007</a></li>
 <li><a href="#agent-argue">Agent Argue</a></li>
@@ -36,6 +36,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 <li><a href="#agentbox">AgentBox</a></li>
 <li><a href="#agentfield">AgentField</a></li>
 <li><a href="#agx">AGX</a></li>
+<li><a href="#ai-economist">AI Economist</a></li>
 <li><a href="#aider">Aider</a></li>
 <li><a href="#anus">ANUS</a></li>
 <li><a href="#arachne">Arachne</a></li>
@@ -1006,6 +1007,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/ramarlina/agx">github</a></p>
 <p><strong>Capabilities:</strong> Coordinate coding-agent work across tickets, repositories, and pull requests · Track project workspaces, branches, and changes while retaining task context · Require human approval before irreversible actions</p>
 <p><strong>Interfaces:</strong> CLI · Local web dashboard · macOS desktop app · npm package</p>
+</div>
+
+### AI Economist
+<div><a href="https://github.com/garroshub/ai-economist-skill"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/garroshub/ai-economist-skill"><img src="https://img.shields.io/github/stars/garroshub/ai-economist-skill?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/garroshub">@garroshub</a></p>
+<p>🤖 AI Agents</p>
+
+<p>Installable agent skill for macroeconomic nowcasting and monetary-policy analysis: GDP nowcasts with structural statistical baselines and ML calibration, policy-rate diagnostics, out-of-sample backtesting, and interpretable model comparisons for the US and Canada.</p>
+
+<p><a href="https://github.com/garroshub/ai-economist-skill">github</a></p>
 </div>
 
 ### AI for Database MCP Server
