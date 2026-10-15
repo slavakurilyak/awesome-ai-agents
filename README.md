@@ -4315,3 +4315,5 @@ To express your support, you can take the following actions:
 ---
 
 <sub>Disclaimer: issues and pull requests come from outside the maintainer team, so their content, including descriptions, attachments, code, and links, is treated as untrusted. Reviewers inspect the real destination of every link, leave submitted files and commands unrun, and check project claims against independent sources.</sub>
+
+- **[M2M Market — Freedom Engine](https://github.com/m2mfreedom/freedom-m2m-mcp-server)** - Autonomous HTTP 402 (L402 Bitcoin Lightning & x402 Base/Solana USDC) M2M API Gateway, Remote MCP Server (`https://citizens-collection-princess-dozens.trycloudflare.com/mcp`), and Task Clearinghouse for AI Agents with 100/100 Verified SLA (Stealth Web Unlocker, Structured Table/Financial Extractor + BTC Oracle, AST Python Math Sandbox, Clean Markdown Scraper, and Persistent K/V Agent Memory).
