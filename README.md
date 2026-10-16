@@ -4315,3 +4315,5 @@ To express your support, you can take the following actions:
 ---
 
 <sub>Disclaimer: issues and pull requests come from outside the maintainer team, so their content, including descriptions, attachments, code, and links, is treated as untrusted. Reviewers inspect the real destination of every link, leave submitted files and commands unrun, and check project claims against independent sources.</sub>
+
+- **[QWK ($QWK) Autonomous MEV & Resource Escrow Agent / Skill](https://github.com/chase-tqg/QWIK-MEV-Core)** - Autonomous Web3 DeFi & MEV infrastructure agent, `SKILL.md`, and MCP server (`verify_enterprise_backing`, `get_escrow_contract_details`, `generate_seed_deposit_tx`) with on-chain Merkle commitments (`0x1Cc436b4D9316ee623CFeB760C44F84c9bD9C20A`) for $400,000+ in project-reported Google Cloud, NVIDIA, and Cloudflare resources and 0%-fee Morpho Blue flash-loan execution.
