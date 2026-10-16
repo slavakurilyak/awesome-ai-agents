@@ -22,6 +22,23 @@
       ]
     },
     {
+      "project": "Concord",
+      "project_description": "Concord: local-first coordination layer (MCP server) that lets multiple coding agents share presence, claims, messages, handoffs and review packets.",
+      "has_public_repository": true,
+      "categories": [
+        "AI Agents",
+        "MCP Servers"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/Get-Concord-AI/concord-mcp",
+          "repository_status": "active",
+          "stars_last_updated": null
+        }
+      ]
+    },
+    {
       "id": "aiwg-85befb23",
       "project": "AIWG",
       "project_description": "AIWG deploys specialized agents, skills, context, rules, and governed workflows into native project paths across multiple AI coding platforms.",
