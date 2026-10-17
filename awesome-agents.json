@@ -8505,6 +8505,34 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "id": "mixdog-bcc729e8",
+      "project": "Mixdog",
+      "project_description": "Open-source desktop coding agent where a lead model plans the task and hands search, edits and review to cheaper worker models. Works with Claude, GPT and Gemini models on Windows, macOS and Linux.",
+      "has_public_repository": true,
+      "categories": [
+        "AI Agents"
+      ],
+      "capabilities": [
+        "Lead model plans the task and delegates search, edits and review to cheaper worker models",
+        "Mix Claude, GPT and Gemini models in one session",
+        "MCP server support"
+      ],
+      "interfaces": [
+        "Desktop app"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/tribgames/mixdog",
+          "repository_owner": "tribgames",
+          "repository_owner_url": "https://github.com/tribgames",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-10-17T11:41:40Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [

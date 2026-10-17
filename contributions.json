@@ -1381,6 +1381,19 @@
           "status": "self_reported"
         }
       ]
+    },
+    {
+      "project_id": "mixdog-bcc729e8",
+      "submitted_by": [
+        {
+          "github_id": 270376042,
+          "login": "JYP8877",
+          "evidence_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/799",
+          "acceptance_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/799",
+          "at": "2026-10-17T11:42:54Z",
+          "status": "accepted_submission"
+        }
+      ]
     }
   ]
 }

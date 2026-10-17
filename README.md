@@ -20,7 +20,7 @@ Listings require a public project repository on GitHub, GitLab.com, or Codeberg.
 Pick a category, open it, and choose a project to jump straight to its listing. A project with more than one category appears under each of them.
 
 <details>
-<summary>🤖 AI Agents (103)</summary>
+<summary>🤖 AI Agents (104)</summary>
 <ul>
 <li><a href="#agent-007">Agent 007</a></li>
 <li><a href="#agent-argue">Agent Argue</a></li>
@@ -82,6 +82,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 <li><a href="#looptroop">LoopTroop</a></li>
 <li><a href="#maestro">Maestro</a></li>
 <li><a href="#max-cli">Max CLI</a></li>
+<li><a href="#mixdog">Mixdog</a></li>
 <li><a href="#mysti">Mysti</a></li>
 <li><a href="#nanocoder">Nanocoder</a></li>
 <li><a href="#narranexus">NarraNexus</a></li>
@@ -2797,6 +2798,18 @@ Here's an awesome list of AI agents:
 <p>Microsoft's framework for building AI agents and workflows, combining capabilities from AutoGen and Semantic Kernel.</p>
 
 <p><a href="https://github.com/microsoft/agent-framework">github</a></p>
+</div>
+
+### Mixdog
+<div><a href="https://github.com/tribgames/mixdog"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/tribgames/mixdog"><img src="https://img.shields.io/github/stars/tribgames/mixdog?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/JYP8877">@JYP8877</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/799">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/799">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/tribgames">@tribgames</a></p>
+<p>🤖 AI Agents</p>
+
+<p>Open-source desktop coding agent where a lead model plans the task and hands search, edits and review to cheaper worker models. Works with Claude, GPT and Gemini models on Windows, macOS and Linux.</p>
+
+<p><a href="https://github.com/tribgames/mixdog">github</a></p>
+<p><strong>Capabilities:</strong> Lead model plans the task and delegates search, edits and review to cheaper worker models · Mix Claude, GPT and Gemini models in one session · MCP server support</p>
+<p><strong>Interfaces:</strong> Desktop app</p>
 </div>
 
 ### Mnemoverse
