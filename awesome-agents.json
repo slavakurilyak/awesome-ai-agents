@@ -8505,6 +8505,37 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "id": "fsb-full-self-browsing-7e4324a4",
+      "project": "FSB (Full Self Browsing)",
+      "project_description": "FSB is an open-source Chrome extension and MCP server that lets MCP clients such as Claude Code, Codex, and Cursor drive the user's signed-in Chromium browser by reading the live DOM instead of screenshots.",
+      "has_public_repository": true,
+      "categories": [
+        "MCP Servers",
+        "Web Browsing Frameworks"
+      ],
+      "capabilities": [
+        "Click, type, navigate, and read pages in the user's real signed-in browser through 72 MCP tools",
+        "Route each agent's tool calls to its own tabs",
+        "Fill saved credentials and payment details from an extension vault without exposing them to the model",
+        "Record browser sessions for review and replay"
+      ],
+      "interfaces": [
+        "MCP",
+        "Chrome extension"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/fullselfbrowsing/FSB",
+          "repository_owner": "fullselfbrowsing",
+          "repository_owner_url": "https://github.com/fullselfbrowsing",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-10-19T09:48:32Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [

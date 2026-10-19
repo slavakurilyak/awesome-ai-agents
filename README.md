@@ -467,11 +467,12 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 </details>
 
 <details>
-<summary>🌐 Web Browsing Frameworks (7)</summary>
+<summary>🌐 Web Browsing Frameworks (8)</summary>
 <ul>
 <li><a href="#browser-use">browser-use</a></li>
 <li><a href="#crawl4ai">Crawl4AI</a></li>
 <li><a href="#firecrawl">Firecrawl</a></li>
+<li><a href="#fsb-full-self-browsing">FSB (Full Self Browsing)</a></li>
 <li><a href="#playwright-mcp">Playwright MCP</a></li>
 <li><a href="#skyvern">Skyvern</a></li>
 <li><a href="#stagehand">Stagehand</a></li>
@@ -537,7 +538,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 </details>
 
 <details>
-<summary>🔌 MCP Servers (21)</summary>
+<summary>🔌 MCP Servers (22)</summary>
 <ul>
 <li><a href="#agentservices">AgentServices</a></li>
 <li><a href="#ai-for-database-mcp-server">AI for Database MCP Server</a></li>
@@ -546,6 +547,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 <li><a href="#ceki-mcp-server">Ceki MCP Server</a></li>
 <li><a href="#context7">Context7</a></li>
 <li><a href="#court-rules">Court Rules</a></li>
+<li><a href="#fsb-full-self-browsing">FSB (Full Self Browsing)</a></li>
 <li><a href="#github-mcp-server">GitHub MCP Server</a></li>
 <li><a href="#hermes-plant">Hermes Plant</a></li>
 <li><a href="#human-pages-mcp-server">Human Pages MCP Server</a></li>
@@ -2013,6 +2015,18 @@ Here's an awesome list of AI agents:
 <p>A browser-based AI coding agent that uses live application context to edit frontend source files with hot reload through Next.js, Astro, and Vite integrations.</p>
 
 <p><a href="https://github.com/frontman-ai/frontman">github</a></p>
+</div>
+
+### FSB (Full Self Browsing)
+<div><a href="https://github.com/fullselfbrowsing/FSB"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/fullselfbrowsing/FSB"><img src="https://img.shields.io/github/stars/fullselfbrowsing/FSB?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/fullselfbrowsing">@fullselfbrowsing</a></p>
+<p>🔌 MCP Servers | 🌐 Web Browsing Frameworks</p>
+
+<p>FSB is an open-source Chrome extension and MCP server that lets MCP clients such as Claude Code, Codex, and Cursor drive the user's signed-in Chromium browser by reading the live DOM instead of screenshots.</p>
+
+<p><a href="https://github.com/fullselfbrowsing/FSB">github</a></p>
+<p><strong>Capabilities:</strong> Click, type, navigate, and read pages in the user's real signed-in browser through 72 MCP tools · Route each agent's tool calls to its own tabs · Fill saved credentials and payment details from an extension vault without exposing them to the model · Record browser sessions for review and replay</p>
+<p><strong>Interfaces:</strong> MCP · Chrome extension</p>
 </div>
 
 ### GCF (Graph Compact Format)
