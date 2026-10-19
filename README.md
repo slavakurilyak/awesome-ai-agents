@@ -415,7 +415,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 </details>
 
 <details>
-<summary>🔧 Tool Calling (Function Calling) (24)</summary>
+<summary>🔧 Tool Calling (Function Calling) (25)</summary>
 <ul>
 <li><a href="#agent-trust-stack-mcp-server">Agent Trust Stack MCP Server</a></li>
 <li><a href="#agent-body">Agent-Body</a></li>
@@ -426,6 +426,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 <li><a href="#bulkpublish">BulkPublish</a></li>
 <li><a href="#buywhere-mcp-server">BuyWhere MCP Server</a></li>
 <li><a href="#connectonion">ConnectOnion</a></li>
+<li><a href="#dc-hub">DC Hub</a></li>
 <li><a href="#edgrapi">Edgrapi</a></li>
 <li><a href="#gcf-graph-compact-format">GCF (Graph Compact Format)</a></li>
 <li><a href="#github-mcp-server">GitHub MCP Server</a></li>
@@ -537,7 +538,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 </details>
 
 <details>
-<summary>🔌 MCP Servers (21)</summary>
+<summary>🔌 MCP Servers (22)</summary>
 <ul>
 <li><a href="#agentservices">AgentServices</a></li>
 <li><a href="#ai-for-database-mcp-server">AI for Database MCP Server</a></li>
@@ -546,6 +547,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 <li><a href="#ceki-mcp-server">Ceki MCP Server</a></li>
 <li><a href="#context7">Context7</a></li>
 <li><a href="#court-rules">Court Rules</a></li>
+<li><a href="#dc-hub">DC Hub</a></li>
 <li><a href="#github-mcp-server">GitHub MCP Server</a></li>
 <li><a href="#hermes-plant">Hermes Plant</a></li>
 <li><a href="#human-pages-mcp-server">Human Pages MCP Server</a></li>
@@ -1838,6 +1840,16 @@ Here's an awesome list of AI agents:
 <p>DB-GPT revolutionizes database interactions using private LLM technology, enabling streamlined AI-native data app development with multi-model management, Text2SQL optimization, and fine-tuning, facilitating enterprises and developers to create bespoke applications in the Data 3.0 era</p>
 
 <p><a href="https://github.com/eosphoros-ai/DB-GPT">github</a> | <a href="https://github.com/eosphoros-ai">github profile</a></p>
+</div>
+
+### DC Hub
+<div><a href="https://github.com/azmartone67/dchub-mcp-server"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/azmartone67/dchub-mcp-server"><img src="https://img.shields.io/github/stars/azmartone67/dchub-mcp-server?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/azmartone67">@azmartone67</a></p>
+<p>🔌 MCP Servers | 🔧 Tool Calling (Function Calling)</p>
+
+<p>DC Hub is the live data layer for data-center site selection. Its Data Center Power Index (DCPI) is a daily score of where data centers can get grid power, across 300+ markets. Its hosted remote MCP server at https://dchub.cloud/mcp lets agents query grid, interconnection-queue, market and fiber data, with an as-of timestamp and a citation line on answers.</p>
+
+<p><a href="https://github.com/azmartone67/dchub-mcp-server">github</a></p>
 </div>
 
 ### Devid by Agency Swarm
