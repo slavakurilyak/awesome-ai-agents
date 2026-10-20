@@ -8505,6 +8505,26 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "id": "seonix-seo-mcp-bb6d6fe0",
+      "project": "Seonix SEO MCP",
+      "project_description": "Open-source, read-only MCP server that lets an AI agent audit any website for SEO, GEO/AEO (AI-search visibility) and page speed problems, then propose minimal fixes and dry-run them without modifying the site, via audit_site, speed_audit, propose_fixes and preview_fix tools.",
+      "has_public_repository": true,
+      "categories": [
+        "MCP Servers"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/seonix-ai/seonix-mcp",
+          "repository_owner": "seonix-ai",
+          "repository_owner_url": "https://github.com/seonix-ai",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-10-20T01:35:07Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [

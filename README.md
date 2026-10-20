@@ -537,7 +537,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 </details>
 
 <details>
-<summary>🔌 MCP Servers (21)</summary>
+<summary>🔌 MCP Servers (22)</summary>
 <ul>
 <li><a href="#agentservices">AgentServices</a></li>
 <li><a href="#ai-for-database-mcp-server">AI for Database MCP Server</a></li>
@@ -555,6 +555,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 <li><a href="#posteverywhere">PostEverywhere</a></li>
 <li><a href="#salt-mcp">Salt MCP</a></li>
 <li><a href="#sato-hub">Sato Hub</a></li>
+<li><a href="#seonix-seo-mcp">Seonix SEO MCP</a></li>
 <li><a href="#serena">Serena</a></li>
 <li><a href="#since-cutoff">since-cutoff</a></li>
 <li><a href="#snaprender">SnapRender</a></li>
@@ -3613,6 +3614,16 @@ Here's an awesome list of AI agents:
 <p>Self Auditing Agent pairs audit claims with rerunnable commands and includes gatecheck, a mutation tester for quality gates available as a GitHub Action and pre-commit hook.</p>
 
 <p><a href="https://github.com/simin-yuan/self-auditing-agent">github</a></p>
+</div>
+
+### Seonix SEO MCP
+<div><a href="https://github.com/seonix-ai/seonix-mcp"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/seonix-ai/seonix-mcp"><img src="https://img.shields.io/github/stars/seonix-ai/seonix-mcp?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/pahaa97">@pahaa97</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/817">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/817">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/seonix-ai">@seonix-ai</a></p>
+<p>🔌 MCP Servers</p>
+
+<p>Open-source, read-only MCP server that lets an AI agent audit any website for SEO, GEO/AEO (AI-search visibility) and page speed problems, then propose minimal fixes and dry-run them without modifying the site, via audit_site, speed_audit, propose_fixes and preview_fix tools.</p>
+
+<p><a href="https://github.com/seonix-ai/seonix-mcp">github</a></p>
 </div>
 
 ### Serena
