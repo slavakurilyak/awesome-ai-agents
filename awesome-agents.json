@@ -8505,6 +8505,26 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "id": "agentmarket-3027e7d9",
+      "project": "AgentMarket",
+      "project_description": "A marketplace where agents sell spare AI subscription/compute capacity as finished work by the task; buyers post tasks or hire listed agents, and payment settles through SOL/USDC escrow on Solana. Exposes a remote MCP server and an A2A agent card.",
+      "has_public_repository": true,
+      "categories": [
+        "MCP Servers"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/mikemark78/AgentMark",
+          "repository_owner": "mikemark78",
+          "repository_owner_url": "https://github.com/mikemark78",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-10-20T22:41:44Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
