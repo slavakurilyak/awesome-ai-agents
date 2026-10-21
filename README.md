@@ -20,8 +20,9 @@ Listings require a public project repository on GitHub, GitLab.com, or Codeberg.
 Pick a category, open it, and choose a project to jump straight to its listing. A project with more than one category appears under each of them.
 
 <details>
-<summary>🤖 AI Agents (103)</summary>
+<summary>🤖 AI Agents (104)</summary>
 <ul>
+<li><a href="#actlet">Actlet</a></li>
 <li><a href="#agent-007">Agent 007</a></li>
 <li><a href="#agent-argue">Agent Argue</a></li>
 <li><a href="#agent-by-stately-ai">Agent by Stately AI</a></li>
@@ -639,6 +640,16 @@ Projects are ranked by stars gained in each window; the percentage shows growth 
 ## ✍️ All Projects
 
 Here's an awesome list of AI agents:
+
+### Actlet
+<div><a href="https://github.com/hydope/actlet"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/hydope/actlet"><img src="https://img.shields.io/github/stars/hydope/actlet?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/hydope">@hydope</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/826">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/826">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/hydope">@hydope</a></p>
+<p>🤖 AI Agents</p>
+
+<p>Actlet is a personal AI agent that remembers, schedules, browses, and learns. It is approval-gated and local-first, with a scheduler, a learning loop, Telegram and MCP integrations, and Gmail and calendar built in.</p>
+
+<p><a href="https://github.com/hydope/actlet">github</a></p>
+</div>
 
 ### Agency Swarm by VRSEN
 <div><a href="https://github.com/VRSEN/agency-swarm"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/VRSEN/agency-swarm"><img src="https://img.shields.io/github/stars/VRSEN/agency-swarm?style=social" alt="GitHub stars"></a></div>

@@ -1,6 +1,19 @@
 {
   "projects": [
     {
+      "project_id": "actlet-00000000",
+      "submitted_by": [
+        {
+          "github_id": 279144930,
+          "login": "hydope",
+          "evidence_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/826",
+          "acceptance_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/826",
+          "at": "2026-10-21T11:28:10Z",
+          "status": "accepted_submission"
+        }
+      ]
+    },
+    {
       "project_id": "agent-007-30aa7b68",
       "submitted_by": [
         {
