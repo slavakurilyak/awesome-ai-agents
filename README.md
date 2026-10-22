@@ -20,7 +20,7 @@ Listings require a public project repository on GitHub, GitLab.com, or Codeberg.
 Pick a category, open it, and choose a project to jump straight to its listing. A project with more than one category appears under each of them.
 
 <details>
-<summary>🤖 AI Agents (103)</summary>
+<summary>🤖 AI Agents (104)</summary>
 <ul>
 <li><a href="#agent-007">Agent 007</a></li>
 <li><a href="#agent-argue">Agent Argue</a></li>
@@ -77,6 +77,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 <li><a href="#hivemoot">Hivemoot</a></li>
 <li><a href="#insumerapi-agent-tools">InsumerAPI Agent Tools</a></li>
 <li><a href="#jev-social">Jev Social</a></li>
+<li><a href="#jobappagent">JobAppAgent</a></li>
 <li><a href="#k8s4claw">k8s4claw</a></li>
 <li><a href="#kubestellar-console">KubeStellar Console</a></li>
 <li><a href="#looptroop">LoopTroop</a></li>
@@ -2388,6 +2389,16 @@ Here's an awesome list of AI agents:
 <p>jevme is a voice-controlled macOS agent that uses accessibility controls to operate apps, executes commands as the user speaks, and learns reusable tasks from demonstrations.</p>
 
 <p><a href="https://github.com/danielyedaniel/jevme">github</a></p>
+</div>
+
+### JobAppAgent
+<div><a href="https://github.com/vaibhavarora14/job-application-agent"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/vaibhavarora14/job-application-agent"><img src="https://img.shields.io/github/stars/vaibhavarora14/job-application-agent?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/vaibhavarora14">@vaibhavarora14</a></p>
+<p>🤖 AI Agents</p>
+
+<p>JobAppAgent is a free, MIT-licensed open-source AI job application agent (Agent Skill and CLI) that matches roles to one verified résumé, applies within your rules, and tracks confirmed submissions.</p>
+
+<p><a href="https://github.com/vaibhavarora14/job-application-agent">github</a></p>
 </div>
 
 ### Julep
