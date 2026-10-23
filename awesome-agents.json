@@ -7728,6 +7728,36 @@
       ]
     },
     {
+      "id": "wippaagent-f4f8077b",
+      "project": "wippaAGENT",
+      "project_description": "wippaAGENT is an install-once agent configuration for OpenCode: a primary orchestrator plans, delegates, and verifies each task, twelve specialists take the delegated work, and every change goes through audit and review passes before it is reported. Ships with three MCP servers, a bounded verify tool with timeouts and output caps, and an installer that wires the roster and config into a project.",
+      "has_public_repository": true,
+      "categories": [
+        "AI Agents",
+        "Terminal-Friendly"
+      ],
+      "capabilities": [
+        "Install once and point OpenCode's configuration at a primary agent that plans, delegates, and verifies each task",
+        "Route every change through audit and review passes, with specialists for research, code, quality, data, docs, and infrastructure",
+        "Bound every command the setup runs with timeouts, output caps, and typed failure reasons so verdicts cannot invert on large output"
+      ],
+      "interfaces": [
+        "CLI",
+        "OpenCode"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/wippa-studios/wippaAGENT",
+          "repository_owner": "wippa-studios",
+          "repository_owner_url": "https://github.com/wippa-studios",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-10-23T01:48:21Z",
+          "repository_status": "active"
+        }
+      ]
+    },
+    {
       "id": "zaru-78392600",
       "project": "Zaru",
       "project_description": "Zaru is a pre-alpha open-source Rust terminal harness for LLM agents that runs the tools a model asks for under a permission model and records every step in a transcript.",
