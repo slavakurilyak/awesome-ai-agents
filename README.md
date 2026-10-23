@@ -20,7 +20,7 @@ Listings require a public project repository on GitHub, GitLab.com, or Codeberg.
 Pick a category, open it, and choose a project to jump straight to its listing. A project with more than one category appears under each of them.
 
 <details>
-<summary>🤖 AI Agents (103)</summary>
+<summary>🤖 AI Agents (104)</summary>
 <ul>
 <li><a href="#agent-007">Agent 007</a></li>
 <li><a href="#agent-argue">Agent Argue</a></li>
@@ -121,6 +121,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 <li><a href="#taskade">Taskade</a></li>
 <li><a href="#titan">TITAN</a></li>
 <li><a href="#winkterm">WinkTerm</a></li>
+<li><a href="#wippaagent">wippaAGENT</a></li>
 <li><a href="#xagent">XAgent</a></li>
 <li><a href="#xmacna-funcionario-digital-agentget-pack">XMACNA Funcionario Digital AgentGet Pack</a></li>
 <li><a href="#youtube-skills-for-ai-agents">YouTube Skills for AI Agents</a></li>
@@ -491,7 +492,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 </details>
 
 <details>
-<summary>💻 Terminal-Friendly (15)</summary>
+<summary>💻 Terminal-Friendly (16)</summary>
 <ul>
 <li><a href="#agent-manager">agent-manager</a></li>
 <li><a href="#agenttrace">AgentTrace</a></li>
@@ -507,6 +508,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 <li><a href="#since-cutoff">since-cutoff</a></li>
 <li><a href="#smolagents">smolagents</a></li>
 <li><a href="#winkterm">WinkTerm</a></li>
+<li><a href="#wippaagent">wippaAGENT</a></li>
 <li><a href="#zaru">Zaru</a></li>
 </ul>
 </details>
@@ -4171,6 +4173,18 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/Cznorth/winkterm">github</a></p>
 <p><strong>Capabilities:</strong> Answer questions using live terminal context · Draft commands for a person to inspect before execution · Manage SSH sessions and file transfers · Connect external coding agents through an API and skill</p>
 <p><strong>Interfaces:</strong> Web UI · CLI · SSH · Docker · HTTP API</p>
+</div>
+
+### wippaAGENT
+<div><a href="https://github.com/wippa-studios/wippaAGENT"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/wippa-studios/wippaAGENT"><img src="https://img.shields.io/github/stars/wippa-studios/wippaAGENT?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/wippa-studios">@wippa-studios</a></p>
+<p>🤖 AI Agents | 💻 Terminal-Friendly</p>
+
+<p>wippaAGENT is an install-once agent configuration for OpenCode: a primary orchestrator plans, delegates, and verifies each task, twelve specialists take the delegated work, and every change goes through audit and review passes before it is reported. Ships with three MCP servers, a bounded verify tool with timeouts and output caps, and an installer that wires the roster and config into a project.</p>
+
+<p><a href="https://github.com/wippa-studios/wippaAGENT">github</a></p>
+<p><strong>Capabilities:</strong> Install once and point OpenCode's configuration at a primary agent that plans, delegates, and verifies each task · Route every change through audit and review passes, with specialists for research, code, quality, data, docs, and infrastructure · Bound every command the setup runs with timeouts, output caps, and typed failure reasons so verdicts cannot invert on large output</p>
+<p><strong>Interfaces:</strong> CLI · OpenCode</p>
 </div>
 
 ### WritBase
