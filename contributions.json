@@ -1381,6 +1381,20 @@
           "status": "self_reported"
         }
       ]
+    },
+    {
+      "project_id": "noe-0c94ba37",
+      "submitted_by": [
+        {
+          "github_id": 230496675,
+          "login": "HarakaraSite",
+          "evidence_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/853",
+          "acceptance_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/853",
+          "at": "2026-10-25T11:53:52Z",
+          "status": "accepted_submission",
+          "founder_team_claim": true
+        }
+      ]
     }
   ]
 }

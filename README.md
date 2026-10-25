@@ -20,7 +20,7 @@ Listings require a public project repository on GitHub, GitLab.com, or Codeberg.
 Pick a category, open it, and choose a project to jump straight to its listing. A project with more than one category appears under each of them.
 
 <details>
-<summary>🤖 AI Agents (103)</summary>
+<summary>🤖 AI Agents (104)</summary>
 <ul>
 <li><a href="#agent-007">Agent 007</a></li>
 <li><a href="#agent-argue">Agent Argue</a></li>
@@ -86,6 +86,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 <li><a href="#nanocoder">Nanocoder</a></li>
 <li><a href="#narranexus">NarraNexus</a></li>
 <li><a href="#nexus-agent">Nexus-Agent</a></li>
+<li><a href="#noe">NOE</a></li>
 <li><a href="#notfair">NotFair</a></li>
 <li><a href="#octomind">Octomind</a></li>
 <li><a href="#okto-nexus">Okto-Nexus</a></li>
@@ -160,7 +161,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 </details>
 
 <details>
-<summary>⚙️ Development Frameworks (89)</summary>
+<summary>⚙️ Development Frameworks (90)</summary>
 <ul>
 <li><a href="#agency-swarm-by-vrsen">Agency Swarm by VRSEN</a></li>
 <li><a href="#agent-express">Agent Express</a></li>
@@ -221,6 +222,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 <li><a href="#myspec-claude-code-plugins">MySpec Claude Code Plugins</a></li>
 <li><a href="#n3rv-formerly-nerv">n3rv (formerly NERV)</a></li>
 <li><a href="#nexus-agent">Nexus-Agent</a></li>
+<li><a href="#noe">NOE</a></li>
 <li><a href="#octomind">Octomind</a></li>
 <li><a href="#oixa-protocol">OIXA Protocol</a></li>
 <li><a href="#okto-nexus">Okto-Nexus</a></li>
@@ -2939,6 +2941,16 @@ Here's an awesome list of AI agents:
 <p>An open-source gateway for AI agents acting on financial data: verifies supporting evidence, evaluates a bounded policy, returns PERMIT, BLOCK, or ESCALATE, and emits a hash-chained receipt.</p>
 
 <p><a href="https://github.com/arian-gogani/nobulex-registry">github</a></p>
+</div>
+
+### NOE
+<div><a href="https://github.com/HarakaraSite/noe"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/HarakaraSite/noe"><img src="https://img.shields.io/github/stars/HarakaraSite/noe?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/HarakaraSite">@HarakaraSite</a> <small>(self-reported founder/team)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/853">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/853">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/HarakaraSite">@HarakaraSite</a></p>
+<p>🤖 AI Agents | ⚙️ Development Frameworks</p>
+
+<p>Pure-Go JavaScript runtime for scripts and autonomous AI agents. Agents write and execute JavaScript, access files and processes, and delegate tasks to subagents. Run from the CLI or embed the runtime and agents in Go applications.</p>
+
+<p><a href="https://github.com/HarakaraSite/noe">github</a></p>
 </div>
 
 ### NotFair

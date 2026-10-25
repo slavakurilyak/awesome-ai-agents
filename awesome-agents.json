@@ -1,6 +1,27 @@
 {
   "agents": [
     {
+      "id": "noe-0c94ba37",
+      "project": "NOE",
+      "project_description": "Pure-Go JavaScript runtime for scripts and autonomous AI agents. Agents write and execute JavaScript, access files and processes, and delegate tasks to subagents. Run from the CLI or embed the runtime and agents in Go applications.",
+      "has_public_repository": true,
+      "categories": [
+        "Development Frameworks",
+        "AI Agents"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/HarakaraSite/noe",
+          "repository_owner": "HarakaraSite",
+          "repository_owner_url": "https://github.com/HarakaraSite",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-10-25T11:52:01Z",
+          "repository_status": "active"
+        }
+      ]
+    },
+    {
       "id": "aster-712d33a8",
       "project": "Aster",
       "project_description": "Aster is a local-first software-engineering agent that uses shared tools, permissions, memory, skills, and retrieval for chat, code review, and fixes.",
