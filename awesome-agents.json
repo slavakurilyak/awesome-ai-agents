@@ -8505,6 +8505,26 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "id": "design-os-studio-2020bc5b",
+      "project": "DESIGN:OS Studio",
+      "project_description": "A local interface design studio written in Rust that opens and saves .fig files, runs the user's own coding-agent CLI (Claude Code, Codex, Gemini CLI and others) in an Agents panel on the open file, and ships an MCP server so agents can read the design and its design system, apply batched edits and lint the result.",
+      "has_public_repository": true,
+      "categories": [
+        "MCP Servers"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/jangtrinh/design-os-studio",
+          "repository_owner": "jangtrinh",
+          "repository_owner_url": "https://github.com/jangtrinh",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-10-27T02:11:38Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [

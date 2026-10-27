@@ -537,7 +537,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 </details>
 
 <details>
-<summary>🔌 MCP Servers (21)</summary>
+<summary>🔌 MCP Servers (22)</summary>
 <ul>
 <li><a href="#agentservices">AgentServices</a></li>
 <li><a href="#ai-for-database-mcp-server">AI for Database MCP Server</a></li>
@@ -546,6 +546,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 <li><a href="#ceki-mcp-server">Ceki MCP Server</a></li>
 <li><a href="#context7">Context7</a></li>
 <li><a href="#court-rules">Court Rules</a></li>
+<li><a href="#designos-studio">DESIGN:OS Studio</a></li>
 <li><a href="#github-mcp-server">GitHub MCP Server</a></li>
 <li><a href="#hermes-plant">Hermes Plant</a></li>
 <li><a href="#human-pages-mcp-server">Human Pages MCP Server</a></li>
@@ -1838,6 +1839,16 @@ Here's an awesome list of AI agents:
 <p>DB-GPT revolutionizes database interactions using private LLM technology, enabling streamlined AI-native data app development with multi-model management, Text2SQL optimization, and fine-tuning, facilitating enterprises and developers to create bespoke applications in the Data 3.0 era</p>
 
 <p><a href="https://github.com/eosphoros-ai/DB-GPT">github</a> | <a href="https://github.com/eosphoros-ai">github profile</a></p>
+</div>
+
+### DESIGN:OS Studio
+<div><a href="https://github.com/jangtrinh/design-os-studio"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/jangtrinh/design-os-studio"><img src="https://img.shields.io/github/stars/jangtrinh/design-os-studio?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/jangtrinh">@jangtrinh</a></p>
+<p>🔌 MCP Servers</p>
+
+<p>A local interface design studio written in Rust that opens and saves .fig files, runs the user's own coding-agent CLI (Claude Code, Codex, Gemini CLI and others) in an Agents panel on the open file, and ships an MCP server so agents can read the design and its design system, apply batched edits and lint the result.</p>
+
+<p><a href="https://github.com/jangtrinh/design-os-studio">github</a></p>
 </div>
 
 ### Devid by Agency Swarm
