@@ -1,6 +1,36 @@
 {
   "agents": [
     {
+      "id": "agboss-079e03e3",
+      "project": "AGBoss",
+      "project_description": "AGBoss is an open-source TypeScript framework for building multi-agent workflows on top of LangGraph with constructor dependency injection, declarative typed workflow routing, compile-time structural graph verification (agboss check), and deterministic isolated unit testing.",
+      "has_public_repository": true,
+      "categories": [
+        "Development Frameworks"
+      ],
+      "capabilities": [
+        "Compile and statically verify LangGraph workflow graphs and typed dataflow before execution (agboss check)",
+        "Assemble agents, actions, routers, arbiters, tools, MCP servers, and A2A services via constructor dependency injection",
+        "Run deterministic isolated unit and evaluation suites for multi-agent workflows"
+      ],
+      "interfaces": [
+        "CLI",
+        "TypeScript SDK",
+        "MCP"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/agbossjs/agboss",
+          "repository_owner": "agbossjs",
+          "repository_owner_url": "https://github.com/agbossjs",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-10-27T21:00:00Z",
+          "repository_status": "active"
+        }
+      ]
+    },
+    {
       "id": "aster-712d33a8",
       "project": "Aster",
       "project_description": "Aster is a local-first software-engineering agent that uses shared tools, permissions, memory, skills, and retrieval for chat, code review, and fixes.",

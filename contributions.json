@@ -1,6 +1,20 @@
 {
   "projects": [
     {
+      "project_id": "agboss-079e03e3",
+      "submitted_by": [
+        {
+          "github_id": 21992899,
+          "login": "PavelRavvich",
+          "evidence_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/867",
+          "acceptance_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/867",
+          "at": "2026-10-27T21:03:34Z",
+          "status": "accepted_submission",
+          "founder_team_claim": true
+        }
+      ]
+    },
+    {
       "project_id": "agent-007-30aa7b68",
       "submitted_by": [
         {
