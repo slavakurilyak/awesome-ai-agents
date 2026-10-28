@@ -1381,6 +1381,19 @@
           "status": "self_reported"
         }
       ]
+    },
+    {
+      "project_id": "openflow-6ebdee92",
+      "submitted_by": [
+        {
+          "github_id": 209239467,
+          "login": "surlymochan",
+          "evidence_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/875",
+          "acceptance_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/875",
+          "at": "2026-10-28T18:12:30Z",
+          "status": "accepted_submission"
+        }
+      ]
     }
   ]
 }

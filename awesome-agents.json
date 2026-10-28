@@ -8505,6 +8505,27 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "id": "openflow-6ebdee92",
+      "project": "OpenFlow",
+      "project_description": "Executable delivery workflows for AI coding agents: delivery phases and acceptance evidence are defined in YAML, and red/green TDD proof gates are checked by code through the xflow CLI for Codex, Claude Code, and Cursor.",
+      "has_public_repository": true,
+      "categories": [
+        "Flow Engineering (Platform Engineering)",
+        "Terminal-Friendly"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/surlymochan/openflow",
+          "repository_owner": "surlymochan",
+          "repository_owner_url": "https://github.com/surlymochan",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-10-28T18:11:22Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [

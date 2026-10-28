@@ -480,18 +480,19 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 </details>
 
 <details>
-<summary>🔄 Flow Engineering (Platform Engineering) (5)</summary>
+<summary>🔄 Flow Engineering (Platform Engineering) (6)</summary>
 <ul>
 <li><a href="#covey">covey</a></li>
 <li><a href="#dspy">DSPY</a></li>
 <li><a href="#maestro">Maestro</a></li>
+<li><a href="#openflow">OpenFlow</a></li>
 <li><a href="#rote">rote</a></li>
 <li><a href="#tale">Tale</a></li>
 </ul>
 </details>
 
 <details>
-<summary>💻 Terminal-Friendly (15)</summary>
+<summary>💻 Terminal-Friendly (16)</summary>
 <ul>
 <li><a href="#agent-manager">agent-manager</a></li>
 <li><a href="#agenttrace">AgentTrace</a></li>
@@ -503,6 +504,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 <li><a href="#hermes-agent">Hermes Agent</a></li>
 <li><a href="#lucinate">lucinate</a></li>
 <li><a href="#nanocoder">Nanocoder</a></li>
+<li><a href="#openflow">OpenFlow</a></li>
 <li><a href="#opus-manager">Opus Manager</a></li>
 <li><a href="#since-cutoff">since-cutoff</a></li>
 <li><a href="#smolagents">smolagents</a></li>
@@ -3131,6 +3133,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/flik2002/openclaw-monitor">github</a></p>
 <p><strong>Capabilities:</strong> Monitor live agent sessions and task schedules · Track per-model token usage and message trends · Display local system uptime and memory metrics</p>
 <p><strong>Interfaces:</strong> Web dashboard · Node.js API · Windows launcher</p>
+</div>
+
+### OpenFlow
+<div><a href="https://github.com/surlymochan/openflow"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/surlymochan/openflow"><img src="https://img.shields.io/github/stars/surlymochan/openflow?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/surlymochan">@surlymochan</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/875">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/875">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/surlymochan">@surlymochan</a></p>
+<p>🔄 Flow Engineering (Platform Engineering) | 💻 Terminal-Friendly</p>
+
+<p>Executable delivery workflows for AI coding agents: delivery phases and acceptance evidence are defined in YAML, and red/green TDD proof gates are checked by code through the xflow CLI for Codex, Claude Code, and Cursor.</p>
+
+<p><a href="https://github.com/surlymochan/openflow">github</a></p>
 </div>
 
 ### OpenHands (formerly OpenDevin)
