@@ -8505,6 +8505,27 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "id": "bestprice-mcp-54a74306",
+      "project": "BestPrice MCP",
+      "project_description": "BestPrice.gr's official MCP server and agent plugin. It gives agents read-only Greek product search, current shop offers with delivered totals, offer comparison and price history over a keyless remote endpoint.",
+      "has_public_repository": true,
+      "categories": [
+        "MCP Servers",
+        "Tool Calling (Function Calling)"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/TheBestCo/bestprice-mcp",
+          "repository_owner": "TheBestCo",
+          "repository_owner_url": "https://github.com/TheBestCo",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-10-29T13:56:06Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [

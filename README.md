@@ -415,7 +415,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 </details>
 
 <details>
-<summary>🔧 Tool Calling (Function Calling) (24)</summary>
+<summary>🔧 Tool Calling (Function Calling) (25)</summary>
 <ul>
 <li><a href="#agent-trust-stack-mcp-server">Agent Trust Stack MCP Server</a></li>
 <li><a href="#agent-body">Agent-Body</a></li>
@@ -423,6 +423,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 <li><a href="#aigen-protocol">AIGEN Protocol</a></li>
 <li><a href="#arch-tools">Arch Tools</a></li>
 <li><a href="#baizhi-agent-toolkit">Baizhi Agent Toolkit</a></li>
+<li><a href="#bestprice-mcp">BestPrice MCP</a></li>
 <li><a href="#bulkpublish">BulkPublish</a></li>
 <li><a href="#buywhere-mcp-server">BuyWhere MCP Server</a></li>
 <li><a href="#connectonion">ConnectOnion</a></li>
@@ -537,11 +538,12 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 </details>
 
 <details>
-<summary>🔌 MCP Servers (21)</summary>
+<summary>🔌 MCP Servers (22)</summary>
 <ul>
 <li><a href="#agentservices">AgentServices</a></li>
 <li><a href="#ai-for-database-mcp-server">AI for Database MCP Server</a></li>
 <li><a href="#bestax-mcp">bestax-mcp</a></li>
+<li><a href="#bestprice-mcp">BestPrice MCP</a></li>
 <li><a href="#busabase">Busabase</a></li>
 <li><a href="#ceki-mcp-server">Ceki MCP Server</a></li>
 <li><a href="#context7">Context7</a></li>
@@ -1377,6 +1379,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/allxsmith/bestax">github</a></p>
 <p><strong>Capabilities:</strong> Look up component props, examples, and CSS variables · Serve seven UI-development skills and their references offline</p>
 <p><strong>Interfaces:</strong> MCP server</p>
+</div>
+
+### BestPrice MCP
+<div><a href="https://github.com/TheBestCo/bestprice-mcp"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/TheBestCo/bestprice-mcp"><img src="https://img.shields.io/github/stars/TheBestCo/bestprice-mcp?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/phaistonian">@phaistonian</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/879">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/879">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/TheBestCo">@TheBestCo</a></p>
+<p>🔌 MCP Servers | 🔧 Tool Calling (Function Calling)</p>
+
+<p>BestPrice.gr's official MCP server and agent plugin. It gives agents read-only Greek product search, current shop offers with delivered totals, offer comparison and price history over a keyless remote endpoint.</p>
+
+<p><a href="https://github.com/TheBestCo/bestprice-mcp">github</a></p>
 </div>
 
 ### BindAI
