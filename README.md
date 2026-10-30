@@ -3581,7 +3581,7 @@ Here's an awesome list of AI agents:
 
 ### Say-Do Diff
 <div><a href="https://github.com/SolokitStudio/say-do-diff"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/SolokitStudio/say-do-diff"><img src="https://img.shields.io/github/stars/SolokitStudio/say-do-diff?style=social" alt="GitHub stars"></a></div>
-<p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/SolokitStudio">@SolokitStudio</a></p>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/SolokitStudio">@SolokitStudio</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/889">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/889">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/SolokitStudio">@SolokitStudio</a></p>
 <p>📊 Evaluation Frameworks</p>
 
 <p>Say-Do Diff checks an AI agent's final reply against its tool-call log and flags completed-action claims, such as "sent" or "refunded", that the log does not support.</p>
