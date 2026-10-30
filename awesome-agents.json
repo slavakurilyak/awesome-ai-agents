@@ -8505,6 +8505,27 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "id": "allscreenshots-2aa7b24f",
+      "project": "Allscreenshots",
+      "project_description": "Allscreenshots is an MCP server and Claude Code/Codex plugin that lets agents capture website screenshots, run bulk captures, and manage screenshot schedules through the Allscreenshots API.",
+      "has_public_repository": true,
+      "categories": [
+        "MCP Servers",
+        "Tool Calling (Function Calling)"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/allscreenshots/allscreenshots-plugin",
+          "repository_owner": "allscreenshots",
+          "repository_owner_url": "https://github.com/allscreenshots",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-10-30T01:53:45Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [

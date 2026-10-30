@@ -415,12 +415,13 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 </details>
 
 <details>
-<summary>🔧 Tool Calling (Function Calling) (24)</summary>
+<summary>🔧 Tool Calling (Function Calling) (25)</summary>
 <ul>
 <li><a href="#agent-trust-stack-mcp-server">Agent Trust Stack MCP Server</a></li>
 <li><a href="#agent-body">Agent-Body</a></li>
 <li><a href="#ai-for-database-mcp-server">AI for Database MCP Server</a></li>
 <li><a href="#aigen-protocol">AIGEN Protocol</a></li>
+<li><a href="#allscreenshots">Allscreenshots</a></li>
 <li><a href="#arch-tools">Arch Tools</a></li>
 <li><a href="#baizhi-agent-toolkit">Baizhi Agent Toolkit</a></li>
 <li><a href="#bulkpublish">BulkPublish</a></li>
@@ -537,10 +538,11 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 </details>
 
 <details>
-<summary>🔌 MCP Servers (21)</summary>
+<summary>🔌 MCP Servers (22)</summary>
 <ul>
 <li><a href="#agentservices">AgentServices</a></li>
 <li><a href="#ai-for-database-mcp-server">AI for Database MCP Server</a></li>
+<li><a href="#allscreenshots">Allscreenshots</a></li>
 <li><a href="#bestax-mcp">bestax-mcp</a></li>
 <li><a href="#busabase">Busabase</a></li>
 <li><a href="#ceki-mcp-server">Ceki MCP Server</a></li>
@@ -1109,6 +1111,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/HMAKT99/AKF">github</a></p>
 <p><strong>Capabilities:</strong> Attach provenance and trust metadata to files · Inspect and verify claims and evidence · Replay checks against recorded evidence</p>
 <p><strong>Interfaces:</strong> CLI · Python package · TypeScript package · MCP server</p>
+</div>
+
+### Allscreenshots
+<div><a href="https://github.com/allscreenshots/allscreenshots-plugin"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/allscreenshots/allscreenshots-plugin"><img src="https://img.shields.io/github/stars/allscreenshots/allscreenshots-plugin?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/bodiam">@bodiam</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/885">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/885">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/allscreenshots">@allscreenshots</a></p>
+<p>🔌 MCP Servers | 🔧 Tool Calling (Function Calling)</p>
+
+<p>Allscreenshots is an MCP server and Claude Code/Codex plugin that lets agents capture website screenshots, run bulk captures, and manage screenshot schedules through the Allscreenshots API.</p>
+
+<p><a href="https://github.com/allscreenshots/allscreenshots-plugin">github</a></p>
 </div>
 
 ### ANUS
