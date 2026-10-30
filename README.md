@@ -1959,7 +1959,7 @@ Here's an awesome list of AI agents:
 
 ### Fax for Agents
 <div><a href="https://github.com/faxforagents/mcp"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/faxforagents/mcp"><img src="https://img.shields.io/github/stars/faxforagents/mcp?style=social" alt="GitHub stars"></a></div>
-<p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/faxforagents">@faxforagents</a></p>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/bensynapse">@bensynapse</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/890">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/890">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/faxforagents">@faxforagents</a></p>
 <p>🔌 MCP Servers</p>
 
 <p>Fax for Agents is a fax API, a hosted MCP server and SDKs built so AI agents can send and receive faxes. The MCP server exposes 15 tools for quotes, sending, delivery evidence, human approval and received faxes, with guide resources and prompts.</p>

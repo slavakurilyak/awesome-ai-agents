@@ -1381,6 +1381,19 @@
           "status": "self_reported"
         }
       ]
+    },
+    {
+      "project_id": "fax-for-agents-5246e56d",
+      "submitted_by": [
+        {
+          "github_id": 118375461,
+          "login": "bensynapse",
+          "evidence_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/890",
+          "acceptance_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/890",
+          "at": "2026-10-30T23:41:07Z",
+          "status": "accepted_submission"
+        }
+      ]
     }
   ]
 }
