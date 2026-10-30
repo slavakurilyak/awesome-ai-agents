@@ -537,7 +537,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 </details>
 
 <details>
-<summary>🔌 MCP Servers (21)</summary>
+<summary>🔌 MCP Servers (22)</summary>
 <ul>
 <li><a href="#agentservices">AgentServices</a></li>
 <li><a href="#ai-for-database-mcp-server">AI for Database MCP Server</a></li>
@@ -546,6 +546,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 <li><a href="#ceki-mcp-server">Ceki MCP Server</a></li>
 <li><a href="#context7">Context7</a></li>
 <li><a href="#court-rules">Court Rules</a></li>
+<li><a href="#fax-for-agents">Fax for Agents</a></li>
 <li><a href="#github-mcp-server">GitHub MCP Server</a></li>
 <li><a href="#hermes-plant">Hermes Plant</a></li>
 <li><a href="#human-pages-mcp-server">Human Pages MCP Server</a></li>
@@ -1954,6 +1955,16 @@ Here's an awesome list of AI agents:
 <p>EVO-AI is a distributed language-model project that evolves model weights across volunteer nodes and exposes generation through HTTP and A2A JSON-RPC interfaces.</p>
 
 <p><a href="https://github.com/Mafengwo292/evo-ai">github</a></p>
+</div>
+
+### Fax for Agents
+<div><a href="https://github.com/faxforagents/mcp"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/faxforagents/mcp"><img src="https://img.shields.io/github/stars/faxforagents/mcp?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/faxforagents">@faxforagents</a></p>
+<p>🔌 MCP Servers</p>
+
+<p>Fax for Agents is a fax API, a hosted MCP server and SDKs built so AI agents can send and receive faxes. The MCP server exposes 15 tools for quotes, sending, delivery evidence, human approval and received faxes, with guide resources and prompts.</p>
+
+<p><a href="https://github.com/faxforagents/mcp">github</a></p>
 </div>
 
 ### Fazm
