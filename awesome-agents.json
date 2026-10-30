@@ -8505,6 +8505,37 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "id": "say-do-diff-5664d739",
+      "project": "Say-Do Diff",
+      "project_description": "Say-Do Diff checks an AI agent's final reply against its tool-call log and flags completed-action claims, such as \"sent\" or \"refunded\", that the log does not support.",
+      "has_public_repository": true,
+      "categories": [
+        "Evaluation Frameworks"
+      ],
+      "capabilities": [
+        "Extract completed-action claims from an agent's final reply and grade each against the tool-call log from the same run",
+        "Flag claims whose wording is stronger than the logged evidence, with separate exit codes for payment and delete claims",
+        "Run as a CLI, a Python API or a composite GitHub Action over saved runs",
+        "Record tool logs from LangChain/LangGraph and n8n with the included examples"
+      ],
+      "interfaces": [
+        "CLI",
+        "Python SDK",
+        "GitHub Action"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/SolokitStudio/say-do-diff",
+          "repository_owner": "SolokitStudio",
+          "repository_owner_url": "https://github.com/SolokitStudio",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-10-30T16:18:01Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [

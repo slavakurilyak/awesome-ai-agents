@@ -255,7 +255,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 </details>
 
 <details>
-<summary>📊 Evaluation Frameworks (13)</summary>
+<summary>📊 Evaluation Frameworks (14)</summary>
 <ul>
 <li><a href="#agentfix-mini-scanner">agentfix-mini-scanner</a></li>
 <li><a href="#agentleak">AgentLeak</a></li>
@@ -268,6 +268,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 <li><a href="#langfuse">LangFuse</a></li>
 <li><a href="#opik">Opik</a></li>
 <li><a href="#project-telos">Project Telos</a></li>
+<li><a href="#say-do-diff">Say-Do Diff</a></li>
 <li><a href="#self-auditing-agent">Self Auditing Agent</a></li>
 <li><a href="#the-agentic-leaderboard">The Agentic Leaderboard</a></li>
 </ul>
@@ -3576,6 +3577,18 @@ Here's an awesome list of AI agents:
 <p>A hosted MCP server and agent skill for searching an index of onchain-agent tooling and checking package reports about key access, key egress, and fund actions before installation. Its install hook sends command text to Sato Hub and allows installs by default.</p>
 
 <p><a href="https://github.com/satohubai/sato-hub-skill">github</a></p>
+</div>
+
+### Say-Do Diff
+<div><a href="https://github.com/SolokitStudio/say-do-diff"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/SolokitStudio/say-do-diff"><img src="https://img.shields.io/github/stars/SolokitStudio/say-do-diff?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/SolokitStudio">@SolokitStudio</a></p>
+<p>📊 Evaluation Frameworks</p>
+
+<p>Say-Do Diff checks an AI agent's final reply against its tool-call log and flags completed-action claims, such as "sent" or "refunded", that the log does not support.</p>
+
+<p><a href="https://github.com/SolokitStudio/say-do-diff">github</a></p>
+<p><strong>Capabilities:</strong> Extract completed-action claims from an agent's final reply and grade each against the tool-call log from the same run · Flag claims whose wording is stronger than the logged evidence, with separate exit codes for payment and delete claims · Run as a CLI, a Python API or a composite GitHub Action over saved runs · Record tool logs from LangChain/LangGraph and n8n with the included examples</p>
+<p><strong>Interfaces:</strong> CLI · Python SDK · GitHub Action</p>
 </div>
 
 ### Sayna
