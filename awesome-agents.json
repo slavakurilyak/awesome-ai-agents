@@ -6262,6 +6262,26 @@
       ]
     },
     {
+      "id": "fax-for-agents-5246e56d",
+      "project": "Fax for Agents",
+      "project_description": "Fax for Agents is a fax API, a hosted MCP server and SDKs built so AI agents can send and receive faxes. The MCP server exposes 15 tools for quotes, sending, delivery evidence, human approval and received faxes, with guide resources and prompts.",
+      "has_public_repository": true,
+      "categories": [
+        "MCP Servers"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/faxforagents/mcp",
+          "repository_owner": "faxforagents",
+          "repository_owner_url": "https://github.com/faxforagents",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-10-30T23:40:23Z",
+          "repository_status": "active"
+        }
+      ]
+    },
+    {
       "id": "fazm-31fc75e0",
       "project": "Fazm",
       "project_description": "A local macOS AI computer agent that uses voice and visual context to operate apps, browsers, documents, and workflows.",
