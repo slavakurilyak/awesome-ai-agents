@@ -1,6 +1,28 @@
 {
   "agents": [
     {
+      "id": "anymodelbot-5c1e7a42",
+      "project": "AnyModelBot",
+      "project_description": "AnyModelBot is an open-source, local-first personal AI assistant that runs as a desktop app, in Docker, or as a local web app. The app is free; models are accessed through a single Modelflare API key (pay per use). It is not an offline local-LLM runtime.",
+      "has_public_repository": true,
+      "categories": [
+        "Personal Assistants"
+      ],
+      "sources": [
+        {
+      
+
+
+
+
+
+
+
+
+
+
+
+    {
       "id": "aster-712d33a8",
       "project": "Aster",
       "project_description": "Aster is a local-first software-engineering agent that uses shared tools, permissions, memory, skills, and retrieval for chat, code review, and fixes.",
