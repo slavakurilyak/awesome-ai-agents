@@ -251,6 +251,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 <li><a href="#vetto">Vetto</a></li>
 <li><a href="#writbase">WritBase</a></li>
 <li><a href="#zapier-sdk">Zapier SDK</a></li>
+* **[O9-RD-MAO-Governance](https://github.com/Over9rowth/O9-RD-MAO-Governance)** - Deterministic software engineering governance for Multi-Agent coding workflows (G0-G7 state machine, SHA-256 baseline locking, black-box-first QA, zero-dep CLI & 14-chapter guide).
 </ul>
 </details>
 
