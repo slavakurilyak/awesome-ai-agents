@@ -4527,7 +4527,7 @@
     {
       "id": "due-diligence-agents-91c1d2ef",
       "project": "Due Diligence Agents",
-      "project_description": "A local forensic M&A due-diligence application that coordinates specialist agents across nine domains and traces findings to source pages and quotations.",
+      "project_description": "A local forensic M\u0026A due-diligence application that coordinates specialist agents across nine domains and traces findings to source pages and quotations.",
       "has_public_repository": true,
       "categories": [
         "AI Agents"
@@ -8507,6 +8507,7 @@
       ]
     },
     {
+      "id": "memdoor-c67cd1a4",
       "project": "Memdoor",
       "project_description": "A terminal coding agent shipped as one Go binary that runs coding work as YAML workflows: a graph of agent and command steps where each step is done only when its output file exists or its command exits 0, with approval gates and resume. It works with any provider key, a ChatGPT plan, or a local model through Ollama, llama.cpp, vLLM or LM Studio.",
       "has_public_repository": true,
@@ -8518,8 +8519,11 @@
         {
           "source": "github",
           "source_url": "https://github.com/guregodevo/memdoor",
-          "repository_status": "active",
-          "stars_last_updated": null
+          "repository_owner": "guregodevo",
+          "repository_owner_url": "https://github.com/guregodevo",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-11-02T19:32:57Z",
+          "repository_status": "active"
         }
       ]
     }
