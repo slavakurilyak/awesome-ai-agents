@@ -20,7 +20,7 @@ Listings require a public project repository on GitHub, GitLab.com, or Codeberg.
 Pick a category, open it, and choose a project to jump straight to its listing. A project with more than one category appears under each of them.
 
 <details>
-<summary>🤖 AI Agents (103)</summary>
+<summary>🤖 AI Agents (104)</summary>
 <ul>
 <li><a href="#agent-007">Agent 007</a></li>
 <li><a href="#agent-argue">Agent Argue</a></li>
@@ -82,6 +82,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 <li><a href="#looptroop">LoopTroop</a></li>
 <li><a href="#maestro">Maestro</a></li>
 <li><a href="#max-cli">Max CLI</a></li>
+<li><a href="#memdoor">Memdoor</a></li>
 <li><a href="#mysti">Mysti</a></li>
 <li><a href="#nanocoder">Nanocoder</a></li>
 <li><a href="#narranexus">NarraNexus</a></li>
@@ -301,12 +302,13 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 </details>
 
 <details>
-<summary>💻 Local Inference (10)</summary>
+<summary>💻 Local Inference (11)</summary>
 <ul>
 <li><a href="#atomic-agent">Atomic Agent</a></li>
 <li><a href="#corvinos">CorvinOS</a></li>
 <li><a href="#jan">Jan</a></li>
 <li><a href="#localgpt">LocalGPT</a></li>
+<li><a href="#memdoor">Memdoor</a></li>
 <li><a href="#nanocoder">Nanocoder</a></li>
 <li><a href="#ollama">Ollama</a></li>
 <li><a href="#pok-agent">POK-Agent</a></li>
@@ -2751,6 +2753,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/Felo-Inc/memclaw">github</a></p>
 <p><strong>Capabilities:</strong> Keep separate memory workspaces for each project · Store and retrieve project context for coding agents · Review and manage saved memories in a web dashboard</p>
 <p><strong>Interfaces:</strong> MCP · Web dashboard · Agent skill</p>
+</div>
+
+### Memdoor
+<div><a href="https://github.com/guregodevo/memdoor"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/guregodevo/memdoor"><img src="https://img.shields.io/github/stars/guregodevo/memdoor?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/guregodevo">@guregodevo</a></p>
+<p>🤖 AI Agents | 💻 Local Inference</p>
+
+<p>A terminal coding agent shipped as one Go binary that runs coding work as YAML workflows: a graph of agent and command steps where each step is done only when its output file exists or its command exits 0, with approval gates and resume. It works with any provider key, a ChatGPT plan, or a local model through Ollama, llama.cpp, vLLM or LM Studio.</p>
+
+<p><a href="https://github.com/guregodevo/memdoor">github</a></p>
 </div>
 
 ### MemGPT

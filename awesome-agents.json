@@ -8505,6 +8505,27 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "id": "memdoor-c67cd1a4",
+      "project": "Memdoor",
+      "project_description": "A terminal coding agent shipped as one Go binary that runs coding work as YAML workflows: a graph of agent and command steps where each step is done only when its output file exists or its command exits 0, with approval gates and resume. It works with any provider key, a ChatGPT plan, or a local model through Ollama, llama.cpp, vLLM or LM Studio.",
+      "has_public_repository": true,
+      "categories": [
+        "AI Agents",
+        "Local Inference"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/guregodevo/memdoor",
+          "repository_owner": "guregodevo",
+          "repository_owner_url": "https://github.com/guregodevo",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-11-02T19:32:57Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
