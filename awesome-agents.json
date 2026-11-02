@@ -8509,7 +8509,7 @@
     {
       "id": "spaceapp-41a7f0ca",
       "project": "SpaceApp",
-      "project_description": "SpaceApp is a self-hosted, source-available (BSL 1.1) web workspace that runs AI coding CLIs such as OpenCode, Codex, Claude Code and Gemini CLI side by side as terminal panes in persistent rooms, with MCP tool servers and managed browser panes.",
+      "project_description": "SpaceApp is a self-hosted, open-source (MIT) web workspace that runs AI coding CLIs such as OpenCode, Codex, Claude Code and Gemini CLI side by side as terminal panes in persistent rooms, with MCP tool servers and managed browser panes.",
       "has_public_repository": true,
       "categories": [
         "AI Agents"
@@ -8532,7 +8532,7 @@
           "repository_owner": "oll4com",
           "repository_owner_url": "https://github.com/oll4com",
           "stars_last_updated": null,
-          "repository_checked_at": "2026-10-16T05:28:24Z",
+          "repository_checked_at": "2026-11-02T15:35:24Z",
           "repository_status": "active"
         }
       ]
