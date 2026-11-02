@@ -1381,6 +1381,19 @@
           "status": "self_reported"
         }
       ]
+    },
+    {
+      "project_id": "spaceapp-41a7f0ca",
+      "submitted_by": [
+        {
+          "github_id": 177405165,
+          "login": "oll4com",
+          "evidence_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/790",
+          "acceptance_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/790",
+          "at": "2026-10-16T05:28:55Z",
+          "status": "accepted_submission"
+        }
+      ]
     }
   ]
 }

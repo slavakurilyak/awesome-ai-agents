@@ -8505,6 +8505,37 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "id": "spaceapp-41a7f0ca",
+      "project": "SpaceApp",
+      "project_description": "SpaceApp is a self-hosted, open-source (MIT) web workspace that runs AI coding CLIs such as OpenCode, Codex, Claude Code and Gemini CLI side by side as terminal panes in persistent rooms, with MCP tool servers and managed browser panes.",
+      "has_public_repository": true,
+      "categories": [
+        "AI Agents"
+      ],
+      "capabilities": [
+        "Run several coding agent CLIs at once, each in its own terminal pane, in rooms that keep their sessions",
+        "Give agent sessions MCP tool servers and managed Chrome browser panes",
+        "Coordinate work across a room's panes through a Room Agent",
+        "Install the Docker stack on Linux, macOS or Windows 11 with one npx command"
+      ],
+      "interfaces": [
+        "Web UI",
+        "CLI",
+        "MCP"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/oll4com/spaceapp",
+          "repository_owner": "oll4com",
+          "repository_owner_url": "https://github.com/oll4com",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-11-02T15:35:24Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [

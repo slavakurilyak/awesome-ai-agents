@@ -20,7 +20,7 @@ Listings require a public project repository on GitHub, GitLab.com, or Codeberg.
 Pick a category, open it, and choose a project to jump straight to its listing. A project with more than one category appears under each of them.
 
 <details>
-<summary>🤖 AI Agents (103)</summary>
+<summary>🤖 AI Agents (104)</summary>
 <ul>
 <li><a href="#agent-007">Agent 007</a></li>
 <li><a href="#agent-argue">Agent Argue</a></li>
@@ -113,6 +113,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 <li><a href="#smartipedia">Smartipedia</a></li>
 <li><a href="#solveathome">solveathome</a></li>
 <li><a href="#somora">somora</a></li>
+<li><a href="#spaceapp">SpaceApp</a></li>
 <li><a href="#storyroute">StoryRoute</a></li>
 <li><a href="#strata">Strata</a></li>
 <li><a href="#synapse-messenger">Synapse Messenger</a></li>
@@ -3750,6 +3751,18 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/sonz-ai/sonzai-go">github</a></p>
 <p><strong>Capabilities:</strong> Retrieve memory context bundles for agent sessions · Persist agent conversation turns and submit usage reports · Access Sonzai runtime and voice API resources from Go</p>
 <p><strong>Interfaces:</strong> Go module · REST API client</p>
+</div>
+
+### SpaceApp
+<div><a href="https://github.com/oll4com/spaceapp"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/oll4com/spaceapp"><img src="https://img.shields.io/github/stars/oll4com/spaceapp?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/oll4com">@oll4com</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/790">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/790">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/oll4com">@oll4com</a></p>
+<p>🤖 AI Agents</p>
+
+<p>SpaceApp is a self-hosted, open-source (MIT) web workspace that runs AI coding CLIs such as OpenCode, Codex, Claude Code and Gemini CLI side by side as terminal panes in persistent rooms, with MCP tool servers and managed browser panes.</p>
+
+<p><a href="https://github.com/oll4com/spaceapp">github</a></p>
+<p><strong>Capabilities:</strong> Run several coding agent CLIs at once, each in its own terminal pane, in rooms that keep their sessions · Give agent sessions MCP tool servers and managed Chrome browser panes · Coordinate work across a room's panes through a Room Agent · Install the Docker stack on Linux, macOS or Windows 11 with one npx command</p>
+<p><strong>Interfaces:</strong> Web UI · CLI · MCP</p>
 </div>
 
 ### sparkbtcbot-skill
