@@ -8505,6 +8505,27 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "id": "agent-money-bench-b445ebf1",
+      "project": "Agent Money Bench",
+      "project_description": "Agent Money Bench measures how well AI agents spend money: whether they pay the right seller, avoid paying twice, and get what they paid for. Every task settles in real USDC over x402, and scoring comes from the ledger, not the agent's own report.",
+      "has_public_repository": true,
+      "categories": [
+        "Evaluation Frameworks"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/BlockRunAI/agent-money-bench",
+          "repository_owner": "BlockRunAI",
+          "repository_owner_url": "https://github.com/BlockRunAI",
+          "stars": 20,
+          "stars_last_updated": "2026-11-05T01:03:01Z",
+          "repository_checked_at": "2026-11-05T01:03:01Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
