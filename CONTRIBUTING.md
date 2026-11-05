@@ -38,12 +38,17 @@ Pull requests are welcome for direct edits. `awesome-agents.json` is the canonic
 }
 ```
 
-Use an existing category from `awesome-categories.yaml`. Describe observable capabilities accurately; do not infer features from marketing claims alone. The `has_public_repository` value is derived from a successful forge metadata check, not from the contributor's assertion. For a single-project change, run these targeted commands from the repository root before opening a pull request, replacing the placeholder with the exact `project` value:
+Use an existing category from `awesome-categories.yaml`. Describe observable capabilities accurately; do not infer features from marketing claims alone. The `has_public_repository` value is derived from a successful forge metadata check, not from the contributor's assertion. For a single-project addition, run the preparation commands from the repository root before opening a pull request, replacing the placeholder with the exact project value:
 
 ```sh
 go run ./cmd/contributions assign-ids
 go run ./cmd/verify-forge-repositories --project "Project name"
 go run ./cmd/validate-data --project "Project name"
+```
+
+After opening a direct-addition pull request, a maintainer records its submitter from the open pull request GitHub metadata, then validates the contribution records and regenerates the README:
+
+```sh
 go run ./cmd/contributions record-direct-pr --project "Project name" --pr <pull-request-number>
 go run ./cmd/contributions validate --project "Project name"
 go run ./cmd/contributions validate
