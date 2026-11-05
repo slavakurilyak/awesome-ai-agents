@@ -8505,6 +8505,26 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "id": "agentkai-29a625e6",
+      "project": "AgentKai",
+      "project_description": "AgentKai is an open-source personal AI agent that runs on your own computer. It is model-agnostic - bring your own model (Claude, Gemini, GPT, a local Ollama model, GLM, or anything LiteLLM speaks) - and keeps the same tools, memory, scheduler, and local dashboard across models. Local-first: data stays on the user's machine.",
+      "has_public_repository": true,
+      "categories": [
+        "AI Agents"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/Bilal-Junaid-Jiwani/agentkai",
+          "repository_owner": "Bilal-Junaid-Jiwani",
+          "repository_owner_url": "https://github.com/Bilal-Junaid-Jiwani",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-11-05T10:56:09Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
