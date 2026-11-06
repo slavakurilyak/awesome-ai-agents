@@ -20,7 +20,7 @@ Listings require a public project repository on GitHub, GitLab.com, or Codeberg.
 Pick a category, open it, and choose a project to jump straight to its listing. A project with more than one category appears under each of them.
 
 <details>
-<summary>🤖 AI Agents (103)</summary>
+<summary>🤖 AI Agents (104)</summary>
 <ul>
 <li><a href="#agent-007">Agent 007</a></li>
 <li><a href="#agent-argue">Agent Argue</a></li>
@@ -66,6 +66,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 <li><a href="#eliaagent">EliaAgent</a></li>
 <li><a href="#evo-ai">EVO-AI</a></li>
 <li><a href="#fazm">Fazm</a></li>
+<li><a href="#flisk">Flisk</a></li>
 <li><a href="#flow-weaver">Flow Weaver</a></li>
 <li><a href="#frontman">Frontman</a></li>
 <li><a href="#giselle">Giselle</a></li>
@@ -1978,6 +1979,16 @@ Here's an awesome list of AI agents:
 <p>Firecrawl turns websites into Markdown and structured data through crawl, scrape, and extract APIs.</p>
 
 <p><a href="https://github.com/firecrawl/firecrawl">github</a></p>
+</div>
+
+### Flisk
+<div><a href="https://github.com/flisk-sh/flisk"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/flisk-sh/flisk"><img src="https://img.shields.io/github/stars/flisk-sh/flisk?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/kburym">@kburym</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/801">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/801">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/flisk-sh">@flisk-sh</a></p>
+<p>🤖 AI Agents</p>
+
+<p>Flisk runs local agent systems: scaffold an agent, an MCP tools server and a database with one command, then start them behind one gateway with durable checkpoint volumes, sticky session routing and health checks, without Kubernetes.</p>
+
+<p><a href="https://github.com/flisk-sh/flisk">github</a></p>
 </div>
 
 ### Flow Weaver

@@ -1381,6 +1381,19 @@
           "status": "self_reported"
         }
       ]
+    },
+    {
+      "project_id": "flisk-4d39cae5",
+      "submitted_by": [
+        {
+          "github_id": 57193032,
+          "login": "kburym",
+          "evidence_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/801",
+          "acceptance_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/801",
+          "at": "2026-10-17T19:09:29Z",
+          "status": "accepted_submission"
+        }
+      ]
     }
   ]
 }
