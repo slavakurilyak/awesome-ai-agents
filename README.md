@@ -537,7 +537,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 </details>
 
 <details>
-<summary>🔌 MCP Servers (21)</summary>
+<summary>🔌 MCP Servers (22)</summary>
 <ul>
 <li><a href="#agentservices">AgentServices</a></li>
 <li><a href="#ai-for-database-mcp-server">AI for Database MCP Server</a></li>
@@ -547,6 +547,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 <li><a href="#context7">Context7</a></li>
 <li><a href="#court-rules">Court Rules</a></li>
 <li><a href="#github-mcp-server">GitHub MCP Server</a></li>
+<li><a href="#global-law">Global law</a></li>
 <li><a href="#hermes-plant">Hermes Plant</a></li>
 <li><a href="#human-pages-mcp-server">Human Pages MCP Server</a></li>
 <li><a href="#hyperconsciousness">Hyperconsciousness</a></li>
@@ -2050,6 +2051,16 @@ Here's an awesome list of AI agents:
 <p>GitHub's official MCP server lets AI agents work with repositories, issues, pull requests, Actions, and code security through the Model Context Protocol.</p>
 
 <p><a href="https://github.com/github/github-mcp-server">github</a></p>
+</div>
+
+### Global law
+<div><a href="https://github.com/lexifina/global-law"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/lexifina/global-law"><img src="https://img.shields.io/github/stars/lexifina/global-law?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/lexifina">@lexifina</a></p>
+<p>🔌 MCP Servers</p>
+
+<p>Lexifina's hosted, read-only MCP server gives agents the legislation of 200+ countries as a dated history: read a provision as it stood on any date, see which law changed it and when, compare dates, search a country's law, and check legal citations. It needs no account or API key, and every answer links the official publisher's text.</p>
+
+<p><a href="https://github.com/lexifina/global-law">github</a></p>
 </div>
 
 ### GolemCore Bot
