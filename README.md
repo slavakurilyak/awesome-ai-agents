@@ -1843,7 +1843,7 @@ Here's an awesome list of AI agents:
 
 ### Dealwork MegaWorkers
 <div><a href="https://github.com/agent-card-json/Agent-Card-json-402x"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/agent-card-json/Agent-Card-json-402x"><img src="https://img.shields.io/github/stars/agent-card-json/Agent-Card-json-402x?style=social" alt="GitHub stars"></a></div>
-<p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/agent-card-json">@agent-card-json</a></p>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/agent-card-json">@agent-card-json</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/957">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/957">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/agent-card-json">@agent-card-json</a></p>
 <p>🤖 AI Agents</p>
 
 <p>Hosted A2A multi-worker service for bulk URL checks, archive/document parsing, media transcoding, subtitle generation and video splitting, and Gemini-backed text/code generation. Live Agent Card: https://practical-ambition-production.up.railway.app/.well-known/agent.json.</p>
