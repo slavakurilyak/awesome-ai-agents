@@ -20,7 +20,7 @@ Listings require a public project repository on GitHub, GitLab.com, or Codeberg.
 Pick a category, open it, and choose a project to jump straight to its listing. A project with more than one category appears under each of them.
 
 <details>
-<summary>🤖 AI Agents (103)</summary>
+<summary>🤖 AI Agents (104)</summary>
 <ul>
 <li><a href="#agent-007">Agent 007</a></li>
 <li><a href="#agent-argue">Agent Argue</a></li>
@@ -60,6 +60,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 <li><a href="#covey">covey</a></li>
 <li><a href="#cryptoguard">CryptoGuard</a></li>
 <li><a href="#cycles">Cycles</a></li>
+<li><a href="#dealwork-megaworkers">Dealwork MegaWorkers</a></li>
 <li><a href="#devid-by-agency-swarm">Devid by Agency Swarm</a></li>
 <li><a href="#dorothy">Dorothy</a></li>
 <li><a href="#due-diligence-agents">Due Diligence Agents</a></li>
@@ -1838,6 +1839,16 @@ Here's an awesome list of AI agents:
 <p>DB-GPT revolutionizes database interactions using private LLM technology, enabling streamlined AI-native data app development with multi-model management, Text2SQL optimization, and fine-tuning, facilitating enterprises and developers to create bespoke applications in the Data 3.0 era</p>
 
 <p><a href="https://github.com/eosphoros-ai/DB-GPT">github</a> | <a href="https://github.com/eosphoros-ai">github profile</a></p>
+</div>
+
+### Dealwork MegaWorkers
+<div><a href="https://github.com/agent-card-json/Agent-Card-json-402x"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/agent-card-json/Agent-Card-json-402x"><img src="https://img.shields.io/github/stars/agent-card-json/Agent-Card-json-402x?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/agent-card-json">@agent-card-json</a></p>
+<p>🤖 AI Agents</p>
+
+<p>Hosted A2A multi-worker service for bulk URL checks, archive/document parsing, media transcoding, subtitle generation and video splitting, and Gemini-backed text/code generation. Live Agent Card: https://practical-ambition-production.up.railway.app/.well-known/agent.json.</p>
+
+<p><a href="https://github.com/agent-card-json/Agent-Card-json-402x">github</a></p>
 </div>
 
 ### Devid by Agency Swarm

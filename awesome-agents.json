@@ -8505,6 +8505,26 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "id": "dealwork-megaworkers-b28b8032",
+      "project": "Dealwork MegaWorkers",
+      "project_description": "Hosted A2A multi-worker service for bulk URL checks, archive/document parsing, media transcoding, subtitle generation and video splitting, and Gemini-backed text/code generation. Live Agent Card: https://practical-ambition-production.up.railway.app/.well-known/agent.json.",
+      "has_public_repository": true,
+      "categories": [
+        "AI Agents"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/agent-card-json/Agent-Card-json-402x",
+          "repository_owner": "agent-card-json",
+          "repository_owner_url": "https://github.com/agent-card-json",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-11-11T18:27:49Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
