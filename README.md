@@ -4164,7 +4164,7 @@ Here's an awesome list of AI agents:
 
 ### wdx
 <div><a href="https://github.com/srjn45/wdx"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/srjn45/wdx"><img src="https://img.shields.io/github/stars/srjn45/wdx?style=social" alt="GitHub stars"></a></div>
-<p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/srjn45">@srjn45</a></p>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/srjn45">@srjn45</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/960">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/960">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/srjn45">@srjn45</a></p>
 <p>🤖 AI Agents | 💻 Terminal-Friendly</p>
 
 <p>wdx is an open-source daemon, CLI and terminal IDE that runs AI coding CLIs such as Claude Code, Codex, Cursor and Antigravity side by side on Linux and macOS, each agent optionally in its own git worktree, with its diff reviewed and landed from wdx.</p>
