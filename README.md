@@ -20,7 +20,7 @@ Listings require a public project repository on GitHub, GitLab.com, or Codeberg.
 Pick a category, open it, and choose a project to jump straight to its listing. A project with more than one category appears under each of them.
 
 <details>
-<summary>🤖 AI Agents (103)</summary>
+<summary>🤖 AI Agents (104)</summary>
 <ul>
 <li><a href="#agent-007">Agent 007</a></li>
 <li><a href="#agent-argue">Agent Argue</a></li>
@@ -120,6 +120,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 <li><a href="#tale">Tale</a></li>
 <li><a href="#taskade">Taskade</a></li>
 <li><a href="#titan">TITAN</a></li>
+<li><a href="#wdx">wdx</a></li>
 <li><a href="#winkterm">WinkTerm</a></li>
 <li><a href="#xagent">XAgent</a></li>
 <li><a href="#xmacna-funcionario-digital-agentget-pack">XMACNA Funcionario Digital AgentGet Pack</a></li>
@@ -491,7 +492,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 </details>
 
 <details>
-<summary>💻 Terminal-Friendly (15)</summary>
+<summary>💻 Terminal-Friendly (16)</summary>
 <ul>
 <li><a href="#agent-manager">agent-manager</a></li>
 <li><a href="#agenttrace">AgentTrace</a></li>
@@ -506,6 +507,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 <li><a href="#opus-manager">Opus Manager</a></li>
 <li><a href="#since-cutoff">since-cutoff</a></li>
 <li><a href="#smolagents">smolagents</a></li>
+<li><a href="#wdx">wdx</a></li>
 <li><a href="#winkterm">WinkTerm</a></li>
 <li><a href="#zaru">Zaru</a></li>
 </ul>
@@ -4158,6 +4160,18 @@ Here's an awesome list of AI agents:
 <p>Vetto is a daemon-less, rootless sandbox that applies kernel-enforced security policies to AI coding agents, with agent command shims and MCP tool isolation.</p>
 
 <p><a href="https://github.com/shleder/vetto">github</a></p>
+</div>
+
+### wdx
+<div><a href="https://github.com/srjn45/wdx"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/srjn45/wdx"><img src="https://img.shields.io/github/stars/srjn45/wdx?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/srjn45">@srjn45</a></p>
+<p>🤖 AI Agents | 💻 Terminal-Friendly</p>
+
+<p>wdx is an open-source daemon, CLI and terminal IDE that runs AI coding CLIs such as Claude Code, Codex, Cursor and Antigravity side by side on Linux and macOS, each agent optionally in its own git worktree, with its diff reviewed and landed from wdx.</p>
+
+<p><a href="https://github.com/srjn45/wdx">github</a></p>
+<p><strong>Capabilities:</strong> Run the user's installed coding agent CLIs, each in a pseudo-terminal that outlives the terminal and daemon restarts · Show whether each agent is working, waiting for an answer or idle · Give an agent its own git worktree and land its diff on the default branch or through a PR · Split a feature into dependent tasks and start an agent for each ready task · Offer every command with --json output and stable error codes for scripts and agents</p>
+<p><strong>Interfaces:</strong> Terminal UI · CLI</p>
 </div>
 
 ### WinkTerm
