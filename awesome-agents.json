@@ -8505,6 +8505,31 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "id": "borg-2daf1dea",
+      "project": "Borg",
+      "project_description": "Borg is a personal AI assistant in Rust that runs as a self-healing daemon with sandboxed tool execution on macOS and Linux, provider failover, long-term memory, scheduled tasks, MCP, and chat over Telegram, Slack, Discord, Teams, WhatsApp, and iMessage.",
+      "has_public_repository": true,
+      "categories": [
+        "AI Agents",
+        "Long-Term Memory",
+        "Local Inference",
+        "Personal Assistants",
+        "Terminal-Friendly"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/adelphidata/borg",
+          "repository_owner": "adelphidata",
+          "repository_owner_url": "https://github.com/adelphidata",
+          "stars": 9,
+          "stars_last_updated": "2026-11-12T00:00:00Z",
+          "repository_checked_at": "2026-11-12T00:00:00Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [

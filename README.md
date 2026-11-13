@@ -20,7 +20,7 @@ Listings require a public project repository on GitHub, GitLab.com, or Codeberg.
 Pick a category, open it, and choose a project to jump straight to its listing. A project with more than one category appears under each of them.
 
 <details>
-<summary>🤖 AI Agents (103)</summary>
+<summary>🤖 AI Agents (104)</summary>
 <ul>
 <li><a href="#agent-007">Agent 007</a></li>
 <li><a href="#agent-argue">Agent Argue</a></li>
@@ -50,6 +50,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 <li><a href="#basedagents">BasedAgents</a></li>
 <li><a href="#blackvault">BlackVault</a></li>
 <li><a href="#blave-agent">Blave Agent</a></li>
+<li><a href="#borg">Borg</a></li>
 <li><a href="#browsingagent-by-agency-swarm">BrowsingAgent by Agency Swarm</a></li>
 <li><a href="#calai">Cal.ai</a></li>
 <li><a href="#cerebrumkit">CerebrumKit</a></li>
@@ -129,9 +130,10 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 </details>
 
 <details>
-<summary>🧠 Long-Term Memory (25)</summary>
+<summary>🧠 Long-Term Memory (26)</summary>
 <ul>
 <li><a href="#agent-body">Agent-Body</a></li>
+<li><a href="#borg">Borg</a></li>
 <li><a href="#contextstream">ContextStream</a></li>
 <li><a href="#corellis">Corellis</a></li>
 <li><a href="#cortex-memory">Cortex Memory</a></li>
@@ -301,9 +303,10 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 </details>
 
 <details>
-<summary>💻 Local Inference (10)</summary>
+<summary>💻 Local Inference (11)</summary>
 <ul>
 <li><a href="#atomic-agent">Atomic Agent</a></li>
+<li><a href="#borg">Borg</a></li>
 <li><a href="#corvinos">CorvinOS</a></li>
 <li><a href="#jan">Jan</a></li>
 <li><a href="#localgpt">LocalGPT</a></li>
@@ -491,13 +494,14 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 </details>
 
 <details>
-<summary>💻 Terminal-Friendly (15)</summary>
+<summary>💻 Terminal-Friendly (16)</summary>
 <ul>
 <li><a href="#agent-manager">agent-manager</a></li>
 <li><a href="#agenttrace">AgentTrace</a></li>
 <li><a href="#anus">ANUS</a></li>
 <li><a href="#atomic-agent">Atomic Agent</a></li>
 <li><a href="#ax">ax</a></li>
+<li><a href="#borg">Borg</a></li>
 <li><a href="#coven">Coven</a></li>
 <li><a href="#gptme">gptme</a></li>
 <li><a href="#hermes-agent">Hermes Agent</a></li>
@@ -519,8 +523,9 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 </details>
 
 <details>
-<summary>👤 Personal Assistants (12)</summary>
+<summary>👤 Personal Assistants (13)</summary>
 <ul>
+<li><a href="#borg">Borg</a></li>
 <li><a href="#cogito-studio">Cogito Studio</a></li>
 <li><a href="#hermes-agent-chinese-pack">Hermes Agent Chinese Pack</a></li>
 <li><a href="#hivekeep">Hivekeep</a></li>
@@ -1412,6 +1417,17 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/Blave-TW/blave-agent">github</a></p>
 <p><strong>Capabilities:</strong> Agent-assisted strategy development · Backtesting and robustness analysis · Deterministic trading automation</p>
 <p><strong>Interfaces:</strong> macOS desktop app · Claude Code and Codex integration</p>
+</div>
+
+### Borg
+<div><a href="https://github.com/adelphidata/borg"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/adelphidata/borg"><img src="https://img.shields.io/github/stars/adelphidata/borg?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/adelphidata">@adelphidata</a></p>
+<p>⭐ 9 stars</p>
+<p>🤖 AI Agents | 💻 Local Inference | 🧠 Long-Term Memory | 👤 Personal Assistants | 💻 Terminal-Friendly</p>
+
+<p>Borg is a personal AI assistant in Rust that runs as a self-healing daemon with sandboxed tool execution on macOS and Linux, provider failover, long-term memory, scheduled tasks, MCP, and chat over Telegram, Slack, Discord, Teams, WhatsApp, and iMessage.</p>
+
+<p><a href="https://github.com/adelphidata/borg">github</a></p>
 </div>
 
 ### browser-use
