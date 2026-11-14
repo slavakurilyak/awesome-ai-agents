@@ -8505,6 +8505,27 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "id": "kodama-45e28cb2",
+      "project": "Kodama",
+      "project_description": "API-first, multi-tenant software factory that runs sequential container pipelines and AI coding agents (Claude Code, OpenCode, Codex, Pi, or native kodama agent) on rootless Podman 5 locally and Kubernetes Jobs in production, with PostgreSQL RLS, NATS JetStream, REST/MCP edges, gitolite-style Git access rules, and human-in-the-loop role inbox approvals.",
+      "has_public_repository": true,
+      "categories": [
+        "AI Agents",
+        "Flow Engineering (Platform Engineering)"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/optimiware/kodama",
+          "repository_owner": "optimiware",
+          "repository_owner_url": "https://github.com/optimiware",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-11-14T23:19:19Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [

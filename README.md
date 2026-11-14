@@ -20,7 +20,7 @@ Listings require a public project repository on GitHub, GitLab.com, or Codeberg.
 Pick a category, open it, and choose a project to jump straight to its listing. A project with more than one category appears under each of them.
 
 <details>
-<summary>🤖 AI Agents (103)</summary>
+<summary>🤖 AI Agents (104)</summary>
 <ul>
 <li><a href="#agent-007">Agent 007</a></li>
 <li><a href="#agent-argue">Agent Argue</a></li>
@@ -78,6 +78,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 <li><a href="#insumerapi-agent-tools">InsumerAPI Agent Tools</a></li>
 <li><a href="#jev-social">Jev Social</a></li>
 <li><a href="#k8s4claw">k8s4claw</a></li>
+<li><a href="#kodama">Kodama</a></li>
 <li><a href="#kubestellar-console">KubeStellar Console</a></li>
 <li><a href="#looptroop">LoopTroop</a></li>
 <li><a href="#maestro">Maestro</a></li>
@@ -480,10 +481,11 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 </details>
 
 <details>
-<summary>🔄 Flow Engineering (Platform Engineering) (5)</summary>
+<summary>🔄 Flow Engineering (Platform Engineering) (6)</summary>
 <ul>
 <li><a href="#covey">covey</a></li>
 <li><a href="#dspy">DSPY</a></li>
+<li><a href="#kodama">Kodama</a></li>
 <li><a href="#maestro">Maestro</a></li>
 <li><a href="#rote">rote</a></li>
 <li><a href="#tale">Tale</a></li>
@@ -2440,6 +2442,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/theNamek/kith">github</a></p>
 <p><strong>Capabilities:</strong> Record append-only observations about other principals · Derive trust, reliability, sentiment, and capability views · Enforce visibility scope across reads and derived views</p>
 <p><strong>Interfaces:</strong> Python library · LangGraph adapter · MemoryProvider plugin · A2A integration</p>
+</div>
+
+### Kodama
+<div><a href="https://github.com/optimiware/kodama"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/optimiware/kodama"><img src="https://img.shields.io/github/stars/optimiware/kodama?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/mod">@mod</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/970">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/970">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/optimiware">@optimiware</a></p>
+<p>🤖 AI Agents | 🔄 Flow Engineering (Platform Engineering)</p>
+
+<p>API-first, multi-tenant software factory that runs sequential container pipelines and AI coding agents (Claude Code, OpenCode, Codex, Pi, or native kodama agent) on rootless Podman 5 locally and Kubernetes Jobs in production, with PostgreSQL RLS, NATS JetStream, REST/MCP edges, gitolite-style Git access rules, and human-in-the-loop role inbox approvals.</p>
+
+<p><a href="https://github.com/optimiware/kodama">github</a></p>
 </div>
 
 ### Kodo
