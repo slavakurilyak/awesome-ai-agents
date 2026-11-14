@@ -2446,7 +2446,7 @@ Here's an awesome list of AI agents:
 
 ### Kodama
 <div><a href="https://github.com/optimiware/kodama"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/optimiware/kodama"><img src="https://img.shields.io/github/stars/optimiware/kodama?style=social" alt="GitHub stars"></a></div>
-<p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/optimiware">@optimiware</a></p>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/mod">@mod</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/970">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/970">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/optimiware">@optimiware</a></p>
 <p>🤖 AI Agents | 🔄 Flow Engineering (Platform Engineering)</p>
 
 <p>API-first, multi-tenant software factory that runs sequential container pipelines and AI coding agents (Claude Code, OpenCode, Codex, Pi, or native kodama agent) on rootless Podman 5 locally and Kubernetes Jobs in production, with PostgreSQL RLS, NATS JetStream, REST/MCP edges, gitolite-style Git access rules, and human-in-the-loop role inbox approvals.</p>
