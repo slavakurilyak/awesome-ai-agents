@@ -2284,7 +2284,7 @@ Here's an awesome list of AI agents:
 
 ### Houston
 <div><a href="https://github.com/Tanramisu/Houston"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Tanramisu/Houston"><img src="https://img.shields.io/github/stars/Tanramisu/Houston?style=social" alt="GitHub stars"></a></div>
-<p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/Tanramisu">@Tanramisu</a></p>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/Tanramisu">@Tanramisu</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/972">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/972">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/Tanramisu">@Tanramisu</a></p>
 <p>💻 Operating System (OS)</p>
 
 <p>Houston is a Windows service that lets a web-based AI operate your local computer: the AI writes task files into a synced folder such as Google Drive, Houston executes them on the PC (running commands, working with files, taking screenshots), and writes the results back for the AI to read.</p>

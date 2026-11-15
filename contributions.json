@@ -1381,6 +1381,19 @@
           "status": "self_reported"
         }
       ]
+    },
+    {
+      "project_id": "houston-25db1194",
+      "submitted_by": [
+        {
+          "github_id": 197588742,
+          "login": "Tanramisu",
+          "evidence_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/972",
+          "acceptance_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/972",
+          "at": "2026-11-15T20:27:41Z",
+          "status": "accepted_submission"
+        }
+      ]
     }
   ]
 }
