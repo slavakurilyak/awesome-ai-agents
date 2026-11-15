@@ -8505,6 +8505,26 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "id": "houston-25db1194",
+      "project": "Houston",
+      "project_description": "Houston is a Windows service that lets a web-based AI operate your local computer: the AI writes task files into a synced folder such as Google Drive, Houston executes them on the PC (running commands, working with files, taking screenshots), and writes the results back for the AI to read.",
+      "has_public_repository": true,
+      "categories": [
+        "Operating System (OS)"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/Tanramisu/Houston",
+          "repository_owner": "Tanramisu",
+          "repository_owner_url": "https://github.com/Tanramisu",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-11-15T20:27:15Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [

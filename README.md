@@ -349,10 +349,11 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 </details>
 
 <details>
-<summary>💻 Operating System (OS) (9)</summary>
+<summary>💻 Operating System (OS) (10)</summary>
 <ul>
 <li><a href="#corvinos">CorvinOS</a></li>
 <li><a href="#fazm">Fazm</a></li>
+<li><a href="#houston">Houston</a></li>
 <li><a href="#jevme">jevme</a></li>
 <li><a href="#moching">Moching</a></li>
 <li><a href="#open-interpreter">Open Interpreter</a></li>
@@ -2279,6 +2280,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/rusharlabs/house-party-protocol">github</a></p>
 <p><strong>Capabilities:</strong> Run a criterion command with its exit code recorded outside the model and its artifacts hashed · Refuse an attestation from the builder own lane or model family and bind approvals to the spec hash, base commit and file snapshot · Report pass@k and pass^k separately over repeated runs and gate on the result</p>
 <p><strong>Interfaces:</strong> CLI</p>
+</div>
+
+### Houston
+<div><a href="https://github.com/Tanramisu/Houston"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/Tanramisu/Houston"><img src="https://img.shields.io/github/stars/Tanramisu/Houston?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/Tanramisu">@Tanramisu</a></p>
+<p>💻 Operating System (OS)</p>
+
+<p>Houston is a Windows service that lets a web-based AI operate your local computer: the AI writes task files into a synced folder such as Google Drive, Houston executes them on the PC (running commands, working with files, taking screenshots), and writes the results back for the AI to read.</p>
+
+<p><a href="https://github.com/Tanramisu/Houston">github</a></p>
 </div>
 
 ### Human Pages MCP Server
