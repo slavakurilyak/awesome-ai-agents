@@ -8505,6 +8505,38 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "id": "wdx-997e86c1",
+      "project": "wdx",
+      "project_description": "wdx is an open-source daemon, CLI and terminal IDE that runs AI coding CLIs such as Claude Code, Codex, Cursor and Antigravity side by side on Linux and macOS, each agent optionally in its own git worktree, with its diff reviewed and landed from wdx.",
+      "has_public_repository": true,
+      "categories": [
+        "AI Agents",
+        "Terminal-Friendly"
+      ],
+      "capabilities": [
+        "Run the user's installed coding agent CLIs, each in a pseudo-terminal that outlives the terminal and daemon restarts",
+        "Show whether each agent is working, waiting for an answer or idle",
+        "Give an agent its own git worktree and land its diff on the default branch or through a PR",
+        "Split a feature into dependent tasks and start an agent for each ready task",
+        "Offer every command with --json output and stable error codes for scripts and agents"
+      ],
+      "interfaces": [
+        "Terminal UI",
+        "CLI"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/srjn45/wdx",
+          "repository_owner": "srjn45",
+          "repository_owner_url": "https://github.com/srjn45",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-11-12T14:11:35Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [

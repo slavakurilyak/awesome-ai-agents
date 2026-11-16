@@ -1381,6 +1381,19 @@
           "status": "self_reported"
         }
       ]
+    },
+    {
+      "project_id": "wdx-997e86c1",
+      "submitted_by": [
+        {
+          "github_id": 29410402,
+          "login": "srjn45",
+          "evidence_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/960",
+          "acceptance_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/960",
+          "at": "2026-11-12T14:11:51Z",
+          "status": "accepted_submission"
+        }
+      ]
     }
   ]
 }
