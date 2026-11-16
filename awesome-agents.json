@@ -1,6 +1,33 @@
 {
   "agents": [
     {
+      "id": "astralbeam-091739ca",
+      "project": "AstralBeam",
+      "project_description": "AstralBeam adds an embeddable AI agent to existing web apps, with React and JavaScript integrations, host-app tools, inline UI widgets, file handling, conversation history, and per-customer usage limits. It can be self-hosted or used with a managed backend.",
+      "has_public_repository": true,
+      "categories": [
+        "Development Frameworks",
+        "Tool Calling (Function Calling)",
+        "UI Development"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/AstralBeamAI/astralbeam",
+          "repository_owner": "AstralBeamAI",
+          "repository_owner_url": "https://github.com/AstralBeamAI",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-11-16T11:14:00Z",
+          "repository_status": "active"
+        },
+        {
+          "source": "website",
+          "source_url": "https://astralbeam.ai/",
+          "stars_last_updated": null
+        }
+      ]
+    },
+    {
       "id": "aster-712d33a8",
       "project": "Aster",
       "project_description": "Aster is a local-first software-engineering agent that uses shared tools, permissions, memory, skills, and retrieval for chat, code review, and fixes.",

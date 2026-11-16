@@ -76,6 +76,20 @@
       ]
     },
     {
+      "project_id": "astralbeam-091739ca",
+      "submitted_by": [
+        {
+          "github_id": 769950,
+          "login": "mintuhouse",
+          "evidence_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/973",
+          "acceptance_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/973",
+          "at": "2026-11-16T11:15:49Z",
+          "status": "accepted_submission",
+          "founder_team_claim": true
+        }
+      ]
+    },
+    {
       "project_id": "awesome-embodied-ai-safety-2a81af89",
       "submitted_by": [
         {

@@ -160,7 +160,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 </details>
 
 <details>
-<summary>⚙️ Development Frameworks (89)</summary>
+<summary>⚙️ Development Frameworks (90)</summary>
 <ul>
 <li><a href="#agency-swarm-by-vrsen">Agency Swarm by VRSEN</a></li>
 <li><a href="#agent-express">Agent Express</a></li>
@@ -178,6 +178,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 <li><a href="#aiwg">AIWG</a></li>
 <li><a href="#arachne">Arachne</a></li>
 <li><a href="#arch-tools">Arch Tools</a></li>
+<li><a href="#astralbeam">AstralBeam</a></li>
 <li><a href="#autogen-by-microsoft">AutoGen by Microsoft</a></li>
 <li><a href="#autogen-studio-by-microsoft">AutoGen Studio by Microsoft</a></li>
 <li><a href="#autohand-code-cli">Autohand Code CLI</a></li>
@@ -415,13 +416,14 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 </details>
 
 <details>
-<summary>🔧 Tool Calling (Function Calling) (24)</summary>
+<summary>🔧 Tool Calling (Function Calling) (25)</summary>
 <ul>
 <li><a href="#agent-trust-stack-mcp-server">Agent Trust Stack MCP Server</a></li>
 <li><a href="#agent-body">Agent-Body</a></li>
 <li><a href="#ai-for-database-mcp-server">AI for Database MCP Server</a></li>
 <li><a href="#aigen-protocol">AIGEN Protocol</a></li>
 <li><a href="#arch-tools">Arch Tools</a></li>
+<li><a href="#astralbeam">AstralBeam</a></li>
 <li><a href="#baizhi-agent-toolkit">Baizhi Agent Toolkit</a></li>
 <li><a href="#bulkpublish">BulkPublish</a></li>
 <li><a href="#buywhere-mcp-server">BuyWhere MCP Server</a></li>
@@ -445,10 +447,11 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 </details>
 
 <details>
-<summary>🖥️ UI Development (9)</summary>
+<summary>🖥️ UI Development (10)</summary>
 <ul>
 <li><a href="#ai-sdk-by-vercel">AI SDK by Vercel</a></li>
 <li><a href="#ai-artifacts">ai-artifacts</a></li>
+<li><a href="#astralbeam">AstralBeam</a></li>
 <li><a href="#bestax-mcp">bestax-mcp</a></li>
 <li><a href="#cogito-studio">Cogito Studio</a></li>
 <li><a href="#dsh-studio">DSH Studio</a></li>
@@ -1185,6 +1188,16 @@ Here's an awesome list of AI agents:
 <p>Aster is a local-first software-engineering agent that uses shared tools, permissions, memory, skills, and retrieval for chat, code review, and fixes.</p>
 
 <p><a href="https://github.com/Zfinix/aster">github</a></p>
+</div>
+
+### AstralBeam
+<div><a href="https://github.com/AstralBeamAI/astralbeam"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/AstralBeamAI/astralbeam"><img src="https://img.shields.io/github/stars/AstralBeamAI/astralbeam?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/mintuhouse">@mintuhouse</a> <small>(self-reported founder/team)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/973">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/973">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/AstralBeamAI">@AstralBeamAI</a></p>
+<p>⚙️ Development Frameworks | 🔧 Tool Calling (Function Calling) | 🖥️ UI Development</p>
+
+<p>AstralBeam adds an embeddable AI agent to existing web apps, with React and JavaScript integrations, host-app tools, inline UI widgets, file handling, conversation history, and per-customer usage limits. It can be self-hosted or used with a managed backend.</p>
+
+<p><a href="https://github.com/AstralBeamAI/astralbeam">github</a> | <a href="https://astralbeam.ai/">website</a></p>
 </div>
 
 ### Atomic Agent
