@@ -8505,6 +8505,27 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "id": "open-resume-agent-ora-e69075b4",
+      "project": "Open Resume Agent (ORA)",
+      "project_description": "Open Resume Agent (ORA): an open spec and MCP server that turns a career record into a model-agnostic agent file; answers fit questions and generates resumes (docx, pdf, html, md, json) within the owner's privacy limits.",
+      "has_public_repository": true,
+      "categories": [
+        "MCP Servers",
+        "Standardization"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/open-resume-agent/open-resume-agent",
+          "repository_owner": "open-resume-agent",
+          "repository_owner_url": "https://github.com/open-resume-agent",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-11-17T08:23:55Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [

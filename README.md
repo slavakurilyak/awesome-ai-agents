@@ -325,7 +325,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 </details>
 
 <details>
-<summary>📏 Standardization (11)</summary>
+<summary>📏 Standardization (12)</summary>
 <ul>
 <li><a href="#agentstamp">AgentStamp</a></li>
 <li><a href="#aigen-protocol">AIGEN Protocol</a></li>
@@ -335,6 +335,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 <li><a href="#gcf-graph-compact-format">GCF (Graph Compact Format)</a></li>
 <li><a href="#hol-standards-sdk">HOL Standards SDK</a></li>
 <li><a href="#model-context-protocol">Model Context Protocol</a></li>
+<li><a href="#open-resume-agent-ora">Open Resume Agent (ORA)</a></li>
 <li><a href="#pilot-protocol">Pilot Protocol</a></li>
 <li><a href="#the-genesis-accord">The Genesis Accord</a></li>
 <li><a href="#the-polyglot-protocol">The Polyglot Protocol</a></li>
@@ -537,7 +538,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 </details>
 
 <details>
-<summary>🔌 MCP Servers (21)</summary>
+<summary>🔌 MCP Servers (22)</summary>
 <ul>
 <li><a href="#agentservices">AgentServices</a></li>
 <li><a href="#ai-for-database-mcp-server">AI for Database MCP Server</a></li>
@@ -551,6 +552,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 <li><a href="#human-pages-mcp-server">Human Pages MCP Server</a></li>
 <li><a href="#hyperconsciousness">Hyperconsciousness</a></li>
 <li><a href="#metorial">Metorial</a></li>
+<li><a href="#open-resume-agent-ora">Open Resume Agent (ORA)</a></li>
 <li><a href="#playwright-mcp">Playwright MCP</a></li>
 <li><a href="#posteverywhere">PostEverywhere</a></li>
 <li><a href="#salt-mcp">Salt MCP</a></li>
@@ -3057,6 +3059,16 @@ Here's an awesome list of AI agents:
 <p>Open Interpreter is a coding agent enabling language models to execute code locally, facilitating natural-language interaction with your computer's capabilities, overcoming limitations of hosted solutions like internet access and package restrictions. It features interactive and programmatic chats, system message customization, and can control your computer's keyboard and mouse, allowing for enhanced control and flexibility in development environments</p>
 
 <p><a href="https://github.com/OpenInterpreter/open-interpreter">github</a></p>
+</div>
+
+### Open Resume Agent (ORA)
+<div><a href="https://github.com/open-resume-agent/open-resume-agent"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/open-resume-agent/open-resume-agent"><img src="https://img.shields.io/github/stars/open-resume-agent/open-resume-agent?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/sangameshh">@sangameshh</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/979">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/979">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/open-resume-agent">@open-resume-agent</a></p>
+<p>🔌 MCP Servers | 📏 Standardization</p>
+
+<p>Open Resume Agent (ORA): an open spec and MCP server that turns a career record into a model-agnostic agent file; answers fit questions and generates resumes (docx, pdf, html, md, json) within the owner's privacy limits.</p>
+
+<p><a href="https://github.com/open-resume-agent/open-resume-agent">github</a></p>
 </div>
 
 ### OpenAgent
