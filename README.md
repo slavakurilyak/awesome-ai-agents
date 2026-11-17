@@ -3063,7 +3063,7 @@ Here's an awesome list of AI agents:
 
 ### Open Resume Agent (ORA)
 <div><a href="https://github.com/open-resume-agent/open-resume-agent"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/open-resume-agent/open-resume-agent"><img src="https://img.shields.io/github/stars/open-resume-agent/open-resume-agent?style=social" alt="GitHub stars"></a></div>
-<p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/open-resume-agent">@open-resume-agent</a></p>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/sangameshh">@sangameshh</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/979">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/979">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/open-resume-agent">@open-resume-agent</a></p>
 <p>🔌 MCP Servers | 📏 Standardization</p>
 
 <p>Open Resume Agent (ORA): an open spec and MCP server that turns a career record into a model-agnostic agent file; answers fit questions and generates resumes (docx, pdf, html, md, json) within the owner's privacy limits.</p>
