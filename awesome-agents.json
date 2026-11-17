@@ -4527,7 +4527,7 @@
     {
       "id": "due-diligence-agents-91c1d2ef",
       "project": "Due Diligence Agents",
-      "project_description": "A local forensic M\u0026A due-diligence application that coordinates specialist agents across nine domains and traces findings to source pages and quotations.",
+      "project_description": "A local forensic M&A due-diligence application that coordinates specialist agents across nine domains and traces findings to source pages and quotations.",
       "has_public_repository": true,
       "categories": [
         "AI Agents"
@@ -8502,6 +8502,27 @@
           "stars": 15,
           "stars_last_updated": "2026-10-04T07:11:53Z",
           "repository_checked_at": "2026-10-04T07:11:53Z",
+          "repository_status": "active"
+        }
+      ]
+    },
+    {
+      "id": "cian-endpoint-audit-4aa5a147",
+      "project": "Cian Endpoint Audit",
+      "project_description": "A remote MCP server that audits one public URL per call: TLS certificate validity and expiry, HTTP security headers, DNS records and reachable endpoints, returned as structured JSON so an agent can vet a domain before it fetches or signs anything there. Fully remote, no install, no account; the handshake is free and each audit is 0.05 USDC on Base via x402.",
+      "has_public_repository": true,
+      "categories": [
+        "MCP Servers"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/cian-spider/cian-endpoint-audit-mcp",
+          "repository_owner": "cian-spider",
+          "repository_owner_url": "https://github.com/cian-spider",
+          "stars": 0,
+          "stars_last_updated": "2026-11-17T02:17:00Z",
+          "repository_checked_at": "2026-11-17T02:17:00Z",
           "repository_status": "active"
         }
       ]
