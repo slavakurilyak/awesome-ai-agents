@@ -160,7 +160,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 </details>
 
 <details>
-<summary>⚙️ Development Frameworks (89)</summary>
+<summary>⚙️ Development Frameworks (90)</summary>
 <ul>
 <li><a href="#agency-swarm-by-vrsen">Agency Swarm by VRSEN</a></li>
 <li><a href="#agent-express">Agent Express</a></li>
@@ -201,6 +201,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 <li><a href="#golemcore-bot">GolemCore Bot</a></li>
 <li><a href="#google-adk">Google ADK</a></li>
 <li><a href="#gptme">gptme</a></li>
+<li><a href="#gradbot">Gradbot</a></li>
 <li><a href="#hagicode-desktop">HagiCode Desktop</a></li>
 <li><a href="#haystack">Haystack</a></li>
 <li><a href="#hive">Hive</a></li>
@@ -317,8 +318,9 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 </details>
 
 <details>
-<summary>⚡ Real-Time (2)</summary>
+<summary>⚡ Real-Time (3)</summary>
 <ul>
+<li><a href="#gradbot">Gradbot</a></li>
 <li><a href="#livekit-agents">LiveKit Agents</a></li>
 <li><a href="#sayna">Sayna</a></li>
 </ul>
@@ -2109,6 +2111,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/gptme/gptme">github</a></p>
 <p><strong>Capabilities:</strong> Use shell, Python, web, and vision tools to complete tasks · Run persistent autonomous agents across local and headless environments · Extend agents with plugins, skills, MCP, and ACP integrations</p>
 <p><strong>Interfaces:</strong> Terminal CLI · Python package · MCP · ACP</p>
+</div>
+
+### Gradbot
+<div><a href="https://github.com/gradium-ai/gradbot"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/gradium-ai/gradbot"><img src="https://img.shields.io/github/stars/gradium-ai/gradbot?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/ashwinexe">@ashwinexe</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/987">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/987">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/gradium-ai">@gradium-ai</a></p>
+<p>⚙️ Development Frameworks | ⚡ Real-Time</p>
+
+<p>Gradbot is a Rust and Python framework for prototyping voice agents with concurrent speech recognition, LLM inference and speech synthesis, turn-taking, interruptions and tool calling. It uses Gradium for speech and supports OpenAI-compatible LLM endpoints.</p>
+
+<p><a href="https://github.com/gradium-ai/gradbot">github</a></p>
 </div>
 
 ### Guardrails

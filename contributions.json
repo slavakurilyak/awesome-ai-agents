@@ -1381,6 +1381,19 @@
           "status": "self_reported"
         }
       ]
+    },
+    {
+      "project_id": "gradbot-a47792d2",
+      "submitted_by": [
+        {
+          "github_id": 53075480,
+          "login": "ashwinexe",
+          "evidence_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/987",
+          "acceptance_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/987",
+          "at": "2026-11-18T10:47:24Z",
+          "status": "accepted_submission"
+        }
+      ]
     }
   ]
 }
