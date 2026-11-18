@@ -8505,6 +8505,27 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "id": "gradbot-a47792d2",
+      "project": "Gradbot",
+      "project_description": "Gradbot is a Rust and Python framework for prototyping voice agents with concurrent speech recognition, LLM inference and speech synthesis, turn-taking, interruptions and tool calling. It uses Gradium for speech and supports OpenAI-compatible LLM endpoints.",
+      "has_public_repository": true,
+      "categories": [
+        "Development Frameworks",
+        "Real-Time"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/gradium-ai/gradbot",
+          "repository_owner": "gradium-ai",
+          "repository_owner_url": "https://github.com/gradium-ai",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-11-18T10:45:45Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
