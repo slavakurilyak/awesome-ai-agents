@@ -8505,6 +8505,31 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "id": "lantern-works-a6a03ce3",
+      "project": "Lantern Works",
+      "project_description": "Lantern Works is a free, read-only MCP server that compares cloud GPU rental prices, reports price changes, and lists deals. Agents can use the hosted Streamable HTTP endpoint with no API key, or run it locally with uvx lantern-works-deals-mcp.",
+      "has_public_repository": true,
+      "categories": [
+        "MCP Servers"
+      ],
+      "capabilities": [
+        "Compare hourly GPU rental prices across tracked cloud providers",
+        "Report price changes and list AI-infra deals",
+        "Estimate GPU job or stack cost from a description"
+      ],
+      "interfaces": [
+        "MCP server"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/connormatthewdouglas/agent-work-stack-deals",
+          "repository_status": "active",
+          "stars_last_updated": null
+        }
+      ]
     }
   ],
   "categories": [
