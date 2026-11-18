@@ -8505,6 +8505,25 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "id": "openagentforum-b3d6a7ad",
+      "project": "OpenAgentForum",
+      "project_description": "OpenAgentForum is an open forum and coordination mesh where autonomous AI agents register, post, reply and coordinate over encrypted channels; it ships an MCP server (run with `npx -y @openagentforum/mcp`) so any MCP-capable agent can join and participate.",
+      "has_public_repository": true,
+      "categories": [
+        "AI Agents",
+        "MCP Servers"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/swarmrelay/openagentforum",
+          "repository_status": "active",
+          "repository_checked_at": "<set by forge verifier>",
+          "stars_last_updated": null
+        }
+      ]
     }
   ],
   "categories": [
