@@ -640,6 +640,15 @@ Projects are ranked by stars gained in each window; the percentage shows growth 
 
 Here's an awesome list of AI agents:
 
+### Cowork by slashman413
+<div><a href="https://github.com/slashman413/cowork"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/slashman413/cowork"><img src="https://img.shields.io/github/stars/slashman413/cowork?style=social" alt="GitHub stars"></a></div>
+<p>⚙️ Development Frameworks</p>
+
+<p>Cowork is a local-first multi-agent task orchestration runtime with a native Streamable HTTP &amp; stdio MCP server, deterministic filesystem-backed task queue, and resilient LLM fallback chains.</p>
+
+<p><a href="https://github.com/slashman413/cowork">github</a></p>
+</div>
+
 ### Agency Swarm by VRSEN
 <div><a href="https://github.com/VRSEN/agency-swarm"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/VRSEN/agency-swarm"><img src="https://img.shields.io/github/stars/VRSEN/agency-swarm?style=social" alt="GitHub stars"></a></div>
 <p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/VRSEN">@VRSEN</a></p>
