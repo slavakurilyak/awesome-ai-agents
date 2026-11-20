@@ -3996,7 +3996,7 @@ Here's an awesome list of AI agents:
 
 ### TEN Framework
 <div><a href="https://github.com/TEN-framework/ten-framework"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/TEN-framework/ten-framework"><img src="https://img.shields.io/github/stars/TEN-framework/ten-framework?style=social" alt="GitHub stars"></a></div>
-<p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/TEN-framework">@TEN-framework</a></p>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/liqingxuan886">@liqingxuan886</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/998">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/998">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/TEN-framework">@TEN-framework</a></p>
 <p>⚙️ Development Frameworks | ⚡ Real-Time</p>
 
 <p>TEN is an open-source framework for real-time multimodal conversational AI.</p>
