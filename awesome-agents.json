@@ -8505,6 +8505,27 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "id": "ten-framework-a53ce6ba",
+      "project": "TEN Framework",
+      "project_description": "TEN is an open-source framework for real-time multimodal conversational AI.",
+      "has_public_repository": true,
+      "categories": [
+        "Development Frameworks",
+        "Real-Time"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/TEN-framework/ten-framework",
+          "repository_owner": "TEN-framework",
+          "repository_owner_url": "https://github.com/TEN-framework",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-11-20T02:27:36Z",
+          "repository_status": "active"
+        }
+      ]
     }
   ],
   "categories": [
