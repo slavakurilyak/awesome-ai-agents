@@ -160,7 +160,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 </details>
 
 <details>
-<summary>⚙️ Development Frameworks (89)</summary>
+<summary>⚙️ Development Frameworks (90)</summary>
 <ul>
 <li><a href="#agency-swarm-by-vrsen">Agency Swarm by VRSEN</a></li>
 <li><a href="#agent-express">Agent Express</a></li>
@@ -243,6 +243,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 <li><a href="#swarms">Swarms</a></li>
 <li><a href="#swe-agent">SWE-agent</a></li>
 <li><a href="#teamhero">TeamHero</a></li>
+<li><a href="#ten-framework">TEN Framework</a></li>
 <li><a href="#the-forge">The Forge</a></li>
 <li><a href="#titan">TITAN</a></li>
 <li><a href="#uagents-by-fetch-ai">uAgents by Fetch AI</a></li>
@@ -317,10 +318,11 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 </details>
 
 <details>
-<summary>⚡ Real-Time (2)</summary>
+<summary>⚡ Real-Time (3)</summary>
 <ul>
 <li><a href="#livekit-agents">LiveKit Agents</a></li>
 <li><a href="#sayna">Sayna</a></li>
+<li><a href="#ten-framework">TEN Framework</a></li>
 </ul>
 </details>
 
@@ -3990,6 +3992,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/sagiyaacoby/TeamHero">github</a></p>
 <p><strong>Capabilities:</strong> Plan, assign, review, and track agent tasks and deliverables · Maintain persistent memory and a shared knowledge base for agent teams · Coordinate file ownership to prevent conflicting edits</p>
 <p><strong>Interfaces:</strong> Web dashboard · Integrated terminal · Claude Code</p>
+</div>
+
+### TEN Framework
+<div><a href="https://github.com/TEN-framework/ten-framework"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/TEN-framework/ten-framework"><img src="https://img.shields.io/github/stars/TEN-framework/ten-framework?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/liqingxuan886">@liqingxuan886</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/998">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/998">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/TEN-framework">@TEN-framework</a></p>
+<p>⚙️ Development Frameworks | ⚡ Real-Time</p>
+
+<p>TEN is an open-source framework for real-time multimodal conversational AI.</p>
+
+<p><a href="https://github.com/TEN-framework/ten-framework">github</a></p>
 </div>
 
 ### The Agentic Leaderboard

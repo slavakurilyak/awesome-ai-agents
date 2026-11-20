@@ -1381,6 +1381,19 @@
           "status": "self_reported"
         }
       ]
+    },
+    {
+      "project_id": "ten-framework-a53ce6ba",
+      "submitted_by": [
+        {
+          "github_id": 327397205,
+          "login": "liqingxuan886",
+          "evidence_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/998",
+          "acceptance_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/998",
+          "at": "2026-11-20T02:28:38Z",
+          "status": "accepted_submission"
+        }
+      ]
     }
   ]
 }
