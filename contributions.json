@@ -1381,6 +1381,20 @@
           "status": "self_reported"
         }
       ]
+    },
+    {
+      "project_id": "three-ws-91f00179",
+      "submitted_by": [
+        {
+          "github_id": 22895867,
+          "login": "nirholas",
+          "evidence_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/740",
+          "acceptance_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/740",
+          "at": "2026-10-10T23:34:57Z",
+          "status": "accepted_submission",
+          "founder_team_claim": true
+        }
+      ]
     }
   ]
 }
