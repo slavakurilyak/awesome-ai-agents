@@ -537,7 +537,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 </details>
 
 <details>
-<summary>🔌 MCP Servers (21)</summary>
+<summary>🔌 MCP Servers (22)</summary>
 <ul>
 <li><a href="#agentservices">AgentServices</a></li>
 <li><a href="#ai-for-database-mcp-server">AI for Database MCP Server</a></li>
@@ -560,6 +560,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 <li><a href="#snaprender">SnapRender</a></li>
 <li><a href="#svrf">SVRF</a></li>
 <li><a href="#upload-post-mcp">Upload-Post MCP</a></li>
+<li><a href="#wa-mcp">WA MCP</a></li>
 </ul>
 </details>
 
@@ -4158,6 +4159,16 @@ Here's an awesome list of AI agents:
 <p>Vetto is a daemon-less, rootless sandbox that applies kernel-enforced security policies to AI coding agents, with agent command shims and MCP tool isolation.</p>
 
 <p><a href="https://github.com/shleder/vetto">github</a></p>
+</div>
+
+### WA MCP
+<div><a href="https://github.com/tsahospital-beep/wa-mcp"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/tsahospital-beep/wa-mcp"><img src="https://img.shields.io/github/stars/tsahospital-beep/wa-mcp?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/tsahospital-beep">@tsahospital-beep</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/1027">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/1027">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/tsahospital-beep">@tsahospital-beep</a></p>
+<p>🔌 MCP Servers</p>
+
+<p>WA MCP searches linked WhatsApp chats and voice transcripts through a local bridge. Sending is off by default.</p>
+
+<p><a href="https://github.com/tsahospital-beep/wa-mcp">github</a></p>
 </div>
 
 ### WinkTerm

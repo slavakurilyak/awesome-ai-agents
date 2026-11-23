@@ -1381,6 +1381,19 @@
           "status": "self_reported"
         }
       ]
+    },
+    {
+      "project_id": "wa-mcp-d8b5bae1",
+      "submitted_by": [
+        {
+          "github_id": 242187960,
+          "login": "tsahospital-beep",
+          "evidence_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/1027",
+          "acceptance_url": "https://github.com/slavakurilyak/awesome-ai-agents/pull/1027",
+          "at": "2026-11-23T16:46:41Z",
+          "status": "accepted_submission"
+        }
+      ]
     }
   ]
 }

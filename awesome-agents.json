@@ -1,6 +1,26 @@
 {
   "agents": [
     {
+      "id": "wa-mcp-d8b5bae1",
+      "project": "WA MCP",
+      "project_description": "WA MCP searches linked WhatsApp chats and voice transcripts through a local bridge. Sending is off by default.",
+      "has_public_repository": true,
+      "categories": [
+        "MCP Servers"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/tsahospital-beep/wa-mcp",
+          "repository_owner": "tsahospital-beep",
+          "repository_owner_url": "https://github.com/tsahospital-beep",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-11-23T16:45:05Z",
+          "repository_status": "active"
+        }
+      ]
+    },
+    {
       "id": "aster-712d33a8",
       "project": "Aster",
       "project_description": "Aster is a local-first software-engineering agent that uses shared tools, permissions, memory, skills, and retrieval for chat, code review, and fixes.",
