@@ -8505,6 +8505,22 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "project": "Pentest Swarm AI",
+      "project_description": "Pentest Swarm AI is a self-hosted system where a swarm of agents (recon, classification, exploitation, reporting) coordinates on a target and proves each finding with a working proof-of-concept, behind fail-closed scope, egress, and authorization guardrails.",
+      "has_public_repository": true,
+      "categories": [
+        "AI Agents"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/Armur-Ai/Pentest-Swarm-AI",
+          "repository_status": "active",
+          "stars_last_updated": null
+        }
+      ]
     }
   ],
   "categories": [
