@@ -4302,6 +4302,11 @@ To express your support, you can take the following actions:
 2. **Submit a Project**: Founders can [open a project submission issue](https://github.com/slavakurilyak/awesome-ai-agents/issues/new?template=project-submission.yml); the optional skill can help prepare evidence and details.
 3. **Contribute Directly**: Follow the [contribution guide](CONTRIBUTING.md), then fork this repository and submit a pull request.
 
+
+## Public Data APIs (Apify)
+
+- [Public Records MCP](https://github.com/GeminiGeorge22/publicrecords-mcp) - 18 Apify-hosted MCP servers for public data: SAM.gov, Grants.gov, USAspending, EU TED and UK tenders, city council meetings, Ashby/Greenhouse/Lever/SmartRecruiters jobs, company social links, Google Ads Transparency, Etsy sales, sports odds, Spotify play counts.
+
 ## 🚀 Star History
 
 <a href="https://star-history.com/#slavakurilyak/awesome-ai-agents&Date">
