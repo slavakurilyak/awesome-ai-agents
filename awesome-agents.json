@@ -8509,7 +8509,7 @@
     {
       "id": "lantern-works-a6a03ce3",
       "project": "Lantern Works",
-      "project_description": "Lantern Works is a free, read-only MCP server that compares cloud GPU rental prices, reports price changes, and lists deals. Agents can use the hosted Streamable HTTP endpoint with no API key, or run it locally with uvx lantern-works-deals-mcp.",
+      "project_description": "Lantern Works is a free MCP server that compares cloud GPU rental prices, reports price changes, and lists deals. The local uvx package is read-only; the hosted endpoint adds optional price watches and alerts. Agents can use the hosted Streamable HTTP endpoint with no API key, or run it locally with uvx lantern-works-deals-mcp.",
       "has_public_repository": true,
       "categories": [
         "MCP Servers"
